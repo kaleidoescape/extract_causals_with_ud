@@ -1,0 +1,832 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938484</article-id><article-id pub-id-type="pmc">6953569</article-id><article-id pub-id-type="doi">10.1002/ece3.5818</article-id><article-id pub-id-type="publisher-id">ECE35818</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Flight responses of eastern gray kangaroos to benign or harmful human behavior</article-title><alt-title alt-title-type="left-running-head">AUSTIN and RAMP</alt-title></title-group><contrib-group><contrib id="ece35818-cr-0001" contrib-type="author" corresp="yes"><name><surname>Austin</surname><given-names>Caitlin M.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0949-8314</contrib-id><xref ref-type="aff" rid="ece35818-aff-0001">
+<sup>1</sup>
+</xref><address><email>Caitlin.Austin@uts.edu.au</email></address></contrib><contrib id="ece35818-cr-0002" contrib-type="author" corresp="yes"><name><surname>Ramp</surname><given-names>Daniel</given-names></name><xref ref-type="aff" rid="ece35818-aff-0001">
+<sup>1</sup>
+</xref><address><email>Daniel.Ramp@uts.edu.au</email></address></contrib></contrib-group><aff id="ece35818-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Centre for Compassionate Conservation</named-content>
+<named-content content-type="organisation-division">Faculty of Science</named-content>
+<institution>University of Technology Sydney</institution>
+<city>Ultimo</city>
+<named-content content-type="country-part">NSW</named-content>
+<country country="AU">Australia</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Caitlin M. Austin and Daniel Ramp, Centre for Compassionate Conservation, Faculty of Science, University of Technology Sydney, Ultimo, NSW 2007, Australia.<break/>
+Email: <email>Caitlin.Austin@uts.edu.au</email> (C. M. A.) and <email>Daniel.Ramp@uts.edu.au</email> (D. R.)<break/></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>13824</fpage><lpage>13834</lpage><history><date date-type="received"><day>02</day><month>9</month><year>2019</year></date><date date-type="rev-recd"><day>01</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>04</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-13824.pdf"/><abstract id="ece35818-abs-0001"><title>Abstract</title><p>Globally, wilderness is being converted for rural and agricultural land use. In countryside landscapes, many habitat structures remain intact, providing suitable habitat for wildlife species that can accurately assess novel risks and develop tolerance to benign disturbances. Associative learning that promotes avoidance and also facilitates desensitization to benign disturbance is key to persisting in these landscapes. Conversely, learning to distinguish and avoid negative interactions with humans, like hunting, is vital. To determine if eastern gray kangaroos are capable of learning from previous interactions with humans, we tested the flight responses of wild kangaroos which have previously experienced either low or high frequencies of harmful and benign encounters with humans. We found that eastern gray kangaroos rapidly habituated to benign disturbance as there was no significant difference in assessment distance between groups that previously experienced low or high frequencies of disturbance. The threat of harmful disturbances was not as quickly learnt, as groups that experienced low frequencies of harmful disturbance delayed flight longer than those experiencing frequent harm. We found that the influence of environmental and group parameters on a kangaroo's decision to flee depended on the intent and frequency of previous interactions with humans. Our study indicates that kangaroos are learning from previous encounters with humans, correctly assessing novel risks which may be contributing to their persistence in countryside landscapes.</p></abstract><abstract abstract-type="graphical" id="ece35818-abs-0002"><p>Countryside landscapes provide novel resources and opportunities for species that can accurately assess the complexity of human activities, distinguishing between benign and harmful disturbance. This study found that eastern grey kangaroos are learning from previous interactions with humans; habituating to benign disturbances and perceiving humans as threatening when previous interactions have been harmful. Adaption to anthropogenic disturbances may be contributing to their persistence in these countryside landscapes.<boxed-text position="anchor" content-type="graphic" id="ece35818-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-13824-g005.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35818-kwd-0001">coexistence</kwd><kwd id="ece35818-kwd-0002">countryside landscapes</kwd><kwd id="ece35818-kwd-0003">eastern gray kangaroos</kwd><kwd id="ece35818-kwd-0004">flight initiation distance</kwd><kwd id="ece35818-kwd-0005">human behavior</kwd><kwd id="ece35818-kwd-0006">human&#x02013;wildlife interactions</kwd><kwd id="ece35818-kwd-0007">hunting</kwd><kwd id="ece35818-kwd-0008"><italic>Macropus giganteus</italic></kwd><kwd id="ece35818-kwd-0009">shooting</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Detroit Zoological Society</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="1"/><page-count count="11"/><word-count count="8658"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35818-cit-1001">
+<string-name>
+<surname>Austin</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Ramp</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Flight responses of eastern gray kangaroos to benign or harmful human behavior</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>13824</fpage>&#x02013;<lpage>13834</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5818</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35818-body-0001"><sec id="ece35818-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Humans present a complex mix of negative and beneficial circumstances for many wildlife species. On one hand, the actions of humans have catastrophic unintended consequences for wildlife as their homes are either modified or occupied by development and land use (Fraser &#x00026; MacRae, <xref rid="ece35818-bib-0044" ref-type="ref">2011</xref>). Wilderness, defined as areas that are mostly void of human presence, has declined by 9.6% in the last 20&#x000a0;years as the human population expands (Watson et al., <xref rid="ece35818-bib-0091" ref-type="ref">2016</xref>), while agriculture now utilizes roughly 30% of the ice&#x02010;free terrestrial land surface (FAO, <xref rid="ece35818-bib-0043" ref-type="ref">2012</xref>). However, where wildlife persist, they are increasingly challenged by having to accommodate humans in their daily routine (Soulsbury &#x00026; White, <xref rid="ece35818-bib-0083" ref-type="ref">2016</xref>). For some, this creates novel opportunities to gain resources like exploiting waste and refuse (Gabrey, <xref rid="ece35818-bib-0046" ref-type="ref">1997</xref>; Ross, <xref rid="ece35818-bib-0077" ref-type="ref">2004</xref>), opportunities to share homes (Russell, Bowman, Herbert, &#x00026; Kohen, <xref rid="ece35818-bib-0078" ref-type="ref">2011</xref>), and many positive interactions like supplemental feeding (Orams, <xref rid="ece35818-bib-0071" ref-type="ref">2002</xref>; Plummer, Risely, Toms, &#x00026; Siriwardena, <xref rid="ece35818-bib-0074" ref-type="ref">2019</xref>). In contrast, many species find sharing space with humans makes life fraught and stressful (Ciuti et al., <xref rid="ece35818-bib-0021" ref-type="ref">2012</xref>). It stands to reason, that wildlife which adapt to, and persist within, anthropogenic landscapes, are able to balance the different benefits and costs associated with living with humans. Although there are a range of attributes and traits that promote the successful exploitation (or persistence) in these landscapes, the ability to accurately assess risk and respond accordingly is a key trait (Kretser, Sullivan, &#x00026; Knuth, <xref rid="ece35818-bib-0060" ref-type="ref">2008</xref>; Lowry, Lill, &#x00026; Wong, <xref rid="ece35818-bib-0065" ref-type="ref">2013</xref>; Samia, Nakagawa, Nomura, Rangel, &#x00026; Blumstein, <xref rid="ece35818-bib-0080" ref-type="ref">2015</xref>).</p><p>Evidence of wildlife responding to human&#x02010;mediated fear in anthropogenic landscapes is strong. Some species avoid areas of high risk or else increase risk&#x02010;aversive behaviors to decrease risk propensity (Gaynor, Hojnowski, Carter, &#x00026; Brashares, <xref rid="ece35818-bib-0048" ref-type="ref">2018</xref>; Rode, Farley, &#x00026; Robbins, <xref rid="ece35818-bib-0076" ref-type="ref">2006</xref>; Tigas, Vuren, &#x00026; Sauvajot, <xref rid="ece35818-bib-0089" ref-type="ref">2002</xref>), while others habituate to benign disturbances so that they may exploit favorable conditions (Sih, Ferrari, &#x00026; Harris, <xref rid="ece35818-bib-0081" ref-type="ref">2011</xref>). Adaptation to urban environments by wildlife led to an appreciation of urban exploiters (Ducatez, Sayol, Sol, &#x00026; Lefebvre, <xref rid="ece35818-bib-0035" ref-type="ref">2018</xref>; Fischer, Schneider, Ahlers, &#x00026; Miller, <xref rid="ece35818-bib-0042" ref-type="ref">2015</xref>; Kark, Iwaniuk, Schalimtzek, &#x00026; Banker, <xref rid="ece35818-bib-0057" ref-type="ref">2007</xref>; Soulsbury &#x00026; White, <xref rid="ece35818-bib-0083" ref-type="ref">2016</xref>), wildlife who benefit from novel human&#x02010;dominated landscapes, requiring finely tuned behavioral strategies that permit risk avoidance but which do not inhibit cohabitation. Things are less clear in countryside environments, where there may be a mix of extant habitat and land cleared for agriculture (Daily, Ceballos, Pacheco, Suz&#x000e1;n, &#x00026; S&#x000e1;nchez&#x02010;Azofeifa, <xref rid="ece35818-bib-0028" ref-type="ref">2003</xref>). Human&#x02013;wildlife conflicts are common in countryside environments, particularly when land sparing approaches to agriculture seek to exclude wildlife from productive land rather than integrating conservation with production (Dickman, <xref rid="ece35818-bib-0033" ref-type="ref">2010</xref>; Fischer et al., <xref rid="ece35818-bib-0041" ref-type="ref">2008</xref>). Methods of exclusion are often harmful to wildlife, which contributes to their perception of humans as threatening in these landscapes. Moreover, lower frequencies of human presence present challenging conditions for wildlife habituation while simultaneously disinhibiting negative human behavior (Thibaut, <xref rid="ece35818-bib-0088" ref-type="ref">2017</xref>). As a consequence, although the countryside can offer favorable conditions for wildlife, greater variation in human behavior excludes those species whose risk assessment is insufficiently sensitive and nuanced to accurately determine the risks humans pose in different circumstances.</p><p>For large mammals (&#x0003e;15&#x000a0;kg), evidence suggest many are resilient to minor modification of habitat in the countryside but commonly exhibit behavioral changes to avoid direct interactions with humans (Daily et al., <xref rid="ece35818-bib-0028" ref-type="ref">2003</xref>; Lawrence, <xref rid="ece35818-bib-0061" ref-type="ref">2008</xref>; Zhou et al., <xref rid="ece35818-bib-0093" ref-type="ref">2013</xref>). For these &#x0201c;avoiders,&#x0201d; encounters with humans are often perceived as threatening regardless of their intent or actions (Frid &#x00026; Dill, <xref rid="ece35818-bib-0045" ref-type="ref">2002</xref>). However, the associative learning that promotes avoidance can also facilitate desensitization to benign disturbance (Stankowich, <xref rid="ece35818-bib-0085" ref-type="ref">2008</xref>), even though habituating to benign interactions must be complicated for species that also experience lethal human disturbances such as hunting. Despite this, there is growing evidence that some species can differentiate between contextual circumstances of harm and benign intent. Red deer (<italic>Cervus elaphus</italic>) have succeeded in making this distinction, perceiving recreationists as less threatening than hunters (Jayakody, Sibbald, Gordon, &#x00026; Lambin, <xref rid="ece35818-bib-0056" ref-type="ref">2008</xref>). African elephants also exhibit stronger fear behaviors when presented with scent, visual, or audio stimuli from a threatening subgroup of people compared to that of an agricultural subgroup who poses little threat (Bates et al., <xref rid="ece35818-bib-0007" ref-type="ref">2007</xref>; McComb, Shannon, Sayialel, &#x00026; Moss, <xref rid="ece35818-bib-0068" ref-type="ref">2014</xref>).</p><p>In Australia, eastern gray kangaroos (<italic>Macropus giganteus</italic>) are a large mammal faced with similar challenges: they are hunted by humans but also experience benign interactions with humans in recreational contexts. Eastern gray kangaroos are a gregarious woodland species (Caughley, <xref rid="ece35818-bib-0020" ref-type="ref">1964</xref>; Coulson, <xref rid="ece35818-bib-0025" ref-type="ref">2009</xref>; Kaufmann, <xref rid="ece35818-bib-0058" ref-type="ref">1975</xref>) that form open&#x02010;membership fission&#x02013;fusion groups (Clarke, Jones, &#x00026; Jarman, <xref rid="ece35818-bib-0022" ref-type="ref">1995</xref>; Jarman, <xref rid="ece35818-bib-0054" ref-type="ref">1987</xref>). Changes in group size have been attributed to perceived levels of predation risk which vary spatially and temporally (Heathcote, <xref rid="ece35818-bib-0052" ref-type="ref">1987</xref>; Jarman &#x00026; Coulson, <xref rid="ece35818-bib-0055" ref-type="ref">1989</xref>). Eastern gray kangaroos increase group size when foraging in cleared landscapes during the morning and afternoon (Banks, <xref rid="ece35818-bib-0004" ref-type="ref">2001</xref>) then break into smaller groups during the middle of the day when the likelihood of predation decreases (Southwell, <xref rid="ece35818-bib-0084" ref-type="ref">1984</xref>). Eastern gray kangaroos are prey for foxes (primarily juveniles; Banks &#x00026; Dickman, <xref rid="ece35818-bib-0005" ref-type="ref">2007</xref>) and dingoes (Letnic &#x00026; Crowther, <xref rid="ece35818-bib-0063" ref-type="ref">2013</xref>; Wallach, Johnson, Ritchie, &#x00026; O'Neill, <xref rid="ece35818-bib-0090" ref-type="ref">2010</xref>), but are also hunted by humans throughout their range. Indigenous people engaged in sporadic hunting of kangaroos for tens of thousands of years (Gammage, <xref rid="ece35818-bib-0047" ref-type="ref">2012</xref>). Since European occupation, kangaroos have been shot for food (for human and pets, commercially and for subsistence), sport, or bounties (Boom et al., <xref rid="ece35818-bib-0016" ref-type="ref">2012</xref>). The notion of hunting for sport is common as kangaroos in rural regions are often hunted illegally, a situation that is tolerated by government regulators (Boom &#x00026; Ben&#x02010;Ami, <xref rid="ece35818-bib-0015" ref-type="ref">2013</xref>; Descovich, McDonald, Tribe, &#x00026; Phillips, <xref rid="ece35818-bib-0032" ref-type="ref">2015</xref>; Ramp, <xref rid="ece35818-bib-0075" ref-type="ref">2013</xref>). However, interactions between humans and kangaroos are not always negative, as kangaroos can find safety and resources in national parks, golf courses, sporting ovals, and wildlife&#x02010;friendly farms (King, Wilson, Allen, Festa&#x02010;Bianchet, &#x00026; Coulson, <xref rid="ece35818-bib-0059" ref-type="ref">2011</xref>). It appears that kangaroos are tolerant of, and habituate to, human disturbances of benign intent, such as tourism and wildlife&#x02010;friendly landholders (Austin &#x00026; Ramp, <xref rid="ece35818-bib-0003" ref-type="ref">2019</xref>). It is unclear if these responses are caused by the frequency or intent of previous interactions with humans.</p><p>In a previous study (Austin &#x00026; Ramp, <xref rid="ece35818-bib-0003" ref-type="ref">2019</xref>), we found that grouping behavior of eastern gray kangaroos varied in response to the intent and frequency of human disturbances. Under benign conditions, kangaroos formed larger groups when far from cover, following the &#x0201c;Many Eyes Hypothesis&#x0201d; (Ale &#x00026; Brown, <xref rid="ece35818-bib-0002" ref-type="ref">2007</xref>; Beauchamp, <xref rid="ece35818-bib-0008" ref-type="ref">2013</xref>), but this relationship was not detectable under harmful conditions as group size did not change with distance to cover. This response was hypothesized as a behavioral adaption to human hunting as individuals learnt that forming large groups far from cover may make them targets for hunters (Austin &#x00026; Ramp, <xref rid="ece35818-bib-0003" ref-type="ref">2019</xref>). Here, our goal was to test how these same kangaroos responded to the presence of a human stimulus to determine whether the intent and frequency of previous human&#x02013;kangaroo interactions directly shaped kangaroo's fear of humans through associative learning. To test this, we conducted a flight response experiment on a population of free&#x02010;living kangaroos experiencing low and high frequencies of benign and harmful human disturbances (Austin &#x00026; Ramp, <xref rid="ece35818-bib-0003" ref-type="ref">2019</xref>). If kangaroos learn from previous encounters with humans, we expected them to exhibit shorter assessment distances prior to flight when approached by a human when previous encounters were of harmful intent, relative to those who experienced encounters of benign intent. Incorrectly assessing risk of humans in countryside landscapes, like our study area, can have lethal consequences or result in lost foraging opportunities and increased energy expenditure. Additionally, we quantified the degree to which environmental and demographic parameters amplified risk perception by modeling the importance of distance to refuge, resource quality, group size, and demography on the group's decision to flee under each frequency and intent of human disturbance.</p></sec><sec sec-type="methods" id="ece35818-sec-0002"><label>2</label><title>METHODS</title><sec id="ece35818-sec-0003"><label>2.1</label><title>Site description</title><p>We studied a free&#x02010;ranging population of eastern gray kangaroos in the surrounds of Wombeyan Karst Conservation Reserve in the Southern Highlands of NSW, adjacent to Kanangra&#x02010;Boyd National Park, previously described by Austin and Ramp (<xref rid="ece35818-bib-0003" ref-type="ref">2019</xref>) (Figure <xref rid="ece35818-fig-0001" ref-type="fig">1</xref>). The area contains a mix of conservation reserve and private properties over 850 hectares, across which kangaroos are free to move. We previously established that the region included a mix of complex human presence, with areas of low (&#x0003c;1 kangaroo/human interaction per week) and high (&#x0003e;1 kangaroo/human interaction per week) frequency interaction, and a mix of benign (either ignored or well intentioned, e.g., tourists taking photographs) and harmful (harassing or shooting) interactions (Austin &#x00026; Ramp, <xref rid="ece35818-bib-0003" ref-type="ref">2019</xref>). Consequently, we were able to classify regions by frequency and intent: High Benign (HB), Low Benign (LB), Low Harm (LH), and High Harm (HH). For the purposes of anonymity, we have not included map locations of each treatment. However, the study area was comprised of 4% HB, 47% LB, 21% LH, and 28% HH.</p><fig fig-type="Figure" xml:lang="en" id="ece35818-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Location of study area within New South Wales, Australia, showing roads and forested and cleared areas within the study area. Property boundaries and human disturbance were omitted to ensure anonymity</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-13824-g001"/></fig></sec><sec id="ece35818-sec-0004"><label>2.2</label><title>Behavioral responses</title><p>Measuring direct responses to fear can be inferred from observation of antipredator behaviors such as flight, vigilance, grouping, and crypsis, helping to identify and quantify stimuli that trigger fear responses. Flight response to a stimulus is frequently relied upon in wildlife studies and can be recorded in a variety of ways (Miller, Garner, &#x00026; Mench, <xref rid="ece35818-bib-0069" ref-type="ref">2006</xref>). Flight initiation distance (FID), the distance at which an animal flees from an approaching stimulus, is highly correlated with alert distance (AD), the distance at which prey become aware of the stimulus, and the distance from which the stimulus approach commenced (Dall, Houston, &#x00026; McNamara, <xref rid="ece35818-bib-0029" ref-type="ref">2004</xref>; Dumont, Pasquaretta, R&#x000e9;ale, Bogliani, &#x00026; Hardenberg, <xref rid="ece35818-bib-0036" ref-type="ref">2012</xref>). Alert behaviors can be difficult to identify in some species as there may be no clear indicators of stimulus detection. However, alert postures in kangaroos are clearly observable as they become upright, standing high on their hind legs, and focus their attention (eye and ear orientation) in the direction of the disturbance (Edwards, Best, Blomberg, &#x00026; Goldizen, <xref rid="ece35818-bib-0037" ref-type="ref">2013</xref>). Alert distance allows for the more insightful assessment distance (Dall et al., <xref rid="ece35818-bib-0029" ref-type="ref">2004</xref>) to be measured, the distance a stimulus can move toward an animal after it has been detected until flight is taken. This measure directly relates to perceived predation risk as it reflects the period where threat level changes from low to high risk (Frid &#x00026; Dill, <xref rid="ece35818-bib-0045" ref-type="ref">2002</xref>; Stankowich &#x00026; Blumstein, <xref rid="ece35818-bib-0086" ref-type="ref">2005</xref>; Ydenberg &#x00026; Dill, <xref rid="ece35818-bib-0092" ref-type="ref">1986</xref>). This measure has previously been used to quantify perceived risk by Columbian black&#x02010;tailed deer (<italic>Odocoileus hemionus columbianus</italic>) to different types of threats (speed of approach, directness, and presence of gun; Stankowich &#x00026; Coss, <xref rid="ece35818-bib-0087" ref-type="ref">2005</xref>).</p><p>We therefore determined flight responses of 138 groups of eastern gray kangaroos by measuring assessment distance across the four types of human disturbance. We sampled flight responses from each disturbance type over six fortnight windows, between October 2016 and February 2017, recording responses between 06:00&#x02013;08:30 and 16:30&#x02013;19:00 when kangaroos were grazing in open areas (Clarke et al., <xref rid="ece35818-bib-0022" ref-type="ref">1995</xref>). We covertly located groups of more than one individual, selecting groups for testing to ensure the same individuals were not recorded twice in the same sampling session (although individuals were not identifiable between sessions). Before testing flight responses, video of the group was recorded using a digital camera (Canon EOS 70D Digital SLR with Canon EF 100&#x02013;400&#x000a0;mm lens) for 3&#x000a0;min to ensure they had not detected our presence. The GPS coordinates (&#x000b1;5&#x000a0;m) of the starting location were recorded along with the distance between the starting location and the most central individual in the group, using a laser rangefinder (Bushnell, &#x000b1;0.9&#x000a0;m). The test commenced as the human stimulus (CMA) walked in a direct line toward the group, keeping the group in sight but avoiding eye contact. The approacher maintained a constant speed during the approach (0.7&#x000a0;&#x000b1;&#x000a0;0.03&#x000a0;m/s) and always wore the same clothing. Following Stankowich and Coss (<xref rid="ece35818-bib-0087" ref-type="ref">2005</xref>), a marker was dropped when one or more members of the group displayed a vertical vigilance stance toward the approacher (alert distance). The approacher continued without stopping until one or more individuals moved from their original position (flight initiation distance), concluding the test. We recorded the final location of the approacher and the dropped marker using a GPS. The exact position of the group was determined using the directional bearing, start location, and initial distance of the group.</p></sec><sec id="ece35818-sec-0005"><label>2.3</label><title>Environmental and group parameters</title><p>Eastern gray kangaroos use forested habitat as a refuge and forage closer to cover when predation risk is high (Banks, <xref rid="ece35818-bib-0004" ref-type="ref">2001</xref>). The group's distance from forested cover was calculated from the GPS position at the center of the group in ArcGIS (v10; ESRI, <xref rid="ece35818-bib-0039" ref-type="ref">2016</xref>). We measured the resource quality at the center of each group by determining the relative green channel brightness (greenness) of vegetation from digital photographs. Due to the high correlation between greenness and biomass (Inoue, Nagai, Kobayashi, &#x00026; Koizumi, <xref rid="ece35818-bib-0053" ref-type="ref">2015</xref>), resource quality was inferred by the mean greenness of resources for each group of kangaroos as per Austin and Ramp (<xref rid="ece35818-bib-0003" ref-type="ref">2019</xref>). Using video footage collected prior to the approach, we assigned individuals to demographic categories; size/maturity (pouch young, young&#x02010;at&#x02010;foot, sub&#x02010;adult, small adult, medium adult, and large adult (Austin &#x00026; Ramp, <xref rid="ece35818-bib-0003" ref-type="ref">2019</xref>). The presence of all pouch young was noted but were only recorded as contributing to group size when they were out of their mother's pouch. An independent assessor familiar with eastern gray kangaroos was provided with a subset of 100 photographs to help validate our categorization of demographic groups. Group size was determined using the 15&#x02010;m chain rule, where individuals within 15&#x000a0;m of another member of the group were included in the group (Best, Dwyer, Seddon, &#x00026; Goldizen, <xref rid="ece35818-bib-0009" ref-type="ref">2014</xref>; Carter, Pays, &#x00026; Goldizen, <xref rid="ece35818-bib-0019" ref-type="ref">2009</xref>; Jarman, <xref rid="ece35818-bib-0054" ref-type="ref">1987</xref>; Pays, Beauchamp, Carter, &#x00026; Goldizen, <xref rid="ece35818-bib-0072" ref-type="ref">2013</xref>).</p></sec><sec id="ece35818-sec-0006"><label>2.4</label><title>Statistical analysis</title><p>We examined AsD using a generalized linear mixed model to detect significant differences between our four disturbance types (High Benign, Low Benign, Low Harm, and High Harm), with inference determined using likelihood ratio tests. Sampling session was included as a random variable to control for possible dependence due to repeated sampling of sites. However, parametric bootstrapping found sampling session had no significant effect on AsD. Multiple comparisons of means with the Tukey contrasts were conducted to test for statistical differences between disturbances. To determine if the presence of vulnerable individuals (mothers, pouch young, and young&#x02010;at&#x02010;foot) significantly affected AsD we ran a series of independent sample <italic>t</italic> tests within each disturbance type. The response variable AsD was log transformed to satisfy assumption of homogeneity of variance. Linear regressions were conducted to determine if the distance at which kangaroos were alerted to the approach (AD) had a significant effect on AsD, nested within disturbance type. We conducted an analysis of covariance to identify significant interactions between disturbance type and AsD, controlling for AD. This analysis was repeated with each disturbance type set as the reference level.</p><p>The effect of environmental and group parameters on AsD was tested using multiple model inferencing. The global model for AsD included the following predictors: proportion of individuals from each demographic category, group size, distance to refuge, and resource greenness. All variables were standardized and scaled to remove bias (Grueber, Nakagawa, Laws, &#x00026; Jamieson, <xref rid="ece35818-bib-0051" ref-type="ref">2011</xref>). For each disturbance type, a set of models were generated from all combinations of predictors using the R package &#x0201c;MuMIn&#x0201d; (Barton &#x00026; Barton, <xref rid="ece35818-bib-0006" ref-type="ref">2018</xref>). Models for each treatment were ranked according to AICc and all models within 2&#x000a0;+&#x000a0;AICc of the best model were averaged using the natural average method (Burnham &#x00026; Anderson, <xref rid="ece35818-bib-0017" ref-type="ref">2002</xref>). Coefficients and confidence intervals were generated from full averaged models.</p></sec></sec><sec sec-type="results" id="ece35818-sec-0007"><label>3</label><title>RESULTS</title><p>Human disturbance type significantly influenced the assessment distance of eastern gray kangaroos (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001). The frequency of benign human interactions had no significant effect on assessment distance (HB: LB, <italic>p</italic>&#x000a0;=&#x000a0;.638), with average assessment distances of 16.17&#x000a0;m (&#x000b1;2.02) and 12.73&#x000a0;m (&#x000b1;1.55), respectively. However, assessment distances were significantly longer at both LB and HB than for groups at LH (<italic>p</italic>&#x000a0;=&#x000a0;.001, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) and HH (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001; Figure <xref rid="ece35818-fig-0002" ref-type="fig">2</xref>a). The frequency of harmful interactions with humans significantly affected assessment distance, with mean assessment distances at HH of 2.21&#x000a0;m (&#x000b1;0.70), which were significantly shorter than those at LH by 3.76&#x000a0;m (&#x000b1;1.09) on average (<italic>p</italic>&#x000a0;=&#x000a0;.004; Figure <xref rid="ece35818-fig-0002" ref-type="fig">2</xref>a). The proportion of groups with vulnerable individuals present (young&#x02010;at&#x02010;foot, and pouch young) varied across disturbance types; vulnerable individuals were present in 94% of the groups sampled at HB; 41% at LB; 33% at LH, and 29% at HH. At HH, the presence of vulnerable individuals in a group resulted in a mean assessment distances that were 2.8 times longer than when vulnerable individuals were absent (4.13&#x02013;1.48&#x000a0;m, <italic>t</italic>
+<sub>27</sub>&#x000a0;=&#x000a0;&#x02212;2.671, <italic>p</italic>&#x000a0;=&#x000a0;.013). However, the presence of vulnerable individuals had no significant effect on assessment distance at all other treatments (HB: <italic>t</italic>
+<sub>33</sub>&#x000a0;=&#x000a0;&#x02212;0.671, <italic>p</italic>&#x000a0;=&#x000a0;.507; LB: <italic>t</italic>
+<sub>39</sub>&#x000a0;=&#x000a0;0.947, <italic>p</italic>&#x000a0;=&#x000a0;.3494; LH: <italic>t</italic>
+<sub>31</sub>&#x000a0;=&#x000a0;&#x02212;0.942, <italic>p</italic>&#x000a0;=&#x000a0;.353; Figure <xref rid="ece35818-fig-0002" ref-type="fig">2</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="ece35818-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>(a) Mean assessment distances for groups of eastern gray kangaroos under different human disturbances, HB: High Benign, LB: Low Benign, LH: Low Harm, and HH: High Harm. (b) Mean assessment distances for groups of eastern gray kangaroos as a function of human disturbance and the presence of vulnerable individuals (pouch young and young&#x02010;at&#x02010;foot). Width of boxes is proportional to the square root of the sample sizes. Shaded boxes represent groups without vulnerable individual and hollow boxes groups containing vulnerable individuals</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-13824-g002"/></fig><p>Alert distance was positively correlated with assessment distance for kangaroos that have previously experienced benign disturbances (HB: <italic>f</italic>&#x000a0;=&#x000a0;13.48, <italic>p</italic>&#x000a0;=&#x000a0;.001; LB: <italic>f</italic>&#x000a0;=&#x000a0;24.33, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), such that kangaroos could afford to spend longer assessing threat levels when the detected threat was further away (Figure <xref rid="ece35818-fig-0003" ref-type="fig">3</xref>). This relationship was similar for both benign disturbance types, as the slopes for HB and LB were not significantly different (<italic>f</italic>&#x000a0;=&#x000a0;17.81, <italic>p</italic>&#x000a0;=&#x000a0;.1). In contrast, no significant linear relationship between alert distance and assessment distance for groups that experience harmful disturbances was detected (LH: <italic>f</italic>&#x000a0;=&#x000a0;0.26, <italic>p</italic>&#x000a0;=&#x000a0;.611; HH: <italic>f</italic>&#x000a0;=&#x000a0;0.11, <italic>p</italic>&#x000a0;=&#x000a0;.741), suggesting that the decision to flee at harmful sites was independent of how far away the threat was (Figure <xref rid="ece35818-fig-0003" ref-type="fig">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35818-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Relationship between logged assessment distance and alert distance under different human disturbances, HB: High Benign, LB: Low Benign, LH: Low Harm, and HH: High Harm. Linear trend lines were plotted for significant relationships with shaded regions reflecting confidence intervals (95%)</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-13824-g003"/></fig><p>There was considerable difference in the influence of environmental and grouping variables across disturbance types (Table <xref rid="ece35818-tbl-0001" ref-type="table">1</xref>; Figure <xref rid="ece35818-fig-0004" ref-type="fig">4</xref>a). Distance to refuge was an important positive predictor of assessment distance at LH (<italic>&#x003b2;</italic>&#x000a0;=&#x000a0;.380, <italic>p</italic>&#x000a0;=&#x000a0;.003), with those further from refuge taking longer to assess threat. There was also a weak trend at LH where the presence of large adults in the group also increased the length of assessment distance (<italic>&#x003b2;</italic>&#x000a0;=&#x000a0;.315, <italic>p</italic>&#x000a0;=&#x000a0;.016; Figure <xref rid="ece35818-fig-0004" ref-type="fig">4</xref>b). However, increasing group size led to shorter assessment distances at LH (<italic>&#x003b2;</italic>&#x000a0;=&#x000a0;&#x02212;.288, <italic>p</italic>&#x000a0;=&#x000a0;.022; Figure <xref rid="ece35818-fig-0004" ref-type="fig">4</xref>d). Conversely, increasing group size led to significantly longer assessment distances at HB sites (<italic>&#x003b2;</italic>&#x000a0;=&#x000a0;.349, <italic>p</italic>&#x000a0;=&#x000a0;.001; Figure <xref rid="ece35818-fig-0004" ref-type="fig">4</xref>e). At HH sites, kangaroos took longer to assess threats (i.e., were more reluctant to leave) when plant quality (i.e., resource greenness) was higher (<italic>&#x003b2;</italic>&#x000a0;=&#x000a0;.179, <italic>p</italic>&#x000a0;=&#x000a0;.015; Figure <xref rid="ece35818-fig-0004" ref-type="fig">4</xref>c).</p><table-wrap id="ece35818-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Average model summaries of assessment distance across different human disturbances, High Benign, Low Benign, Low Harm, and High Harm</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Disturbance</th><th align="left" valign="top" rowspan="1" colspan="1">Parameter</th><th align="left" valign="top" rowspan="1" colspan="1">Estimate<xref ref-type="fn" rid="ece35818-note-0002">a</xref>
+</th><th align="left" valign="top" rowspan="1" colspan="1">Adjusted <italic>SE</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>p</italic> value</th><th align="left" valign="top" rowspan="1" colspan="1">Relative importance</th></tr></thead><tbody><tr><td align="left" rowspan="10" colspan="1">
+<p>High Benign</p>
+<p>
+<italic>n</italic>&#x000a0;=&#x000a0;35</p>
+</td><td align="left" rowspan="1" colspan="1">Intercept</td><td align="left" rowspan="1" colspan="1">0.638</td><td align="left" rowspan="1" colspan="1">0.381</td><td align="left" rowspan="1" colspan="1">.102</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">Large adult</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">Medium adult</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">Small adult</td><td align="left" rowspan="1" colspan="1">0.065</td><td align="left" rowspan="1" colspan="1">0.141</td><td align="left" rowspan="1" colspan="1">.652</td><td align="left" rowspan="1" colspan="1">0.29</td></tr><tr><td align="left" rowspan="1" colspan="1">Sub&#x02010;adult</td><td align="left" rowspan="1" colspan="1">&#x02212;0.025</td><td align="left" rowspan="1" colspan="1">0.090</td><td align="left" rowspan="1" colspan="1">.784</td><td align="left" rowspan="1" colspan="1">0.14</td></tr><tr><td align="left" rowspan="1" colspan="1">Young&#x02010;at&#x02010;foot</td><td align="left" rowspan="1" colspan="1">0.018</td><td align="left" rowspan="1" colspan="1">0.088</td><td align="left" rowspan="1" colspan="1">.844</td><td align="left" rowspan="1" colspan="1">0.10</td></tr><tr><td align="left" rowspan="1" colspan="1">Pouch young</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Group size</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>0.394</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>0.118</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>.001</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>1</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Distance to refuge</td><td align="left" rowspan="1" colspan="1">0.200</td><td align="left" rowspan="1" colspan="1">0.387</td><td align="left" rowspan="1" colspan="1">.612</td><td align="left" rowspan="1" colspan="1">0.32</td></tr><tr><td align="left" rowspan="1" colspan="1">Resource greenness</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="10" colspan="1">
+<p>Low Benign</p>
+<p>
+<italic>n</italic>&#x000a0;=&#x000a0;41</p>
+</td><td align="left" rowspan="1" colspan="1">Intercept</td><td align="left" rowspan="1" colspan="1">0.199</td><td align="left" rowspan="1" colspan="1">0.147</td><td align="left" rowspan="1" colspan="1">.191</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">Large adult</td><td align="left" rowspan="1" colspan="1">&#x02212;0.020</td><td align="left" rowspan="1" colspan="1">0.075</td><td align="left" rowspan="1" colspan="1">.790</td><td align="left" rowspan="1" colspan="1">0.9</td></tr><tr><td align="left" rowspan="1" colspan="1">Medium adult</td><td align="left" rowspan="1" colspan="1">0.319</td><td align="left" rowspan="1" colspan="1">0.179</td><td align="left" rowspan="1" colspan="1">.082</td><td align="left" rowspan="1" colspan="1">0.91</td></tr><tr><td align="left" rowspan="1" colspan="1">Small adult</td><td align="left" rowspan="1" colspan="1">0.024</td><td align="left" rowspan="1" colspan="1">0.089</td><td align="left" rowspan="1" colspan="1">.793</td><td align="left" rowspan="1" colspan="1">0.16</td></tr><tr><td align="left" rowspan="1" colspan="1">Sub&#x02010;adult</td><td align="left" rowspan="1" colspan="1">&#x02212;0.060</td><td align="left" rowspan="1" colspan="1">0.143</td><td align="left" rowspan="1" colspan="1">.680</td><td align="left" rowspan="1" colspan="1">0.26</td></tr><tr><td align="left" rowspan="1" colspan="1">Young&#x02010;at&#x02010;foot</td><td align="left" rowspan="1" colspan="1">&#x02212;0.095</td><td align="left" rowspan="1" colspan="1">0.122</td><td align="left" rowspan="1" colspan="1">.443</td><td align="left" rowspan="1" colspan="1">0.52</td></tr><tr><td align="left" rowspan="1" colspan="1">Pouch young</td><td align="left" rowspan="1" colspan="1">0.012</td><td align="left" rowspan="1" colspan="1">0.064</td><td align="left" rowspan="1" colspan="1">.858</td><td align="left" rowspan="1" colspan="1">0.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Group size</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">Distance to refuge</td><td align="left" rowspan="1" colspan="1">0.016</td><td align="left" rowspan="1" colspan="1">0.070</td><td align="left" rowspan="1" colspan="1">.823</td><td align="left" rowspan="1" colspan="1">0.14</td></tr><tr><td align="left" rowspan="1" colspan="1">Resource greenness</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="10" colspan="1">
+<p>Low Harm</p>
+<p>
+<italic>n</italic>&#x000a0;=&#x000a0;33</p>
+</td><td align="left" rowspan="1" colspan="1">Intercept</td><td align="left" rowspan="1" colspan="1">&#x02212;0.494</td><td align="left" rowspan="1" colspan="1">0.108</td><td align="left" rowspan="1" colspan="1">&#x0003c;.001</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Large adult</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>0.315</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>0.121</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>.016</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>1</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Medium adult</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">Small adult</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">Sub&#x02010;adult</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">Young&#x02010;at&#x02010;foot</td><td align="left" rowspan="1" colspan="1">0.023</td><td align="left" rowspan="1" colspan="1">0.064</td><td align="left" rowspan="1" colspan="1">.729</td><td align="left" rowspan="1" colspan="1">0.26</td></tr><tr><td align="left" rowspan="1" colspan="1">Pouch young</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Group size</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02212;0.288</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>0.121</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>.022</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>1</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Distance to refuge</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>0.380</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>0.123</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>.003</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>1</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Resource greenness</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="10" colspan="1">
+<p>High Harm</p>
+<p>
+<italic>n</italic>&#x000a0;=&#x000a0;29</p>
+</td><td align="left" rowspan="1" colspan="1">Intercept</td><td align="left" rowspan="1" colspan="1">&#x02212;0.474</td><td align="left" rowspan="1" colspan="1">0.115</td><td align="left" rowspan="1" colspan="1">&#x0003c;.001</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">Large adult</td><td align="left" rowspan="1" colspan="1">&#x02212;0.126</td><td align="left" rowspan="1" colspan="1">0.107</td><td align="left" rowspan="1" colspan="1">.244</td><td align="left" rowspan="1" colspan="1">0.68</td></tr><tr><td align="left" rowspan="1" colspan="1">Medium adult</td><td align="left" rowspan="1" colspan="1">&#x02212;0.183</td><td align="left" rowspan="1" colspan="1">0.143</td><td align="left" rowspan="1" colspan="1">.205</td><td align="left" rowspan="1" colspan="1">0.68</td></tr><tr><td align="left" rowspan="1" colspan="1">Small adult</td><td align="left" rowspan="1" colspan="1">0.052</td><td align="left" rowspan="1" colspan="1">0.084</td><td align="left" rowspan="1" colspan="1">.545</td><td align="left" rowspan="1" colspan="1">0.32</td></tr><tr><td align="left" rowspan="1" colspan="1">Sub&#x02010;adult</td><td align="left" rowspan="1" colspan="1">0.034</td><td align="left" rowspan="1" colspan="1">0.102</td><td align="left" rowspan="1" colspan="1">.742</td><td align="left" rowspan="1" colspan="1">0.14</td></tr><tr><td align="left" rowspan="1" colspan="1">Young&#x02010;at&#x02010;foot</td><td align="left" rowspan="1" colspan="1">&#x02212;0.116</td><td align="left" rowspan="1" colspan="1">0.275</td><td align="left" rowspan="1" colspan="1">.680</td><td align="left" rowspan="1" colspan="1">0.21</td></tr><tr><td align="left" rowspan="1" colspan="1">Pouch young</td><td align="left" rowspan="1" colspan="1">0.064</td><td align="left" rowspan="1" colspan="1">0.103</td><td align="left" rowspan="1" colspan="1">.539</td><td align="left" rowspan="1" colspan="1">0.32</td></tr><tr><td align="left" rowspan="1" colspan="1">Group size</td><td align="left" rowspan="1" colspan="1">0.173</td><td align="left" rowspan="1" colspan="1">0.118</td><td align="left" rowspan="1" colspan="1">.153</td><td align="left" rowspan="1" colspan="1">0.84</td></tr><tr><td align="left" rowspan="1" colspan="1">Distance to refuge</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Resource greenness</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>0.179</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>0.115</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>.015</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>1</bold>
+</td></tr></tbody></table><table-wrap-foot id="ece35818-ntgp-0001"><title>Note</title><fn id="ece35818-note-0001"><p>Statistically significant variables at 95% confidence level are shown in bold. A dash indicates that the variable was not present in the model.</p></fn><fn id="ece35818-note-0002"><label>a</label><p>Effect sizes are standardized.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35818-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Significant responses of assessment distance to environmental and group parameters across disturbance types. Variables have been scaled to allow comparison across variables. Relationship between assessment distance and (a) distance to refuge at LH, (b) the proportion of large adults in the group at LH, (c) resource greenness at HH, (d) group size at LH, and (e) group size at HB</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-13824-g004"/></fig></sec><sec sec-type="discussion" id="ece35818-sec-0008"><label>4</label><title>DISCUSSION</title><p>We found that the nature and frequency of previous interactions with humans shaped risk perception in eastern gray kangaroos. Empirical results suggest that kangaroos whose primary experiences with humans are benign encounters, at both high and low frequencies, perceive an experimental human stimulus as less threatening than those who have experienced harmful interaction with humans. The frequency of benign interactions did not significantly alter assessment distance, which implies that tolerance of benign human disturbances is readily learnt, even when the disturbance is encountered infrequently. However, the frequency of past harmful experiences with humans significantly affected their perception of risk. Kangaroos that experienced disturbance at low frequencies spent longer assessing the potential threat than those who experienced higher frequencies of harmful disturbance, which flee almost immediately after the human stimulus was detected. When previous interaction is benign, our results align with the general notion that birds, mammals, and lizards learn that a nonthreatening stimulus poses little to no threat after several encounters with the stimulus (Delacasa &#x00026; Lubow, <xref rid="ece35818-bib-0031" ref-type="ref">1995</xref>; Gonzalo, L&#x000f3;pez, &#x00026; Mart&#x000ed;n, <xref rid="ece35818-bib-0050" ref-type="ref">2013</xref>; Samia et al., <xref rid="ece35818-bib-0080" ref-type="ref">2015</xref>). In our study, low levels of benign disturbance also resulted in tolerance. Previous research has shown that repeated presentation of a consistently benign stimulus leads to rapid habituation, for example in marmosets (Dacier, Maia, Agustinho, &#x00026; Barros, <xref rid="ece35818-bib-0027" ref-type="ref">2006</xref>) and bears (Elfstr&#x000f6;m, Zedrosser, St&#x000f8;en, &#x00026; Swenson, <xref rid="ece35818-bib-0038" ref-type="ref">2014</xref>). Habituating to benign disturbance has economic benefits, enabling individuals to avoid the costs of fleeing nonthreatening disturbances; namely the loss of resources and unnecessary expenditure of energy (Ydenberg &#x00026; Dill, <xref rid="ece35818-bib-0092" ref-type="ref">1986</xref>).</p><p>Flight behavior and risk assessment in eastern gray kangaroos in response to people has received little academic focus. Previous studies of macropod flight behavior have used flight initiation distance to detect changes in antipredator behavior following the loss of predators on islands (Blumstein, <xref rid="ece35818-bib-0010" ref-type="ref">2002</xref>; Blumstein &#x00026; Daniel, <xref rid="ece35818-bib-0012" ref-type="ref">2005</xref>) or to investigate the role of flight behavior in vehicle collisions (Lee, Croft, &#x00026; Ramp, <xref rid="ece35818-bib-0062" ref-type="ref">2010</xref>). Our study found that distance to refuge, resource quality, group size, and group demography all variously influenced assessment distance across disturbance types. Generally, prey are more fearful when safety is further away (Bonenfant &#x00026; Kramer, <xref rid="ece35818-bib-0013" ref-type="ref">1996</xref>; Dill &#x00026; Houtman, <xref rid="ece35818-bib-0034" ref-type="ref">1989</xref>). However, we found that kangaroos spent longer assessing the threat before fleeing when they were further from safety. We propose that this is likely due to the energy costs of fleeing further to reach safety. Monitoring the disturbance stimulus for longer allows kangaroos to make an accurate assessment of the potential risk before incurring energetic costs.</p><p>Group size is known to have a highly variable effect on assessment distance across species (Stankowich &#x00026; Blumstein, <xref rid="ece35818-bib-0086" ref-type="ref">2005</xref>), and, as our study showed, this effect can also be influenced by the nature of previous interactions with humans. For example, larger groups at Low Harm sites exhibited shorter assessment distances than those with fewer individuals, while the opposite was found at High Benign sites where there was a positive correlation between assessment distance and group size. The trend at sites with harmful interactions may be explained by the notion that some individuals in a group will have had negative experiences with humans, making them less inclined to delay fleeing one a threat has been noticed. On the other hand, at benign sites, increasing assessment distance with group size fits well with the notion that individuals perceive lower levels of risk when in a larger group, as the likelihood of a given individual falling prey to a predator is reduced when more individuals are present (Carter et al., <xref rid="ece35818-bib-0019" ref-type="ref">2009</xref>; Jarman, <xref rid="ece35818-bib-0054" ref-type="ref">1987</xref>). This effect has been observed in similar&#x02010;sized herbivore species such as deer (De Boer, Breukelen, Hootsmans, &#x00026; Wieren, <xref rid="ece35818-bib-0030" ref-type="ref">2004</xref>) and caribou (Aastrup, <xref rid="ece35818-bib-0001" ref-type="ref">2000</xref>).</p><p>The demographic composition of groups also influenced flight response. Large adult kangaroos typically spent longer assessing the stimulus, as adults may be choosing to dedicate more time to assessing the threat in order to negate the energetic cost of fleeing, which is higher for larger animals (Norberg, <xref rid="ece35818-bib-0070" ref-type="ref">2012</xref>). Likewise, groups containing vulnerable young also spent significantly longer assessing risk than those composed only of adults at sites of high harm, but not at benign sites. This finding is contrary to our initial expectations, where we expected that groups with vulnerable individuals would respond quicker to risk in threatening landscapes (Blumstein, <xref rid="ece35818-bib-0011" ref-type="ref">2010</xref>; Cooper &#x00026; Blumstein, <xref rid="ece35818-bib-0023" ref-type="ref">2013</xref>; Stankowich, <xref rid="ece35818-bib-0085" ref-type="ref">2008</xref>). The delay in flight could be due to the higher energetic needs of young and mothers (Cripps, Wilson, Elgar, &#x00026; Coulson, <xref rid="ece35818-bib-0026" ref-type="ref">2011</xref>; G&#x000e9;lin, Wilson, Coulson, &#x00026; Festa&#x02010;Bianchet, <xref rid="ece35818-bib-0049" ref-type="ref">2013</xref>), as these groups might not wish to abandon foraging opportunities until the threat is confirmed to be imminent (Cooper et al., <xref rid="ece35818-bib-0024" ref-type="ref">2003</xref>; Stankowich &#x00026; Blumstein, <xref rid="ece35818-bib-0086" ref-type="ref">2005</xref>; Ydenberg &#x00026; Dill, <xref rid="ece35818-bib-0092" ref-type="ref">1986</xref>). This explanation is supported by our finding that resource quality also influenced assessment distance at High Harm sites. When foraging in areas with high quality resources, eastern gray kangaroos reduce the amount of time spent on antipredator behaviors such as vigilance (Favreau, Goldizen, Fritz, &#x00026; Pays, <xref rid="ece35818-bib-0040" ref-type="ref">2018</xref>). Similar reductions of antipredator behavior have also been observed for impalas, which were less vigilant when patch quality was high (Pays et al., <xref rid="ece35818-bib-0073" ref-type="ref">2012</xref>). A second possibility is that in this threatening landscape, flight itself might increase risk, particularly for vulnerable individuals and their guardians.</p><p>Studies of flight responses of ungulates have found that many species spend more time assessing threats if they were alerted to the disturbance further away (Stankowich &#x00026; Coss, <xref rid="ece35818-bib-0087" ref-type="ref">2005</xref>). This gives prey the opportunity to process additional information about the risk to more accurately assess the level of threat posed, enabling appropriate antipredator behaviors to be selected (C&#x000e1;rdenas, Shen, Zung, &#x00026; Blumstein, <xref rid="ece35818-bib-0018" ref-type="ref">2005</xref>). Our findings supported this explanation under benign conditions, like at camp grounds, as kangaroos habituate to human presence, leading to groups expressing smaller spatial zones of risk. In these circumstances, kangaroos learn that monitoring potential threats and delaying flight incurs little increased risk. In contrast, this response broke down when past disturbances were harmful. Disturbances like shooting remain a risk from a greater distance, which could explain the lack of correlation between assessment distance and alert distance in landscapes where previous interactions with humans have involved shooting. The adaption of wildlife to human hunting has been widely reported, where wildlife exhibit stronger fear responses toward humans in threatening scenarios, for example, during hunting season (De Boer et al., <xref rid="ece35818-bib-0030" ref-type="ref">2004</xref>; Jayakody et al., <xref rid="ece35818-bib-0056" ref-type="ref">2008</xref>; Matson, Goldizen, &#x00026; Putland, <xref rid="ece35818-bib-0067" ref-type="ref">2005</xref>). Hunting has also had a marked effect on wildlife behavior, which sees animals modifying activity patterns and their use of habitats (Bonnot et al., <xref rid="ece35818-bib-0014" ref-type="ref">2013</xref>; Lone, Loe, Meisingset, Stamnes, &#x00026; Mysterud, <xref rid="ece35818-bib-0064" ref-type="ref">2015</xref>; Manor &#x00026; Saltz, <xref rid="ece35818-bib-0066" ref-type="ref">2003</xref>; Sa&#x000ef;d, Tolon, Brandt, &#x00026; Baubet, <xref rid="ece35818-bib-0079" ref-type="ref">2012</xref>). Our findings suggest that kangaroos have learnt more than just when and where humans pose a significant threat but have also developed responses to mitigate these novel risks. Similar modification of antipredator behavior was observed by Austin and Ramp (<xref rid="ece35818-bib-0003" ref-type="ref">2019</xref>), where kangaroos modified their antipredator grouping in response to human hunting. Behavioral changes in hunted populations may be attributed to the selection of individuals which possess beneficial traits that facilitate survival (Ciuti et al., <xref rid="ece35818-bib-0021" ref-type="ref">2012</xref>; Sol, Lapiedra, &#x00026; Gonz&#x000e1;lez&#x02010;Lagoset, <xref rid="ece35818-bib-0082" ref-type="ref">2013</xref>). In order for the trends we detected to be attributed to selection, the entire population would have to experience widespread and sustained hunting in order to eliminate individuals with unfavorable characteristic. It is unlikely that human disturbances at our study site were sufficiently intensive to alter behaviors through selection.</p><p>Our study indicates that kangaroos are learning from their previous interactions with humans, rapidly habituating to benign human disturbances and identifying humans as a threat when previous interactions were harmful. The ability to modify antipredator behaviors and correctly assess risk of humans in countryside landscapes can provide foraging opportunities and habitat in a time where wilderness is decreasing at an astonishing rate. Our exploration of how environmental and group parameters affected kangaroo's fear of humans will inform future studies in understanding the ways in which kangaroos are persisting in countryside habitats when faced with novel threats and opportunities.</p></sec><sec sec-type="COI-statement" id="ece35818-sec-0009"><title>CONFLICT OF INTEREST</title><p>The authors declare no conflict of interest.</p></sec><sec id="ece35818-sec-0010"><title>AUTHOR CONTRIBUTIONS</title><p>Conceptualization (C.M.A. and D.R.), investigation (C.M.A.), formal analysis (C.M.A. and D.R.), visualization (C.M.A. &#x00026; D.R.), writing&#x02014;original draft (C.M.A.), writing&#x02014;review and editing (D.R.), supervision (D.R.), funding acquisition (D.R.).</p></sec></body><back><ack id="ece35818-sec-0013"><title>ACKNOWLEDGMENTS</title><p>This project was funded by Detroit Zoological Society, while C.M.A was supported by a UTS Postgraduate Research Scholarship. University of Technology Sydney's Animal Ethic Committee (ETH16&#x02010;0735) and a Scientific License (SL101651) issued by New South Wales Office of Environment and Heritage covered all aspects of research conducted as part of this study. We are thankful of the helpful comments and advice Finbarr Horgan contributed to the development this paper.</p></ack><sec sec-type="data-availability" id="ece35818-sec-0012"><title>DATA AVAILABILITY STATEMENT</title><p>Data supporting this study are available from the Dryad Digital Repository <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.mcvdncjwb" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.mcvdncjwb</ext-link>
+</p></sec><ref-list content-type="cited-references" id="ece35818-bibl-0001"><title>REFERENCES</title><ref id="ece35818-bib-0001"><mixed-citation publication-type="journal" id="ece35818-cit-0001">
+<string-name>
+<surname>Aastrup</surname>, <given-names>P.</given-names>
+</string-name> (<year>2000</year>). <article-title>Responses of West Greenland caribou to the approach of humans on foot</article-title>. <source xml:lang="en">Polar Research</source>, <volume>19</volume>, <fpage>83</fpage>&#x02013;<lpage>90</lpage>. <pub-id pub-id-type="doi">10.3402/polar.v19i1.6533</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0002"><mixed-citation publication-type="journal" id="ece35818-cit-0002">
+<string-name>
+<surname>Ale</surname>, <given-names>S. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brown</surname>, <given-names>J. S.</given-names>
+</string-name> (<year>2007</year>). <article-title>The contingencies of group size and vigilance</article-title>. <source xml:lang="en">Evolutionary Ecology Research</source>, <volume>9</volume>, <fpage>1263</fpage>&#x02013;<lpage>1276</lpage>.</mixed-citation></ref><ref id="ece35818-bib-0003"><mixed-citation publication-type="journal" id="ece35818-cit-0003">
+<string-name>
+<surname>Austin</surname>, <given-names>C. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ramp</surname>, <given-names>D.</given-names>
+</string-name> (<year>2019</year>). <article-title>Behavioural plasticity by eastern grey kangaroos in response to human behaviour</article-title>. <source xml:lang="en">Animals</source>, <volume>9</volume>, <fpage>244</fpage>
+<pub-id pub-id-type="doi">10.3390/ani9050244</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0004"><mixed-citation publication-type="journal" id="ece35818-cit-0004">
+<string-name>
+<surname>Banks</surname>, <given-names>P. B.</given-names>
+</string-name> (<year>2001</year>). <article-title>Predation&#x02010;sensitive grouping and habitat use by eastern grey kangaroos: A field experiment</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>61</volume>, <fpage>1013</fpage>&#x02013;<lpage>1021</lpage>. <pub-id pub-id-type="doi">10.1006/anbe.2001.1686</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0005"><mixed-citation publication-type="journal" id="ece35818-cit-0005">
+<string-name>
+<surname>Banks</surname>, <given-names>P. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dickman</surname>, <given-names>C. R.</given-names>
+</string-name> (<year>2007</year>). <article-title>Alien predation and the effects of multiple levels of prey naivet&#x000e9;</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>22</volume>, <fpage>229</fpage>&#x02013;<lpage>230</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2007.02.006</pub-id>
+<pub-id pub-id-type="pmid">17300855</pub-id></mixed-citation></ref><ref id="ece35818-bib-0006"><mixed-citation publication-type="book" id="ece35818-cit-0006">
+<string-name>
+<surname>Barton</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barton</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <source xml:lang="en">Package &#x02018;MuMIn&#x02019;. R package version 3.1</source>. <ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/MuMIn/MuMIn.pdf">https://cran.r-project.org/web/packages/MuMIn/MuMIn.pdf</ext-link>
+</mixed-citation></ref><ref id="ece35818-bib-0007"><mixed-citation publication-type="journal" id="ece35818-cit-0007">
+<string-name>
+<surname>Bates</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Sayialel</surname>, <given-names>K. N.</given-names>
+</string-name>, <string-name>
+<surname>Njiraini</surname>, <given-names>N. W.</given-names>
+</string-name>, <string-name>
+<surname>Poole</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Moss</surname>, <given-names>C. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Byrne</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>2007</year>). <article-title>African elephants have expectations about the locations of out&#x02010;of&#x02010;sight family members</article-title>. <source xml:lang="en">Biology Letters</source>, <volume>4</volume>, <fpage>34</fpage>&#x02013;<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1098/rsbl.2007.0529</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0008"><mixed-citation publication-type="book" id="ece35818-cit-0008">
+<string-name>
+<surname>Beauchamp</surname>, <given-names>G.</given-names>
+</string-name> (<year>2013</year>). <source xml:lang="en">Social predation: How group living benefits predators and prey</source>. <publisher-loc>Amsterdam, the Netherlands</publisher-loc>: <publisher-name>Elsevier</publisher-name>.</mixed-citation></ref><ref id="ece35818-bib-0009"><mixed-citation publication-type="journal" id="ece35818-cit-0009">
+<string-name>
+<surname>Best</surname>, <given-names>E. C.</given-names>
+</string-name>, <string-name>
+<surname>Dwyer</surname>, <given-names>R. G.</given-names>
+</string-name>, <string-name>
+<surname>Seddon</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Goldizen</surname>, <given-names>A. W.</given-names>
+</string-name> (<year>2014</year>). <article-title>Associations are more strongly correlated with space use than kinship in female eastern grey kangaroos</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>89</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2013.12.011</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0010"><mixed-citation publication-type="journal" id="ece35818-cit-0010">
+<string-name>
+<surname>Blumstein</surname>, <given-names>D. T.</given-names>
+</string-name> (<year>2002</year>). <article-title>Moving to suburbia: Ontogenetic and evolutionary consequences of life on predator&#x02010;free islands</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>29</volume>, <fpage>685</fpage>&#x02013;<lpage>692</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2699.2002.00717.x</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0011"><mixed-citation publication-type="journal" id="ece35818-cit-0011">
+<string-name>
+<surname>Blumstein</surname>, <given-names>D. T.</given-names>
+</string-name> (<year>2010</year>). <article-title>Flush early and avoid the rush: A general rule of antipredator behavior?</article-title>
+<source xml:lang="en">Behavioral Ecology</source>, <volume>21</volume>, <fpage>440</fpage>&#x02013;<lpage>442</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/arq030</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0012"><mixed-citation publication-type="journal" id="ece35818-cit-0012">
+<string-name>
+<surname>Blumstein</surname>, <given-names>D. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Daniel</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>2005</year>). <article-title>The loss of anti&#x02010;predator behaviour following isolation on islands</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>272</volume>, <fpage>1663</fpage>&#x02013;<lpage>1668</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2005.3147</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0013"><mixed-citation publication-type="journal" id="ece35818-cit-0013">
+<string-name>
+<surname>Bonenfant</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kramer</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>1996</year>). <article-title>The influence of distance to burrow on flight initiation distance in the woodchuck, <italic>Marmota monax</italic>
+</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>7</volume>, <fpage>299</fpage>&#x02013;<lpage>303</lpage>.</mixed-citation></ref><ref id="ece35818-bib-0014"><mixed-citation publication-type="journal" id="ece35818-cit-0014">
+<string-name>
+<surname>Bonnot</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Morellet</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Verheyden</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Cargnelutti</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Lourtet</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hewison</surname>, <given-names>A. J. M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Habitat use under predation risk: Hunting, roads and human dwellings influence the spatial behaviour of roe deer</article-title>. <source xml:lang="en">European Journal of Wildlife Research</source>, <volume>59</volume>, <fpage>185</fpage>&#x02013;<lpage>193</lpage>. <pub-id pub-id-type="doi">10.1007/s10344-012-0665-8</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0015"><mixed-citation publication-type="journal" id="ece35818-cit-0015">
+<string-name>
+<surname>Boom</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ben&#x02010;Ami</surname>, <given-names>D.</given-names>
+</string-name> (<year>2013</year>). <article-title>Kangaroos at a crossroads: Environmental law and the kangaroo industry</article-title>. <source xml:lang="en">Environmental and Planning Law Journal</source>, <volume>30</volume>, <fpage>162</fpage>&#x02013;<lpage>181</lpage>.</mixed-citation></ref><ref id="ece35818-bib-0016"><mixed-citation publication-type="journal" id="ece35818-cit-0016">
+<string-name>
+<surname>Boom</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ben&#x02010;Ami</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Croft</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Cushing</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ramp</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Boronyak</surname>, <given-names>L.</given-names>
+</string-name> (<year>2012</year>). <article-title>'Pest' and resource: A legal history of Australia's kangaroos</article-title>. <source xml:lang="en">Animal Studies Journal</source>, <volume>1</volume>, <fpage>17</fpage>&#x02013;<lpage>40</lpage>.</mixed-citation></ref><ref id="ece35818-bib-0017"><mixed-citation publication-type="book" id="ece35818-cit-0017">
+<string-name>
+<surname>Burnham</surname>, <given-names>K. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Anderson</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2002</year>). <source xml:lang="en">A practical information&#x02010;theoretic approach. Model selection and multimodel inference</source> (<edition>2nd ed.</edition>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="ece35818-bib-0018"><mixed-citation publication-type="journal" id="ece35818-cit-0018">
+<string-name>
+<surname>C&#x000e1;rdenas</surname>, <given-names>Y. L.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Zung</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blumstein</surname>, <given-names>D. T.</given-names>
+</string-name> (<year>2005</year>). <article-title>Evaluating temporal and spatial margins of safety in galahs</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>70</volume>, <fpage>1395</fpage>&#x02013;<lpage>1399</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2005.03.022</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0019"><mixed-citation publication-type="journal" id="ece35818-cit-0019">
+<string-name>
+<surname>Carter</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Pays</surname>, <given-names>O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Goldizen</surname>, <given-names>A. W.</given-names>
+</string-name> (<year>2009</year>). <article-title>Individual variation in the relationship between vigilance and group size in eastern grey kangaroos</article-title>. <source xml:lang="en">Behavioral Ecology and Sociobiology</source>, <volume>64</volume>, <fpage>237</fpage>&#x02013;<lpage>245</lpage>. <pub-id pub-id-type="doi">10.1007/s00265-009-0840-4</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0020"><mixed-citation publication-type="journal" id="ece35818-cit-0020">
+<string-name>
+<surname>Caughley</surname>, <given-names>G. J.</given-names>
+</string-name> (<year>1964</year>). <article-title>Density and dispersion of two species of kangaroo in relation to habitat</article-title>. <source xml:lang="en">Australian Journal of Zoology</source>, <volume>12</volume>, <fpage>238</fpage>&#x02013;<lpage>249</lpage>. <pub-id pub-id-type="doi">10.1071/ZO9640238</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0021"><mixed-citation publication-type="journal" id="ece35818-cit-0021">
+<string-name>
+<surname>Ciuti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Northrup</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Muhly</surname>, <given-names>T. B.</given-names>
+</string-name>, <string-name>
+<surname>Simi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Musiani</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pitt</surname>, <given-names>J. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Boyce</surname>, <given-names>M. S.</given-names>
+</string-name> (<year>2012</year>). <article-title>Effects of humans on behaviour of wildlife exceed those of natural predators in a landscape of fear</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>7</volume>, <elocation-id>e50611</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0050611</pub-id>
+<pub-id pub-id-type="pmid">23226330</pub-id></mixed-citation></ref><ref id="ece35818-bib-0022"><mixed-citation publication-type="journal" id="ece35818-cit-0022">
+<string-name>
+<surname>Clarke</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>M. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jarman</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>1995</year>). <article-title>Diurnal and nocturnal grouping and foraging behaviors of free&#x02010;ranging eastern grey kangaroos</article-title>. <source xml:lang="en">Australian Journal of Zoology</source>, <volume>43</volume>, <fpage>519</fpage>&#x02013;<lpage>529</lpage>. <pub-id pub-id-type="doi">10.1071/ZO9950519</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0023"><mixed-citation publication-type="journal" id="ece35818-cit-0023">
+<string-name>
+<surname>Cooper</surname>, <given-names>W. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blumstein</surname>, <given-names>D. T.</given-names>
+</string-name> (<year>2013</year>). <article-title>Novel effects of monitoring predators on costs of fleeing and not fleeing explain flushing early in economic escape theory</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>25</volume>, <fpage>44</fpage>&#x02013;<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/art083</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0024"><mixed-citation publication-type="journal" id="ece35818-cit-0024">
+<string-name>
+<surname>Cooper</surname>, <given-names>W. E.</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e9;rez&#x02010;Mellado</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Baird</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Baird</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Caldwell</surname>, <given-names>J. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vitt</surname>, <given-names>L. J.</given-names>
+</string-name> (<year>2003</year>). <article-title>Effects of risk, cost, and their interaction on optimal escape by nonrefuging Bonaire whiptail lizards, <italic>Cnemidophorus murinus</italic>
+</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>14</volume>, <fpage>288</fpage>&#x02013;<lpage>293</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/14.2.288</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0025"><mixed-citation publication-type="journal" id="ece35818-cit-0025">
+<string-name>
+<surname>Coulson</surname>, <given-names>G.</given-names>
+</string-name> (<year>2009</year>). <article-title>Behavioural ecology of red and grey kangaroos: Caughley's insights into individuals, associations and dispersion</article-title>. <source xml:lang="en">Wildlife Research</source>, <volume>36</volume>, <fpage>57</fpage>&#x02013;<lpage>69</lpage>. <pub-id pub-id-type="doi">10.1071/WR08038</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0026"><mixed-citation publication-type="journal" id="ece35818-cit-0026">
+<string-name>
+<surname>Cripps</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Elgar</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coulson</surname>, <given-names>G.</given-names>
+</string-name> (<year>2011</year>). <article-title>Experimental manipulation of fertility reveals potential lactation costs in a free&#x02010;ranging marsupial</article-title>. <source xml:lang="en">Biology Letters</source>, <volume>7</volume>, <fpage>859</fpage>&#x02013;<lpage>862</lpage>. <pub-id pub-id-type="doi">10.1098/rsbl.2011.0526</pub-id>
+<pub-id pub-id-type="pmid">21733874</pub-id></mixed-citation></ref><ref id="ece35818-bib-0027"><mixed-citation publication-type="journal" id="ece35818-cit-0027">
+<string-name>
+<surname>Dacier</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Maia</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Agustinho</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barros</surname>, <given-names>M.</given-names>
+</string-name> (<year>2006</year>). <article-title>Rapid habituation of scan behavior in captive marmosets following brief predator encounters</article-title>. <source xml:lang="en">Behavioural Processes</source>, <volume>71</volume>, <fpage>66</fpage>&#x02013;<lpage>69</lpage>. <pub-id pub-id-type="doi">10.1016/j.beproc.2005.09.006</pub-id>
+<pub-id pub-id-type="pmid">16246505</pub-id></mixed-citation></ref><ref id="ece35818-bib-0028"><mixed-citation publication-type="journal" id="ece35818-cit-0028">
+<string-name>
+<surname>Daily</surname>, <given-names>G. C.</given-names>
+</string-name>, <string-name>
+<surname>Ceballos</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Pacheco</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Suz&#x000e1;n</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>S&#x000e1;nchez&#x02010;Azofeifa</surname>, <given-names>A.</given-names>
+</string-name> (<year>2003</year>). <article-title>Countryside biogeography of neotropical mammals: Conservation opportunities in agricultural landscapes of Costa Rica</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>17</volume>, <fpage>1814</fpage>&#x02013;<lpage>1826</lpage>. <pub-id pub-id-type="doi">10.1111/j.1523-1739.2003.00298.x</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0029"><mixed-citation publication-type="journal" id="ece35818-cit-0029">
+<string-name>
+<surname>Dall</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name>
+<surname>Houston</surname>, <given-names>A. I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McNamara</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2004</year>). <article-title>The behavioural ecology of personality: Consistent individual differences from an adaptive perspective</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>7</volume>, <fpage>734</fpage>&#x02013;<lpage>739</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2004.00618.x</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0030"><mixed-citation publication-type="journal" id="ece35818-cit-0030">
+<string-name>
+<surname>De Boer</surname>, <given-names>H. Y.</given-names>
+</string-name>, <string-name>
+<surname>Van Breukelen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Hootsmans</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Van Wieren</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>2004</year>). <article-title>Flight distance in roe deer <italic>Capreolus capreolus</italic> and fallow deer <italic>Dama dama</italic> as related to hunting and other factors</article-title>. <source xml:lang="en">Wildlife Biology</source>, <volume>10</volume>, <fpage>35</fpage>&#x02013;<lpage>42</lpage>.</mixed-citation></ref><ref id="ece35818-bib-0031"><mixed-citation publication-type="journal" id="ece35818-cit-0031">
+<string-name>
+<surname>Delacasa</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lubow</surname>, <given-names>R.</given-names>
+</string-name> (<year>1995</year>). <article-title>Latent inhibition in conditioned taste aversion: The roles of stimulus frequency and duration and the amount of fluid ingested during preexposure</article-title>. <source xml:lang="en">Neurobiology of Learning and Memory</source>, <volume>64</volume>, <fpage>125</fpage>&#x02013;<lpage>132</lpage>. <pub-id pub-id-type="doi">10.1006/nlme.1995.1051</pub-id>
+<pub-id pub-id-type="pmid">7582820</pub-id></mixed-citation></ref><ref id="ece35818-bib-0032"><mixed-citation publication-type="journal" id="ece35818-cit-0032">
+<string-name>
+<surname>Descovich</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Tribe</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Phillips</surname>, <given-names>C.</given-names>
+</string-name> (<year>2015</year>). <article-title>A welfare assessment of methods used for harvesting, hunting and population control of kangaroos and wallabies</article-title>. <source xml:lang="en">Animal Welfare</source>, <volume>24</volume>, <fpage>255</fpage>&#x02013;<lpage>265</lpage>. <pub-id pub-id-type="doi">10.7120/09627286.24.3.255</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0033"><mixed-citation publication-type="journal" id="ece35818-cit-0033">
+<string-name>
+<surname>Dickman</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Complexities of conflict: The importance of considering social factors for effectively resolving human&#x02013;wildlife conflict</article-title>. <source xml:lang="en">Animal Conservation</source>, <volume>13</volume>, <fpage>458</fpage>&#x02013;<lpage>466</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-1795.2010.00368.x</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0034"><mixed-citation publication-type="journal" id="ece35818-cit-0034">
+<string-name>
+<surname>Dill</surname>, <given-names>L. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Houtman</surname>, <given-names>R.</given-names>
+</string-name> (<year>1989</year>). <article-title>The influence of distance to refuge on flight initiation distance in the gray squirrel (<italic>Sciurus carolinensis</italic>)</article-title>. <source xml:lang="en">Canadian Journal of Zoology</source>, <volume>67</volume>, <fpage>233</fpage>&#x02013;<lpage>235</lpage>.</mixed-citation></ref><ref id="ece35818-bib-0035"><mixed-citation publication-type="journal" id="ece35818-cit-0035">
+<string-name>
+<surname>Ducatez</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sayol</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sol</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lefebvre</surname>, <given-names>L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Are urban vertebrates city specialists, artificial habitat exploiters, or environmental generalists?</article-title>
+<source xml:lang="en">Integrative and Comparative Biology</source>, <volume>58</volume>, <fpage>929</fpage>&#x02013;<lpage>938</lpage>.<pub-id pub-id-type="pmid">30102409</pub-id></mixed-citation></ref><ref id="ece35818-bib-0036"><mixed-citation publication-type="journal" id="ece35818-cit-0036">
+<string-name>
+<surname>Dumont</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Pasquaretta</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>R&#x000e9;ale</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bogliani</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>von Hardenberg</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Flight initiation distance and starting distance: Biological effect or mathematical artefact?</article-title>
+<source xml:lang="en">Ethology</source>, <volume>118</volume>, <fpage>1051</fpage>&#x02013;<lpage>1062</lpage>. <pub-id pub-id-type="doi">10.1111/eth.12006</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0037"><mixed-citation publication-type="journal" id="ece35818-cit-0037">
+<string-name>
+<surname>Edwards</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Best</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Blomberg</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Goldizen</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Individual traits influence vigilance in wild female eastern grey kangaroos</article-title>. <source xml:lang="en">Australian Journal of Zoology</source>, <volume>61</volume>, <fpage>332</fpage>&#x02013;<lpage>341</lpage>. <pub-id pub-id-type="doi">10.1071/ZO13025</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0038"><mixed-citation publication-type="journal" id="ece35818-cit-0038">
+<string-name>
+<surname>Elfstr&#x000f6;m</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zedrosser</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>St&#x000f8;en</surname>, <given-names>O. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Swenson</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>2014</year>). <article-title>Ultimate and proximate mechanisms underlying the occurrence of bears close to human settlements: Review and management implications</article-title>. <source xml:lang="en">Mammal Review</source>, <volume>44</volume>, <fpage>5</fpage>&#x02013;<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2907.2012.00223.x</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0039"><mixed-citation publication-type="book" id="ece35818-cit-0039">
+<collab collab-type="authors">ESRI</collab>
+(<year>2016</year>). <source xml:lang="en">ArcGIS Desktop: Release 10.5</source>. <publisher-loc>Redlands, CA</publisher-loc>: <publisher-name>Environmental Systems Research Institute</publisher-name>.</mixed-citation></ref><ref id="ece35818-bib-0040"><mixed-citation publication-type="journal" id="ece35818-cit-0040">
+<string-name>
+<surname>Favreau</surname>, <given-names>F.&#x02010;R.</given-names>
+</string-name>, <string-name>
+<surname>Goldizen</surname>, <given-names>A. W.</given-names>
+</string-name>, <string-name>
+<surname>Fritz</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pays</surname>, <given-names>O.</given-names>
+</string-name> (<year>2018</year>). <article-title>Food supply fluctuations constrain group sizes of kangaroos and in turn shape their vigilance and feeding strategies</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>135</volume>, <fpage>165</fpage>&#x02013;<lpage>176</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2017.11.020</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0041"><mixed-citation publication-type="journal" id="ece35818-cit-0041">
+<string-name>
+<surname>Fischer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Brosi</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Daily</surname>, <given-names>G. C.</given-names>
+</string-name>, <string-name>
+<surname>Ehrlich</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>Goldman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Goldstein</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Tallis</surname>, <given-names>H.</given-names>
+</string-name> (<year>2008</year>). <article-title>Should agricultural policies encourage land sparing or wildlife&#x02010;friendly farming?</article-title>
+<source xml:lang="en">Frontiers in Ecology and the Environment</source>, <volume>6</volume>, <fpage>380</fpage>&#x02013;<lpage>385</lpage>. <pub-id pub-id-type="doi">10.1890/070019</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0042"><mixed-citation publication-type="journal" id="ece35818-cit-0042">
+<string-name>
+<surname>Fischer</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Ahlers</surname>, <given-names>A. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Miller</surname>, <given-names>J. R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Categorizing wildlife responses to urbanization and conservation implications of terminology</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>29</volume>, <fpage>1246</fpage>&#x02013;<lpage>1248</lpage>. <pub-id pub-id-type="doi">10.1111/cobi.12451</pub-id>
+<pub-id pub-id-type="pmid">25581129</pub-id></mixed-citation></ref><ref id="ece35818-bib-0043"><mixed-citation publication-type="book" id="ece35818-cit-0043">
+<collab collab-type="authors">Food and Agriculture Organization of the United Nations</collab>
+(<year>2012</year>). <source xml:lang="en">Livestock and Landscapes</source>. Sustainability Pathways.<ext-link ext-link-type="uri" xlink:href="http://www.fao.org/3/ar591e/ar591e.pdf">http://www.fao.org/3/ar591e/ar591e.pdf</ext-link>
+</mixed-citation></ref><ref id="ece35818-bib-0044"><mixed-citation publication-type="journal" id="ece35818-cit-0044">
+<string-name>
+<surname>Fraser</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>MacRae</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2011</year>). <article-title>Four types of activities that affect animals: Implications for animal welfare science and animal ethics philosophy</article-title>. <source xml:lang="en">Animal Welfare</source>, <volume>20</volume>, <fpage>581</fpage>&#x02013;<lpage>590</lpage>.</mixed-citation></ref><ref id="ece35818-bib-0045"><mixed-citation publication-type="journal" id="ece35818-cit-0045">
+<string-name>
+<surname>Frid</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dill</surname>, <given-names>L.</given-names>
+</string-name> (<year>2002</year>). <article-title>Human&#x02010;caused disturbance stimuli as a form of predation risk</article-title>. <source xml:lang="en">Conservation Ecology</source>, <volume>6</volume>, <fpage>11</fpage>.</mixed-citation></ref><ref id="ece35818-bib-0046"><mixed-citation publication-type="journal" id="ece35818-cit-0046">
+<string-name>
+<surname>Gabrey</surname>, <given-names>S. W.</given-names>
+</string-name> (<year>1997</year>). <article-title>Bird and small mammal abundance at four types of waste&#x02010;management facilities in northeast Ohio</article-title>. <source xml:lang="en">Landscape and Urban Planning</source>, <volume>37</volume>, <fpage>223</fpage>&#x02013;<lpage>233</lpage>. <pub-id pub-id-type="doi">10.1016/S0169-2046(97)80006-0</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0047"><mixed-citation publication-type="book" id="ece35818-cit-0047">
+<string-name>
+<surname>Gammage</surname>, <given-names>B.</given-names>
+</string-name> (<year>2012</year>). <source xml:lang="en">The biggest Estate on earth: How Aborigines made Australia</source>. <publisher-loc>Sydney, NSW</publisher-loc>: <publisher-name>Allen &#x00026; Unwin</publisher-name>.</mixed-citation></ref><ref id="ece35818-bib-0048"><mixed-citation publication-type="journal" id="ece35818-cit-0048">
+<string-name>
+<surname>Gaynor</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Hojnowski</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>, <given-names>N. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brashares</surname>, <given-names>J. S.</given-names>
+</string-name> (<year>2018</year>). <article-title>The influence of human disturbance on wildlife nocturnality</article-title>. <source xml:lang="en">Science</source>, <volume>360</volume>, <fpage>1232</fpage>&#x02013;<lpage>1235</lpage>. <pub-id pub-id-type="doi">10.1126/science.aar7121</pub-id>
+<pub-id pub-id-type="pmid">29903973</pub-id></mixed-citation></ref><ref id="ece35818-bib-0049"><mixed-citation publication-type="journal" id="ece35818-cit-0049">
+<string-name>
+<surname>G&#x000e9;lin</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Coulson</surname>, <given-names>G. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Festa&#x02010;Bianchet</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Offspring sex, current and previous reproduction affect feeding behaviour in wild eastern grey kangaroos</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>86</volume>, <fpage>885</fpage>&#x02013;<lpage>891</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2013.08.016</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0050"><mixed-citation publication-type="journal" id="ece35818-cit-0050">
+<string-name>
+<surname>Gonzalo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>). <article-title>Adaptive forgetting in Iberian green frog tadpoles (<italic>Pelophylax perezi</italic>): Learned irrelevance and latent inhibition may avoid predator misidentification</article-title>. <source xml:lang="en">Journal of Comparative Psychology</source>, <volume>127</volume>, <fpage>56</fpage>
+<pub-id pub-id-type="doi">10.1037/a0029173</pub-id>
+<pub-id pub-id-type="pmid">22866772</pub-id></mixed-citation></ref><ref id="ece35818-bib-0051"><mixed-citation publication-type="journal" id="ece35818-cit-0051">
+<string-name>
+<surname>Grueber</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Nakagawa</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Laws</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jamieson</surname>, <given-names>I.</given-names>
+</string-name> (<year>2011</year>). <article-title>Multimodel inference in ecology and evolution: Challenges and solutions</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>24</volume>, <fpage>699</fpage>&#x02013;<lpage>711</lpage>. <pub-id pub-id-type="doi">10.1111/j.1420-9101.2010.02210.x</pub-id>
+<pub-id pub-id-type="pmid">21272107</pub-id></mixed-citation></ref><ref id="ece35818-bib-0052"><mixed-citation publication-type="journal" id="ece35818-cit-0052">
+<string-name>
+<surname>Heathcote</surname>, <given-names>C. F.</given-names>
+</string-name> (<year>1987</year>). <article-title>Grouping of eastern grey kangaroos in open habitat</article-title>. <source xml:lang="en">Wildlife Research</source>, <volume>14</volume>, <fpage>343</fpage>&#x02013;<lpage>348</lpage>. <pub-id pub-id-type="doi">10.1071/WR9870343</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0053"><mixed-citation publication-type="journal" id="ece35818-cit-0053">
+<string-name>
+<surname>Inoue</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nagai</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Koizumi</surname>, <given-names>H.</given-names>
+</string-name> (<year>2015</year>). <article-title>Utilization of ground&#x02010;based digital photography for the evaluation of seasonal changes in the aboveground green biomass and foliage phenology in a grassland ecosystem</article-title>. <source xml:lang="en">Ecological Informatics</source>, <volume>25</volume>, <fpage>1</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecoinf.2014.09.013</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0054"><mixed-citation publication-type="journal" id="ece35818-cit-0054">
+<string-name>
+<surname>Jarman</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>1987</year>). <article-title>Group size and activity in eastern grey kangaroos</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>35</volume>, <fpage>1044</fpage>&#x02013;<lpage>1050</lpage>. <pub-id pub-id-type="doi">10.1016/S0003-3472(87)80161-6</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0055"><mixed-citation publication-type="book" id="ece35818-cit-0055">
+<string-name>
+<surname>Jarman</surname>, <given-names>P. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coulson</surname>, <given-names>G.</given-names>
+</string-name> (<year>1989</year>). <chapter-title>Dynamics and adaptiveness of grouping in macropods</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Grigg</surname><given-names>G.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Jarman</surname><given-names>P.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Hume</surname><given-names>I.</given-names></name></person-group> (Eds.), <source xml:lang="en">Kangaroos, wallabies and rat&#x02010;kangaroos</source> (pp. <fpage>527</fpage>&#x02013;<lpage>547</lpage>). <publisher-loc>Sydney, NSW</publisher-loc>: <publisher-name>Surrey Beatty and Sons</publisher-name>.</mixed-citation></ref><ref id="ece35818-bib-0056"><mixed-citation publication-type="journal" id="ece35818-cit-0056">
+<string-name>
+<surname>Jayakody</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sibbald</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>, <given-names>I. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lambin</surname>, <given-names>X.</given-names>
+</string-name> (<year>2008</year>). <article-title>Red deer <italic>Cervus elephus</italic> vigilance behaviour differs with habitat and type of human disturbance</article-title>. <source xml:lang="en">Wildlife Biology</source>, <volume>14</volume>, <fpage>81</fpage>&#x02013;<lpage>92</lpage>. <pub-id pub-id-type="doi">10.2981/0909-6396(2008)14[81:RDCEVB]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0057"><mixed-citation publication-type="journal" id="ece35818-cit-0057">
+<string-name>
+<surname>Kark</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Iwaniuk</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schalimtzek</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Banker</surname>, <given-names>E.</given-names>
+</string-name> (<year>2007</year>). <article-title>Living in the city: Can anyone become an &#x02018;urban exploiter&#x02019;?</article-title>
+<source xml:lang="en">Journal of Biogeography</source>, <volume>34</volume>, <fpage>638</fpage>&#x02013;<lpage>651</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2699.2006.01638.x</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0058"><mixed-citation publication-type="journal" id="ece35818-cit-0058">
+<string-name>
+<surname>Kaufmann</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>1975</year>). <article-title>Field observations of the social behaviour of the eastern grey kangaroo, <italic>Macropus giganteus</italic>
+</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>23</volume>(<issue>Part 1</issue>), <fpage>214</fpage>&#x02013;<lpage>221</lpage>. <pub-id pub-id-type="doi">10.1016/0003-3472(75)90066-4</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0059"><mixed-citation publication-type="journal" id="ece35818-cit-0059">
+<string-name>
+<surname>King</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Festa&#x02010;Bianchet</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coulson</surname>, <given-names>G.</given-names>
+</string-name> (<year>2011</year>). <article-title>A capture technique for free&#x02010;ranging eastern grey kangaroos (<italic>Macropus giganteus</italic>) habituated to humans</article-title>. <source xml:lang="en">Australian Mammalogy</source>, <volume>33</volume>, <fpage>47</fpage>&#x02013;<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1071/AM10029</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0060"><mixed-citation publication-type="journal" id="ece35818-cit-0060">
+<string-name>
+<surname>Kretser</surname>, <given-names>H. E.</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>, <given-names>P. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Knuth</surname>, <given-names>B. A.</given-names>
+</string-name> (<year>2008</year>). <article-title>Housing density as an indicator of spatial patterns of reported human&#x02013;wildlife interactions in Northern New York</article-title>. <source xml:lang="en">Landscape and Urban Planning</source>, <volume>84</volume>, <fpage>282</fpage>&#x02013;<lpage>292</lpage>. <pub-id pub-id-type="doi">10.1016/j.landurbplan.2007.08.007</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0061"><mixed-citation publication-type="journal" id="ece35818-cit-0061">
+<string-name>
+<surname>Lawrence</surname>, <given-names>A. B.</given-names>
+</string-name> (<year>2008</year>). <article-title>Applied animal behaviour science: Past, present and future prospects</article-title>. <source xml:lang="en">Applied Animal Behaviour Science</source>, <volume>115</volume>, <fpage>1</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1016/j.applanim.2008.06.003</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0062"><mixed-citation publication-type="book" id="ece35818-cit-0062">
+<string-name>
+<surname>Lee</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Croft</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ramp</surname>, <given-names>D.</given-names>
+</string-name> (<year>2010</year>). <chapter-title>Flight response as a causative factor in kangaroo&#x02013;vehicle collisions</chapter-title> In <source xml:lang="en">Macropods: The Biology of kangaroos, wallabies, and rat&#x02010;kangaroos</source> (pp. <fpage>301</fpage>&#x02013;<lpage>311</lpage>). <publisher-loc>Melbourne, VIC</publisher-loc>: <publisher-name>CSRIO Publishing</publisher-name>.</mixed-citation></ref><ref id="ece35818-bib-0063"><mixed-citation publication-type="journal" id="ece35818-cit-0063">
+<string-name>
+<surname>Letnic</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Crowther</surname>, <given-names>M. S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Patterns in the abundance of kangaroo populations in arid Australia are consistent with the exploitation ecosystems hypothesis</article-title>. <source xml:lang="en">Oikos</source>, <volume>122</volume>, <fpage>761</fpage>&#x02013;<lpage>769</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0706.2012.20425.x</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0064"><mixed-citation publication-type="journal" id="ece35818-cit-0064">
+<string-name>
+<surname>Lone</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Loe</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name>
+<surname>Meisingset</surname>, <given-names>E. L.</given-names>
+</string-name>, <string-name>
+<surname>Stamnes</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mysterud</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>). <article-title>An adaptive behavioural response to hunting: Surviving male red deer shift habitat at the onset of the hunting season</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>102</volume>, <fpage>127</fpage>&#x02013;<lpage>138</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2015.01.012</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0065"><mixed-citation publication-type="journal" id="ece35818-cit-0065">
+<string-name>
+<surname>Lowry</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Lill</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wong</surname>, <given-names>B. B.</given-names>
+</string-name> (<year>2013</year>). <article-title>Behavioural responses of wildlife to urban environments</article-title>. <source xml:lang="en">Biological Reviews</source>, <volume>88</volume>, <fpage>537</fpage>&#x02013;<lpage>549</lpage>. <pub-id pub-id-type="doi">10.1111/brv.12012</pub-id>
+<pub-id pub-id-type="pmid">23279382</pub-id></mixed-citation></ref><ref id="ece35818-bib-0066"><mixed-citation publication-type="journal" id="ece35818-cit-0066">
+<string-name>
+<surname>Manor</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Saltz</surname>, <given-names>D.</given-names>
+</string-name> (<year>2003</year>). <article-title>Impact of human nuisance disturbance on vigilance and group size of a social ungulate</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>13</volume>, <fpage>1830</fpage>&#x02013;<lpage>1834</lpage>. <pub-id pub-id-type="doi">10.1890/01-5354</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0067"><mixed-citation publication-type="journal" id="ece35818-cit-0067">
+<string-name>
+<surname>Matson</surname>, <given-names>T. K.</given-names>
+</string-name>, <string-name>
+<surname>Goldizen</surname>, <given-names>A. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Putland</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2005</year>). <article-title>Factors affecting the vigilance and flight behaviour of impalas</article-title>. <source xml:lang="en">South African Journal of Wildlife Research</source>, <volume>35</volume>, <fpage>1</fpage>&#x02013;<lpage>11</lpage>.</mixed-citation></ref><ref id="ece35818-bib-0068"><mixed-citation publication-type="journal" id="ece35818-cit-0068">
+<string-name>
+<surname>McComb</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shannon</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Sayialel</surname>, <given-names>K. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Moss</surname>, <given-names>C.</given-names>
+</string-name> (<year>2014</year>). <article-title>Elephants can determine ethnicity, gender, and age from acoustic cues in human voices</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>111</volume>, <fpage>5433</fpage>&#x02013;<lpage>5438</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1321543111</pub-id>
+<pub-id pub-id-type="pmid">24616492</pub-id></mixed-citation></ref><ref id="ece35818-bib-0069"><mixed-citation publication-type="journal" id="ece35818-cit-0069">
+<string-name>
+<surname>Miller</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Garner</surname>, <given-names>J. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mench</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2006</year>). <article-title>Is fearfulness a trait that can be measured with behavioural tests? A validation of four fear tests for Japanese quail</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>71</volume>, <fpage>1323</fpage>&#x02013;<lpage>1334</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2005.08.018</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0070"><mixed-citation publication-type="book" id="ece35818-cit-0070">
+<string-name>
+<surname>Norberg</surname>, <given-names>U. M.</given-names>
+</string-name> (<year>2012</year>). <source xml:lang="en">Vertebrate flight: Mechanics, physiology, morphology, ecology and evolution</source>. <publisher-loc>Berlin, Germany</publisher-loc>: <publisher-name>Springer Science &#x00026; Business Media</publisher-name>.</mixed-citation></ref><ref id="ece35818-bib-0071"><mixed-citation publication-type="journal" id="ece35818-cit-0071">
+<string-name>
+<surname>Orams</surname>, <given-names>M. B.</given-names>
+</string-name> (<year>2002</year>). <article-title>Feeding wildlife as a tourism attraction: A review of issues and impacts</article-title>. <source xml:lang="en">Tourism Management</source>, <volume>23</volume>, <fpage>281</fpage>&#x02013;<lpage>293</lpage>. <pub-id pub-id-type="doi">10.1016/S0261-5177(01)00080-2</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0072"><mixed-citation publication-type="journal" id="ece35818-cit-0072">
+<string-name>
+<surname>Pays</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Beauchamp</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>, <given-names>A. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Goldizen</surname>, <given-names>A. W.</given-names>
+</string-name> (<year>2013</year>). <article-title>Foraging in groups allows collective predator detection in a mammal species without alarm calls</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>24</volume>, <fpage>1229</fpage>&#x02013;<lpage>1236</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/art057</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0073"><mixed-citation publication-type="journal" id="ece35818-cit-0073">
+<string-name>
+<surname>Pays</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Blanchard</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Valeix</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chamaill&#x000e9;&#x02010;Jammes</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Duncan</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e9;riquet</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Fritz</surname>, <given-names>H.</given-names>
+</string-name> (<year>2012</year>). <article-title>Detecting predators and locating competitors while foraging: An experimental study of a medium&#x02010;sized herbivore in an African savanna</article-title>. <source xml:lang="en">Oecologia</source>, <volume>169</volume>, <fpage>419</fpage>&#x02013;<lpage>430</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-011-2218-3</pub-id>
+<pub-id pub-id-type="pmid">22200851</pub-id></mixed-citation></ref><ref id="ece35818-bib-0074"><mixed-citation publication-type="journal" id="ece35818-cit-0074">
+<string-name>
+<surname>Plummer</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>Risely</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Toms</surname>, <given-names>M. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Siriwardena</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>2019</year>). <article-title>The composition of British bird communities is associated with long&#x02010;term garden bird feeding</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>10</volume>, <fpage>2088</fpage>
+<pub-id pub-id-type="doi">10.1038/s41467-019-10111-5</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0075"><mixed-citation publication-type="journal" id="ece35818-cit-0075">
+<string-name>
+<surname>Ramp</surname>, <given-names>D.</given-names>
+</string-name> (<year>2013</year>). <article-title>Bringing compassion to the ethical dilemma in killing kangaroos for conservation</article-title>. <source xml:lang="en">Journal of Bioethical Inquiry</source>, <volume>10</volume>, <fpage>267</fpage>&#x02013;<lpage>272</lpage>. <pub-id pub-id-type="doi">10.1007/s11673-013-9442-y</pub-id>
+<pub-id pub-id-type="pmid">23595959</pub-id></mixed-citation></ref><ref id="ece35818-bib-0076"><mixed-citation publication-type="journal" id="ece35818-cit-0076">
+<string-name>
+<surname>Rode</surname>, <given-names>K. D.</given-names>
+</string-name>, <string-name>
+<surname>Farley</surname>, <given-names>S. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Robbins</surname>, <given-names>C. T.</given-names>
+</string-name> (<year>2006</year>). <article-title>Behavioral responses of brown bears mediate nutritional effects of experimentally introduced tourism</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>133</volume>, <fpage>70</fpage>&#x02013;<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2006.05.021</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0077"><mixed-citation publication-type="book" id="ece35818-cit-0077">
+<string-name>
+<surname>Ross</surname>, <given-names>G. A.</given-names>
+</string-name> (<year>2004</year>). <chapter-title>Ibis in urban Sydney: A gift from Ra or a pharaoh's curse</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Lunney</surname><given-names>D.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Burgin</surname><given-names>S.</given-names></name></person-group> (Eds.), <source xml:lang="en">Urban wildlife: More than meets the eye</source> (pp. <fpage>148</fpage>&#x02013;<lpage>152</lpage>). <publisher-loc>Sydney, NSW</publisher-loc>: <publisher-name>Royal Zoological Society of New South Wales</publisher-name>.</mixed-citation></ref><ref id="ece35818-bib-0078"><mixed-citation publication-type="journal" id="ece35818-cit-0078">
+<string-name>
+<surname>Russell</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Bowman</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Herbert</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kohen</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>). <article-title>Suburban attitudes towards the common brushtail possum <italic>Trichosurus vulpecula</italic> and the common ringtail possum <italic>Pseudocheirus peregrinus</italic> in the northern suburbs of Sydney</article-title>. <source xml:lang="en">Australian Zoologist</source>, <volume>35</volume>, <fpage>888</fpage>&#x02013;<lpage>894</lpage>.</mixed-citation></ref><ref id="ece35818-bib-0079"><mixed-citation publication-type="journal" id="ece35818-cit-0079">
+<string-name>
+<surname>Sa&#x000ef;d</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tolon</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Brandt</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baubet</surname>, <given-names>E.</given-names>
+</string-name> (<year>2012</year>). <article-title>Sex effect on habitat selection in response to hunting disturbance: The study of wild boar</article-title>. <source xml:lang="en">European Journal of Wildlife Research</source>, <volume>58</volume>, <fpage>107</fpage>&#x02013;<lpage>115</lpage>. <pub-id pub-id-type="doi">10.1007/s10344-011-0548-4</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0080"><mixed-citation publication-type="journal" id="ece35818-cit-0080">
+<string-name>
+<surname>Samia</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<surname>Nakagawa</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Nomura</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Rangel</surname>, <given-names>T. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blumstein</surname>, <given-names>D. T.</given-names>
+</string-name> (<year>2015</year>). <article-title>Increased tolerance to humans among disturbed wildlife</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>6</volume>, <fpage>8877</fpage>
+<pub-id pub-id-type="doi">10.1038/ncomms9877</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0081"><mixed-citation publication-type="journal" id="ece35818-cit-0081">
+<string-name>
+<surname>Sih</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ferrari</surname>, <given-names>M. C. O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Harris</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2011</year>). <article-title>Evolution and behavioural responses to human&#x02010;induced rapid environmental change</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>4</volume>, <fpage>367</fpage>&#x02013;<lpage>387</lpage>. <pub-id pub-id-type="doi">10.1111/j.1752-4571.2010.00166.x</pub-id>
+<pub-id pub-id-type="pmid">25567979</pub-id></mixed-citation></ref><ref id="ece35818-bib-0082"><mixed-citation publication-type="journal" id="ece35818-cit-0082">
+<string-name>
+<surname>Sol</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lapiedra</surname>, <given-names>O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gonz&#x000e1;lez-Lagos</surname>, <given-names>C.</given-names>
+</string-name> (<year>2013</year>). <article-title>Behavioural adjustments for a life in the city</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>85</volume>, <fpage>1101</fpage>&#x02013;<lpage>1112</lpage>.</mixed-citation></ref><ref id="ece35818-bib-0083"><mixed-citation publication-type="journal" id="ece35818-cit-0083">
+<string-name>
+<surname>Soulsbury</surname>, <given-names>C. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>White</surname>, <given-names>P. C. L.</given-names>
+</string-name> (<year>2016</year>). <article-title>Human&#x02013;wildlife interactions in urban areas: A review of conflicts, benefits and opportunities</article-title>. <source xml:lang="en">Wildlife Research</source>, <volume>42</volume>, <fpage>541</fpage>&#x02013;<lpage>553</lpage>. <pub-id pub-id-type="doi">10.1071/WR14229</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0084"><mixed-citation publication-type="journal" id="ece35818-cit-0084">
+<string-name>
+<surname>Southwell</surname>, <given-names>C. J.</given-names>
+</string-name> (<year>1984</year>). <article-title>Variability in grouping in the eastern grey kangaroo, <italic>Macropus giganteus</italic> I. Group density and group size</article-title>. <source xml:lang="en">Wildlife Research</source>, <volume>11</volume>, <fpage>423</fpage>&#x02013;<lpage>435</lpage>.</mixed-citation></ref><ref id="ece35818-bib-0085"><mixed-citation publication-type="journal" id="ece35818-cit-0085">
+<string-name>
+<surname>Stankowich</surname>, <given-names>T.</given-names>
+</string-name> (<year>2008</year>). <article-title>Ungulate flight responses to human disturbance: A review and meta&#x02010;analysis</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>141</volume>, <fpage>2159</fpage>&#x02013;<lpage>2173</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2008.06.026</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0086"><mixed-citation publication-type="journal" id="ece35818-cit-0086">
+<string-name>
+<surname>Stankowich</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blumstein</surname>, <given-names>D. T.</given-names>
+</string-name> (<year>2005</year>). <article-title>Fear in animals: A meta&#x02010;analysis and review of risk assessment</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>272</volume>, <fpage>2627</fpage>&#x02013;<lpage>2634</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2005.3251</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0087"><mixed-citation publication-type="journal" id="ece35818-cit-0087">
+<string-name>
+<surname>Stankowich</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coss</surname>, <given-names>R. G.</given-names>
+</string-name> (<year>2005</year>). <article-title>Effects of predator behavior and proximity on risk assessment by Columbian black&#x02010;tailed deer</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>17</volume>, <fpage>246</fpage>&#x02013;<lpage>254</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/arj020</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0088"><mixed-citation publication-type="book" id="ece35818-cit-0088">
+<string-name>
+<surname>Thibaut</surname>, <given-names>J. W.</given-names>
+</string-name> (<year>2017</year>). <source xml:lang="en">The social psychology of groups</source>. <publisher-loc>Abingdon, UK</publisher-loc>: <publisher-name>Routledge</publisher-name>.</mixed-citation></ref><ref id="ece35818-bib-0089"><mixed-citation publication-type="journal" id="ece35818-cit-0089">
+<string-name>
+<surname>Tigas</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Van Vuren</surname>, <given-names>D. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sauvajot</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>2002</year>). <article-title>Behavioral responses of bobcats and coyotes to habitat fragmentation and corridors in an urban environment</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>108</volume>, <fpage>299</fpage>&#x02013;<lpage>306</lpage>. <pub-id pub-id-type="doi">10.1016/S0006-3207(02)00120-9</pub-id>
+</mixed-citation></ref><ref id="ece35818-bib-0090"><mixed-citation publication-type="journal" id="ece35818-cit-0090">
+<string-name>
+<surname>Wallach</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>C. N.</given-names>
+</string-name>, <string-name>
+<surname>Ritchie</surname>, <given-names>E. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>O'Neill</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Predator control promotes invasive dominated ecological states</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>13</volume>, <fpage>1008</fpage>&#x02013;<lpage>1018</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2010.01492.x</pub-id>
+<pub-id pub-id-type="pmid">20545732</pub-id></mixed-citation></ref><ref id="ece35818-bib-0091"><mixed-citation publication-type="journal" id="ece35818-cit-0091">
+<string-name>
+<surname>Watson</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Shanahan</surname>, <given-names>D. F.</given-names>
+</string-name>, <string-name>
+<surname>Di Marco</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Allan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Laurance</surname>, <given-names>W. F.</given-names>
+</string-name>, <string-name>
+<surname>Sanderson</surname>, <given-names>E. W.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Venter</surname>, <given-names>O.</given-names>
+</string-name> (<year>2016</year>). <article-title>Catastrophic declines in wilderness areas undermine global environment targets</article-title>. <source xml:lang="en">Current Biology</source>, <volume>26</volume>, <fpage>2929</fpage>&#x02013;<lpage>2934</lpage>. <pub-id pub-id-type="doi">10.1016/j.cub.2016.08.049</pub-id>
+<pub-id pub-id-type="pmid">27618267</pub-id></mixed-citation></ref><ref id="ece35818-bib-0092"><mixed-citation publication-type="journal" id="ece35818-cit-0092">
+<string-name>
+<surname>Ydenberg</surname>, <given-names>R. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dill</surname>, <given-names>L. M.</given-names>
+</string-name> (<year>1986</year>). <article-title>The economics of fleeing from predators</article-title>. <source xml:lang="en">Advances in the Study of Behavior</source>, <volume>16</volume>, <fpage>229</fpage>&#x02013;<lpage>249</lpage>.</mixed-citation></ref><ref id="ece35818-bib-0093"><mixed-citation publication-type="journal" id="ece35818-cit-0093">
+<string-name>
+<surname>Zhou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Buesching</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Newman</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kaneko</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Macdonald</surname>, <given-names>D. W.</given-names>
+</string-name> (<year>2013</year>). <article-title>Balancing the benefits of ecotourism and development: The effects of visitor trail&#x02010;use on mammals in a protected area in rapidly developing China</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>165</volume>, <fpage>18</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2013.05.007</pub-id>
+</mixed-citation></ref></ref-list></back></article>

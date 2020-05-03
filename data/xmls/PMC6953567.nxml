@@ -1,0 +1,832 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938473</article-id><article-id pub-id-type="pmc">6953567</article-id><article-id pub-id-type="doi">10.1002/ece3.5738</article-id><article-id pub-id-type="publisher-id">ECE35738</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Distinct seasonal dynamics of responses to elevated CO<sub>2</sub> in two understorey grass species differing in shade&#x02010;tolerance</article-title><alt-title alt-title-type="left-running-head">HOLUB et al.</alt-title></title-group><contrib-group><contrib id="ece35738-cr-0001" contrib-type="author" corresp="yes"><name><surname>Holub</surname><given-names>Petr</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3582-7900</contrib-id><xref ref-type="aff" rid="ece35738-aff-0001">
+<sup>1</sup>
+</xref><address><email>holub.p@czechglobe.cz</email></address></contrib><contrib id="ece35738-cr-0002" contrib-type="author"><name><surname>Klem</surname><given-names>Karel</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6105-0429</contrib-id><xref ref-type="aff" rid="ece35738-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35738-cr-0003" contrib-type="author"><name><surname>Linder</surname><given-names>Sune</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9036-5422</contrib-id><xref ref-type="aff" rid="ece35738-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35738-cr-0004" contrib-type="author"><name><surname>Urban</surname><given-names>Otmar</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1716-8876</contrib-id><xref ref-type="aff" rid="ece35738-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ece35738-aff-0001">
+<label><sup>1</sup></label>
+<institution>Global Change Research Institute of the Czech Academy of Sciences</institution>
+<city>Brno</city>
+<country country="CZ">Czech Republic</country>
+</aff><aff id="ece35738-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Southern Swedish Forest Research Centre</named-content>
+<institution>Swedish University of Agricultural Sciences</institution>
+<city>Alnarp</city>
+<country country="SE">Sweden</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Petr Holub, Global Change Research Institute of the Czech Academy of Sciences, B&#x0011b;lidla 4a, CZ&#x02010;603 00 Brno, Czech Republic.<break/>
+Email: <email>holub.p@czechglobe.cz</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>13663</fpage><lpage>13677</lpage><history><date date-type="received"><day>26</day><month>3</month><year>2019</year></date><date date-type="rev-recd"><day>28</day><month>5</month><year>2019</year></date><date date-type="accepted"><day>15</day><month>9</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-13663.pdf"/><abstract id="ece35738-abs-0001"><title>Abstract</title><p>
+<list list-type="order" id="ece35738-list-0001"><list-item><p>Understorey plant communities are crucial to maintain species diversity and ecosystem processes including nutrient cycling and regeneration of overstorey trees. Most studies exploring effects of elevated CO<sub>2</sub> concentration ([CO<sub>2</sub>]) in forests have, however, been done on overstorey trees, while understorey communities received only limited attention.</p></list-item><list-item><p>The hypothesis that understorey grass species differ in shade&#x02010;tolerance and development dynamics, and temporally exploit different niches under elevated [CO<sub>2</sub>], was tested during the fourth year of [CO<sub>2</sub>] treatment. We assumed stimulated carbon gain by elevated [CO<sub>2</sub>] even at low light conditions in strongly shade&#x02010;tolerant <italic>Luzula sylvatica</italic>, while its stimulation under elevated [CO<sub>2</sub>] in less shade&#x02010;tolerant <italic>Calamagrostis arundinacea</italic> was expected only in early spring when the tree canopy is not fully developed.</p></list-item><list-item><p>We found evidence supporting this hypothesis. While elevated [CO<sub>2</sub>] stimulated photosynthesis in <italic>L.&#x000a0;sylvatica</italic> mainly in the peak of the growing season (by 55%&#x02013;57% in July and August), even at low light intensities (50&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup>), stimulatory effect of [CO<sub>2</sub>] in <italic>C.&#x000a0;arundinacea</italic> was found mainly under high light intensities (200&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup>) at the beginning of the growing season (increase by 171% in May) and gradually declined during the season. Elevated [CO<sub>2</sub>] also substantially stimulated leaf mass area and root&#x02010;to&#x02010;shoot ratio in <italic>L.&#x000a0;sylvatica</italic>, while only insignificant increases were observed in <italic>C.&#x000a0;arundinacea</italic>.</p></list-item><list-item><p>Our physiological and morphological analyses indicate that understorey species, differing in shade&#x02010;tolerance, under elevated [CO<sub>2</sub>] exploit distinct niches in light environment given by the dynamics of the tree canopy.</p></list-item></list>
+</p></abstract><abstract abstract-type="graphical" id="ece35738-abs-0002"><p>Our data support the hypothesis that elevated [CO<sub>2</sub>] stimulates carbon uptake and growth of strong shade&#x02010;tolerant understorey grass species, while only short&#x02010;term increases were found in sun&#x02010;demanding species during the spring months. The hypothesis that understorey species, differing in shade&#x02010;tolerance, exploit under elevated [CO<sub>2</sub>] distinct light niches was supported. Presented research contributes to our understanding of a complex response of forest ecosystems and changes in biodiversity of understorey vegetation in temperate zone under the conditions of increasing atmospheric CO<sub>2</sub> concentration.<boxed-text position="anchor" content-type="graphic" id="ece35738-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-13663-g010.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35738-kwd-0001"><italic>Calamagrostis arundinacea</italic></kwd><kwd id="ece35738-kwd-0002">ecological niche</kwd><kwd id="ece35738-kwd-0003">glass domes</kwd><kwd id="ece35738-kwd-0004">light environment</kwd><kwd id="ece35738-kwd-0005"><italic>Luzula sylvatica</italic></kwd><kwd id="ece35738-kwd-0006">manipulation experiment</kwd><kwd id="ece35738-kwd-0007">seasonal dynamics</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Ministry of Education, Youth and Sports of the Czech Republic (MEYS CR)</funding-source><award-id>LO1415</award-id></award-group><award-group id="funding-0002"><funding-source>Czech Science Foundation</funding-source><award-id>18&#x02010;23702S</award-id></award-group><award-group id="funding-0003"><funding-source>National Infrastructure CzeCOS ProCES</funding-source><award-id>CZ.02.1.01/0.0/0.0/16_013/0001609</award-id></award-group></funding-group><counts><fig-count count="9"/><table-count count="2"/><page-count count="15"/><word-count count="10152"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35738-cit-1001">
+<string-name>
+<surname>Holub</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Klem</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Linder</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Urban</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Distinct seasonal dynamics of responses to elevated CO<sub>2</sub> in two understorey grass species differing in shade&#x02010;tolerance</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>13663</fpage>&#x02013;<lpage>13677</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5738</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35738-body-0001"><sec id="ece35738-sec-0001"><label>1</label><title>INTRODUCTION</title><p>In order to predict the responses of natural plant communities to future increases in atmospheric CO<sub>2</sub> concentration ([CO<sub>2</sub>]), it is necessary to understand the different responses of the species and ecosystems to elevated [CO<sub>2</sub>] and the ability of species to use newly established niches. This is particularly important for the understorey species since the light limitation can strongly affect their response to [CO<sub>2</sub>]. Previous studies have shown that elevated [CO<sub>2</sub>] often stimulates growth (e.g., de Graaff, van Groenigen, Six, Hungate, &#x00026; van Kessel, <xref rid="ece35738-bib-0012" ref-type="ref">2006</xref>; Poorter, <xref rid="ece35738-bib-0044" ref-type="ref">1993</xref>) and photosynthesis (e.g., Albert et al., <xref rid="ece35738-bib-0003" ref-type="ref">2011</xref>), reduces stomatal conductance (Ainsworth &#x00026; Rogers, <xref rid="ece35738-bib-0002" ref-type="ref">2007</xref>), increases water use efficiency (Curtis &#x00026; Wang, <xref rid="ece35738-bib-0011" ref-type="ref">1998</xref>), and increases growth of the root system, particularly root length, and root&#x02010;to&#x02010;shoot ratio (Anderson et al., <xref rid="ece35738-bib-0004" ref-type="ref">2010</xref>; Rogers, Peterson, McCrimmon, &#x00026; Cure, <xref rid="ece35738-bib-0048" ref-type="ref">1992</xref>). Such physiological and anatomical modifications under elevated [CO<sub>2</sub>] may increase water use efficiency in plants and reduce thus the adverse effects of drought stress (Ainsworth &#x00026; Rogers, <xref rid="ece35738-bib-0002" ref-type="ref">2007</xref>; Tschaplinski, Stewart, Hanson, &#x00026; Norby, <xref rid="ece35738-bib-0052" ref-type="ref">1995</xref>; Wang et al., <xref rid="ece35738-bib-0059" ref-type="ref">2018</xref>).</p><p>Most of the studies exploring effects of elevated [CO<sub>2</sub>] in forest ecosystems have, however, been done on dominant overstorey trees under conditions of high light intensities (e.g., Asshoff, Zotz, &#x00026; K&#x000f6;rner, <xref rid="ece35738-bib-0006" ref-type="ref">2006</xref>; Norby et al., <xref rid="ece35738-bib-0040" ref-type="ref">2005</xref>; Urban et al., <xref rid="ece35738-bib-0056" ref-type="ref">2014</xref>), while understorey communities, naturally exposed to very low daily light integrals&#x02014;photosynthetic photon flux density integrated over a day (DLI), received so far only limited attention (Belote, Weltzin, &#x00026; Norby, <xref rid="ece35738-bib-0008" ref-type="ref">2004</xref>; Dukes et al., <xref rid="ece35738-bib-0015" ref-type="ref">2005</xref>; Niklaus &#x00026; K&#x000f6;rner, <xref rid="ece35738-bib-0038" ref-type="ref">2004</xref>; W&#x000fc;rth, Winter, &#x00026; K&#x000f6;rner, <xref rid="ece35738-bib-0061" ref-type="ref">1998</xref>). These communities are, however, crucial to maintain species diversity, the stability of the habitat, and other ecosystem processes including regeneration of overstorey trees and nutrient cycling (Gilliam &#x00026; Roberts, <xref rid="ece35738-bib-0020" ref-type="ref">2003</xref>). Understorey vegetation also plays a crucial role in utilizing new niches arising under changing environmental conditions (Gilbert &#x00026; Lechowicz, <xref rid="ece35738-bib-0019" ref-type="ref">2004</xref>).</p><p>Daily light integral has significant impacts on a range of leaf/plant traits related to anatomical structure, chemical composition, physiological responses, and growth (Augspurger, Cheeseman, &#x00026; Salk, <xref rid="ece35738-bib-0007" ref-type="ref">2005</xref>; H&#x000e4;ttenschwiler, <xref rid="ece35738-bib-0024" ref-type="ref">2001</xref>; Lichtenthaler, A&#x0010d;, Marek, Kalina, &#x00026; Urban, <xref rid="ece35738-bib-0035" ref-type="ref">2007</xref>; Rajsnerov&#x000e1; et al., <xref rid="ece35738-bib-0047" ref-type="ref">2015</xref>). Meta&#x02010;analysis study of 70 leaf traits has shown that these changes are generally larger at low DLIs, while tend to saturate at high DLI (Poorter et al., <xref rid="ece35738-bib-0046" ref-type="ref">2019</xref>). Among others, leaf mass per area (LMA) and leaf thickness increase with increasing DLI, that is, the parameters increasing also with increasing [CO<sub>2</sub>]. In contrary, increases in Rubisco carboxylation rate and Rubisco content associated with increasing DLI could be substantially reduced under long&#x02010;term exposure to elevated [CO<sub>2</sub>] (Ceulemans &#x00026; Mousseau, <xref rid="ece35738-bib-0010" ref-type="ref">1994</xref>; Leakey et al., <xref rid="ece35738-bib-0034" ref-type="ref">2009</xref>; Norby, Warren, Iversen, Medlyn, &#x00026; McMurtrie, <xref rid="ece35738-bib-0041" ref-type="ref">2010</xref>; Urban, <xref rid="ece35738-bib-0053" ref-type="ref">2003</xref>; Way, Oren, &#x00026; Kroner, <xref rid="ece35738-bib-0060" ref-type="ref">2015</xref>). Such examples suggest a possible interaction between DLI and [CO<sub>2</sub>] ranging from synergistic to antagonistic effects.</p><p>Indeed, reports of CO<sub>2</sub> stimulating effects on photosynthesis and related processes under low light intensities are contradictory. Urban et al. (<xref rid="ece35738-bib-0056" ref-type="ref">2014</xref>) found reduced carbon gain and light use efficiency in temperate beech trees grown under elevated [CO<sub>2</sub>] during cloudy sky conditions accompanied by low light intensity, low temperature, and high air humidity. In contrary, it has been shown that elevated [CO<sub>2</sub>] stimulates the rate of photosynthetic CO<sub>2</sub> uptake under the conditions of deep shade and high temperature in the understorey of a tropical rain forest (W&#x000fc;rth et al., <xref rid="ece35738-bib-0061" ref-type="ref">1998</xref>). Such sensitivity to [CO<sub>2</sub>] is predicted to be caused by reduced photorespiratory carbon loss, increased apparent quantum efficiency, and accordingly reduced the light compensation irradiance of photosynthesis under elevated [CO<sub>2</sub>] (Drake, Gonzalez&#x02010;Meler, &#x00026; Long, <xref rid="ece35738-bib-0014" ref-type="ref">1997</xref>; Farquhar, Caemmerer, &#x00026; Berry, <xref rid="ece35738-bib-0016" ref-type="ref">1980</xref>; H&#x000e4;ttenschwiler &#x00026; K&#x000f6;rner, <xref rid="ece35738-bib-0025" ref-type="ref">1996</xref>, <xref rid="ece35738-bib-0026" ref-type="ref">2000</xref>). All these studies, however, suggest that photosynthetic rate is modulated by combined conditions of elevated [CO<sub>2</sub>] and low light intensities and may thus potentially alter the carbon balance of understorey plants as well as species composition.</p><p>A meta&#x02010;analysis by Kerstiens (<xref rid="ece35738-bib-0030" ref-type="ref">2001</xref>) revealed a significantly higher increase of biomass under elevated [CO<sub>2</sub>] in shade&#x02010;tolerant as compared to shade&#x02010;intolerant species. In contrary, DeLucia and Thomas (<xref rid="ece35738-bib-0013" ref-type="ref">2000</xref>) did not find the correlation between the stimulation of light&#x02010;saturated photosynthesis by elevated [CO<sub>2</sub>] and shade&#x02010;tolerance ranking of four tree species growing in the understory of a loblolly pine plantation. The different responses of shade&#x02010;tolerant and shade&#x02010;intolerant species are obvious only at high DLI values which in understorey can be achieved during the summer months or in a not completely closed canopy allowing higher frequency of sunflecks (Naumburg &#x00026; Ellsworth, <xref rid="ece35738-bib-0037" ref-type="ref">2000</xref>). Particularly for deciduous and mixed forests, distinct light niches for understorey vegetation are available (Augspurger et al., <xref rid="ece35738-bib-0007" ref-type="ref">2005</xref>; Gilbert &#x00026; Lechowicz, <xref rid="ece35738-bib-0019" ref-type="ref">2004</xref>). The first is represented by early spring with an open canopy before leaf out, which can be exploited by species with fast development, ability to utilize higher light intensities, and to survive under later deep shade. The second niche is exploited by typically shade&#x02010;tolerant species, using mainly the higher DLIs during the summer months.</p><p>Such inconsistent results of responses of understorey vegetation to elevated [CO<sub>2</sub>] may further rise from differences in soil water availability. For example, Belote et al. (<xref rid="ece35738-bib-0008" ref-type="ref">2004</xref>) observed stimulatory effect of elevated [CO<sub>2</sub>] on aboveground biomass production of Nepal grass (<italic>Microstegium vimineum</italic>)&#x02014;an understorey dominant species in a dry, but not in a wet year.</p><p>In the present study, we explored responses of growth and photosynthesis to elevated [CO<sub>2</sub>] in two grass species with C3 photosynthetic pathway grown in the understorey of an experimental spruce&#x02010;beech stand. The studied grasses, <italic>Calamagrostis arundinacea</italic> (L.) Roth and <italic>Luzula sylvatica</italic> (Huds.) Gaud., represent widespread species of montane forests in Central Europe. Tuft forming <italic>C.&#x000a0;arundinacea</italic> is an expansive and sun&#x02010;demanding species occurring in the majority of disturbed forests and open deforested areas (Fiala, T&#x0016f;ma, Holub, &#x00026; Jand&#x000e1;k, <xref rid="ece35738-bib-0017" ref-type="ref">2005</xref>; Fiala et al., <xref rid="ece35738-bib-0018" ref-type="ref">2001</xref>). On the other hand, rhizomatous <italic>L.&#x000a0;sylvatica</italic> is a highly shade&#x02010;tolerant species, widespread over the temperate zone, and typically occurring in deep forest understories at low DLI (Godefroid, Rucquoij, &#x00026; Koedam, <xref rid="ece35738-bib-0021" ref-type="ref">2005</xref>).</p><p>We tested the hypothesis that (a) elevated [CO<sub>2</sub>] stimulates photosynthesis and growth of understorey plant species under natural low light intensities. More specifically, we have assumed that (b) species differing in shade&#x02010;tolerance also have a different sensitivity to elevated [CO<sub>2</sub>] due to a different composition and operation of the photosynthetic apparatus. Finally, we expected that (c) the stimulation effects of elevated [CO<sub>2</sub>] are changing throughout the growing season following the changes in DLI and development of forest canopies enabling thus the species differing in shade&#x02010;tolerance to use distinct niches in the light environment.</p></sec><sec sec-type="materials-and-methods" id="ece35738-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35738-sec-0003"><label>2.1</label><title>Experimental plants and design</title><p>At the beginning of the growing season 2007, tillers of <italic>C.&#x000a0;arundinacea</italic> and <italic>L.&#x000a0;sylvatica</italic> were collected from an open area near the experimental station B&#x000ed;l&#x000fd; K&#x00159;&#x000ed;&#x0017e; (Czech Republic; 49&#x000b0;33&#x02032;N 18&#x000b0;32&#x02032;E, 908&#x000a0;m a.s.l.) and subsequently exposed for four growing seasons to ambient (385&#x000a0;&#x000b5;mol CO<sub>2</sub>/mol; AC) and elevated (700&#x000a0;&#x000b5;mol CO<sub>2</sub>/mol; EC) [CO<sub>2</sub>] using the glass domes at B&#x000ed;l&#x000fd; K&#x00159;&#x000ed;&#x0017e; (see Figure <xref rid="ece35738-sup-0001" ref-type="supplementary-material">S1</xref>, &#x00160;igut et al. (<xref rid="ece35738-bib-0050" ref-type="ref">2015</xref>) and Urban et al. (<xref rid="ece35738-bib-0055" ref-type="ref">2001</xref>) for technical description of the experimental facilities). The plants were investigated during the fourth growing season (2010) under the controlled growth [CO<sub>2</sub>] conditions.</p><p>Fifteen transplanted plant tufts of both grass species per treatment were planted in the understorey of a 10&#x02010;year&#x02010;old mixed spruce&#x02010;beech stand (<italic>Picea abies</italic> (L.) Karst. and <italic>Fagus sylvatica</italic> (L.)). Seasonal maxima of projected leaf area index, estimated by a LAI&#x02010;2000 Plant Canopy Analyser (Li&#x02010;Cor) in AC and EC stands, are shown in Table <xref rid="ece35738-tbl-0001" ref-type="table">1</xref>. Plants with comparable biomass and developmental stage were transplanted (data not shown). Plants were grown in the native soil. The geological bedrock is formed by Mesozoic Godula sandstone (flysch type) and is overlain by Ferric Podzols. The total soil nitrogen was found to range between 2.7 and 3.5&#x000a0;mg/g irrespective of [CO<sub>2</sub>] treatment. Plants within each dome were split into five blocks (replications). Each block consisted of three plants of <italic>C.&#x000a0;arundinacea</italic> and three plants of <italic>L.&#x000a0;sylvatica</italic>. Two plants per block were evaluated, and the average from these two measurements was used for statistical analyses.</p><table-wrap id="ece35738-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Seasonal maxima of projected leaf area index (LAI; m<sup>2</sup>/m<sup>2</sup>) estimated in mixed spruce&#x02010;beech experimental stands cultivated under ambient (AC) and elevated (EC) CO<sub>2</sub> concentration during three consecutive years</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="left" valign="top" rowspan="1" colspan="1">2008</th><th align="left" valign="top" rowspan="1" colspan="1">2009</th><th align="left" valign="top" rowspan="1" colspan="1">2010</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">AC stand</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.18&#x000a0;&#x000b1;&#x000a0;0.25</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.77&#x000a0;&#x000b1;&#x000a0;0.34</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.16&#x000a0;&#x000b1;&#x000a0;0.35</td></tr><tr><td align="left" rowspan="1" colspan="1">EC stand</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.23&#x000a0;&#x000b1;&#x000a0;0.27</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.87&#x000a0;&#x000b1;&#x000a0;0.36</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.38&#x000a0;&#x000b1;&#x000a0;0.41</td></tr></tbody></table><table-wrap-foot id="ece35738-ntgp-0001"><title>Note</title><fn id="ece35738-note-0001"><p>Mean values&#x000a0;&#x000b1;&#x000a0;standard deviations (<italic>n</italic>&#x000a0;=&#x000a0;8) are shown.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The site is characterized by a mean annual temperature of 6.7&#x000a0;&#x000b1;&#x000a0;1.1&#x000b0;C and precipitation of 1,316&#x000a0;&#x000b1;&#x000a0;207&#x000a0;mm (average&#x000a0;&#x000b1;&#x000a0;standard deviation for the period 1998&#x02013;2010). The year 2010, in which the measurements were made, was characterized by a mean annual temperature of 6.0&#x000b0;C, the maximal air temperatures in July (35&#x000b0;C), and an annual precipitation of 1,297&#x000a0;mm with the highest amounts of precipitation in mid&#x02010;May and at the end of August and early September (Figure <xref rid="ece35738-fig-0001" ref-type="fig">1</xref>). Light penetration into the tree understorey amounted to 80% before leaf development (May), while it was only 20% during the peak of the growing season (July&#x02013;September). The daily maxima of photosynthetically active radiation (PAR) in the forest understorey amounted up to 300&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup> in May, but were only 175&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup> in October (Figure <xref rid="ece35738-fig-0002" ref-type="fig">2</xref>a). Daily light integral (DLI; Figure <xref rid="ece35738-fig-0002" ref-type="fig">2</xref>b), mean half&#x02010;hour PAR values integrated over a day, ranged from 0.1&#x000a0;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;day<sup>&#x02212;1</sup> (cloudy sky autumn days) up to 14&#x000a0;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;day<sup>&#x02212;1</sup> (clear sky spring days).</p><fig fig-type="Figure" xml:lang="en" id="ece35738-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Seasonal course of air temperature (a) measured 2&#x000a0;m above the ground in the glass domes, maintained at ambient and elevated [CO<sub>2</sub>], and the sum of daily precipitation (b) during the growing season 2010 (May&#x02013;October). Dates indicate the days of physiological measurements</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-13663-g001"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35738-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Relative (a) and cumulative&#x02014;daily light integral (DLI; b) amounts of photosynthetically active radiation (PAR) transmitted through forest canopy under ambient (AC) and elevated (EC) [CO<sub>2</sub>] recorded during growing season 2010 (May&#x02013;October). Transmittance and DLI values were calculated from 30&#x02010;min averages of PAR. Error bars represent standard deviations estimated on sampling dates. The frequency of nonzero PAR in AC and EC understories is shown for three selected months (inset plot)</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-13663-g002"/></fig></sec><sec id="ece35738-sec-0004"><label>2.2</label><title>Gas exchange measurements</title><p>Seasonal courses (May 11&#x02013;12, June 8&#x02013;9, July 12&#x02013;14, August 10&#x02013;11, September 7&#x02013;8, and October 7&#x02013;8, 2010) of gas exchange parameters were measured on fully developed leaves during the extended noon hours (11:00&#x02013;15:00). An open infrared gas analyser Li&#x02010;6400 (Li&#x02010;Cor) was used to measure the relationship between the CO<sub>2</sub> assimilation rate (<italic>A</italic>) and intercellular CO<sub>2</sub> concentration (<italic>C</italic>i). The <italic>A/C</italic>i response curves were produced at saturating light intensity (1,200&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup>) and the following [CO<sub>2</sub>] in the leaf assimilation chamber: 1,500, 1,100, 700, 385, 250, 100, and 50&#x000a0;&#x000b5;mol CO<sub>2</sub>/mol. Such range of [CO<sub>2</sub>] enabled the modeling of the both parts of <italic>A/C</italic>i curves limited by Rubisco activity and electron transport rate (Figure <xref rid="ece35738-sup-0002" ref-type="supplementary-material">S2</xref>). The measured leaves were kept at constant temperature and vapor pressure deficit corresponding to the natural seasonal variability (Figure <xref rid="ece35738-fig-0001" ref-type="fig">1</xref>). A biochemical model of photosynthesis (von Caemmerer, <xref rid="ece35738-bib-0058" ref-type="ref">2000</xref>) was applied to derive the maximum in vivo Rubisco carboxylation rate (<italic>V</italic>
+<sub>Cmax</sub>) and maximum electron transport (<italic>J</italic>
+<sub>max</sub>) from the <italic>A</italic>/<italic>C</italic>i response curves using Photosyn Assistant software (Dundee Scientific). To model the seasonal temperature effects on Michaelis&#x02013;Menten constants of Rubisco for carboxylation and oxygenation, the approach of Harley, Thomas, Reynolds, and Strain (<xref rid="ece35738-bib-0023" ref-type="ref">1992</xref>) was applied. Subsequently, the temperature functions proposed by Bernacchi, Singsaas, Pimentel, Portis, and Long (<xref rid="ece35738-bib-0009" ref-type="ref">2001</xref>) were used to normalize <italic>V</italic>
+<sub>Cmax</sub> and <italic>J</italic>
+<sub>max</sub> values to 25&#x000b0;C.</p><p>The relationship between <italic>A</italic> and PAR (<italic>A</italic>/PAR) was obtained at growth [CO<sub>2</sub>], that is, at 385&#x000a0;&#x003bc;mol&#x000a0;CO<sub>2</sub>/mol for AC plants and at 700&#x000a0;&#x003bc;mol&#x000a0;CO<sub>2</sub>/mol for EC plants. The PAR used was 0, 25, 50, 100, 200, 400, 800, and 1,200&#x000a0;&#x003bc;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup>. For each measurement, leaf temperature and relative air humidity inside the assimilation chamber were kept stable on the average values of the previous 3&#x000a0;days (15&#x02013;25&#x000b0;C and 45%&#x02013;65%). Dark respiration rate of leaves (<italic>R</italic>
+<sub>D</sub>) was estimated after 15&#x000a0;min of darkening. Instantaneous rates of <italic>A</italic> (Figure <xref rid="ece35738-sup-0003" ref-type="supplementary-material">S3</xref>) were subsequently modeled as a nonrectangular hyperbolic function of incident PAR using a Nelder&#x02013;Mead algorithm (Urban et al., <xref rid="ece35738-bib-0054" ref-type="ref">2007</xref>) to determine values of apparent quantum efficiency (AQE), light compensation irradiance (LCI), and light saturation estimate (LSE). In addition, <italic>A</italic> values at a PAR of 50 (<italic>A</italic>
+<sub>50</sub>), 200 (<italic>A</italic>
+<sub>200</sub>), and 1,200&#x000a0;&#x003bc;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup> (<italic>A</italic>
+<sub>max</sub>), representing the most frequent and maximum PAR in the understorey, respectively, were calculated. Intrinsic water use efficiency was defined as the ratio of CO<sub>2</sub> assimilation rate to stomatal conductance at a PAR of 50 (iWUE<sub>50</sub>&#x000a0;=&#x000a0;<italic>A</italic>
+<sub>50</sub>/<italic>G</italic>
+<sub>S50</sub>) and 1,200&#x000a0;&#x003bc;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup> (iWUE<sub>max</sub>&#x000a0;=&#x000a0;<italic>A</italic>
+<sub>max</sub>/<italic>G</italic>
+<sub>Smax</sub>). Carbon ratio, a proxy of carbon balance, was subsequently calculated as <italic>A</italic>
+<sub>200</sub>/<italic>R</italic>
+<sub>D</sub>.</p></sec><sec id="ece35738-sec-0005"><label>2.3</label><title>Morphological and production parameters</title><p>Fully developed leaves of <italic>C.&#x000a0;arundinacea</italic> and <italic>L.&#x000a0;sylvatica</italic>, on which the physiological measurements were carried out, were sampled throughout the growing season (May&#x02013;October) to analyze their dry mass and leaf area. The leaf area was determined by a leaf area meter LI&#x02010;3000A (Li&#x02010;Cor) and subsequently dried to constant mass at 60&#x000b0;C for 48&#x000a0;hr. In addition, a destructive sampling of total above&#x02010; and belowground biomass of five plants of both grass species was performed in August 2010. Plant parts were dried to constant mass at 60&#x000b0;C for 48&#x000a0;hr. Leaf mass area (LMA; leaf dry mass per leaf area) and the ratio between root and shoot mass (R/S) were calculated.</p></sec><sec id="ece35738-sec-0006"><label>2.4</label><title>Statistical analyses</title><p>The data were evaluated by means of an analysis of variance, using the statistical package STATISTICA 12 (StatSoft). Three&#x02010;way ANOVA analysis was used to test the effect of species (<italic>C.&#x000a0;arundinacea</italic> vs. <italic>L.&#x000a0;sylvatica</italic>), [CO<sub>2</sub>] (AC vs. EC), and date within the season (measuring dates during the whole growing season) on morphological and physiological parameters. Two&#x02010;way ANOVA analysis was subsequently used to test seasonal differences between means and the effect of [CO<sub>2</sub>] on morphological and physiological parameters in each plant species separately (Figures <xref rid="ece35738-fig-0003" ref-type="fig">3</xref>, <xref rid="ece35738-fig-0004" ref-type="fig">4</xref>, <xref rid="ece35738-fig-0005" ref-type="fig">5</xref>, <xref rid="ece35738-fig-0006" ref-type="fig">6</xref>, <xref rid="ece35738-fig-0007" ref-type="fig">7</xref>). The Fisher's LSD post&#x02010;hoc test was used to evaluate differences between means. For the destructive analysis of above&#x02010; and belowground biomass, the differences between means were tested using one&#x02010;sample <italic>t</italic> tests. Significance levels are reported in the Figure <xref rid="ece35738-fig-0008" ref-type="fig">8</xref> and tables as a significant with *<italic>p</italic>&#x000a0;&#x02264;&#x000a0;.05, **<italic>p</italic>&#x000a0;&#x02264;&#x000a0;.01, and ***<italic>p</italic>&#x000a0;&#x02264;&#x000a0;.001.</p><fig fig-type="Figure" xml:lang="en" id="ece35738-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Seasonal courses of CO<sub>2</sub> assimilation rate (<italic>A</italic>) estimated at growth [CO<sub>2</sub>], and photosynthetically active radiation (PAR) of 50 (<italic>A</italic>
+<sub>50</sub>) and 200&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup> (<italic>A</italic>
+<sub>200</sub>) and stomatal conductance at a PAR of 200&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup> (<italic>G</italic>
+<sub>S200</sub>) in <italic>Calamagrostis arundinacea</italic> (<italic>Cal</italic>) and <italic>Luzula sylvatica</italic> (<italic>Luz</italic>) developed in the understorey. The measurements were made during the fourth growing season (May&#x02013;October, 2010) of cultivation under ambient (AC) and elevated [CO<sub>2</sub>] (EC). Mean values (symbols) and standard deviations (error bars) are presented in the figure. Different letters denote significantly different values within each species separately (Fisher's LSD test <italic>p</italic>&#x000a0;&#x02264;&#x000a0;.05 after ANOVA); <italic>n</italic>&#x000a0;=&#x000a0;5. Enhancement ratio is equal to the ratio of the parameter estimated under EC and AC conditions</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-13663-g003"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35738-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Seasonal courses of intrinsic water use effciency estimated at growth [CO<sub>2</sub>] and conditions of low (50&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup>; iWUE<sub>50</sub>) and high PAR intensity (1,200&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup>; iWUE<sub>max</sub>) in <italic>Calamagrostis arundinacea</italic> (<italic>Cal</italic>) and <italic>Luzula sylvatica</italic> (<italic>Luz</italic>) developed in forest understory. The measurements were done during the fourth growing season (May&#x02013;October, 2010) of cultivation under ambient (AC) and elevated [CO<sub>2</sub>] (EC). Mean values (symbols) and standard deviations (error bars) are presented in the figure. Different letters denote significantly different values within each species separately (LSD test <italic>p</italic>&#x000a0;&#x02264;&#x000a0;.05 after ANOVA); <italic>n</italic>&#x000a0;=&#x000a0;5. Enhancement ratio is equal to the ratio of the parameter estimated under EC and AC growing conditions</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-13663-g004"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35738-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Seasonal courses of photosynthetic parameters derived from the relationship of CO<sub>2</sub> assimilation rate and photosynthetically active radiation: apparent quantum efficiency (AQE) and light compensation point (LCP) <italic>Calamagrostis arundinacea</italic> (<italic>Cal</italic>) and <italic>Luzula sylvatica</italic> (<italic>Luz</italic>) developed in forest understorey. The measurements at growth [CO<sub>2</sub>] were made during the fourth growing season (May&#x02013;October 2010) of cultivation in ambient (AC) and elevated [CO<sub>2</sub>] (EC). Mean values (symbols) and standard deviations (error bars) are presented in the figure. Different letters denote significantly different values separately for each species (LSD test <italic>p</italic>&#x000a0;&#x02264;&#x000a0;.05 after ANOVA); <italic>n</italic>&#x000a0;=&#x000a0;5. Enhancement ratio is equal to the ratio of the parameter estimated under EC and AC conditions</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-9-13663-g005"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35738-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Seasonal courses of dark respiration rate (<italic>R</italic>
+<sub>D</sub>) and <italic>A</italic>
+<sub>200</sub>/<italic>R</italic>
+<sub>D</sub> ratio estimated in leaves of <italic>Calamagrostis arundinacea</italic> (<italic>Cal</italic>) and <italic>Luzula sylvatica</italic> (<italic>Luz</italic>) developed in a forest understorey at ambient (AC) and elevated [CO<sub>2</sub>] (EC). The gas exchange measurements were done at growth [CO<sub>2</sub>] during the fourth growing season (May&#x02013;October, 2010) of cultivation in AC and EC conditions. Mean values (symbols) and standard deviations (error bars) are presented. Different letters denote significantly different values separately for each species (LSD test <italic>p</italic>&#x000a0;&#x02264;&#x000a0;.05 after ANOVA); <italic>n</italic>&#x000a0;=&#x000a0;5. Enhancement ratio is equal to the ratio of the parameter estimated under EC and AC conditions</p></caption><graphic id="nlm-graphic-13" xlink:href="ECE3-9-13663-g006"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35738-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Seasonal courses of light&#x02010;saturated rate of in vivo Rubisco carboxylation (<italic>V<sub>C</sub></italic>
+<sub>max</sub>) and light&#x02010;saturated rate of electron transport (<italic>J</italic>
+<sub>max</sub>) estimated at a reference temperature of 25&#x000b0;C in leaves of <italic>Calamagrostis arundinacea</italic> (<italic>Cal</italic>) and <italic>Luzula sylvatica</italic> (<italic>Luz</italic>) developed in a forest understorey at ambient (AC) and elevated [CO<sub>2</sub>] (EC). The measurements were done during the fourth growing season (May&#x02013;October, 2010) of cultivation in AC and EC conditions. Mean values (symbols) and standard deviations (error bars) are presented. Different letters denote significantly different values within each species separately (LSD test <italic>p</italic>&#x000a0;&#x02264;&#x000a0;.05 after ANOVA); <italic>n</italic>&#x000a0;=&#x000a0;5. Enhancement ratio is equal to the ratio of the parameter estimated under EC and AC conditions</p></caption><graphic id="nlm-graphic-15" xlink:href="ECE3-9-13663-g007"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35738-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Seasonal courses of leaf dry mass and leaf mass per area (LMA) of <italic>Calamagrostis arundinacea</italic> (<italic>Cal</italic>) and <italic>Luzula sylvatica</italic> (<italic>Luz</italic>) developed in forest understorey at ambient (AC) and elevated [CO<sub>2</sub>] (EC). The measurements were done during the fourth growing season (May&#x02013;October 2010) of cultivation in AC and EC conditions. Mean values (symbols) and standard deviations (error bars) are presented. Different letters denote significantly different values within each species separately (LSD test <italic>p</italic>&#x000a0;&#x02264;&#x000a0;.05 after ANOVA); <italic>n</italic>&#x000a0;=&#x000a0;10. Enhancement ratio is equal to the ratio of the parameter estimated under EC and AC conditions</p></caption><graphic id="nlm-graphic-17" xlink:href="ECE3-9-13663-g008"/></fig></sec></sec><sec sec-type="results" id="ece35738-sec-0007"><label>3</label><title>RESULTS</title><p>The three&#x02010;way ANOVA of the whole dataset (two species, two [CO<sub>2</sub>], and six measuring campaigns along the growing season) showed a significant effect of species on all photosynthetic parameters except <italic>A</italic> at PAR 200&#x000a0;&#x003bc;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup> (<italic>A</italic>
+<sub>200</sub>). Species had a significant effect on aboveground morphological parameters, while belowground biomass did not differ significantly between species. Significant effects of [CO<sub>2</sub>] on all photosynthetic parameters, leaf DM, leaf mass area, root DM, and R/S ratio were observed (Table <xref rid="ece35738-tbl-0002" ref-type="table">2</xref>). The effect of time, that is, seasonal dynamics, was significant in all observed photosynthetic and morphological parameters.</p><table-wrap id="ece35738-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>The effects of species (Sp), CO<sub>2</sub> concentration ([CO<sub>2</sub>]), time (<italic>T</italic>), and their mutual interactions (&#x000d7;) on photosynthetic and morphological parameters: CO<sub>2</sub> assimilation rate (<italic>A</italic>) estimated at growth [CO<sub>2</sub>] and a photosynthetically active radiation (PAR) of 50 (<italic>A</italic>
+<sub>50</sub>), 200 (<italic>A</italic>
+<sub>200</sub>), and 1,200&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup> (<italic>A</italic>
+<sub>max</sub>), apparent quantum efficiency (AQE), light compensation point (LCP), light saturation estimate (LSE), stomatal conductance at a PAR 200&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup> (<italic>G</italic>
+<sub>S200</sub>), dark respiration rate (<italic>R</italic>
+<sub>D</sub>), maximum rate of <italic>in vivo</italic> Rubisco carboxylation (<italic>V<sub>C</sub></italic>
+<sub>max</sub>) and maximum rate of electron transport (<italic>J</italic>
+<sub>max</sub>) estimated at a reference temperature of 25&#x000b0;C, intrinsic water use effciency estimated at growth [CO<sub>2</sub>] and conditions of low (50&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup>; iWUE<sub>50</sub>) and high PAR intensity (1,200&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup>; iWUE<sub>max</sub>), carbon ratio (<italic>A</italic>
+<sub>200</sub>/<italic>R</italic>
+<sub>D</sub>), leaf dry mass (Leaf DM), leaf mass per area ratio (LMA), shoot (root) dry mass (Shoot DM, Root DM), and root&#x02010;to&#x02010;shoot ratio (R/S)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Effect</th><th align="char" char="." valign="top" rowspan="1" colspan="1">Sp</th><th align="char" char="." valign="top" rowspan="1" colspan="1">[CO<sub>2</sub>]</th><th align="char" char="." valign="top" rowspan="1" colspan="1">
+<italic>T</italic>
+</th><th align="char" char="." valign="top" rowspan="1" colspan="1">Sp&#x000a0;&#x000d7;&#x000a0;[CO<sub>2</sub>]</th><th align="char" char="." valign="top" rowspan="1" colspan="1">Sp&#x000a0;&#x000d7;&#x000a0;<italic>T</italic>
+</th><th align="char" char="." valign="top" rowspan="1" colspan="1">[CO<sub>2</sub>]&#x000a0;&#x000d7;&#x000a0;<italic>T</italic>
+</th><th align="char" char="." valign="top" rowspan="1" colspan="1">Sp&#x000a0;&#x000d7;&#x000a0;[CO<sub>2</sub>]&#x000a0;&#x000d7;&#x000a0;<italic>T</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>df</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">5</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>A</italic>
+<sub>50</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">65.0***</td><td align="char" char="." rowspan="1" colspan="1">31.6***</td><td align="char" char="." rowspan="1" colspan="1">3.3**</td><td align="char" char="." rowspan="1" colspan="1">0.2<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">4.6***</td><td align="char" char="." rowspan="1" colspan="1">0.5<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">1.4<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>A</italic>
+<sub>200</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">0.1<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">98.7***</td><td align="char" char="." rowspan="1" colspan="1">7.9***</td><td align="char" char="." rowspan="1" colspan="1">3.7<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">2.1<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">2.0<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">2.1<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>A</italic>
+<sub>max</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">127.8***</td><td align="char" char="." rowspan="1" colspan="1">181.3***</td><td align="char" char="." rowspan="1" colspan="1">33.5***</td><td align="char" char="." rowspan="1" colspan="1">25.2***</td><td align="char" char="." rowspan="1" colspan="1">5.1***</td><td align="char" char="." rowspan="1" colspan="1">4.0**</td><td align="char" char="." rowspan="1" colspan="1">6.1***</td></tr><tr><td align="left" rowspan="1" colspan="1">AQE</td><td align="char" char="." rowspan="1" colspan="1">166.5***</td><td align="char" char="." rowspan="1" colspan="1">24.7***</td><td align="char" char="." rowspan="1" colspan="1">5.1***</td><td align="char" char="." rowspan="1" colspan="1">2.0<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">6.9***</td><td align="char" char="." rowspan="1" colspan="1">2.5*</td><td align="char" char="." rowspan="1" colspan="1">0.1<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">LCP</td><td align="char" char="." rowspan="1" colspan="1">136.7***</td><td align="char" char="." rowspan="1" colspan="1">11.8***</td><td align="char" char="." rowspan="1" colspan="1">30.4***</td><td align="char" char="." rowspan="1" colspan="1">5.1*</td><td align="char" char="." rowspan="1" colspan="1">4.0**</td><td align="char" char="." rowspan="1" colspan="1">1.9<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">1.2<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">LSE</td><td align="char" char="." rowspan="1" colspan="1">364.6***</td><td align="char" char="." rowspan="1" colspan="1">49.3***</td><td align="char" char="." rowspan="1" colspan="1">15.3***</td><td align="char" char="." rowspan="1" colspan="1">15.5***</td><td align="char" char="." rowspan="1" colspan="1">7.8***</td><td align="char" char="." rowspan="1" colspan="1">3.3*</td><td align="char" char="." rowspan="1" colspan="1">1.6<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>G</italic>
+<sub>S200</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">97.3***</td><td align="char" char="." rowspan="1" colspan="1">4.7*</td><td align="char" char="." rowspan="1" colspan="1">6.8***</td><td align="char" char="." rowspan="1" colspan="1">0.1<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">1.1<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.5<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.6<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>R</italic>
+<sub>D</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">25.4***</td><td align="char" char="." rowspan="1" colspan="1">26.6***</td><td align="char" char="." rowspan="1" colspan="1">20.4***</td><td align="char" char="." rowspan="1" colspan="1">2.5<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">1.3<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.9<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">1.8<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>V</italic>
+<sub>Cmax</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">6.1*</td><td align="char" char="." rowspan="1" colspan="1">24.9***</td><td align="char" char="." rowspan="1" colspan="1">27.1***</td><td align="char" char="." rowspan="1" colspan="1">9.0**</td><td align="char" char="." rowspan="1" colspan="1">0.5<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.7<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">1.4<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>J</italic>
+<sub>max</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">8.3**</td><td align="char" char="." rowspan="1" colspan="1">27.9***</td><td align="char" char="." rowspan="1" colspan="1">29.1***</td><td align="char" char="." rowspan="1" colspan="1">7.9**</td><td align="char" char="." rowspan="1" colspan="1">1.5<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.2<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">2.2<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">iWUE<sub>50</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">109.1***</td><td align="char" char="." rowspan="1" colspan="1">33.0***</td><td align="char" char="." rowspan="1" colspan="1">5.9***</td><td align="char" char="." rowspan="1" colspan="1">8.0**</td><td align="char" char="." rowspan="1" colspan="1">3.3**</td><td align="char" char="." rowspan="1" colspan="1">0.9<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.7<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">iWUE<sub>max</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">204.7***</td><td align="char" char="." rowspan="1" colspan="1">134.5***</td><td align="char" char="." rowspan="1" colspan="1">7.2***</td><td align="char" char="." rowspan="1" colspan="1">16.0***</td><td align="char" char="." rowspan="1" colspan="1">4.0**</td><td align="char" char="." rowspan="1" colspan="1">1.8<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">1.8<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>A</italic>
+<sub>200</sub>/<italic>R</italic>
+<sub>D</sub>
+</td><td align="char" char="." rowspan="1" colspan="1">5.8*</td><td align="char" char="." rowspan="1" colspan="1">7.2**</td><td align="char" char="." rowspan="1" colspan="1">1.6<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.6<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.7<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.7<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.1<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Leaf DM</td><td align="char" char="." rowspan="1" colspan="1">119.9***</td><td align="char" char="." rowspan="1" colspan="1">17.9***</td><td align="char" char="." rowspan="1" colspan="1">61.0***</td><td align="char" char="." rowspan="1" colspan="1">0.1<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">1.3<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.5<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.6<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">LMA</td><td align="char" char="." rowspan="1" colspan="1">101.3***</td><td align="char" char="." rowspan="1" colspan="1">40.6***</td><td align="char" char="." rowspan="1" colspan="1">14.4***</td><td align="char" char="." rowspan="1" colspan="1">27.0***</td><td align="char" char="." rowspan="1" colspan="1">2.5*</td><td align="char" char="." rowspan="1" colspan="1">0.2<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.5<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Shoot DM</td><td align="char" char="." rowspan="1" colspan="1">6.4*</td><td align="char" char="." rowspan="1" colspan="1">1.1<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02014;</td><td align="char" char="." rowspan="1" colspan="1">0.1<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02014;</td><td align="char" char="." rowspan="1" colspan="1">&#x02014;</td><td align="char" char="." rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" rowspan="1" colspan="1">Root DM</td><td align="char" char="." rowspan="1" colspan="1">2.1<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">6.5*</td><td align="char" char="." rowspan="1" colspan="1">&#x02014;</td><td align="char" char="." rowspan="1" colspan="1">0.01<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02014;</td><td align="char" char="." rowspan="1" colspan="1">&#x02014;</td><td align="char" char="." rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" rowspan="1" colspan="1">R/S</td><td align="char" char="." rowspan="1" colspan="1">0.1<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">15.0**</td><td align="char" char="." rowspan="1" colspan="1">&#x02014;</td><td align="char" char="." rowspan="1" colspan="1">0.5<sup>n.s.</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02014;</td><td align="char" char="." rowspan="1" colspan="1">&#x02014;</td><td align="char" char="." rowspan="1" colspan="1">&#x02014;</td></tr></tbody></table><table-wrap-foot id="ece35738-ntgp-0002"><title>Note</title><fn id="ece35738-note-0002"><p>Results of three&#x02010;way ANOVA (<italic>df</italic>, <italic>F</italic>&#x02010;value) analyses are shown (n.s., non significant; *<italic>p</italic>&#x000a0;&#x02264;&#x000a0;.05; **<italic>p</italic>&#x000a0;&#x02264;&#x000a0;.01; ***<italic>p</italic>&#x000a0;&#x02264;&#x000a0;.001). Two&#x02010;way ANOVA was used to analyze shoot DM, root DM, and R/S values.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>We found a significant species&#x000a0;&#x000d7;&#x000a0;[CO<sub>2</sub>] interactive effect on photosynthetic parameters estimated under high light intensities (<italic>A</italic>
+<sub>max</sub>, LSE, <italic>V</italic>
+<sub>Cmax</sub>, and <italic>J</italic>
+<sub>max</sub>), but not on the photosynthetic parameters derived at low PAR (<italic>A</italic>
+<sub>50</sub>, <italic>A</italic>
+<sub>200</sub>, <italic>G</italic>
+<sub>S200</sub>, AQE, <italic>R</italic>
+<sub>D</sub>, and <italic>A</italic>
+<sub>200</sub>/<italic>R</italic>
+<sub>D</sub> ratio) and parameters of biomass production (shoot and leaf DM, and R/S ratio). Also [CO<sub>2</sub>] and time had a significant interactive effect on some photosynthetic parameters; however, [CO<sub>2</sub>]&#x000a0;&#x000d7;&#x000a0;time interaction was not as robust as compared to species&#x000a0;&#x000d7;&#x000a0;[CO<sub>2</sub>]. The only significant effect of species&#x000a0;&#x000d7;&#x000a0;[CO<sub>2</sub>]&#x000a0;&#x000d7;&#x000a0;time was found for <italic>A</italic>
+<sub>max</sub> expressed per unit leaf area.</p><sec id="ece35738-sec-0008"><label>3.1</label><title>Photosynthetic parameters</title><p>Leaves of the shade&#x02010;tolerant <italic>L.&#x000a0;sylvatica</italic> had generally higher values of <italic>A</italic>
+<sub>50</sub> (CO<sub>2</sub> assimilation rate at 50&#x000a0;&#x000b5;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup>) under AC conditions as compared to leaves of the less shade&#x02010;tolerant <italic>C.&#x000a0;arundinacea</italic> (Figure <xref rid="ece35738-fig-0003" ref-type="fig">3</xref>). Stomata of <italic>L.&#x000a0;sylvatica</italic> plants were, however, more sensitive to summer (July&#x02013;August) drought conditions than stomata of <italic>C.&#x000a0;arundinacea</italic> plants irrespective of [CO<sub>2</sub>] treatment. Reduced stomatal conductance (<italic>G</italic>
+<sub>S</sub>) subsequently led to a substantial reduction of <italic>A</italic>
+<sub>50</sub> as well as <italic>A</italic>
+<sub>200</sub> values under AC conditions as compared to spring months, but this negative effect of reduced <italic>G</italic>
+<sub>S</sub> on <italic>A</italic> was compensated by EC (Figure <xref rid="ece35738-fig-0003" ref-type="fig">3</xref>).</p><p>Throughout the growing season the EC led to an increase of <italic>A</italic>
+<sub>max</sub> in <italic>C.&#x000a0;arundinacea</italic> by 74%&#x02013;150%, while the [CO<sub>2</sub>]&#x02010;stimulation amounted only to 23%&#x02013;82% in <italic>L.&#x000a0;sylvatica</italic> (Figure <xref rid="ece35738-sup-0004" ref-type="supplementary-material">S4</xref>). The EC conditions also stimulated the <italic>A</italic> values at low PAR (<italic>A</italic>
+<sub>50</sub> and <italic>A</italic>
+<sub>200</sub>; Figure <xref rid="ece35738-fig-0003" ref-type="fig">3</xref>) in both grass species. The seasonal course of photosynthetic acclimation to EC was, however, species&#x02010;specific. While EC conditions led to increases of <italic>A</italic>
+<sub>50</sub> and <italic>A</italic>
+<sub>200</sub> in <italic>C.&#x000a0;arundinacea</italic>, particularly at the beginning of the growing season (May&#x02013;June), the highest and statistically significant stimulation of <italic>A</italic>
+<sub>50</sub> and <italic>A</italic>
+<sub>200</sub> in <italic>L.&#x000a0;sylvatica</italic> was observed during July and August when the lowest <italic>G</italic>
+<sub>S</sub> values were recorded (Figure <xref rid="ece35738-fig-0003" ref-type="fig">3</xref>).</p><p>Generally, strong shade&#x02010;tolerant <italic>L.&#x000a0;sylvatica</italic> had higher iWUE under both [CO<sub>2</sub>] treatments as compared to sun&#x02010;demanding <italic>C.&#x000a0;arundinacea</italic> (Figure <xref rid="ece35738-fig-0004" ref-type="fig">4</xref>). Elevated [CO<sub>2</sub>] increased iWUE in the both grass species studied. This increase was approximately 100% for the most of the growing season at saturating light conditions (iWUE<sub>max</sub>), while it amounted only to 50% under low light intensities (iWUE<sub>50</sub>).</p><p>Leaves of <italic>L.&#x000a0;sylvatica</italic> plants had higher AQE and lower LCP than <italic>C.&#x000a0;arundinacea</italic> under both [CO<sub>2</sub>] conditions, throughout the whole growing season. A significant stimulatory effect of EC on AQE was found in both species at the beginning of the growing season, but it gradually diminished, particularly in <italic>L.&#x000a0;sylvatica</italic> (Figure <xref rid="ece35738-fig-0005" ref-type="fig">5</xref>). The LCP values significantly decreased throughout the growing season in both growth environments. Although EC led to an increase in LCP of up to 125% and 130% in <italic>C.&#x000a0;arundinacea</italic> and <italic>L.&#x000a0;sylvatica</italic>, respectively, these differences were mostly statistically nonsignificant (<italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05; Figure <xref rid="ece35738-fig-0005" ref-type="fig">5</xref>). On the contrary, a highly significant positive effect of the EC treatment on the light saturation estimate (LSE) was found in both species (Figure <xref rid="ece35738-sup-0004" ref-type="supplementary-material">S4</xref>), except at the beginning (May) and end of the growing season (October).</p><p>Leaf dark respiration (<italic>R</italic>
+<sub>D</sub>) tended to decrease throughout the growing season in both grass species and [CO<sub>2</sub>] treatments studied. While EC stimulated RD values in <italic>C.&#x000a0;arundinacea</italic> plants at the beginning of the growing season (May), significant stimulation of <italic>R</italic>
+<sub>D</sub> by EC conditions was found during August and September in <italic>L.&#x000a0;sylvatica</italic> plants (Figure <xref rid="ece35738-fig-0006" ref-type="fig">6</xref>). Carbon ratio, the ratio between <italic>A</italic>
+<sub>200</sub> and <italic>R</italic>
+<sub>D</sub>, was substantially stimulated be EC amounting up to 170%&#x02013;190% in July; however, these differences were statistically not significant (<italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05). Moreover, the EC stimulation of the <italic>A</italic>
+<sub>200</sub>/<italic>R</italic>
+<sub>D</sub> ratio diminished in August in <italic>C.&#x000a0;arundinacea</italic> and in September in the <italic>L.&#x000a0;sylvatica</italic> plants (Figure <xref rid="ece35738-fig-0006" ref-type="fig">6</xref>).</p><p>
+<italic>V</italic>
+<sub>Cmax</sub> and <italic>J</italic>
+<sub>max</sub> reached the lowest values during July and August (Figure <xref rid="ece35738-fig-0007" ref-type="fig">7</xref>), that is, the months when the highest temperature and the lowest total precipitation were measured (Figure <xref rid="ece35738-fig-0001" ref-type="fig">1</xref>). The EC conditions led to a significant stimulation of <italic>V</italic>
+<sub>Cmax</sub> and <italic>J</italic>
+<sub>max</sub> in <italic>C.&#x000a0;arundinacea</italic> at the beginning (May, June) and end of the growing season (September, October), but in <italic>L.&#x000a0;sylvatica</italic> the stimulation occurred during the summer months with a peak in August.</p></sec><sec id="ece35738-sec-0009"><label>3.2</label><title>Morphological and production parameters</title><p>In both grass species, leaf dry mass increased under EC as compared to AC, however, only significantly in July for <italic>C.&#x000a0;arundinacea</italic> and in August for <italic>L.&#x000a0;sylvatica</italic>. While no significant differences in leaf mass per area (LMA) were found in <italic>C.&#x000a0;arundinacea</italic>, a significant increase in LMA, in response to the EC treatment, was observed in <italic>L.&#x000a0;sylvatica</italic> during the whole experimental period, except in October (Figure <xref rid="ece35738-fig-0008" ref-type="fig">8</xref>).</p><p>Destructive sampling of experimental plants in August showed significant effects of species on shoot dry mass. While no significant response to EC in dry mass accumulation was found in <italic>C.&#x000a0;arundinacea</italic>, a marked increase in root dry mass was observed in <italic>L.&#x000a0;sylvatica</italic> (Figure <xref rid="ece35738-fig-0009" ref-type="fig">9</xref>). This response led to a significant increase of the R/S ratio in <italic>L.&#x000a0;sylvatica</italic> under EC (0.92) in comparison with AC (0.44) growing conditions.</p><fig fig-type="Figure" xml:lang="en" id="ece35738-fig-0009" orientation="portrait" position="float"><label>Figure 9</label><caption><p>Mean values (columns) of shoot and root dry mass and root&#x02010;to&#x02010;shoot ratio (R/S) of <italic>Calamagrostis arundinacea</italic> and <italic>Luzula sylvatica</italic> developed in forest understorey at ambient (AC) and elevated [CO<sub>2</sub>] (EC). The sampling was done in September 2010, that is, after 4&#x000a0;years of cultivation in AC and EC conditions. Error bars represent standard deviations. A <italic>t</italic> test was performed to compare differences between means of AC and EC treatments within individual plant species (n.s., non significant; *<italic>p</italic>&#x000a0;&#x02264;&#x000a0;.05; <italic>n</italic>&#x000a0;=&#x000a0;5)</p></caption><graphic id="nlm-graphic-19" xlink:href="ECE3-9-13663-g009"/></fig></sec></sec><sec sec-type="discussion" id="ece35738-sec-0010"><label>4</label><title>DISCUSSION</title><p>Climate change may lead to an increase of light intensity in forest understories due to triggered tree die&#x02010;off and reduction of overstorey canopy (Royer et al., <xref rid="ece35738-bib-0049" ref-type="ref">2011</xref>) as well as its reduction when the overstorey leaf area is stimulated by EC conditions (Norby et al., <xref rid="ece35738-bib-0040" ref-type="ref">2005</xref>). The contribution of understorey vegetation to carbon sequestration and other ecosystem functions can be relatively high under both radiation conditions if the understorey vegetation shows sufficient plasticity for acclimation (Nilsson &#x00026; Wardle, <xref rid="ece35738-bib-0039" ref-type="ref">2005</xref>).</p><p>Within this study, we tested the hypothesis that elevated [CO<sub>2</sub>] stimulates photosynthesis and growth of understorey plants species even under low light intensities and that understorey species with different dynamics of development and light requirements can utilize different light niches during the vegetation season to profit from elevated [CO<sub>2</sub>]. To understand the mechanisms of acclimation plasticity of understorey plants, we studied seasonal dynamics in photosynthetic responses of two distinct grass species&#x02014;less shade&#x02010;tolerant <italic>C.&#x000a0;arundinacea</italic> with rapid transition to generative stage and highly shade&#x02010;tolerant <italic>L.&#x000a0;sylvatica</italic> with slow development.</p><sec id="ece35738-sec-0011"><label>4.1</label><title>[CO<sub>2</sub>] stimulation of photosynthesis at low light intensity</title><p>In general, the stimulatory effect of elevated [CO<sub>2</sub>] on photosynthetic assimilation varies depending on the functional group and interactions with other environmental conditions. Ainsworth and Rogers (<xref rid="ece35738-bib-0002" ref-type="ref">2007</xref>) concluded that trees are more responsive to elevated [CO<sub>2</sub>] than other functional groups, including herbaceous understorey species. These conclusions are, however, mainly based on studies where the plants were exposed to high light intensities, while studies conducted on shade&#x02010;acclimated leaves and understorey vegetation received little attention (Kim, Oren, &#x00026; Qian, <xref rid="ece35738-bib-0031" ref-type="ref">2016</xref>; Valladares, Laanisto, Niinemets, &#x00026; Zavala, <xref rid="ece35738-bib-0057" ref-type="ref">2016</xref>). In the present study, we found evidences supporting the hypothesis that EC substantially stimulates photosynthesis (Figure <xref rid="ece35738-fig-0003" ref-type="fig">3</xref>) and partially also the growth (Figures <xref rid="ece35738-fig-0008" ref-type="fig">8</xref> and <xref rid="ece35738-fig-0009" ref-type="fig">9</xref>) of understorey plants naturally exposed to low DLIs (0.1&#x02013;14&#x000a0;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;day<sup>&#x02212;1</sup>), that is, conditions when photosynthesis is limited particularly by an insufficient rate of electron transport and formation of electrochemical potential on thylakoid membrane (Farquhar et al., <xref rid="ece35738-bib-0016" ref-type="ref">1980</xref>; von Caemmerer, <xref rid="ece35738-bib-0058" ref-type="ref">2000</xref>). However, the analysis of photosynthetic light curves (Figure <xref rid="ece35738-sup-0002" ref-type="supplementary-material">S2</xref>) shows considerable species&#x02010;specific differences in EC stimulation in response to light intensity. While in shade&#x02010;tolerant species <italic>L.&#x000a0;sylvatica</italic> changes the relative stimulation by EC only little with light intensity, less tolerant species <italic>C.&#x000a0;arundinacea</italic> shows a significant increase of relative stimulation by EC with light intensity. In addition, photosynthetic stimulation by EC shows in <italic>C.&#x000a0;arundinacea</italic> changes with decreasing role of light intensity during the vegetation season. One of the main reasons for maintaining relatively high stimulation by EC under low light intensities in understorey vegetation is reduced downregulation of photosynthesis which is driven by accumulation of carbohydrates and mediated by hexokinase signaling pathway (Kelly et al., <xref rid="ece35738-bib-0028" ref-type="ref">2013</xref>). This signaling pathway senses the imbalance between carbon source and carbon sinks. Higher light intensities lead in shade&#x02010;tolerant species to rapid predominance of carbon source above carbon sink and subsequent feedback regulation of photosynthesis. On the contrary, shade&#x02010;intolerant species provide sufficient carbon sinks even under high light intensities, which means that downregulation of photosynthesis occurs only at high light intensities (Springer &#x00026; Thomas, <xref rid="ece35738-bib-0051" ref-type="ref">2007</xref>). As the carbon sink strongly depends on plant development stage, with the highest sink during rapid vegetative growth, the downregulation of photosynthesis can also explain the seasonal changes in EC stimulation. Carbon sink capacity may be further modulated by nitrogen and water availability, thus altering the response to EC (Leakey et al., <xref rid="ece35738-bib-0034" ref-type="ref">2009</xref>).</p><p>In agreement with previous studies (summarized in Kim et al., <xref rid="ece35738-bib-0031" ref-type="ref">2016</xref>), we have found greater [CO<sub>2</sub>] effect on <italic>A</italic>
+<sub>max</sub> (Figure <xref rid="ece35738-sup-0004" ref-type="supplementary-material">S4</xref>) and smaller enhancement of <italic>A</italic>
+<sub>50</sub> (Figure <xref rid="ece35738-fig-0003" ref-type="fig">3</xref>) and AQE (Figure <xref rid="ece35738-fig-0005" ref-type="fig">5</xref>). However, the effect of EC changed asynchronously with light intensity for individual species, with less growth of EC stimulation above PAR intensities 200&#x000a0;&#x003bc;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup> in <italic>L.&#x000a0;sylvatica</italic>. Consistent stimulation of <italic>A</italic> and AQE by elevated [CO<sub>2</sub>] at low light intensities was found also in tropical understorey vegetation (H&#x000e4;ttenschwiler &#x00026; K&#x000f6;rner, <xref rid="ece35738-bib-0025" ref-type="ref">1996</xref>, <xref rid="ece35738-bib-0026" ref-type="ref">2000</xref>; W&#x000fc;rth et al., <xref rid="ece35738-bib-0061" ref-type="ref">1998</xref>) and shade&#x02010;acclimated shoots of <italic>P.&#x000a0;abies</italic> (Marek et al., <xref rid="ece35738-bib-0036" ref-type="ref">2002</xref>). Besides role of carbon source and sink balance and limited feedback regulation of photosynthesis in understorey vegetation, such enhancements are also likely caused by a reduced photorespiration rate due to an increased ratio of intercellular [CO<sub>2</sub>] to [O<sub>2</sub>] (Drake et al., <xref rid="ece35738-bib-0014" ref-type="ref">1997</xref>; Farquhar et al., <xref rid="ece35738-bib-0016" ref-type="ref">1980</xref>; Way et al., <xref rid="ece35738-bib-0060" ref-type="ref">2015</xref>).</p><p>
+<italic>V</italic>
+<sub>Cmax</sub> and <italic>J</italic>
+<sub>max</sub> parameters characterizing biochemical limitations of photosynthesis represent important indicators of photosynthetic downregulation. In our study, EC had a slight positive effect on the both <italic>V</italic>
+<sub>Cmax</sub> and <italic>J</italic>
+<sub>max</sub> values, indicating no occurrence of photosynthetic downregulation in both species, although the response of both parameters to EC changed during vegetation season and showed species&#x02010;specific temporal dynamics (higher stimulation in summer for <italic>L.&#x000a0;sylvatica</italic> and in spring and autumn for <italic>C.&#x000a0;arundinacea</italic>; Figure <xref rid="ece35738-fig-0007" ref-type="fig">7</xref>).</p><p>In contrary to DeLucia and Thomas (<xref rid="ece35738-bib-0013" ref-type="ref">2000</xref>), who observed the proportionately greater stimulation of <italic>J</italic>
+<sub>max</sub> by [CO<sub>2</sub>], <italic>V</italic>
+<sub>Cmax</sub> to <italic>J</italic>
+<sub>max</sub> ratio remained constant in our study with two understorey grass species. Noticeably, both overstorey tree species, <italic>P.&#x000a0;abies</italic> and <italic>Fagus sylvatica</italic>, had lower <italic>V</italic>
+<sub>Cmax</sub> and <italic>J</italic>
+<sub>max</sub> values under EC than AC conditions indicating photosynthetic downregulation (Ko&#x00161;vancov&#x000e1; et al., <xref rid="ece35738-bib-0032" ref-type="ref">2009</xref>). It can be assumed that an enhanced accumulation of nonstructural carbohydrates, particularly hexoses, under EC conditions, is at low DLIs of understorey plants insufficient to initiate a feedback inhibition of photosynthesis including among others a shortage of inorganic phosphate in the chloroplast for ATP synthesis and RuBP regeneration, a repression of the expression of genes transcribing for Rubisco and/or a reduction of Rubisco content and activity (reviewed in Ceulemans &#x00026; Mousseau, <xref rid="ece35738-bib-0010" ref-type="ref">1994</xref>; Leakey et al., <xref rid="ece35738-bib-0034" ref-type="ref">2009</xref>; Urban, <xref rid="ece35738-bib-0053" ref-type="ref">2003</xref>; Way et al., <xref rid="ece35738-bib-0060" ref-type="ref">2015</xref>). Moreover, it seems that C sink strength is not reduced in understorey plants as documented by positive [CO<sub>2</sub>] effect on the growth of aboveground and belowground biomass (Figures <xref rid="ece35738-fig-0008" ref-type="fig">8</xref> and <xref rid="ece35738-fig-0009" ref-type="fig">9</xref>). However, it should be emphasized that the degree of [CO<sub>2</sub>]&#x02010;induced enhancement of growth may be strongly reduced under the conditions of insufficient nutrient, particularly nitrogen, availability (Kim et al., <xref rid="ece35738-bib-0031" ref-type="ref">2016</xref>).</p></sec><sec id="ece35738-sec-0012"><label>4.2</label><title>Responses to elevated [CO<sub>2</sub>] are species&#x02010;specific</title><p>To test the hypothesis that species differing in shade&#x02010;tolerance also have a different sensitivity to EC, <italic>L.&#x000a0;sylvatica</italic> and <italic>C.&#x000a0;arundinacea</italic> were investigated in this study. Higher values of <italic>A</italic>
+<sub>50</sub> and AQE together with lower LCP in <italic>L.&#x000a0;sylvatica</italic> than <italic>C.&#x000a0;arundinacea</italic> under AC conditions (Figures <xref rid="ece35738-fig-0003" ref-type="fig">3</xref> and <xref rid="ece35738-fig-0005" ref-type="fig">5</xref>) confirmed that <italic>L.&#x000a0;sylvatica</italic> is a more shade&#x02010;tolerant species than <italic>C.&#x000a0;arundinacea</italic>. We found that EC conditions substantially stimulate the formation of above&#x02010; and particularly belowground biomass of shade&#x02010;tolerant <italic>L.&#x000a0;sylvatica</italic>, while only insignificant increases were observed in <italic>C.&#x000a0;arundinacea</italic> plants (Figure <xref rid="ece35738-fig-0009" ref-type="fig">9</xref>). This is in accordance with a higher [CO<sub>2</sub>] stimulation of <italic>A</italic>
+<sub>50</sub>, <italic>A</italic>
+<sub>200</sub>, and <italic>A</italic>/<italic>R</italic>
+<sub>D</sub> ratio in <italic>L.&#x000a0;sylvatica</italic> than in <italic>C.&#x000a0;arundinacea</italic>, particularly in summer months. Also Kubiske and Pregitzer (<xref rid="ece35738-bib-0033" ref-type="ref">1996</xref>) concluded an increasing stimulation effect of elevated [CO<sub>2</sub>] on photosynthetic parameters with an increasing shade&#x02010;tolerance of plant species. In contrary, H&#x000e4;ttenschwiler (<xref rid="ece35738-bib-0024" ref-type="ref">2001</xref>) observed high variability of physiological and morphological responses to elevated [CO<sub>2</sub>] in five tree species of forest understorey even across the narrow range of successional status and shade&#x02010;tolerance of the species studied. Our results show strong seasonality in species responses to EC and imply that differences in EC stimulation are controlled by plant development modulating sink capacity. While <italic>C.&#x000a0;arundinacea</italic> transits to generative stage after short period of fast vegetative growth inducing thus senescence of older leaves, <italic>L.&#x000a0;sylvatica</italic> is typical by continuous vegetative growth over the whole vegetation season. Integration of EC stimulation over the whole vegetation season thus results in higher biomass EC stimulation in <italic>L.&#x000a0;sylvatica</italic>.</p><p>It is hypothesized that the physiological mechanism behind the stimulatory effect of elevated [CO<sub>2</sub>] on carbon gain under low light intensities includes an increase of AQE and a reduction of LCP (Osborne et al., <xref rid="ece35738-bib-0042" ref-type="ref">1998</xref>). While our study confirmed higher AQE values under EC conditions and particularly in <italic>C.&#x000a0;arundinacea</italic> at the beginning of the vegetation season, the hypothesis of reduced LCP was not supported by our data (Figure <xref rid="ece35738-fig-0005" ref-type="fig">5</xref>). In accordance with DeLucia and Thomas (<xref rid="ece35738-bib-0013" ref-type="ref">2000</xref>), we have found that EC conditions led to higher LCP values, that is, higher light intensities are required to compensate between assimilatory and respiratory processes, particularly in the less shade&#x02010;tolerant <italic>C.&#x000a0;arundinacea</italic> plants. Such increase in LCP values is caused by the increase in <italic>R</italic>
+<sub>D</sub> under elevated [CO<sub>2</sub>] (Figure <xref rid="ece35738-fig-0006" ref-type="fig">6</xref>) leading to an overall shift of the <italic>A</italic>/PAR curves (Figure <xref rid="ece35738-sup-0003" ref-type="supplementary-material">S3</xref>). Accordingly, we conclude that increased carbon uptake in understorey plants under EC conditions is primarily caused by increased AQE, that is, reduced photorespiration rate.</p><p>[CO<sub>2</sub>]&#x02010;induced changes in biomass partitioning between shoots (S) and roots (R) also seems to be species&#x02010;specific. Although both grass species showed an increase in root biomass and an increase in R/S ratio under EC conditions, these changes were significant only in the shade&#x02010;tolerant <italic>L.&#x000a0;sylvatica</italic> (Figure <xref rid="ece35738-fig-0009" ref-type="fig">9</xref>). Arnone et al. (<xref rid="ece35738-bib-0005" ref-type="ref">2000</xref>) studied the response of root systems to elevated [CO<sub>2</sub>] in intact native grassland ecosystems and found one group of plants with no change in the root systems, and the second group with growth increases of 38% in average. Increased root production under elevated [CO<sub>2</sub>] could, however, be followed by increased root mortality and decomposition rates which may lead to only small changes in root biomass, particularly in high soil moisture conditions (Pendall, Osanai, Williams, &#x00026; Hovenden, <xref rid="ece35738-bib-0043" ref-type="ref">2003</xref>). Differences in root growth stimulation under EC conditions can be explained by variety of mechanisms among which nutrient availability (especially nitrogen) plays a crucial role. Since the carbon investment into the root system is energetically disadvantageous, the plants increase the root system in response to EC only under nitrogen limiting conditions together with improved nutrient uptake by mycorrhiza (Arnone et al., <xref rid="ece35738-bib-0005" ref-type="ref">2000</xref>).</p><p>More pronounced growth stimulation of shade&#x02010;tolerant species by elevated [CO<sub>2</sub>] was confirmed in a meta&#x02010;analysis by Kerstiens (<xref rid="ece35738-bib-0030" ref-type="ref">2001</xref>). However, differences between shade&#x02010;tolerant and shade&#x02010;intolerant species only occurred at high DLIs (Poorter et al., <xref rid="ece35738-bib-0046" ref-type="ref">2019</xref>). Kerstiens (<xref rid="ece35738-bib-0029" ref-type="ref">1998</xref>) suggested that shade&#x02010;tolerance as such does not play a role in response to elevated [CO<sub>2</sub>], but that functional traits associated with the ability to survive suppression of growth in the forest understorey are crucial for growth response to elevated [CO<sub>2</sub>] (e.g., ability to harvest light, water, and nutrients). Highest responses to elevated [CO<sub>2</sub>] were thus found in species with generally low relative growth rate, low leaf nitrogen content, and high R/S ratio and LMA (Kerstiens, <xref rid="ece35738-bib-0030" ref-type="ref">2001</xref>). These are typical traits for <italic>L.&#x000a0;sylvatica</italic>, which showed higher growth stimulation by EC, particularly in summer months with a closed canopy, but slightly increasing DLIs given by longer days and higher incident PAR above the canopy.</p></sec><sec id="ece35738-sec-0013"><label>4.3</label><title>Seasonality of responses to elevated [CO<sub>2</sub>]</title><p>Pronounced seasonal pattern in <italic>V</italic>
+<sub>Cmax</sub> and <italic>J</italic>
+<sub>max</sub> was observed in both understorey grass species studied. In accordance with the study by Xu and Baldocchi (<xref rid="ece35738-bib-0062" ref-type="ref">2003</xref>), maximum values of <italic>V</italic>
+<sub>Cmax</sub> and <italic>J</italic>
+<sub>max</sub> were recorded in spring after leaf expansion followed by minimal values during hot and dry summer months and partial recovery at the end of summer and autumn. Such seasonal patterns were found under the both [CO<sub>2</sub>] treatments (Figure <xref rid="ece35738-fig-0007" ref-type="fig">7</xref>).</p><p>Our results also support the hypothesis that the stimulatory effect of EC is changing throughout the growing season and is based on species&#x02010;specific differences in shade&#x02010;tolerance and developmental dynamics, allowing the two species to exploit different light niches during the season. The existence of two light niches in early spring and during the summer months exploited by typically sun&#x02010;demanding and shade&#x02010;tolerant understorey vegetation, respectively, has been proved in our experimental mixed forest (Figure <xref rid="ece35738-fig-0002" ref-type="fig">2</xref>b).</p><p>For <italic>C.&#x000a0;arundinacea</italic>, the EC conditions led to an increase in <italic>A</italic>
+<sub>50</sub> (the most frequent light intensity of a forest understorey; Figure <xref rid="ece35738-fig-0003" ref-type="fig">3</xref>) and <italic>A</italic>
+<sub>200</sub>/<italic>R</italic>
+<sub>D</sub> ratio (proxy to carbon balance of leaves; Figure <xref rid="ece35738-fig-0006" ref-type="fig">6</xref>), particularly at the beginning of the growing season when the leaf area of the overstorey trees was not fully developed. On the other hand, these parameters were substantially stimulated in <italic>L.&#x000a0;sylvatica</italic> by EC in the summer months (July&#x02013;August) which can be attributed to significantly lower light saturation intensities, compared to <italic>C.&#x000a0;arundinacea</italic>, and better utilization of low intensities during longer days. Pronounced stimulation by EC in the summer months can also be associated with lower water availability, which was confirmed by reduced stomatal conductance (Figure <xref rid="ece35738-fig-0003" ref-type="fig">3</xref>). The EC generally increases iWUE (Figure <xref rid="ece35738-fig-0004" ref-type="fig">4</xref>) and may thus reduce the negative impact of limited water availability (Valladares et al., <xref rid="ece35738-bib-0057" ref-type="ref">2016</xref>). Therefore, not only the tolerance to shade conditions, but also the sensitivity of plants to other environmental perturbations, like drought, may further modulate the final response of understorey plants to EC and its seasonal dynamics. This is in agreement with the findings by Belote et al. (<xref rid="ece35738-bib-0008" ref-type="ref">2004</xref>) that responses of understorey plants to elevated [CO<sub>2</sub>] are mediated by soil water availability. Several other studies also concluded a positive effect of elevated [CO<sub>2</sub>] on CO<sub>2</sub> assimilation rate, plant water relations, and growth, during drought or water&#x02010;limited periods (Ainsworth &#x00026; Long, <xref rid="ece35738-bib-0001" ref-type="ref">2005</xref>; Guehl, Picon, Aussenac, &#x00026; Gross, <xref rid="ece35738-bib-0022" ref-type="ref">1994</xref>; Tschaplinski et al., <xref rid="ece35738-bib-0052" ref-type="ref">1995</xref>). In our study, however, the relatively even distribution of precipitation in July and August suggests that peak stimulation by EC during these months was more related to species&#x02010;specific differences.</p><p>Seasonal changes in the gas exchange parameters were in accordance with the seasonal dynamics of leaf dry mass, LMA, and their enhancement ratios (Figure <xref rid="ece35738-fig-0008" ref-type="fig">8</xref>). Based on a meta&#x02010;analysis, Poorter and Navas (<xref rid="ece35738-bib-0045" ref-type="ref">2003</xref>) concluded that elevated [CO<sub>2</sub>] increases LMA in almost all C3 plants. However, we have observed this increase significant in shade&#x02010;tolerant <italic>L.&#x000a0;sylvatica</italic>, but not in sun&#x02010;demanding <italic>C.&#x000a0;arundinacea</italic>. The causes of negligible EC effect on LMA in <italic>C.&#x000a0;arundinacea</italic> can be twofold. First, the photosynthetic stimulation in this species was observed only during rapid vegetative growth with high sink for carbon represented by newly developing leaves. Translocation of carbohydrates to new leaves thus limited the direct effect carbohydrate accumulation on LMA. Second, the low effect of EC on LMA in <italic>C.&#x000a0;arundinacea</italic> could be explained by higher production of flowering shoots in comparison with AC in this species (data not shown) and thus lower biomass allocation to vegetative leaves during flowering. Also Jablonski, Wang, and Curtis (<xref rid="ece35738-bib-0027" ref-type="ref">2002</xref>) reported significantly enhanced number of flowers and seeds in plants grown under EC in comparison with AC.</p></sec></sec><sec sec-type="conclusions" id="ece35738-sec-0014"><label>5</label><title>CONCLUSIONS</title><p>Our data support the hypothesis that elevated [CO<sub>2</sub>] increases photosynthetic carbon uptake and stimulates the growth of understorey plant communities. In addition, we confirmed the hypothesis that species with distinct dynamics of development and shade&#x02010;tolerance utilize different light niches during vegetation season to profit from rising [CO<sub>2</sub>]. In our study, the elevated [CO<sub>2</sub>] stimulated particularly growth of shade&#x02010;tolerant <italic>L.&#x000a0;sylvatica</italic> that was able to sustain [CO<sub>2</sub>]&#x02010;stimulated photosynthesis at natural light of low intensity during much of the growing season. In contrary, such [CO<sub>2</sub>]&#x02010;stimulated photosynthesis in sun&#x02010;demanding <italic>C.&#x000a0;arundinacea</italic> was found only during the spring months when the tree canopy was not fully developed, and the plants were exposed to relatively high DLI values. Finally, our results imply that understorey vegetation in the future could gain more importance in carbon sequestration and other ecosystem functions as it shows less evidence of photosynthetic downregulation, improved water use efficiency, enhanced amount of carbon accumulated in the biomass, particularly roots, and also high plasticity to changing light conditions given mainly by species&#x02010;specific differences in the dynamics of development and shade&#x02010;tolerance.</p></sec><sec sec-type="COI-statement" id="ece35738-sec-0015"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35738-sec-0016"><title>AUTHOR CONTRIBUTIONS</title><p>P.H., K.K., and O.U. conceived the ideas, designed methodology, and analyzed data; P.H. and K.K. collected data; P.H. and O.U. led the writing of the manuscript assisted by S.L. and K.K. All authors contributed critically to the drafts and gave final approval for publication.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35738-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13663-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35738-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13663-s002.TIF"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35738-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13663-s003.TIF"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35738-sup-0004"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13663-s004.TIF"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35738-sec-0019"><title>ACKNOWLEDGMENTS</title><p>This research was supported by the Ministry of Education, Youth and Sports of the Czech Republic (MEYS CR) within the National Programme for Sustainability (grant no. LO1415) and by the Czech Science Foundation (grant no. 18&#x02010;23702S). The B&#x000ed;l&#x000fd; K&#x00159;&#x000ed;&#x0017e; experimental site is within the National Infrastructure CzeCOS ProCES (grant no. CZ.02.1.01/0.0/0.0/16_013/0001609).</p></ack><sec sec-type="data-availability" id="ece35738-sec-0018"><title>DATA AVAILABILITY STATEMENT</title><p>All data used in this manuscript are presented in the figures and supporting information.</p></sec><ref-list content-type="cited-references" id="ece35738-bibl-0001"><title>REFERENCES</title><ref id="ece35738-bib-0001"><mixed-citation publication-type="journal" id="ece35738-cit-0001">
+<string-name>
+<surname>Ainsworth</surname>, <given-names>E. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Long</surname>, <given-names>S. P.</given-names>
+</string-name> (<year>2005</year>). <article-title>What have we learned from 15 years of free&#x02010;air CO<sub>2</sub> enrichment (FACE)? A meta&#x02010;analytic review of the responses of photosynthesis, canopy properties and plant production to rising CO<sub>2</sub>
+</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>165</volume>, <fpage>351</fpage>&#x02013;<lpage>372</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2004.01224.x</pub-id>
+<pub-id pub-id-type="pmid">15720649</pub-id></mixed-citation></ref><ref id="ece35738-bib-0002"><mixed-citation publication-type="journal" id="ece35738-cit-0002">
+<string-name>
+<surname>Ainsworth</surname>, <given-names>E. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rogers</surname>, <given-names>A.</given-names>
+</string-name> (<year>2007</year>). <article-title>The response of photosynthesis and stomatal conductance to rising [CO<sub>2</sub>]: Mechanisms and environmental interactions</article-title>. <source xml:lang="en">Plant Cell &#x00026; Environment</source>, <volume>30</volume>, <fpage>258</fpage>&#x02013;<lpage>270</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-3040.2007.01641.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0003"><mixed-citation publication-type="journal" id="ece35738-cit-0003">
+<string-name>
+<surname>Albert</surname>, <given-names>K. R.</given-names>
+</string-name>, <string-name>
+<surname>Ro&#x02010;Poulsen</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Mikkelsen</surname>, <given-names>T. N.</given-names>
+</string-name>, <string-name>
+<surname>Michelsen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>van der Linden</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beier</surname>, <given-names>C.</given-names>
+</string-name> (<year>2011</year>). <article-title>Interactive effects of elevated CO<sub>2</sub>, warming, and drought on photosynthesis of <italic>Deschampsia flexuosa</italic> in a temperate heath ecosystem</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>, <volume>62</volume>, <fpage>4253</fpage>&#x02013;<lpage>4266</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/err133</pub-id>
+<pub-id pub-id-type="pmid">21586430</pub-id></mixed-citation></ref><ref id="ece35738-bib-0004"><mixed-citation publication-type="journal" id="ece35738-cit-0004">
+<string-name>
+<surname>Anderson</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name>
+<surname>Derner</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Polley</surname>, <given-names>H. W.</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>, <given-names>W. S.</given-names>
+</string-name>, <string-name>
+<surname>Eissenstat</surname>, <given-names>D. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jackson</surname>, <given-names>R. B.</given-names>
+</string-name> (<year>2010</year>). <article-title>Root responses along a subambient to elevated CO<sub>2</sub> gradient in a C3&#x02013;C4 grassland</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>16</volume>, <fpage>454</fpage>&#x02013;<lpage>468</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2486.2009.01975.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0005"><mixed-citation publication-type="journal" id="ece35738-cit-0005">
+<string-name>
+<surname>Arnone</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Zaller</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>Spehn</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Niklaus</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Wells</surname>, <given-names>C. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>K&#x000f6;rner</surname>, <given-names>C.</given-names>
+</string-name> (<year>2000</year>). <article-title>Dynamics of root systems in native grasslands: Effects of elevated atmospheric CO<sub>2</sub>
+</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>147</volume>, <fpage>73</fpage>&#x02013;<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1046/j.1469-8137.2000.00685.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0006"><mixed-citation publication-type="journal" id="ece35738-cit-0006">
+<string-name>
+<surname>Asshoff</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>K&#x000f6;rner</surname>, <given-names>C.</given-names>
+</string-name> (<year>2006</year>). <article-title>Growth and phenology of mature temperate forest trees in elevated CO<sub>2</sub>
+</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>12</volume>, <fpage>848</fpage>&#x02013;<lpage>861</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2486.2006.01133.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0007"><mixed-citation publication-type="journal" id="ece35738-cit-0007">
+<string-name>
+<surname>Augspurger</surname>, <given-names>C. K.</given-names>
+</string-name>, <string-name>
+<surname>Cheeseman</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Salk</surname>, <given-names>C. F.</given-names>
+</string-name> (<year>2005</year>). <article-title>Light gains and physiological capacity of understorey woody plants during phenological avoidance of canopy shade</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>19</volume>, <fpage>537</fpage>&#x02013;<lpage>546</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2435.2005.01027.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0008"><mixed-citation publication-type="journal" id="ece35738-cit-0008">
+<string-name>
+<surname>Belote</surname>, <given-names>R. T.</given-names>
+</string-name>, <string-name>
+<surname>Weltzin</surname>, <given-names>J. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Norby</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2004</year>). <article-title>Response of an understory plant community to elevated [CO<sub>2</sub>] depends on differential responses of dominant invasive species and is mediated by soil water availability</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>161</volume>, <fpage>827</fpage>&#x02013;<lpage>835</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2004.00977.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0009"><mixed-citation publication-type="journal" id="ece35738-cit-0009">
+<string-name>
+<surname>Bernacchi</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Singsaas</surname>, <given-names>E. L.</given-names>
+</string-name>, <string-name>
+<surname>Pimentel</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Portis</surname>, <given-names>A. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Long</surname>, <given-names>S. P.</given-names>
+</string-name> (<year>2001</year>). <article-title>Improved temperature response functions for models of Rubisco&#x02010;limited photosynthesis</article-title>. <source xml:lang="en">Plant Cell &#x00026; Environment</source>, <volume>24</volume>, <fpage>253</fpage>&#x02013;<lpage>259</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-3040.2001.00668.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0010"><mixed-citation publication-type="journal" id="ece35738-cit-0010">
+<string-name>
+<surname>Ceulemans</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mousseau</surname>, <given-names>M.</given-names>
+</string-name> (<year>1994</year>). <article-title>Tansley review no 71 effects of elevated atmospheric CO<sub>2</sub> on woody&#x02010;plants</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>127</volume>, <fpage>425</fpage>&#x02013;<lpage>446</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.1994.tb03961.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0011"><mixed-citation publication-type="journal" id="ece35738-cit-0011">
+<string-name>
+<surname>Curtis</surname>, <given-names>P. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name> (<year>1998</year>). <article-title>A meta&#x02010;analysis of elevated CO<sub>2</sub> effects on woody plant mass, form and physiology</article-title>. <source xml:lang="en">Oecologia</source>, <volume>113</volume>, <fpage>299</fpage>&#x02013;<lpage>313</lpage>. <pub-id pub-id-type="doi">10.1007/s004420050</pub-id>
+<pub-id pub-id-type="pmid">28307814</pub-id></mixed-citation></ref><ref id="ece35738-bib-0012"><mixed-citation publication-type="journal" id="ece35738-cit-0012">
+<string-name>
+<surname>de Graaff</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>van Groenigen</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Six</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hungate</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>van Kessel</surname>, <given-names>C.</given-names>
+</string-name> (<year>2006</year>). <article-title>Interactions between plant growth and soil nutrient cycling under elevated CO<sub>2</sub>: A meta&#x02010;analysis</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>12</volume>, <fpage>2077</fpage>&#x02013;<lpage>2091</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2486.2006.01240.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0013"><mixed-citation publication-type="journal" id="ece35738-cit-0013">
+<string-name>
+<surname>DeLucia</surname>, <given-names>E. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thomas</surname>, <given-names>R. B.</given-names>
+</string-name> (<year>2000</year>). <article-title>Photosynthetic responses to CO<sub>2</sub> enrichment of four hardwood species in a forest understory</article-title>. <source xml:lang="en">Oecologia</source>, <volume>122</volume>, <fpage>11</fpage>&#x02013;<lpage>19</lpage>. <pub-id pub-id-type="doi">10.1007/PL00008827</pub-id>
+<pub-id pub-id-type="pmid">28307948</pub-id></mixed-citation></ref><ref id="ece35738-bib-0014"><mixed-citation publication-type="journal" id="ece35738-cit-0014">
+<string-name>
+<surname>Drake</surname>, <given-names>B. G.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez&#x02010;Meler</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Long</surname>, <given-names>S. P.</given-names>
+</string-name> (<year>1997</year>). <article-title>More efficient plants: A consequence of rising atmospheric CO<sub>2</sub>?</article-title>
+<source xml:lang="en">Annual Review of Plant Physiology and Plant Molecular Biology</source>, <volume>48</volume>, <fpage>609</fpage>&#x02013;<lpage>639</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.arplant.48.1.609</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0015"><mixed-citation publication-type="journal" id="ece35738-cit-0015">
+<string-name>
+<surname>Dukes</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Chiariello</surname>, <given-names>N. R.</given-names>
+</string-name>, <string-name>
+<surname>Cleland</surname>, <given-names>E. E.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Thayer</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Field</surname>, <given-names>C. B.</given-names>
+</string-name> (<year>2005</year>). <article-title>Responses of grassland production to single and multiple global environmental changes</article-title>. <source xml:lang="en">PLOS Biology</source>, <volume>3</volume>, <fpage>1829</fpage>&#x02013;<lpage>1837</lpage>. <pub-id pub-id-type="doi">10.1371/journal.pbio.0030319</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0016"><mixed-citation publication-type="journal" id="ece35738-cit-0016">
+<string-name>
+<surname>Farquhar</surname>, <given-names>G. D.</given-names>
+</string-name>, <string-name>
+<surname>Caemmerer</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Berry</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>1980</year>). <article-title>A biochemical model of photosynthetic CO<sub>2</sub> assimilation in leaves of C&#x02010;3 species</article-title>. <source xml:lang="en">Planta</source>, <volume>149</volume>, <fpage>78</fpage>&#x02013;<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1007/BF00386231</pub-id>
+<pub-id pub-id-type="pmid">24306196</pub-id></mixed-citation></ref><ref id="ece35738-bib-0017"><mixed-citation publication-type="journal" id="ece35738-cit-0017">
+<string-name>
+<surname>Fiala</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>T&#x0016f;ma</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Holub</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jand&#x000e1;k</surname>, <given-names>J.</given-names>
+</string-name> (<year>2005</year>). <article-title>The role of <italic>Calamagrostis</italic> communities in preventing soil acidification and base cation losses in a deforested mountain area affected by acid deposition</article-title>. <source xml:lang="en">Plant and Soil</source>, <volume>268</volume>, <fpage>35</fpage>&#x02013;<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1007/s11104-004-0185-8</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0018"><mixed-citation publication-type="journal" id="ece35738-cit-0018">
+<string-name>
+<surname>Fiala</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>T&#x0016f;ma</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Holub</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Tesa&#x00159;ov&#x000e1;</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jand&#x000e1;k</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>P&#x000e1;vkov&#x000e1;</surname>, <given-names>A.</given-names>
+</string-name> (<year>2001</year>). <article-title>Importance of grass cover in reduction of negative processes in soil affected by air pollution</article-title>. <source xml:lang="en">Rostlinn&#x000e1; V&#x000fd;roba</source>, <volume>47</volume>, <fpage>377</fpage>&#x02013;<lpage>382</lpage>.</mixed-citation></ref><ref id="ece35738-bib-0019"><mixed-citation publication-type="journal" id="ece35738-cit-0019">
+<string-name>
+<surname>Gilbert</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lechowicz</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2004</year>). <article-title>Neutrality, niches, and dispersal in a temperate forest understory</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>101</volume>, <fpage>7651</fpage>&#x02013;<lpage>7656</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0400814101</pub-id>
+<pub-id pub-id-type="pmid">15128948</pub-id></mixed-citation></ref><ref id="ece35738-bib-0020"><mixed-citation publication-type="book" id="ece35738-cit-0020">
+<string-name>
+<surname>Gilliam</surname>, <given-names>F. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Roberts</surname>, <given-names>M. R.</given-names>
+</string-name> (<year>2003</year>). <source xml:lang="en">The herbaceous layer in forests of eastern North America</source>. <publisher-loc>Oxford, UK</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece35738-bib-0021"><mixed-citation publication-type="journal" id="ece35738-cit-0021">
+<string-name>
+<surname>Godefroid</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rucquoij</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Koedam</surname>, <given-names>N.</given-names>
+</string-name> (<year>2005</year>). <article-title>To what extent do forest herbs recover after clearcutting in beech forest?</article-title>
+<source xml:lang="en">Forest Ecology and Management</source>, <volume>210</volume>, <fpage>39</fpage>&#x02013;<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1016/j.foreco.2005.02.020</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0022"><mixed-citation publication-type="journal" id="ece35738-cit-0022">
+<string-name>
+<surname>Guehl</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Picon</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Aussenac</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gross</surname>, <given-names>P.</given-names>
+</string-name> (<year>1994</year>). <article-title>Interactive effects of elevated CO<sub>2</sub> and soil drought on growth and transpiration efficiency and its determinants in two European forest tree species</article-title>. <source xml:lang="en">Tree Physiology</source>, <volume>14</volume>, <fpage>707</fpage>&#x02013;<lpage>724</lpage>. <pub-id pub-id-type="doi">10.1093/treephys/14.7-8-9.707</pub-id>
+<pub-id pub-id-type="pmid">14967642</pub-id></mixed-citation></ref><ref id="ece35738-bib-0023"><mixed-citation publication-type="journal" id="ece35738-cit-0023">
+<string-name>
+<surname>Harley</surname>, <given-names>P. C.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>R. B.</given-names>
+</string-name>, <string-name>
+<surname>Reynolds</surname>, <given-names>J. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Strain</surname>, <given-names>B. R.</given-names>
+</string-name> (<year>1992</year>). <article-title>Modelling photosynthesis of cotton grown in elevated CO<sub>2</sub>
+</article-title>. <source xml:lang="en">Plant Cell &#x00026; Environment</source>, <volume>15</volume>, <fpage>271</fpage>&#x02013;<lpage>282</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-3040.1992.tb00974.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0024"><mixed-citation publication-type="journal" id="ece35738-cit-0024">
+<string-name>
+<surname>H&#x000e4;ttenschwiler</surname>, <given-names>S.</given-names>
+</string-name> (<year>2001</year>). <article-title>Tree seedling growth in natural deep shade: Functional traits related to interspecific variation in response to elevated CO<sub>2</sub>
+</article-title>. <source xml:lang="en">Oecologia</source>, <volume>129</volume>, <fpage>31</fpage>&#x02013;<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1007/s004420100699</pub-id>
+<pub-id pub-id-type="pmid">28547065</pub-id></mixed-citation></ref><ref id="ece35738-bib-0025"><mixed-citation publication-type="journal" id="ece35738-cit-0025">
+<string-name>
+<surname>H&#x000e4;ttenschwiler</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>K&#x000f6;rner</surname>, <given-names>C.</given-names>
+</string-name> (<year>1996</year>). <article-title>Effects of elevated CO<sub>2</sub> and increased nitrogen deposition on photosynthesis and growth of understory plants in spruce model ecosystem</article-title>. <source xml:lang="en">Oecologia</source>, <volume>106</volume>, <fpage>172</fpage>&#x02013;<lpage>180</lpage>. <pub-id pub-id-type="doi">10.1007/BF00328596</pub-id>
+<pub-id pub-id-type="pmid">28307641</pub-id></mixed-citation></ref><ref id="ece35738-bib-0026"><mixed-citation publication-type="journal" id="ece35738-cit-0026">
+<string-name>
+<surname>H&#x000e4;ttenschwiler</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>K&#x000f6;rner</surname>, <given-names>C.</given-names>
+</string-name> (<year>2000</year>). <article-title>Tree seedling responses to in&#x02010;situ CO<sub>2</sub>&#x02010;enrichment differ among species and depend on understorey light availability</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>6</volume>, <fpage>213</fpage>&#x02013;<lpage>226</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2486.2000.00301.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0027"><mixed-citation publication-type="journal" id="ece35738-cit-0027">
+<string-name>
+<surname>Jablonski</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Curtis</surname>, <given-names>P. S.</given-names>
+</string-name> (<year>2002</year>). <article-title>Plant reproduction under elevated CO<sub>2</sub> conditions: A meta&#x02010;analysis of reports on 79 crop and wild species</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>156</volume>, <fpage>9</fpage>&#x02013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1046/j.1469-8137.2002.00494.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0028"><mixed-citation publication-type="journal" id="ece35738-cit-0028">
+<string-name>
+<surname>Kelly</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>van Erp</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Quettier</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Menard</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Kurup</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Eastmond</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>2013</year>). <article-title>The SUGAR&#x02010;DEPENDENT1 lipase limits triacylglycerol accumulation in vegetative tissues of <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Plant Physiology</source>, <volume>162</volume>, <fpage>1282</fpage>&#x02013;<lpage>1289</lpage>. <pub-id pub-id-type="doi">10.1104/pp.113.219840</pub-id>
+<pub-id pub-id-type="pmid">23686420</pub-id></mixed-citation></ref><ref id="ece35738-bib-0029"><mixed-citation publication-type="journal" id="ece35738-cit-0029">
+<string-name>
+<surname>Kerstiens</surname>, <given-names>G.</given-names>
+</string-name> (<year>1998</year>). <article-title>Shade&#x02010;tolerance as a predictor of responses to elevated CO<sub>2</sub> in trees</article-title>. <source xml:lang="en">Physiologia Plantarum</source>, <volume>102</volume>, <fpage>472</fpage>&#x02013;<lpage>480</lpage>. <pub-id pub-id-type="doi">10.1034/j.1399-3054.1998.1020316.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0030"><mixed-citation publication-type="journal" id="ece35738-cit-0030">
+<string-name>
+<surname>Kerstiens</surname>, <given-names>G.</given-names>
+</string-name> (<year>2001</year>). <article-title>Meta&#x02010;analysis of the interaction between shade&#x02010;tolerance, light environment and growth response of woody species to elevated CO<sub>2</sub>
+</article-title>. <source xml:lang="en">Acta Oecologica</source>, <volume>22</volume>, <fpage>61</fpage>&#x02013;<lpage>69</lpage>. <pub-id pub-id-type="doi">10.1016/S1146-609X(00)01096-1</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0031"><mixed-citation publication-type="journal" id="ece35738-cit-0031">
+<string-name>
+<surname>Kim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Oren</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Qian</surname>, <given-names>S. S.</given-names>
+</string-name> (<year>2016</year>). <article-title>Response to CO<sub>2</sub> enrichment of understory vegetation in the shade of forest</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>22</volume>, <fpage>944</fpage>&#x02013;<lpage>956</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.13126</pub-id>
+<pub-id pub-id-type="pmid">26463669</pub-id></mixed-citation></ref><ref id="ece35738-bib-0032"><mixed-citation publication-type="journal" id="ece35738-cit-0032">
+<string-name>
+<surname>Ko&#x00161;vancov&#x000e1;</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Urban</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>&#x00160;prtov&#x000e1;</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hrstka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kalina</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Tom&#x000e1;&#x00161;kov&#x000e1;</surname>, <given-names>I.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Marek</surname>, <given-names>M. V.</given-names>
+</string-name> (<year>2009</year>). <article-title>Photosynthetic induction in broadleaved <italic>Fagus sylvatica</italic> and coniferous <italic>Picea abies</italic> cultivated under ambient and elevated CO<sub>2</sub> concentrations</article-title>. <source xml:lang="en">Plant Science</source>, <volume>177</volume>, <fpage>123</fpage>&#x02013;<lpage>130</lpage>. <pub-id pub-id-type="doi">10.1016/j.plantsci.2009.04.005</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0033"><mixed-citation publication-type="journal" id="ece35738-cit-0033">
+<string-name>
+<surname>Kubiske</surname>, <given-names>M. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pregitzer</surname>, <given-names>K. S.</given-names>
+</string-name> (<year>1996</year>). <article-title>Effects of elevated CO<sub>2</sub> and light availability on the photosynthetic light response of trees of contrasting shade tolerance</article-title>. <source xml:lang="en">Tree Physiology</source>, <volume>16</volume>, <fpage>351</fpage>&#x02013;<lpage>358</lpage>. <pub-id pub-id-type="doi">10.1093/treephys/16.3.351</pub-id>
+<pub-id pub-id-type="pmid">14871736</pub-id></mixed-citation></ref><ref id="ece35738-bib-0034"><mixed-citation publication-type="journal" id="ece35738-cit-0034">
+<string-name>
+<surname>Leakey</surname>, <given-names>A. D. B.</given-names>
+</string-name>, <string-name>
+<surname>Ainsworth</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Bernacchi</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Long</surname>, <given-names>S. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ort</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2009</year>). <article-title>Elevated CO<sub>2</sub> effects on plant carbon, nitrogen, and water relations: Six important lessons from FACE</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>, <volume>60</volume>, <fpage>2859</fpage>&#x02013;<lpage>2876</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/erp096</pub-id>
+<pub-id pub-id-type="pmid">19401412</pub-id></mixed-citation></ref><ref id="ece35738-bib-0035"><mixed-citation publication-type="journal" id="ece35738-cit-0035">
+<string-name>
+<surname>Lichtenthaler</surname>, <given-names>H. K.</given-names>
+</string-name>, <string-name>
+<surname>A&#x0010d;</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Marek</surname>, <given-names>M. V.</given-names>
+</string-name>, <string-name>
+<surname>Kalina</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Urban</surname>, <given-names>O.</given-names>
+</string-name> (<year>2007</year>). <article-title>Differences in pigment composition, photosynthetic rates and chlorophyll fluorescence images of sun and shade leaves of four tree species</article-title>. <source xml:lang="en">Plant Physiology and Biochemistry</source>, <volume>45</volume>, <fpage>577</fpage>&#x02013;<lpage>588</lpage>. <pub-id pub-id-type="doi">10.1016/j.plaphy.2007.04.006</pub-id>
+<pub-id pub-id-type="pmid">17587589</pub-id></mixed-citation></ref><ref id="ece35738-bib-0036"><mixed-citation publication-type="journal" id="ece35738-cit-0036">
+<string-name>
+<surname>Marek</surname>, <given-names>M. V.</given-names>
+</string-name>, <string-name>
+<surname>Urban</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>&#x00160;prtov&#x000e1;</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pokorn&#x000fd;</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Rosov&#x000e1;</surname>, <given-names>Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kulhav&#x000fd;</surname>, <given-names>J.</given-names>
+</string-name> (<year>2002</year>). <article-title>Photosynthetic assimilation of sun versus shade Norway spruce [<italic>Picea abies</italic> (L.) Karst] needles under the long&#x02010;term impact of elevated CO<sub>2</sub> concentration</article-title>. <source xml:lang="en">Photosynthetica</source>, <volume>40</volume>, <fpage>259</fpage>&#x02013;<lpage>267</lpage>. <pub-id pub-id-type="doi">10.1023/A:1021306010135</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0037"><mixed-citation publication-type="journal" id="ece35738-cit-0037">
+<string-name>
+<surname>Naumburg</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ellsworth</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>2000</year>). <article-title>Photosynthesis sunfleck utilization potential of understory saplings growing under elevated CO<sub>2</sub> in FACE</article-title>. <source xml:lang="en">Oecologia</source>, <volume>122</volume>, <fpage>163</fpage>&#x02013;<lpage>174</lpage>. <pub-id pub-id-type="doi">10.1007/PL00008844</pub-id>
+<pub-id pub-id-type="pmid">28308370</pub-id></mixed-citation></ref><ref id="ece35738-bib-0038"><mixed-citation publication-type="journal" id="ece35738-cit-0038">
+<string-name>
+<surname>Niklaus</surname>, <given-names>P. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>K&#x000f6;rner</surname>, <given-names>C.</given-names>
+</string-name> (<year>2004</year>). <article-title>Synthesis of a six&#x02010;year study of calcareous grassland responses to in situ CO<sub>2</sub> enrichment</article-title>. <source xml:lang="en">Ecological Monographs</source>, <volume>74</volume>, <fpage>491</fpage>&#x02013;<lpage>511</lpage>. <pub-id pub-id-type="doi">10.1890/03-4047</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0039"><mixed-citation publication-type="journal" id="ece35738-cit-0039">
+<string-name>
+<surname>Nilsson</surname>, <given-names>M. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wardle</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2005</year>). <article-title>Understory vegetation as a forest ecosystem driver: Evidence from the northern Swedish boreal forest</article-title>. <source xml:lang="en">Frontiers in Ecology and the Environment</source>, <volume>3</volume>, <fpage>421</fpage>&#x02013;<lpage>428</lpage>. <pub-id pub-id-type="doi">10.1890/1540-9295(2005)003[0421:UVAAFE]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0040"><mixed-citation publication-type="journal" id="ece35738-cit-0040">
+<string-name>
+<surname>Norby</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>DeLucia</surname>, <given-names>E. H.</given-names>
+</string-name>, <string-name>
+<surname>Gielen</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Calfapietra</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Giardina</surname>, <given-names>C. P.</given-names>
+</string-name>, <string-name>
+<surname>King</surname>, <given-names>J. S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Oren</surname>, <given-names>R.</given-names>
+</string-name> (<year>2005</year>). <article-title>Forest response to elevated CO<sub>2</sub> is conserved across a broad range of productivity</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>102</volume>, <fpage>18052</fpage>&#x02013;<lpage>18056</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0509478102</pub-id>
+<pub-id pub-id-type="pmid">16330779</pub-id></mixed-citation></ref><ref id="ece35738-bib-0041"><mixed-citation publication-type="journal" id="ece35738-cit-0041">
+<string-name>
+<surname>Norby</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Warren</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Iversen</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Medlyn</surname>, <given-names>B. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McMurtrie</surname>, <given-names>R. E.</given-names>
+</string-name> (<year>2010</year>). <article-title>CO<sub>2</sub> enhancement of forest productivity constrained by limited nitrogen availability</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>107</volume>, <fpage>19368</fpage>&#x02013;<lpage>19373</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1006463107</pub-id>
+<pub-id pub-id-type="pmid">20974944</pub-id></mixed-citation></ref><ref id="ece35738-bib-0042"><mixed-citation publication-type="journal" id="ece35738-cit-0042">
+<string-name>
+<surname>Osborne</surname>, <given-names>C. P.</given-names>
+</string-name>, <string-name>
+<surname>LaRoche</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<surname>Kimball</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Wall</surname>, <given-names>G. W.</given-names>
+</string-name>, <string-name>
+<surname>Pinter</surname>, <given-names>P. J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Long</surname>, <given-names>S. P.</given-names>
+</string-name> (<year>1998</year>). <article-title>Does leaf position within a canopy affect acclimation of photosynthesis to elevated CO<sub>2</sub>? Analysis of a wheat crop under free&#x02010;air CO<sub>2</sub> enrichment</article-title>. <source xml:lang="en">Plant Physiology</source>, <volume>117</volume>, <fpage>1037</fpage>&#x02013;<lpage>1045</lpage>. <pub-id pub-id-type="doi">10.1104/pp.117.3.1037</pub-id>
+<pub-id pub-id-type="pmid">9662547</pub-id></mixed-citation></ref><ref id="ece35738-bib-0043"><mixed-citation publication-type="journal" id="ece35738-cit-0043">
+<string-name>
+<surname>Pendall</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Osanai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>A. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hovenden</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2003</year>). <article-title>Soil carbon storage under simulated climate change is mediated by plant functional type</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>17</volume>, <fpage>505</fpage>&#x02013;<lpage>514</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2486.2010.02296.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0044"><mixed-citation publication-type="journal" id="ece35738-cit-0044">
+<string-name>
+<surname>Poorter</surname>, <given-names>H.</given-names>
+</string-name> (<year>1993</year>). <article-title>Interspecific variation in the growth response of plants to an elevated ambient CO<sub>2</sub> concentration</article-title>. <source xml:lang="en">Vegetatio</source>, <volume>104</volume>(<issue>105</issue>), <fpage>77</fpage>&#x02013;<lpage>97</lpage>. <pub-id pub-id-type="doi">10.1007/BF00048146</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0045"><mixed-citation publication-type="journal" id="ece35738-cit-0045">
+<string-name>
+<surname>Poorter</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Navas</surname>, <given-names>M. L.</given-names>
+</string-name> (<year>2003</year>). <article-title>Plant growth and competition at elevated CO<sub>2</sub>: On winners, losers and functional groups</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>157</volume>, <fpage>175</fpage>&#x02013;<lpage>198</lpage>. <pub-id pub-id-type="doi">10.1046/j.1469-8137.2003.00680.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0046"><mixed-citation publication-type="journal" id="ece35738-cit-0046">
+<string-name>
+<surname>Poorter</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Niinemets</surname>, <given-names>&#x000dc;.</given-names>
+</string-name>, <string-name>
+<surname>Ntagkas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Siebenk&#x000e4;s</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000e4;enp&#x000e4;&#x000e4;</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Matsubara</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pons</surname>, <given-names>T. L.</given-names>
+</string-name> (<year>2019</year>). <article-title>A meta&#x02010;analysis of plant responses to light intensity for 70 traits ranging from molecules to whole plant performance</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>223</volume>(<issue>3</issue>), <fpage>1073</fpage>&#x02013;<lpage>1105</lpage>. <pub-id pub-id-type="doi">10.1111/nph.15754</pub-id>
+<pub-id pub-id-type="pmid">30802971</pub-id></mixed-citation></ref><ref id="ece35738-bib-0047"><mixed-citation publication-type="journal" id="ece35738-cit-0047">
+<string-name>
+<surname>Rajsnerov&#x000e1;</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Klem</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Holub</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Novotn&#x000e1;</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ve&#x0010d;e&#x00159;ov&#x000e1;</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Koz&#x000e1;&#x0010d;ikov&#x000e1;</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Urban</surname>, <given-names>O.</given-names>
+</string-name> (<year>2015</year>). <article-title>Morphological, biochemical and physiological traits of upper and lower canopy leaves of European beech tend to converge with increasing altitude</article-title>. <source xml:lang="en">Tree Physiology</source>, <volume>35</volume>, <fpage>47</fpage>&#x02013;<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1093/treephys/tpu104</pub-id>
+<pub-id pub-id-type="pmid">25576757</pub-id></mixed-citation></ref><ref id="ece35738-bib-0048"><mixed-citation publication-type="journal" id="ece35738-cit-0048">
+<string-name>
+<surname>Rogers</surname>, <given-names>H. H.</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>McCrimmon</surname>, <given-names>J. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cure</surname>, <given-names>J. D.</given-names>
+</string-name> (<year>1992</year>). <article-title>Response of plant roots to elevated atmospheric carbon dioxide</article-title>. <source xml:lang="en">Plant Cell &#x00026; Environment</source>, <volume>15</volume>, <fpage>749</fpage>&#x02013;<lpage>752</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-3040.1992.tb01018.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0049"><mixed-citation publication-type="journal" id="ece35738-cit-0049">
+<string-name>
+<surname>Royer</surname>, <given-names>P. D.</given-names>
+</string-name>, <string-name>
+<surname>Cobb</surname>, <given-names>N. S.</given-names>
+</string-name>, <string-name>
+<surname>Clifford</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>C. Y.</given-names>
+</string-name>, <string-name>
+<surname>Breshears</surname>, <given-names>D. D.</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>, <given-names>H. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Villegas</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>2011</year>). <article-title>Extreme climatic event&#x02010;triggered overstorey vegetation loss increases understorey solar input regionally: Primary and secondary ecological implications</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>99</volume>, <fpage>714</fpage>&#x02013;<lpage>723</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2745.2011.01804.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0050"><mixed-citation publication-type="journal" id="ece35738-cit-0050">
+<string-name>
+<surname>&#x00160;igut</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Holi&#x00161;ova</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Klem</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>&#x00160;prtova</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Calfapietra</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Marek</surname>, <given-names>M. V.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Urban</surname>, <given-names>O.</given-names>
+</string-name> (<year>2015</year>). <article-title>Does long&#x02010;term cultivation of saplings under elevated CO2 concentration influence their photosynthetic response to temperature?</article-title>
+<source xml:lang="en">Annals of Botany</source>, <volume>116</volume>, <fpage>929</fpage>&#x02013;<lpage>939</lpage>. <pub-id pub-id-type="doi">10.1093/aob/mcv043</pub-id>
+<pub-id pub-id-type="pmid">25851132</pub-id></mixed-citation></ref><ref id="ece35738-bib-0051"><mixed-citation publication-type="journal" id="ece35738-cit-0051">
+<string-name>
+<surname>Springer</surname>, <given-names>C. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thomas</surname>, <given-names>R. B.</given-names>
+</string-name> (<year>2007</year>). <article-title>Photosynthetic responses of forest understory tree species to long&#x02010;term exposure to elevated carbon dioxide concentration at the Duke Forest FACE experiment</article-title>. <source xml:lang="en">Tree Physiology</source>, <volume>27</volume>, <fpage>25</fpage>&#x02013;<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1093/treephys/27.1.25</pub-id>
+<pub-id pub-id-type="pmid">17169903</pub-id></mixed-citation></ref><ref id="ece35738-bib-0052"><mixed-citation publication-type="journal" id="ece35738-cit-0052">
+<string-name>
+<surname>Tschaplinski</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Hanson</surname>, <given-names>P. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Norby</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>1995</year>). <article-title>Interactions between drought and elevated CO<sub>2</sub> on growth and gas exchange of seedlings of three deciduous tree species</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>129</volume>, <fpage>63</fpage>&#x02013;<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.1995.tb03010.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0053"><mixed-citation publication-type="journal" id="ece35738-cit-0053">
+<string-name>
+<surname>Urban</surname>, <given-names>O.</given-names>
+</string-name> (<year>2003</year>). <article-title>Physiological impacts of elevated CO<sub>2</sub> concentration ranging from molecular to whole plant responses</article-title>. <source xml:lang="en">Photosynthetica</source>, <volume>41</volume>, <fpage>9</fpage>&#x02013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1023/A:1025891825050</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0054"><mixed-citation publication-type="journal" id="ece35738-cit-0054">
+<string-name>
+<surname>Urban</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Janou&#x00161;</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Acosta</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Czern&#x000fd;</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Markov&#x000e1;</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Navr&#x000e1;til</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Marek</surname>, <given-names>M. V.</given-names>
+</string-name> (<year>2007</year>). <article-title>Ecophysiological controls over the net ecosystem exchange of mountain spruce stand. Comparison of the response in direct vs. diffuse solar radiation</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>13</volume>, <fpage>157</fpage>&#x02013;<lpage>168</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2486.2006.01265.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0055"><mixed-citation publication-type="journal" id="ece35738-cit-0055">
+<string-name>
+<surname>Urban</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Janou&#x00161;</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Pokorn&#x000fd;</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Markov&#x000e1;</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Pavelka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fojt&#x000ed;k</surname>, <given-names>Z.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Marek</surname>, <given-names>M. V.</given-names>
+</string-name> (<year>2001</year>). <article-title>Glass domes with adjustable windows: A novel technique for exposing juvenile forest stands to elevated CO<sub>2</sub> concentration</article-title>. <source xml:lang="en">Photosynthetica</source>, <volume>39</volume>, <fpage>395</fpage>&#x02013;<lpage>401</lpage>. <pub-id pub-id-type="doi">10.1023/A:1015134427592</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0056"><mixed-citation publication-type="journal" id="ece35738-cit-0056">
+<string-name>
+<surname>Urban</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Klem</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Holi&#x00161;ov&#x000e1;</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>&#x00160;igut</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>&#x00160;prtov&#x000e1;</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Teslov&#x000e1;&#x02010;Navr&#x000e1;tilov&#x000e1;</surname>, <given-names>P.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Grace</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Impact of elevated CO<sub>2</sub> concentration on dynamics of leaf photosynthesis in <italic>Fagus sylvatica</italic> is modulated by sky conditions</article-title>. <source xml:lang="en">Environmental Pollution</source>, <volume>185</volume>, <fpage>271</fpage>&#x02013;<lpage>280</lpage>. <pub-id pub-id-type="doi">10.1016/j.envpol.2013.11.009</pub-id>
+<pub-id pub-id-type="pmid">24316065</pub-id></mixed-citation></ref><ref id="ece35738-bib-0057"><mixed-citation publication-type="journal" id="ece35738-cit-0057">
+<string-name>
+<surname>Valladares</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Laanisto</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Niinemets</surname>, <given-names>&#x000dc;.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zavala</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Shedding light on shade: Ecological perspectives of understorey plant life</article-title>. <source xml:lang="en">Plant Ecology &#x00026; Diversity</source>, <volume>9</volume>(<issue>3</issue>), <fpage>237</fpage>&#x02013;<lpage>251</lpage>. <pub-id pub-id-type="doi">10.1080/17550874.2016.1210262</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0058"><mixed-citation publication-type="book" id="ece35738-cit-0058">
+<string-name>
+<surname>von Caemmerer</surname>, <given-names>S.</given-names>
+</string-name> (<year>2000</year>). <source xml:lang="en">Biochemical Models of Leaf Photosynthesis</source>. <publisher-loc>Collingwood, ON</publisher-loc>: <publisher-name>CSIRO Publishing</publisher-name>.</mixed-citation></ref><ref id="ece35738-bib-0059"><mixed-citation publication-type="journal" id="ece35738-cit-0059">
+<string-name>
+<surname>Wang</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lam</surname>, <given-names>S. K.</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>F. Y.</given-names>
+</string-name>, <string-name>
+<surname>Zong</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Li</surname>, <given-names>P.</given-names>
+</string-name> (<year>2018</year>). <article-title>Elevated CO<sub>2</sub> reduces the adverse effects of drought stress on a high&#x02010;yielding soybean (<italic>Glycine max</italic> (L.) Merr.) cultivar by increasing water use efficiency</article-title>. <source xml:lang="en">Plant Physiology and Biochemistry</source>, <volume>132</volume>, <fpage>660</fpage>&#x02013;<lpage>665</lpage>. <pub-id pub-id-type="doi">10.1016/j.plaphy.2018.10.016</pub-id>
+<pub-id pub-id-type="pmid">30347376</pub-id></mixed-citation></ref><ref id="ece35738-bib-0060"><mixed-citation publication-type="journal" id="ece35738-cit-0060">
+<string-name>
+<surname>Way</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Oren</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kroner</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2015</year>). <article-title>The space&#x02010;time continuum: The effects of elevated CO<sub>2</sub> and temperature on trees and the importance of scaling</article-title>. <source xml:lang="en">Plant Cell &#x00026; Environment</source>, <volume>38</volume>, <fpage>991</fpage>&#x02013;<lpage>1007</lpage>. <pub-id pub-id-type="doi">10.1111/pce.12527</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0061"><mixed-citation publication-type="journal" id="ece35738-cit-0061">
+<string-name>
+<surname>W&#x000fc;rth</surname>, <given-names>M. K. R.</given-names>
+</string-name>, <string-name>
+<surname>Winter</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>K&#x000f6;rner</surname>, <given-names>C.</given-names>
+</string-name> (<year>1998</year>). <article-title>In situ responses to elevated CO<sub>2</sub> in tropical forest understorey plants</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>12</volume>, <fpage>886</fpage>&#x02013;<lpage>895</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2435.1998.00278.x</pub-id>
+</mixed-citation></ref><ref id="ece35738-bib-0062"><mixed-citation publication-type="journal" id="ece35738-cit-0062">
+<string-name>
+<surname>Xu</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baldocchi</surname>, <given-names>D. D.</given-names>
+</string-name> (<year>2003</year>). <article-title>Seasonal trends in photosynthetic parameters and stomatal conductance of blue oak (<italic>Quercus douglasii</italic>) under prolonged summer drought and high temperature</article-title>. <source xml:lang="en">Tree Physiology</source>, <volume>23</volume>, <fpage>865</fpage>&#x02013;<lpage>877</lpage>. <pub-id pub-id-type="doi">10.1093/treephys/23.13.865</pub-id>
+<pub-id pub-id-type="pmid">14532010</pub-id></mixed-citation></ref></ref-list></back></article>

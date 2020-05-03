@@ -1,0 +1,1053 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Nucleic Acids Res</journal-id><journal-id journal-id-type="iso-abbrev">Nucleic Acids Res</journal-id><journal-id journal-id-type="publisher-id">nar</journal-id><journal-title-group><journal-title>Nucleic Acids Research</journal-title></journal-title-group><issn pub-type="ppub">0305-1048</issn><issn pub-type="epub">1362-4962</issn><publisher><publisher-name>Oxford University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31777925</article-id><article-id pub-id-type="pmc">6954412</article-id><article-id pub-id-type="doi">10.1093/nar/gkz1096</article-id><article-id pub-id-type="publisher-id">gkz1096</article-id><article-categories><subj-group subj-group-type="heading"><subject>Structural Biology</subject></subj-group></article-categories><title-group><article-title>High-resolution EPR distance measurements on RNA and DNA with the non-covalent &#x001f4; spin label</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Heinz</surname><given-names>Marcel</given-names></name><xref ref-type="aff" rid="AFF1">1</xref><xref ref-type="author-notes" rid="FN1"/></contrib><contrib contrib-type="author"><name><surname>Erlenbach</surname><given-names>Nicole</given-names></name><xref ref-type="aff" rid="AFF2">2</xref><xref ref-type="author-notes" rid="FN1"/></contrib><contrib contrib-type="author"><name><surname>Stelzl</surname><given-names>Lukas S</given-names></name><xref ref-type="aff" rid="AFF1">1</xref></contrib><contrib contrib-type="author"><name><surname>Thierolf</surname><given-names>Grace</given-names></name><xref ref-type="aff" rid="AFF2">2</xref></contrib><contrib contrib-type="author"><name><surname>Kamble</surname><given-names>Nilesh R</given-names></name><xref ref-type="aff" rid="AFF3">3</xref></contrib><contrib contrib-type="author"><name><surname>Sigurdsson</surname><given-names>Snorri Th</given-names></name><xref ref-type="aff" rid="AFF3">3</xref></contrib><contrib contrib-type="author"><name><surname>Prisner</surname><given-names>Thomas F</given-names></name><!--<email>prisner@chemie.uni-frankfurt.de</email>--><xref ref-type="aff" rid="AFF2">2</xref><xref ref-type="corresp" rid="COR2"/></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-7768-746X</contrib-id><name><surname>Hummer</surname><given-names>Gerhard</given-names></name><!--<email>gerhard.hummer@biophys.mpg.de</email>--><xref ref-type="aff" rid="AFF1">1</xref><xref ref-type="aff" rid="AFF4">4</xref><xref ref-type="corresp" rid="COR1"/></contrib></contrib-group><aff id="AFF1"><label>1</label>
+<institution>Department of Theoretical Biophysics</institution>, Max Planck Institute of Biophysics, Max-von-Laue-Stra&#x000df;e 3, 60438 Frankfurt am Main, <country country="DE">Germany</country></aff><aff id="AFF2"><label>2</label>
+<institution>Institute of Physical and Theoretical Chemistry and Center of Biomolecular Magnetic Resonance, Goethe University Frankfurt</institution>, Max-von-Laue-Stra&#x000df;e 7, 60438 Frankfurt am Main, <country country="DE">Germany</country></aff><aff id="AFF3"><label>3</label>
+<institution>Department of Chemistry</institution>, Science Institute, University of Iceland, Dunhaga 3, 107 Reykjavk, <country country="IS">Iceland</country></aff><aff id="AFF4"><label>4</label>
+<institution>Institute for Biophysics</institution>, Goethe University Frankfurt, 60438 Frankfurt am Main, <country country="DE">Germany</country></aff><author-notes><corresp id="COR1">To whom correspondence should be addressed.&#x000a0;Tel: +49-69 6303 2500;&#x000a0;Email: <email>gerhard.hummer@biophys.mpg.de</email></corresp><corresp id="COR2">Correspondence may also be addressed to Thomas F. Prisner. Email: <email>prisner@chemie.uni-frankfurt.de</email></corresp><fn id="FN1"><p>The authors wish it to be known that, in their opinion, the first two authors should be regarded as Joint First Authors.</p></fn></author-notes><pub-date pub-type="ppub"><day>24</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="epub" iso-8601-date="2019-11-28"><day>28</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="pmc-release"><day>28</day><month>11</month><year>2019</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>48</volume><issue>2</issue><fpage>924</fpage><lpage>933</lpage><history><date date-type="accepted"><day>20</day><month>11</month><year>2019</year></date><date date-type="rev-recd"><day>01</day><month>11</month><year>2019</year></date><date date-type="received"><day>04</day><month>9</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2019. Published by Oxford University Press on behalf of Nucleic Acids Research.</copyright-statement><copyright-year>2019</copyright-year><license license-type="cc-by" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:href="gkz1096.pdf"/><abstract><title>Abstract</title><p>Pulsed electron paramagnetic resonance (EPR) experiments, among them most prominently pulsed electron-electron double resonance experiments (PELDOR/DEER), resolve the conformational dynamics of nucleic acids with high resolution. The wide application of these powerful experiments is limited by the synthetic complexity of some of the best-performing spin labels. The recently developed <inline-formula><tex-math id="M1">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> (G-spin) label, an isoindoline-nitroxide derivative of guanine, can be incorporated non-covalently into DNA and RNA duplexes via Watson-Crick base pairing in an abasic site. We used PELDOR and molecular dynamics (MD) simulations to characterize <inline-formula><tex-math id="M2">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>, obtaining excellent agreement between experiments and time traces calculated from MD simulations of RNA and DNA double helices with explicitly modeled <inline-formula><tex-math id="M3">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> bound in two abasic sites. The MD simulations reveal stable hydrogen bonds between the spin labels and the paired cytosines. The abasic sites do not significantly perturb the helical structure. <inline-formula><tex-math id="M4">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> remains rigidly bound to helical RNA and DNA. The distance distributions between the two bound <inline-formula><tex-math id="M5">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> labels are not substantially broadened by spin-label motions in the abasic site and agree well between experiment and MD. <inline-formula><tex-math id="M6">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> and similar non-covalently attached spin labels promise high-quality distance and orientation information, also of complexes of nucleic acids and proteins.</p></abstract><funding-group><award-group award-type="grant"><funding-source><named-content content-type="funder-name">German Research Foundation</named-content><named-content content-type="funder-identifier">10.13039/501100001659</named-content></funding-source><award-id>CRC902</award-id></award-group><award-group award-type="grant"><funding-source><named-content content-type="funder-name">Max Planck Society</named-content><named-content content-type="funder-identifier">10.13039/501100004189</named-content></funding-source></award-group></funding-group><counts><page-count count="10"/></counts></article-meta></front><body><sec sec-type="intro" id="SEC1"><title>INTRODUCTION</title><p>Pulsed EPR experiments can be used to probe the global structure and flexibility of nucleic acids with high resolution (<xref rid="B1" ref-type="bibr">1</xref>). In particular, pulsed electron-electron double resonance experiments (<xref rid="B2" ref-type="bibr">2</xref>) (PELDOR, also referred to as DEER) complement the structure determination by X-ray crystallography (<xref rid="B3" ref-type="bibr">3</xref>), nuclear magnetic resonance (<xref rid="B4" ref-type="bibr">4&#x02013;6</xref>) (NMR) and cryo-EM experiments (<xref rid="B7" ref-type="bibr">7&#x02013;9</xref>). PELDOR provides detailed information on distances even in highly dynamic systems, where traditional structure determination is not possible, reporting on the conformational flexibility of proteins, nucleic acids and protein-nucleic acid complexes (<xref rid="B10" ref-type="bibr">10</xref>,<xref rid="B11" ref-type="bibr">11</xref>). In rigid systems, PELDOR can even provide angular information (<xref rid="B12" ref-type="bibr">12</xref>). Typically, PELDOR experiments require the introduction of a pair of spin labels. The nature of the spin label is a critical issue. Flexible spin labels complicate the determination of high-resolution distances (<xref rid="B13" ref-type="bibr">13</xref>) and do not permit the extraction of angular information. By contrast, the rigid and covalently attached spin label <bold>&#x000c7;</bold> (C-spin) (<xref rid="B14" ref-type="bibr">14</xref>,<xref rid="B15" ref-type="bibr">15</xref>) enables highly accurate distance and angle measurements on, e.g.&#x000a0;DNA. However, the synthesis of the <bold>&#x000c7;</bold> itself and especially of <bold>&#x000c7;</bold>-labeled nucleic acids remains difficult, limiting the wide applicability of high-resolution pulsed EPR experiments on nucleic acids.</p><p>A number of different spin labels were developed in the last years (<xref rid="B16" ref-type="bibr">16&#x02013;19</xref>), but there is still a lack of spin labels that can be employed without significant synthetic effort. One way to reduce the synthetic effort, which is particularly relevant for larger nucleic acids of biological interest, is to incorporate the spin label non-covalently. There, the challenge is to achieve high-affinity and high specificity binding to the nucleic acid target molecule (<xref rid="B20" ref-type="bibr">20&#x02013;22</xref>). Note that specific non-covalent incorporation of <bold>&#x000c7;</bold> derivatives in nucleic acids, albeit a promising strategy, has not been achieved (<xref rid="B23" ref-type="bibr">23</xref>). Recently we showed that the <inline-formula><tex-math id="M7">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> (G-spin) incorporates with high affinity and specificity into abasic sites in double-stranded RNA (dsRNA) and double-stranded DNA (dsDNA) (<xref rid="B24" ref-type="bibr">24</xref>). Furthermore, first measurements of labeled dsRNA revealed orientation selection in the measured PELDOR time traces, which permits the extraction of angular information.</p><p>Here we use molecular dynamics (MD) simulations to study the impact of <inline-formula><tex-math id="M8">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> incorporation on nucleic acid structure and conformational dynamics. It has been shown that native DNA (<xref rid="B25" ref-type="bibr">25</xref>), as well as larger photolabile protecting groups covalently attached at DNA bases (<xref rid="B26" ref-type="bibr">26</xref>), can be well described by state-of-the-art MD simulations. Despite the fact that current RNA force fields do not fully reflect experimental observations for single-stranded RNAs (<xref rid="B27" ref-type="bibr">27</xref>), native and protonated bases in double-stranded RNAs are described well (<xref rid="B28" ref-type="bibr">28&#x02013;31</xref>). For dsRNA with TEMPO-labeled nucleotides, MD simulations have produced distance distributions in very promising agreement with PELDOR measurements (<xref rid="B32" ref-type="bibr">32</xref>).</p><p>With the methods on hand to calculate the PELDOR time traces from MD simulation (<xref rid="B1" ref-type="bibr">1</xref>,<xref rid="B33" ref-type="bibr">33</xref>) and to explicitly model the spin label in the MD simulations of DNA and RNA for a direct comparison with PELDOR experiments, we elucidate the influence of the non-covalently attached <inline-formula><tex-math id="M9">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> on dsRNA and dsDNA structure and motions. Conversely, we validate state-of-the-art nucleic acid force fields for DNA and RNA against PELDOR experiments.</p></sec><sec sec-type="materials|methods" id="SEC2"><title>MATERIALS AND METHODS</title><sec id="SEC2-1"><title>Preparation of <inline-formula><tex-math id="M10">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>-labeled oligonucleotide duplexes for PELDOR measurements</title><p>The oligonucleotide duplexes containing two abasic sites were noncovalently spin-labeled by admixing stock solutions of the spin label <inline-formula><tex-math id="M11">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> (20 nmol) and the different nucleic acids&#x000a0;(10 nmol). The solvent was removed <italic>in vacuo</italic> and the residue dissolved in a phosphate buffer (100 &#x003bc;l; 10&#x000a0;mM NaHPO<sub>4</sub>, 100&#x000a0;mM NaCl, 0.1&#x000a0;mM Na<sub>2</sub>EDTA, pH 7.0) and annealed: 90&#x000b0;C for 2&#x000a0;min, 60&#x000b0;C for 5&#x000a0;min, 50&#x000b0;C for 5&#x000a0;min and 22&#x000b0;C for 15&#x000a0;min. The water was subsequently removed <italic>in vacuo</italic> and the residue dissolved in an aqueous 30% ethylene glycol solution&#x000a0;(100 &#x003bc;l).</p><p>RNA sequence, where &#x0201c;_&#x0201d; denotes the abasic site:</p><p>5&#x02032;-CGAG-_AU-CGC-GCG-CGA-UCC-UCG-3&#x02032;</p><p>3&#x02032;-GCUC-CUA-GCG-CGC-GCU-A_G-AGC-5&#x02032;</p><p>DNA sequence, where &#x0201c;_&#x0201d; denotes the abasic site:</p><p>5&#x02032;-T-GT-CA_-TCG-CGC-GCG-CGC-ATC-3&#x02032;</p><p>3&#x02032;-CA-GTC-AGC-GC_-CGC-GCG-TAG-T-5&#x02032;</p></sec><sec id="SEC2-2"><title>X-band measurements</title><p>A Bruker Elexsys E580 X/Q-band spectrometer equipped with an Oxford CF935 cryostat was used with a Bruker MS3 3mm loop gap resonator for the X-band measurements (0.3 T/9&#x000a0;GHz). Microwave pulses were amplified by a 1 kW Travelling Wave Tube (TWT). 32&#x000a0;ns (<inline-formula><tex-math id="M12">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\frac{\pi }{2}$\end{document}</tex-math></inline-formula> and &#x003c0;)&#x000a0;pulses were used for detection and a 20&#x000a0;ns (&#x003c0;) pump pulse. The delay between the first two probe pulses was 132&#x000a0;ns. The separation to the second &#x003c0;-probe pulse was 1.8 &#x003bc;s. The repetition time of the experiment was 6&#x000a0;ms. The frequency of the pump pulse was fixed to the intensity maximum of the nitroxide powder spectrum to obtain maximum pumping efficiency. The probe frequency was chosen to be 40/55/70/85&#x000a0;MHz (DNA) and 40/50/60/75/90&#x000a0;MHz (RNA) above this frequency. All experiments were performed at 50&#x000a0;K using a continuous flow of liquid helium and the temperature maintained using an Oxford Instruments ITC 503 temperature control unit.</p></sec><sec id="SEC2-3"><title>G-band measurements</title><p>All G-band EPR experiments (180&#x000a0;GHz/6.4 T) were performed with an in-house built G-band spectrometer equipped with two independent frequency sources (<xref rid="B34" ref-type="bibr">34</xref>). The probe pulse lengths were between 32&#x02013;40&#x000a0;ns for the <inline-formula><tex-math id="M13">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\frac{\pi }{2}$\end{document}</tex-math></inline-formula>-pulse, 60&#x02013;70&#x000a0;ns for the &#x003c0;-pulse. The pump inversion pulse was 30&#x02013;38&#x000a0;ns. The pulse separation between the first probe pulses was 220&#x000a0;ns and 1.8 &#x003bc;s to the next probe &#x003c0;-pulse. The repetition time of the experiment was 6&#x000a0;ms. All experiments were carried out at a temperature of 40&#x000a0;K. Every set of experiments consisted of &#x0223c;40&#x02013;120 time traces averaged with 100 shots per point and were recorded at different field positions across the EPR spectrum, corresponding roughly to the <italic>B</italic>&#x02225;<italic>g</italic><sub><italic>xx</italic></sub>, <italic>B</italic>&#x02225;<italic>g</italic><sub><italic>yy</italic></sub>, <italic>B</italic>&#x02225;<italic>g</italic><sub><italic>zz</italic></sub> and two additional positions in between. The probe frequency was set in all cases at a constant offset of 60&#x000a0;MHz above (DNA)/below (RNA) the pump frequency.</p></sec><sec id="SEC2-4"><title>Experimental PELDOR data processing</title><p>The intramolecular PELDOR form factor was extracted from the raw data using the DeerAnalysis2018 software package (<xref rid="B35" ref-type="bibr">35</xref>) with homogenous 3D background correction. The experimental PELDOR time traces before and after background correction are available in the Supporting Informations (<xref ref-type="supplementary-material" rid="sup1">Supplementary Figures S1 and S2</xref>).</p><fig id="F1" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>RNA MD simulations and <inline-formula><tex-math id="M14">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> DFT calculations. (<bold>A</bold>) Simulation system with two <inline-formula><tex-math id="M15">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules (red) incorporated in the RNA helix (lime), solvated in a periodic truncated octahedral box of water (blue) with Na<sup>+</sup> (yellow) and Cl<sup>&#x02212;</sup> ions (green). (<bold>B</bold>) Structure of the <inline-formula><tex-math id="M16">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecule corresponding to a dihedral angle <bold>d1</bold> of 0&#x000b0; (syn). (<bold>C</bold>) DFT relaxed surface scans of the dihedral angle <bold>d1</bold> in the <inline-formula><tex-math id="M17">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecule at B3LYP-GD3BJ/cc-pVTZ and PBE0/N07D levels of theory. Energies are relative to the minimum energy structure of each scan.</p></caption><graphic xlink:href="gkz1096fig1"/></fig></sec><sec id="SEC2-5"><title>Computational details</title><p>Relaxed surface scans of the dihedral angle <bold>d1</bold> in the <inline-formula><tex-math id="M18">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecule (Figure <xref ref-type="fig" rid="F1">1B</xref>) were performed using the Gaussian09 program package (<xref rid="B36" ref-type="bibr">36</xref>) at a PBE0/N07D (<xref rid="B37" ref-type="bibr">37</xref>,<xref rid="B38" ref-type="bibr">38</xref>) level of theory, which was used in previous nitroxide studies (<xref rid="B1" ref-type="bibr">1</xref>). An additional relaxed surface scan was performed with a dispersion correction (GD3BJ (<xref rid="B39" ref-type="bibr">39</xref>)), an increased basis set of triple-&#x003b6; quality (cc-pVTZ (<xref rid="B40" ref-type="bibr">40</xref>)) and the more commonly used B3LYP (<xref rid="B41" ref-type="bibr">41</xref>) functional. The dihedral angle between the aromatic purine scaffold and the isoindoline nitroxide plane was scanned with a step size of 5 degrees in forward and backward direction. The final energy surface reports the lowest energy for a given point in forward and backward directions.</p><p>MD simulations were performed with the Amber16 program package (<xref rid="B42" ref-type="bibr">42</xref>). Unlabeled nucleic acid helices were constructed with the Nucleic Acid Builder (NAB (<xref rid="B43" ref-type="bibr">43</xref>)). Double-stranded RNA with a palindromic sequence (5&#x02032;-CGAG<underline>G</underline>AUCGCGCGCGAUCCUCG-3&#x02032;) was built in the characteristic A-helical form. The underlined <underline>G</underline> represents the position of the abasic site. The dsDNA was constructed in B-helical form with an additional T base overhang at the 5&#x02032; end of each strand (i.e.&#x000a0;5&#x02032;-TGTCA<underline>G</underline>TCGCGCGCGCGCATC-3&#x02032; and 5&#x02032;-TGATGC<underline>G</underline>CGCGCGCGACTGAC-3&#x02032;). Partial charges of the abasic site were newly determined, based on a restrained electrostatic potential fit (RESP (<xref rid="B44" ref-type="bibr">44</xref>)) as implemented in the R.E.D. Tools Version III.52 (<xref rid="B45" ref-type="bibr">45</xref>) (RESP-A1: HF/6-31G* Connolly surface algorithm, two-stage RESP fit qwt&#x000a0;= 0.0005/0.001, charge value accuracy &#x000b1;&#x000a0;10<sup>&#x02212;4</sup> e). The abasic site was saturated with a methoxy group at the phosphate group at the 5&#x02032; end. An additional monomethyl phosphate group was attached at the 3&#x02032; oxygen, resulting in a net charge of &#x02013;2 e. The partial charges of the abasic moiety atoms were determined and the additional attached substituents removed, afterwards. To obtain a net charge of &#x02013;e at the abasic site, the remaining charges were distributed over all atoms in this residue. The new partial charges were assigned to the abasic site (<xref ref-type="supplementary-material" rid="sup1">Supplementary Tables S1, S2</xref>). Atom types, bond-, angle- and dihedral parameters for the abasic sites in DNA were taken from the ParmBSC1 force field (<xref rid="B46" ref-type="bibr">46</xref>) and for the abasic sites in RNA from the ParmBSC0 force field including the &#x003c7;<sub><italic>OL</italic>3</sub> correction (<xref rid="B47" ref-type="bibr">47&#x02013;49</xref>). Native residues in DNA were described with the ParmBSC1 force field and native residues in RNA were described with the ParmBSC0+&#x003c7;<sub><italic>OL</italic>3</sub> force field. The GAFF (<xref rid="B50" ref-type="bibr">50</xref>) parameters were assigned to the <inline-formula><tex-math id="M19">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecule via acpype (<xref rid="B51" ref-type="bibr">51</xref>). Partial charges of <inline-formula><tex-math id="M20">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> were newly derived (<xref ref-type="supplementary-material" rid="sup1">Supplementary Table S3</xref>), based on the RESP fitting procedure (<xref rid="B52" ref-type="bibr">52</xref>).</p><p>The MD systems were prepared with the tleap module as part of the AmberTools14 program package (<xref rid="B53" ref-type="bibr">53</xref>). A layer of at least 15 &#x000c5; TIP3P water (<xref rid="B54" ref-type="bibr">54</xref>) molecules separated the solute from the edges of the periodic, truncated octahedral box. The systems were neutralized and additional NaCl (<xref rid="B55" ref-type="bibr">55</xref>) was added to mimic a salt concentration of 100&#x000a0;mM. The system contained &#x0223c;60 000 atoms in the RNA systems and &#x0223c;68 000 atoms in the DNA systems.</p><p>After energy minimization and equilibration (Supplementary Information), production runs were performed using the pmemd engine in Amber16. Trajectories of 1 &#x003bc;s (unlabeled) and 2 &#x003bc;s (labeled) were simulated for RNA and DNA, respectively, in 10&#x000a0;ns segments, where coordinates, velocities and box information were taken from the previous run. Unobserved conformational states of the <inline-formula><tex-math id="M21">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules were individually simulated for 500&#x000a0;ns, i.e.&#x000a0;anti&#x02013;syn and syn&#x02013;syn for RNA and syn&#x02013;anti for DNA. The coordinates were wrapped into a primary box. Temperature was kept at 300&#x000a0;K using Langevin dynamics (&#x003b3; = 1&#x000a0;ps<sup>&#x02212;1</sup>). To prevent &#x02018;synchronization&#x02019; artifacts (<xref rid="B56" ref-type="bibr">56</xref>), caused by the thermostat, a random seed was set at every restart. Covalent bond lengths of hydrogen atoms were maintained with the SHAKE (<xref rid="B57" ref-type="bibr">57</xref>) algorithm. The pressure was kept at 1 atm with isotropic position scaling and a relaxation time of 2&#x000a0;ps for the Berendsen barostat (<xref rid="B58" ref-type="bibr">58</xref>).</p><p>Due to the limited number of atom types in the general amber force field (GAFF), the <inline-formula><tex-math id="M22">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> nitroxide atoms (N&#x02013;O) are not optimally described, i.e.&#x000a0;the oxygen atom was always out-of the isoindoline plane during the MD simulations. In the PELDOR signal calculations, the oxygen was therefore virtually positioned in the isoindoline plane. PELDOR time traces were calculated according to Marko <italic>et&#x000a0;al.</italic> (<xref rid="B59" ref-type="bibr">59</xref>). The following spin parameters for <inline-formula><tex-math id="M23">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> were used: <italic>g</italic>&#x000a0;= (2.0088, 2.0065, 2.0027) and nitrogen hyperfine coupling of <italic>A</italic>[MHz]&#x000a0;= (15, 15, 98). These values were validated with a continuous wave measurement of the <inline-formula><tex-math id="M24">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> sample (<xref rid="B24" ref-type="bibr">24</xref>). The modulation depth variations between the set of X-band time traces measured at different offsets were not fitted. However, for the G-band data, due to uncertainties of the resonator performance and non-perfect calculations of the excitation profiles, the modulation depth was adjusted for each time trace. To simulate the PELDOR signal, 20&#x000a0;000 structures (every 0.1&#x000a0;ns) were taken from the respective 2 &#x003bc;s MD trajectories and 2000 equally spaced structures for every <inline-formula><tex-math id="M25">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> conformational state&#x000a0;(syn&#x02013;syn, anti&#x02013;syn, syn&#x02013;anti and anti&#x02013;anti).</p><p>Helical and base pair parameters were determined with do_x3DNA (<xref rid="B60" ref-type="bibr">60</xref>,<xref rid="B61" ref-type="bibr">61</xref>) for GROMACS, after converting the trajectories from .ntx format to .pdb format with VMD (<xref rid="B62" ref-type="bibr">62</xref>) version 1.9.2.</p></sec></sec><sec sec-type="results" id="SEC3"><title>RESULTS AND DISCUSSION</title><sec id="SEC3-1"><title>Characterization of <inline-formula><tex-math id="M26">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula></title><p>The spin label <inline-formula><tex-math id="M27">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> (<xref rid="B24" ref-type="bibr">24</xref>) is comprised of an isoindoline derivative and an aminoxyl radical, and an aromatic purine scaffold, connected by a rotatable amine bridge (Figure <xref ref-type="fig" rid="F1">1B</xref>). DFT relaxed surface scans of the dihedral angle <bold>d1</bold> (bonds 1&#x02013;2 and 3&#x02013;4 connected by pseudo-bond 2&#x02013;3 in Figure <xref ref-type="fig" rid="F1">1B</xref>) at B3LYP-GD3BJ/cc-pVTZ and PBE0/N07D levels of theory (Figure <xref ref-type="fig" rid="F1">1C</xref>) reveal a global minimum at 0&#x000b0; (syn) and a local minimum at 180&#x000b0; (anti), indicating two favored conformations of the <inline-formula><tex-math id="M28">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecule in the gas phase without the nucleic acid. A detailed discussion of the conformational landscape of <inline-formula><tex-math id="M29">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> can be found in the Supporting Informations (<xref ref-type="supplementary-material" rid="sup1">Supplementary Figure S3</xref>).</p></sec><sec id="SEC3-2"><title>MD simulations of <inline-formula><tex-math id="M30">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>-labeled DNA</title><p>We then proceeded to study the conformations of <inline-formula><tex-math id="M31">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> in a dsDNA helix. In MD simulations of 2 &#x003bc;s, the two <inline-formula><tex-math id="M32">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> labels remained in the abasic sites of the dsDNA. During these 2 &#x003bc;s of MD simulation the dsDNA kept its helical structure, as indicated by the averaged structure (Figure <xref ref-type="fig" rid="F2">2A</xref>). The heavy-atom position root-mean-square deviation (RMSD) of the <inline-formula><tex-math id="M33">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>-labeled dsDNA from an ideal B-helical structure was only 1 &#x000c5; larger than for an unlabeled dsDNA simulation (unlabeled: 2.9 &#x000b1; 0.6 &#x000c5;, labeled: 3.9 &#x000b1; 0.7 &#x000c5;). The atom position root-mean-square fluctuation (RMSF) of the labeled dsDNA trajectory, aligned onto the averaged structure, revealed base flexibility at the 5&#x02032;-ends and 3&#x02032;-ends of each strand, as expected (Figure <xref ref-type="fig" rid="F2">2B</xref> and <xref ref-type="supplementary-material" rid="sup1">Supplementary Figure S4</xref>). Slightly elevated flexibility was also observed at the abasic sites occupied by the <inline-formula><tex-math id="M34">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules. The purine end of each <inline-formula><tex-math id="M35">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecule remained at the position of the native guanine base and formed hydrogen bonds with the corresponding cytidine in the complementary strand, mimicking native bases (Figure <xref ref-type="fig" rid="F2">2C</xref>). An additional hydrogen bond was observed between the nitrogen (N9) of the <inline-formula><tex-math id="M36">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules and the oxygen (O4&#x02032;) of the abasic site. The isoindoline aminoxyl radical end of the <inline-formula><tex-math id="M37">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecule was positioned inside the minor groove of the helix.</p><fig id="F2" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Structural influence of <inline-formula><tex-math id="M38">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> labeling on dsDNA. (<bold>A</bold>) Average structures of the labeled and unlabeled dsDNA simulations. The position of the <inline-formula><tex-math id="M39">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules and abasic sites are depicted in red at the unlabeled structure. (<bold>B</bold>) Atom position root mean square fluctuations of <inline-formula><tex-math id="M40">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>-labeled dsDNA, color coded on a representative MD structure. The averaged structure of the labeled dsDNA simulation was taken as the reference state. <inline-formula><tex-math id="M41">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> regions are highlighted with black ellipses. (<bold>C</bold>) <inline-formula><tex-math id="M42">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> interactions in a dsDNA. Stable hydrogen bonds between <inline-formula><tex-math id="M43">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> and the complementary dC are shown as dashed lines. An additional hydrogen bond forms between <inline-formula><tex-math id="M44">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> (N9) and the abasic site (O4&#x02032;).</p></caption><graphic xlink:href="gkz1096fig2"/></fig><p>The abasic sites and <inline-formula><tex-math id="M45">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules slightly perturbed the helical dsDNA structure. Individual averages over backbone torsion angles were calculated for an unlabeled dsDNA and the complementary <inline-formula><tex-math id="M46">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>-labeled dsDNA. The difference between the torsion angles reveal changes in the &#x003b6; torsion angle of up to 42&#x000b0; close to the spin label position and&#x000a0;&#x02013;25&#x000b0; directly at the spin label position (<xref ref-type="supplementary-material" rid="sup1">Supplementary Figure S5</xref>). The &#x003b4; torsion angle of the corresponding cytidine in the complementary strand was also perturbed with deviations up to 34&#x000b0;. Visual inspection of the MD trajectory revealed that the abasic site sometimes rotates slightly out of a native-like helix structure. However, the overall helical structure stayed intact during these short events (Figure <xref ref-type="fig" rid="F2">2A</xref>).</p><p>With the MD simulations, we resolved the possible spin label orientations and their relative frequency. In the MD simulation, several rotations around the dihedral angle <bold>d1</bold> in both <inline-formula><tex-math id="M47">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules were observed (Figure <xref ref-type="fig" rid="F3">3A</xref>), capturing three out of four possible states, i.e.&#x000a0;(i) both <inline-formula><tex-math id="M48">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules in syn (syn&#x02013;syn), (ii) one molecule in anti (anti&#x02013;syn) and (iii) both spin labels in anti configuration conformation (anti&#x02013;anti). A syn to anti rotation inside the minor groove placed the isoindoline plane parallel to the backbone (Figure <xref ref-type="fig" rid="F3">3E</xref>). An additional simulation of 500&#x000a0;ns in the missing (iv) syn&#x02013;anti conformation was performed for further distance distribution analysis.</p><fig id="F3" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>(<bold>A</bold>, <bold>B</bold>) Dihedral angle <bold>d1</bold> between the aromatic purine scaffold and the isoindoline nitroxide plane of the two <inline-formula><tex-math id="M49">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>s in dsDNA and dsRNA during the MD simulations. (<bold>C</bold>, <bold>D</bold>) Potential of mean force profiles for rotations of <inline-formula><tex-math id="M50">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> inside the minor grooves of dsDNA and dsRNA. Note that the dsDNA sequence is not palindromic, unlike the dsRNA sequence, explaining the small difference between the two profiles in C. Shaded areas represent the minimum and maximum values of blocking analysis, using 10 blocks. (<bold>E</bold>) Rotation from syn to anti conformation of dihedral angle <bold>d1</bold>. <inline-formula><tex-math id="M51">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> is shown as sticks, and surrounding DNA bases are shown as&#x000a0;cartoon.</p></caption><graphic xlink:href="gkz1096fig3"/></fig><p>To check that the accessible conformational space was explored in the MD simulations, we performed umbrella sampling calculations of the rotations around the dihedral angle <bold>d1</bold> (Figure <xref ref-type="fig" rid="F3">3C</xref>). The reported uncertainties correspond to the range between the minimum and maximum values of the free energy profiles obtained by blocking the data into 10 segments that were analyzed individually (<xref ref-type="supplementary-material" rid="sup1">Supplementary Figure S6</xref>). The potential of mean force (PMF) profiles follow a similar pattern for both <inline-formula><tex-math id="M52">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules (Figure <xref ref-type="fig" rid="F3">3C</xref>). For <inline-formula><tex-math id="M53">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> in dsDNA, we found three free energy minima: at &#x02013;140&#x000b0;, 30&#x000b0; and 150&#x000b0;. We also observed an additional substate at &#x02013;35&#x000b0;. Note that the force field employed for the <inline-formula><tex-math id="M54">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> only approximately describes the reference behavior as based on DFT calculations in vacuo at the syn and anti minima (<xref ref-type="supplementary-material" rid="sup1">Supplementary Figure S7</xref>). To be consistent with the DFT calculations, we will below refer to the two states at 30&#x000b0; and &#x02013;35&#x000b0; as a single syn state, and to the two states at &#x02013;140&#x000b0; and 150&#x000b0; as a single anti state. The syn and anti conformers are separated by barriers of &#x0223c;5 kcal&#x000b7;mol<sup>&#x02212;1</sup>. The small difference between the two <inline-formula><tex-math id="M55">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> PMF profiles is presumably caused by a flexibility in one of the abasic sites in the non-palindromic dsDNA. Nonetheless, the PMF profiles reveal that all possible states are captured by the MD simulations.</p></sec><sec id="SEC3-3"><title>Comparison to PELDOR experiments of <inline-formula><tex-math id="M56">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>-labeled DNA</title><p>Both the low-field X-band and the high-field G-band PELDOR time traces calculated for the dsDNA MD simulation structures are in excellent agreement with the measured traces (Figure <xref ref-type="fig" rid="F4">4A</xref>,&#x000a0;B). The PELDOR time traces were calculated directly and without adjustable parameters from the coordinates of the two spin labels in the MD trajectories (<xref rid="B1" ref-type="bibr">1</xref>,<xref rid="B33" ref-type="bibr">33</xref>), and then compared with the experimental PELDOR time traces. The low-field X-band (0.3 T/9&#x000a0;GHz) EPR spectra are dominated by the nitrogen hyperfine anisotropy, which is an axial tensor with its large value parallel to the <italic>z</italic>-axis (normal to the nitroxide plane, Figure <xref ref-type="fig" rid="F4">4D</xref>). As can be seen in Figure <xref ref-type="fig" rid="F4">4A</xref>, hardly any orientation selectivity is visible in the X-band PELDOR time traces collected at different probe frequencies. An inspection of the MD simulation structures shows that this lack of orientation selectivity arises from the fact that the angles between the <italic>z</italic>-axis and the inter-spin vector cluster &#x0223c;40&#x000b0;. Such orientations do not exhibit orientation dependence at X-band frequencies (<xref ref-type="supplementary-material" rid="sup1">Supplementary Figure S8</xref>). Using state-of-the-art DNA force fields, MD simulations thus capture the structure and motions not only of regular B-helix DNA (<xref rid="B1" ref-type="bibr">1</xref>), but also of dsDNA with abasic sites occupied by large base analogs. In addition, the simulations rationalize the absence of orientation selectivity in the X-band PELDOR measurements.</p><fig id="F4" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>Comparison of PELDOR signals calculated directly from MD (red) to experiments (black) for DNA(1,10) without any fit. (<bold>A</bold>) PELDOR time traces measured at X-band with different offsets &#x003bd;<sub><italic>n</italic></sub> between probe and pump pulse frequency from 40&#x000a0;MHz (lower time trace) to 85&#x000a0;MHz (upper time trace). (<bold>B</bold>) PELDOR time traces measured at G-band at different field positions with a constant offset of 60&#x000a0;MHz. The field position corresponds to <italic>B</italic>&#x02225;<italic>g</italic><sub><italic>xx</italic></sub> &#x02212; <italic>B</italic>&#x02225;<italic>g</italic><sub><italic>zz</italic></sub>. (<bold>C</bold>) Distance distribution from PELDOR measurements obtained by Tikhonov regularization (black) and from MD simulation (red), including the individual conformational states of the <inline-formula><tex-math id="M57">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecule. The contribution of the different syn and anti combinations are shown as well. (<bold>D</bold>) Axis system of a nitroxide spin label.</p></caption><graphic xlink:href="gkz1096fig4"/></fig><p>By contrast, orientation selectivity is pronounced at G-band frequencies, resulting in differences in oscillation frequency, oscillation dampening, and modulation depth as a function of magnetic field strength (Figure <xref ref-type="fig" rid="F4">4B</xref>). This orientation selectivity is captured by the PELDOR time traces calculated from dsDNA MD trajectories, which are in excellent agreement with the measurements. High-field G-band (180&#x000a0;GHz/6.4 T) EPR spectra are dominated by the <italic>g</italic>-tensor anisotropy, giving us information on the in-plane orientation (with respect to the <italic>x</italic> and <italic>y</italic> axes, Figure <xref ref-type="fig" rid="F4">4D</xref>). The possible 180&#x000b0; rotation around dihedral angle <bold>d1</bold> of the spin labels in the abasic binding site do not alter the relative spin orientations, due to the 180&#x000b0; symmetry of all spin interactions with respect to the direction of the magnetic field. Therefore, such rotations around <bold>d1</bold>, as observed in the MD trajectories, retain orientation selectivity.</p><p>We extracted the distribution of the distance between the two spin labels via Tikhonov regularization of the sum over all X-band time traces (<xref rid="B63" ref-type="bibr">63</xref>) (Figure <xref ref-type="fig" rid="F4">4C</xref> and <xref ref-type="supplementary-material" rid="sup1">Supplementary Figure S9</xref>). The experimental distribution peaks at 37.2 &#x000c5; with a shoulder at 33.9 &#x000c5;. The shoulder at 33.9 &#x000c5; might easily arise from residual orientation effects, as the distance distribution is derived from the time trace summing up all four offsets. Previously we showed that a sum of seven time traces with offsets from 30 to&#x000a0;90&#x000a0;MHz represents very well a statistical powder sample, leading to a reliable distance distribution (<xref rid="B63" ref-type="bibr">63</xref>). Therefore, the shoulder should not be interpreted. The distance distribution obtained from the 2 &#x003bc;s long MD trajectories peaks at 36.8 &#x000c5; and coincides almost exactly with the experimental distribution (Figure <xref ref-type="fig" rid="F4">4C</xref>). The PELDOR time traces of the individual conformational states of the two <inline-formula><tex-math id="M58">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules from MD simulations were calculated (<xref ref-type="supplementary-material" rid="sup1">Supplementary Figure S10</xref>) and the corresponding distance distributions extracted (Figure <xref ref-type="fig" rid="F4">4C</xref>). The anti-syn conformation has the shortest distance of 36.1 &#x000c5;. Anti-anti and syn-syn conformations are almost identical at 37.3&#x000a0;and 36.7 &#x000c5;, while syn&#x02013;anti results in somewhat longer distances of 37.5 &#x000c5;. All these individual distances are very similar, suggesting that the experimentally observed distance distribution is determined by a combination of dsDNA helix movements, <inline-formula><tex-math id="M59">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> movement in the abasic site, and to a lesser degree by the distribution of <inline-formula><tex-math id="M60">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> conformational states. A comparison between PELDOR experiments using covalently attached <bold>&#x000c7;</bold> (<xref rid="B1" ref-type="bibr">1</xref>) and non-covalently attached <inline-formula><tex-math id="M61">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> spin labels for the same dsDNA sequence shows similar broadening of the inter-spin distance distributions (FWHM: <bold>&#x000c7;</bold> 0.633&#x000a0;nm, <inline-formula><tex-math id="M62">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>: 0.675&#x000a0;nm) as determined by Tikhonov regularization from the experimental data (<xref ref-type="supplementary-material" rid="sup1">Supplementary Figure S11</xref>).</p></sec><sec id="SEC3-4"><title>MD simulations of <inline-formula><tex-math id="M63">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>-labeled RNA</title><p>The MD simulation of two <inline-formula><tex-math id="M64">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules non-covalently attached to a dsRNA helix revealed an intact helical structure (Figure <xref ref-type="fig" rid="F1">1A</xref>). Structurally, the <inline-formula><tex-math id="M65">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecule showed similar behavior in dsRNA as in dsDNA. The purine ends of the <inline-formula><tex-math id="M66">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules were located inside the A-helix, forming hydrogen bonds to their complementary cytidines on the opposite strand, thereby mimicking native guanine bases (Figure <xref ref-type="fig" rid="F5">5C</xref>). An additional hydrogen bond formed between the purine nitrogen (N9) and the oxygen (O4&#x02032;) of the abasic site sugar, which appeared to be less stable than in dsDNA (<xref ref-type="supplementary-material" rid="sup1">Supplementary Figure S12</xref>). The isoindoline aminoxyl radical end pointed into the minor groove, as already proposed previously (<xref rid="B24" ref-type="bibr">24</xref>).</p><fig id="F5" orientation="portrait" position="float"><label>Figure 5.</label><caption><p>Influence of <inline-formula><tex-math id="M67">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> labeling on dsRNA structure. (<bold>A</bold>) Average structures of the labeled and unlabeled dsRNA simulations. The position of the <inline-formula><tex-math id="M68">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules and abasic sites are depicted in red at the unlabeled structure. (<bold>B</bold>) Atom position root mean square fluctuations of <inline-formula><tex-math id="M69">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>-labeled dsRNA, color coded on a representative MD structure. The averaged structure of the labeled dsRNA simulation was taken as the reference state. <inline-formula><tex-math id="M70">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> regions are highlighted with black ellipses. (<bold>C</bold>) <inline-formula><tex-math id="M71">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> interactions in a dsRNA. Stable hydrogen bonds between <inline-formula><tex-math id="M72">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> and the complementary cytidine are shown as dashed lines. An additional hydrogen bond formed between <inline-formula><tex-math id="M73">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> (N9) and the abasic site (O4&#x02032;).</p></caption><graphic xlink:href="gkz1096fig5"/></fig><p>The abasic sites occupied by <inline-formula><tex-math id="M74">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules did not significantly affect the overall dsRNA structure. The backbone torsion angles of the dsRNA were calculated for unlabeled dsRNA and for a dsRNA with two abasic sites occupied by <inline-formula><tex-math id="M75">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>. The differences in the torsion angles of unlabeled and labeled dsRNA revealed a small perturbation directly at the abasic sites and the corresponding cytidine in the complementary strand (<xref ref-type="supplementary-material" rid="sup1">Supplementary Figure S5</xref>). The overall structure stayed intact and the perturbation was negligibly small with an overall heavy atom position RMSD to an ideal A-helix of 3.4 &#x000b1; 0.8 &#x000c5; compared to an unlabeled dsRNA simulation with an RMSD of 2.9 &#x000b1; 0.7 &#x000c5;. The helical parameters of the inner, canonical base pairs of the dsRNA MD simulations of the labeled and unlabeled dsRNA agree also within statistical uncertainty (<xref ref-type="supplementary-material" rid="sup1">Supplementary Table S4</xref>) and are in line with helical parameters for a GC rich sequence reported by &#x00160;poner <italic>et&#x000a0;al.</italic>&#x000a0;at slightly different solution conditions (<xref rid="B29" ref-type="bibr">29</xref>). The averaged structure reflects these similarities and is almost indistinguishable to the averaged structure of an unlabeled dsRNA simulation (Figure <xref ref-type="fig" rid="F5">5A</xref>). The atom position RMSF of the labeled dsRNA trajectory aligned onto their averaged structure reveals flexibility at the blunt ends (Figure <xref ref-type="fig" rid="F5">5B</xref>). Both abasic sites also had higher fluctuations, due to the short rotations of the sugar moieties out of the helical structure. The <inline-formula><tex-math id="M76">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules remained rigid inside the helix.</p><p>A single rotation of the dihedral angle <bold>d1</bold> of a <inline-formula><tex-math id="M77">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecule was observed in dsRNA within 2 &#x003bc;s of MD simulation, transitioning from (i) syn&#x02013;anti to (ii) anti&#x02013;anti states (Figure <xref ref-type="fig" rid="F3">3B</xref>). The unresolved <inline-formula><tex-math id="M78">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> conformational states, i.e. (iii) syn&#x02013;syn and (iv) anti&#x02013;syn, were sampled in additional MD simulations of 500&#x000a0;ns duration, each started in these two states. To rule out missing conformations, an umbrella sampling of <bold>d1</bold> was performed (Figure <xref ref-type="fig" rid="F3">3D</xref>). The resulting PMF profiles are similar for the two sites, revealing two minima at &#x02013;150&#x000b0; and 30&#x000b0;. The similarity of the profiles provides some confidence in the accuracy of the umbrella sampling calculations, as the RNA sequence we studied is palindromic (unlike the DNA sequence). Barriers of about &#x0223c;8 kcal&#x000b7;mol<sup>&#x02212;1</sup> separate the dominant minima. The higher barriers, compared to rotations in dsDNA (5 kcal&#x000b7;mol<sup>&#x02212;1</sup>), are in line with the observed single rotation of the <inline-formula><tex-math id="M79">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecule in the dsRNA MD simulation and the more frequent rotations of <inline-formula><tex-math id="M80">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> in dsDNA within the same simulation time of 2 &#x003bc;s.</p></sec><sec id="SEC3-5"><title>Comparison to PELDOR experiments of <inline-formula><tex-math id="M81">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>-labeled RNA</title><p>Average PELDOR time traces were calculated from the dsRNA MD simulations separately for each individual conformational state (<xref ref-type="supplementary-material" rid="sup1">Supplementary Figure S13</xref>) and for the 2 &#x003bc;s MD simulation (Figure <xref ref-type="fig" rid="F6">6A</xref>, <xref ref-type="fig" rid="F6">B</xref>). Additionally, we averaged the PELDOR time traces of the four conformational states with equal weights (<xref ref-type="supplementary-material" rid="sup1">Supplementary Figure S14</xref>), as indicated by the calculated PMF profile (Figure <xref ref-type="fig" rid="F3">3D</xref>). We noticed that the differences between the calculated PELDOR time traces of the individual states, the PELDOR time traces averaged over all states, and the PELDOR time traces of the 2 &#x003bc;s MD simulation are very small and that the main characteristics are preserved. Therefore, we focused on the PELDOR time traces of the 2 &#x003bc;s MD simulation to be consistent with the dsDNA comparison.</p><fig id="F6" orientation="portrait" position="float"><label>Figure 6.</label><caption><p>Comparison of PELDOR signals calculated from MD (red) to experiments (black) for RNA(1,10). (<bold>A</bold>) PELDOR time traces measured at X-band with different offsets &#x003bd;<sub><italic>n</italic></sub> between probe and pump pulse frequency from 40&#x000a0;MHz (lower time trace) to 90&#x000a0;MHz (upper time trace). (<bold>B</bold>) PELDOR time traces measured at G-band at different field positions with a constant offset of 60&#x000a0;MHz. The field position correspond to <italic>B</italic>&#x02225;<italic>g</italic><sub><italic>xx</italic></sub> &#x02212; <italic>B</italic>&#x02225;<italic>g</italic><sub><italic>zz</italic></sub> (<bold>C</bold>) Distance distribution from PELDOR measurements obtained by Tikhonov regularization (black), and from MD simulation (red), including the individual conformational states of the <inline-formula><tex-math id="M82">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules.</p></caption><graphic xlink:href="gkz1096fig6"/></fig><p>Comparisons of measured and calculated PELDOR time traces and of the inter-spin distances for labeled dsRNA show very good agreement overall (Figure <xref ref-type="fig" rid="F6">6</xref>). Excellent agreement was achieved for the low-field X-band data (Figure <xref ref-type="fig" rid="F6">6A</xref>). The experimental PELDOR time traces (X-band) revealed differences in the damping, which give strong evidence for a highly preserved out-of-plane orientation of the <inline-formula><tex-math id="M83">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> in dsRNA (Figure <xref ref-type="fig" rid="F6">6A</xref>). In the high-field G-band data, the PELDOR experiments showed pronounced orientation selectivity (Figure <xref ref-type="fig" rid="F6">6B</xref>), with good agreement between the in-plane orientations in the measured and calculated PELDOR time traces. The extracted distance population of the experimental PELDOR data peaks at 37.5 &#x000c5;, whereas the directly extracted distances from the MD simulation tend to somewhat longer distances, with a main population at 38.7 &#x000c5; (Figure <xref ref-type="fig" rid="F6">6C</xref>). We note that the differences in mean spin-spin distance of 1&#x02013;2 &#x000c5; are similar to what we obtained previously by comparing MD simulations of dsDNA to PELDOR experiments with the covalently attached and rigid <bold>&#x000c7;</bold> (<xref rid="B1" ref-type="bibr">1</xref>). Somewhat larger differences were reported by Halbmair <italic>et&#x000a0;al.</italic> (<xref rid="B32" ref-type="bibr">32</xref>) in a comparison between MD simulations of dsRNA and experiments with a more flexible spin label. Indeed, earlier MD simulations of dsRNA with the ParmBSC0&#x000a0;+ &#x003c7;<sub><italic>OL</italic>3</sub> force field and TIP3P water model (<xref rid="B29" ref-type="bibr">29</xref>) indicated a possible bias towards somewhat elongated dsRNA A-helices for GC rich sequences. However, more experiments, with additional spin-label pairs would be required to test whether A-helices are systematically elongated in the simulations.</p><p>The individual distance distributions of the four conformational states of the two <inline-formula><tex-math id="M84">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules were calculated and largely overlap. An anti-anti conformation has the shortest spin-spin distance with 37.8 &#x000c5;. The syn&#x02013;syn conformation results in the longest distances with 39.8 &#x000c5;, while syn&#x02013;anti and anti&#x02013;syn are indistinguishable in between (39.5 &#x000c5;). The overlap in the distance distribution between the different states suggests that the overall distance distribution is mostly affected by the global helix movement, rather than by the conformational state of <inline-formula><tex-math id="M85">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>. Indeed, the distance distributions of the syn&#x02013;syn, syn&#x02013;anti, anti&#x02013;syn and anti&#x02013;anti states have nearly the same width as the overall distribution (Figure <xref ref-type="fig" rid="F6">6C</xref>). The comparison to PELDOR experiments,&#x000a0;which report on long-range distances and angles, shows that the structure and motions of RNA A-helices are described well by the ParmBSC0&#x000a0;+&#x000a0;&#x003c7;<sub><italic>OL</italic>3</sub> force field.</p></sec></sec><sec sec-type="conclusions" id="SEC4"><title>CONCLUSIONS</title><p>The comparison between MD simulations and PELDOR experiments reveals that the <inline-formula><tex-math id="M86">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> label is well suited for distance measurements using PELDOR in both dsDNA and dsRNA. The simulated <inline-formula><tex-math id="M87">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecule distance distributions are on par with the PELDOR experiment in dsDNA and in excellent agreement for dsRNA. In both labeled nucleic acid helices, the helical structure remained intact. Local perturbations were introduced into the system near the abasic sites and the non-covalently bound <inline-formula><tex-math id="M88">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules, which were very small in dsDNA and almost negligible in dsRNA. Watson&#x02013;Crick hydrogen bonding kept the <inline-formula><tex-math id="M89">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecules at their corresponding purine positions. In bound <inline-formula><tex-math id="M90">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula>, rotations around the dihedral angle <bold>d1</bold> were more frequently observed in dsDNA than in dsRNA. Interestingly, the non-covalently attached <inline-formula><tex-math id="M91">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\bf\acute{G}$\end{document}</tex-math></inline-formula> molecule did not significantly affect the width of the distance distribution in comparison to the completely rigid and covalently attached spin label <bold>&#x000c7;</bold> (<xref rid="B1" ref-type="bibr">1</xref>), which requires a much higher synthetic effort for incorporation into nucleic acids.</p><p>The direct comparison to PELDOR measurements provides highly accurate information to evaluate current state-of-the-art force fields for nucleic acids. Both force fields, ParmBSC1 for DNA and ParmBSC0&#x000a0;+&#x000a0;&#x003c7;<sub><italic>OL</italic>3</sub> for RNA, are able to describe double-stranded, helical nucleic acids well. For dsDNA there is almost no difference discernible between the experimental PELDOR data and PELDOR time traces computed from the MD simulation. The excellent agreement for ParmBSC1 confirms our previous conclusion that state-of-the-art force fields (including OL15 (<xref rid="B64" ref-type="bibr">64&#x02013;66</xref>)) describe the structure of dsDNA well (<xref rid="B1" ref-type="bibr">1</xref>). By contrast, the discrepancies between experiment and simulation were somewhat larger for dsRNA, though still small. The well-established ParmBSC0&#x000a0;+&#x000a0;&#x003c7;<sub><italic>OL</italic>3</sub> force field for RNA seems to describe the structure of dsRNA well. The MD inter-spin distance distribution is slightly shifted by 1.2 &#x000c5; toward longer distances, presumably caused by a slight elongation of the helix, which may be associated with the choice of the water model (<xref rid="B29" ref-type="bibr">29</xref>). Still, the calculated PELDOR time traces from the MD simulations match well with the PELDOR data, but further improvement is possible. As new RNA force fields are developed, we envisage that PELDOR data will provide a valuable reference for validation by providing highly accurate long-range distance information.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sup1"><label>gkz1096_Supplemental_File</label><media xlink:href="gkz1096_supplemental_file.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ACK1"><title>ACKNOWLEDGEMENTS</title><p>Dr J&#x000fc;rgen K&#x000f6;finger is thanked for insightful discussions. We thank Dr Vasyl Denysenkov for his help with the G-band measurements.</p></ack><sec id="SEC5"><title>SUPPLEMENTARY DATA</title><p>
+<ext-link ext-link-type="uri" xlink:href="https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkz1096#supplementary-data">Supplementary Data</ext-link> are available at NAR Online.</p></sec><sec id="SEC6"><title>FUNDING</title><p>German Research Foundation [CRC902: Molecular Principles of RNA Based Regulation]; M.H., L.S.S. and G.H. were also supported by the Max Planck Society. Funding for open access charge:&#x000a0;German Research Foundation [CRC 902] and Max Planck Society.</p><p>
+<italic>Conflict of interest statement</italic>. None declared.</p></sec><ref-list id="REF1"><title>REFERENCES</title><ref id="B1"><label>1.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Stelzl</surname><given-names>L.S.</given-names></name>, <name name-style="western"><surname>Erlenbach</surname><given-names>N.</given-names></name>, <name name-style="western"><surname>Heinz</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Prisner</surname><given-names>T.F.</given-names></name>, <name name-style="western"><surname>Hummer</surname><given-names>G.</given-names></name></person-group>
+<article-title>Resolving the conformational dynamics of DNA with &#x000c5;ngstrom resolution by pulsed electron-electron double resonance and molecular dynamics</article-title>. <source>J. Am. Chem. Soc.</source><year>2017</year>; <volume>139</volume>:<fpage>11674</fpage>&#x02013;<lpage>11677</lpage>.<pub-id pub-id-type="pmid">28777549</pub-id></mixed-citation></ref><ref id="B2"><label>2.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Milov</surname><given-names>A.D.</given-names></name>, <name name-style="western"><surname>Ponomarev</surname><given-names>A.B.</given-names></name>, <name name-style="western"><surname>Tsvetkov</surname><given-names>Y.D.</given-names></name></person-group>
+<article-title>Electron-electron double resonance in electron spin echo: model biradical systems and the sensitzed photolysis of decalin</article-title>. <source>Lett. Chem. Phys.</source><year>1984</year>; <volume>110</volume>:<fpage>67</fpage>&#x02013;<lpage>72</lpage>.</mixed-citation></ref><ref id="B3"><label>3.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Peselis</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Gao</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Serganov</surname><given-names>A.</given-names></name></person-group>
+<article-title>Preparation and crystallization of riboswitches</article-title>. <source>Methods Mol. Biol.</source><year>2016</year>; <volume>1320</volume>:<fpage>21</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">26227035</pub-id></mixed-citation></ref><ref id="B4"><label>4.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Nozinovic</surname><given-names>S.</given-names></name>, <name name-style="western"><surname>F&#x000fc;rtig</surname><given-names>B.</given-names></name>, <name name-style="western"><surname>Jonker</surname><given-names>H.R.A.</given-names></name>, <name name-style="western"><surname>Richter</surname><given-names>C.</given-names></name>, <name name-style="western"><surname>Schwalbe</surname><given-names>H.</given-names></name></person-group>
+<article-title>High-resolution NMR structure of an RNA model system: the 14-mer cUUCGg tetraloop hairpin RNA</article-title>. <source>Nucleic Acids Res.</source><year>2010</year>; <volume>38</volume>:<fpage>683</fpage>&#x02013;<lpage>694</lpage>.<pub-id pub-id-type="pmid">19906714</pub-id></mixed-citation></ref><ref id="B5"><label>5.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>F&#x000fc;rtig</surname><given-names>B.</given-names></name>, <name name-style="western"><surname>Richter</surname><given-names>C.</given-names></name>, <name name-style="western"><surname>W&#x000f6;hnert</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Schwalbe</surname><given-names>H.</given-names></name></person-group>
+<article-title>NMR spectroscopy of RNA</article-title>. <source>ChemBioChem</source>. <year>2003</year>; <volume>4</volume>:<fpage>936</fpage>&#x02013;<lpage>962</lpage>.<pub-id pub-id-type="pmid">14523911</pub-id></mixed-citation></ref><ref id="B6"><label>6.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hennig</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Sattler</surname><given-names>M.</given-names></name></person-group>
+<article-title>The dynamic duo: combining NMR and small angle scattering in structural biology</article-title>. <source>Protein Sci.</source><year>2014</year>; <volume>23</volume>:<fpage>669</fpage>&#x02013;<lpage>682</lpage>.<pub-id pub-id-type="pmid">24687405</pub-id></mixed-citation></ref><ref id="B7"><label>7.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bai</surname><given-names>X.-c.</given-names></name>, <name name-style="western"><surname>Martin</surname><given-names>T.G.</given-names></name>, <name name-style="western"><surname>Scheres</surname><given-names>S.H.W.</given-names></name>, <name name-style="western"><surname>Dietz</surname><given-names>H.</given-names></name></person-group>
+<article-title>Cryo-EM structure of a 3D DNA-origami object</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source><year>2012</year>; <volume>109</volume>:<fpage>20012</fpage>&#x02013;<lpage>20017</lpage>.<pub-id pub-id-type="pmid">23169645</pub-id></mixed-citation></ref><ref id="B8"><label>8.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Topf</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Lasker</surname><given-names>K.</given-names></name>, <name name-style="western"><surname>Webb</surname><given-names>B.</given-names></name>, <name name-style="western"><surname>Wolfson</surname><given-names>H.</given-names></name>, <name name-style="western"><surname>Chiu</surname><given-names>W.</given-names></name>, <name name-style="western"><surname>Sali</surname><given-names>A.</given-names></name></person-group>
+<article-title>Protein structure fitting and refinement guided by Cryo-EM density</article-title>. <source>Structure</source>. <year>2008</year>; <volume>16</volume>:<fpage>295</fpage>&#x02013;<lpage>307</lpage>.<pub-id pub-id-type="pmid">18275820</pub-id></mixed-citation></ref><ref id="B9"><label>9.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Diskowski</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Mehdipour</surname><given-names>A.R.</given-names></name>, <name name-style="western"><surname>Wunnicke</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>Mills</surname><given-names>D.J.</given-names></name>, <name name-style="western"><surname>Mikusevic</surname><given-names>V.</given-names></name>, <name name-style="western"><surname>B&#x000e4;rland</surname><given-names>N.</given-names></name>, <name name-style="western"><surname>Hoffmann</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Morgner</surname><given-names>N.</given-names></name>, <name name-style="western"><surname>Steinhoff</surname><given-names>H.-J.</given-names></name>, <name name-style="western"><surname>Hummer</surname><given-names>G.</given-names></name><etal>et al</etal>.</person-group>
+<article-title>Helical jackknives control the gates of the double-pore K<sup>+</sup> uptake system KtrAB</article-title>. <source>eLife</source>. <year>2017</year>; <volume>6</volume>:<fpage>e24303</fpage>.<pub-id pub-id-type="pmid">28504641</pub-id></mixed-citation></ref><ref id="B10"><label>10.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ding</surname><given-names>Y.</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>X.</given-names></name>, <name name-style="western"><surname>Tham</surname><given-names>K.W.</given-names></name>, <name name-style="western"><surname>Qin</surname><given-names>P.Z.</given-names></name></person-group>
+<article-title>Experimental mapping of DNA duplex shape enabled by global lineshape analyses of a nucleotide-independent nitroxide probe</article-title>. <source>Nucleic Acids Res.</source><year>2014</year>; <volume>42</volume>:<fpage>e140</fpage>.<pub-id pub-id-type="pmid">25092920</pub-id></mixed-citation></ref><ref id="B11"><label>11.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Krumkacheva</surname><given-names>O.A.</given-names></name>, <name name-style="western"><surname>Shevelev</surname><given-names>G.Y.</given-names></name>, <name name-style="western"><surname>Lomzov</surname><given-names>A.A.</given-names></name>, <name name-style="western"><surname>Dyrkheeva</surname><given-names>N.S.</given-names></name>, <name name-style="western"><surname>Kuzhelev</surname><given-names>A.A.</given-names></name>, <name name-style="western"><surname>Koval</surname><given-names>V.V.</given-names></name>, <name name-style="western"><surname>Tormyshev</surname><given-names>V.M.</given-names></name>, <name name-style="western"><surname>Polienko</surname><given-names>Y.F.</given-names></name>, <name name-style="western"><surname>Fedin</surname><given-names>M.V.</given-names></name>, <name name-style="western"><surname>Pyshnyi</surname><given-names>D.V.</given-names></name><etal>et al</etal>.</person-group>
+<article-title>DNA complexes with human apurinic/apyrimidinic endonuclease 1: structural insights revealed by pulsed dipolar EPR with orthogonal spin labeling</article-title>. <source>Nucleic Acids Res.</source><year>2019</year>; <volume>47</volume>:<fpage>7767</fpage>&#x02013;<lpage>7780</lpage>.<pub-id pub-id-type="pmid">31329919</pub-id></mixed-citation></ref><ref id="B12"><label>12.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Endeward</surname><given-names>B.</given-names></name>, <name name-style="western"><surname>Butterwick</surname><given-names>J.A.</given-names></name>, <name name-style="western"><surname>MacKinnon</surname><given-names>R.</given-names></name>, <name name-style="western"><surname>Prisner</surname><given-names>T.F.</given-names></name></person-group>
+<article-title>Pulsed electron-electron double-resonance determination of spin-label distances and orientations on the tetrameric potassium ion channel KcsA</article-title>. <source>J. Am. Chem. Soc.</source><year>2009</year>; <volume>131</volume>:<fpage>15246</fpage>&#x02013;<lpage>15250</lpage>.<pub-id pub-id-type="pmid">19919160</pub-id></mixed-citation></ref><ref id="B13"><label>13.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Reichel</surname><given-names>K.</given-names></name>, <name name-style="western"><surname>Stelzl</surname><given-names>L.S.</given-names></name>, <name name-style="western"><surname>K&#x000f6;finger</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Hummer</surname><given-names>G.</given-names></name></person-group>
+<article-title>Precision DEER distances from spin-label ensemble refinement</article-title>. <source>J. Phys. Chem. Lett.</source><year>2018</year>; <volume>9</volume>:<fpage>5748</fpage>&#x02013;<lpage>5752</lpage>.<pub-id pub-id-type="pmid">30212206</pub-id></mixed-citation></ref><ref id="B14"><label>14.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Barhate</surname><given-names>N.</given-names></name>, <name name-style="western"><surname>Cekan</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Massey</surname><given-names>A.P.</given-names></name>, <name name-style="western"><surname>Sigurdsson</surname><given-names>S.T.</given-names></name></person-group>
+<article-title>A nucleoside that contains a rigid nitroxide spin label: a fluorophore in disguise</article-title>. <source>Angew. Chem.</source><year>2007</year>; <volume>119</volume>:<fpage>2709</fpage>&#x02013;<lpage>2712</lpage>.</mixed-citation></ref><ref id="B15"><label>15.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Sicoli</surname><given-names>G.</given-names></name>, <name name-style="western"><surname>Wachowius</surname><given-names>F.</given-names></name>, <name name-style="western"><surname>Bennati</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>H&#x000f6;bartner</surname><given-names>C.</given-names></name></person-group>
+<article-title>Probing secondary structures of spin-labeled RNA by pulsed EPR spectroscopy</article-title>. <source>Angew. Chem. Int. Ed.</source><year>2010</year>; <volume>49</volume>:<fpage>6443</fpage>&#x02013;<lpage>6447</lpage>.</mixed-citation></ref><ref id="B16"><label>16.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Shevelev</surname><given-names>G.Y.</given-names></name>, <name name-style="western"><surname>Krumkacheva</surname><given-names>O.A.</given-names></name>, <name name-style="western"><surname>Lomzov</surname><given-names>A.A.</given-names></name>, <name name-style="western"><surname>Kuzhelev</surname><given-names>A.A.</given-names></name>, <name name-style="western"><surname>Trukhin</surname><given-names>D.V.</given-names></name>, <name name-style="western"><surname>Rogozhnikova</surname><given-names>O.Y.</given-names></name>, <name name-style="western"><surname>Tormyshev</surname><given-names>V.M.</given-names></name>, <name name-style="western"><surname>Pyshnyi</surname><given-names>D.V.</given-names></name>, <name name-style="western"><surname>Fedin</surname><given-names>M.V.</given-names></name>, <name name-style="western"><surname>Bagryanskaya</surname><given-names>E.G.</given-names></name></person-group>
+<article-title>Triarylmethyl labels: toward improving the accuracy of EPR nanoscale distance measurements in DNAs</article-title>. <source>J. Phys. Chem. B</source>. <year>2015</year>; <volume>119</volume>:<fpage>13641</fpage>&#x02013;<lpage>13648</lpage>.<pub-id pub-id-type="pmid">26011022</pub-id></mixed-citation></ref><ref id="B17"><label>17.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Haugland</surname><given-names>M.M.</given-names></name>, <name name-style="western"><surname>Anderson</surname><given-names>E.A.</given-names></name>, <name name-style="western"><surname>Lovett</surname><given-names>J.E.</given-names></name></person-group>
+<article-title>Tuning the properties of nitroxide spin labels for use in electron paramagnetic resonance spectroscopy through chemical modification of the nitroxide framework</article-title>. <source>Electron Paramagn. Reson.</source><year>2017</year>; <volume>25</volume>:<fpage>1</fpage>&#x02013;<lpage>34</lpage>.</mixed-citation></ref><ref id="B18"><label>18.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kerzhner</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Abdullin</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>Wicek</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Matsuoka</surname><given-names>H.</given-names></name>, <name name-style="western"><surname>Hagelueken</surname><given-names>G.</given-names></name>, <name name-style="western"><surname>Schiemann</surname><given-names>O.</given-names></name>, <name name-style="western"><surname>Famulok</surname><given-names>M.</given-names></name></person-group>
+<article-title>Post-synthetic spin-labeling of RNA through click chemistry for PELDOR measurements</article-title>. <source>Chem. - A Eur. J.</source><year>2016</year>; <volume>22</volume>:<fpage>12113</fpage>&#x02013;<lpage>12121</lpage>.</mixed-citation></ref><ref id="B19"><label>19.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gophane</surname><given-names>D.B.</given-names></name>, <name name-style="western"><surname>Endeward</surname><given-names>B.</given-names></name>, <name name-style="western"><surname>Prisner</surname><given-names>T.F.</given-names></name>, <name name-style="western"><surname>Sigurdsson</surname><given-names>S.T.</given-names></name></person-group>
+<article-title>A semi-rigid isoindoline-derived nitroxide spin label for RNA</article-title>. <source>Org. Biomol. Chem.</source><year>2018</year>; <volume>16</volume>:<fpage>816</fpage>&#x02013;<lpage>824</lpage>.<pub-id pub-id-type="pmid">29326999</pub-id></mixed-citation></ref><ref id="B20"><label>20.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hong</surname><given-names>S.</given-names></name>, <name name-style="western"><surname>Piette</surname><given-names>L.H.</given-names></name></person-group>
+<article-title>Electron spin resonance spin-label studies of intercalation of ethidium bromide and aromatic amine carcinogens in DNA</article-title>. <source>Cancer Res.</source><year>1976</year>; <volume>36</volume>:<fpage>1159</fpage>&#x02013;<lpage>1171</lpage>.<pub-id pub-id-type="pmid">1253173</pub-id></mixed-citation></ref><ref id="B21"><label>21.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Belmont</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Chapelle</surname><given-names>C.</given-names></name>, <name name-style="western"><surname>Demeunynck</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Michon</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Michon</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Lhomme</surname><given-names>J.</given-names></name></person-group>
+<article-title>Introduction of a nitroxide group on position 2 of 9-phenoxyacridine: Easy access to spin labelled DNA-binding conjugates</article-title>. <source>Bioorg. Med. Chem. Lett.</source><year>1998</year>; <volume>8</volume>:<fpage>669</fpage>&#x02013;<lpage>674</lpage>.<pub-id pub-id-type="pmid">9871580</pub-id></mixed-citation></ref><ref id="B22"><label>22.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Shelke</surname><given-names>S.A.</given-names></name>, <name name-style="western"><surname>Sigurdsson</surname><given-names>S.T.</given-names></name></person-group>
+<article-title>Site-directed spin labelling of nucleic acids</article-title>. <source>Eur. J. Org. Chem.</source><year>2012</year>; <volume>2012</volume>:<fpage>2291</fpage>&#x02013;<lpage>2301</lpage>.</mixed-citation></ref><ref id="B23"><label>23.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Shelke</surname><given-names>S.A.</given-names></name>, <name name-style="western"><surname>Sigurdsson</surname><given-names>S. Th.</given-names></name></person-group>
+<article-title>Structural changes of an abasic site in duplex DNA affect noncovalent binding of the spin label &#x000e7;</article-title>. <source>Nucleic Acids Res.</source><year>2011</year>; <volume>40</volume>:<fpage>3732</fpage>&#x02013;<lpage>3740</lpage>.<pub-id pub-id-type="pmid">22210856</pub-id></mixed-citation></ref><ref id="B24"><label>24.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kamble</surname><given-names>N.R.</given-names></name>, <name name-style="western"><surname>Gr&#x000e4;nz</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Prisner</surname><given-names>T.F.</given-names></name>, <name name-style="western"><surname>Sigurdsson</surname><given-names>S.T.</given-names></name></person-group>
+<article-title>Noncovalent and site-directed spin labeling of duplex RNA</article-title>. <source>Chem. Commun.</source><year>2016</year>; <volume>52</volume>:<fpage>14442</fpage>&#x02013;<lpage>14445</lpage>.</mixed-citation></ref><ref id="B25"><label>25.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Dans</surname><given-names>P.D.</given-names></name>, <name name-style="western"><surname>Ivani</surname><given-names>I.</given-names></name>, <name name-style="western"><surname>Hospital</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Portella</surname><given-names>G.</given-names></name>, <name name-style="western"><surname>Gonz&#x000e1;lez</surname><given-names>C.</given-names></name>, <name name-style="western"><surname>Orozco</surname><given-names>M.</given-names></name></person-group>
+<article-title>How accurate are accurate force-fields for B-DNA?</article-title>. <source>Nucleic Acids Res.</source><year>2017</year>; <volume>45</volume>:<fpage>4217</fpage>&#x02013;<lpage>4230</lpage>.<pub-id pub-id-type="pmid">28088759</pub-id></mixed-citation></ref><ref id="B26"><label>26.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Seyfried</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Heinz</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Pint&#x000e9;r</surname><given-names>G.</given-names></name>, <name name-style="western"><surname>Kl&#x000f6;tzner</surname><given-names>D.-P.</given-names></name>, <name name-style="western"><surname>Becker</surname><given-names>Y.</given-names></name>, <name name-style="western"><surname>Bolte</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Jonker</surname><given-names>H.R.A.</given-names></name>, <name name-style="western"><surname>Stelzl</surname><given-names>L.S.</given-names></name>, <name name-style="western"><surname>Hummer</surname><given-names>G.</given-names></name>, <name name-style="western"><surname>Schwalbe</surname><given-names>H.</given-names></name><etal>et al</etal>.</person-group>
+<article-title>Optimal destabilization of DNA double strands by single-nucleobase caging</article-title>. <source>Chem. Eur. J.</source><year>2018</year>; <volume>24</volume>:<fpage>17568</fpage>&#x02013;<lpage>17576</lpage>.<pub-id pub-id-type="pmid">30199112</pub-id></mixed-citation></ref><ref id="B27"><label>27.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Grotz</surname><given-names>K.K.</given-names></name>, <name name-style="western"><surname>Nueesch</surname><given-names>M.F.</given-names></name>, <name name-style="western"><surname>Holmstrom</surname><given-names>E.D.</given-names></name>, <name name-style="western"><surname>Heinz</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Stelzl</surname><given-names>L.S.</given-names></name>, <name name-style="western"><surname>Schuler</surname><given-names>B.</given-names></name>, <name name-style="western"><surname>Hummer</surname><given-names>G.</given-names></name></person-group>
+<article-title>Dispersion correction alleviates dye stacking of single-stranded DNA and RNA in simulations of single-molecule fluorescence experiments</article-title>. <source>J. Phys. Chem. B</source>. <year>2018</year>; <volume>122</volume>:<fpage>11626</fpage>&#x02013;<lpage>11639</lpage>.<pub-id pub-id-type="pmid">30285443</pub-id></mixed-citation></ref><ref id="B28"><label>28.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ml&#x000fd;nsk&#x000fd;</surname><given-names>V.</given-names></name>, <name name-style="western"><surname>Ban&#x000e1;&#x00161;</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Hollas</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>R&#x000e9;blov&#x000e1;</surname><given-names>K.</given-names></name>, <name name-style="western"><surname>Walter</surname><given-names>N.G.</given-names></name>, <name name-style="western"><surname>&#x00160;poner</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Otyepka</surname><given-names>M.</given-names></name></person-group>
+<article-title>Extensive molecular dynamics simulations showing that canonical G8 and protonated A38H+ forms are most consistent with crystal structures of hairpin ribozyme</article-title>. <source>J. Phys. Chem. B</source>. <year>2010</year>; <volume>114</volume>:<fpage>6642</fpage>&#x02013;<lpage>6652</lpage>.<pub-id pub-id-type="pmid">20420375</pub-id></mixed-citation></ref><ref id="B29"><label>29.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Be&#x00161;&#x00161;eov&#x000e1;</surname><given-names>I.</given-names></name>, <name name-style="western"><surname>Ban&#x000e1;&#x00161;</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>K&#x000fc;hrov&#x000e1;</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Ko&#x00161;inov&#x000e1;</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Otyepka</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>&#x00160;poner</surname><given-names>J.</given-names></name></person-group>
+<article-title>Simulations of a-RNA duplexes. The effect of sequence, solute force field, water model, and salt concentration</article-title>. <source>J. Phys. Chem. B</source>. <year>2012</year>; <volume>116</volume>:<fpage>9899</fpage>&#x02013;<lpage>9916</lpage>.<pub-id pub-id-type="pmid">22809319</pub-id></mixed-citation></ref><ref id="B30"><label>30.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Liebl</surname><given-names>K.</given-names></name>, <name name-style="western"><surname>Drsata</surname><given-names>T.</given-names></name>, <name name-style="western"><surname>Lankas</surname><given-names>F.</given-names></name>, <name name-style="western"><surname>Lipfert</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Zacharias</surname><given-names>M.</given-names></name></person-group>
+<article-title>Explaining the striking difference in twist-stretch coupling between DNA and RNA: a comparative molecular dynamics analysis</article-title>. <source>Nucleic Acids Res.</source><year>2015</year>; <volume>43</volume>:<fpage>10143</fpage>&#x02013;<lpage>10156</lpage>.<pub-id pub-id-type="pmid">26464435</pub-id></mixed-citation></ref><ref id="B31"><label>31.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>&#x00160;poner</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Bussi</surname><given-names>G.</given-names></name>, <name name-style="western"><surname>Krepl</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Ban&#x000e1;&#x00161;</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Bottaro</surname><given-names>S.</given-names></name>, <name name-style="western"><surname>Cunha</surname><given-names>R.A.</given-names></name>, <name name-style="western"><surname>Gil-Ley</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Pinamonti</surname><given-names>G.</given-names></name>, <name name-style="western"><surname>Poblete</surname><given-names>S.</given-names></name>, <name name-style="western"><surname>Jure&#x0010d;ka</surname><given-names>P.</given-names></name><etal>et al</etal>.</person-group>
+<article-title>RNA structural dynamics as captured by molecular simulations: a comprehensive overview</article-title>. <source>Chem. Rev.</source><year>2018</year>; <volume>118</volume>:<fpage>4177</fpage>&#x02013;<lpage>4338</lpage>.<pub-id pub-id-type="pmid">29297679</pub-id></mixed-citation></ref><ref id="B32"><label>32.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Halbmair</surname><given-names>K.</given-names></name>, <name name-style="western"><surname>Seikowski</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Tkach</surname><given-names>I.</given-names></name>, <name name-style="western"><surname>H&#x000f6;bartner</surname><given-names>C.</given-names></name>, <name name-style="western"><surname>Sezer</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>Bennati</surname><given-names>M.</given-names></name></person-group>
+<article-title>High-resolution measurement of long-range distances in RNA: pulse EPR spectroscopy with TEMPO-labeled nucleotides</article-title>. <source>Chem. Sci.</source><year>2016</year>; <volume>7</volume>:<fpage>3172</fpage>&#x02013;<lpage>3180</lpage>.<pub-id pub-id-type="pmid">29997809</pub-id></mixed-citation></ref><ref id="B33"><label>33.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Marko</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Margraf</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>Cekan</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Sigurdsson</surname><given-names>S.T.</given-names></name>, <name name-style="western"><surname>Schiemann</surname><given-names>O.</given-names></name>, <name name-style="western"><surname>Prisner</surname><given-names>T.F.</given-names></name></person-group>
+<article-title>Analytical method to determine the orientation of rigid spin labels in DNA</article-title>. <source>Phys. Rev. E</source>. <year>2010</year>; <volume>81</volume>:<fpage>021911</fpage>.</mixed-citation></ref><ref id="B34"><label>34.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Denysenkov</surname><given-names>V.P.</given-names></name>, <name name-style="western"><surname>Prisner</surname><given-names>T.F.</given-names></name>, <name name-style="western"><surname>Stubbe</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Bennati</surname><given-names>M.</given-names></name></person-group>
+<article-title>High-frequency 180 GHz PELDOR</article-title>. <source>Appl. Magn. Reson.</source><year>2005</year>; <volume>29</volume>:<fpage>375</fpage>&#x02013;<lpage>384</lpage>.</mixed-citation></ref><ref id="B35"><label>35.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Jeschke</surname><given-names>G.</given-names></name>, <name name-style="western"><surname>Chechik</surname><given-names>V.</given-names></name>, <name name-style="western"><surname>Ionita</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Godt</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Zimmermann</surname><given-names>H.</given-names></name>, <name name-style="western"><surname>Banham</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Timmel</surname><given-names>C.R.</given-names></name>, <name name-style="western"><surname>Hilger</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>Jung</surname><given-names>H.</given-names></name></person-group>
+<article-title>DeerAnalysis2006-a comprehensive software package for analyzing pulsed ELDOR data</article-title>. <source>Appl. Magn. Reson.</source><year>2006</year>; <volume>30</volume>:<fpage>473</fpage>&#x02013;<lpage>498</lpage>.</mixed-citation></ref><ref id="B36"><label>36.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Frisch</surname><given-names>M.J.</given-names></name>, <name name-style="western"><surname>Trucks</surname><given-names>G.W.</given-names></name>, <name name-style="western"><surname>Schlegel</surname><given-names>H.B.</given-names></name>, <name name-style="western"><surname>Scuseria</surname><given-names>G.E.</given-names></name>, <name name-style="western"><surname>Robb</surname><given-names>M.A.</given-names></name>, <name name-style="western"><surname>Cheeseman</surname><given-names>J.R.</given-names></name>, <name name-style="western"><surname>Scalmani</surname><given-names>G.</given-names></name>, <name name-style="western"><surname>Barone</surname><given-names>V.</given-names></name>, <name name-style="western"><surname>Mennucci</surname><given-names>B.</given-names></name>, <name name-style="western"><surname>Petersson</surname><given-names>G.A.</given-names></name><etal>et al</etal>.</person-group>
+<source>Gaussian 09 , Revision D.01.</source>
+<year>2009</year>; <publisher-loc>Wallingford, CT.</publisher-loc><publisher-name>Gaussian, Inc</publisher-name>.</mixed-citation></ref><ref id="B37"><label>37.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Adamo</surname><given-names>C.</given-names></name>, <name name-style="western"><surname>Barone</surname><given-names>V.</given-names></name></person-group>
+<article-title>Toward reliable density functional methods without adjustable parameters: the PBE0 model</article-title>. <source>J. Chem. Phys.</source><year>1999</year>; <volume>110</volume>:<fpage>6158</fpage>&#x02013;<lpage>6170</lpage>.</mixed-citation></ref><ref id="B38"><label>38.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Barone</surname><given-names>V.</given-names></name>, <name name-style="western"><surname>Cimino</surname><given-names>P.</given-names></name></person-group>
+<article-title>Validation of the B3LYP/N07D and PBE0/N07D computational models for the calculation of electronic g-tensors</article-title>. <source>J. Chem. Theory Comput.</source><year>2009</year>; <volume>5</volume>:<fpage>192</fpage>&#x02013;<lpage>199</lpage>.<pub-id pub-id-type="pmid">26609832</pub-id></mixed-citation></ref><ref id="B39"><label>39.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Grimme</surname><given-names>S.</given-names></name>, <name name-style="western"><surname>Ehrlich</surname><given-names>S.</given-names></name>, <name name-style="western"><surname>Goerigk</surname><given-names>L.</given-names></name></person-group>
+<article-title>Effect of the damping function in dispersion corrected density functional theory</article-title>. <source>J. Comput. Chem.</source><year>2011</year>; <volume>32</volume>:<fpage>1456</fpage>&#x02013;<lpage>1465</lpage>.<pub-id pub-id-type="pmid">21370243</pub-id></mixed-citation></ref><ref id="B40"><label>40.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Dunning</surname><given-names>T.H.</given-names></name></person-group>
+<article-title>Gaussian basis sets for use in correlated molecular calculations. I. The atoms boron through neon and hydrogen</article-title>. <source>J. Chem. Phys.</source><year>1989</year>; <volume>90</volume>:<fpage>1007</fpage>&#x02013;<lpage>1023</lpage>.</mixed-citation></ref><ref id="B41"><label>41.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Becke</surname><given-names>A.D.</given-names></name></person-group>
+<article-title>Density functional thermochemistry. III. The role of exact exchange</article-title>. <source>J. Chem. Phys.</source><year>1993</year>; <volume>98</volume>:<fpage>5648</fpage>&#x02013;<lpage>5652</lpage>.</mixed-citation></ref><ref id="B42"><label>42.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Case</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>Betz</surname><given-names>R.</given-names></name>, <name name-style="western"><surname>Cerutti</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>Cheatham</surname><given-names>T.E.</given-names></name>, <name name-style="western"><surname>Darden</surname><given-names>T.</given-names></name>, <name name-style="western"><surname>Duke</surname><given-names>R.</given-names></name>, <name name-style="western"><surname>Giese</surname><given-names>T.</given-names></name>, <name name-style="western"><surname>Gohlke</surname><given-names>H.</given-names></name>, <name name-style="western"><surname>Goetz</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Homeyer</surname><given-names>N.</given-names></name><etal>et al</etal>.</person-group>
+<source>Amber 16</source>. <year>2016</year>; <publisher-loc>San Francisco</publisher-loc><publisher-name>University of California</publisher-name>.</mixed-citation></ref><ref id="B43"><label>43.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Macke</surname><given-names>T.</given-names></name>, <name name-style="western"><surname>Case</surname><given-names>D.</given-names></name></person-group>
+<person-group person-group-type="editor"><name name-style="western"><surname>Leontes</surname><given-names>NB</given-names></name>, <name name-style="western"><surname>SantaLucia</surname><given-names>J Jr.</given-names></name></person-group>
+<article-title>Modeling unusual nucleic acid structures</article-title>. <source>Molecular Modeling of Nucleic Acids</source>. <year>1998</year>; <publisher-loc>Washington, DC</publisher-loc><publisher-name>American Chemical Society</publisher-name><fpage>379</fpage>&#x02013;<lpage>393</lpage>.</mixed-citation></ref><ref id="B44"><label>44.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bayly</surname><given-names>C.I.</given-names></name>, <name name-style="western"><surname>Cieplak</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Cornell</surname><given-names>W.</given-names></name>, <name name-style="western"><surname>Kollman</surname><given-names>P.A.</given-names></name></person-group>
+<article-title>A well-behaved electrostatic potential based method using charge restraints for deriving atomic charges: the RESP model</article-title>. <source>J. Phys. Chem.</source><year>1993</year>; <volume>97</volume>:<fpage>10269</fpage>&#x02013;<lpage>10280</lpage>.</mixed-citation></ref><ref id="B45"><label>45.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Dupradeau</surname><given-names>F.-Y.</given-names></name>, <name name-style="western"><surname>Pigache</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Zaffran</surname><given-names>T.</given-names></name>, <name name-style="western"><surname>Savineau</surname><given-names>C.</given-names></name>, <name name-style="western"><surname>Lelong</surname><given-names>R.</given-names></name>, <name name-style="western"><surname>Grivel</surname><given-names>N.</given-names></name>, <name name-style="western"><surname>Lelong</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>Rosanski</surname><given-names>W.</given-names></name>, <name name-style="western"><surname>Cieplak</surname><given-names>P.</given-names></name></person-group>
+<article-title>The R.E.D. tools: advances in RESP and ESP charge derivation and force field library building</article-title>. <source>Phys. Chem. Chem. Phys.</source><year>2010</year>; <volume>12</volume>:<fpage>7821</fpage>&#x02013;<lpage>7839</lpage>.<pub-id pub-id-type="pmid">20574571</pub-id></mixed-citation></ref><ref id="B46"><label>46.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ivani</surname><given-names>I.</given-names></name>, <name name-style="western"><surname>Dans</surname><given-names>P.D.</given-names></name>, <name name-style="western"><surname>Noy</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>P&#x000e9;rez</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Faustino</surname><given-names>I.</given-names></name>, <name name-style="western"><surname>Hospital</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Walther</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Andrio</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Go&#x000f1;i</surname><given-names>R.</given-names></name>, <name name-style="western"><surname>Balaceanu</surname><given-names>A.</given-names></name><etal>et al</etal>.</person-group>
+<article-title>Parmbsc1: a refined force field for DNA simulations</article-title>. <source>Nat. Methods</source>. <year>2016</year>; <volume>13</volume>:<fpage>55</fpage>&#x02013;<lpage>58</lpage>.<pub-id pub-id-type="pmid">26569599</pub-id></mixed-citation></ref><ref id="B47"><label>47.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>P&#x000e9;rez</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>March&#x000e1;n</surname><given-names>I.</given-names></name>, <name name-style="western"><surname>Svozil</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>Sponer</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Cheatham</surname><given-names>T.E.</given-names></name>, <name name-style="western"><surname>Laughton</surname><given-names>C.A.</given-names></name>, <name name-style="western"><surname>Orozco</surname><given-names>M.</given-names></name></person-group>
+<article-title>Refinement of the AMBER force field for nucleic acids: improving the description of &#x003b1;/&#x003b3; conformers</article-title>. <source>Biophys. J.</source><year>2007</year>; <volume>92</volume>:<fpage>3817</fpage>&#x02013;<lpage>3829</lpage>.<pub-id pub-id-type="pmid">17351000</pub-id></mixed-citation></ref><ref id="B48"><label>48.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ban&#x000e1;&#x00161;</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Hollas</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>Zgarbov&#x000e1;</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Jure&#x0010d;ka</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Orozco</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Cheatham</surname><given-names>T.E.</given-names></name>, <name name-style="western"><surname>&#x00160;poner</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Otyepka</surname><given-names>M.</given-names></name></person-group>
+<article-title>Performance of molecular mechanics force fields for RNA simulations: stability of UUCG and GNRA hairpins</article-title>. <source>J. Chem. Theory Comput.</source><year>2010</year>; <volume>6</volume>:<fpage>3836</fpage>&#x02013;<lpage>3849</lpage>.</mixed-citation></ref><ref id="B49"><label>49.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zgarbov&#x000e1;</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Otyepka</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>&#x00160;poner</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Ml&#x000e1;dek</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Ban&#x000e1;&#x00161;</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Cheatham</surname><given-names>T.E.</given-names></name>, <name name-style="western"><surname>Jure&#x0010d;ka</surname><given-names>P.</given-names></name></person-group>
+<article-title>Refinement of the Cornell et al. nucleic acids force field based on reference quantum chemical calculations of glycosidic torsion profiles</article-title>. <source>J. Chem. Theory Comput.</source><year>2011</year>; <volume>7</volume>:<fpage>2886</fpage>&#x02013;<lpage>2902</lpage>.<pub-id pub-id-type="pmid">21921995</pub-id></mixed-citation></ref><ref id="B50"><label>50.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Wolf</surname><given-names>R.M.</given-names></name>, <name name-style="western"><surname>Caldwell</surname><given-names>J.W.</given-names></name>, <name name-style="western"><surname>Kollman</surname><given-names>P.A.</given-names></name>, <name name-style="western"><surname>Case</surname><given-names>D.A.</given-names></name></person-group>
+<article-title>Development and testing of a general amber force field</article-title>. <source>J. Comput. Chem.</source><year>2004</year>; <volume>25</volume>:<fpage>1157</fpage>&#x02013;<lpage>1174</lpage>.<pub-id pub-id-type="pmid">15116359</pub-id></mixed-citation></ref><ref id="B51"><label>51.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Sousa&#x000a0;da&#x000a0;Silva</surname><given-names>A.W.</given-names></name>, <name name-style="western"><surname>Vranken</surname><given-names>W.F.</given-names></name></person-group>
+<article-title>ACPYPE - anteChamber PYthon parser interfacE</article-title>. <source>BMC Res. Notes</source>. <year>2012</year>; <volume>5</volume>:<fpage>367</fpage>.<pub-id pub-id-type="pmid">22824207</pub-id></mixed-citation></ref><ref id="B52"><label>52.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>V&#x000f6;gele</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>K&#x000f6;finger</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Hummer</surname><given-names>G.</given-names></name></person-group>
+<article-title>Molecular dynamics simulations of carbon nanotube porins in lipid bilayers</article-title>. <source>Faraday Discuss.</source><year>2018</year>; <volume>209</volume>:<fpage>341</fpage>&#x02013;<lpage>358</lpage>.<pub-id pub-id-type="pmid">29974904</pub-id></mixed-citation></ref><ref id="B53"><label>53.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Case</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>Babin</surname><given-names>V.</given-names></name>, <name name-style="western"><surname>Berryman</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Betz</surname><given-names>R.</given-names></name>, <name name-style="western"><surname>Cai</surname><given-names>Q.</given-names></name>, <name name-style="western"><surname>Cerutti</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>Cheatham</surname><given-names>T.E.</given-names></name>, <name name-style="western"><surname>Darden</surname><given-names>T.</given-names></name>, <name name-style="western"><surname>Duke</surname><given-names>R.</given-names></name>, <name name-style="western"><surname>Gohlke</surname><given-names>H.</given-names></name><etal>et al</etal>.</person-group>
+<source>Amber 14</source>. <year>2014</year>; <publisher-loc>San Francisco</publisher-loc><publisher-name>University of California</publisher-name>.</mixed-citation></ref><ref id="B54"><label>54.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Jorgensen</surname><given-names>W.L.</given-names></name>, <name name-style="western"><surname>Chandrasekhar</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Madura</surname><given-names>J.D.</given-names></name>, <name name-style="western"><surname>Impey</surname><given-names>R.W.</given-names></name>, <name name-style="western"><surname>Klein</surname><given-names>M.L.</given-names></name></person-group>
+<article-title>Comparison of simple potential functions for simulating liquid water</article-title>. <source>J. Chem. Phys.</source><year>1983</year>; <volume>79</volume>:<fpage>926</fpage>&#x02013;<lpage>935</lpage>.</mixed-citation></ref><ref id="B55"><label>55.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Joung</surname><given-names>I.S.</given-names></name>, <name name-style="western"><surname>Cheatham</surname><given-names>T.E.</given-names></name></person-group>
+<article-title>Determination of alkali and halide monovalent ion parameters for use in explicitly solvated biomolecular simulations</article-title>. <source>J. Phys. Chem. B</source>. <year>2008</year>; <volume>112</volume>:<fpage>9020</fpage>&#x02013;<lpage>9041</lpage>.<pub-id pub-id-type="pmid">18593145</pub-id></mixed-citation></ref><ref id="B56"><label>56.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Sindhikara</surname><given-names>D.J.</given-names></name>, <name name-style="western"><surname>Kim</surname><given-names>S.</given-names></name>, <name name-style="western"><surname>Voter</surname><given-names>A.F.</given-names></name>, <name name-style="western"><surname>Roitberg</surname><given-names>A.E.</given-names></name></person-group>
+<article-title>Bad seeds sprout perilous dynamics: stochastic thermostat induced trajectory synchronization in biomolecules</article-title>. <source>J. Chem. Theory Comput.</source><year>2009</year>; <volume>5</volume>:<fpage>1624</fpage>&#x02013;<lpage>1631</lpage>.<pub-id pub-id-type="pmid">26609854</pub-id></mixed-citation></ref><ref id="B57"><label>57.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ryckaert</surname><given-names>J.-P.</given-names></name>, <name name-style="western"><surname>Ciccotti</surname><given-names>G.</given-names></name>, <name name-style="western"><surname>Berendsen</surname><given-names>H.J.</given-names></name></person-group>
+<article-title>Numerical integration of the cartesian equations of motion of a system with constraints: molecular dynamics of n-alkanes</article-title>. <source>J. Comput. Phys.</source><year>1977</year>; <volume>23</volume>:<fpage>327</fpage>&#x02013;<lpage>341</lpage>.</mixed-citation></ref><ref id="B58"><label>58.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Berendsen</surname><given-names>H.J.C.</given-names></name>, <name name-style="western"><surname>Postma</surname><given-names>J.P.M.</given-names></name>, <name name-style="western"><surname>van&#x000a0;Gunsteren</surname><given-names>W.F.</given-names></name>, <name name-style="western"><surname>DiNola</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Haak</surname><given-names>J.R.</given-names></name></person-group>
+<article-title>Molecular dynamics with coupling to an external bath</article-title>. <source>J. Chem. Phys.</source><year>1984</year>; <volume>81</volume>:<fpage>3684</fpage>&#x02013;<lpage>3690</lpage>.</mixed-citation></ref><ref id="B59"><label>59.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Marko</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Margraf</surname><given-names>D.</given-names></name>, <name name-style="western"><surname>Yu</surname><given-names>H.</given-names></name>, <name name-style="western"><surname>Mu</surname><given-names>Y.</given-names></name>, <name name-style="western"><surname>Stock</surname><given-names>G.</given-names></name>, <name name-style="western"><surname>Prisner</surname><given-names>T.</given-names></name></person-group>
+<article-title>Molecular orientation studies by pulsed electron-electron double resonance experiments</article-title>. <source>J. Chem. Phys.</source><year>2009</year>; <volume>130</volume>:<fpage>064102</fpage>.<pub-id pub-id-type="pmid">19222262</pub-id></mixed-citation></ref><ref id="B60"><label>60.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lu</surname><given-names>X.</given-names></name>, <name name-style="western"><surname>Olson</surname><given-names>W.K.</given-names></name></person-group>
+<article-title>3DNA: a software package for the analysis, rebuilding and visualization of three-dimensional nucleic acid structures</article-title>. <source>Nucleic Acids Res.</source><year>2003</year>; <volume>31</volume>:<fpage>5108</fpage>&#x02013;<lpage>5121</lpage>.<pub-id pub-id-type="pmid">12930962</pub-id></mixed-citation></ref><ref id="B61"><label>61.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kumar</surname><given-names>R.</given-names></name>, <name name-style="western"><surname>Grubm&#x000fc;ller</surname><given-names>H.</given-names></name></person-group>
+<article-title>dox3dna: a tool to analyze structural fluctuations of dsDNA or dsRNA from molecular dynamics simulations</article-title>. <source>Bioinformatics</source>. <year>2015</year>; <volume>31</volume>:<fpage>2583</fpage>&#x02013;<lpage>2585</lpage>.<pub-id pub-id-type="pmid">25838463</pub-id></mixed-citation></ref><ref id="B62"><label>62.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Humphrey</surname><given-names>W.</given-names></name>, <name name-style="western"><surname>Dalke</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Schulten</surname><given-names>K.</given-names></name></person-group>
+<article-title>VMD &#x02013; visual molecular dynamics</article-title>. <source>J. Mol. Graphics</source>. <year>1996</year>; <volume>14</volume>:<fpage>33</fpage>&#x02013;<lpage>38</lpage>.</mixed-citation></ref><ref id="B63"><label>63.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Prisner</surname><given-names>T.F.</given-names></name>, <name name-style="western"><surname>Marko</surname><given-names>A.</given-names></name>, <name name-style="western"><surname>Sigurdsson</surname><given-names>S.T.</given-names></name></person-group>
+<article-title>Conformational dynamics of nucleic acid molecules studied by PELDOR spectroscopy with rigid spin labels</article-title>. <source>J. Magn. Reson.</source><year>2015</year>; <volume>252</volume>:<fpage>187</fpage>&#x02013;<lpage>198</lpage>.<pub-id pub-id-type="pmid">25701439</pub-id></mixed-citation></ref><ref id="B64"><label>64.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Krepl</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Zgarbov&#x000e1;</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Stadlbauer</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Otyepka</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Ban&#x000e1;&#x00161;</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>Ko&#x0010d;a</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Cheatham</surname><given-names>T.E.</given-names></name>, <name name-style="western"><surname>Jure&#x0010d;ka</surname><given-names>P.</given-names></name>, <name name-style="western"><surname>&#x00160;poner</surname><given-names>J.</given-names></name></person-group>
+<article-title>Reference simulations of noncanonical nucleic acids with different &#x003c7; variants of the AMBER force field: quadruplex DNA, quadruplex RNA, and Z-DNA</article-title>. <source>J. Chem. Theory Comput.</source><year>2012</year>; <volume>8</volume>:<fpage>2506</fpage>&#x02013;<lpage>2520</lpage>.<pub-id pub-id-type="pmid">23197943</pub-id></mixed-citation></ref><ref id="B65"><label>65.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zgarbov&#x000e1;</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Luque</surname><given-names>F.J.</given-names></name>, <name name-style="western"><surname>&#x00160;poner</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Cheatham</surname><given-names>T.E.</given-names></name>, <name name-style="western"><surname>Otyepka</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Jure&#x0010d;ka</surname><given-names>P.</given-names></name></person-group>
+<article-title>Toward improved description of DNA backbone: revisiting epsilon and zeta torsion force field parameters</article-title>. <source>J. Chem. Theory Comput.</source><year>2013</year>; <volume>9</volume>:<fpage>2339</fpage>&#x02013;<lpage>2354</lpage>.<pub-id pub-id-type="pmid">24058302</pub-id></mixed-citation></ref><ref id="B66"><label>66.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zgarbov&#x000e1;</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>&#x00160;poner</surname><given-names>J.</given-names></name>, <name name-style="western"><surname>Otyepka</surname><given-names>M.</given-names></name>, <name name-style="western"><surname>Cheatham</surname><given-names>T.E.</given-names></name>, <name name-style="western"><surname>Galindo-Murillo</surname><given-names>R.</given-names></name>, <name name-style="western"><surname>Jure&#x0010d;ka</surname><given-names>P.</given-names></name></person-group>
+<article-title>Refinement of the sugar-phosphate backbone torsion beta for AMBER force fields improves the description of Z- and B-DNA</article-title>. <source>J. Chem. Theory Comput.</source><year>2015</year>; <volume>11</volume>:<fpage>5723</fpage>&#x02013;<lpage>5736</lpage>.<pub-id pub-id-type="pmid">26588601</pub-id></mixed-citation></ref></ref-list></back></article>

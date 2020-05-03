@@ -1,0 +1,765 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938491</article-id><article-id pub-id-type="pmc">6953684</article-id><article-id pub-id-type="doi">10.1002/ece3.5827</article-id><article-id pub-id-type="publisher-id">ECE35827</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Variation in community structure of gall&#x02010;inducing insects associated with a tropical plant supports the hypothesis of competition in stressful habitats</article-title><alt-title alt-title-type="left-running-head">RAMOS et al.</alt-title></title-group><contrib-group><contrib id="ece35827-cr-0001" contrib-type="author"><name><surname>Ramos</surname><given-names>Let&#x000ed;cia F.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7065-3213</contrib-id><xref ref-type="aff" rid="ece35827-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35827-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35827-cr-0002" contrib-type="author" corresp="yes"><name><surname>Solar</surname><given-names>Ricardo R. C.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5627-4017</contrib-id><xref ref-type="aff" rid="ece35827-aff-0003">
+<sup>3</sup>
+</xref><address><email>rrsolar@gmail.com</email></address></contrib><contrib id="ece35827-cr-0003" contrib-type="author"><name><surname>Santos</surname><given-names>Henrique T.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0622-6444</contrib-id><xref ref-type="aff" rid="ece35827-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35827-cr-0004" contrib-type="author"><name><surname>Fagundes</surname><given-names>Marcilio</given-names></name><xref ref-type="aff" rid="ece35827-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="ece35827-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Programa de P&#x000f3;s Gradua&#x000e7;&#x000e3;o em Ecologia</named-content>
+<institution>Manejo e Conserva&#x000e7;&#x000e3;o da Vida Silvestre</institution>
+<institution>Universidade Federal de Minas Gerais</institution>
+<city>Belo Horizonte</city>
+<country country="BR">Brazil</country>
+</aff><aff id="ece35827-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Programa de P&#x000f3;s Gradua&#x000e7;&#x000e3;o em Biodiversidade e Uso dos Recursos Naturais</named-content>
+<institution>Universidade Estadual de Montes Claros</institution>
+<city>Montes Claros</city>
+<country country="BR">Brazil</country>
+</aff><aff id="ece35827-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Departamento de Gen&#x000e9;tica, Ecologia e Evolu&#x000e7;&#x000e3;o</named-content>
+<named-content content-type="organisation-division">Instituto de Ci&#x000ea;ncias Biol&#x000f3;gicas</named-content>
+<institution>Universidade Federal de Minas Gerais</institution>
+<city>Belo Horizonte</city>
+<country country="BR">Brazil</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Ricardo R. C. Solar, Departamento de Gen&#x000e9;tica, Ecologia e Evolu&#x000e7;&#x000e3;o, Instituto de Ci&#x000ea;ncias Biol&#x000f3;gicas, Universidade Federal de Minas Gerais, Avenida Ant&#x000f4;nio Carlos, Campus Pampulha, Belo Horizonte, Minas Gerais, Brazil, CEP 30161&#x02010;970.<break/>
+Email: <email>rrsolar@gmail.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>13919</fpage><lpage>13930</lpage><history><date date-type="received"><day>02</day><month>4</month><year>2019</year></date><date date-type="rev-recd"><day>08</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>23</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-13919.pdf"/><abstract id="ece35827-abs-0001"><title>Abstract</title><p>Environmental factors act as drivers of species coexistence or competition. Mesic environments favor the action of parasites and predators on gall communities, while the factors that determine the structure of gall communities in xeric environments remain unknown. We evaluated the structure of gall communities along an environmental gradient defined by intrinsic plant characteristics, soil fertility, and aridity, and investigated the role of competition as a structuring force of gall communities in xeric environments. We created null models to compare observed and simulated patterns of co&#x02010;occurrence of galls and used the C&#x02010;score index to assess community aggregation or segregation. We used the NES C&#x02010;score (standardized C&#x02010;score) to compare patterns of co&#x02010;occurrence with parameters of environmental quality. Xeric environments had poorer and more arid soils and more sclerophyllous plants than mesic environments, which was reflected in the distribution patterns of gall communities. Values of the C&#x02010;score index revealed a segregated distribution of gall morphospecies in xeric environments, but a random distribution in mesic environments. The low availability of resources for oviposition and the high density of gallers in xeric environments reinforce interspecific competition as an important structuring force for gall communities in these environments.</p></abstract><abstract abstract-type="graphical" id="ece35827-abs-0002"><p>Our assessment of the role of competition in structuring gall communities along a gradient of environmental stress advances the understanding of the role of environmental filters in biotic responses imposed by abiotic changes in a natural environment. Mesic environments favor the action of parasites and predators on gall communities, while competition determines the structure of gall communities in xeric environment.
+<boxed-text position="anchor" content-type="graphic" id="ece35827-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-13919-g006.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35827-kwd-0001">bottom&#x02010;up</kwd><kwd id="ece35827-kwd-0002">community assembly</kwd><kwd id="ece35827-kwd-0003"><italic>Copaiffera langsdorffii</italic></kwd><kwd id="ece35827-kwd-0004">environmental stress</kwd><kwd id="ece35827-kwd-0005">null models</kwd><kwd id="ece35827-kwd-0006">top&#x02010;down</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Coordena&#x000e7;&#x000e3;o de Aperfei&#x000e7;oamento de Pessoal de N&#x000ed;vel Superior </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100002322</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="5"/><table-count count="3"/><page-count count="12"/><word-count count="9016"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35827-cit-1001">
+<string-name>
+<surname>Ramos</surname>
+<given-names>LF</given-names>
+</string-name>, <string-name>
+<surname>Solar</surname>
+<given-names>RRC</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>
+<given-names>HT</given-names>
+</string-name>, <string-name>
+<surname>Fagundes</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Variation in community structure of gall&#x02010;inducing insects associated with a tropical plant supports the hypothesis of competition in stressful habitats</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>13919</fpage>&#x02013;<lpage>13930</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5827</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35827-body-0001"><sec id="ece35827-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Historically, interspecific competition is deemed as one of the major forces responsible for shaping the distribution of species in space and time (Connor &#x00026; Simberloff, <xref rid="ece35827-bib-0011" ref-type="ref">1983</xref>; Diamond, <xref rid="ece35827-bib-0021" ref-type="ref">1973</xref>). However, competition importance is disputable, especially for phytophagous insects, and some authors argue that food resources were not a limiting factor, and therefore, competition would be absent or very weak (Hairston, Smith, &#x00026; Slobodkin, <xref rid="ece35827-bib-0045" ref-type="ref">1960</xref>; Strong, <xref rid="ece35827-bib-0087" ref-type="ref">1982</xref>). Later, with rising knowledge about plant defenses, the role of competition has gained prominence (Kaplan &#x00026; Denno, <xref rid="ece35827-bib-0055" ref-type="ref">2007</xref>; Murdoch, <xref rid="ece35827-bib-0062" ref-type="ref">1966</xref>; Reitz &#x00026; trumble, <xref rid="ece35827-bib-0075" ref-type="ref">2002</xref>), and recent studies have highlighted the important role of competition for phytophagous insect community structure (Cornelissen, de Carvalho Guimar&#x000e3;es, Rodrigues Viana, &#x00026; Silva, <xref rid="ece35827-bib-0013" ref-type="ref">2013</xref>; Kaplan &#x00026; Denno, <xref rid="ece35827-bib-0055" ref-type="ref">2007</xref>). Indirect mechanisms, such as extreme or unstable environmental conditions, can now be incorporated into models to help understand the role of competition in assembling communities in climate change scenarios.</p><p>The structure of gall&#x02010;inducing insect communities can be determined by environmental factors (Blanche, <xref rid="ece35827-bib-0004" ref-type="ref">2000</xref>; Butterill &#x00026; Novotny, <xref rid="ece35827-bib-0007" ref-type="ref">2015</xref>; Craig, Itami, &#x00026; Craig, <xref rid="ece35827-bib-0016" ref-type="ref">2007</xref>; Cuevas&#x02010;Reyes, Quesada, &#x00026; Oyama, <xref rid="ece35827-bib-0018" ref-type="ref">2006</xref>; da Costa, de Siqueira Neves, de Oliveira Silva, &#x00026; Fagundes, <xref rid="ece35827-bib-0019" ref-type="ref">2011</xref>; Price, <xref rid="ece35827-bib-0071" ref-type="ref">2002</xref>), by top&#x02010;down (Fagundes, Neves, &#x00026; Fernandes, <xref rid="ece35827-bib-0030" ref-type="ref">2005</xref>; Price, <xref rid="ece35827-bib-0070" ref-type="ref">1997</xref>) or bottom&#x02010;up (Egan &#x00026; Ott, <xref rid="ece35827-bib-0025" ref-type="ref">2007</xref>; Esp&#x000ed;rito&#x02010;Santo, de S. Neves, Andrade&#x02010;Neto, &#x00026; Fernandes, <xref rid="ece35827-bib-0027" ref-type="ref">2007</xref>; Hunter &#x00026; Price, <xref rid="ece35827-bib-0049" ref-type="ref">1992</xref>; Malinga, Valtonen, Nyeko, Vesterinen, &#x00026; Roininen, <xref rid="ece35827-bib-0061" ref-type="ref">2014</xref>) mechanisms, and by interactions that occur within the same trophic level, such as interspecific competition (Cornelissen et al., <xref rid="ece35827-bib-0013" ref-type="ref">2013</xref>; Fagundes &#x00026; Fernandes, <xref rid="ece35827-bib-0029" ref-type="ref">2011</xref>; Fagundes et al., <xref rid="ece35827-bib-0031" ref-type="ref">2018</xref>). Studies have reported that the results of interspecific interactions involving phytophagous insects can be habitat&#x02010;dependent (Kuchenbecker &#x00026; Fagundes, <xref rid="ece35827-bib-0056" ref-type="ref">2018</xref>).</p><p>The environmental stress hypothesis (ESH) predicts that gall&#x02010;inducing insect diversity should be greater in more stressful/xeric habitats (Fernandes &#x00026; Price, <xref rid="ece35827-bib-0038" ref-type="ref">1988</xref>). The mechanisms underlying greater species richness in xeric habitats involve evolutionary and ecological processes (Fernandes &#x00026; Price, <xref rid="ece35827-bib-0038" ref-type="ref">1988</xref>; Price, Fernandes, &#x00026; Waring, <xref rid="ece35827-bib-0072" ref-type="ref">1987</xref>; Ribeiro &#x00026; Basset, <xref rid="ece35827-bib-0077" ref-type="ref">2007</xref>). Among ecological mechanisms, the actions of parasites and predators (third trophic level) are thought to be less effective at regulating gall&#x02010;inducing insect diversity in xeric habitats, thus leading to greater diversity of gallers in such habitats (Castellanos, Cuevas&#x02010;Reyes, Rios&#x02010;Casanova, Oyama, &#x00026; Quesada, <xref rid="ece35827-bib-0009" ref-type="ref">2006</xref>). Studies have also shown that plants growing on water&#x02010; and nutrient&#x02010;deprived soils are more sclerophyllous (Poorter, Niinemets, Poorter, Wright, &#x00026; Villar, <xref rid="ece35827-bib-0068" ref-type="ref">2009</xref>) and accumulate higher levels of chemical compounds (Fagundes et al., <xref rid="ece35827-bib-0031" ref-type="ref">2018</xref>). Thus, internal&#x02010;feeding gall&#x02010;inducing insects attacking such plants would experience greater protection from their natural enemies (Hardy &#x00026; Cook, <xref rid="ece35827-bib-0046" ref-type="ref">2010</xref>; Ribeiro &#x00026; Basset, <xref rid="ece35827-bib-0077" ref-type="ref">2007</xref>). These hypotheses have been supported by several studies conducted in tropical (Fernandes, Gon&#x000e7;alves&#x02010;Alvim, &#x00026; Carneiro, <xref rid="ece35827-bib-0036" ref-type="ref">2005</xref>; Jesus, Silva, &#x00026; Fernandes, <xref rid="ece35827-bib-0052" ref-type="ref">2012</xref>; Juli&#x000e3;o, Almada, &#x00026; Fernandes, <xref rid="ece35827-bib-0054" ref-type="ref">2014</xref>; Lara, Fernandes, &#x00026; Gon&#x000e7;alves&#x02010;Alvim, <xref rid="ece35827-bib-0058" ref-type="ref">2002</xref>) and temperate (Fernandes, Duarte, &#x00026; L&#x000fc;ttge, <xref rid="ece35827-bib-0035" ref-type="ref">2003</xref>; Fernandes &#x00026; Price, <xref rid="ece35827-bib-0038" ref-type="ref">1988</xref>, <xref rid="ece35827-bib-0039" ref-type="ref">1992</xref>) habitats.</p><p>Recent studies have shown that interspecific competition be an important phenomenon capable of shaping the community structure of sedentary organisms, such as gall&#x02010;inducing insects (e.g., Cornelissen et al., <xref rid="ece35827-bib-0013" ref-type="ref">2013</xref>; Fagundes et al., <xref rid="ece35827-bib-0031" ref-type="ref">2018</xref>). Some characteristics of the interaction between galling insects and their host plants make this system suitable for better understanding the processes that structure natural communities. For example, gall&#x02010;inducing insects have high specificity with regard to their host plant and the target organ to oviposition (Carneiro et al., <xref rid="ece35827-bib-0008" ref-type="ref">2009</xref>; Joy &#x00026; Crespi, <xref rid="ece35827-bib-0053" ref-type="ref">2007</xref>) they synchronize the oviposition period with the plant phenological period, where there is growth but the tissues are not yet lignified (Whitham, <xref rid="ece35827-bib-0091" ref-type="ref">1978</xref>; Yukawa, <xref rid="ece35827-bib-0093" ref-type="ref">2000</xref>). Soon after oviposition, hatched larvae of galling insects induce rapid morphological and physiological changes in host plant tissue, draining resources for their own development (H&#x000f6;glund, <xref rid="ece35827-bib-0047" ref-type="ref">2014</xref>; Ollerstam, Rohfritsch, H&#x000f6;glund, &#x00026; Larsson, <xref rid="ece35827-bib-0065" ref-type="ref">2002</xref>), which potentially interferes with the oviposition behavior of females of other gall&#x02010;inducing insects species (Cornelissen et al., <xref rid="ece35827-bib-0013" ref-type="ref">2013</xref>). Because they are sessile and highly specific, galls are excellent models for understanding the effects of interspecific competition on community structuring (Cornelissen et al., <xref rid="ece35827-bib-0013" ref-type="ref">2013</xref>; Fagundes et al., <xref rid="ece35827-bib-0031" ref-type="ref">2018</xref>).</p><p>Interspecific competition in endophagous insect communities is affected by the direct action of bottom&#x02010;up and top&#x02010;down forces, which put pressure on the community (Kaplan &#x00026; Denno, <xref rid="ece35827-bib-0055" ref-type="ref">2007</xref>). Because gall&#x02010;inducing insects have greater richness and abundance in habitats under higher stress and lower incidence of natural enemies (Castellanos et al., <xref rid="ece35827-bib-0009" ref-type="ref">2006</xref>; Fernandes &#x00026; Price, <xref rid="ece35827-bib-0038" ref-type="ref">1988</xref>), competition can be expected to exert pressure in this community. One way to test these competitive hypotheses in natural communities when the manipulation of species is not possible is through the use of null models (e.g., Ribas &#x00026; Schoereder, <xref rid="ece35827-bib-0076" ref-type="ref">2002</xref>). Null models are models of communities that have characteristics of their real equivalents, while the randomness of the distribution of the species is maintained, specifically excluding the effects of biological interactions (Gotelli &#x00026; Graves, <xref rid="ece35827-bib-0043" ref-type="ref">1996</xref>).</p><p>Adverse environmental characteristics, such as extreme temperatures, low water availability, high light incidence, and low soil fertility, are stress factors that directly affect plant development (L&#x000e1;zaro&#x02010;Nogal et al., <xref rid="ece35827-bib-0059" ref-type="ref">2015</xref>; Pennington &#x00026; Collins, <xref rid="ece35827-bib-0066" ref-type="ref">2007</xref>; Sapijanskas, Paquette, Potvin, Kunert, &#x00026; Loreau, <xref rid="ece35827-bib-0081" ref-type="ref">2014</xref>). Variation in leaf characteristics and tree growth have been correlated with the efficiency of resource use and with plant phenotypic plasticity in response to such abiotic variation (Chaturvedi, Raghubanshi, &#x00026; Singh, <xref rid="ece35827-bib-0010" ref-type="ref">2014</xref>; L&#x000e1;zaro&#x02010;Nogal et al., <xref rid="ece35827-bib-0059" ref-type="ref">2015</xref>). For example, leaf sclerophylly is a plant response to stress factors, where leaves with thicker cuticles and greater stomatal density minimize water loss through transpiration (Bussotti, Pollastrini, Holland, &#x00026; Br&#x000fc;ggemann, <xref rid="ece35827-bib-0006" ref-type="ref">2015</xref>; Reich et al., <xref rid="ece35827-bib-0074" ref-type="ref">2003</xref>; Williams &#x00026; Black, <xref rid="ece35827-bib-0092" ref-type="ref">1993</xref>). These morphological and physiological adaptations of plants can determine the colonization and survival of plant species in different environments (Sultan, <xref rid="ece35827-bib-0088" ref-type="ref">2001</xref>). Therefore, measuring characteristics of plants can be a suitable surrogate for the combined effect of stress factors acting on each individual. In this sense, species with wide geographical distributions must undergo changes in their development according to the great variation in the conditions that they are exposed to, with the effect escalating to higher trophic levels (Souza et al., <xref rid="ece35827-bib-0082" ref-type="ref">2018</xref>).</p><p>
+<italic>Copaifera langsdorffii</italic> (Fabaceae) has a wide geographical distribution and occurs in varied environments that vary widely in rainfall and soil quality. The species hosts the greatest richness of gall&#x02010;inducing insects in the Neotropical Region, which change as a function of habitat and host quality (Costa, <xref rid="ece35827-bib-0014" ref-type="ref">2016</xref>). Using this system, we seek to understand how interactions in communities can be modified under various environmental conditions, and how possible climate change can affect the structure of communities. We hypothesized that interspecific competition would be prevalent in xeric environments. We predicted that plants should possess more sclerophyllous leaflets and greater richness and abundance of gall&#x02010;inducing insects in xeric environments.</p></sec><sec sec-type="materials-and-methods" id="ece35827-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35827-sec-0003"><label>2.1</label><title>Study system</title><p>
+<italic>Copaifera langsdorffii</italic> Desf. (Fabaceae: Caesalpinioideae) is a tropical arboreal plant species that can reach between 8 and 25&#x000a0;m in height. The species has a wide geographical distribution, occurring in Argentina, Bolivia, and throughout the Brazilian cerrado, Atlantic Forest, and Amazon (Almeida, Poen&#x000e7;a, Sano, &#x00026; Ribeiro, <xref rid="ece35827-bib-0001" ref-type="ref">1998</xref>; Costa et al., <xref rid="ece35827-bib-0014" ref-type="ref">2016</xref>). The species exhibits a high degree of phenotypic plasticity in seed size and other morphological and physiological traits, which explain the vast geographical distribution of this species (Souza &#x00026; Fagundes, <xref rid="ece35827-bib-0083" ref-type="ref">2014</xref>). This plant has a remarkable period of deciduousness from July to August, with new leaves growing soon thereafter (Souza, Solar, &#x00026; Fagundes, <xref rid="ece35827-bib-0084" ref-type="ref">2015</xref>). Thus far, <italic>C.&#x000a0;langsdorffii</italic> has been recorded to host 24 gall&#x02010;inducing insect species (Costa, Fagundes, &#x00026; Neves, <xref rid="ece35827-bib-0015" ref-type="ref">2010</xref>; Fagundes, <xref rid="ece35827-bib-0028" ref-type="ref">2014</xref>). The wide geographical distribution of the species and the architecture of its plants are factors that probably favored diversification of the gall&#x02010;inducing insects that this species hosts (da Costa et al., <xref rid="ece35827-bib-0019" ref-type="ref">2011</xref>; Fagundes, <xref rid="ece35827-bib-0028" ref-type="ref">2014</xref>).</p></sec><sec id="ece35827-sec-0004"><label>2.2</label><title>Study areas</title><p>This study was developed at seven sites with the presence of a population of <italic>C.&#x000a0;langsdorfii</italic>, each located in a different plant formation (Figure <xref rid="ece35827-fig-0001" ref-type="fig">1</xref>, Table <xref rid="ece35827-tbl-0001" ref-type="table">1</xref>). The sites were chosen to include a gradient of environmental stress, ranging from dry environments, such as rupestrian grasslands and ironstone outcrops, to humid environments, such as Atlantic forest and riparian forest. The distance between sampling areas ranges from 90 to 500&#x000a0;km.</p><fig fig-type="Figure" xml:lang="en" id="ece35827-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Map of the seven sites/populations in the state of Minas Gerais, Brazil</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-13919-g001"/></fig><table-wrap id="ece35827-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Historical climatic characterization of the environmental variables of the study sites. Mean maximum temperature (&#x000b0;C) (T.max.), mean minimum temperature (&#x000b0;C) (T.min) and Piche evaporation (mm) (Evapo). Data for previous 55&#x000a0;years, obtained from INMET website, August 2015. The data obtained from meteorological stations closest to the study sites</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Habitat</th><th align="left" valign="top" rowspan="1" colspan="1">Coordinates</th><th align="left" valign="top" rowspan="1" colspan="1">Elevation</th><th align="left" valign="top" rowspan="1" colspan="1">Insolation</th><th align="left" valign="top" rowspan="1" colspan="1">T&#x02010;max</th><th align="left" valign="top" rowspan="1" colspan="1">T&#x02010;mim</th><th align="left" valign="top" rowspan="1" colspan="1">Evapo</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Rupestrian grasslands</td><td align="left" rowspan="1" colspan="1">20&#x000b0;04&#x02032;S, 43&#x000b0;59&#x02032;W</td><td align="left" rowspan="1" colspan="1">1,423</td><td align="char" char="." rowspan="1" colspan="1">185.21</td><td align="char" char="." rowspan="1" colspan="1">28.12</td><td align="char" char="." rowspan="1" colspan="1">14.65</td><td align="char" char="." rowspan="1" colspan="1">89.43</td></tr><tr><td align="left" rowspan="1" colspan="1">Ironstone outcrops</td><td align="left" rowspan="1" colspan="1">19&#x000b0;16&#x02032;S, 43&#x000b0;35&#x02032;W</td><td align="left" rowspan="1" colspan="1">1,200</td><td align="char" char="." rowspan="1" colspan="1">168.73</td><td align="char" char="." rowspan="1" colspan="1">28.05</td><td align="char" char="." rowspan="1" colspan="1">15.39</td><td align="char" char="." rowspan="1" colspan="1">87.71</td></tr><tr><td align="left" rowspan="1" colspan="1">Cerrado sensu<italic> stricto</italic>
+</td><td align="left" rowspan="1" colspan="1">16<sup>o</sup>40&#x02032;S, 43<sup>o</sup>48&#x02032;W</td><td align="left" rowspan="1" colspan="1">652</td><td align="char" char="." rowspan="1" colspan="1">222.86</td><td align="char" char="." rowspan="1" colspan="1">29.73</td><td align="char" char="." rowspan="1" colspan="1">17.54</td><td align="char" char="." rowspan="1" colspan="1">138.52</td></tr><tr><td align="left" rowspan="1" colspan="1">Arboreal cerrado</td><td align="left" rowspan="1" colspan="1">19&#x000b0;20&#x02032;S 44&#x000b0;24&#x02032;W</td><td align="left" rowspan="1" colspan="1">732</td><td align="char" char="." rowspan="1" colspan="1">221.39</td><td align="char" char="." rowspan="1" colspan="1">28.51</td><td align="char" char="." rowspan="1" colspan="1">15.89</td><td align="char" char="." rowspan="1" colspan="1">88.66</td></tr><tr><td align="left" rowspan="1" colspan="1">Dry forest</td><td align="left" rowspan="1" colspan="1">15&#x000ba;58&#x02032;S, 44&#x000ba;16&#x02032;W</td><td align="left" rowspan="1" colspan="1">826</td><td align="char" char="." rowspan="1" colspan="1">240.36</td><td align="char" char="." rowspan="1" colspan="1">31.44</td><td align="char" char="." rowspan="1" colspan="1">18.39</td><td align="char" char="." rowspan="1" colspan="1">143.51</td></tr><tr><td align="left" rowspan="1" colspan="1">Atlantic forest</td><td align="left" rowspan="1" colspan="1">19&#x000b0;53'S 43&#x000b0;58'W</td><td align="left" rowspan="1" colspan="1">915</td><td align="char" char="." rowspan="1" colspan="1">208.05</td><td align="char" char="." rowspan="1" colspan="1">27.13</td><td align="char" char="." rowspan="1" colspan="1">17.26</td><td align="char" char="." rowspan="1" colspan="1">116.92</td></tr><tr><td align="left" rowspan="1" colspan="1">Riparian forest</td><td align="left" rowspan="1" colspan="1">56&#x000b0;25&#x02032;S, 80&#x000b0;96&#x02032;W</td><td align="left" rowspan="1" colspan="1">480</td><td align="char" char="." rowspan="1" colspan="1">229.28</td><td align="char" char="." rowspan="1" colspan="1">31.03</td><td align="char" char="." rowspan="1" colspan="1">18.30</td><td align="char" char="." rowspan="1" colspan="1">125.62</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The rupestrian grasslands were evaluated in a conservation unit of Serra do Cip&#x000f3; State Park (area of ca. 33,000&#x000a0;ha). This environment is dominated by tree&#x02013;shrub species with sclerophyllous leaves, and shallow and sandy nutritionally poor soils (Giulietti,Menezes, Pirani, Meguro, &#x00026; Wanderley, <xref rid="ece35827-bib-0040" ref-type="ref">1987</xref>). The Ironstone outcrops are located in a conservation area in the Cal&#x000e7;ada mountain range of approximately 1,100&#x000a0;ha. These environments have nutrient&#x02010;poor hight iron content soils, and the plants are sclerophyllous adapted to the sudden variations in temperatures and high winds (Giulietti et al., <xref rid="ece35827-bib-0040" ref-type="ref">1987</xref>; Oliveira&#x02010;Filho &#x00026; Ratter, <xref rid="ece35827-bib-0064" ref-type="ref">2002</xref>). The cerrado sensu stricto is located in a private reserve of 20&#x000a0;ha, the soils are acidic and poor in nutrients, and the vegetation has leathery leaves, generally taken as an adaption to dry conditions (Oliveira, <xref rid="ece35827-bib-0063" ref-type="ref">1998</xref>; Rizzini, <xref rid="ece35827-bib-0078" ref-type="ref">1997</xref>). The arboreal cerrado is located in a National Forest with 203.29&#x000a0;ha, the soils are deep and slightly acidic with medium content of organic matter from the fall of the leaves in the dry season, and the vegetation is large with closed crowns (Rizzini, <xref rid="ece35827-bib-0078" ref-type="ref">1997</xref>; Sano, <xref rid="ece35827-bib-0080" ref-type="ref">2008</xref>). The deciduous forests (dry forests) were evaluated in a private reserve with 350&#x000a0;ha, the vegetation is large (which can exceed 25&#x000a0;m), and the total leaf abscission in the dry season is the main feature of this environment. The soils are alkaline and rich in nutrients, and leaf fall contributes to soil fertility (Fagundes &#x00026; Fernandes, <xref rid="ece35827-bib-0029" ref-type="ref">2011</xref>; Sano, <xref rid="ece35827-bib-0080" ref-type="ref">2008</xref>). The Atlantic forest was evaluated in a remnant of forest in the UFMG ecological station with an area of ca.114&#x000a0;ha. The vegetation has a large size forming a continuous canopy and high humidity. Soils are moist, shallow and poor in mineral nutrients; however, decomposition of organic matter is an important factor in nutrient availability for plants (Sano, <xref rid="ece35827-bib-0080" ref-type="ref">2008</xref>). The riparian forest was evaluated in an environmental protection reserve with an average area of ca. 98&#x000a0;ha. The vegetation forms corridors following the riverbed with, the fertile, the soils and high relative humidity (Oliveira&#x02010;Filho &#x00026; Ratter, <xref rid="ece35827-bib-0064" ref-type="ref">2002</xref>).</p></sec><sec id="ece35827-sec-0005"><label>2.3</label><title>Measurements of environmental stress</title><p>We obtained meteorological data for each of the studied sites for the 24&#x000a0;months preceding the study&#x02014;a period corresponding to vegetative investment by each plant (Fagundes et al., <xref rid="ece35827-bib-0032" ref-type="ref">2016</xref>). The data were obtained from the closest meteorological station to each of the sites using the public platform of the Brazilian Meteorological Institute (<ext-link ext-link-type="uri" xlink:href="http://www.inmet.gov.br">http://www.inmet.gov.br</ext-link>). Using the meteorological data, we calculated the aridity index (AI) for each site using the formula: AI&#x000a0;=&#x000a0;(<italic>P</italic>/PET), where <italic>P</italic> is total monthly precipitation, and PET is potential monthly evapotranspiration (Picotte, Rhode, &#x00026; Cruzan, <xref rid="ece35827-bib-0067" ref-type="ref">2009</xref>). In this case, lower AI values indicate higher aridity (i.e., a more water&#x02010;deprived habitat).</p><p>We also measured the chemical characteristics of the soil of each of the studied sites. We collected soil samples (three samples at 10&#x000a0;cm depth) below each individual plant of <italic>C.&#x000a0;langsdorffii</italic> selected for the study (45 soil samples at each site). The soil samples of each site were homogenized to obtain a single composite soil sample per site, which were then submitted to chemical analysis at the Soil Laboratory of the Federal University of Minas Gerais.</p></sec><sec id="ece35827-sec-0006"><label>2.4</label><title>Biological data collection</title><p>Biological data were collected in the months of April and May of 2015, before leaf fall, but when galls are completely established in the plants (Fagundes, <xref rid="ece35827-bib-0028" ref-type="ref">2014</xref>). Fifteen healthy and adult individuals (i.e., individuals who have undergone a reproductive phase) of <italic>C.&#x000a0;langsdorffii</italic> were selected at each sampling site. The plants have irregular distribution in the environment but while assuring a minimum distance of 30m between individuals in order to maximize independence among samples. Ten terminal branches were removed from the crown of each plant (Costa et al., <xref rid="ece35827-bib-0015" ref-type="ref">2010</xref>), packed in plastic bags, and taken to the laboratory. The last three leaves of the last vegetative investment (annual plant growth easily identified by the visible scar on the branch) were selected from each branch for measuring other parameters.</p><p>The second pair of leaflets of each of the 10 branches removed per plant (300 leaflets for each site) was used to determinate leaf size and specific foliar mass (sfm) of <italic>C.&#x000a0;langsdorffii</italic>. A disk (0.38&#x000a0;cm<sup>2</sup>) was removed from each leaflet, dried in oven at 40&#x000b0;C for 92&#x000a0;hr, and individually weighed in an analytical balance (Cornelissen et al., <xref rid="ece35827-bib-0012" ref-type="ref">2003</xref>; Dwyer, Hobbs, &#x00026; Mayfield, <xref rid="ece35827-bib-0024" ref-type="ref">2014</xref>). The size and mass of the leaf are proxy for foliar sclerophylly of the plants, so in this work we use only the sfm in the analyses, but the size of the leaf follows the same pattern. A total of 137 leaflets were evaluated in each population to determine the distribution pattern of galls. The method selected required that all leaflets possess at least one species of gall. In this way, it was possible to create a presence/absence matrix of galls per leaflet, where presence is equivalent to more than one species on a leaflet, and absence is equivalent to a single species of gall on the leaflet. Such a matrix was created separately for each population/site evaluated. Sampling was standardized at 137 leaflets per each population because this was the maximum number of leaflets found with galls in all populations/sites. The galls present on each leaflet were counted and identified according to their morphology, color, texture, and size (da Costa et al., <xref rid="ece35827-bib-0019" ref-type="ref">2011</xref>; Fagundes, <xref rid="ece35827-bib-0028" ref-type="ref">2014</xref>).</p></sec><sec id="ece35827-sec-0007"><label>2.5</label><title>Data analysis</title><p>We performed a principal component analysis (PCA) to obtain a summary of the soil variables by ordinating soil traits of the seven sites using soil fertility characteristics (Ph, H<sup>+</sup> Al, Al3<sup>+</sup>, Ca, Mg, P, K, SB, t, m, V). We used generalized linear models (GLMs) followed by deviation analysis (ANODEV) to evaluate whether slm varied as a function of sites and/or soil fertility. The identity of each site and the scores of the first axis of the PCA were used as explanatory variables, while slm was used as the response variable. Models were evaluated using the &#x0201c;F&#x0201d; test with Gaussian error distribution.</p><p>Variation in gall&#x02010;inducing insect richness and abundance among sites was also tested using GLMs followed by ANODEV. In this case, gall&#x02010;inducing insect richness, or abundance, was the response variable and sites/population was the explanatory variable. The error distribution used was Poisson, corrected by quasi&#x02010;Poisson as necessary. Finally, to test the effects of slm on gall&#x02010;inducing insect richness and abundance we used generalized linear mixed&#x02010;effects models (GLMEr; Bolker et al., <xref rid="ece35827-bib-0005" ref-type="ref">2009</xref>). Here, gall&#x02010;inducing insect richness, or abundance, was the responses variable and slm was the explanatory variable, while site/population was assumed to be a random effect, based on the Poisson distribution. The models were tested by comparison with a null model using a chi&#x02010;square test.</p></sec><sec id="ece35827-sec-0008"><label>2.6</label><title>Analysis of co&#x02010;occurrence and community structure</title><p>We used null models to compare observed and simulated patterns of the occurrence of gall&#x02010;inducing insects within each population/site. Data on gall species of the leaflets were transformed into presence/absence matrices in which columns represented individual leaflets, while rows represented species of galls. An individual matrix was created for each site/population, which were analyzed separately. The null hypothesis predicts that the presence of one gall species on a leaflet does not influence the presence of another on the same leaflet. Gall occurrence was analyzed using the EcoSim software (Gotelli &#x00026; Entsminger, <xref rid="ece35827-bib-0042" ref-type="ref">2001</xref>). Thus, we used the <italic>C&#x02010;score</italic> index (Stone &#x00026; Roberts, <xref rid="ece35827-bib-0086" ref-type="ref">1990</xref>) as the metric quantifying co&#x02010;occurrence patterns, or &#x0201c;checkerboard units&#x0201d; (CU) between possible pairs of galls species, given by the formula: CU&#x000a0;=&#x000a0;(<italic>ri</italic>&#x000a0;&#x02212;&#x000a0;<italic>S</italic>)&#x000a0;(<italic>rj</italic>&#x000a0;&#x02212;&#x000a0;<italic>S</italic>). The <italic>C&#x02010;score</italic> measures the average frequency of all possible pairs of species interacting at least once in the matrix. We used a &#x0201c;fixed&#x02010;fixed&#x0201d; algorithm with 5,000 randomizations, where the rows and columns of the original matrix were preserved (Gotelli &#x00026; Entsminger, <xref rid="ece35827-bib-0042" ref-type="ref">2001</xref>).</p><p>Nine algorithms have been described for testing null models, with the most appropriate choice depending on the structure of the original matrix (Gotelli, <xref rid="ece35827-bib-0041" ref-type="ref">2000</xref>). The <italic>C&#x02010;score</italic> indices (Stone &#x00026; Roberts, <xref rid="ece35827-bib-0086" ref-type="ref">1990</xref>) measure the pattern of exclusion of species, which reflects competitive interactions. Thus, this index is an ideal model for work of this type where it is not possible to test the effect of the removal of one gall versus the removal of others (Cornelissen et al., <xref rid="ece35827-bib-0013" ref-type="ref">2013</xref>). Nonetheless, this index does not incorporate species abundance (Gotelli &#x00026; Graves, <xref rid="ece35827-bib-0043" ref-type="ref">1996</xref>); on the other hand, it is less prone to type I and type II errors (Gotelli, <xref rid="ece35827-bib-0041" ref-type="ref">2000</xref>). Some authors point out that analyzing the distribution of species with the <italic>C&#x02010;score</italic> reveals patterns of segregation when species do not interact simply because they use different resources (Diamond &#x00026; Gilpin, <xref rid="ece35827-bib-0023" ref-type="ref">1982</xref>; Gotelli &#x00026; Rohde, <xref rid="ece35827-bib-0044" ref-type="ref">2002</xref>). In this work, the evaluated species use the same resource (leaflet), and so the index is suitably applicable.</p><p>We obtained a single index value for each site/environment, which reflects the pattern of structure of the local community. However, the normalized effect size [(NES <italic>C&#x02010;score</italic>&#x000a0;=&#x000a0;observed&#x02010;expected scores)/expected scores) (Ulrich, Jabot, &#x00026; Gotelli, <xref rid="ece35827-bib-0089" ref-type="ref">2016</xref>)] was used so that the indexes were comparable among site/environment. High values of the NES <italic>C&#x02010;score</italic> index indicate low co&#x02010;occurrence of species in the community (Gotelli, <xref rid="ece35827-bib-0041" ref-type="ref">2000</xref>).</p><p>To test the hypothesis that competition operates in xeric environments, we built models in which the &#x0201c;NES <italic>C&#x02010;score</italic>&#x0201d; of each population/site was tested against the indicators of environmental (soil fertility and aridity index) and plant (slm) stress. For this, we used GLMs, where mean slm (of the plants of each population/site) was used as the explanatory variable and NES <italic>C&#x02010;score</italic> as the response variable, with the Gaussian distribution.</p><p>All models described above were submitted to residual analysis to verify their adequacy and adjustment to the chosen error distribution (Crawley, <xref rid="ece35827-bib-0017" ref-type="ref">2007</xref>). All GLMs, ANOSIM (Vegan package) (Jari Oksanen et al., <xref rid="ece35827-bib-0050" ref-type="ref">2019</xref>), and generalized linear mixed&#x02010;effects models (GLMEr) (Bates, M&#x000e4;chler, Bolker, &#x00026; Walker, <xref rid="ece35827-bib-0003" ref-type="ref">2014</xref>) were performed in R software (R Core Team, <xref rid="ece35827-bib-0073" ref-type="ref">2017</xref>).</p></sec></sec><sec sec-type="results" id="ece35827-sec-0009"><label>3</label><title>RESULTS</title><p>The first two axes of the PCA together explained 76.98% of the total variation in soil quality among the seven sites (Figure <xref rid="ece35827-fig-0002" ref-type="fig">2</xref>). Sites with low soil quality (rupestrian grasslands and ironstone outcrops) were negatively related to the first axis, while sites with higher soil quality (arboreal cerrado, dry forest, and Atlantic forest) were positively related to the first axis. In addition, sites with average soil quality exhibited a weak relationship with the first axis of PCA. Therefore, the first axis of PCA represents a gradient of soil quality among the study sites.</p><fig fig-type="Figure" xml:lang="en" id="ece35827-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Principal component analysis (PCA) of soil quality indicator parameters of the seven study sites</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-13919-g002"/></fig><p>The slm of plants of <italic>C.&#x000a0;langsdorffii</italic> varied among sites/environments (<italic>F</italic>
+<sub>1,6</sub>&#x000a0;=&#x000a0;26.507 <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001). Plants grown in more stressful sites with poorer soils (e.g., rupestrian grasslands, ironstone outcrops, and cerrado sensu<italic> stricto</italic>) have more sclerophyllous leaves than plants growth in more humid sites (e.g., arboreal cerrado, dry forest, riparian forest, and Atlantic forest; Figure <xref rid="ece35827-fig-0003" ref-type="fig">3</xref>a). More importantly, we found a positive relationship between soil quality (here represented by scores of the first axis of the PCA) and leaf sclerophylly (i.e., slm) (<italic>F</italic>
+<sub>1,6</sub>&#x000a0;=&#x000a0;6.70, <italic>p</italic>&#x000a0;=&#x000a0;.04; Figure <xref rid="ece35827-fig-0003" ref-type="fig">3</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="ece35827-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>(a) Variation in specific leaf mass of plants of <italic>Copaifera langsdorffii</italic> among the seven study sites/environments with different levels of stress. Same letters on bars represent grouping by contrast analysis. (b) Variation of specific leaf mass by soil fertility (axis 1 of PCA)</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-13919-g003"/></fig><p>Richness (deviance&#x000a0;=&#x000a0;28.915, <italic>F</italic>&#x000a0;=&#x000a0;9.325, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) and abundance (deviance&#x000a0;=&#x000a0;176.55, <italic>F</italic>&#x000a0;=&#x000a0;4.656, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) of gall&#x02010;inducing species per plant varied among the study sites, with more stressed sites having greater richness (Figure <xref rid="ece35827-fig-0004" ref-type="fig">4</xref>a) and abundance (Figure <xref rid="ece35827-fig-0004" ref-type="fig">4</xref>b) than more mesic sites. However, slm of plants did not affect the richness (deviance: 325.83, <italic>&#x003c7;</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.24, <italic>p</italic>&#x000a0;=&#x000a0;.101) or abundance (deviance: 648.8, <italic>&#x003c7;</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;234.4, <italic>p</italic>&#x000a0;=&#x000a0;.276) of gall&#x02010;inducing insects.</p><fig fig-type="Figure" xml:lang="en" id="ece35827-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>(a) Variation in gall richness and (b) abundance on plants of <italic>Copaifera langsdorffii</italic> among the seven studied sites/environments with different levels of stress. Same letters on bars represent grouping by contrast analysis</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-13919-g004"/></fig><p>The patterns of co&#x02010;occurrence of gall&#x02010;inducing species also varied among sites (Table <xref rid="ece35827-tbl-0002" ref-type="table">2</xref>). In fact, the null models showed that the communities of gall&#x02010;inducing insects at the xeric sites were not randomly distributed, with greater co&#x02010;occurrence than expected by chance, indicating that biotic forces are structuring these communities of herbivores. On the other hand, the observed pattern of gall&#x02010;inducing insect co&#x02010;occurrence did not differ from that expected by chance in mesic environments. In this case, biological interactions cannot be used to explain the distribution of gall&#x02010;inducing insects on plants of <italic>C.&#x000a0;langsdorffii</italic>.</p><table-wrap id="ece35827-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>C&#x02010;score indices of the occurrence of galls species on Copaifera langsdorffii in the seven populations/sites analyzed. Maximum and minimum indices were calculated from 5,000 randomizations of the original matrix. The <italic>p</italic>&#x02010;values were obtained by the bi&#x02010;flow test and represent the probability that the observed index is greater, less than, or equal to that expected by randomized matrices. Observed (obs), expected (exp)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Habitat</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Indices for randomized matrices</th><th align="left" rowspan="2" valign="bottom" colspan="1">Observed index</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<italic>p</italic>&#x02010;Values</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Minimum</th><th align="left" valign="bottom" rowspan="1" colspan="1">Maximum</th><th align="left" valign="bottom" rowspan="1" colspan="1">Obs.&#x000a0;&#x02265;&#x000a0;exp.</th><th align="left" valign="bottom" rowspan="1" colspan="1">Obs.&#x000a0;&#x02264;&#x000a0;exp.</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Rupestrian grasslands</td><td align="char" char="." rowspan="1" colspan="1">120.30</td><td align="char" char="." rowspan="1" colspan="1">123.84</td><td align="char" char="." rowspan="1" colspan="1">123.25</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.001</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">.98</td></tr><tr><td align="left" rowspan="1" colspan="1">Ironstone outcrops</td><td align="char" char="." rowspan="1" colspan="1">74.83</td><td align="char" char="." rowspan="1" colspan="1">76.85</td><td align="char" char="." rowspan="1" colspan="1">76.81</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.0002</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">.9998</td></tr><tr><td align="left" rowspan="1" colspan="1">Cerrado sensu<italic> stricto</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">114.82</td><td align="char" char="." rowspan="1" colspan="1">121.92</td><td align="char" char="." rowspan="1" colspan="1">121.66</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.003</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">.9970</td></tr><tr><td align="left" rowspan="1" colspan="1">Arboreal cerrado</td><td align="char" char="." rowspan="1" colspan="1">128.66</td><td align="char" char="." rowspan="1" colspan="1">132.98</td><td align="char" char="." rowspan="1" colspan="1">130.78</td><td align="char" char="." rowspan="1" colspan="1">.552</td><td align="char" char="." rowspan="1" colspan="1">.456</td></tr><tr><td align="left" rowspan="1" colspan="1">Dry forest</td><td align="char" char="." rowspan="1" colspan="1">115.62</td><td align="char" char="." rowspan="1" colspan="1">118.62</td><td align="char" char="." rowspan="1" colspan="1">117.89</td><td align="char" char="." rowspan="1" colspan="1">.252</td><td align="char" char="." rowspan="1" colspan="1">.757</td></tr><tr><td align="left" rowspan="1" colspan="1">Riparian forest</td><td align="char" char="." rowspan="1" colspan="1">99.84</td><td align="char" char="." rowspan="1" colspan="1">103.24</td><td align="char" char="." rowspan="1" colspan="1">101.92</td><td align="char" char="." rowspan="1" colspan="1">.15</td><td align="char" char="." rowspan="1" colspan="1">.846</td></tr><tr><td align="left" rowspan="1" colspan="1">Atlantic forest</td><td align="char" char="." rowspan="1" colspan="1">122.45</td><td align="char" char="." rowspan="1" colspan="1">127.21</td><td align="char" char="." rowspan="1" colspan="1">123.40</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">.11</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Finally, we observed that mean leaf sclerophylly of host plants and environmental stress affected the observed values of the <italic>C&#x02010;score</italic> index of gall&#x02010;inducing insects (Table <xref rid="ece35827-tbl-0003" ref-type="table">3</xref>). In fact, leaf sclerophylly (Figure <xref rid="ece35827-fig-0005" ref-type="fig">5</xref>a) and soil quality (Figure <xref rid="ece35827-fig-0005" ref-type="fig">5</xref>b) were positively related to the <italic>C&#x02010;score</italic> index of the gall&#x02010;inducing insect communities, while the aridity index was negatively related (Figure <xref rid="ece35827-fig-0005" ref-type="fig">5</xref>c).</p><table-wrap id="ece35827-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Deviance analysis of the appropriate minimum models to evaluate the effects of stress indicators (environmental and plant) on the co&#x02010;occurrence of galls of <italic>Copaifera langsdorffii</italic> in the seven different study sites/populations</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Response variables</th><th align="left" valign="top" rowspan="1" colspan="1">Explanatory variables</th><th align="left" valign="top" rowspan="1" colspan="1">Deviance</th><th align="left" valign="top" rowspan="1" colspan="1">Residual deviance</th><th align="left" valign="top" rowspan="1" colspan="1">DF</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>F</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>p</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">NES <italic>C&#x02010;score</italic>
+</td><td align="left" rowspan="1" colspan="1">Specific leaf mass</td><td align="char" char="." rowspan="1" colspan="1">0.005</td><td align="char" char="." rowspan="1" colspan="1">0.0054</td><td align="left" rowspan="1" colspan="1">6</td><td align="char" char="." rowspan="1" colspan="1">94.7</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.01</td></tr><tr><td align="left" rowspan="1" colspan="1">NES <italic>C&#x02010;score</italic>
+</td><td align="left" rowspan="1" colspan="1">Aridity index</td><td align="char" char="." rowspan="1" colspan="1">0.001</td><td align="char" char="." rowspan="1" colspan="1">0.0014</td><td align="left" rowspan="1" colspan="1">6</td><td align="char" char="." rowspan="1" colspan="1">10.5</td><td align="char" char="." rowspan="1" colspan="1">.04</td></tr><tr><td align="left" rowspan="1" colspan="1">NES <italic>C&#x02010;score</italic>
+</td><td align="left" rowspan="1" colspan="1">Soil fertility (PC1)</td><td align="char" char="." rowspan="1" colspan="1">0.0001</td><td align="char" char="." rowspan="1" colspan="1">0.0002</td><td align="left" rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">8.42</td><td align="char" char="." rowspan="1" colspan="1">.04</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35827-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Relationship between standardized NES C&#x02010;score values for all evaluated sites and (a) specific leaf mass, (b) soil fertility (axis 1 of the PCA), and (c) aridity index (obtained with environmental variables of each site)</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-9-13919-g005"/></fig></sec><sec sec-type="discussion" id="ece35827-sec-0010"><label>4</label><title>DISCUSSION</title><p>Our assessment of the role of competition in structuring gall communities along a gradient of environmental stress advances the understanding of the role of environmental filters in biotic responses imposed by abiotic changes in a natural environment. Co&#x02010;occurrence analysis and the use of null models (Stone &#x00026; Roberts, <xref rid="ece35827-bib-0086" ref-type="ref">1990</xref>) allowed us to conclude that there is less co&#x02010;occurrence of galls on the same leaflet in xeric environments, whereas species co&#x02010;occur freely on the same leaflet in mesic environments. With this, we can affirm that competition acts in the structuring of gall communities, but only in xeric environments. We also found structural changes in plant characteristics (leaf sclerophylly) and in the pattern of occurrence of galls that were dependent on the environments where they were found, with greater richness, abundance and aggregate patterns in xeric environments. Our results are very similar to patterns of gall richness and abundance previously described in the literature (Fernandes et al., <xref rid="ece35827-bib-0036" ref-type="ref">2005</xref>; Lara et al., <xref rid="ece35827-bib-0058" ref-type="ref">2002</xref>). This set of results allows a better understanding of how environmental changes (e.g., temperature increase, desertification) can modify ecological interactions and the resultant impacts on biodiversity.</p><sec id="ece35827-sec-0011"><label>4.1</label><title>Plastic responses of plants to environmental variation</title><p>Variation in the structural traits of plants along environmental stress gradients can be seen as adaptive strategies, which ultimately determine the range of conditions and resources in which species can successfully survive and reproduce (Sultan, <xref rid="ece35827-bib-0088" ref-type="ref">2001</xref>). The environments studied here represent a gradient of hydric stress, which is manifested in structural differences of leaves in the different habitats, so that changes in these characteristics can be used as indicators of environmental stress. Hence, the changes we observed here in vegetative parameters of <italic>C.&#x000a0;langsdorffii</italic> can alter the interactions between galling insects and their host plants, and may even have effects scaling to higher trophic levels (Craig et al., <xref rid="ece35827-bib-0016" ref-type="ref">2007</xref>; Egan &#x00026; Ott, <xref rid="ece35827-bib-0025" ref-type="ref">2007</xref>).</p></sec><sec id="ece35827-sec-0012"><label>4.2</label><title>Communities of galling insects</title><p>Many studies have shown that the distribution and survival of galling insect communities are dependent on the characteristics of the environment where the host plant is established, and which ultimately shape such traits of galling insects (Blanche, <xref rid="ece35827-bib-0004" ref-type="ref">2000</xref>; Fernandes &#x00026; Price, <xref rid="ece35827-bib-0039" ref-type="ref">1992</xref>; Price, <xref rid="ece35827-bib-0071" ref-type="ref">2002</xref>). Stiling and Moon (<xref rid="ece35827-bib-0085" ref-type="ref">2005</xref>) showed that the quality and availability of plant resources are the bottom&#x02010;up factors that most affect the growth, establishment, survival, and feeding preference of herbivores. Furthermore, host plant quality can directly influence the third trophic level (natural enemies) (Legrand &#x00026; Barbosa, <xref rid="ece35827-bib-0060" ref-type="ref">2003</xref>) and favor a high diversity of galls in the xeric environments (Fernandes &#x00026; Price, <xref rid="ece35827-bib-0039" ref-type="ref">1992</xref>). We found a pattern consistent with those described in the literature, that is, greater richness and abundance of galling insects in the more xeric environments (Fernandes et al., <xref rid="ece35827-bib-0036" ref-type="ref">2005</xref>; Fernandes &#x00026; Price, <xref rid="ece35827-bib-0039" ref-type="ref">1992</xref>; Jesus et al., <xref rid="ece35827-bib-0052" ref-type="ref">2012</xref>; Juli&#x000e3;o et al., <xref rid="ece35827-bib-0054" ref-type="ref">2014</xref>; Lara et al., <xref rid="ece35827-bib-0058" ref-type="ref">2002</xref>). The plants inhabiting xeric environments tend to have higher availability of amino acids and free organic nitrogen compounds, which means that they are more nutritious (Price, <xref rid="ece35827-bib-0069" ref-type="ref">1991</xref>; White, <xref rid="ece35827-bib-0090" ref-type="ref">1969</xref>). These plants also have a limited capacity to present induced defense mechanisms (Fernandes, <xref rid="ece35827-bib-0033" ref-type="ref">1990</xref>, <xref rid="ece35827-bib-0034" ref-type="ref">2000</xref>; Fernandes &#x00026; Negreiros, <xref rid="ece35827-bib-0037" ref-type="ref">2001</xref>; Hoglund, Larsson, &#x00026; Wingsle, <xref rid="ece35827-bib-0048" ref-type="ref">2005</xref>), and thus favor a greater amount of galling insects (Barbosa &#x00026; Fernandes, <xref rid="ece35827-bib-0002" ref-type="ref">2014</xref>). Therefore, it is plausible that there will be a higher abundance and richness of specialized galling insects in these xeric environments, as previously postulated by Fernandes and Price (<xref rid="ece35827-bib-0039" ref-type="ref">1992</xref>).</p></sec><sec id="ece35827-sec-0013"><label>4.3</label><title>Gall community structure</title><p>We showed that habitat quality affects the diversity of gall&#x02010;inducing insect communities and that the structure of these communities varies across the range of stress. Some studies have shown competition between herbivorous insects to be a fairly common (Cornelissen et al., <xref rid="ece35827-bib-0013" ref-type="ref">2013</xref>; Kaplan &#x00026; Denno, <xref rid="ece35827-bib-0055" ref-type="ref">2007</xref>; Reitz &#x00026; Trumble, <xref rid="ece35827-bib-0075" ref-type="ref">2002</xref>) and central process to community structure (Denno, McClure, &#x00026; Ott, <xref rid="ece35827-bib-0020" ref-type="ref">1995</xref>; Jennings, Krupa, Raffel, &#x00026; Rohr, <xref rid="ece35827-bib-0051" ref-type="ref">2010</xref>; Kaplan &#x00026; Denno, <xref rid="ece35827-bib-0055" ref-type="ref">2007</xref>; Reitz &#x00026; Trumble, <xref rid="ece35827-bib-0075" ref-type="ref">2002</xref>). We also showed that the distribution patterns of galls species differed among the studied environments, with more xeric environments having a more segregated community pattern. Considering that we also found that individuals inhabiting xeric environments have smaller leaflets, this pattern is likely to be result of competition for oviposition sites. As expected, galling species are distributed randomly among leaflets in mesic environments, with no patterns of segregation.</p><p>Several factors may explain the nonrandom distribution of galling insect species in xeric environments, such as the high abundance of galls (Fernandes &#x00026; Price, <xref rid="ece35827-bib-0039" ref-type="ref">1992</xref>; Price et al., <xref rid="ece35827-bib-0072" ref-type="ref">1987</xref>), the lower availability of resources (space dispute, suitable places for oviposition), and less activity of natural enemies, all of which would allow more effective infection by galling insects (Fernandes et al., <xref rid="ece35827-bib-0036" ref-type="ref">2005</xref>; Jesus et al., <xref rid="ece35827-bib-0052" ref-type="ref">2012</xref>; Lara et al., <xref rid="ece35827-bib-0058" ref-type="ref">2002</xref>). Another factor that operates on the scale of the leaflet, and which potentially favors the segregation of gall species, is interference competition. Organisms that have a sessile habit are more susceptible to competitive influences because once they are established they cannot escape from their neighbors, with the outcome of such an interaction resulting in a segregated distribution pattern (Cornelissen et al., <xref rid="ece35827-bib-0013" ref-type="ref">2013</xref>; Kuebbing, Souza, &#x00026; Sanders, <xref rid="ece35827-bib-0057" ref-type="ref">2014</xref>; Sanders, Gotelli, Heller, &#x00026; Gordon, <xref rid="ece35827-bib-0079" ref-type="ref">2003</xref>). For example, using invasive plants as a model (i.e., sessile organisms), Sanders et al. (<xref rid="ece35827-bib-0079" ref-type="ref">2003</xref>) demonstrated that interference competition was responsible for the segregation pattern they found, which was similar to that found by the present study. Although galling insects occur on small islands of resources (e.g., the leaflet), we observed that in environments where leaflets are smaller (xeric environments), only a single gall morphospecies occurs on any given leaflet; that is, space might be moderating the choice of oviposition site. Similar results have been found for other systems, such as the invasive plants mentioned above (Sanders et al., <xref rid="ece35827-bib-0079" ref-type="ref">2003</xref>), arthropods (Ellwood, Manica, &#x00026; Foster, <xref rid="ece35827-bib-0026" ref-type="ref">2009</xref>), and galls (Cornelissen et al., <xref rid="ece35827-bib-0013" ref-type="ref">2013</xref>), and in these cases, there was also evidence that competition was the main process responsible for community structure.</p><p>We used null models to evaluate the effect of competition on gall communities in different environments since they were the most viable (Cornelissen et al., <xref rid="ece35827-bib-0013" ref-type="ref">2013</xref>; Ribas &#x00026; Schoereder, <xref rid="ece35827-bib-0076" ref-type="ref">2002</xref>). The alternative of conducting exclusion experiments was not feasible since the effects of the removal of one gall on a competitor are difficult to detect (Cornelissen et al., <xref rid="ece35827-bib-0013" ref-type="ref">2013</xref>). The significant relationship between NES <italic>C&#x02010;score</italic> indices and the indicators of environmental stress (specific leaf mass, soil fertility, and dryness index) found here allows us to conclude that bottom&#x02010;up forces, such as competition for foliar resources, are important drivers of gall community structure. Xeric environments tend to have high NES <italic>C&#x02010;score</italic> values, indicating a low co&#x02010;occurrence of the species evaluated in the study sites and revealing a segregated pattern of gall species in habitats where more sclerophyllous traits prevail.</p><p>In conclusion, we showed how environmental variation can change plant structures and influence higher trophic levels (i.e., galling insects). Xeric environments have nutrient&#x02010;poor and arid soils with plants that are more sclerophyllous (high foliar mass), yet these environments have high richness and abundance of gall&#x02010;inducing insects. Likewise, the co&#x02010;occurrence of species also responded to environmental variation, with less co&#x02010;occurrence of galls in xeric environments and no distribution pattern in mesic environments. The distribution of species among different environments is determined by assembly rules, mainly interspecific competition (Diamond, <xref rid="ece35827-bib-0022" ref-type="ref">1986</xref>), which is defined by the availability of resources. This work represents a step toward a better understanding of the evaluation of abiotic effects in tropical environments and shows how species interactions can be affected by unstable environmental conditions. In this way, we accept our initial hypothesis and argue that competition is an important force in structuring the gall communities in xeric environments.</p></sec></sec><sec sec-type="COI-statement" id="ece35827-sec-0014"><title>CONFLICT OF INTEREST</title><p>There are no conflicts of interest among authors.</p></sec><sec id="ece35827-sec-0015"><title>AUTHOR CONTRIBUTIONS</title><p>Ramos L, Fagundes M, and Solar RR contributed to the experimental design, performed data analysis, and wrote the article. Santos H and Ramos L collected the samples and created the database. All authors contributed to editing a late version of the article.</p></sec></body><back><ack id="ece35827-sec-0018"><title>ACKNOWLEDGMENTS</title><p>The authors are thankful to Universidade Estadual de Montes Claros (UNIMONTES) for the logistical support, and colleagues Ritiely Dur&#x000e3;es, Lara, and Kenedy Siquiera for help in performing in the screenings. We are also grateful to Instituto Chico Mendes de Conserva&#x000e7;&#x000e3;o da Biodiversidade (ICMBio) for the collection license and the Instituto Nacional de Meteorologia (INMET) for providing meteorological data. We thank CAPES for granting a scholarship to the first author.</p></ack><sec sec-type="data-availability" id="ece35827-sec-0017"><title>DATA AVAILABILITY STATEMENT</title><p>All data used in the production of this article are available via Dryad: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.nzs7h44mp" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.nzs7h44mp</ext-link>
+</p></sec><ref-list content-type="cited-references" id="ece35827-bibl-0001"><title>REFERENCES</title><ref id="ece35827-bib-0001"><mixed-citation publication-type="book" id="ece35827-cit-0001">
+<string-name>
+<surname>Almeida</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Poen&#x000e7;a</surname>, <given-names>C. E. B.</given-names>
+</string-name>, <string-name>
+<surname>Sano</surname>, <given-names>S. M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ribeiro</surname>, <given-names>J. F.</given-names>
+</string-name> (<year>1998</year>). <source xml:lang="en">Cerrado: Esp&#x000e9;cies vegetais &#x000fa;teis</source>. <publisher-loc>Brasilia, Brazil</publisher-loc>: <publisher-name>Embrapa</publisher-name>.</mixed-citation></ref><ref id="ece35827-bib-0002"><mixed-citation publication-type="book" id="ece35827-cit-0002">
+<string-name>
+<surname>Barbosa</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name> (<year>2014</year>). <chapter-title>Bottom&#x02010;up effects on gall distribution BT</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Fernandes</surname><given-names>G. W.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Santos</surname><given-names>J. C.</given-names></name></person-group> (Eds.). <source xml:lang="en">Neotropical insect galls</source> (pp. <fpage>99</fpage>&#x02013;<lpage>113</lpage>) <publisher-loc>Dordrecht, The Netherlands</publisher-loc>: <publisher-name>Springer, Netherlands</publisher-name>.</mixed-citation></ref><ref id="ece35827-bib-0003"><mixed-citation publication-type="journal" id="ece35827-cit-0003">
+<string-name>
+<surname>Bates</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000e4;chler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bolker</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Walker</surname>, <given-names>S.</given-names>
+</string-name> (<year>2014</year>). <article-title>Fitting linear mixed-effects models using lme4</article-title>. <source xml:lang="en">arXiv preprint arXiv</source>: <volume>1406</volume>
+<fpage>5823</fpage>.</mixed-citation></ref><ref id="ece35827-bib-0004"><mixed-citation publication-type="journal" id="ece35827-cit-0004">
+<string-name>
+<surname>Blanche</surname>, <given-names>K. R.</given-names>
+</string-name> (<year>2000</year>). <article-title>Diversity of insect&#x02010;induced galls along a temperature&#x02013; rainfall gradient in the tropical savannah region of the Northern Territory, Australia</article-title>. <source xml:lang="en">Austral Ecology</source>, <volume>25</volume>(<issue>4</issue>), <fpage>311</fpage>&#x02013;<lpage>318</lpage>. <pub-id pub-id-type="doi">10.1046/j.1442-9993.2000.01040.x</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0005"><mixed-citation publication-type="journal" id="ece35827-cit-0005">
+<string-name>
+<surname>Bolker</surname>, <given-names>B. M.</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Geange</surname>, <given-names>S. W.</given-names>
+</string-name>, <string-name>
+<surname>Poulsen</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Stevens</surname>, <given-names>M. H. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>White</surname>, <given-names>J.&#x02010;S.</given-names>
+</string-name> (<year>2009</year>). <article-title>Generalized linear mixed models: A practical guide for ecology and evolution</article-title>. <source xml:lang="en">Trends in Ecology and Evolution</source>, <volume>24</volume>(<issue>3</issue>), <fpage>127</fpage>&#x02013;<lpage>135</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2008.10.008</pub-id>
+<pub-id pub-id-type="pmid">19185386</pub-id></mixed-citation></ref><ref id="ece35827-bib-0006"><mixed-citation publication-type="journal" id="ece35827-cit-0006">
+<string-name>
+<surname>Bussotti</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Pollastrini</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Holland</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Br&#x000fc;ggemann</surname>, <given-names>W.</given-names>
+</string-name> (<year>2015</year>). <article-title>Functional traits and adaptive capacity of European forests to climate change</article-title>. <source xml:lang="en">Environmental and Experimental Botany</source>, <volume>111</volume>, <fpage>91</fpage>&#x02013;<lpage>113</lpage>. <pub-id pub-id-type="doi">10.1016/j.envexpbot.2014.11.006</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0007"><mixed-citation publication-type="journal" id="ece35827-cit-0007">
+<string-name>
+<surname>Butterill</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Novotny</surname>, <given-names>V.</given-names>
+</string-name> (<year>2015</year>). <article-title>Gall&#x02010;forming insects in a lowland tropical rainforest: Low species diversity in an extremely specialised guild</article-title>. <source xml:lang="en">Ecological Entomology</source>, <volume>40</volume>(<issue>4</issue>), <fpage>409</fpage>&#x02013;<lpage>419</lpage>. <pub-id pub-id-type="doi">10.1111/een.12198</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0008"><mixed-citation publication-type="journal" id="ece35827-cit-0008">
+<string-name>
+<surname>Carneiro</surname>, <given-names>M. A. A.</given-names>
+</string-name>, <string-name>
+<surname>Branco</surname>, <given-names>C. S. A.</given-names>
+</string-name>, <string-name>
+<surname>Braga</surname>, <given-names>C. E. D.</given-names>
+</string-name>, <string-name>
+<surname>Almada</surname>, <given-names>E. D.</given-names>
+</string-name>, <string-name>
+<surname>Costa</surname>, <given-names>M. B. M.</given-names>
+</string-name>, <string-name>
+<surname>Maia</surname>, <given-names>V. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name> (<year>2009</year>). <article-title>Are gall midge species (Diptera, Cecidomyiidae) host&#x02010;plant specialists?</article-title>
+<source xml:lang="en">Revista Brasileira de Entomologia. Scielo</source>, <volume>53</volume>, <fpage>365</fpage>&#x02013;<lpage>378</lpage>.</mixed-citation></ref><ref id="ece35827-bib-0009"><mixed-citation publication-type="journal" id="ece35827-cit-0009">
+<string-name>
+<surname>Castellanos</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Cuevas&#x02010;Reyes</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Rios&#x02010;Casanova</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Oyama</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Quesada</surname>, <given-names>M.</given-names>
+</string-name> (<year>2006</year>). <article-title>Abundance of gall midges on <italic>Poulsenia armata</italic> (Moraceae): Importance of host plant size and light environment in tropical rain forests</article-title>. <source xml:lang="en">Biotropica</source>, <volume>38</volume>(<issue>4</issue>), <fpage>569</fpage>&#x02013;<lpage>573</lpage>. <pub-id pub-id-type="doi">10.1111/j.1744-7429.2006.00171.x</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0010"><mixed-citation publication-type="journal" id="ece35827-cit-0010">
+<string-name>
+<surname>Chaturvedi</surname>, <given-names>R. K.</given-names>
+</string-name>, <string-name>
+<surname>Raghubanshi</surname>, <given-names>A. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Singh</surname>, <given-names>J. S.</given-names>
+</string-name> (<year>2014</year>). <article-title>Relative effects of different leaf attributes on sapling growth in tropical dry forest</article-title>. <source xml:lang="en">Journal of Plant Ecology</source>, <volume>7</volume>(<issue>6</issue>), <fpage>544</fpage>&#x02013;<lpage>558</lpage>. <pub-id pub-id-type="doi">10.1093/jpe/rtt053</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0011"><mixed-citation publication-type="journal" id="ece35827-cit-0011">
+<string-name>
+<surname>Connor</surname>, <given-names>E. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Simberloff</surname>, <given-names>D.</given-names>
+</string-name> (<year>1983</year>). <article-title>Interspecific competition and species co&#x02010;occurence patterns on islands: Null models and the evaluation of evidence</article-title>. <source xml:lang="en">Oikos</source>, <volume>41</volume>(<issue>3</issue>), <fpage>455</fpage>&#x02013;<lpage>465</lpage>. <pub-id pub-id-type="doi">10.2307/3544105</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0012"><mixed-citation publication-type="journal" id="ece35827-cit-0012">
+<string-name>
+<surname>Cornelissen</surname>, <given-names>J. H. C.</given-names>
+</string-name>, <string-name>
+<surname>Lavorel</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Garnier</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>D&#x000ed;az</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Buchmann</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Gurvich</surname>, <given-names>D. E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Poorter</surname>, <given-names>H.</given-names>
+</string-name> (<year>2003</year>). <article-title>Handbook of protocols for standardised and easy measurement of functional trait</article-title>. <source xml:lang="en">Australian Journal of Botany</source>, <volume>51</volume>, <fpage>335</fpage>&#x02013;<lpage>380</lpage>. <pub-id pub-id-type="doi">10.1071/BT02124</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0013"><mixed-citation publication-type="journal" id="ece35827-cit-0013">
+<string-name>
+<surname>Cornelissen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>de Carvalho Guimar&#x000e3;es</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Rodrigues Viana</surname>, <given-names>J. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Silva</surname>, <given-names>B.</given-names>
+</string-name> (<year>2013</year>). <article-title>Interspecific competition influences the organization of a diverse sessile insect community</article-title>. <source xml:lang="en">Acta Oecologica</source>, <volume>52</volume>, <fpage>15</fpage>&#x02013;<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1016/j.actao.2013.07.001</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0014"><mixed-citation publication-type="journal" id="ece35827-cit-0014">
+<string-name>
+<surname>da Costa</surname>, <given-names>F. V.</given-names>
+</string-name>, <string-name>
+<surname>de Queiroz</surname>, <given-names>A. C. M.</given-names>
+</string-name>, <string-name>
+<surname>Maia</surname>, <given-names>M. L. B.</given-names>
+</string-name>, <string-name>
+<surname>J&#x000fa;nior</surname>, <given-names>R. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fagundes</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Resource allocation in Copaifera langsdorffii (Fabaceae): How supra&#x02010;annual fruiting affects plant traits and herbivory?</article-title>
+<source xml:lang="en">Revista de Biologia Tropical</source>, <volume>64</volume>(<issue>2</issue>), <fpage>507</fpage>&#x02013;<lpage>520</lpage>. <pub-id pub-id-type="doi">10.15517/rbt.v64i2.18586</pub-id>
+<pub-id pub-id-type="pmid">29451751</pub-id></mixed-citation></ref><ref id="ece35827-bib-0015"><mixed-citation publication-type="journal" id="ece35827-cit-0015">
+<string-name>
+<surname>Costa</surname>, <given-names>F. V.</given-names>
+</string-name>, <string-name>
+<surname>Fagundes</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Neves</surname>, <given-names>F. S.</given-names>
+</string-name> (<year>2010</year>). <article-title>Arquitetura da planta e diversidade de galhas associadas &#x000e0; Copaifera langsdorffii (Fabaceae)</article-title>. <source xml:lang="en">Ecologia Austral</source>, <volume>20</volume>(<issue>1</issue>), <fpage>9</fpage>&#x02013;<lpage>17</lpage>.</mixed-citation></ref><ref id="ece35827-bib-0016"><mixed-citation publication-type="journal" id="ece35827-cit-0016">
+<string-name>
+<surname>Craig</surname>, <given-names>T. P.</given-names>
+</string-name>, <string-name>
+<surname>Itami</surname>, <given-names>J. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Craig</surname>, <given-names>J. V.</given-names>
+</string-name> (<year>2007</year>). <article-title>Host plant genotype influences survival of hybrids between eurosta solidaginis host races</article-title>. <source xml:lang="en">Evolution</source>, <volume>61</volume>(<issue>11</issue>), <fpage>2607</fpage>&#x02013;<lpage>2613</lpage>. <pub-id pub-id-type="doi">10.1111/j.1558-5646.2007.00209.x</pub-id>
+<pub-id pub-id-type="pmid">17725623</pub-id></mixed-citation></ref><ref id="ece35827-bib-0017"><mixed-citation publication-type="book" id="ece35827-cit-0017">
+<string-name>
+<surname>Crawley</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2007</year>). <source xml:lang="en">The R book</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>John Wiley &#x00026; Sons</publisher-name>.</mixed-citation></ref><ref id="ece35827-bib-0018"><mixed-citation publication-type="journal" id="ece35827-cit-0018">
+<string-name>
+<surname>Cuevas&#x02010;Reyes</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Quesada</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Oyama</surname>, <given-names>K.</given-names>
+</string-name> (<year>2006</year>). <article-title>Abundance and leaf damage caused by gall&#x02010;inducing insects in a Mexican tropical dry forest</article-title>. <source xml:lang="en">Biotropica</source>, <volume>38</volume>(<issue>1</issue>), <fpage>107</fpage>&#x02013;<lpage>115</lpage>. <pub-id pub-id-type="doi">10.1111/j.1744-7429.2006.00115.x</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0019"><mixed-citation publication-type="journal" id="ece35827-cit-0019">
+<string-name>
+<surname>da Costa</surname>, <given-names>F. V.</given-names>
+</string-name>, <string-name>
+<surname>de Siqueira Neves</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>de Oliveira Silva</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fagundes</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>). <article-title>Relationship between plant development, tannin concentration and insects associated with Copaifera langsdorffii (Fabaceae)</article-title>. <source xml:lang="en">Arthropod&#x02010;Plant Interactions</source>, <volume>5</volume>(<issue>1</issue>), <fpage>9</fpage>&#x02013;<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1007/s11829-010-9111-6</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0020"><mixed-citation publication-type="journal" id="ece35827-cit-0020">
+<string-name>
+<surname>Denno</surname>, <given-names>R. F.</given-names>
+</string-name>, <string-name>
+<surname>McClure</surname>, <given-names>M. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ott</surname>, <given-names>J. R.</given-names>
+</string-name> (<year>1995</year>). <article-title>Interspecific interactions in phytophagous insects: Competition reexamined and resurrected</article-title>. <source xml:lang="en">Annual Review of Entomology</source>, <volume>40</volume>, <fpage>297</fpage>&#x02013;<lpage>331</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.en.40.010195.001501</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0021"><mixed-citation publication-type="journal" id="ece35827-cit-0021">
+<string-name>
+<surname>Diamond</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>1973</year>). <article-title>Distributional ecology of New Guinea birds</article-title>. <source xml:lang="en">Science</source>, <volume>179</volume>(<issue>4075</issue>), <fpage>759</fpage>&#x02013;<lpage>769</lpage>.<pub-id pub-id-type="pmid">17806285</pub-id></mixed-citation></ref><ref id="ece35827-bib-0022"><mixed-citation publication-type="book" id="ece35827-cit-0022">
+<string-name>
+<surname>Diamond</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>1986</year>). <chapter-title>Overwiew: Laboratory experiments, field experiments and natural experiments</chapter-title> In: <person-group person-group-type="editor"><name name-style="western"><surname>Diamond</surname><given-names>J. M.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Case</surname><given-names>T. J.</given-names></name></person-group>, (Eds), <source xml:lang="en">Community ecology</source>. pp. <fpage>3</fpage>-<lpage>22</lpage>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Harper and Row</publisher-name>.</mixed-citation></ref><ref id="ece35827-bib-0023"><mixed-citation publication-type="journal" id="ece35827-cit-0023">
+<string-name>
+<surname>Diamond</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gilpin</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>1982</year>). <article-title>Examination of the &#x0201c;Null&#x0201d; model of connor and simberloff for species co&#x02010;occurrences on islands</article-title>. <source xml:lang="en">Oecologia</source>, <volume>52</volume>, <fpage>64</fpage>&#x02013;<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1007/BF00349013</pub-id>
+<pub-id pub-id-type="pmid">28310110</pub-id></mixed-citation></ref><ref id="ece35827-bib-0024"><mixed-citation publication-type="journal" id="ece35827-cit-0024">
+<string-name>
+<surname>Dwyer</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Hobbs</surname>, <given-names>R. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mayfield</surname>, <given-names>M. M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Specific leaf area responses to environmental gradients through space and time</article-title>. <source xml:lang="en">Ecology</source>, <volume>95</volume>(<issue>2</issue>), <fpage>399</fpage>&#x02013;<lpage>410</lpage>. <pub-id pub-id-type="doi">10.1890/13-0412.1</pub-id>
+<pub-id pub-id-type="pmid">24669733</pub-id></mixed-citation></ref><ref id="ece35827-bib-0025"><mixed-citation publication-type="journal" id="ece35827-cit-0025">
+<string-name>
+<surname>Egan</surname>, <given-names>S. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ott</surname>, <given-names>J. R.</given-names>
+</string-name> (<year>2007</year>). <article-title>Host plant quality and local adaptation determine the distribution of a gall&#x02010;forming herbivore</article-title>. <source xml:lang="en">Ecology</source>, <volume>88</volume>(<issue>11</issue>), <fpage>2868</fpage>&#x02013;<lpage>2879</lpage>. <pub-id pub-id-type="doi">10.1890/06-1303.1</pub-id>
+<pub-id pub-id-type="pmid">18051656</pub-id></mixed-citation></ref><ref id="ece35827-bib-0026"><mixed-citation publication-type="journal" id="ece35827-cit-0026">
+<string-name>
+<surname>Ellwood</surname>, <given-names>F. M. D.</given-names>
+</string-name>, <string-name>
+<surname>Manica</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Foster</surname>, <given-names>W. A.</given-names>
+</string-name> (<year>2009</year>). <article-title>Stochastic and deterministic processes jointly structure tropical arthropod communities</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>12</volume>(<issue>4</issue>), <fpage>277</fpage>&#x02013;<lpage>284</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2009.01284.x</pub-id>
+<pub-id pub-id-type="pmid">19220392</pub-id></mixed-citation></ref><ref id="ece35827-bib-0027"><mixed-citation publication-type="journal" id="ece35827-cit-0027">
+<string-name>
+<surname>Esp&#x000ed;rito&#x02010;Santo</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>de S. Neves</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Andrade&#x02010;Neto</surname>, <given-names>F. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name> (<year>2007</year>). <article-title>Plant architecture and meristem dynamics as the mechanisms determining the diversity of gall&#x02010;inducing insects</article-title>. <source xml:lang="en">Oecologia</source>, <volume>153</volume>(<issue>2</issue>), <fpage>353</fpage>&#x02013;<lpage>364</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-007-0737-8</pub-id>
+<pub-id pub-id-type="pmid">17453251</pub-id></mixed-citation></ref><ref id="ece35827-bib-0028"><mixed-citation publication-type="book" id="ece35827-cit-0028">
+<string-name>
+<surname>Fagundes</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <chapter-title>Gall community associated with <italic>Copaifera langsdorffii</italic> (Fabaceae): The role of inter and intra&#x02010;annual plant phenology</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Fernandes</surname><given-names>G. W.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Santos</surname><given-names>J. C.</given-names></name></person-group> (Eds.), <source xml:lang="en">Neotropical insect galls</source> (pp. <fpage>163</fpage>&#x02013;<lpage>177</lpage>). <publisher-loc>Dordrecht, The Netherlands</publisher-loc>: <publisher-name>Springer, Netherlands</publisher-name>.</mixed-citation></ref><ref id="ece35827-bib-0029"><mixed-citation publication-type="journal" id="ece35827-cit-0029">
+<string-name>
+<surname>Fagundes</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name> (<year>2011</year>). <article-title>Insect herbivores associated with Baccharis dracunculifolia (Asteraceae): Responses of gall&#x02010;forming and free&#x02010;feeding insects to latitudinal variation</article-title>. <source xml:lang="en">Revista de Biologia Tropical. Scielo</source>, <volume>59</volume>, <fpage>1419</fpage>&#x02013;<lpage>1432</lpage>.</mixed-citation></ref><ref id="ece35827-bib-0030"><mixed-citation publication-type="journal" id="ece35827-cit-0030">
+<string-name>
+<surname>Fagundes</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Neves</surname>, <given-names>F. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name> (<year>2005</year>). <article-title>Direct and indirect interactions involving ants, insect herbivores, parasitoids, and the host plant Baccharis dracunculifolia (Asteraceae)</article-title>. <source xml:lang="en">Ecological Entomology</source>, <volume>30</volume>(<issue>1</issue>), <fpage>28</fpage>&#x02013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1111/j.0307-6946.2005.00668.x</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0031"><mixed-citation publication-type="journal" id="ece35827-cit-0031">
+<string-name>
+<surname>Fagundes</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Xavier</surname>, <given-names>R. C. F.</given-names>
+</string-name>, <string-name>
+<surname>Faria</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Lopes</surname>, <given-names>L. G. O.</given-names>
+</string-name>, <string-name>
+<surname>Cuevas&#x02010;Reyes</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Reis&#x02010;Junior</surname>, <given-names>R.</given-names>
+</string-name> (<year>2018</year>). <article-title>Plant phenological asynchrony and community structure of gall&#x02010;inducing insects in a super&#x02010;host tropical tree species</article-title>. <source xml:lang="en">Ecology Evolution</source>, <volume>8</volume>(<issue>22</issue>):<fpage>10687</fpage>&#x02013;<lpage>10697</lpage>.<pub-id pub-id-type="pmid">30519398</pub-id></mixed-citation></ref><ref id="ece35827-bib-0032"><mixed-citation publication-type="journal" id="ece35827-cit-0032">
+<string-name>
+<surname>Fagundes</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Xavier</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Ramos</surname>, <given-names>L. F. L.</given-names>
+</string-name>, <string-name>
+<surname>Siqueira</surname>, <given-names>W. K.</given-names>
+</string-name>, <string-name>
+<surname>Reis&#x02010;Junior</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Souza</surname>, <given-names>M. L.</given-names>
+</string-name> (<year>2016</year>). <article-title>Does inter&#x02010;plant variation in sprouting time affect the growth/reproduction trade&#x02010;off and herbivory in a tropical tree species?</article-title>
+<source xml:lang="en">Acta Botanica Brasilica</source>, <volume>30</volume>(<issue>November</issue>), <fpage>602</fpage>&#x02013;<lpage>608</lpage>. <pub-id pub-id-type="doi">10.1590/0102-33062016abb0236</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0033"><mixed-citation publication-type="journal" id="ece35827-cit-0033">
+<string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name> (<year>1990</year>). <article-title>Hypersensitivity: A Neglected Plant Resistance Mechanism Against Insect Herbivores</article-title>. <source xml:lang="en">Environmental Entomology</source>, <volume>19</volume>(<issue>5</issue>), <fpage>1173</fpage>&#x02013;<lpage>1182</lpage>. <pub-id pub-id-type="doi">10.1093/ee/19.5.1173</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0034"><mixed-citation publication-type="journal" id="ece35827-cit-0034">
+<string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name> (<year>2000</year>). <article-title>Plants fight gall formation: Hypersensitivity</article-title>. <source xml:lang="en">Ciencia e cultura</source>, <volume>52</volume>, <fpage>49</fpage>&#x02013;<lpage>54</lpage>.</mixed-citation></ref><ref id="ece35827-bib-0035"><mixed-citation publication-type="journal" id="ece35827-cit-0035">
+<string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>L&#x000fc;ttge</surname>, <given-names>U.</given-names>
+</string-name> (<year>2003</year>). <article-title>Hypersensitivity of <italic>Fagus sylvatica</italic> L. against leaf galling insects</article-title>. <source xml:lang="en">Trees</source>, <volume>17</volume>(<issue>5</issue>), <fpage>407</fpage>&#x02013;<lpage>411</lpage>. <pub-id pub-id-type="doi">10.1007/s00468-003-0252-4</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0036"><mixed-citation publication-type="book" id="ece35827-cit-0036">
+<string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name>, <string-name>
+<surname>Gon&#x000e7;alves&#x02010;Alvim</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Carneiro</surname>, <given-names>M. A. A.</given-names>
+</string-name> (<year>2005</year>). <chapter-title>Habitat&#x02010;driven effects on the diversity of gall&#x02010;inducing insects in the Brazilian Cerrado</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Raman</surname><given-names>A.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Schaefer</surname><given-names>C. W.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Withers</surname><given-names>T. M.</given-names></name></person-group> (Eds.) <source xml:lang="en">Biology, ecology, and evolution of gall&#x02010;inducing Arthropods</source> (Vol. <volume>2</volume>, pp. <fpage>693</fpage>&#x02013;<lpage>708</lpage>). <publisher-loc>Hauppauge, NY</publisher-loc>: <publisher-name>Science Publishers Inc</publisher-name>.</mixed-citation></ref><ref id="ece35827-bib-0037"><mixed-citation publication-type="journal" id="ece35827-cit-0037">
+<string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Negreiros</surname>, <given-names>D.</given-names>
+</string-name> (<year>2001</year>). <article-title>The occurence and effectiveness of hypersenstivie reaction against galling herbivores across host taxa</article-title>. <source xml:lang="en">Ecological Entomology</source>, <volume>26</volume>(<issue>1</issue>), <fpage>46</fpage>&#x02013;<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2311.2001.00290.x</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0038"><mixed-citation publication-type="journal" id="ece35827-cit-0038">
+<string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Price</surname>, <given-names>P. W.</given-names>
+</string-name> (<year>1988</year>). <article-title>Biogeographical gradients in galling species richness Tests of hypotheses</article-title>. <source xml:lang="en">Oecologia</source>, <volume>76</volume>(<issue>2</issue>), <fpage>161</fpage>&#x02013;<lpage>167</lpage>. <pub-id pub-id-type="doi">10.1007/BF00379948</pub-id>
+<pub-id pub-id-type="pmid">28312192</pub-id></mixed-citation></ref><ref id="ece35827-bib-0039"><mixed-citation publication-type="journal" id="ece35827-cit-0039">
+<string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Price</surname>, <given-names>P. W.</given-names>
+</string-name> (<year>1992</year>). <article-title>The adaptive significance of insect gall distribution : Survivorship of species in xeric and mesic habitats</article-title>. <source xml:lang="en">Oecologia</source>, <volume>90</volume>(<issue>1</issue>), <fpage>14</fpage>&#x02013;<lpage>20</lpage>.<pub-id pub-id-type="pmid">28312265</pub-id></mixed-citation></ref><ref id="ece35827-bib-0040"><mixed-citation publication-type="journal" id="ece35827-cit-0040">
+<string-name>
+<surname>Giulietti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Menezes</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Pirani</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Meguro</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wanderley</surname>, <given-names>M.</given-names>
+</string-name> (<year>1987</year>). <article-title>Flora da Serra do Cip&#x000f3;, Minas Gerais: Caracteriza&#x000e7;&#x000e3;o e Lista das Esp&#x000e9;cies</article-title>. <source xml:lang="en">Boletim De Bot&#x000e2;nica</source>, <volume>9</volume>, <fpage>1</fpage>&#x02013;<lpage>151</lpage>.<pub-id pub-id-type="doi">10.11606/issn.2316-9052.v9i0p1-151</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0041"><mixed-citation publication-type="journal" id="ece35827-cit-0041">
+<string-name>
+<surname>Gotelli</surname>, <given-names>N. J.</given-names>
+</string-name> (<year>2000</year>). <article-title>Null model analysis of species co&#x02010;occurrence patterns</article-title>. <source xml:lang="en">Ecology</source>, <volume>81</volume>(<issue>9</issue>), <fpage>2606</fpage>&#x02013;<lpage>2621</lpage>.</mixed-citation></ref><ref id="ece35827-bib-0042"><mixed-citation publication-type="book" id="ece35827-cit-0042">
+<string-name>
+<surname>Gotelli</surname>, <given-names>N. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Entsminger</surname>, <given-names>G. L.</given-names>
+</string-name> (<year>2001</year>). <source xml:lang="en">EcoSim: Null models software for ecology</source>. <publisher-name>Acquired Intelligence, Kesey&#x02010;Bear</publisher-name> Retrieved from <ext-link ext-link-type="uri" xlink:href="http://homepages.together.net/-gentsmin/ecosim.html">http://homepages.together.net/-gentsmin/ecosim.html</ext-link>
+</mixed-citation></ref><ref id="ece35827-bib-0043"><mixed-citation publication-type="book" id="ece35827-cit-0043">
+<string-name>
+<surname>Gotelli</surname>, <given-names>N. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Graves</surname>, <given-names>G. R.</given-names>
+</string-name> (<year>1996</year>). <source xml:lang="en">Null models in ecology</source>. <publisher-loc>Washington, DC</publisher-loc>: <publisher-name>Smithsonian Institute Press</publisher-name>.</mixed-citation></ref><ref id="ece35827-bib-0044"><mixed-citation publication-type="journal" id="ece35827-cit-0044">
+<string-name>
+<surname>Gotelli</surname>, <given-names>N. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rohde</surname>, <given-names>K.</given-names>
+</string-name> (<year>2002</year>). <article-title>Co&#x02010;occurrence of ectoparasites of marine fishes: A null model analysis</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>5</volume>(<issue>1</issue>), <fpage>86</fpage>&#x02013;<lpage>94</lpage>. <pub-id pub-id-type="doi">10.1046/j.1461-0248.2002.00288.x</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0045"><mixed-citation publication-type="journal" id="ece35827-cit-0045">
+<string-name>
+<surname>Hairston</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>F. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Slobodkin</surname>, <given-names>L. B.</given-names>
+</string-name> (<year>1960</year>). <article-title>The University of Chicago community structure, population control, and competition</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>94</volume>(<issue>879</issue>), <fpage>421</fpage>&#x02013;<lpage>425</lpage>. <pub-id pub-id-type="doi">10.1086/282146</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0046"><mixed-citation publication-type="journal" id="ece35827-cit-0046">
+<string-name>
+<surname>Hardy</surname>, <given-names>N. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cook</surname>, <given-names>L. G.</given-names>
+</string-name> (<year>2010</year>). <article-title>Gall&#x02010;induction in insects: Evolutionary dead&#x02010;end or speciation driver?</article-title>
+<source xml:lang="en">BMC Evolutionary Biology</source>, <volume>10</volume>(<issue>257</issue>), <fpage>19</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">20089189</pub-id></mixed-citation></ref><ref id="ece35827-bib-0047"><mixed-citation publication-type="journal" id="ece35827-cit-0047">
+<string-name>
+<surname>H&#x000f6;glund</surname>, <given-names>S.</given-names>
+</string-name> (<year>2014</year>). <article-title>Timing of growth determines fitness and performance of a galling insect on willow</article-title>. <source xml:lang="en">Ecological Entomology</source>, <volume>39</volume>(<issue>2</issue>), <fpage>159</fpage>&#x02013;<lpage>167</lpage>. <pub-id pub-id-type="doi">10.1111/een.12078</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0048"><mixed-citation publication-type="journal" id="ece35827-cit-0048">
+<string-name>
+<surname>Hoglund</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Larsson</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wingsle</surname>, <given-names>G.</given-names>
+</string-name> (<year>2005</year>). <article-title>Both hypersensitive and non&#x02010;hypersensitive responses are associated with resistance in <italic>Salix viminalis</italic> against the gall midge Dasineura marginemtorquens</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>, <volume>56</volume>(<issue>422</issue>), <fpage>3215</fpage>&#x02013;<lpage>3222</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/eri318</pub-id>
+<pub-id pub-id-type="pmid">16263902</pub-id></mixed-citation></ref><ref id="ece35827-bib-0049"><mixed-citation publication-type="journal" id="ece35827-cit-0049">
+<string-name>
+<surname>Hunter</surname>, <given-names>M. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Price</surname>, <given-names>P. W.</given-names>
+</string-name> (<year>1992</year>). <article-title>Playing chutes and ladders: Heterogeneity and the relative roles of bottom&#x02010;up and top&#x02010;down forces in natural communities</article-title>. <source xml:lang="en">Ecology</source>, <volume>73</volume>(<issue>3</issue>), <fpage>724</fpage>&#x02013;<lpage>732</lpage>. <pub-id pub-id-type="doi">10.2307/1940152</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0050"><mixed-citation publication-type="miscellaneous" id="ece35827-cit-0050">
+<string-name>
+<surname>Jari Oksanen</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Blanchet</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Friendly</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kindt</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Legendre</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>McGlinn</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; &#x00026; <string-name>
+<surname>Wagner</surname>, <given-names>H.</given-names>
+</string-name> (<year>2019</year>). <article-title>vegan: Community ecology package, R package version 2.5-5</article-title>. <ext-link ext-link-type="uri" xlink:href="https://CRAN.R-project.org/package=vegan">https://CRAN.R-project.org/package=vegan</ext-link>
+</mixed-citation></ref><ref id="ece35827-bib-0051"><mixed-citation publication-type="journal" id="ece35827-cit-0051">
+<string-name>
+<surname>Jennings</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name>
+<surname>Krupa</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Raffel</surname>, <given-names>T. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rohr</surname>, <given-names>J. R.</given-names>
+</string-name> (<year>2010</year>). <article-title>Evidence for competition between carnivorous plants and spiders</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>277</volume>, <fpage>3001</fpage>&#x02013;<lpage>3008</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2010.0465</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0052"><mixed-citation publication-type="journal" id="ece35827-cit-0052">
+<string-name>
+<surname>Jesus</surname>, <given-names>F. M.</given-names>
+</string-name>, <string-name>
+<surname>Silva</surname>, <given-names>J. O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name> (<year>2012</year>). <article-title>Differential female attack and larval performance of a galling cecidomyiid on the host, <italic>Astronium fraxinifolium</italic> (Anacardiaceae), in contrasting habitats</article-title>. <source xml:lang="en">Entomological News</source>, <volume>122</volume>(<issue>1</issue>), <fpage>10</fpage>&#x02013;<lpage>21</lpage>.</mixed-citation></ref><ref id="ece35827-bib-0053"><mixed-citation publication-type="journal" id="ece35827-cit-0053">
+<string-name>
+<surname>Joy</surname>, <given-names>J. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Crespi</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2007</year>). <article-title>Adaptive radiation of gall&#x02010;inducing insects within a single host&#x02010;plant species</article-title>. <source xml:lang="en">Evolution</source>, <volume>61</volume>(<issue>4</issue>), <fpage>784</fpage>&#x02013;<lpage>795</lpage>. <pub-id pub-id-type="doi">10.1111/j.1558-5646.2007.00069.x</pub-id>
+<pub-id pub-id-type="pmid">17439611</pub-id></mixed-citation></ref><ref id="ece35827-bib-0054"><mixed-citation publication-type="book" id="ece35827-cit-0054">
+<string-name>
+<surname>Juli&#x000e3;o</surname>, <given-names>G. R.</given-names>
+</string-name>, <string-name>
+<surname>Almada</surname>, <given-names>E. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name> (<year>2014</year>). <chapter-title>Galling insects in the Pantanal wetland and Amazonian rainforest</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Fernandes</surname><given-names>G. W.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Santos</surname><given-names>J. C.</given-names></name></person-group> (Eds.), <source xml:lang="en">Neotropical insect galls</source> (pp. <fpage>377</fpage>&#x02013;<lpage>403</lpage>). <publisher-loc>Dordrecht, The Netherlands</publisher-loc>: <publisher-name>Springer, Netherlands</publisher-name>.</mixed-citation></ref><ref id="ece35827-bib-0055"><mixed-citation publication-type="journal" id="ece35827-cit-0055">
+<string-name>
+<surname>Kaplan</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Denno</surname>, <given-names>F. R.</given-names>
+</string-name> (<year>2007</year>). <article-title>Interspecific interactions in phytophagous insects revisited : A quantitative assessment of competition theory</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>10</volume>(<issue>10</issue>), <fpage>977</fpage>&#x02013;<lpage>994</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2007.01093.x</pub-id>
+<pub-id pub-id-type="pmid">17855811</pub-id></mixed-citation></ref><ref id="ece35827-bib-0056"><mixed-citation publication-type="journal" id="ece35827-cit-0056">
+<string-name>
+<surname>Kuchenbecker</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fagundes</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Diversity of insects associated with two common plants in the Brazilian Cerrado: Responses of two guilds of herbivores to bottom&#x02010;up and top&#x02010;down forces</article-title>. <source xml:lang="en">European Journal of Entomology</source>, <volume>115</volume>, <fpage>354</fpage>&#x02013;<lpage>363</lpage>. <pub-id pub-id-type="doi">10.14411/eje.2018.035</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0057"><mixed-citation publication-type="journal" id="ece35827-cit-0057">
+<string-name>
+<surname>Kuebbing</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Souza</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sanders</surname>, <given-names>N. J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Effects of co&#x02010;occurring non&#x02010;native invasive plant species on old&#x02010;field succession</article-title>. <source xml:lang="en">Forest Ecology and Management</source>, <volume>324</volume>, <fpage>196</fpage>&#x02013;<lpage>204</lpage>. <pub-id pub-id-type="doi">10.1016/J.FORECO.2013.10.031</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0058"><mixed-citation publication-type="journal" id="ece35827-cit-0058">
+<string-name>
+<surname>Lara</surname>, <given-names>A. C. F.</given-names>
+</string-name>, <string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gon&#x000e7;alves&#x02010;Alvim</surname>, <given-names>S. J.</given-names>
+</string-name> (<year>2002</year>). <article-title>Tests of hypotheses on patterns of gall distribution along an altitudinal gradient</article-title>. <source xml:lang="en">Tropical Zoology</source>, <volume>15</volume>(<issue>2</issue>), <fpage>219</fpage>&#x02013;<lpage>232</lpage>. <pub-id pub-id-type="doi">10.1080/03946975.2002.10531176</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0059"><mixed-citation publication-type="journal" id="ece35827-cit-0059">
+<string-name>
+<surname>L&#x000e1;zaro&#x02010;Nogal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Matesanz</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Godoy</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e9;rez&#x02010;Trautman</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Gianoli</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Valladares</surname>, <given-names>F.</given-names>
+</string-name> (<year>2015</year>). <article-title>Environmental heterogeneity leads to higher plasticity in dry&#x02010;edge populations of a semi&#x02010;arid Chilean shrub: Insights into climate change responses</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>103</volume>(<issue>2</issue>), <fpage>338</fpage>&#x02013;<lpage>350</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2745.12372</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0060"><mixed-citation publication-type="journal" id="ece35827-cit-0060">
+<string-name>
+<surname>Legrand</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barbosa</surname>, <given-names>P.</given-names>
+</string-name> (<year>2003</year>). <article-title>Plant morphological complexity impacts foraging efficiency of adult <italic>Coccinella septempunctata</italic> L. (Coleoptera: Coccinellidae)</article-title>. <source xml:lang="en">Environmental Entomology</source>, <volume>32</volume>(<issue>5</issue>), <fpage>1219</fpage>&#x02013;<lpage>1226</lpage>. <pub-id pub-id-type="doi">10.1603/0046-225x-32.5.1219</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0061"><mixed-citation publication-type="journal" id="ece35827-cit-0061">
+<string-name>
+<surname>Malinga</surname>, <given-names>G. M.</given-names>
+</string-name>, <string-name>
+<surname>Valtonen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nyeko</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Vesterinen</surname>, <given-names>E. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Roininen</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>). <article-title>Bottom&#x02010;up impact on the cecidomyiid leaf galler and its parasitism in a tropical rainforest</article-title>. <source xml:lang="en">Oecologia</source>, <volume>176</volume>(<issue>2</issue>), <fpage>511</fpage>&#x02013;<lpage>520</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-014-3024-5</pub-id>
+<pub-id pub-id-type="pmid">25124946</pub-id></mixed-citation></ref><ref id="ece35827-bib-0062"><mixed-citation publication-type="journal" id="ece35827-cit-0062">
+<string-name>
+<surname>Murdoch</surname>, <given-names>William W.</given-names>
+</string-name> (<year>1966</year>). <article-title>Community Structure, Population Control, and Competition-A Critique</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>100</volume>(<issue>912</issue>), <fpage>219</fpage>&#x02013;<lpage>226</lpage>. <pub-id pub-id-type="doi">10.1086/282415</pub-id>. <ext-link ext-link-type="uri" xlink:href="https://www.journals.uchicago.edu/doi/abs/10.1086/282415">https://www.journals.uchicago.edu/doi/abs/10.1086/282415</ext-link>
+</mixed-citation></ref><ref id="ece35827-bib-0063"><mixed-citation publication-type="book" id="ece35827-cit-0063">
+<string-name>
+<surname>Oliveira</surname>, <given-names>P. E.</given-names>
+</string-name> (<year>1998</year>). <chapter-title>Fenologia e biologia reprodutiva das esp&#x000e9;cies de cerrado</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Sano</surname><given-names>A.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>S&#x000e3;o Paulo</surname><given-names>S. M.</given-names></name></person-group> (Eds.), <source xml:lang="en">Cerrado: Ecologia e flora</source> (pp. <fpage>274</fpage>&#x02013;<lpage>290</lpage>). <publisher-loc>Brasilia, Brazil</publisher-loc>: <publisher-name>Embrapa</publisher-name>.</mixed-citation></ref><ref id="ece35827-bib-0064"><mixed-citation publication-type="book" id="ece35827-cit-0064">
+<string-name>
+<surname>Oliveira&#x02010;Filho</surname>, <given-names>A. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ratter</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2002</year>). <chapter-title>Vegetation physiognomies and woody flora of the Cerrado Biome</chapter-title>
+<person-group person-group-type="editor"><name name-style="western"><surname>Oliveira</surname><given-names>P. S.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Marquis</surname><given-names>R. J.</given-names></name></person-group> (Eds.). <source xml:lang="en">The Cerrados of Brazil: Ecology and Natural History of a Neotropical Savanna</source>. p. <fpage>91</fpage>-<lpage>120</lpage>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Columbia University Press</publisher-name>.</mixed-citation></ref><ref id="ece35827-bib-0065"><mixed-citation publication-type="journal" id="ece35827-cit-0065">
+<string-name>
+<surname>Ollerstam</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Rohfritsch</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Hoglund</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Larsson</surname>, <given-names>S.</given-names>
+</string-name> (<year>2002</year>). <article-title>A rapid hypersensitive response associated with resistance in the willow Salix viminalis against the gall midge Dasineura marginemtorquens</article-title>. <source xml:lang="en">Entomologia Experimentalis et Applicata</source>, <volume>102</volume>(<issue>2</issue>), <fpage>153</fpage>&#x02013;<lpage>162</lpage>. <pub-id pub-id-type="doi">10.1046/j.1570-7458.2002.00935.x</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0066"><mixed-citation publication-type="journal" id="ece35827-cit-0066">
+<string-name>
+<surname>Pennington</surname>, <given-names>D. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Collins</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>2007</year>). <article-title>Response of an aridland ecosystem to interannual climate variability and prolonged drought</article-title>. <source xml:lang="en">Landscape Ecology</source>, <volume>22</volume>(<issue>6</issue>), <fpage>897</fpage>&#x02013;<lpage>910</lpage>. <pub-id pub-id-type="doi">10.1007/s10980-006-9071-5</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0067"><mixed-citation publication-type="journal" id="ece35827-cit-0067">
+<string-name>
+<surname>Picotte</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Rhode</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cruzan</surname>, <given-names>M. B.</given-names>
+</string-name> (<year>2009</year>). <article-title>Leaf morphological responses to variation in water availability for plants in the <italic>Piriqueta caroliniana</italic> complex</article-title>. <source xml:lang="en">Plant Ecology</source>, <volume>200</volume>, <fpage>267</fpage>&#x02013;<lpage>275</lpage>. <pub-id pub-id-type="doi">10.1007/s11258-008-9451-9</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0068"><mixed-citation publication-type="journal" id="ece35827-cit-0068">
+<string-name>
+<surname>Poorter</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Niinemets</surname>, <given-names>&#x000dc;.</given-names>
+</string-name>, <string-name>
+<surname>Poorter</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>I. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Villar</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>). <article-title>Causes and consequences of variation in leaf mass per area (LMA):A meta&#x02010;analysis</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>182</volume>(<issue>3</issue>), <fpage>565</fpage>&#x02013;<lpage>588</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2009.02830.x</pub-id>
+<pub-id pub-id-type="pmid">19434804</pub-id></mixed-citation></ref><ref id="ece35827-bib-0069"><mixed-citation publication-type="journal" id="ece35827-cit-0069">
+<string-name>
+<surname>Price</surname>, <given-names>P. W.</given-names>
+</string-name> (<year>1991</year>). <article-title>The plant vigor hypothesis and herbivore attack</article-title>. <source xml:lang="en">Oikos</source>, <volume>62</volume>(<issue>2</issue>), <fpage>244</fpage>&#x02013;<lpage>251</lpage>. <pub-id pub-id-type="doi">10.2307/3545270</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0070"><mixed-citation publication-type="book" id="ece35827-cit-0070">
+<string-name>
+<surname>Price</surname>, <given-names>P. W.</given-names>
+</string-name> (<year>1997</year>). <source xml:lang="en">Insect ecology</source>, (<edition designator="3">3rd ed.</edition>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>John Wiley &#x00026; Sons</publisher-name>.</mixed-citation></ref><ref id="ece35827-bib-0071"><mixed-citation publication-type="journal" id="ece35827-cit-0071">
+<string-name>
+<surname>Price</surname>, <given-names>P. W.</given-names>
+</string-name> (<year>2002</year>). <article-title>Resource&#x02010;driven terrestrial interaction webs</article-title>. <source xml:lang="en">Ecological Research</source>, <volume>17</volume>(<issue>2</issue>), <fpage>241</fpage>&#x02013;<lpage>247</lpage>. <pub-id pub-id-type="doi">10.1046/j.1440-1703.2002.00483.x</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0072"><mixed-citation publication-type="journal" id="ece35827-cit-0072">
+<string-name>
+<surname>Price</surname>, <given-names>P. W.</given-names>
+</string-name>, <string-name>
+<surname>Fernandes</surname>, <given-names>G. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Waring</surname>, <given-names>G. L.</given-names>
+</string-name> (<year>1987</year>). <article-title>Adaptive nature of insect galls</article-title>. <source xml:lang="en">Environmental Entomology</source>, <volume>16</volume>(<issue>1</issue>), <fpage>15</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1093/ee/16.1.15</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0073"><mixed-citation publication-type="book" id="ece35827-cit-0073">
+<collab collab-type="authors">R Core Team</collab>
+. (<year>2017</year>). <source xml:lang="en">R: A language and environment for statistical computing</source>. <publisher-loc>Vienna, Austria</publisher-loc>: <publisher-name>R Foundation for Statistical Computing</publisher-name> Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.r-project.org/">https://www.r-project.org/</ext-link>
+</mixed-citation></ref><ref id="ece35827-bib-0074"><mixed-citation publication-type="journal" id="ece35827-cit-0074">
+<string-name>
+<surname>Reich</surname>, <given-names>P. B.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>I. J.</given-names>
+</string-name>, <string-name>
+<surname>Cavender&#x02010;Bares</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Craine</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Oleksyn</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Westoby</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Walters</surname>, <given-names>M. B.</given-names>
+</string-name> (<year>2003</year>). <article-title>The evolution of plant functional variation: Traits, spectra, and strategies</article-title>. <source xml:lang="en">International Journal of Plant Sciences</source>, <volume>164</volume>, <fpage>143</fpage>&#x02013;<lpage>164</lpage>. <pub-id pub-id-type="doi">10.1086/374368</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0075"><mixed-citation publication-type="journal" id="ece35827-cit-0075">
+<string-name>
+<surname>Reitz</surname>, <given-names>S. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Trumble</surname>, <given-names>J. T.</given-names>
+</string-name> (<year>2002</year>). <article-title>Competitive displacement among insects and arachnids</article-title>. <source xml:lang="en">Annual Review of Entomology</source>, <volume>47</volume>(<issue>1</issue>), <fpage>435</fpage>&#x02013;<lpage>465</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.ento.47.091201.145227</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0076"><mixed-citation publication-type="journal" id="ece35827-cit-0076">
+<string-name>
+<surname>Ribas</surname>, <given-names>C. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schoereder</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>2002</year>). <article-title>Are all ant mosaics caused by competition?</article-title>
+<source xml:lang="en">Oecologia</source>, <volume>131</volume>(<issue>4</issue>), <fpage>606</fpage>&#x02013;<lpage>611</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-002-0912-x</pub-id>
+<pub-id pub-id-type="pmid">28547556</pub-id></mixed-citation></ref><ref id="ece35827-bib-0077"><mixed-citation publication-type="journal" id="ece35827-cit-0077">
+<string-name>
+<surname>Ribeiro</surname>, <given-names>S. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Basset</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2007</year>). <article-title>Gall&#x02010;forming and free&#x02010;feeding herbivory along vertical gradients in a lowland tropical rainforest: The importance of leaf sclerophylly</article-title>. <source xml:lang="en">Ecography</source>, <volume>30</volume>(<issue>5</issue>), <fpage>663</fpage>&#x02013;<lpage>672</lpage>. <pub-id pub-id-type="doi">10.1111/j.2007.0906-7590.05083.x</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0078"><mixed-citation publication-type="book" id="ece35827-cit-0078">
+<string-name>
+<surname>Rizzini</surname>, <given-names>C. T.</given-names>
+</string-name> (<year>1997</year>). <source xml:lang="en">Tratado de fitogeografia do Brasil: Aspectos ecol&#x000f3;gicos, sociol&#x000f3;gicos e flor&#x000ed;sticos</source>. <publisher-loc>Rio de Janeiro, Brazil</publisher-loc>: <publisher-name>&#x000c2;mbito Cultural</publisher-name>.</mixed-citation></ref><ref id="ece35827-bib-0079"><mixed-citation publication-type="journal" id="ece35827-cit-0079">
+<string-name>
+<surname>Sanders</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<surname>Gotelli</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<surname>Heller</surname>, <given-names>N. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gordon</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2003</year>). <article-title>Community disassembly by an invasive species</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>100</volume>(<issue>5</issue>), <fpage>2474</fpage>&#x02013;<lpage>2477</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0437913100</pub-id>
+<pub-id pub-id-type="pmid">12604772</pub-id></mixed-citation></ref><ref id="ece35827-bib-0080"><mixed-citation publication-type="book" id="ece35827-cit-0080">
+<string-name>
+<surname>Sano</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2008</year>). <source xml:lang="en">Cerrado: Ecologia e flora. 1.1</source>. <publisher-loc>Brasilia, Brazil</publisher-loc>: <publisher-name>Embrapa</publisher-name>.</mixed-citation></ref><ref id="ece35827-bib-0081"><mixed-citation publication-type="journal" id="ece35827-cit-0081">
+<string-name>
+<surname>Sapijanskas</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Paquette</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Potvin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kunert</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Loreau</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Tropical tree diversity enhances light capture through crown plasticity and spatial and temporal niche differences</article-title>. <source xml:lang="en">Ecology</source>, <volume>95</volume>(<issue>9</issue>), <fpage>2479</fpage>&#x02013;<lpage>2492</lpage>. <pub-id pub-id-type="doi">10.1890/13-1366.1</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0082"><mixed-citation publication-type="journal" id="ece35827-cit-0082">
+<string-name>
+<surname>Souza</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Lovato</surname>, <given-names>M. B.</given-names>
+</string-name>, <string-name>
+<surname>Fagundes</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Valladares</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lemos&#x02010;Filho</surname>, <given-names>J. P.</given-names>
+</string-name> (<year>2018</year>). <article-title>Climatic factors shaping intraspecific leaf trait variation of a neotropical tree along a rainfall gradient</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>13</volume>(<issue>12</issue>), <elocation-id>e0208512</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0208512</pub-id>
+<pub-id pub-id-type="pmid">30521598</pub-id></mixed-citation></ref><ref id="ece35827-bib-0083"><mixed-citation publication-type="journal" id="ece35827-cit-0083">
+<string-name>
+<surname>Souza</surname>, <given-names>M. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fagundes</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Seed size as key factor in germination and seedling development of <italic>Copaifera langsdorffii</italic> (Fabaceae)</article-title>. <source xml:lang="en">American Journal of Plant Sciences</source>, <volume>5</volume>(<issue>July</issue>), <fpage>2566</fpage>&#x02013;<lpage>2573</lpage>.</mixed-citation></ref><ref id="ece35827-bib-0084"><mixed-citation publication-type="journal" id="ece35827-cit-0084">
+<string-name>
+<surname>Souza</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Solar</surname>, <given-names>R. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fagundes</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>). <article-title>Reproductive strategy of <italic>Copaifera langsdorffii</italic> (Fabaceae): More seeds or better seeds ?</article-title>
+<source xml:lang="en">Revista de Biologia Tropical</source>, <volume>63</volume>(<issue>December</issue>), <fpage>1161</fpage>&#x02013;<lpage>1167</lpage>.</mixed-citation></ref><ref id="ece35827-bib-0085"><mixed-citation publication-type="journal" id="ece35827-cit-0085">
+<string-name>
+<surname>Stiling</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Moon</surname>, <given-names>D. C.</given-names>
+</string-name> (<year>2005</year>). <article-title>Quality or quantity: The direct and indirect effects of host plants on herbivores and their natural enemies</article-title>. <source xml:lang="en">Oecologia</source>, <volume>142</volume>(<issue>3</issue>), <fpage>413</fpage>&#x02013;<lpage>420</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-004-1739-4</pub-id>
+<pub-id pub-id-type="pmid">15517407</pub-id></mixed-citation></ref><ref id="ece35827-bib-0086"><mixed-citation publication-type="journal" id="ece35827-cit-0086">
+<string-name>
+<surname>Stone</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Roberts</surname>, <given-names>A.</given-names>
+</string-name> (<year>1990</year>). <article-title>The checkerboard score and species distributions</article-title>. <source xml:lang="en">Oecologia</source>, <volume>85</volume>(<issue>1</issue>), <fpage>74</fpage>&#x02013;<lpage>79</lpage>. <pub-id pub-id-type="doi">10.1007/BF00317345</pub-id>
+<pub-id pub-id-type="pmid">28310957</pub-id></mixed-citation></ref><ref id="ece35827-bib-0087"><mixed-citation publication-type="journal" id="ece35827-cit-0087">
+<string-name>
+<surname>Strong</surname>, <given-names>J. D. R.</given-names>
+</string-name> (<year>1982</year>). <article-title>Harmonious coexistence of hispine beetles on heliconia in experimental and natural communities</article-title>. <source xml:lang="en">Ecology</source>, <volume>63</volume>(<issue>4</issue>), <fpage>1039</fpage>&#x02013;<lpage>1049</lpage>. <pub-id pub-id-type="doi">10.2307/1937243</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0088"><mixed-citation publication-type="journal" id="ece35827-cit-0088">
+<string-name>
+<surname>Sultan</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>2001</year>). <article-title>Phenotypic plasticity for fitness components in Polygonum species of contrasting ecological breadth</article-title>. <source xml:lang="en">Ecology</source>, <volume>82</volume>, <fpage>328</fpage>&#x02013;<lpage>343</lpage>.</mixed-citation></ref><ref id="ece35827-bib-0089"><mixed-citation publication-type="journal" id="ece35827-cit-0089">
+<string-name>
+<surname>Ulrich</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Jabot</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gotelli</surname>, <given-names>N. J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Competitive interactions change the pattern of species co&#x02010;occurrences under neutral dispersal</article-title>. <source xml:lang="en">Oikos</source>, <volume>126</volume>(<issue>1</issue>), <fpage>91</fpage>&#x02013;<lpage>100</lpage>. <pub-id pub-id-type="doi">10.1111/ecog.02537</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0090"><mixed-citation publication-type="journal" id="ece35827-cit-0090">
+<string-name>
+<surname>White</surname>, <given-names>T. C. R.</given-names>
+</string-name> (<year>1969</year>). <article-title>An index to measure weather&#x02010;induced stress of trees associated with outbreaks of psyllids in Australia</article-title>. <source xml:lang="en">Ecology. Ecological Society of America</source>, <volume>50</volume>(<issue>5</issue>), <fpage>905</fpage>&#x02013;<lpage>909</lpage>. <pub-id pub-id-type="doi">10.2307/1933707</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0091"><mixed-citation publication-type="journal" id="ece35827-cit-0091">
+<string-name>
+<surname>Whitham</surname>, <given-names>T. G.</given-names>
+</string-name> (<year>1978</year>). <article-title>Habitat selection by pemphigus aphids in response to response limitation and competition</article-title>. <source xml:lang="en">Ecology</source>, <volume>59</volume>(<issue>6</issue>), <fpage>1164</fpage>&#x02013;<lpage>1176</lpage>. <pub-id pub-id-type="doi">10.2307/1938230</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0092"><mixed-citation publication-type="journal" id="ece35827-cit-0092">
+<string-name>
+<surname>Williams</surname>, <given-names>D. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Black</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>1993</year>). <article-title>Phenotypic variation in contrasting temperature environments: growth and photosynthesis in Pennisetum setaceum from different altitudes on Hawaii</article-title>. <source xml:lang="en">Functional Ecology</source>. [British Ecological Society, Wiley], <volume>7</volume>(<issue>5</issue>), <fpage>623</fpage>&#x02013;<lpage>633</lpage>. <pub-id pub-id-type="doi">10.2307/2390140</pub-id>
+</mixed-citation></ref><ref id="ece35827-bib-0093"><mixed-citation publication-type="journal" id="ece35827-cit-0093">
+<string-name>
+<surname>Yukawa</surname>, <given-names>J.</given-names>
+</string-name> (<year>2000</year>). <article-title>Synchronization of gallers with host plant phenology</article-title>. <source xml:lang="en">Population Ecology</source>, <volume>42</volume>(<issue>113</issue>), <fpage>105</fpage>&#x02013;<lpage>113</lpage>. <pub-id pub-id-type="doi">10.1007/PL00011989</pub-id>
+</mixed-citation></ref></ref-list></back></article>

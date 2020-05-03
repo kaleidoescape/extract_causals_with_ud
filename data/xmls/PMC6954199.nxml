@@ -1,0 +1,960 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Nat Commun</journal-id><journal-id journal-id-type="iso-abbrev">Nat Commun</journal-id><journal-title-group><journal-title>Nature Communications</journal-title></journal-title-group><issn pub-type="epub">2041-1723</issn><publisher><publisher-name>Nature Publishing Group UK</publisher-name><publisher-loc>London</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31924759</article-id><article-id pub-id-type="pmc">6954199</article-id><article-id pub-id-type="publisher-id">13822</article-id><article-id pub-id-type="doi">10.1038/s41467-019-13822-x</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Coherent acoustic control of a single silicon vacancy spin in diamond</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Maity</surname><given-names>Smarak</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Shao</surname><given-names>Linbo</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Bogdanovi&#x00107;</surname><given-names>Stefan</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Meesala</surname><given-names>Srujan</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Sohn</surname><given-names>Young-Ik</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Sinclair</surname><given-names>Neil</given-names></name><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Pingault</surname><given-names>Benjamin</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Chalupnik</surname><given-names>Michelle</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Chia</surname><given-names>Cleaven</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Zheng</surname><given-names>Lu</given-names></name><xref ref-type="aff" rid="Aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Lai</surname><given-names>Keji</given-names></name><xref ref-type="aff" rid="Aff3">3</xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Lon&#x0010d;ar</surname><given-names>Marko</given-names></name><address><email>loncar@seas.harvard.edu</email></address><xref ref-type="aff" rid="Aff1">1</xref></contrib><aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">000000041936754X</institution-id><institution-id institution-id-type="GRID">grid.38142.3c</institution-id><institution>John A. Paulson School of Engineering and Applied Sciences, </institution><institution>Harvard University, </institution></institution-wrap>29 Oxford Street, Cambridge, MA 02138 USA </aff><aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000000107068890</institution-id><institution-id institution-id-type="GRID">grid.20861.3d</institution-id><institution>Division of Physics, Mathematics and Astronomy, and Alliance for Quantum Technologies (AQT), </institution><institution>California Institute of Technology, </institution></institution-wrap>1200 E. California Boulevard, Pasadena, CA 91125 USA </aff><aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 9924</institution-id><institution-id institution-id-type="GRID">grid.89336.37</institution-id><institution>Department of Physics, </institution><institution>University of Texas at Austin, </institution></institution-wrap>110 Inner Campus Drive, Austin, TX 78705 USA </aff></contrib-group><pub-date pub-type="epub"><day>10</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="pmc-release"><day>10</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="collection"><year>2020</year></pub-date><volume>11</volume><elocation-id>193</elocation-id><history><date date-type="received"><day>10</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>29</day><month>11</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2020</copyright-statement><license license-type="OpenAccess"><license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article&#x02019;s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p></license></permissions><abstract id="Abs1"><p id="Par1">Phonons are considered to be universal quantum transducers due to their ability to couple to a wide variety of quantum systems. Among these systems, solid-state point defect spins are known for being long-lived optically accessible quantum memories. Recently, it has been shown that inversion-symmetric defects in diamond, such as the negatively charged silicon vacancy center (SiV), feature spin qubits that are highly susceptible to strain. Here, we leverage this strain response to achieve coherent and low-power acoustic control of a single SiV spin, and perform acoustically driven Ramsey interferometry of a single spin. Our results demonstrate an efficient method of spin control for these systems, offering a path towards strong spin-phonon coupling and phonon-mediated hybrid quantum systems.</p></abstract><abstract id="Abs2" abstract-type="web-summary"><p id="Par2">Qubits in solid state systems like point defects in diamond can be influenced by local strain. Here the authors use surface acoustic waves to coherently control silicon vacancies in diamond, which have the potential to reach the strong coupling regime necessary for many applications.</p></abstract><kwd-group kwd-group-type="npg-subject"><title>Subject terms</title><kwd>NEMS</kwd><kwd>Optical properties of diamond</kwd><kwd>Quantum information</kwd><kwd>Qubits</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution-id institution-id-type="FundRef">https://doi.org/10.13039/100000001</institution-id><institution>National Science Foundation (NSF)</institution></institution-wrap></funding-source><award-id>DMR-1231319</award-id><award-id>1507508</award-id><principal-award-recipient><name><surname>Lon&#x0010d;ar</surname><given-names>Marko</given-names></name></principal-award-recipient></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution-id institution-id-type="FundRef">https://doi.org/10.13039/100000006</institution-id><institution>United States Department of Defense | United States Navy | Office of Naval Research (ONR)</institution></institution-wrap></funding-source><award-id>N00014-15-1-2761</award-id><principal-award-recipient><name><surname>Lon&#x0010d;ar</surname><given-names>Marko</given-names></name></principal-award-recipient></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution-id institution-id-type="FundRef">https://doi.org/10.13039/100000150</institution-id><institution>NSF | ENG/OAD | Division of Emerging Frontiers in Research and Innovation (EFRI)</institution></institution-wrap></funding-source><award-id>5710004174</award-id><principal-award-recipient><name><surname>Lon&#x0010d;ar</surname><given-names>Marko</given-names></name></principal-award-recipient></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution-id institution-id-type="FundRef">https://doi.org/10.13039/100006754</institution-id><institution>United States Department of Defense | United States Army | U.S. Army Research, Development and Engineering Command | Army Research Laboratory (U.S. Army Research Laboratory)</institution></institution-wrap></funding-source><award-id>W911NF1520067</award-id><principal-award-recipient><name><surname>Lon&#x0010d;ar</surname><given-names>Marko</given-names></name></principal-award-recipient></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution-id institution-id-type="FundRef">https://doi.org/10.13039/100000183</institution-id><institution>United States Department of Defense | United States Army | U.S. Army Research, Development and Engineering Command | Army Research Office (ARO)</institution></institution-wrap></funding-source><award-id>W911NF1810432</award-id><principal-award-recipient><name><surname>Lon&#x0010d;ar</surname><given-names>Marko</given-names></name></principal-award-recipient></award-group></funding-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; The Author(s) 2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1" sec-type="introduction"><title>Introduction</title><p id="Par3">Phonons, or mechanical vibrations, offer unique advantages for the transfer of quantum information between solid-state quantum systems. They couple to a wide variety of individual qubits<sup><xref ref-type="bibr" rid="CR1">1</xref>&#x02013;<xref ref-type="bibr" rid="CR4">4</xref></sup>, and are envisioned as universal quantum transducers between different types of qubits<sup><xref ref-type="bibr" rid="CR5">5</xref>&#x02013;<xref ref-type="bibr" rid="CR7">7</xref></sup>. Among these, several defect spins in diamond and silicon carbide are not only optically accessible, but also possess long coherence times allowing them to be used as long-lived quantum memories<sup><xref ref-type="bibr" rid="CR8">8</xref>&#x02013;<xref ref-type="bibr" rid="CR10">10</xref></sup>. Although control of some of these defect spins with mechanical vibrations has been demonstrated<sup><xref ref-type="bibr" rid="CR3">3</xref>,<xref ref-type="bibr" rid="CR11">11</xref>&#x02013;<xref ref-type="bibr" rid="CR16">16</xref></sup>, obtaining strong spin-phonon coupling remains a challenge due to their low strain susceptibility. Recent experiments have shown the potential of the negatively charged silicon vacancy (SiV) center in diamond to act as a spin qubit that is highly sensitive to strain due to the orbital degeneracy in its ground state<sup><xref ref-type="bibr" rid="CR17">17</xref>,<xref ref-type="bibr" rid="CR18">18</xref></sup>, making it particularly suitable for coupling to phonons. Here, we utilize this high strain susceptibility to demonstrate coherent, low-power control and Ramsey interferometry of a single SiV spin using surface acoustic waves (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>a). Our results establish the electron-phonon coupling of the SiV spin qubit as a promising approach for transduction between single spins and phonons. This would enable the generation of quantum nonlinearities for single phonons, and realization of phonon-mediated hybrid quantum systems with spins.<fig id="Fig1"><label>Fig. 1</label><caption><title>Layout of surface acoustic wave (SAW) devices, and structure of the silicon vacancy (SiV) center.</title><p><bold>a</bold> Schematic of our diamond SAW device. A microwave signal applied to one of the interdigital transducers (IDTs) generates acoustic waves due to the piezoelectric response of aluminum nitride (AlN). SiVs in the diamond are probed using a focused laser beam. (Inset) A scanning electron microscope (SEM) image of a pair of transducers. The scale bar corresponds to <inline-formula id="IEq1"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$20\ \mu{\text{m}}$$\end{document}</tex-math><mml:math id="M2"><mml:mn>20</mml:mn><mml:mspace width="0.33em"/><mml:mi>&#x003bc;</mml:mi><mml:mi mathvariant="normal">m</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq1.gif"/></alternatives></inline-formula>. <bold>b</bold> Molecular structure of the SiV. <bold>c</bold> Electronic structure of the SiV under non-zero external magnetic field. The solid red arrow indicates the optical transition used for spin initialization and readout, and the dashed red arrows indicate other optical transitions. The blue arrow indicates the acoustic transition between the two levels of the spin qubit. <bold>d</bold> Optical fluorescence spectrum of the C-transition of the SiV under resonant optical excitation, showing fine structure. The four peaks correspond to the transitions C1&#x02013;C4.</p></caption><graphic xlink:href="41467_2019_13822_Fig1_HTML" id="d29e400"/></fig></p></sec><sec id="Sec2" sec-type="results"><title>Results</title><sec id="Sec3"><title>Strain response of the SiV</title><p id="Par4">The SiV is a point defect in diamond that has attracted attention due to its excellent optical properties<sup><xref ref-type="bibr" rid="CR19">19</xref></sup>, long-lived electronic spin qubit<sup><xref ref-type="bibr" rid="CR10">10</xref></sup>, and ability to maintain these properties inside nanoscale devices<sup><xref ref-type="bibr" rid="CR20">20</xref>,<xref ref-type="bibr" rid="CR21">21</xref></sup>. It is formed by a silicon atom located centrally between two adjacent vacant sites in the diamond lattice (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>b), and hence possesses <inline-formula id="IEq2"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${D}_{3d}$$\end{document}</tex-math><mml:math id="M4"><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn><mml:mi>d</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq2.gif"/></alternatives></inline-formula> symmetry<sup><xref ref-type="bibr" rid="CR22">22</xref></sup>. Its electronic structure is composed of a ground state (GS) and an excited state (ES), each split into two, principally by spin-orbit coupling, resulting in four optical transitions. The brightest of these is the transition between the lower branches of the ES and GS, labelled C, which we utilize in this work. In the presence of a magnetic field, the degeneracy of the <inline-formula id="IEq3"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\rm{S}}=1/2$$\end{document}</tex-math><mml:math id="M6"><mml:mi mathvariant="normal">S</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>&#x02215;</mml:mo><mml:mn>2</mml:mn></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq3.gif"/></alternatives></inline-formula> electronic spin of the SiV is lifted and each energy level further splits into two (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>c). In particular, the lower ground state splits into the levels <inline-formula id="IEq4"><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|{e}_{g+}\downarrow \rangle$$\end{document}</tex-math><mml:math id="M8"><mml:mo>&#x02223;</mml:mo><mml:msub><mml:mrow><mml:mi>e</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi><mml:mo>+</mml:mo></mml:mrow></mml:msub><mml:mi>&#x02193;</mml:mi><mml:mo>&#x027e9;</mml:mo></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq4.gif"/></alternatives></inline-formula> and <inline-formula id="IEq5"><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|{e}_{g-}\uparrow \rangle$$\end{document}</tex-math><mml:math id="M10"><mml:mo>&#x02223;</mml:mo><mml:msub><mml:mrow><mml:mi>e</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi><mml:mo>&#x02212;</mml:mo></mml:mrow></mml:msub><mml:mi>&#x02191;</mml:mi><mml:mo>&#x027e9;</mml:mo></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq5.gif"/></alternatives></inline-formula>, which are used as a long-lived spin qubit<sup><xref ref-type="bibr" rid="CR10">10</xref></sup>. The lifting of the spin degeneracy causes each optical transition to split into four, as shown in Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>d. In the case of transition C, this gives rise to two bright spin-conserving transitions, that we label C2 and C3, and two dim spin-flipping transitions, labelled C1 and C4.</p><p id="Par5">The strain response of the SiV electronic states depends on the orientation of the strain with respect to the symmetry axis of the SiV<sup><xref ref-type="bibr" rid="CR18">18</xref></sup>. Strain tensor components belonging to the <inline-formula id="IEq6"><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${A}_{1g}$$\end{document}</tex-math><mml:math id="M12"><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mi>g</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq6.gif"/></alternatives></inline-formula> representation of the <inline-formula id="IEq7"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${D}_{3d}$$\end{document}</tex-math><mml:math id="M14"><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn><mml:mi>d</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq7.gif"/></alternatives></inline-formula> symmetry group induce a global shift of the energy levels, while the <inline-formula id="IEq8"><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${E}_{g}$$\end{document}</tex-math><mml:math id="M16"><mml:msub><mml:mrow><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq8.gif"/></alternatives></inline-formula> representation components mix the orbitals. In the presence of an off-axis magnetic field, the mixing of the spin degree of freedom in the spin-orbit eigenstates allows <inline-formula id="IEq9"><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${E}_{g}$$\end{document}</tex-math><mml:math id="M18"><mml:msub><mml:mrow><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq9.gif"/></alternatives></inline-formula> strain to introduce a non-zero overlap term for the <inline-formula id="IEq10"><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|{e}_{g+}\downarrow \rangle \leftrightarrow |{e}_{g-}\uparrow \rangle$$\end{document}</tex-math><mml:math id="M20"><mml:mo>&#x02223;</mml:mo><mml:msub><mml:mrow><mml:mi>e</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi><mml:mo>+</mml:mo></mml:mrow></mml:msub><mml:mi>&#x02193;</mml:mi><mml:mo>&#x027e9;</mml:mo><mml:mo>&#x02194;</mml:mo><mml:mo>&#x02223;</mml:mo><mml:msub><mml:mrow><mml:mi>e</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi><mml:mo>&#x02212;</mml:mo></mml:mrow></mml:msub><mml:mi>&#x02191;</mml:mi><mml:mo>&#x027e9;</mml:mo></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq10.gif"/></alternatives></inline-formula> qubit transition. As a result, the qubit levels inherit the large strain susceptibility resulting from perturbations to the spatial charge distribution of orbitals (<inline-formula id="IEq11"><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sim\! 1\ {\rm{PHz}}/{\rm{strain}}$$\end{document}</tex-math><mml:math id="M22"><mml:mo>~</mml:mo><mml:mspace width="0.3em"/><mml:mn>1</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">PHz</mml:mi><mml:mo>&#x02215;</mml:mo><mml:mi mathvariant="normal">strain</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq11.gif"/></alternatives></inline-formula>). The resulting strain susceptibility for the spin qubit levels can be <inline-formula id="IEq12"><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sim\! 100\ {\rm{THz}}/{\rm{strain}}$$\end{document}</tex-math><mml:math id="M24"><mml:mo>~</mml:mo><mml:mspace width="0.3em"/><mml:mn>100</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">THz</mml:mi><mml:mo>&#x02215;</mml:mo><mml:mi mathvariant="normal">strain</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq12.gif"/></alternatives></inline-formula> for qubit transition frequencies in the few <inline-formula id="IEq13"><alternatives><tex-math id="M25">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\rm{GHz}}$$\end{document}</tex-math><mml:math id="M26"><mml:mi mathvariant="normal">GHz</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq13.gif"/></alternatives></inline-formula> range. This is four orders of magnitude larger compared to other defect spins whose acoustic driving has been studied recently<sup><xref ref-type="bibr" rid="CR3">3</xref>,<xref ref-type="bibr" rid="CR11">11</xref>,<xref ref-type="bibr" rid="CR15">15</xref>,<xref ref-type="bibr" rid="CR16">16</xref></sup>. In these latter cases, the strain susceptibility arises from a perturbation to the much weaker spin-spin interaction within the same orbital or with a far-detuned excited state orbital<sup><xref ref-type="bibr" rid="CR14">14</xref>,<xref ref-type="bibr" rid="CR23">23</xref></sup>. The fundamentally different origin of spin-phonon coupling in the SiV enables efficient control of the SiV spin qubit with an oscillating strain field.</p></sec><sec id="Sec4"><title>Surface acoustic devices on diamond</title><p id="Par6">Surface acoustic waves (SAWs) are travelling mechanical vibrations confined to solid surfaces, and can be thought of as bound states whose bandstructures lie below the continuum of bulk acoustic waves. They are particularly suitable for interfacing with near-surface atomic-scale defects in solids<sup><xref ref-type="bibr" rid="CR12">12</xref>,<xref ref-type="bibr" rid="CR13">13</xref>,<xref ref-type="bibr" rid="CR15">15</xref></sup>, due to their inherent confinement of acoustic energy to a depth of about one acoustic wavelength (<inline-formula id="IEq14"><alternatives><tex-math id="M27">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3\ \mu {\rm{m}}$$\end{document}</tex-math><mml:math id="M28"><mml:mn>3</mml:mn><mml:mspace width="0.33em"/><mml:mi>&#x003bc;</mml:mi><mml:mi mathvariant="normal">m</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq14.gif"/></alternatives></inline-formula> in our case). Our SAW devices (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>a) are fabricated on single-crystal diamond with the top surface normal to the <inline-formula id="IEq15"><alternatives><tex-math id="M29">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$[100]$$\end{document}</tex-math><mml:math id="M30"><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:mn>100</mml:mn></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq15.gif"/></alternatives></inline-formula> crystal direction. We generate SiVs at a depth of <inline-formula id="IEq16"><alternatives><tex-math id="M31">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$100\pm 18\ {\rm{nm}}$$\end{document}</tex-math><mml:math id="M32"><mml:mn>100</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>18</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">nm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq16.gif"/></alternatives></inline-formula> by implantation of silicon ions. The area density of SiVs is sparse enough that SiVs can be individually addressed optically. Due to the lack of piezoelectricity in diamond, which is required for electrical transduction of SAWs, we deposit a thin layer of piezoelectric aluminum nitride (AlN) on top of the diamond. We fabricate aluminum interdigital transducers (IDTs) on top of the AlN. These are patterns of interlocking metal fingers, with each set of fingers connected to a common terminal. When an alternating voltage is applied to the terminals of the IDT, the piezoelectric response of the AlN generates spatially and temporally periodic deformations on the surface, which propagate as SAWs. We design the shape of our transducers to generate Gaussian SAW beams in order to concentrate acoustic energy by focusing. Fabricating transducers in pairs allows us to electrically measure their total scattering parameters (S-parameters).</p><p id="Par7">We evaluate the acoustic mode profile of the SAWs with finite element simulations (Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>a), confirming that the SAW is localized to a depth of one acoustic wavelength. Electrical S-parameter measurements indicate a center frequency of <inline-formula id="IEq17"><alternatives><tex-math id="M33">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3.37\ {\rm{GHz}}$$\end{document}</tex-math><mml:math id="M34"><mml:mn>3.37</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">GHz</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq17.gif"/></alternatives></inline-formula>, with a full width half maximum (FWHM) amplitude bandwidth of <inline-formula id="IEq18"><alternatives><tex-math id="M35">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$126\ {\rm{MHz}}$$\end{document}</tex-math><mml:math id="M36"><mml:mn>126</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">MHz</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq18.gif"/></alternatives></inline-formula> that is limited by the number of finger pairs in the transducers (Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>b). The shortest acoustic pulse generated by these devices is <inline-formula id="IEq19"><alternatives><tex-math id="M37">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$13\ {\rm{ns}}$$\end{document}</tex-math><mml:math id="M38"><mml:mn>13</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">ns</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq19.gif"/></alternatives></inline-formula> in duration, as measured by time-domain characterization (Supplementary Note&#x000a0;<xref rid="MOESM1" ref-type="media">2</xref>). We measure the surface amplitude profile of the SAWs using transmission-mode microwave impedance microscopy<sup><xref ref-type="bibr" rid="CR24">24</xref></sup>. This technique uses a scanning probe to measure the surface electric potential on a piezoelectric material, which is proportional to the SAW amplitude at each point on the surface. The measured electric potential profile indicates that the SAW is focused to about one acoustic wavelength laterally (Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>c), in addition to the localization in depth (Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>a). In combination with the high strain susceptibility of the SiV, this acoustic confinement further reduces the acoustic power required to drive an individual SiV spin.<fig id="Fig2"><label>Fig. 2</label><caption><title>Characterization of SAW transducers.</title><p><bold>a</bold> Total displacement profile of the acoustic mode in a cross-section of the device, obtained from finite element simulation. The white horizontal line indicates the interface between AlN and diamond. SiVs are located <inline-formula id="IEq20"><alternatives><tex-math id="M39">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$100\ {\text{nm}}$$\end{document}</tex-math><mml:math id="M40"><mml:mn>100</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">nm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq20.gif"/></alternatives></inline-formula> below this line. <bold>b</bold> Room temperature measurement of electrical S-parameters between the transmitter and receiver IDTs. The <inline-formula id="IEq21"><alternatives><tex-math id="M41">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${S}_{11}$$\end{document}</tex-math><mml:math id="M42"><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mn>11</mml:mn></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq21.gif"/></alternatives></inline-formula> plot is magnified <inline-formula id="IEq22"><alternatives><tex-math id="M43">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$100\times$$\end{document}</tex-math><mml:math id="M44"><mml:mn>100</mml:mn><mml:mo>&#x000d7;</mml:mo></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq22.gif"/></alternatives></inline-formula> along the vertical axis. <bold>c</bold> Microwave impedance microscopic image showing the surface electric potential at the focus of the transducers under continuous-wave excitation. The potential is proportional to the SAW amplitude and demonstrates focusing of the SAW on the surface.</p></caption><graphic xlink:href="41467_2019_13822_Fig2_HTML" id="d29e890"/></fig></p></sec><sec id="Sec5"><title>Acoustic driving of the SiV spin</title><p id="Par8">After characterizing our devices at room temperature, we proceed with low-temperature acoustic driving of SiV spins. These experiments are performed at a temperature of <inline-formula id="IEq23"><alternatives><tex-math id="M45">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$5.8\ {\rm{K}}$$\end{document}</tex-math><mml:math id="M46"><mml:mn>5.8</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">K</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq23.gif"/></alternatives></inline-formula>, as measured on the cold stage inside a closed-cycle liquid helium cryostat. A confocal microscope focuses light from a tunable <inline-formula id="IEq24"><alternatives><tex-math id="M47">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$737\ {\rm{nm}}$$\end{document}</tex-math><mml:math id="M48"><mml:mn>737</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">nm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq24.gif"/></alternatives></inline-formula> laser on the sample, which is used to resonantly excite optical transitions of individual SiVs, with pulses generated using an electro-optic intensity modulator. We detect photons emitted in the phonon sideband (PSB) of the SiV emission spectrum. Our SiV spin qubit is defined by the levels <inline-formula id="IEq25"><alternatives><tex-math id="M49">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|{e}_{g+}\downarrow \rangle$$\end{document}</tex-math><mml:math id="M50"><mml:mo>&#x02223;</mml:mo><mml:msub><mml:mrow><mml:mi>e</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi><mml:mo>+</mml:mo></mml:mrow></mml:msub><mml:mi>&#x02193;</mml:mi><mml:mo>&#x027e9;</mml:mo></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq25.gif"/></alternatives></inline-formula> and <inline-formula id="IEq26"><alternatives><tex-math id="M51">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|{e}_{g-}\uparrow \rangle$$\end{document}</tex-math><mml:math id="M52"><mml:mo>&#x02223;</mml:mo><mml:msub><mml:mrow><mml:mi>e</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi><mml:mo>&#x02212;</mml:mo></mml:mrow></mml:msub><mml:mi>&#x02191;</mml:mi><mml:mo>&#x027e9;</mml:mo></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq26.gif"/></alternatives></inline-formula> (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>c) (denoted <inline-formula id="IEq27"><alternatives><tex-math id="M53">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\downarrow \right\rangle$$\end{document}</tex-math><mml:math id="M54"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02193;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq27.gif"/></alternatives></inline-formula> and <inline-formula id="IEq28"><alternatives><tex-math id="M55">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\uparrow \right\rangle$$\end{document}</tex-math><mml:math id="M56"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02191;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq28.gif"/></alternatives></inline-formula> respectively for simplicity), and its transition frequency is adjusted to lie within the bandwidth of the acoustic tranducers (Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>b) by tuning an external magnetic field.</p><p id="Par9">To demonstrate acoustic driving of the SiV spin, we use optically detected acoustic resonance (ODAR). For our experiments, we select an SiV located near the focus of the transducers. An arbitrary waveform generator (AWG) drives one of the transducers to generate acoustic pulses. The acoustic pulses affect the SiV levels via both energy shift (dispersive) and mixing interactions with different components of the applied strain<sup><xref ref-type="bibr" rid="CR18">18</xref></sup>. We utilize the dispersive interaction to calibrate the timing of the optical and acoustic pulses, taking into account the acoustic velocity (Supplementary Note&#x000a0;<xref rid="MOESM1" ref-type="media">3</xref>). On the other hand, the mixing strain response resonantly drives population between the qubit states.</p><p id="Par10">The optical and acoustic pulse sequences for ODAR are shown in Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref>a. We use optical pulses that are resonant with the spin-flipping C1 optical transition (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>c) for both spin initialization and readout. A <inline-formula id="IEq29"><alternatives><tex-math id="M57">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$150\ {\rm{ns}}$$\end{document}</tex-math><mml:math id="M58"><mml:mn>150</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">ns</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq29.gif"/></alternatives></inline-formula> duration optical pulse initializes the SiV into <inline-formula id="IEq30"><alternatives><tex-math id="M59">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\uparrow \right\rangle$$\end{document}</tex-math><mml:math id="M60"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02191;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq30.gif"/></alternatives></inline-formula>, from the inital thermal mixture of <inline-formula id="IEq31"><alternatives><tex-math id="M61">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\downarrow \right\rangle$$\end{document}</tex-math><mml:math id="M62"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02193;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq31.gif"/></alternatives></inline-formula> and <inline-formula id="IEq32"><alternatives><tex-math id="M63">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\uparrow \right\rangle$$\end{document}</tex-math><mml:math id="M64"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02191;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq32.gif"/></alternatives></inline-formula>. The corresponding time-resolved histogram of PSB photon detection events shows an initial peak proportional to the thermal population in the <inline-formula id="IEq33"><alternatives><tex-math id="M65">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\downarrow \right\rangle$$\end{document}</tex-math><mml:math id="M66"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02193;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq33.gif"/></alternatives></inline-formula> state, followed by an exponential decay as population is transferred to <inline-formula id="IEq34"><alternatives><tex-math id="M67">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\uparrow \right\rangle$$\end{document}</tex-math><mml:math id="M68"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02191;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq34.gif"/></alternatives></inline-formula> via the spin-conserving C3 transition (Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref>b). After initialization, a <inline-formula id="IEq35"><alternatives><tex-math id="M69">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$20\ {\rm{ns}}$$\end{document}</tex-math><mml:math id="M70"><mml:mn>20</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">ns</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq35.gif"/></alternatives></inline-formula> duration acoustic pulse drives population back into <inline-formula id="IEq36"><alternatives><tex-math id="M71">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\downarrow \right\rangle$$\end{document}</tex-math><mml:math id="M72"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02193;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq36.gif"/></alternatives></inline-formula>. Finally, a <inline-formula id="IEq37"><alternatives><tex-math id="M73">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$100\ {\rm{ns}}$$\end{document}</tex-math><mml:math id="M74"><mml:mn>100</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">ns</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq37.gif"/></alternatives></inline-formula> duration optical pulse measures the final population in <inline-formula id="IEq38"><alternatives><tex-math id="M75">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\downarrow \right\rangle$$\end{document}</tex-math><mml:math id="M76"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02193;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq38.gif"/></alternatives></inline-formula>. We use the ratio of the readout signal to the initialization signal as a measure of the final population in the <inline-formula id="IEq39"><alternatives><tex-math id="M77">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\downarrow \right\rangle$$\end{document}</tex-math><mml:math id="M78"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02193;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq39.gif"/></alternatives></inline-formula> state, normalized to the thermal equilibrium population. By varying the frequency of the acoustic pulse and measuring the corresponding normalized population, we obtain the ODAR spectrum for the SiV spin qubit (Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref>c), demonstrating acoustic driving of the SiV spin. The maximum of this spectrum occurs at the transition frequency of the qubit, which is <inline-formula id="IEq40"><alternatives><tex-math id="M79">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3.43\ {\rm{GHz}}$$\end{document}</tex-math><mml:math id="M80"><mml:mn>3.43</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">GHz</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq40.gif"/></alternatives></inline-formula> for our experiment. The ODAR spectrum has a FWHM linewidth of <inline-formula id="IEq41"><alternatives><tex-math id="M81">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$48\ {\rm{MHz}}$$\end{document}</tex-math><mml:math id="M82"><mml:mn>48</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">MHz</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq41.gif"/></alternatives></inline-formula>, which is broadened in part due to the frequency spread of the short <inline-formula id="IEq42"><alternatives><tex-math id="M83">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$20\ {\rm{ns}}$$\end{document}</tex-math><mml:math id="M84"><mml:mn>20</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">ns</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq42.gif"/></alternatives></inline-formula> duration acoustic pulse.<fig id="Fig3"><label>Fig. 3</label><caption><title>Optically detected acoustic resonance (ODAR) measurements of the SiV spin transition.</title><p><bold>a</bold> Optical and acoustic pulse sequences used for ODAR measurement. The laser is resonant with the C1 transition and initializes the SiV into <inline-formula id="IEq43"><alternatives><tex-math id="M85">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\uparrow \right\rangle$$\end{document}</tex-math><mml:math id="M86"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02191;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq43.gif"/></alternatives></inline-formula>. A <inline-formula id="IEq44"><alternatives><tex-math id="M87">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$20\ {\text{ns}}$$\end{document}</tex-math><mml:math id="M88"><mml:mn>20</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">ns</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq44.gif"/></alternatives></inline-formula> duration SAW pulse drives population between <inline-formula id="IEq45"><alternatives><tex-math id="M89">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\uparrow \right\rangle$$\end{document}</tex-math><mml:math id="M90"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02191;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq45.gif"/></alternatives></inline-formula> and <inline-formula id="IEq46"><alternatives><tex-math id="M91">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\downarrow \right\rangle$$\end{document}</tex-math><mml:math id="M92"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02193;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq46.gif"/></alternatives></inline-formula>. <bold>b</bold> Time-resolved histogram of photon detection events corresponding to the pulse sequence in <bold>a</bold>. The height of the peaks at the beginning of the initialization and readout pulses is proportional to the population in <inline-formula id="IEq47"><alternatives><tex-math id="M93">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\downarrow \right\rangle$$\end{document}</tex-math><mml:math id="M94"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02193;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq47.gif"/></alternatives></inline-formula>. Photon detections are integrated over <inline-formula id="IEq48"><alternatives><tex-math id="M95">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$10\ {\text{ns}}$$\end{document}</tex-math><mml:math id="M96"><mml:mn>10</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">ns</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq48.gif"/></alternatives></inline-formula> (indicated by the shaded region) to determine initialization and readout signals. <bold>c</bold> Normalized population in the <inline-formula id="IEq49"><alternatives><tex-math id="M97">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\downarrow \right\rangle$$\end{document}</tex-math><mml:math id="M98"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02193;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq49.gif"/></alternatives></inline-formula> state as the center frequency of the acoustic pulse is varied, calculated as the ratio between the readout and initialization signals. A maximum is obtained at <inline-formula id="IEq50"><alternatives><tex-math id="M99">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3.43\ {\text{GHz}}$$\end{document}</tex-math><mml:math id="M100"><mml:mn>3.43</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">GHz</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq50.gif"/></alternatives></inline-formula>, indicating the resonance frequency of the SiV spin transition. The error bars represent the standard deviation of the normalized population.</p></caption><graphic xlink:href="41467_2019_13822_Fig3_HTML" id="d29e1320"/></fig></p></sec><sec id="Sec6"><title>Coherent acoustic control of the SiV spin</title><p id="Par11">After matching the acoustic pulse frequency to the qubit transition frequency measured by ODAR, we vary the duration of the acoustic pulse from <inline-formula id="IEq51"><alternatives><tex-math id="M101">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0\ {\rm{ns}}$$\end{document}</tex-math><mml:math id="M102"><mml:mn>0</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">ns</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq51.gif"/></alternatives></inline-formula> to <inline-formula id="IEq52"><alternatives><tex-math id="M103">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$100\ {\rm{ns}}$$\end{document}</tex-math><mml:math id="M104"><mml:mn>100</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">ns</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq52.gif"/></alternatives></inline-formula> (Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>a). As the duration of the acoustic pulse increases, the normalized population in <inline-formula id="IEq53"><alternatives><tex-math id="M105">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\downarrow \right\rangle$$\end{document}</tex-math><mml:math id="M106"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02193;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq53.gif"/></alternatives></inline-formula> displays Rabi oscillations (Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>b), indicating coherent transfer of population between the <inline-formula id="IEq54"><alternatives><tex-math id="M107">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\downarrow \right\rangle$$\end{document}</tex-math><mml:math id="M108"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02193;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq54.gif"/></alternatives></inline-formula> and <inline-formula id="IEq55"><alternatives><tex-math id="M109">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\uparrow \right\rangle$$\end{document}</tex-math><mml:math id="M110"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02191;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq55.gif"/></alternatives></inline-formula> states. We fit an exponentially damped sinusoid (Supplementary Note&#x000a0;<xref rid="MOESM1" ref-type="media">4</xref>) to the data to estimate the Rabi frequency. Upon varying the peak input microwave power from <inline-formula id="IEq56"><alternatives><tex-math id="M111">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-3\ {\rm{dBm}}$$\end{document}</tex-math><mml:math id="M112"><mml:mo>&#x02212;</mml:mo><mml:mn>3</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">dBm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq56.gif"/></alternatives></inline-formula> (<inline-formula id="IEq57"><alternatives><tex-math id="M113">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.5\ {\rm{mW}}$$\end{document}</tex-math><mml:math id="M114"><mml:mn>0.5</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">mW</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq57.gif"/></alternatives></inline-formula>) to <inline-formula id="IEq58"><alternatives><tex-math id="M115">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$6\ {\rm{dBm}}$$\end{document}</tex-math><mml:math id="M116"><mml:mn>6</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">dBm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq58.gif"/></alternatives></inline-formula> (<inline-formula id="IEq59"><alternatives><tex-math id="M117">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$4\ {\rm{mW}}$$\end{document}</tex-math><mml:math id="M118"><mml:mn>4</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">mW</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq59.gif"/></alternatives></inline-formula>), we observe the expected linear increase of Rabi frequency against the square root of the power (Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>b), and infer a Rabi frequency of <inline-formula id="IEq60"><alternatives><tex-math id="M119">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$48\ {\rm{MHz}}$$\end{document}</tex-math><mml:math id="M120"><mml:mn>48</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">MHz</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq60.gif"/></alternatives></inline-formula> with <inline-formula id="IEq61"><alternatives><tex-math id="M121">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$4\ {\rm{mW}}$$\end{document}</tex-math><mml:math id="M122"><mml:mn>4</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">mW</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq61.gif"/></alternatives></inline-formula> of input microwave power. We estimate the on-chip acoustic power from the measurement of the microwave reflection S-parameter <inline-formula id="IEq62"><alternatives><tex-math id="M123">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${S}_{11}$$\end{document}</tex-math><mml:math id="M124"><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mn>11</mml:mn></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq62.gif"/></alternatives></inline-formula> and transmission parameter <inline-formula id="IEq63"><alternatives><tex-math id="M125">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${S}_{21}$$\end{document}</tex-math><mml:math id="M126"><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mn>21</mml:mn></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq63.gif"/></alternatives></inline-formula> (Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>b). At the acoustic frequency of <inline-formula id="IEq64"><alternatives><tex-math id="M127">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3.43\ {\rm{GHz}}$$\end{document}</tex-math><mml:math id="M128"><mml:mn>3.43</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">GHz</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq64.gif"/></alternatives></inline-formula>, we measure <inline-formula id="IEq65"><alternatives><tex-math id="M129">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$| {S}_{11}{| }^{2}=-0.4\; {\rm{dB}}$$\end{document}</tex-math><mml:math id="M130"><mml:mo>&#x02223;</mml:mo><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mn>11</mml:mn></mml:mrow></mml:msub><mml:msup><mml:mrow><mml:mo>&#x02223;</mml:mo></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mn>0.4</mml:mn><mml:mspace width="0.16em"/><mml:mi mathvariant="normal">dB</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq65.gif"/></alternatives></inline-formula> and <inline-formula id="IEq66"><alternatives><tex-math id="M131">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$| {S}_{21}{| }^{2}=-31\; {\rm{dB}}$$\end{document}</tex-math><mml:math id="M132"><mml:mo>&#x02223;</mml:mo><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mn>21</mml:mn></mml:mrow></mml:msub><mml:msup><mml:mrow><mml:mo>&#x02223;</mml:mo></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mn>31</mml:mn><mml:mspace width="0.16em"/><mml:mi mathvariant="normal">dB</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq66.gif"/></alternatives></inline-formula>, indicating that the peak on-chip acoustic power is between <inline-formula id="IEq67"><alternatives><tex-math id="M133">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$350\;\mu {\rm{W}}$$\end{document}</tex-math><mml:math id="M134"><mml:mn>350</mml:mn><mml:mspace width="0.16em"/><mml:mi>&#x003bc;</mml:mi><mml:mi mathvariant="normal">W</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq67.gif"/></alternatives></inline-formula> and <inline-formula id="IEq68"><alternatives><tex-math id="M135">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3\;\mu {\rm{W}}$$\end{document}</tex-math><mml:math id="M136"><mml:mn>3</mml:mn><mml:mspace width="0.16em"/><mml:mi>&#x003bc;</mml:mi><mml:mi mathvariant="normal">W</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq68.gif"/></alternatives></inline-formula>, which is orders of magnitude lower than previous demonstrations of acoustic control of defect spins<sup><xref ref-type="bibr" rid="CR15">15</xref>,<xref ref-type="bibr" rid="CR16">16</xref></sup>. This power is within the typical thermal load limits of dilution refrigerators, and is hence compatible with operation at millikelvin temperatures that enable longer (<inline-formula id="IEq69"><alternatives><tex-math id="M137">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sim\! 10\ {\rm{ms}}$$\end{document}</tex-math><mml:math id="M138"><mml:mo>~</mml:mo><mml:mspace width="0.3em"/><mml:mn>10</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">ms</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq69.gif"/></alternatives></inline-formula>) SiV spin coherence times<sup><xref ref-type="bibr" rid="CR10">10</xref></sup>.<fig id="Fig4"><label>Fig. 4</label><caption><title>Coherent acoustic control of the SiV spin qubit.</title><p><bold>a</bold> Pulse sequence used for Rabi oscillation measurements. An acoustic pulse of frequency <inline-formula id="IEq70"><alternatives><tex-math id="M139">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3.43\ {\text{GHz}}$$\end{document}</tex-math><mml:math id="M140"><mml:mn>3.43</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">GHz</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq70.gif"/></alternatives></inline-formula>, which is resonant with the SiV spin transition and generated with <inline-formula id="IEq71"><alternatives><tex-math id="M141">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$2\ {\text{mW}}$$\end{document}</tex-math><mml:math id="M142"><mml:mn>2</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">mW</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq71.gif"/></alternatives></inline-formula> peak microwave input power, is used to coherently drive the qubit. <bold>b</bold> Normalized population in the <inline-formula id="IEq72"><alternatives><tex-math id="M143">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\downarrow \right\rangle$$\end{document}</tex-math><mml:math id="M144"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02193;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq72.gif"/></alternatives></inline-formula> state as the acoustic pulse duration is varied. A fit to a theoretical model is shown in red. (Inset) The dependence of Rabi frequency on the square root of peak microwave input power indicates the expected linear behavior. The errors in the Rabi frequencies are of the order of <inline-formula id="IEq73"><alternatives><tex-math id="M145">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.1\ {\text{MHz}}$$\end{document}</tex-math><mml:math id="M146"><mml:mn>0.1</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">MHz</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq73.gif"/></alternatives></inline-formula>. <bold>c</bold> Pulse sequence used for Ramsey interferometry measurements. Two <inline-formula id="IEq74"><alternatives><tex-math id="M147">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pi /2$$\end{document}</tex-math><mml:math id="M148"><mml:mi>&#x003c0;</mml:mi><mml:mo>&#x02215;</mml:mo><mml:mn>2</mml:mn></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq74.gif"/></alternatives></inline-formula> acoustic pulses, each detuned by <inline-formula id="IEq75"><alternatives><tex-math id="M149">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$50\ {\text{MHz}}$$\end{document}</tex-math><mml:math id="M150"><mml:mn>50</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">MHz</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq75.gif"/></alternatives></inline-formula> and generated with <inline-formula id="IEq76"><alternatives><tex-math id="M151">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$4\ {\text{mW}}$$\end{document}</tex-math><mml:math id="M152"><mml:mn>4</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">mW</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq76.gif"/></alternatives></inline-formula> peak input power, are separated by a varying free precession time. <bold>d</bold> Normalized population in the <inline-formula id="IEq77"><alternatives><tex-math id="M153">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left|\downarrow \right\rangle$$\end{document}</tex-math><mml:math id="M154"><mml:mfenced close="&#x027e9;" open="&#x02223;" separators=""><mml:mrow><mml:mi>&#x02193;</mml:mi></mml:mrow></mml:mfenced></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq77.gif"/></alternatives></inline-formula> state as the free precession time is varied. A fit to a theoretical model is shown in red. The time constant of the exponential decay of the oscillations gives a spin coherence time <inline-formula id="IEq78"><alternatives><tex-math id="M155">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{2}^{* }=33\pm 5\ {\text{ns}}$$\end{document}</tex-math><mml:math id="M156"><mml:msubsup><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mo>*</mml:mo></mml:mrow></mml:msubsup><mml:mo>=</mml:mo><mml:mn>33</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>5</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">ns</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq78.gif"/></alternatives></inline-formula>. The error bars in <bold>b</bold> and <bold>d</bold> represent the standard deviation of the normalized population.</p></caption><graphic xlink:href="41467_2019_13822_Fig4_HTML" id="d29e1814"/></fig></p><p id="Par12">Finally, we use this coherent acoustic control to perform Ramsey interferometry and measure the coherence time of the SiV spin qubit. We set the acoustic pulse detuning to <inline-formula id="IEq79"><alternatives><tex-math id="M157">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$50\ {\rm{MHz}}$$\end{document}</tex-math><mml:math id="M158"><mml:mn>50</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">MHz</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq79.gif"/></alternatives></inline-formula> from the qubit transition frequency. After estimating the duration of a <inline-formula id="IEq80"><alternatives><tex-math id="M159">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pi /2$$\end{document}</tex-math><mml:math id="M160"><mml:mi>&#x003c0;</mml:mi><mml:mo>&#x02215;</mml:mo><mml:mn>2</mml:mn></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq80.gif"/></alternatives></inline-formula> acoustic pulse, we perform a Ramsey pulse sequence with two <inline-formula id="IEq81"><alternatives><tex-math id="M161">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pi /2$$\end{document}</tex-math><mml:math id="M162"><mml:mi>&#x003c0;</mml:mi><mml:mo>&#x02215;</mml:mo><mml:mn>2</mml:mn></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq81.gif"/></alternatives></inline-formula> acoustic pulses separated by a varying time delay (Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>c). The time constant of the exponentially decaying Ramsey fringes gives a direct measurement of the coherence time of the spin qubit, which is <inline-formula id="IEq82"><alternatives><tex-math id="M163">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{2}^{* }=33\pm 5\ {\rm{ns}}$$\end{document}</tex-math><mml:math id="M164"><mml:msubsup><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mo>*</mml:mo></mml:mrow></mml:msubsup><mml:mo>=</mml:mo><mml:mn>33</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>5</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">ns</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq82.gif"/></alternatives></inline-formula>. At our operating temperature of <inline-formula id="IEq83"><alternatives><tex-math id="M165">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$5.8\ {\rm{K}}$$\end{document}</tex-math><mml:math id="M166"><mml:mn>5.8</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">K</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq83.gif"/></alternatives></inline-formula>, the spin coherence time is limited by decoherence due to <inline-formula id="IEq84"><alternatives><tex-math id="M167">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$50\ {\rm{GHz}}$$\end{document}</tex-math><mml:math id="M168"><mml:mn>50</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">GHz</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq84.gif"/></alternatives></inline-formula> thermal phonons resonant with the orbital transition in the ground state, which follows an inverse dependence with temperature<sup><xref ref-type="bibr" rid="CR25">25</xref>,<xref ref-type="bibr" rid="CR26">26</xref></sup>. The measured spin coherence time agrees with previously reported results, when the temperature dependence is accounted for<sup><xref ref-type="bibr" rid="CR17">17</xref>,<xref ref-type="bibr" rid="CR26">26</xref></sup>.</p></sec></sec><sec id="Sec7" sec-type="discussion"><title>Discussion</title><p id="Par13">In conclusion, we demonstrate coherent acoustic control of the SiV spin qubit in diamond using surface acoustic waves, and perform acoustically driven Ramsey interferometry on a single spin. The high strain susceptibility of the SiV spin qubit, arising from the ground-state orbital degeneracy<sup><xref ref-type="bibr" rid="CR18">18</xref></sup>, allows this to be performed with low acoustic power, making it compatible with operation at millikelvin temperatures which enable long (<inline-formula id="IEq85"><alternatives><tex-math id="M169">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sim\! 10\ {\rm{ms}}$$\end{document}</tex-math><mml:math id="M170"><mml:mo>~</mml:mo><mml:mspace width="0.3em"/><mml:mn>10</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">ms</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq85.gif"/></alternatives></inline-formula>) spin coherence times<sup><xref ref-type="bibr" rid="CR10">10</xref></sup>. It also opens up the possibility of further improving the spin coherence time by using fast acoustic pulses for dynamical decoupling. Finally, this efficient acoustic interface could be utilized to achieve phonon-mediated coupling of the SiV spin with a wide variety of quantum systems. In particular, placing the SiV center within a high quality factor confined mechanical mode would enable strong coupling between the spin qubit and single phonons<sup><xref ref-type="bibr" rid="CR27">27</xref></sup>. For a diamond mechanical resonator with frequency of a few GHz and mode volume on the order of one cubed acoustic wavelength, strong coupling would be achieved at millikelvin temperatures for a quality factor of <inline-formula id="IEq86"><alternatives><tex-math id="M171">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$1{0}^{3}$$\end{document}</tex-math><mml:math id="M172"><mml:mn>1</mml:mn><mml:msup><mml:mrow><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq86.gif"/></alternatives></inline-formula>, or at <inline-formula id="IEq87"><alternatives><tex-math id="M173">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$4\ {\rm{K}}$$\end{document}</tex-math><mml:math id="M174"><mml:mn>4</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">K</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq87.gif"/></alternatives></inline-formula> for a quality factor of <inline-formula id="IEq88"><alternatives><tex-math id="M175">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$1{0}^{5}$$\end{document}</tex-math><mml:math id="M176"><mml:mn>1</mml:mn><mml:msup><mml:mrow><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mn>5</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq88.gif"/></alternatives></inline-formula><sup><xref ref-type="bibr" rid="CR18">18</xref></sup>. By making use of cavity optomechanical schemes<sup><xref ref-type="bibr" rid="CR28">28</xref></sup>, such a hybrid SiV-mechanical resonator system could be used to realize a high cooperativity interface between the SiV spin qubit and photons at telecommunications frequencies. Alternatively, piezoelectric schemes<sup><xref ref-type="bibr" rid="CR29">29</xref>,<xref ref-type="bibr" rid="CR30">30</xref></sup> could be employed to establish an interface with microwave quantum circuits such as superconducting qubits<sup><xref ref-type="bibr" rid="CR31">31</xref></sup>. Thus our work demonstrates a promising path towards hybrid quantum systems and networks.</p></sec><sec id="Sec8"><title>Methods</title><sec id="Sec9"><title>Device fabrication</title><p id="Par14">We use <inline-formula id="IEq89"><alternatives><tex-math id="M177">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$[100]$$\end{document}</tex-math><mml:math id="M178"><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:mn>100</mml:mn></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq89.gif"/></alternatives></inline-formula>-cut, electronic grade single-crystal diamond samples synthesized by chemical vapor deposition (CVD) from Element Six Corporation. Silicon ions (<inline-formula id="IEq90"><alternatives><tex-math id="M179">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{28}{\rm{Si}}^{+}$$\end{document}</tex-math><mml:math id="M180"><mml:msup><mml:mrow/><mml:mrow><mml:mn>28</mml:mn></mml:mrow></mml:msup><mml:msup><mml:mrow><mml:mi mathvariant="normal">Si</mml:mi></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq90.gif"/></alternatives></inline-formula>) are implanted on the top surface of the diamond at an energy of <inline-formula id="IEq91"><alternatives><tex-math id="M181">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$150\; {\rm{keV}}$$\end{document}</tex-math><mml:math id="M182"><mml:mn>150</mml:mn><mml:mspace width="0.16em"/><mml:mi mathvariant="normal">keV</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq91.gif"/></alternatives></inline-formula> and a density of <inline-formula id="IEq92"><alternatives><tex-math id="M183">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$1{0}^{10}\; {{\rm{cm}}}^{-2}$$\end{document}</tex-math><mml:math id="M184"><mml:mn>1</mml:mn><mml:msup><mml:mrow><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mn>10</mml:mn></mml:mrow></mml:msup><mml:mspace width="0.16em"/><mml:msup><mml:mrow><mml:mi mathvariant="normal">cm</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq92.gif"/></alternatives></inline-formula>, introducing Si atoms over the entire surface at a depth of <inline-formula id="IEq93"><alternatives><tex-math id="M185">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$100\pm 18\ {\rm{nm}}$$\end{document}</tex-math><mml:math id="M186"><mml:mn>100</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>18</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">nm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq93.gif"/></alternatives></inline-formula> as determined by a SRIM simulation<sup><xref ref-type="bibr" rid="CR32">32</xref></sup>. SiV centers are generated by a high-temperature (<inline-formula id="IEq94"><alternatives><tex-math id="M187">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$110{0}^{\circ }\ {\rm{C}}$$\end{document}</tex-math><mml:math id="M188"><mml:mn>110</mml:mn><mml:msup><mml:mrow><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">C</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq94.gif"/></alternatives></inline-formula>), high-vacuum annealing procedure followed by a tri-acid clean (1:1:1 sulfuric, perchloric, and nitric acids). A <inline-formula id="IEq95"><alternatives><tex-math id="M189">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$1.4\ \mu {\rm{m}}$$\end{document}</tex-math><mml:math id="M190"><mml:mn>1.4</mml:mn><mml:mspace width="0.33em"/><mml:mi>&#x003bc;</mml:mi><mml:mi mathvariant="normal">m</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq95.gif"/></alternatives></inline-formula> aluminum nitride (AlN) layer is deposited on top of the diamond by RF sputtering. SAW devices are fabricated using electron beam lithography followed by evaporation of <inline-formula id="IEq96"><alternatives><tex-math id="M191">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$100\ {\rm{nm}}$$\end{document}</tex-math><mml:math id="M192"><mml:mn>100</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">nm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq96.gif"/></alternatives></inline-formula> of gold (Au) for bonding pads and <inline-formula id="IEq97"><alternatives><tex-math id="M193">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$75\ {\rm{nm}}$$\end{document}</tex-math><mml:math id="M194"><mml:mn>75</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">nm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq97.gif"/></alternatives></inline-formula> of aluminum (Al) for IDTs.</p></sec><sec id="Sec10"><title>Electrical characterization of SAW devices</title><p id="Par15">These measurements are performed at room temperature. The IDTs are contacted with RF probes, which are connected to a vector network analyzer (Agilent E8364B) for S-parameter measurements.</p></sec><sec id="Sec11"><title>Microwave impedance microscopy measurements</title><p id="Par16">The IDT is driven by a continuous-wave microwave input signal to generate surface acoustic waves. An atomic force microscopy probe scans over the surface of the device and senses the electric potential at each point<sup><xref ref-type="bibr" rid="CR24">24</xref></sup>. The measured signal is mixed with the drive signal to coherently detect the relative amplitude and phase of the electric potential of the SAWs.</p></sec><sec id="Sec12"><title>Low temperature experiments</title><p id="Par17">Low temperature experiments are performed in a closed-cycle liquid helium cryostat (Montana Instruments Cryostation). The sample is mounted on an XYZ piezoelectric nanopositioner stack (Attocube ANPx101 and ANPz101) with a custom-made holder. The holder contains another nanopositioner with a neodymium permanent magnet (K&#x00026;J Magnetics) positioned behind the sample, that can be moved relative to the sample to adjust the magnetic field. The sample is clamped on top of the holder, using Indium foil for good thermal contact. A temperature sensor in the holder estimates the sample temperature to be about <inline-formula id="IEq98"><alternatives><tex-math id="M195">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$5.8\ {\rm{K}}$$\end{document}</tex-math><mml:math id="M196"><mml:mn>5.8</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">K</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq98.gif"/></alternatives></inline-formula>. A pair of IDTs are wire bonded to a PCB on the holder for electrical excitation and readout of acoustic pulses. SiVs in the sample are addressed with a home-built confocal microscope that focuses light from a <inline-formula id="IEq99"><alternatives><tex-math id="M197">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$520\ {\rm{nm}}$$\end{document}</tex-math><mml:math id="M198"><mml:mn>520</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">nm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq99.gif"/></alternatives></inline-formula> laser and a tunable <inline-formula id="IEq100"><alternatives><tex-math id="M199">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$737\ {\rm{nm}}$$\end{document}</tex-math><mml:math id="M200"><mml:mn>737</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">nm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq100.gif"/></alternatives></inline-formula> laser (M-Squared SolSTiS) on the sample. The <inline-formula id="IEq101"><alternatives><tex-math id="M201">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$520\ {\rm{nm}}$$\end{document}</tex-math><mml:math id="M202"><mml:mn>520</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">nm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq101.gif"/></alternatives></inline-formula> laser is periodically switched on to reset the charge state of the SiV, while the <inline-formula id="IEq102"><alternatives><tex-math id="M203">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$737\ {\rm{nm}}$$\end{document}</tex-math><mml:math id="M204"><mml:mn>737</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">nm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq102.gif"/></alternatives></inline-formula> laser is used to resonantly excite optical transitions. The wavelength of the tunable laser is stabilized by using feedback from a wavemeter (HighFinesse WS7). Photons emitted by the SiV in the phonon side band (PSB) <inline-formula id="IEq103"><alternatives><tex-math id="M205">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$&#x0003e; \ 740\ {\rm{nm}}$$\end{document}</tex-math><mml:math id="M206"><mml:mo>&#x0003e;</mml:mo><mml:mspace width="0.33em"/><mml:mn>740</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">nm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq103.gif"/></alternatives></inline-formula> are selected by an optical long-wavelength pass filter and sent to an avalanche photo diode (APD, Excelitas) for counting.</p></sec><sec id="Sec13"><title>Pulsed measurements of SiVs</title><p id="Par18">Laser pulses at <inline-formula id="IEq104"><alternatives><tex-math id="M207">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$737\ {\rm{nm}}$$\end{document}</tex-math><mml:math id="M208"><mml:mn>737</mml:mn><mml:mspace width="0.33em"/><mml:mi mathvariant="normal">nm</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq104.gif"/></alternatives></inline-formula> are generated with an electro-optic intensity modulator (EOM, iXblue NIR-MX800). The EOM is biased at its half-wave voltage (<inline-formula id="IEq105"><alternatives><tex-math id="M209">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${V}_{\pi }$$\end{document}</tex-math><mml:math id="M210"><mml:msub><mml:mrow><mml:mi>V</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c0;</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq105.gif"/></alternatives></inline-formula>) and stabilized against temporal drift by using feedback with a lock-in amplifier (SRS SR830). A delay generator (SRS DG645) is used to generate the voltage pulses sent to the EOM. Acoustic pulses are produced by exciting the SAW transducers with short microwave pulses, which are generated with an arbitrary waveform generator (AWG, Tektronix AWG70001A) and amplified with an RF amplifier (Pasternack PE15A3008). The AWG clock is synchronized to the delay generator to prevent clock skew. Optical and acoustic pulses are temporally aligned by adjusting the delay of the waveform on the AWG.</p></sec></sec><sec sec-type="supplementary-material"><title>Supplementary information</title><sec id="Sec14"><p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="41467_2019_13822_MOESM1_ESM.pdf"><caption><p>Supplementary Information</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="41467_2019_13822_MOESM2_ESM.pdf"><caption><p>Peer Review File</p></caption></media></supplementary-material>
+</p></sec></sec></body><back><fn-group><fn><p><bold>Peer review information</bold>&#x000a0;<italic>Nature Communications</italic> thanks Hailin Wang and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are available.</p></fn><fn><p><bold>Publisher&#x02019;s note</bold> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></fn></fn-group><sec><title>Supplementary information</title><p><bold>Supplementary information</bold> is available for this paper at 10.1038/s41467-019-13822-x.</p></sec><ack><title>Acknowledgements</title><p>The authors thank Amirhassan Shams-Ansari, Bartholomeus Machielse, Graham Joe, Jeffrey Holzgrafe, Yeghishe Tsaturyan, and Ben Green for helpful discussions. We thank Matthew Markham and Daniel Twitchen from Element Six Ltd. for providing diamond samples. This work was supported by the Center for Integrated Quantum Materials (NSF grant No. DMR-1231319), ONR MURI on Quantum Optomechanics (Grant No. N00014-15-1-2761), NSF EFRI ACQUIRE (Grant No. 5710004174), NSF GOALI (Grant No. 1507508), Army Research Laboratory Center for Distributed Quantum Information Award No. W911NF1520067, and ARO MURI (Grant No. W911NF1810432). Device fabrication was performed at the Center for Nanoscale Systems (CNS), a member of the National Nanotechnology Coordinated Infrastructure Network (NNCI), which is supported by the National Science Foundation under NSF Award No. 1541959. CNS is part of Harvard University. The microwave impedance microscopy was supported by NSF Grant No. DMR-1707372, and was performed at University of Texas at Austin. N.S. acknowledges support by the Natural Sciences and Engineering Research Council of Canada (NSERC), the AQT Intelligent Quantum Networks and Technologies (INQNET) research program, and by the DOE/HEP QuantISED program grant, QCCFP (Quantum Communication Channels for Fundamental Physics), award number DE-SC0019219.</p></ack><notes notes-type="author-contribution"><title>Author contributions</title><p>S.Maity and L.S. designed the devices with help from Y.-I.S. S. Maity fabricated the devices with help from L.S. and C.C. S. Maity, S.B. and L.S. performed experimental measurements with help from S. Meesala and M.C. L.S., L.Z. and K.L. performed microwave impedance microscopy measurements. S. Maity, N.S. and B.P. analyzed experimental data. S. Maity and S.B. prepared the manuscript with help from all authors. M.L. supervised this project.</p></notes><notes notes-type="data-availability"><title>Data availability</title><p>The datasets generated and/or analysed during this study are available from the corresponding author on reasonable request.</p></notes><notes notes-type="COI-statement"><title>Competing interests</title><p id="Par19">The authors declare no competing interests.</p></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>O&#x02019;Connell</surname><given-names>AD</given-names></name><etal/></person-group><article-title>Quantum ground state and single-phonon control of a mechanical resonator</article-title><source>Nature</source><year>2010</year><volume>464</volume><fpage>697</fpage><lpage>703</lpage><pub-id pub-id-type="doi">10.1038/nature08967</pub-id><pub-id pub-id-type="pmid">20237473</pub-id></element-citation></ref><ref id="CR2"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aspelmeyer</surname><given-names>M</given-names></name><name><surname>Kippenberg</surname><given-names>TJ</given-names></name><name><surname>Marquardt</surname><given-names>F</given-names></name></person-group><article-title>Cavity optomechanics</article-title><source>Rev. Mod. Phys.</source><year>2014</year><volume>86</volume><fpage>1391</fpage><lpage>1452</lpage><pub-id pub-id-type="doi">10.1103/RevModPhys.86.1391</pub-id></element-citation></ref><ref id="CR3"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barfuss</surname><given-names>A</given-names></name><name><surname>Teissier</surname><given-names>J</given-names></name><name><surname>Neu</surname><given-names>E</given-names></name><name><surname>Nunnenkamp</surname><given-names>A</given-names></name><name><surname>Maletinsky</surname><given-names>P</given-names></name></person-group><article-title>Strong mechanical driving of a single electron spin</article-title><source>Nat. Phys.</source><year>2015</year><volume>11</volume><fpage>820</fpage><lpage>824</lpage><pub-id pub-id-type="doi">10.1038/nphys3411</pub-id></element-citation></ref><ref id="CR4"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carter</surname><given-names>SG</given-names></name><etal/></person-group><article-title>Spin-mechanical coupling of an InAs quantum dot embedded in a mechanical resonator</article-title><source>Phys. Rev. Lett.</source><year>2018</year><volume>121</volume><fpage>246801</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.121.246801</pub-id><pub-id pub-id-type="pmid">30608739</pub-id></element-citation></ref><ref id="CR5"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wallquist</surname><given-names>M</given-names></name><name><surname>Hammerer</surname><given-names>K</given-names></name><name><surname>Rabl</surname><given-names>P</given-names></name><name><surname>Lukin</surname><given-names>M</given-names></name><name><surname>Zoller</surname><given-names>P</given-names></name></person-group><article-title>Hybrid quantum devices and quantum engineering</article-title><source>Phys. Scr.</source><year>2009</year><volume>T137</volume><fpage>014001</fpage><pub-id pub-id-type="doi">10.1088/0031-8949/2009/T137/014001</pub-id></element-citation></ref><ref id="CR6"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurizki</surname><given-names>G</given-names></name><etal/></person-group><article-title>Quantum technologies with hybrid systems</article-title><source>Proc. Natl Acad. Sci. USA</source><year>2015</year><volume>112</volume><fpage>3866</fpage><lpage>3873</lpage><pub-id pub-id-type="doi">10.1073/pnas.1419326112</pub-id><pub-id pub-id-type="pmid">25737558</pub-id></element-citation></ref><ref id="CR7"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schuetz</surname><given-names>MJA</given-names></name><etal/></person-group><article-title>Universal quantum transducers based on surface acoustic waves</article-title><source>Phys. Rev. X</source><year>2015</year><volume>5</volume><fpage>031031</fpage></element-citation></ref><ref id="CR8"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bar-Gill</surname><given-names>N</given-names></name><name><surname>Pham</surname><given-names>LM</given-names></name><name><surname>Jarmola</surname><given-names>A</given-names></name><name><surname>Budker</surname><given-names>D</given-names></name><name><surname>Walsworth</surname><given-names>RL</given-names></name></person-group><article-title>Solid-state electronic spin coherence time approaching one second</article-title><source>Nat. Commun.</source><year>2013</year><volume>4</volume><fpage>1743</fpage><pub-id pub-id-type="doi">10.1038/ncomms2771</pub-id><pub-id pub-id-type="pmid">23612284</pub-id></element-citation></ref><ref id="CR9"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Christle</surname><given-names>DJ</given-names></name><etal/></person-group><article-title>Isolated electron spins in silicon carbide with millisecond coherence times</article-title><source>Nat. Mater.</source><year>2015</year><volume>14</volume><fpage>160</fpage><lpage>163</lpage><pub-id pub-id-type="doi">10.1038/nmat4144</pub-id><pub-id pub-id-type="pmid">25437259</pub-id></element-citation></ref><ref id="CR10"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sukachev</surname><given-names>DD</given-names></name><etal/></person-group><article-title>Silicon-vacancy spin qubit in diamond: a quantum memory exceeding 10&#x02009;ms with single-shot state readout</article-title><source>Phys. Rev. Lett.</source><year>2017</year><volume>119</volume><fpage>223602</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.119.223602</pub-id><pub-id pub-id-type="pmid">29286819</pub-id></element-citation></ref><ref id="CR11"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ovartchaiyapong</surname><given-names>P</given-names></name><name><surname>Lee</surname><given-names>KW</given-names></name><name><surname>Myers</surname><given-names>BA</given-names></name><name><surname>Bleszynski Jayich</surname><given-names>AC</given-names></name></person-group><article-title>Dynamic strain-mediated coupling of a single diamond spin to a mechanical resonator</article-title><source>Nat. Commun.</source><year>2014</year><volume>5</volume><fpage>4429</fpage><pub-id pub-id-type="doi">10.1038/ncomms5429</pub-id><pub-id pub-id-type="pmid">25034828</pub-id></element-citation></ref><ref id="CR12"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andrew Golter</surname><given-names>D</given-names></name><name><surname>Oo</surname><given-names>T</given-names></name><name><surname>Amezcua</surname><given-names>M</given-names></name><name><surname>Stewart</surname><given-names>KA</given-names></name><name><surname>Wang</surname><given-names>H</given-names></name></person-group><article-title>Optomechanical quantum control of a nitrogen-vacancy center in diamond</article-title><source>Phys. Rev. Lett.</source><year>2016</year><volume>116</volume><fpage>143602</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.116.143602</pub-id><pub-id pub-id-type="pmid">27104709</pub-id></element-citation></ref><ref id="CR13"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andrew Golter</surname><given-names>D</given-names></name><etal/></person-group><article-title>Coupling a surface acoustic wave to an electron spin in diamond via a dark state</article-title><source>Phys. Rev. X</source><year>2016</year><volume>6</volume><fpage>041060</fpage></element-citation></ref><ref id="CR14"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>D</given-names></name><name><surname>Lee</surname><given-names>KW</given-names></name><name><surname>Cady</surname><given-names>JV</given-names></name><name><surname>Ovartchaiyapong</surname><given-names>P</given-names></name><name><surname>Bleszynski Jayich</surname><given-names>AC</given-names></name></person-group><article-title>Topical review: spins and mechanics in diamond</article-title><source>J. Opt.</source><year>2017</year><volume>19</volume><fpage>033001</fpage><pub-id pub-id-type="doi">10.1088/2040-8986/aa52cd</pub-id></element-citation></ref><ref id="CR15"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Whiteley</surname><given-names>SJ</given-names></name><etal/></person-group><article-title>Spin-phonon interactions in silicon carbide addressed by Gaussian acoustics</article-title><source>Nat. Phys.</source><year>2019</year><volume>15</volume><fpage>490</fpage><lpage>495</lpage><pub-id pub-id-type="doi">10.1038/s41567-019-0420-0</pub-id></element-citation></ref><ref id="CR16"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>H</given-names></name><etal/></person-group><article-title>Engineering electron-phonon coupling of quantum defects to a semi-confocal acoustic resonator</article-title><source>Nano Lett.</source><year>2019</year><volume>19</volume><fpage>7021</fpage><lpage>7027</lpage><pub-id pub-id-type="doi">10.1021/acs.nanolett.9b02430</pub-id><pub-id pub-id-type="pmid">31498998</pub-id></element-citation></ref><ref id="CR17"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sohn</surname><given-names>Y-I</given-names></name><etal/></person-group><article-title>Controlling the coherence of a diamond spin qubit through its strain environment</article-title><source>Nat. Commun.</source><year>2018</year><volume>9</volume><fpage>2012</fpage><pub-id pub-id-type="doi">10.1038/s41467-018-04340-3</pub-id><pub-id pub-id-type="pmid">29789553</pub-id></element-citation></ref><ref id="CR18"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Meesala</surname><given-names>S</given-names></name><etal/></person-group><article-title>Strain engineering of the silicon-vacancy center in diamond</article-title><source>Phys. Rev. B</source><year>2018</year><volume>97</volume><fpage>205444</fpage><pub-id pub-id-type="doi">10.1103/PhysRevB.97.205444</pub-id></element-citation></ref><ref id="CR19"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rogers</surname><given-names>LJ</given-names></name><etal/></person-group><article-title>Multiple intrinsically identical single-photon emitters in the solid state</article-title><source>Nat. Commun.</source><year>2014</year><volume>5</volume><fpage>4739</fpage><pub-id pub-id-type="doi">10.1038/ncomms5739</pub-id><pub-id pub-id-type="pmid">25162729</pub-id></element-citation></ref><ref id="CR20"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sipahigil</surname><given-names>A</given-names></name><etal/></person-group><article-title>An integrated diamond nanophotonics platform for quantum-optical networks</article-title><source>Science</source><year>2016</year><volume>354</volume><fpage>847</fpage><lpage>850</lpage><pub-id pub-id-type="doi">10.1126/science.aah6875</pub-id><pub-id pub-id-type="pmid">27738014</pub-id></element-citation></ref><ref id="CR21"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Machielse</surname><given-names>B</given-names></name><etal/></person-group><article-title>Quantum interference of electromechanically stabilized emitters in nanophotonic devices</article-title><source>Phys. Rev. X</source><year>2019</year><volume>9</volume><fpage>030122</fpage></element-citation></ref><ref id="CR22"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hepp</surname><given-names>C</given-names></name><etal/></person-group><article-title>Electronic structure of the silicon vacancy color center in diamond</article-title><source>Phys. Rev. Lett.</source><year>2014</year><volume>112</volume><fpage>036405</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.112.036405</pub-id><pub-id pub-id-type="pmid">24484153</pub-id></element-citation></ref><ref id="CR23"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Doherty</surname><given-names>MW</given-names></name><etal/></person-group><article-title>Theory of the ground-state spin of the NV<inline-formula id="IEq106"><alternatives><tex-math id="M211">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{-}$$\end{document}</tex-math><mml:math id="M212"><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x02212;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13822_Article_IEq106.gif"/></alternatives></inline-formula> center in diamond</article-title><source>Phys. Rev. B</source><year>2012</year><volume>85</volume><fpage>205203</fpage><pub-id pub-id-type="doi">10.1103/PhysRevB.85.205203</pub-id></element-citation></ref><ref id="CR24"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zheng</surname><given-names>L</given-names></name><name><surname>Wu</surname><given-names>D</given-names></name><name><surname>Wu</surname><given-names>X</given-names></name><name><surname>Lai</surname><given-names>K</given-names></name></person-group><article-title>Visualization of surface-acoustic-wave potential by transmission-mode microwave impedance microscopy</article-title><source>Phys. Rev. Appl.</source><year>2018</year><volume>9</volume><fpage>061002</fpage><pub-id pub-id-type="doi">10.1103/PhysRevApplied.9.061002</pub-id></element-citation></ref><ref id="CR25"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jahnke</surname><given-names>KD</given-names></name><etal/></person-group><article-title>Electron-phonon processes of the silicon-vacancy centre in diamond</article-title><source>N. J. Phys.</source><year>2015</year><volume>17</volume><fpage>043011</fpage><pub-id pub-id-type="doi">10.1088/1367-2630/17/4/043011</pub-id></element-citation></ref><ref id="CR26"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pingault</surname><given-names>B</given-names></name><etal/></person-group><article-title>Coherent control of the silicon-vacancy spin in diamond</article-title><source>Nat. Commun.</source><year>2017</year><volume>8</volume><fpage>15579</fpage><pub-id pub-id-type="doi">10.1038/ncomms15579</pub-id><pub-id pub-id-type="pmid">28555618</pub-id></element-citation></ref><ref id="CR27"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lemonde</surname><given-names>M-A</given-names></name><etal/></person-group><article-title>Phonon networks with silicon-vacancy centers in diamond waveguides</article-title><source>Phys. Rev. Lett.</source><year>2018</year><volume>120</volume><fpage>213603</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.120.213603</pub-id><pub-id pub-id-type="pmid">29883171</pub-id></element-citation></ref><ref id="CR28"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Burek</surname><given-names>MJ</given-names></name><etal/></person-group><article-title>Diamond optomechanical crystals</article-title><source>Optica</source><year>2016</year><volume>3</volume><fpage>1404</fpage><lpage>1411</lpage><pub-id pub-id-type="doi">10.1364/OPTICA.3.001404</pub-id></element-citation></ref><ref id="CR29"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shao</surname><given-names>L</given-names></name><etal/></person-group><article-title>Phononic band structure engineering for high-Q gigahertz surface acoustic wave resonators on lithium niobate</article-title><source>Phys. Rev. Appl.</source><year>2019</year><volume>12</volume><fpage>014022</fpage><pub-id pub-id-type="doi">10.1103/PhysRevApplied.12.014022</pub-id></element-citation></ref><ref id="CR30"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arrangoiz-Arriola</surname><given-names>P</given-names></name><etal/></person-group><article-title>Resolving the energy levels of a nanomechanical oscillator</article-title><source>Nature</source><year>2019</year><volume>571</volume><fpage>537</fpage><lpage>540</lpage><pub-id pub-id-type="doi">10.1038/s41586-019-1386-x</pub-id><pub-id pub-id-type="pmid">31341303</pub-id></element-citation></ref><ref id="CR31"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chu</surname><given-names>Y</given-names></name><etal/></person-group><article-title>Quantum acoustics with superconducting qubits</article-title><source>Science</source><year>2017</year><volume>358</volume><fpage>199</fpage><lpage>202</lpage><pub-id pub-id-type="doi">10.1126/science.aao1511</pub-id><pub-id pub-id-type="pmid">28935771</pub-id></element-citation></ref><ref id="CR32"><label>32.</label><mixed-citation publication-type="other">Ziegler, J. F., Ziegler, M. D. &#x00026; Biersack, J. P. In <italic>19th International Conference on Ion Beam Analysis Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms</italic><bold>268</bold>, 1818&#x02013;1823 (2010).</mixed-citation></ref></ref-list></back></article>

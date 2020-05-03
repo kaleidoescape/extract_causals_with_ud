@@ -1,0 +1,532 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938528</article-id><article-id pub-id-type="pmc">6953677</article-id><article-id pub-id-type="doi">10.1002/ece3.5876</article-id><article-id pub-id-type="publisher-id">ECE35876</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>The distribution and spread of naturally occurring <italic>Medea</italic> selfish genetic elements in the United States</article-title><alt-title alt-title-type="left-running-head">CASH et al.</alt-title></title-group><contrib-group><contrib id="ece35876-cr-0001" contrib-type="author"><name><surname>Cash</surname><given-names>Sarah A.</given-names></name><xref ref-type="aff" rid="ece35876-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35876-cr-0002" contrib-type="author"><name><surname>Lorenzen</surname><given-names>Marce D.</given-names></name><xref ref-type="aff" rid="ece35876-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35876-cr-0003" contrib-type="author" corresp="yes"><name><surname>Gould</surname><given-names>Fred</given-names></name><xref ref-type="aff" rid="ece35876-aff-0002">
+<sup>2</sup>
+</xref><address><email>fgould@ncsu.edu</email></address></contrib></contrib-group><aff id="ece35876-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Program in Genetics</named-content>
+<named-content content-type="organisation-division">Department of Biological Sciences</named-content>
+<institution>North Carolina State University</institution>
+<city>Raleigh</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><aff id="ece35876-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Entomology and Plant Pathology</named-content>
+<institution>North Carolina State University</institution>
+<city>Raleigh</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Fred Gould, North Carolina State University, Raleigh, NC, USA.<break/>
+Email: <email>fgould@ncsu.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14407</fpage><lpage>14416</lpage><history><date date-type="received"><day>27</day><month>7</month><year>2019</year></date><date date-type="rev-recd"><day>31</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>05</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14407.pdf"/><abstract id="ece35876-abs-0001"><title>Abstract</title><p>Selfish genetic elements (SGEs) are DNA sequences that are transmitted to viable offspring in greater than Mendelian frequencies. <italic>Medea</italic> SGEs occur naturally in some populations of red flour beetle (<italic>Tribolium castaneum</italic>) and are expected to increase in frequency within populations and spread among populations. The large&#x02010;scale U.S. distributions of <italic>Medea&#x02010;4</italic> (M<sup>4</sup>) had been mapped based on samples from 1993 to 1995. We sampled beetles in 2011&#x02013;2014 and show that the distribution of M<sup>4</sup> in the United States is dynamic and has shifted southward. By using a genetic marker of <italic>Medea&#x02010;1</italic> (M<sup>1</sup>), we found five unique geographic clusters with high and low M<sup>1</sup> frequencies in a pattern not predicted by microsatellite&#x02010;based analysis of population structure. Our results indicate the absence of rigid barriers to <italic>Medea</italic> spread in the United States, so assessment of what factors have limited its current distribution requires further investigation. There is great interest in using synthetic SGEs, including synthetic <italic>Medea</italic>, to alter or suppress pest populations, but there is concern about unpredicted spread of these SGEs and potential for populations to become resistant to them. The finding of patchy distributions of <italic>Medea</italic> elements suggests that released synthetic SGEs cannot always be expected to spread uniformly, especially in target species with limited dispersal.</p></abstract><abstract abstract-type="graphical" id="ece35876-abs-0002"><p>This figure compares the <italic>Medea&#x02010;4</italic> element distribution over time. The <italic>Medea&#x02010;4</italic> element in the United States is widespread, but no longer in a latitudinal distribution.<boxed-text position="anchor" content-type="graphic" id="ece35876-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14407-g004.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35876-kwd-0001">maternal effect</kwd><kwd id="ece35876-kwd-0002"><styled-content style="fixed-case" toggle="no"><italic>Medea</italic></styled-content></kwd><kwd id="ece35876-kwd-0003">red flour beetle</kwd><kwd id="ece35876-kwd-0004">selfish genetic element</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>USDA National Institute of Food and Agriculture</funding-source><award-id>2013&#x02010;67011&#x02010;21111</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Science Foundation </institution><institution-id institution-id-type="open-funder-registry">10.13039/100000001</institution-id></institution-wrap></funding-source><award-id>MCB</award-id><award-id>&#x02010;1244772</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>W. M. Keck Foundation </institution><institution-id institution-id-type="open-funder-registry">10.13039/100000888</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="10"/><word-count count="8065"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35876-cit-1001">
+<string-name>
+<surname>Cash</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Lorenzen</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Gould</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>The distribution and spread of naturally occurring <italic>Medea</italic> selfish genetic elements in the United States</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14407</fpage>&#x02013;<lpage>14416</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5876</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35876-body-0001"><sec id="ece35876-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Selfish genetic elements (SGEs) have been found to occur naturally in a huge variety of taxa, but despite decades of study by evolutionary biologists, the origins, mechanisms, and population&#x02010;level impacts of these elements are still largely unknown (Burt &#x00026; Trivers, <xref rid="ece35876-bib-0009" ref-type="ref">2006</xref>). Many populations of red flour beetle (<italic>Tribolium castaneum</italic>) harbor naturally occurring selfish <italic>Medea</italic> elements (Beeman &#x00026; Friesen, <xref rid="ece35876-bib-0004" ref-type="ref">1999</xref>). <italic>Medea</italic> elements are genomic sequences which cause death of the non&#x02010;<italic>Medea</italic> offspring of <italic>Medea</italic>&#x02010;bearing mothers (Beeman, Friesen, &#x00026; Denell, <xref rid="ece35876-bib-0005" ref-type="ref">1992</xref>). Currently, the most parsimonious model suggests <italic>Medea</italic>'s action involves two tightly linked loci&#x02014;one encoding a lethal, maternally expressed toxin in all eggs, and the other encoding a zygotic antidote that rescues only those progeny inheriting at least one <italic>Medea</italic> allele (Beeman &#x00026; Friesen, <xref rid="ece35876-bib-0004" ref-type="ref">1999</xref>; Beeman et al., <xref rid="ece35876-bib-0005" ref-type="ref">1992</xref>). Because only non&#x02010;<italic>Medea</italic> (i.e., &#x0201c;wild&#x02010;type&#x0201d;) offspring produced by mothers that are heterozygous for the <italic>Medea</italic> element die, the <italic>Medea</italic> allele frequency is expected to increase within a population over time, provided that <italic>Medea</italic> introduction frequency is not extremely low, and the element does not carry a substantial fitness cost (Wade &#x00026; Beeman, <xref rid="ece35876-bib-0052" ref-type="ref">1994</xref>). The influence of selfish genetic elements on populations and species can be substantial, from providing additional genetic variation that enables adaptation (e.g., Li, Schuler, &#x00026; Berenbaum, <xref rid="ece35876-bib-0031" ref-type="ref">2007</xref>) to the lowering of population fitness (e.g., Carroll, Meagher, Morrision, Penn, &#x00026; Potts, <xref rid="ece35876-bib-0011" ref-type="ref">2004</xref>). Beyond that, the basic population genetics and evolutionary history of elements such as <italic>Medea</italic> represent a fascinating yet understudied dimension in evolutionary biology (Burt &#x00026; Trivers, <xref rid="ece35876-bib-0009" ref-type="ref">2006</xref>).</p><p>Beyond the importance of understanding natural SGEs for advancing basic science, knowledge of natural SGEs is relevant to the newly emerging technology of &#x0201c;gene drives&#x0201d; that aims at using synthetic SGEs to drive genes into pest populations that will act to suppress the populations or decrease vectorial capacity of the populations (e.g., Godfray, North, &#x00026; Burt, <xref rid="ece35876-bib-0021" ref-type="ref">2017</xref>; Rode, Estoup, Bourguet, Courtier&#x02010;Orgogozo, &#x00026; Debarre, <xref rid="ece35876-bib-0044" ref-type="ref">2019</xref>; Sinkins &#x00026; Gould, <xref rid="ece35876-bib-0048" ref-type="ref">2006</xref>). Synthetic forms of <italic>Medea</italic> have been developed and tested in the laboratory (Buchman, Marshall, Ostrovski, Yang, &#x00026; Akbari, <xref rid="ece35876-bib-0008" ref-type="ref">2018</xref>; Chen et al., <xref rid="ece35876-bib-0015" ref-type="ref">2007</xref>; Hay et al., <xref rid="ece35876-bib-0025" ref-type="ref">2010</xref>). Currently, there is concern among scientists and the public regarding predictability of spread of synthetic gene drives and the potential of pest populations to evolve resistance to the gene drive mechanisms or to linked sequences that impact traits and/or the viability of homozygote offspring (e.g., NASEM, <xref rid="ece35876-bib-0034" ref-type="ref">2016</xref>; Rode et al., <xref rid="ece35876-bib-0044" ref-type="ref">2019</xref>).</p><p>Two distinct <italic>Medea</italic> elements are known to be present in U.S. populations of red flour beetle: M<sup>1</sup> and M<sup>4</sup> (the M<sup>2</sup> and M<sup>3</sup> elements have each been identified only once, and in Asian populations) (Beeman &#x00026; Friesen, <xref rid="ece35876-bib-0004" ref-type="ref">1999</xref>). Interestingly, M<sup>1</sup> has only been found in wild beetles also harboring M<sup>4</sup> (though the elements can be easily separated through crossing, and M<sup>1</sup>&#x02010;only strains are easily reared in the laboratory), while M<sup>4</sup> is commonly found as the sole element present in wild populations (Beeman &#x00026; Friesen, <xref rid="ece35876-bib-0004" ref-type="ref">1999</xref>). While both elements exhibit the same maternal&#x02010;effect lethality, they map to opposite ends of the same linkage group and do not cross&#x02010;rescue&#x02014;for example, inheritance of an M<sup>4</sup> allele cannot rescue the offspring of an M<sup>1</sup>&#x02010;bearing mother (Beeman &#x00026; Friesen, <xref rid="ece35876-bib-0004" ref-type="ref">1999</xref>). M<sup>1</sup> has been fully sequenced, and is associated with a transposon insertion, though the genetic mechanism involved in the maternal&#x02010;effect lethality remains a mystery (Lorenzen et al., <xref rid="ece35876-bib-0032" ref-type="ref">2008</xref>). A prior assessment of the distribution of the M<sup>4</sup> element in the United States showed a striking latitudinal stepped cline (Beeman, <xref rid="ece35876-bib-0003" ref-type="ref">2003</xref>). All 26 sample locations above 33&#x000b0;N were fixed for the M<sup>4</sup> element. In contrast, only two sampled locations below this latitude were fixed for the element, 21 lacked the element, and six had an intermediate frequency of M<sup>4</sup>. This delineation was so obvious that it spurred the hypothesis that distinct genetic races of <italic>T.&#x000a0;castaneum</italic> might exist in the United States and that insufficient gene flow between these northern and southern races might create a barrier (Beeman, <xref rid="ece35876-bib-0003" ref-type="ref">2003</xref>). It is also possible that there is mating between the northern and southern populations, but that the southern populations are resistant to the action of <italic>Medea</italic>.</p><p>While they possess mechanisms allowing for their frequencies to increase, many naturally occurring SGEs appear to be maintained at low or intermediate frequency (reviewed in Hatcher, <xref rid="ece35876-bib-0024" ref-type="ref">2000</xref>). Despite their great potential for rapid spread, it is not uncommon for SGEs to be distributed in stable gradients. For example, the meiotic X&#x02010;chromosome driver <italic>SR</italic> in <italic>Drosophila pseudoobscura</italic> is distributed along a latitudinal gradient in North America, with the element more common in southern populations. This distribution appears to have been stable for at least the last half&#x02010;century potentially due to higher polyandry in northern populations (Price et al., <xref rid="ece35876-bib-0038" ref-type="ref">2014</xref>; Sturtevant &#x00026; Dobzhansky, <xref rid="ece35876-bib-0049" ref-type="ref">1936</xref>). <italic>Drosophila melanogaster</italic> P elements show an east&#x02013;west frequency gradient in Eurasia, with higher concentrations in western Europe fading out as sampling moves eastward (Anxolab&#x000e9;h&#x000e8;re, Nouaud, P&#x000e9;riquet, &#x00026; Tchen, <xref rid="ece35876-bib-0002" ref-type="ref">1985</xref>). This gradient&#x02010;based distribution appears to be stable, likely due to the presence of &#x0201c;buffer populations&#x0201d; impervious to P elements (Bonnivard &#x00026; Higuet, <xref rid="ece35876-bib-0007" ref-type="ref">1999</xref>).</p><p>Our goal was to determine whether the distribution of M<sup>4</sup> in the United States is also stable, and if so, what genetic and/or environmental factors maintain the distribution. While M<sup>1</sup> is also known to be present in U.S. populations, the only effort to assess its distribution involved few populations (Beeman &#x00026; Friesen, <xref rid="ece35876-bib-0004" ref-type="ref">1999</xref>). Thus, it is unclear whether the same factors which shape the distribution of M<sup>4</sup> also influence the distribution of M<sup>1</sup>.</p><p>
+<italic>Tribolium castaneum</italic> are thought to disperse primarily by human&#x02010;aided movement of infested stored grains and processed products. However, evidence for the importance of active dispersal via flight has been found in Australian populations of red flour beetle (Ridley et al., <xref rid="ece35876-bib-0043" ref-type="ref">2011</xref>). From traps spaced up to several dozen kilometers from the nearest food resources, roughly 88% of emigrating females were mated, showing the great potential for gene flow between populations. While the maximum extent of flight is unclear, it was evident that flight&#x02010;aided dispersal occurs at least on a scale of tens of kilometers (Ridley et al., <xref rid="ece35876-bib-0043" ref-type="ref">2011</xref>). Flight initiation peaks with warmer temperatures and increased daylight, so active dispersal will vary seasonally (Perez&#x02010;Mendoza, Campbell, &#x00026; Throne, <xref rid="ece35876-bib-0036" ref-type="ref">2014</xref>).</p><p>Further, it is not yet known how successful long&#x02010;distance immigrants will be. <italic>Tribolium castaneum</italic> are not particularly attracted to undamaged or uninfested grains and flour, and success in locating a flour patch decreased as distance increased over a scale of only many centimeters (Romero, Campbell, Nechols, &#x00026; With, <xref rid="ece35876-bib-0045" ref-type="ref">2010</xref>). The effectiveness of pheromones as attractants has been demonstrated on a scale of several meters (Boake &#x00026; Wade, <xref rid="ece35876-bib-0006" ref-type="ref">1984</xref>; Obeng&#x02010;Ofori &#x00026; Coaker, <xref rid="ece35876-bib-0035" ref-type="ref">1990</xref>), but may decay beyond this. If migrating beetles are effectively "flying blindly" until they luck upon a trail of aggregation pheromone or other food volatiles, the true impact of active dispersal on gene flow may be small.</p><p>An understanding of the factors which influence <italic>Medea</italic> spread is vital both for assessing <italic>Medea</italic>'s potential as a synthetic gene drive mechanism and for garnering a better understanding of the element's evolutionary biology. A critical first step is to describe current <italic>Medea</italic> distributions and determine whether the distributions are changing. Here, we describe our analysis of the contemporary distribution of M<sup>4</sup> in the United States relative to the distribution found in the earlier survey. We also present a description of the large&#x02010;scale distribution of M<sup>1</sup> in the United States. Finally, we address the potential role of population structure in shaping these distributions.</p></sec><sec sec-type="materials-and-methods" id="ece35876-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35876-sec-0003"><label>2.1</label><title>Sample collection</title><p>Red flour beetles used to assess the current distribution of <italic>Medea</italic> elements M<sup>1</sup> and M<sup>4</sup> were collected between November 2011 and May 2014. Resampling of two sites originally sampled in 2012 occurred in September 2013 to determine whether there were frequency changes over time within populations. Collection sites included rice and wheat flour mills, feed mills, farm supply stores, grain elevators, grain bins, and other on&#x02010;farm grain storage. When appropriate, as determined by facility layout and researcher safety, pheromone&#x02010;baited traps or probes (Tr&#x000e9;c&#x000e9;, Inc.) were employed to collect beetles from mills or larger stores of grain. Otherwise, beetles were collected by hand or sifted from the substrate. In cases where visiting the sampling site was not possible, beetles were collected and shipped directly from the site to our laboratory by an extension agent or facility employee.</p><p>Dead beetles were frozen as soon as possible after collection. Live beetles were permitted to mate and oviposit for up to 3&#x000a0;weeks on a mixture of organic whole wheat pastry flour and 5% (by volume) brewer's yeast. These beetles were reared at 22&#x02013;23&#x000b0;C and approximately 60% relative humidity in a controlled quarantine facility in order to establish cultures from each location; after this period, the originally collected beetles were removed and frozen for later genotyping. Cultures were maintained at the same temperature and humidity in a quarantine facility via periodic subculturing and flour replenishment.</p><p>In an effort to make inferences about an earlier distribution of M<sup>1</sup>, red flour beetles were also obtained from samples collected between 2004 and 2007. Samples from 2007 were collected in traps containing oil. This oil was removed from the beetles prior to DNA extraction by rinsing the beetles for 5&#x000a0;min in CitriSolv (Fisher Scientific), followed by a wash in double&#x02010;distilled water.</p></sec><sec id="ece35876-sec-0004"><label>2.2</label><title>M<sup>4</sup> diagnosis</title><p>Because we lacked a reliable M<sup>4</sup> molecular marker at the time of these experiments, the presence of M<sup>4</sup> in selected populations was assessed via crosses. Females from the homozygous M<sup>4</sup>
+<italic>pearl</italic> strain were crossed to the non&#x02010;<italic>Medea</italic> GA&#x02010;1 strain (Haliscak &#x00026; Beeman, <xref rid="ece35876-bib-0023" ref-type="ref">1983</xref>) to generate heterozygous M<sup>4</sup> females. These females were crossed to males from wild populations, and after 3&#x000a0;days, eggs were counted for each cross. Once the offspring completed development, the final number of surviving adult progeny was tallied. To minimize the impact of potentially unhealthy females on the survivorship data, crosses producing fewer than 10 eggs, or those which failed to produce any surviving adults, were not included in the analysis. Offspring survival frequency was used as an indicator of the presence/absence of the M<sup>4</sup> element in the wild&#x02010;derived males. As in Beeman (<xref rid="ece35876-bib-0003" ref-type="ref">2003</xref>), survival means from each location were compared to wild type and M<sup>4</sup> means using the Mann&#x02013;Whitney test in MATLAB (Version 8.0.0.783; Mathworks).</p><p>The expectation for offspring from crosses between known M<sup>4</sup>&#x02010;heterozygous females and wild&#x02010;derived males of unknown M<sup>4</sup> status is close to 100% survivorship if the male is actually homozygous for M<sup>4</sup>, roughly 75% for crosses to males heterozygous for M<sup>4</sup>, and about 50% offspring survivorship in crosses to males lacking the M<sup>4</sup> element. We used this information to categorize the probable genotypes of individual beetles.</p></sec><sec id="ece35876-sec-0005"><label>2.3</label><title>M<sup>1</sup> genotyping</title><p>Because the M<sup>1</sup> element has been fully sequenced, we were able to design M<sup>1</sup>&#x02010;specific primers and genotype via PCR.</p><p>Genomic DNA was extracted for 25 individual beetles per location (or, if 25 individuals were not available, as many individuals as possible) using the Qiagen DNeasy Blood and Tissue Kit. Primers used for amplification were as follows:
+<list list-type="simple" id="ece35876-list-0001"><list-item><p>Forward primer: 5&#x02032;&#x02010;TGGCGATAGTCAAAATCCTTTGTCG&#x02010;3&#x02032;</p></list-item><list-item><p>M<sup>1</sup> reverse: 5&#x02032;&#x02010;TGCCACCTTCACGTAGCCCG&#x02010;3&#x02032;</p></list-item><list-item><p>Wild&#x02010;type reverse: 5&#x02032;&#x02010;CAGGGCCCCGGAGTATTTTTCC&#x02010;3&#x02032;</p></list-item></list>
+</p><p>PCRs were performed in 25&#x000a0;&#x000b5;l volumes, each containing 1&#x000d7; PCR buffer, 3.5&#x000a0;mM MgCl<sub>2</sub>, 200&#x000a0;&#x000b5;M dNTPs, 2&#x000a0;&#x000b5;l DNA template, 1&#x000a0;&#x003bc;mol forward primer, 0.5&#x000a0;&#x003bc;mol of each reverse primer, 0.5&#x000a0;U <italic>Taq</italic> DNA polymerase (Genesee), and ddH<sub>2</sub>O to 25&#x000a0;&#x000b5;l. Thermal cycling consisted of initial denaturation of DNA template at 95&#x000b0;C for 4&#x000a0;min followed by 40 cycles of 95&#x000b0;C for 30&#x000a0;s, 58&#x000b0;C for 45&#x000a0;s, and 72&#x000b0;C for 75&#x000a0;s, and a final extension step of 72&#x000b0;C for 5&#x000a0;min. Alleles were separated on 2.5% agarose gels infused with ethidium bromide and visualized by ultraviolet (UV) illumination.</p></sec><sec id="ece35876-sec-0006"><label>2.4</label><title>Confirmation of M<sup>1</sup> lethality</title><p>Because our assessment of the distribution of M<sup>1</sup> relied on genotyping via a molecular marker, crosses were performed in select M<sup>1</sup>&#x02010;fixed populations to diagnose whether the M<sup>1</sup> sequences amplified during genotyping represented fully functional M<sup>1</sup> elements. Females from populations that were genotyped as fixed for M<sup>1</sup> were crossed to males from the GA&#x02010;1 strain, a laboratory strain devoid of <italic>Medea</italic> elements. Five presumably M<sup>1</sup>&#x02010;heterozygous females derived from each cross were then paired with GA&#x02010;1 males, and eggs from each cross were counted, with the proportion of surviving offspring used to determine whether maternal&#x02010;effect lethality had occurred. Survival rates near 100% would indicate the absence of <italic>Medea</italic> elements, while survival rates near 50% would imply the presence of a <italic>Medea</italic> element in the source population. Five additional heterozygous females per population were backcrossed to males from their population of origin, and the proportion of surviving offspring (presumably 100%, as sires were expected to be homozygous M<sup>1</sup>) was used as a control.</p><p>To determine whether any maternal&#x02010;effect lethality uncovered in these populations could be attributed to the M<sup>4</sup> element, three heterozygous females from each population were also crossed to males from the homozygous M<sup>4</sup>
+<italic>pearl</italic> strain. The absence of rescue in these crosses indicated the presence of a functional <italic>Medea</italic> element other than M<sup>4</sup>, presumably M<sup>1</sup>, given that M<sup>1</sup> is the only other <italic>Medea</italic> element that has been found in the United States.</p></sec><sec id="ece35876-sec-0007"><label>2.5</label><title>Distribution analysis</title><p>We used SaTscan v.7 to identify any regional clustering in our observed M<sup>1</sup> distribution (Kulldorff &#x00026; Information Management Services, Inc., <xref rid="ece35876-bib-0029" ref-type="ref">2009</xref>). This allowed us to find patterns that were significantly different from a random distribution of genotype frequencies. The geographic coordinates of each sampling location were entered, along with the total number of individuals genotyped at that location and the number of M<sup>1</sup> individuals identified. The program scans across the overall distribution in an elliptical window that was varied in radius from zero to a size exceeding the total sampling area, where each window represents a potential cluster of M<sup>1</sup> or wild&#x02010;type genotypes (Table <xref rid="ece35876-sup-0001" ref-type="supplementary-material">S4</xref>). For each window, a likelihood ratio was found by comparing the observed and expected number of M<sup>1</sup> genotypes under a Bernoulli probability model. The window with the maximum likelihood was assigned a <italic>p</italic>&#x02010;value, obtained through Monte Carlo simulation (Kulldorff, <xref rid="ece35876-bib-0028" ref-type="ref">1997</xref>).</p></sec><sec id="ece35876-sec-0008"><label>2.6</label><title>Microsatellite genotyping</title><p>We selected populations for analysis based on the number of individuals available from each sampled population, as well as the geographic location of each population. Sites in this study were selected that represented the wide geographic range of our sampling effort, while others were selected because of their proximity to other sampling locations, representing a finer scale. Populations with at least 20 sampled individuals were preferred. Selected primers described in Demuth et al. (<xref rid="ece35876-bib-0016" ref-type="ref">2007</xref>) were used for microsatellite amplification (Table <xref rid="ece35876-sup-0001" ref-type="supplementary-material">S2</xref>).</p><p>For cost&#x02010;effective, high&#x02010;throughput genotyping, forward primers were designed with a 5' M13 (&#x02212;29) sequence CACGACGTTGTAAAACGAC, and a universal M13 (&#x02212;29) primer labeled with either IRDye 800 or IRDye 700 was added to the reaction (Schuelke, <xref rid="ece35876-bib-0046" ref-type="ref">2000</xref>). The fluorescent IRDye is integrated on to the end of the fragment containing the forward primer, allowing for fragment detection and size estimation.</p><p>PCR was performed in 10&#x000a0;&#x000b5;l reactions, with each containing 2&#x000a0;&#x000b5;l genomic DNA (approximately 50&#x000a0;ng), 1&#x000d7; PCR buffer, 2&#x000a0;mM MgCl<sub>2</sub>, 0.2&#x000a0;mM dNTPs, 0.016&#x000a0;&#x000b5;M unlabeled forward primer, 0.06&#x000a0;&#x000b5;M reverse primer, 0.06&#x000a0;&#x000b5;M IRDye&#x02010;labeled universal M13 primer (Integrated DNA Technologies), 0.5&#x000a0;U <italic>Taq</italic> polymerase (Genesee), and ddH<sub>2</sub>O to 10&#x000a0;&#x000b5;l. The cycling conditions consisted of an initial denaturation step at 94&#x000b0;C for 4&#x000a0;min, followed by 15 cycles of 94&#x000b0;C for 30&#x000a0;s, 65&#x000b0;C (&#x02212;1&#x000b0;C/cycle) for 30&#x000a0;s, and 72&#x000b0;C for 1&#x000a0;min and 20&#x000a0;s, and ending with 30 cycles of 94&#x000b0;C for 15&#x000a0;s, 50&#x000b0;C for 15&#x000a0;s, and 72&#x000b0;C for 45&#x000a0;s.</p><p>The PCR products were diluted with 10&#x000a0;&#x000b5;l ddH<sub>2</sub>O, and 10&#x000a0;&#x000b5;l of a formamide stop solution (95% formamide, 20&#x000a0;mm EDTA, bromophenol blue) was added, followed by a denaturing step consisting of 95&#x000b0;C for 5&#x000a0;min. Fragments were separated by electrophoresis on a 6.5% Long Ranger 1&#x000d7; TBE polyacrylamide gel, run on a Li&#x02010;Cor 4300 automated DNA sequencer at a constant power of 40&#x000a0;W at 45&#x000b0;C for 1.5&#x000a0;hr. Fragments were sized using a 50&#x02013;350&#x000a0;bp IRDye 800 or 700 standard (Li&#x02010;Cor, Inc). Allele sizes were scored using QuantarPro software (KeyGene). Individuals missing data at more than three loci were removed from further analyses. Because this left population SC&#x02010;2 with only 10 individuals, it was excluded from population&#x02010;level analyses.</p></sec><sec id="ece35876-sec-0009"><label>2.7</label><title>Genetic diversity and differentiation</title><p>Observed and expected heterozygosity and deviation from Hardy&#x02013;Weinberg equilibrium were assessed in Arlequin (Excoffier et al., <xref rid="ece35876-bib-0019" ref-type="ref">2005</xref>). Genepop (Raymond &#x00026; Rousset, <xref rid="ece35876-bib-0041" ref-type="ref">1995</xref>) was used to carry out exact tests for linkage disequilibrium, employing a Markov chain with 10,000 dememorization steps, 250 batches, and 2,500 iterations per batch to estimate the exact <italic>p</italic>&#x02010;value. Significance levels of the tests were adjusted for multiple comparison following standard Bonferroni corrections (Rice, <xref rid="ece35876-bib-0042" ref-type="ref">1989</xref>). Pairwise <italic>F</italic>
+<sub>ST</sub> values were also estimated in Arlequin. Global <italic>R</italic>
+<sub>ST</sub>, allelic richness, and within&#x02010;population gene diversity were estimated in FSTAT (Goudet, <xref rid="ece35876-bib-0022" ref-type="ref">2001</xref>).</p><p>The program FreeNA (Chapuis &#x00026; Estoup, <xref rid="ece35876-bib-0014" ref-type="ref">2007</xref>) was used to estimate null allele frequencies and to correct <italic>F</italic>
+<sub>ST</sub> values for bias from null allele presence. A global M<sup>1</sup>
+<italic>F</italic>
+<sub>ST</sub> estimate was calculated using this same methodology, by assigning allele sizes to both the M<sup>1</sup> and wild&#x02010;type alleles and constructing individual genotypes corresponding with our PCR genotyping results.</p><p>Potential population structure was investigated using the program STRUCTURE (Pritchard, Stephens, &#x00026; Donnelly, <xref rid="ece35876-bib-0040" ref-type="ref">2000</xref>) to assess the most likely number of clusters (<italic>K</italic>), where both the "admixture" and "no admixture" models were run, with sampling location used as a prior, and allele frequencies correlated. Five replicates each from <italic>K</italic>&#x000a0;=&#x000a0;1 to <italic>K</italic>&#x000a0;=&#x000a0;15 were run with a burn&#x02010;in period of 200,000 steps followed by 200,000 MCMC iterations. The most likely value of <italic>K</italic> was determined in Structure Harvester (Earl &#x00026; vonHoldt, <xref rid="ece35876-bib-0017" ref-type="ref">2012</xref>), which uses the delta <italic>K</italic> method described by Evanno, Regnaut, and Goudet (<xref rid="ece35876-bib-0018" ref-type="ref">2005</xref>). For individual cluster assignments, STRUCTURE was run again for 20 replicates at the most likely <italic>K</italic>. The programs CLUMPP and DISTRUCT were used to visualize the raw data outputs from STRUCTURE (Jakobsson &#x00026; Rosenberg, <xref rid="ece35876-bib-0027" ref-type="ref">2007</xref>).</p><p>The extent of genetic isolation due to geographic distance was assessed via a Mantel test with 10,000 permutations in Genepop's Isolde program (Raymond &#x00026; Rousset, <xref rid="ece35876-bib-0041" ref-type="ref">1995</xref>), using two semimatrices: one consisting of <italic>F</italic>
+<sub>ST</sub>/(1&#x02212;<italic>F</italic>
+<sub>ST</sub>) with ENA corrected <italic>F</italic>
+<sub>ST</sub> values and another semimatrix of natural log&#x02010;transformed kilometer linear distances between sample locations. These analyses were also performed with the original uncorrected <italic>F</italic>
+<sub>ST</sub> values, and the results obtained were compared to assess whether there were significant differences.</p></sec></sec><sec sec-type="results" id="ece35876-sec-0010"><label>3</label><title>RESULTS</title><sec id="ece35876-sec-0011"><label>3.1</label><title>M<sup>4</sup> genotyping and distribution</title><p>The overall result of testcrosses was that the M<sup>4</sup> element was geographically widespread and found in nearly every sample population tested (Figure <xref rid="ece35876-fig-0001" ref-type="fig">1</xref>b). For most locations, all tested individuals were predicted to carry at least one M<sup>4</sup> allele. This includes most locations south of 33&#x000b0;N, the previously described boundary of M<sup>4</sup> fixation, indicating that M<sup>4</sup> had moved southward. Only a single population, from southern Alabama, appeared to lack the M<sup>4</sup> element. Two populations with intermediate predicted M<sup>4</sup> frequencies were found in North Carolina, north of the 33rd parallel. North Carolina was not represented in the previous survey, and so it is unclear whether this represents a recent introduction of M<sup>4</sup>, or maintenance of an intermediate frequency.</p><fig fig-type="Figure" xml:lang="en" id="ece35876-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The M<sup>4</sup> element in the United States is widespread, but no longer in a latitudinal distribution. (a) M<sup>4</sup> distribution described by Beeman (<xref rid="ece35876-bib-0003" ref-type="ref">2003</xref>), sampled 1993&#x02013;1995. Figure adapted by authors from Beeman (<xref rid="ece35876-bib-0003" ref-type="ref">2003</xref>) with permission. (b) M<sup>4</sup> distribution of present study, sampled 2011&#x02013;2014. Open circles indicate beetles genotyped were homozygous wild&#x02010;type, dark circles indicate beetles were homozygous M<sup>4</sup>, while light circles indicate both wild&#x02010;type and M<sup>4</sup> beetles were present in the sample. The 33rd parallel (site of M<sup>4</sup> delineation from Beeman, <xref rid="ece35876-bib-0003" ref-type="ref">2003</xref>) is indicated for reference</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14407-g001"/></fig><p>Out of a total of 176 productive diagnostic crosses, survival above 100% was found in two&#x02014;in each case, this was the result of counting exactly one more surviving adult than the number of eggs originally tallied. This was likely the result of an egg eluding the initial census by sticking to the side of the vial, or of an unfortunate miscount. These errors indicate that there may have been undercounts in some of the other replicates (Table <xref rid="ece35876-sup-0001" ref-type="supplementary-material">S3</xref>).</p></sec><sec id="ece35876-sec-0012"><label>3.2</label><title>M<sup>1</sup> genotyping and distribution analysis</title><p>M<sup>1</sup> diagnostic crosses confirmed that our PCR&#x02010;based M<sup>1</sup> genotyping was indeed amplifying genomic regions representing functional M<sup>1</sup> sequence. For each of the test populations that genotyped as fixed for M<sup>1</sup> with our PCR assay, maternal&#x02010;effect lethality was apparent in crosses to non&#x02010;<italic>Medea</italic> individuals (Figure <xref rid="ece35876-sup-0001" ref-type="supplementary-material">S1</xref>). Further, this lethality could not be rescued by the M<sup>4</sup> element (Figure <xref rid="ece35876-sup-0001" ref-type="supplementary-material">S1</xref>). We did not find any M<sup>1</sup> beetles present in AL&#x02010;9, the only population sample to have lacked M<sup>4</sup> in our analyses (Table <xref rid="ece35876-sup-0001" ref-type="supplementary-material">S3</xref>).</p><p>While we did not obtain enough archived samples from 2004 to 2007 to make a full, comprehensive assessment of the prior distribution of M<sup>1</sup> (Table <xref rid="ece35876-sup-0001" ref-type="supplementary-material">S1</xref>), the data we collected still reflect heterogeneity in the M<sup>1</sup> distribution (Figure <xref rid="ece35876-fig-0002" ref-type="fig">2</xref>). In contrast with the distribution of M<sup>4</sup> described by Beeman (<xref rid="ece35876-bib-0003" ref-type="ref">2003</xref>), where the M<sup>4</sup> element was fixed in northern regions and largely absent at the southern extreme of the sampled region, we see M<sup>1</sup> at high frequency in the southern portion of the sampled area (with the exception of the relatively low frequency observed in the Louisiana locality), and largely absent at higher latitudes.</p><fig fig-type="Figure" xml:lang="en" id="ece35876-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>The M<sup>1</sup> element was more prevalent in southern latitudes in wild beetles sampled 2004&#x02013;2007. Open circles indicate beetles genotyped were homozygous wild&#x02010;type, dark circles indicate beetles were homozygous M<sup>1</sup>, while light circles indicate both wild&#x02010;type and M<sup>1</sup> beetles were present in the sample. A sample from Puerto Rico is shown in an insert</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14407-g002"/></fig><p>The present&#x02010;day distribution of the M<sup>1</sup> element in the United States (Figure <xref rid="ece35876-fig-0003" ref-type="fig">3</xref>) does not appear to show any latitudinal pattern, and certainly not one as distinct as the delineation found in prior M<sup>4</sup> studies. There is, however, an interesting apparent clustering of high&#x02010;frequency <italic>Medea</italic> samples in the south&#x02010;central region, covering much of northern Alabama, northern Mississippi, western Tennessee, and eastern Arkansas.</p><fig fig-type="Figure" xml:lang="en" id="ece35876-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>The present&#x02010;day distribution of the M<sup>1</sup> element in the United States is patchy, with several significant clusters of high or low M<sup>1</sup> frequency. Dotted circles indicate sites clustered by M<sup>1</sup> allele frequency by SaTscan analysis. The color of the solid circle indicates the M<sup>1</sup> genotype frequency of individuals sampled from that site, while the size of the circle is proportional to the number of individuals genotyped</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14407-g003"/></fig><p>Although the small number of sampled locations does not allow for a thorough comparison of the 2004&#x02013;2007 distribution with the current&#x02010;day distribution, the pattern seen in the 2004&#x02013;2007 samples is interesting, nonetheless. Our distribution analysis for the 2011&#x02013;2014 samples revealed five nonoverlapping clusters (Figure <xref rid="ece35876-fig-0003" ref-type="fig">3</xref>). The largest cluster consisted of high&#x02010;frequency sites, incorporating 24 sampling locations stretching from Texas to eastern Alabama. Another high&#x02010;frequency cluster included three populations from Florida and southern Alabama. The remaining three clusters highlighted low&#x02010;frequency M<sup>1</sup> regions: the eastern Carolinas (9 locations), eastern Alabama/western Georgia (4 locations), and the gulf coast (2 locations).</p></sec><sec id="ece35876-sec-0013"><label>3.3</label><title>Genetic diversity and differentiation</title><p>The microsatellite markers were highly polymorphic, ranging between 6 and 31 alleles per locus across all samples (Table <xref rid="ece35876-sup-0001" ref-type="supplementary-material">S5</xref>). Pairwise <italic>F</italic>
+<sub>ST</sub> across all loci and locations ranged from a high of 0.264 (between NE and SC) to a low of 0.002 (between MS and SC). Global per&#x02010;locus <italic>F</italic>
+<sub>ST</sub> values averaged 0.0669 (and ranged from 0.0365 to 0.1083, Table <xref rid="ece35876-sup-0001" ref-type="supplementary-material">S7</xref>) and were comparable to another study of microsatellites in U.S. red flour beetle populations (0.018&#x02013;0.149 in Semeao et al., <xref rid="ece35876-bib-0047" ref-type="ref">2012</xref>). In stark contrast, the <italic>F</italic>
+<sub>ST</sub> for the M<sup>1</sup> locus was 0.640, roughly six times higher than our most differentiated microsatellite locus.</p><p>When looking at microsatellite loci at all sample locations, we find a trend toward isolation by distance (IBD) (using corrected <italic>F</italic>
+<sub>ST</sub>, <italic>r</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;.012, <italic>p</italic>&#x000a0;=&#x000a0;.03); however, when excluding food production sites, a positive correlation between genetic distance and geographic distance remains, but the correlation is no longer statistically significant (<italic>p</italic>&#x000a0;=&#x000a0;.094) (Figure <xref rid="ece35876-sup-0001" ref-type="supplementary-material">S3</xref>). Driving this trend toward IBD, these sites tended to have higher average pairwise <italic>F</italic>
+<sub>ST</sub> values than other locations (Table <xref rid="ece35876-tbl-0001" ref-type="table">1</xref>) and were also typically farther away from the next sampled location (the average pairwise geographic distance for these food production facilities was 1,094&#x000a0;km; the average pairwise distance <italic>excluding</italic> these sites was 861&#x000a0;km). Overall, samples from these sites also showed significantly lower allelic richness, lower observed heterozygosity, and lower within&#x02010;population genetic diversity. We tested to determine whether there was correlation between latitude and M<sup>1</sup> frequency based on a sample of 31 populations. The correlation of 0.240 was not significant. We also tested for a correlation between M<sup>1</sup> frequency and level of heterozygosity with the hypothesis that beetle populations with M<sup>1</sup> would have lower heterozygosity due to linkage between the invading Medea element and alleles at other loci. We found no correlation (<italic>r</italic>&#x000a0;=&#x000a0;&#x02212;.003).</p><table-wrap id="ece35876-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Beetle samples from food production facilities showed lower metrics of diversity than beetles sampled in other locations</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="left" valign="top" rowspan="1" colspan="1">Food production</th><th align="left" valign="top" rowspan="1" colspan="1">Other</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>p</italic>&#x02010;Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Allelic richness</td><td align="left" rowspan="1" colspan="1">4.353</td><td align="left" rowspan="1" colspan="1">5.094</td><td align="left" rowspan="1" colspan="1">.004</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>H</italic>
+<sub>O</sub>
+</td><td align="left" rowspan="1" colspan="1">0.428</td><td align="left" rowspan="1" colspan="1">0.498</td><td align="left" rowspan="1" colspan="1">.027</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>H</italic>
+<sub>S</sub>
+</td><td align="left" rowspan="1" colspan="1">0.576</td><td align="left" rowspan="1" colspan="1">0.670</td><td align="left" rowspan="1" colspan="1">.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>IS</sub>
+</td><td align="left" rowspan="1" colspan="1">0.258</td><td align="left" rowspan="1" colspan="1">0.257</td><td align="left" rowspan="1" colspan="1">.982</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>ST</sub>
+</td><td align="left" rowspan="1" colspan="1">0.152</td><td align="left" rowspan="1" colspan="1">0.043</td><td align="left" rowspan="1" colspan="1">.001</td></tr></tbody></table><table-wrap-foot id="ece35876-ntgp-0001"><title>Note</title><fn id="ece35876-note-0001"><p>Shown are the average allelic richness, observed heterozygosity (<italic>H</italic>
+<sub>O</sub>), within&#x02010;population gene diversity (<italic>H</italic>
+<sub>S</sub>), inbreeding coefficient (<italic>F</italic>
+<sub>IS</sub>), and <italic>F</italic>
+<sub>ST</sub> for the seven food production sites compared with the remaining 22 sampling locations. <italic>p</italic>&#x02010;Values were obtained after 1,000 permutations in FSTAT (Goudet, <xref rid="ece35876-bib-0022" ref-type="ref">2001</xref>).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>No clear correlation was found between microsatellite and M<sup>1</sup> frequency differences among populations (Figure <xref rid="ece35876-sup-0001" ref-type="supplementary-material">S2</xref>b). We conclude from this that population structure does not appear to be a major factor shaping the <italic>Medea</italic> distributions. While the most likely number of clusters (<italic>K</italic>) from the structure analysis of microsatellite data was two, the delta <italic>K</italic> value (5.06) was quite small (Table <xref rid="ece35876-sup-0001" ref-type="supplementary-material">S6</xref>). There was no clear geographic interpretation for the assignments, nor any clear relationship between clustering and <italic>Medea</italic> frequency.</p></sec></sec><sec sec-type="discussion" id="ece35876-sec-0014"><label>4</label><title>DISCUSSION</title><p>Characterization of the spatial and temporal distribution of <italic>Medea</italic> elements is important for answering questions about <italic>Medea</italic> element evolution. Furthermore, from an applied perspective, there has been much attention paid to the potential use of <italic>Medea</italic> elements to spread beneficial genes into pest populations, but the only supporting data are from laboratory studies (Akbari et al., <xref rid="ece35876-bib-0001" ref-type="ref">2014</xref>; Buchman et al., <xref rid="ece35876-bib-0008" ref-type="ref">2018</xref>; Chen et al., <xref rid="ece35876-bib-0015" ref-type="ref">2007</xref>).</p><p>The current study is the first to assess the temporal dynamic nature of the distribution of <italic>Medea</italic> elements in a realistic landscape, and our data demonstrate that the M<sup>4</sup> distribution has expanded in the past two decades (Beeman, <xref rid="ece35876-bib-0003" ref-type="ref">2003</xref>). Further, we present the first detailed descriptions of the distribution of M<sup>1</sup> in the United States. We show that the M<sup>1</sup> element is widespread but patchy, with some evidence of clusters of sampled areas with high and low frequencies. Finally, we show that there is little differentiation in frequencies of microsatellite alleles among the beetles collected in our geographically widespread samples, suggesting that <italic>Medea</italic> spread is not strongly restricted by gene flow. Other studies of red flour beetle, both in U.S. populations (Semeao et al., <xref rid="ece35876-bib-0047" ref-type="ref">2012</xref>) and in Australia (Ridley et al., <xref rid="ece35876-bib-0043" ref-type="ref">2011</xref>), have demonstrated similar levels of overall genetic differentiation among <italic>T.&#x000a0;castaneum</italic> populations.</p><sec id="ece35876-sec-0015"><label>4.1</label><title>
+<italic>Medea&#x02010;4</italic> has spread geographically</title><p>Our M<sup>4</sup> genotyping demonstrates recent spread of the M<sup>4</sup> element within southern regions of the United States. This increase in M<sup>4</sup> frequency in the southern United States indicates that there are no rigid boundaries&#x02014;genetic, environmental, or dispersal&#x02014;preventing the spread of M<sup>4</sup> in the United States. The spread of M<sup>4</sup> in the southern United States as well as our analysis of population structure does not support the existence of distinct geographic <italic>T.&#x000a0;castaneum</italic> races that had been hypothesized earlier (Beeman, <xref rid="ece35876-bib-0003" ref-type="ref">2003</xref>). Assessment of M<sup>4</sup> status of each individual beetle required crosses and assessment of offspring survival, so sample size was small, and we could only determine whether M<sup>4</sup> was likely absent, present, or fixed in a population.</p></sec><sec id="ece35876-sec-0016"><label>4.2</label><title>
+<italic>Medea&#x02010;1</italic> is widely but nonrandomly distributed within the United States</title><p>Because we have a molecular marker for active M<sup>1</sup> elements, we were able to much more efficiently screen beetles for its presence/absence than was possible for M<sup>4</sup>, and we could roughly estimate frequency of M<sup>1</sup> within populations. We were also able to check for the M<sup>1</sup> marker in older, frozen beetles. Although M<sup>1</sup> was present in most tested locations, the element was noticeably absent in some sampled regions, as revealed by our geographic clustering analysis. It is interesting to note that the lowest frequency clusters were in coastal regions. Because we lack a prior comprehensive, large&#x02010;scale M<sup>1</sup> distribution for comparison, we do not yet know the temporal nature of these clusters.</p><p>Interestingly, M<sup>1</sup> in our samples remains intertwined with M<sup>4</sup>. Even though the two elements can be easily separated in the laboratory with simple crosses, and with no apparent decrease in viability/fecundity of the M<sup>1</sup>&#x02010;only stocks, no M<sup>1</sup> alleles were detected in beetles determined to lack the M<sup>4</sup> genotype. One possible explanation is that M<sup>1</sup> arose in an M<sup>4</sup> background and has been tied to the M<sup>4</sup> element's maternal&#x02010;effect lethality ever since. In the event of a dual introduction of M<sup>1</sup> and M<sup>4</sup> into a <italic>Medea</italic>&#x02010;na&#x000ef;ve population (or an M<sup>4</sup> population), we would expect both elements to persist, provided the introduction frequencies were not extremely low (Cash, <xref rid="ece35876-bib-0012" ref-type="ref">2016</xref>). Based on model predictions, in the case of a low&#x02010;frequency introduction, it is possible for just one of the two introduced <italic>Medea</italic> elements to be lost from the population based on recombination in heterozygous males.</p></sec><sec id="ece35876-sec-0017"><label>4.3</label><title>Sampling locations and methodologies may impact differentiation metrics</title><p>A prior study of flour beetle populations in several U.S. commercial grain storage and processing facilities found evidence of population structure not associated with either geographic distance or the commodity type (rice or wheat) (Semeao et al., <xref rid="ece35876-bib-0047" ref-type="ref">2012</xref>). Beetle populations in these facilities are impacted by pest control treatments, resulting in population reduction or elimination. In a long&#x02010;term study of flour mills, the average number of beetles trapped postfumigation decreased by nearly 85% from prefumigation levels, indicating a significant population decrease (Campbell, Toews, Arthur, &#x00026; Arbogast, <xref rid="ece35876-bib-0010" ref-type="ref">2010</xref>). Although these populations can rebound after treatment through propagation or immigration, the genetic makeup of the population is likely impacted by the bottleneck. In the present study, pairwise <italic>F</italic>
+<sub>ST</sub> of two samples taken at the same facility in Ohio roughly 16&#x000a0;months apart was 0.099, higher than the average pairwise <italic>F</italic>
+<sub>ST</sub> of 0.070 across all U.S. sites sampled. While pest management strategies are likely employed at other facilities, if storage or processing of products is not for human consumption, treatments may be less frequent or less stringent. An important caveat is that unlike most of the sampling locations, beetles from these sites were not collected directly by the researchers, who made an effort to collect from several locations within a site when possible. Instead, these beetles were sent by the facility, and may represent a nonrandom sample of the overall population, resulting in the lower levels of diversity seen.</p></sec><sec id="ece35876-sec-0018"><label>4.4</label><title>Updating hypotheses about <italic>Medea</italic> history</title><p>While some other SGEs have stable regional distributions (Bonnivard &#x00026; Higuet, <xref rid="ece35876-bib-0007" ref-type="ref">1999</xref>; Price, Hoskyns, Rapley, Evans, &#x00026; Wedell, <xref rid="ece35876-bib-0039" ref-type="ref">2012</xref>), we have presented evidence for a dynamic <italic>Medea</italic> distribution in the United States. <italic>Medea</italic> distributions in other regions may be more stable, and could be influenced by ecological factors, or the presence of nonfunctional neutral <italic>Medea</italic> alleles or suppressors. Such regions could include the boundary between M<sup>4</sup> and the H suppressor element in Asian populations (Thomson &#x00026; Beeman, <xref rid="ece35876-bib-0050" ref-type="ref">1999</xref>; Thomson, Friesen, Denell, &#x00026; Beeman, <xref rid="ece35876-bib-0051" ref-type="ref">1995</xref>), or low&#x02010;frequency regions such as Australia (Beeman &#x00026; Friesen, <xref rid="ece35876-bib-0004" ref-type="ref">1999</xref>); however, the stability of these distributions has yet to be investigated.</p><p>The generation time of <italic>T.&#x000a0;castaneum</italic> under optimal conditions is roughly 5&#x000a0;weeks at 30&#x000b0;C. However, development slows dramatically with temperature decreases and eggs fail to hatch below 17.5&#x000b0;C, halting reproduction in cooler months (Howe, <xref rid="ece35876-bib-0026" ref-type="ref">1956</xref>). With a <italic>Medea</italic> element that has no associated fitness cost, the time between immigration into a population at moderate frequency (10%) and fixation could take 2&#x02013;5&#x000a0;years (Ward et al., <xref rid="ece35876-bib-0053" ref-type="ref">2010</xref>). If the initial frequency in a population is low (1%), fixation could take decades. Still, unless introductions to the United States were very recent, a <italic>Medea</italic> with no fitness cost would be expected to be spread more widely. Importation of <italic>T.&#x000a0;castaneum&#x02010;</italic>infested grains and other stored commodities from regions where <italic>Medea</italic> is uncommon may reintroduce wild&#x02010;type beetles, suppressing the spread of <italic>Medea</italic> elements. There is a dramatic contrast between the lack of substantial microsatellite allelic differentiation found among our geographic populations and the strong differentiation in M<sup>1</sup> allele frequencies among these same populations. If M<sup>1</sup> had been in the United States for thousands of years, the clusters that we found would not be expected unless there was some physical, ecological, or genetic barrier to spread. In a companion study (Cash, Robert, Lorenzen, &#x00026; Gould, <xref rid="ece35876-bib-0013" ref-type="ref">in review</xref>), we tested to determine whether <italic>Medea</italic> spread is inhibited when it is introduced to laboratory colonies of beetles from populations that lack <italic>Medea</italic>.</p><p>While the current study reveals interesting information about the spatial and temporal dynamics of <italic>Medea</italic> elements, it is limited in scope. Future studies could examine distributions of <italic>Medea</italic> elements on a finer geographic scale and also could be expanded into other countries. Once there are molecular markers for multiple <italic>Medea</italic> elements, such studies would become less labor&#x02010;intensive.</p><p>Recent advances in molecular biology have enabled the development of synthetic <italic>Medea</italic> elements (Buchman et al., <xref rid="ece35876-bib-0008" ref-type="ref">2018</xref>; Chen et al., <xref rid="ece35876-bib-0015" ref-type="ref">2007</xref>; Hay et al., <xref rid="ece35876-bib-0025" ref-type="ref">2010</xref>) and other synthetic gene drive mechanisms (Macias, Ohm, &#x00026; Rasgon, <xref rid="ece35876-bib-0033" ref-type="ref">2017</xref>) with the goal of suppressing pest populations or eliminating traits that cause their pest status (Gantz &#x00026; Akbari, <xref rid="ece35876-bib-0020" ref-type="ref">2018</xref>; Piaggio et al., <xref rid="ece35876-bib-0037" ref-type="ref">2017</xref>). To date, these synthetic drives have only been tested in laboratory settings (e.g., Kyrou et al., <xref rid="ece35876-bib-0030" ref-type="ref">2018</xref>) and release in the field is complicated by the fact that the extent of spread and the potential for resistance to the drive is hard to predict (NASEM, <xref rid="ece35876-bib-0034" ref-type="ref">2016</xref>). A more detailed understanding of the temporal dynamics of <italic>Medea</italic> and other naturally occurring selfish genetic elements in species that differ in population structure could provide insights that would aid in the assessment and testing of synthetic gene drives. The finding in this study of patchy distributions of <italic>Medea</italic> elements suggests that releases of synthetic selfish genetic elements to alter pest population traits such as ability to transmit human diseases cannot be expected to spread uniformly, especially in target species such as <italic>Aedes aegypti</italic>, (the vector of dengue, Zika, yellow fever) that have limited dispersal.</p></sec></sec><sec sec-type="COI-statement" id="ece35876-sec-0019"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35876-sec-0022"><title>AUTHOR CONTRIBUTIONS</title><p>SAC, FG, and MDL designed the research; MDL provided reagents; SAC performed the research, analyzed the data, and wrote the original draft; SAC, FG, and MDL interpreted the data, and wrote, reviewed, and edited the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35876-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14407-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35876-sec-0023"><title>ACKNOWLEDGMENTS</title><p>The author would like to thank J. Campbell for providing the 2004&#x02013;2007 <italic>T.&#x000a0;castaneum</italic> samples. We are also grateful to the many extension personnel and agricultural facilities that helped SAC collect beetle samples. This project was supported by the Agriculture and Food Research Initiative Competitive Grant No. 2013&#x02010;67011&#x02010;21111 to SAC from the USDA National Institute of Food and Agriculture. Additional funding was provided by the National Science Foundation Grant No. MCB&#x02010;1244772 to MDL and by W. M. Keck Foundation to FG.</p></ack><sec sec-type="data-availability" id="ece35876-sec-0021"><title>DATA AVAILABILITY STATEMENT</title><p>More data can be accessed in the following thesis: Cash, S. A. 2016. An Experimental and Theoretical Analysis of the Selfish Genetic Element Medea in Red Flour Beetle Populations. PhD thesis, North Carolina State University, Raleigh. Data have been archived on Dryad <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.7sqv9s4p3" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.7sqv9s4p3</ext-link>.</p></sec><ref-list content-type="cited-references" id="ece35876-bibl-0001"><title>REFERENCES</title><ref id="ece35876-bib-0001"><mixed-citation publication-type="journal" id="ece35876-cit-0001">
+<string-name>
+<surname>Akbari</surname>, <given-names>O. S.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Marshall</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>H. X.</given-names>
+</string-name>, <string-name>
+<surname>Antoshechkin</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hay</surname>, <given-names>B. A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Novel synthetic <italic>Medea</italic> selfish genetic elements drive population replacement in <italic>Drosophila</italic>; a theoretical exploration of <italic>Medea</italic>&#x02010;dependent population suppression</article-title>. <source xml:lang="en">ACS Synthetic Biology</source>, <volume>3</volume>, <fpage>915</fpage>&#x02013;<lpage>928</lpage>.<pub-id pub-id-type="pmid">23654248</pub-id></mixed-citation></ref><ref id="ece35876-bib-0002"><mixed-citation publication-type="journal" id="ece35876-cit-0002">
+<string-name>
+<surname>Anxolab&#x000e9;h&#x000e8;re</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Nouaud</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e9;riquet</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tchen</surname>, <given-names>P.</given-names>
+</string-name> (<year>1985</year>). <article-title>P&#x02010;element distribution in Eurasian populations of <italic>Drosophila melanogaster</italic>: A genetic and molecular analysis</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the USA</source>, <volume>82</volume>, <fpage>5418</fpage>&#x02013;<lpage>5422</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.82.16.5418</pub-id>
+<pub-id pub-id-type="pmid">16593591</pub-id></mixed-citation></ref><ref id="ece35876-bib-0003"><mixed-citation publication-type="journal" id="ece35876-cit-0003">
+<string-name>
+<surname>Beeman</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>2003</year>). <article-title>Distribution of the <italic>Medea</italic> factor M<sup>4</sup> in populations of <italic>Tribolium castaneum</italic> (Herbst) in the United States</article-title>. <source xml:lang="en">Journal of Stored Products Research</source>, <volume>39</volume>, <fpage>45</fpage>&#x02013;<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1016/S0022-474X(02)00016-4</pub-id>
+</mixed-citation></ref><ref id="ece35876-bib-0004"><mixed-citation publication-type="journal" id="ece35876-cit-0004">
+<string-name>
+<surname>Beeman</surname>, <given-names>R. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Friesen</surname>, <given-names>K. S.</given-names>
+</string-name> (<year>1999</year>). <article-title>Properties and natural occurrence of maternal&#x02010;effect selfish genes (&#x02018;<italic>Medea</italic>&#x02019; factors in the red flour beetle, <italic>Tribolium castaneum</italic>)</article-title>. <source xml:lang="en">Heredity</source>, <volume>82</volume>, <fpage>529</fpage>&#x02013;<lpage>534</lpage>. <pub-id pub-id-type="doi">10.1038/sj.hdy.6885150</pub-id>
+<pub-id pub-id-type="pmid">10383673</pub-id></mixed-citation></ref><ref id="ece35876-bib-0005"><mixed-citation publication-type="journal" id="ece35876-cit-0005">
+<string-name>
+<surname>Beeman</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Friesen</surname>, <given-names>K. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Denell</surname>, <given-names>R. E.</given-names>
+</string-name> (<year>1992</year>). <article-title>Maternal&#x02010;effect selfish genes in flour beetles</article-title>. <source xml:lang="en">Science</source>, <volume>256</volume>, <fpage>89</fpage>&#x02013;<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1126/science.1566060</pub-id>
+<pub-id pub-id-type="pmid">1566060</pub-id></mixed-citation></ref><ref id="ece35876-bib-0006"><mixed-citation publication-type="journal" id="ece35876-cit-0006">
+<string-name>
+<surname>Boake</surname>, <given-names>R. B. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wade</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>1984</year>). <article-title>Populations of the red flour beetle <italic>Tribolium castaneum</italic> (Coleoptera: Tenebrionidae) differ in their sensitivity to aggregation pheromones</article-title>. <source xml:lang="en">Environmental Entomology</source>, <volume>13</volume>, <fpage>1182</fpage>&#x02013;<lpage>1185</lpage>.</mixed-citation></ref><ref id="ece35876-bib-0007"><mixed-citation publication-type="journal" id="ece35876-cit-0007">
+<string-name>
+<surname>Bonnivard</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Higuet</surname>, <given-names>D.</given-names>
+</string-name> (<year>1999</year>). <article-title>Stability of European natural populations of <italic>Drosophila melanogaster</italic> with regard to the P&#x02010;M system: A buffer zone made up of Q populations</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>12</volume>, <fpage>633</fpage>&#x02013;<lpage>647</lpage>.</mixed-citation></ref><ref id="ece35876-bib-0008"><mixed-citation publication-type="journal" id="ece35876-cit-0008">
+<string-name>
+<surname>Buchman</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Marshall</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Ostrovski</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Akbari</surname>, <given-names>O. S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Synthetically engineered <italic>Medea</italic> gene drive system in the worldwide crop pest <italic>Drosophila suzukii</italic>
+</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the USA</source>, <volume>115</volume>, <fpage>4725</fpage>&#x02013;<lpage>4730</lpage>.<pub-id pub-id-type="pmid">29666236</pub-id></mixed-citation></ref><ref id="ece35876-bib-0009"><mixed-citation publication-type="book" id="ece35876-cit-0009">
+<string-name>
+<surname>Burt</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Trivers</surname>, <given-names>R.</given-names>
+</string-name> (<year>2006</year>). <source xml:lang="en">Genes in conflict: The biology of selfish genetic elements</source>. <publisher-loc>Cambridge, MA</publisher-loc>: <publisher-name>Belknap Press</publisher-name>.</mixed-citation></ref><ref id="ece35876-bib-0010"><mixed-citation publication-type="journal" id="ece35876-cit-0010">
+<string-name>
+<surname>Campbell</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Toews</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Arthur</surname>, <given-names>F. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Arbogast</surname>, <given-names>R. T.</given-names>
+</string-name> (<year>2010</year>). <article-title>Long&#x02010;term monitoring of <italic>Tribolium castaneum</italic> in two flour mills: Seasonal patterns and impact of fumigation</article-title>. <source xml:lang="en">Journal of Economic Entomology</source>, <volume>103</volume>, <fpage>991</fpage>&#x02013;<lpage>1001</lpage>.<pub-id pub-id-type="pmid">20568648</pub-id></mixed-citation></ref><ref id="ece35876-bib-0011"><mixed-citation publication-type="journal" id="ece35876-cit-0011">
+<string-name>
+<surname>Carroll</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Meagher</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Morrision</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Penn</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Potts</surname>, <given-names>W.</given-names>
+</string-name> (<year>2004</year>). <article-title>Fitness effects of a selfish gene (the mus t complex) are revealed in an ecological context</article-title>. <source xml:lang="en">Evolution</source>, <volume>58</volume>, <fpage>1318</fpage>&#x02013;<lpage>1328</lpage>. <pub-id pub-id-type="doi">10.1554/03-544</pub-id>
+<pub-id pub-id-type="pmid">15266980</pub-id></mixed-citation></ref><ref id="ece35876-bib-0012"><mixed-citation publication-type="book" id="ece35876-cit-0012">
+<string-name>
+<surname>Cash</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2016</year>). <source xml:lang="en">An experimental and theoretical analysis of the selfish genetic element <italic toggle="yes">Medea</italic> in red flour beetle populations</source>, PhD thesis, <publisher-name>North Carolina State University</publisher-name>, <publisher-loc>Raleigh</publisher-loc>.</mixed-citation></ref><ref id="ece35876-bib-0013"><mixed-citation publication-type="book" id="ece35876-cit-0013">
+<string-name>
+<surname>Cash</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Robert</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Lorenzen</surname>, <given-names>M. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gould</surname>, <given-names>F.</given-names>
+</string-name> (in review). <source xml:lang="en">The impact of local population genetic background on the spread of the selfish element Medea&#x02010;1 in red flour beetles</source>.</mixed-citation></ref><ref id="ece35876-bib-0014"><mixed-citation publication-type="journal" id="ece35876-cit-0014">
+<string-name>
+<surname>Chapuis</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Estoup</surname>, <given-names>A.</given-names>
+</string-name> (<year>2007</year>). <article-title>Microsatellite null alleles and estimation of population differentiation</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>24</volume>, <fpage>621</fpage>&#x02013;<lpage>631</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/msl191</pub-id>
+<pub-id pub-id-type="pmid">17150975</pub-id></mixed-citation></ref><ref id="ece35876-bib-0015"><mixed-citation publication-type="journal" id="ece35876-cit-0015">
+<string-name>
+<surname>Chen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name>
+<surname>Schaeffer</surname>, <given-names>L. V.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hay</surname>, <given-names>B. A.</given-names>
+</string-name> (<year>2007</year>). <article-title>A synthetic maternal&#x02010;effect selfish genetic element drives population replacement in <italic>Drosophila</italic>
+</article-title>. <source xml:lang="en">Science</source>, <volume>316</volume>, <fpage>597</fpage>&#x02013;<lpage>600</lpage>. <pub-id pub-id-type="doi">10.1126/science.1138595</pub-id>
+<pub-id pub-id-type="pmid">17395794</pub-id></mixed-citation></ref><ref id="ece35876-bib-0016"><mixed-citation publication-type="journal" id="ece35876-cit-0016">
+<string-name>
+<surname>Demuth</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Drury</surname>, <given-names>D. W.</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Van Dyken</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Priest</surname>, <given-names>N. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wade</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2007</year>). <article-title>Genome&#x02010;wide survey of <italic>Tribolium castaneum</italic> microsatellites and description of 509 polymorphic markers</article-title>. <source xml:lang="en">Molecular Ecology Notes</source>, <volume>7</volume>, <fpage>1189</fpage>&#x02013;<lpage>1195</lpage>. <pub-id pub-id-type="doi">10.1111/j.1471-8286.2007.01826.x</pub-id>
+</mixed-citation></ref><ref id="ece35876-bib-0017"><mixed-citation publication-type="journal" id="ece35876-cit-0017">
+<string-name>
+<surname>Earl</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>vonHoldt</surname>, <given-names>B. M.</given-names>
+</string-name> (<year>2012</year>). <article-title>STRUCTURE HARVESTER: A website and program for visualizing STRUCTURE output and implementing the Evanno method</article-title>. <source xml:lang="en">Conservation Genetics Resources</source>, <volume>4</volume>, <fpage>359</fpage>&#x02013;<lpage>361</lpage>. <pub-id pub-id-type="doi">10.1007/s12686-011-9548-7</pub-id>
+</mixed-citation></ref><ref id="ece35876-bib-0018"><mixed-citation publication-type="journal" id="ece35876-cit-0018">
+<string-name>
+<surname>Evanno</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Regnaut</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Goudet</surname>, <given-names>J.</given-names>
+</string-name> (<year>2005</year>). <article-title>Detecting the number of clusters of individuals using the software STRUCTURE: A simulation study</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>14</volume>, <fpage>2611</fpage>&#x02013;<lpage>2620</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2005.02553.x</pub-id>
+<pub-id pub-id-type="pmid">15969739</pub-id></mixed-citation></ref><ref id="ece35876-bib-0019"><mixed-citation publication-type="journal" id="ece35876-cit-0019">
+<string-name>
+<surname>Excoffier</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Laval</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schneider</surname>, <given-names>S.</given-names>
+</string-name> (<year>2005</year>). <article-title>Arlequin ver. 3.0: An integrated software package for population genetics data analysis</article-title>. <source xml:lang="en">Evolutionary Bioinformatics</source>, <volume>1</volume>, <fpage>47</fpage>&#x02013;<lpage>50</lpage>.</mixed-citation></ref><ref id="ece35876-bib-0020"><mixed-citation publication-type="journal" id="ece35876-cit-0020">
+<string-name>
+<surname>Gantz</surname>, <given-names>V. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Akbari</surname>, <given-names>O. S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Gene editing technologies and applications for insects</article-title>. <source xml:lang="en">Current Opinion in Insect Science</source>, <volume>28</volume>, <fpage>66</fpage>&#x02013;<lpage>72</lpage>. <pub-id pub-id-type="doi">10.1016/j.cois.2018.05.006</pub-id>
+<pub-id pub-id-type="pmid">30551769</pub-id></mixed-citation></ref><ref id="ece35876-bib-0021"><mixed-citation publication-type="journal" id="ece35876-cit-0021">
+<string-name>
+<surname>Godfray</surname>, <given-names>H. C. J.</given-names>
+</string-name>, <string-name>
+<surname>North</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Burt</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>). <article-title>How driving endonuclease genes can be used to combat pests and disease vectors</article-title>. <source xml:lang="en">BMC Biology</source>, <volume>15</volume>, <fpage>81</fpage>
+<pub-id pub-id-type="doi">10.1186/s12915-017-0420-4</pub-id>
+<pub-id pub-id-type="pmid">28893259</pub-id></mixed-citation></ref><ref id="ece35876-bib-0022"><mixed-citation publication-type="book" id="ece35876-cit-0022">
+<string-name>
+<surname>Goudet</surname>, <given-names>J.</given-names>
+</string-name> (<year>2001</year>). <source xml:lang="en">FSTAT, a program to estimate and test gene diversities and fixation indices (version 2.9.3)</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.unil.ch/izea/softwares/fstat.html">http://www.unil.ch/izea/softwares/fstat.html</ext-link>
+</mixed-citation></ref><ref id="ece35876-bib-0023"><mixed-citation publication-type="journal" id="ece35876-cit-0023">
+<string-name>
+<surname>Haliscak</surname>, <given-names>J. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beeman</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>1983</year>). <article-title>Status of malathion resistance in five genera of beetles investing farm&#x02010;stored corn, wheat and oats in the United States</article-title>. <source xml:lang="en">Journal of Economic Entomology</source>, <volume>76</volume>, <fpage>717</fpage>&#x02013;<lpage>722</lpage>.</mixed-citation></ref><ref id="ece35876-bib-0024"><mixed-citation publication-type="journal" id="ece35876-cit-0024">
+<string-name>
+<surname>Hatcher</surname>, <given-names>M.</given-names>
+</string-name> (<year>2000</year>). <article-title>Persistence of selfish genetic elements: Population structure and conflict</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>15</volume>, <fpage>271</fpage>&#x02013;<lpage>277</lpage>. <pub-id pub-id-type="doi">10.1016/S0169-5347(00)01875-9</pub-id>
+<pub-id pub-id-type="pmid">10856947</pub-id></mixed-citation></ref><ref id="ece35876-bib-0025"><mixed-citation publication-type="journal" id="ece35876-cit-0025">
+<string-name>
+<surname>Hay</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>J. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Guo</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Engineering the genomes of wild insect populations: Challenges and opportunities provided by synthetic <italic>Medea</italic> selfish genetic elements</article-title>. <source xml:lang="en">Journal of Insect Physiology</source>, <volume>56</volume>, <fpage>1402</fpage>&#x02013;<lpage>1413</lpage>. <pub-id pub-id-type="doi">10.1016/j.jinsphys.2010.05.022</pub-id>
+<pub-id pub-id-type="pmid">20570677</pub-id></mixed-citation></ref><ref id="ece35876-bib-0026"><mixed-citation publication-type="journal" id="ece35876-cit-0026">
+<string-name>
+<surname>Howe</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>1956</year>). <article-title>The effect of temperature and humidity on the rate of development and mortality of <italic>Tribolium castaneum</italic> (Herbst) (Coleoptera, Tenebrionidae)</article-title>. <source xml:lang="en">The Annals of Applied Biology</source>, <volume>44</volume>, <fpage>356</fpage>&#x02013;<lpage>368</lpage>. <pub-id pub-id-type="doi">10.1111/j.1744-7348.1956.tb02128.x</pub-id>
+</mixed-citation></ref><ref id="ece35876-bib-0027"><mixed-citation publication-type="journal" id="ece35876-cit-0027">
+<string-name>
+<surname>Jakobsson</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rosenberg</surname>, <given-names>N. A.</given-names>
+</string-name> (<year>2007</year>). <article-title>CLUMPP: A cluster matching and permutation program for dealing with label switching and multimodality in analysis of population structure</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>23</volume>, <fpage>1801</fpage>&#x02013;<lpage>1806</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btm233</pub-id>
+<pub-id pub-id-type="pmid">17485429</pub-id></mixed-citation></ref><ref id="ece35876-bib-0028"><mixed-citation publication-type="journal" id="ece35876-cit-0028">
+<string-name>
+<surname>Kulldorff</surname>, <given-names>M.</given-names>
+</string-name> (<year>1997</year>). <article-title>A spatial scan statistic</article-title>. <source xml:lang="en">Communications in Statistics &#x02013; Theory and Methods</source>, <volume>26</volume>, <fpage>1481</fpage>&#x02013;<lpage>1496</lpage>. <pub-id pub-id-type="doi">10.1080/03610929708831995</pub-id>
+</mixed-citation></ref><ref id="ece35876-bib-0029"><mixed-citation publication-type="book" id="ece35876-cit-0029">
+<string-name>
+<surname>Kulldorff</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <collab collab-type="authors">Information Management Services, Inc.</collab>
+(<year>2009</year>). <source xml:lang="en">SaTScanTMv. 8.0: Software for the spatial and space&#x02010;time scan statistics</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.satscan.org/">http://www.satscan.org/</ext-link>
+</mixed-citation></ref><ref id="ece35876-bib-0030"><mixed-citation publication-type="journal" id="ece35876-cit-0030">
+<string-name>
+<surname>Kyrou</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hammond</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Galizi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kranjc</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Burt</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Beaghton</surname>, <given-names>A. K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Crisanti</surname>, <given-names>A.</given-names>
+</string-name> (<year>2018</year>). <article-title>A CRISPR&#x02010;Cas9 gene drive targeting doublesex causes complete population suppression in caged <italic>Anopheles gambiae</italic> mosquitoes</article-title>. <source xml:lang="en">Nature Biotechnology</source>, <volume>36</volume>, <fpage>1062</fpage>&#x02013;<lpage>1066</lpage>.</mixed-citation></ref><ref id="ece35876-bib-0031"><mixed-citation publication-type="journal" id="ece35876-cit-0031">
+<string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Schuler</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Berenbaum</surname>, <given-names>M. R.</given-names>
+</string-name> (<year>2007</year>). <article-title>Molecular mechanisms of metabolic resistance to synthetic and natural xenobiotics</article-title>. <source xml:lang="en">Annual Review of Entomology</source>, <volume>52</volume>, <fpage>231</fpage>&#x02013;<lpage>253</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.ento.51.110104.151104</pub-id>
+</mixed-citation></ref><ref id="ece35876-bib-0032"><mixed-citation publication-type="journal" id="ece35876-cit-0032">
+<string-name>
+<surname>Lorenzen</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Gnirke</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Margolis</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Garnes</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Stuart</surname>, <given-names>J. J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Beeman</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>2008</year>). <article-title>The maternal&#x02010;effect, selfish genetic element <italic>Medea</italic> is associated with a composite Tc1 transposon</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the USA</source>, <volume>105</volume>, <fpage>10085</fpage>&#x02013;<lpage>10089</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0800444105</pub-id>
+<pub-id pub-id-type="pmid">18621706</pub-id></mixed-citation></ref><ref id="ece35876-bib-0033"><mixed-citation publication-type="journal" id="ece35876-cit-0033">
+<string-name>
+<surname>Macias</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name>
+<surname>Ohm</surname>, <given-names>J. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rasgon</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Gene drive for mosquito control: Where did it come from and where are we headed?</article-title>
+<source xml:lang="en">International Journal of Environmental Research and Public Health</source>, <volume>14</volume>, <fpage>E1006</fpage>
+<pub-id pub-id-type="doi">10.3390/ijerph14091006</pub-id>
+<pub-id pub-id-type="pmid">28869513</pub-id></mixed-citation></ref><ref id="ece35876-bib-0034"><mixed-citation publication-type="book" id="ece35876-cit-0034">
+<collab collab-type="authors">NASEM</collab>
+<collab collab-type="authors"> (National Academies of Sciences, Engineering, and Medicine)</collab>
+(<year>2016</year>). <source xml:lang="en">Gene drives on the horizon; Advancing science, navigating uncertainty, and aligning research with public values</source>. <publisher-loc>Washington, DC</publisher-loc>: <publisher-name>The National Academies Press</publisher-name>.</mixed-citation></ref><ref id="ece35876-bib-0035"><mixed-citation publication-type="journal" id="ece35876-cit-0035">
+<string-name>
+<surname>Obeng&#x02010;Ofori</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coaker</surname>, <given-names>T. H.</given-names>
+</string-name> (<year>1990</year>). <article-title>
+<italic>Tribolium</italic> aggregation pheromone: Monitoring, range of attraction, and orientation behavior of <italic>T.&#x000a0;</italic>
+<italic>castaneum</italic> (Coleoptera: Tenebrionidae)</article-title>. <source xml:lang="en">Bulletin of Entomological Research</source>, <volume>80</volume>, <fpage>441</fpage>&#x02013;<lpage>451</lpage>.</mixed-citation></ref><ref id="ece35876-bib-0036"><mixed-citation publication-type="journal" id="ece35876-cit-0036">
+<string-name>
+<surname>Perez&#x02010;Mendoza</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>, <given-names>J. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Throne</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>2014</year>). <article-title>Effect of abiotic factors on initiation of red flour beetle (Coleoptera: Tenebrionidae) flight</article-title>. <source xml:lang="en">Journal of Economic Entomology</source>, <volume>107</volume>, <fpage>469</fpage>&#x02013;<lpage>472</lpage>. <pub-id pub-id-type="doi">10.1603/EC13364</pub-id>
+<pub-id pub-id-type="pmid">24665734</pub-id></mixed-citation></ref><ref id="ece35876-bib-0037"><mixed-citation publication-type="journal" id="ece35876-cit-0037">
+<string-name>
+<surname>Piaggio</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Segelbacher</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Seddon</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Alphey</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>, <given-names>E. L.</given-names>
+</string-name>, <string-name>
+<surname>Carlson</surname>, <given-names>R. H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wheeler</surname>, <given-names>K.</given-names>
+</string-name> (<year>2017</year>). <article-title>Is it time for synthetic biodiversity conservation?</article-title>
+<source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>32</volume>, <fpage>97</fpage>&#x02013;<lpage>107</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2016.10.016</pub-id>
+<pub-id pub-id-type="pmid">27871673</pub-id></mixed-citation></ref><ref id="ece35876-bib-0038"><mixed-citation publication-type="journal" id="ece35876-cit-0038">
+<string-name>
+<surname>Price</surname>, <given-names>T. A. R.</given-names>
+</string-name>, <string-name>
+<surname>Bretman</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gradilla</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>Reger</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Giraldo&#x02010;Perez</surname>, <given-names>P.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name> (<year>2014</year>). <article-title>Does polyandry control population sex ratio via regulation of a selfish gene?</article-title>
+<source xml:lang="en">Proceedings of the Royal Society B</source>, <volume>281</volume>, <fpage>20133259</fpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2013.3259</pub-id>
+<pub-id pub-id-type="pmid">24695427</pub-id></mixed-citation></ref><ref id="ece35876-bib-0039"><mixed-citation publication-type="journal" id="ece35876-cit-0039">
+<string-name>
+<surname>Price</surname>, <given-names>T. A. R.</given-names>
+</string-name>, <string-name>
+<surname>Hoskyns</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Rapley</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>, <given-names>J. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name> (<year>2012</year>). <article-title>No evidence that temperature&#x02010;related fertility differences influence the distribution of a selfish genetic element</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>26</volume>, <fpage>657</fpage>&#x02013;<lpage>665</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2435.2012.01971.x</pub-id>
+</mixed-citation></ref><ref id="ece35876-bib-0040"><mixed-citation publication-type="journal" id="ece35876-cit-0040">
+<string-name>
+<surname>Pritchard</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Stephens</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Donnelly</surname>, <given-names>P.</given-names>
+</string-name> (<year>2000</year>). <article-title>Inference of population structure using multilocus genotype data</article-title>. <source xml:lang="en">Genetics</source>, <volume>155</volume>, <fpage>945</fpage>&#x02013;<lpage>959</lpage>.<pub-id pub-id-type="pmid">10835412</pub-id></mixed-citation></ref><ref id="ece35876-bib-0041"><mixed-citation publication-type="journal" id="ece35876-cit-0041">
+<string-name>
+<surname>Raymond</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rousset</surname>, <given-names>F.</given-names>
+</string-name> (<year>1995</year>). <article-title>GENEPOP (version 1.2): Population genetics software for exact tests and ecumenicism</article-title>. <source xml:lang="en">Journal of Heredity</source>, <volume>86</volume>, <fpage>248</fpage>&#x02013;<lpage>249</lpage>.</mixed-citation></ref><ref id="ece35876-bib-0042"><mixed-citation publication-type="journal" id="ece35876-cit-0042">
+<string-name>
+<surname>Rice</surname>, <given-names>W. R.</given-names>
+</string-name> (<year>1989</year>). <article-title>Analyzing tables of statistical tests</article-title>. <source xml:lang="en">Evolution</source>, <volume>43</volume>, <fpage>223</fpage>&#x02013;<lpage>225</lpage>. <pub-id pub-id-type="doi">10.1111/j.1558-5646.1989.tb04220.x</pub-id>
+<pub-id pub-id-type="pmid">28568501</pub-id></mixed-citation></ref><ref id="ece35876-bib-0043"><mixed-citation publication-type="journal" id="ece35876-cit-0043">
+<string-name>
+<surname>Ridley</surname>, <given-names>A. W.</given-names>
+</string-name>, <string-name>
+<surname>Hereward</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Daglish</surname>, <given-names>G. J.</given-names>
+</string-name>, <string-name>
+<surname>Raghu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>P. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Walter</surname>, <given-names>G. H.</given-names>
+</string-name> (<year>2011</year>). <article-title>The spatiotemporal dynamics of <italic>Tribolium castaneum</italic> (Herbst): Adult flight and gene flow</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>20</volume>, <fpage>1635</fpage>&#x02013;<lpage>1646</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2011.05049.x</pub-id>
+<pub-id pub-id-type="pmid">21375637</pub-id></mixed-citation></ref><ref id="ece35876-bib-0044"><mixed-citation publication-type="journal" id="ece35876-cit-0044">
+<string-name>
+<surname>Rode</surname>, <given-names>N. O.</given-names>
+</string-name>, <string-name>
+<surname>Estoup</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bourguet</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Courtier&#x02010;Orgogozo</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Debarre</surname>, <given-names>F.</given-names>
+</string-name> (<year>2019</year>). <article-title>Population management using gene drive: Molecular design, models of spread dynamics and assessment of ecological risks</article-title>. <source xml:lang="en">Conservation Genetics</source>, <volume>20</volume>, <fpage>671</fpage>&#x02013;<lpage>690</lpage>.</mixed-citation></ref><ref id="ece35876-bib-0045"><mixed-citation publication-type="journal" id="ece35876-cit-0045">
+<string-name>
+<surname>Romero</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Nechols</surname>, <given-names>J. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>With</surname>, <given-names>K. A.</given-names>
+</string-name> (<year>2010</year>). <article-title>Movement behavior of red flour beetle: Response to habitat cues and patch boundaries</article-title>. <source xml:lang="en">Environmental Entomology</source>, <volume>39</volume>, <fpage>919</fpage>&#x02013;<lpage>929</lpage>. <pub-id pub-id-type="doi">10.1603/EN09324</pub-id>
+<pub-id pub-id-type="pmid">20550807</pub-id></mixed-citation></ref><ref id="ece35876-bib-0046"><mixed-citation publication-type="journal" id="ece35876-cit-0046">
+<string-name>
+<surname>Schuelke</surname>, <given-names>M.</given-names>
+</string-name> (<year>2000</year>). <article-title>An economic method for the fluorescent labeling of PCR fragments</article-title>. <source xml:lang="en">Nature Biotechnology</source>, <volume>18</volume>, <fpage>233</fpage>&#x02013;<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1038/72708</pub-id>
+</mixed-citation></ref><ref id="ece35876-bib-0047"><mixed-citation publication-type="journal" id="ece35876-cit-0047">
+<string-name>
+<surname>Semeao</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Beeman</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Lorenzen</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Whitworth</surname>, <given-names>R. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sloderbeck</surname>, <given-names>P. E.</given-names>
+</string-name> (<year>2012</year>). <article-title>Genetic structure of <italic>Tribolium castaneum</italic> (Coleoptera: Tenebrionidae) populations in mills</article-title>. <source xml:lang="en">Environmental Entomology</source>, <volume>41</volume>, <fpage>188</fpage>&#x02013;<lpage>199</lpage>. <pub-id pub-id-type="doi">10.1603/EN11207</pub-id>
+<pub-id pub-id-type="pmid">22525075</pub-id></mixed-citation></ref><ref id="ece35876-bib-0048"><mixed-citation publication-type="journal" id="ece35876-cit-0048">
+<string-name>
+<surname>Sinkins</surname>, <given-names>S. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gould</surname>, <given-names>F.</given-names>
+</string-name> (<year>2006</year>). <article-title>Gene drive systems for insect disease vectors</article-title>. <source xml:lang="en">Nature Reviews Genetics</source>, <volume>7</volume>, <fpage>427</fpage>&#x02013;<lpage>435</lpage>. <pub-id pub-id-type="doi">10.1038/nrg1870</pub-id>
+</mixed-citation></ref><ref id="ece35876-bib-0049"><mixed-citation publication-type="journal" id="ece35876-cit-0049">
+<string-name>
+<surname>Sturtevant</surname>, <given-names>A. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dobzhansky</surname>, <given-names>T.</given-names>
+</string-name> (<year>1936</year>). <article-title>Geographical distribution and cytology of "Sex Ratio" in <italic>Drosophila pseudoobscura</italic> and related species</article-title>. <source xml:lang="en">Genetics</source>, <volume>21</volume>, <fpage>473</fpage>&#x02013;<lpage>490</lpage>.<pub-id pub-id-type="pmid">17246805</pub-id></mixed-citation></ref><ref id="ece35876-bib-0050"><mixed-citation publication-type="journal" id="ece35876-cit-0050">
+<string-name>
+<surname>Thomson</surname>, <given-names>M. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beeman</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>1999</year>). <article-title>Assisted suicide of a selfish gene</article-title>. <source xml:lang="en">Journal of Heredity</source>, <volume>90</volume>, <fpage>191</fpage>&#x02013;<lpage>194</lpage>. <pub-id pub-id-type="doi">10.1093/jhered/90.1.191</pub-id>
+<pub-id pub-id-type="pmid">9987929</pub-id></mixed-citation></ref><ref id="ece35876-bib-0051"><mixed-citation publication-type="journal" id="ece35876-cit-0051">
+<string-name>
+<surname>Thomson</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>Friesen</surname>, <given-names>K. S.</given-names>
+</string-name>, <string-name>
+<surname>Denell</surname>, <given-names>R. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beeman</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>1995</year>). <article-title>A hybrid incompatibility factor in <italic>Tribolium castaneum</italic>
+</article-title>. <source xml:lang="en">Journal of Heredity</source>, <volume>86</volume>, <fpage>6</fpage>&#x02013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1093/oxfordjournals.jhered.a111527</pub-id>
+</mixed-citation></ref><ref id="ece35876-bib-0052"><mixed-citation publication-type="journal" id="ece35876-cit-0052">
+<string-name>
+<surname>Wade</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beeman</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>1994</year>). <article-title>The population dynamics of maternal&#x02010;effect selfish genes</article-title>. <source xml:lang="en">Genetics</source>, <volume>138</volume>, <fpage>1309</fpage>&#x02013;<lpage>1314</lpage>.<pub-id pub-id-type="pmid">7896109</pub-id></mixed-citation></ref><ref id="ece35876-bib-0053"><mixed-citation publication-type="journal" id="ece35876-cit-0053">
+<string-name>
+<surname>Ward</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lloyd</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Gould</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hay</surname>, <given-names>B. A.</given-names>
+</string-name> (<year>2010</year>). <article-title>
+<italic>Medea</italic> selfish genetic elements as tools for altering traits of wild populations: A theoretical analysis</article-title>. <source xml:lang="en">Evolution</source>, <volume>65</volume>, <fpage>1149</fpage>&#x02013;<lpage>1162</lpage>. <pub-id pub-id-type="doi">10.1111/j.1558-5646.2010.01186.x</pub-id>
+<pub-id pub-id-type="pmid">21062278</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,1331 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938534</article-id><article-id pub-id-type="pmc">6953655</article-id><article-id pub-id-type="doi">10.1002/ece3.5882</article-id><article-id pub-id-type="publisher-id">ECE35882</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Maternal diet affects juvenile Carpetan rock lizard performance and personality</article-title><alt-title alt-title-type="left-running-head">HORV&#x000c1;TH et al.</alt-title></title-group><contrib-group><contrib id="ece35882-cr-0001" contrib-type="author" corresp="yes"><name><surname>Horv&#x000e1;th</surname><given-names>Gergely</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0485-333X</contrib-id><xref ref-type="aff" rid="ece35882-aff-0001">
+<sup>1</sup>
+</xref><address><email>gergohorvath@caesar.elte.hu</email></address></contrib><contrib id="ece35882-cr-0002" contrib-type="author"><name><surname>Rodr&#x000ed;guez&#x02010;Ruiz</surname><given-names>Gonzalo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6324-6038</contrib-id><xref ref-type="aff" rid="ece35882-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35882-cr-0003" contrib-type="author"><name><surname>Mart&#x000ed;n</surname><given-names>Jos&#x000e9;</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6648-3998</contrib-id><xref ref-type="aff" rid="ece35882-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35882-cr-0004" contrib-type="author"><name><surname>L&#x000f3;pez</surname><given-names>Pilar</given-names></name><xref ref-type="aff" rid="ece35882-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35882-cr-0005" contrib-type="author"><name><surname>Herczeg</surname><given-names>G&#x000e1;bor</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0441-342X</contrib-id><xref ref-type="aff" rid="ece35882-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ece35882-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Behavioural Ecology Group</named-content>
+<named-content content-type="organisation-division">Department of Systematic Zoology and Ecology</named-content>
+<institution>E&#x000f6;tv&#x000f6;s Lor&#x000e1;nd University</institution>
+<city>Budapest</city>
+<country country="HU">Hungary</country>
+</aff><aff id="ece35882-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Evolutionary Ecology</named-content>
+<named-content content-type="organisation-division">Museo Nacional de Ciencias Naturales</named-content>
+<institution>CSIC</institution>
+<city>Madrid</city>
+<country country="ES">Spain</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Gergely Horv&#x000e1;th, Behavioural Ecology Group, Department of Systematic Zoology and Ecology, E&#x000f6;tv&#x000f6;s Lor&#x000e1;nd University, P&#x000e1;zm&#x000e1;ny P&#x000e9;ter s&#x000e9;t&#x000e1;ny 1/c, H&#x02013;1117 Budapest, Hungary.<break/>
+Email: <email>gergohorvath@caesar.elte.hu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>12</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14476</fpage><lpage>14488</lpage><history><date date-type="received"><day>29</day><month>7</month><year>2019</year></date><date date-type="rev-recd"><day>14</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>03</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14476.pdf"/><abstract id="ece35882-abs-0001"><title>Abstract</title><p>Differences in both stable and labile state variables are known to affect the emergence and maintenance of consistent interindividual behavioral variation (animal personality or behavioral syndrome), especially when experienced early in life. Variation in environmental conditions experienced by gestating mothers (viz. nongenetic maternal effects) is known to have significant impact on offspring condition and behavior; yet, their effect on behavioral consistency is not clear. Here, by applying an orthogonal experimental design, we aimed to study whether increased vitamin D<sub>3</sub> content in maternal diet during gestation (vitamin&#x02010;supplemented vs. vitamin control treatments) combined with corticosterone treatment (corticosterone&#x02010;treated vs. corticosterone control treatments) applied on freshly hatched juveniles had an effect on individual state and behavioral consistency of juvenile Carpetan rock lizards (<italic>Iberolacerta cyreni</italic>). We tested the effect of our treatments on (a) climbing speed and the following levels of behavioral variation, (b) strength of animal personality (behavioral repeatability), (c) behavioral type (individual mean behavior), and (d) behavioral predictability (within&#x02010;individual behavioral variation unrelated to environmental change). We found higher locomotor performance of juveniles from the vitamin&#x02010;supplemented group (42.4% increase), irrespective of corticosterone treatment. While activity personality was present in all treatments, shelter use personality was present only in the vitamin&#x02010;supplemented&#x000a0;&#x000d7;&#x000a0;corticosterone&#x02010;treated treatment and risk&#x02010;taking personality was present in corticosterone control treatments. Contrary to our expectations, behavioral type was not affected by our treatments, indicating that individual quality can affect behavioral strategies without affecting group&#x02010;level mean behavior. Behavioral predictability decreased in individuals with low climbing speed, which could be interpreted as a form of antipredator strategy. Our results clearly demonstrate that maternal diet and corticosterone treatment have the potential to induce or hamper between&#x02010;individual variation in different components of boldness, often in interactions.</p></abstract><abstract abstract-type="graphical" id="ece35882-abs-0002"><p>Individual behavioral strategy is a complex phenotypic trait with hierarchically structured components. Here, by using an orthogonal experimental design, we show that maternal diet and corticosterone treatment have the potential to induce or erode among&#x02010;individual variation in different components of boldness of juvenile Carpetan rock lizards, often in interactions. Considering that natural selection can only operate on existing among&#x02010;individual phenotypic variation, our results imply that short&#x02010;term differences in environmental conditions and individual state might&#x02014;at least temporarily&#x02014;release a population from natural selection acting on behavioral variation.<boxed-text position="anchor" content-type="graphic" id="ece35882-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14476-g004.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35882-kwd-0001">animal personality</kwd><kwd id="ece35882-kwd-0002">behavioral predictability</kwd><kwd id="ece35882-kwd-0003">corticosterone</kwd><kwd id="ece35882-kwd-0004">individual state</kwd><kwd id="ece35882-kwd-0005">maternal diet</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Hungarian Scientific Research Fund</funding-source><award-id>OTKA&#x02010;K 105517</award-id></award-group><award-group id="funding-0002"><funding-source>National Research, Development and Innovation Fund for international cooperation</funding-source><award-id>NKFI&#x02010;SNN 125627</award-id></award-group><award-group id="funding-0003"><funding-source>&#x000da;NKP&#x02010;17&#x02010;3 New National Excellence program of the Ministry of Human Capacities</funding-source></award-group><award-group id="funding-0004"><funding-source>Ministerio de Econom&#x000ed;a y Competitividad project MINECO</funding-source><award-id>CGL2014&#x02010;53523&#x02010;P</award-id></award-group><award-group id="funding-0005"><funding-source>Subprograma de Formaci&#x000f3;n de Personal Investigador</funding-source><award-id>BES&#x02010;2015&#x02010;071805</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="4"/><page-count count="13"/><word-count count="11422"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35882-cit-1001">
+<string-name>
+<surname>Horv&#x000e1;th</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Rodr&#x000ed;guez&#x02010;Ruiz</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;n</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Herczeg</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Maternal diet affects juvenile Carpetan rock lizard performance and personality</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14476</fpage>&#x02013;<lpage>14488</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5882</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35882-body-0001"><sec id="ece35882-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Behavior is a highly flexible phenotypic trait (West&#x02010;Eberhard, <xref rid="ece35882-bib-0127" ref-type="ref">2003</xref>); yet, consistent differences between individuals over time and situations within a single (animal personality) and across multiple (behavioral syndrome) behaviors are often traceable (Bell, Hankison, &#x00026; Laskowski, <xref rid="ece35882-bib-0010" ref-type="ref">2009</xref>; Garamszegi, Mark&#x000f3;, &#x00026; Herczeg, <xref rid="ece35882-bib-0042" ref-type="ref">2012</xref>; Sih, Bell, Johnson, &#x00026; Ziemba, <xref rid="ece35882-bib-0112" ref-type="ref">2004</xref>). Although &#x0201c;animal personality research&#x0201d; is one of the fastest developing fields of behavioral ecology, studies on the evolutionary importance of within&#x02010;individual behavioral variability started to accumulate only recently (Araya&#x02010;Ajoy &#x00026; Dingemanse, <xref rid="ece35882-bib-0003" ref-type="ref">2017</xref>; Dingemanse, Kazem, R&#x000e9;ale, &#x00026; Wright, <xref rid="ece35882-bib-0032" ref-type="ref">2010</xref>; Stamps, Briffa, &#x00026; Biro, <xref rid="ece35882-bib-0114" ref-type="ref">2012</xref>). Several studies demonstrated lately that components of within&#x02010;individual variation, known as behavioral plasticity (behavioral response induced by environmental change) and behavioral predictability (behavioral variation independent from environmental change), are not only integrated into an individual's behavioral strategy (Chang, Teo, Norma&#x02010;Rashid, &#x00026; Li, <xref rid="ece35882-bib-0024" ref-type="ref">2017</xref>; Lichtenstein, Chism, Kamath, &#x00026; Pruitt, <xref rid="ece35882-bib-0071" ref-type="ref">2017</xref>; Ursz&#x000e1;n et al., <xref rid="ece35882-bib-0118" ref-type="ref">2018</xref>; Velasque &#x00026; Briffa, <xref rid="ece35882-bib-0122" ref-type="ref">2016</xref>), but individual&#x02010;specific variation in these components exists (Biro &#x00026; Adriaenssens, <xref rid="ece35882-bib-0015" ref-type="ref">2013</xref>; Briffa, <xref rid="ece35882-bib-0019" ref-type="ref">2013</xref>; Briffa, Bridger, &#x00026; Biro, <xref rid="ece35882-bib-0020" ref-type="ref">2013</xref>; Ioannou &#x00026; Dall, <xref rid="ece35882-bib-0058" ref-type="ref">2016</xref>; Westneat, Wright, &#x00026; Dingemanse, <xref rid="ece35882-bib-0128" ref-type="ref">2015</xref>). Thus, plasticity and predictability of individual behavior are potentially independent traits, which may be targeted by selection directly (Brembs, <xref rid="ece35882-bib-0018" ref-type="ref">2011</xref>; Mathot &#x00026; Dingemanse, <xref rid="ece35882-bib-0085" ref-type="ref">2014</xref>).</p><p>In behavioral ecology, &#x0201c;state&#x0201d; is defined as every characteristic of an individual, which affects the costs and benefits of behavioral decisions (see Houston &#x00026; McNamara, <xref rid="ece35882-bib-0056" ref-type="ref">1999</xref>; Sih et al., <xref rid="ece35882-bib-0113" ref-type="ref">2015</xref>). Among the standard theories interpreting the emergence of interindividual behavioral variation, state dependence implies the role of individual state differences in creating behavioral consistencies (Bijleveld et al., <xref rid="ece35882-bib-0013" ref-type="ref">2014</xref>; Dall, Houston, &#x00026; McNamara, <xref rid="ece35882-bib-0030" ref-type="ref">2004</xref>; Rands, Cowlishaw, Pettifor, Rowcliffe, &#x00026; Johnstone, <xref rid="ece35882-bib-0102" ref-type="ref">2003</xref>; Sih et al., <xref rid="ece35882-bib-0113" ref-type="ref">2015</xref>). Recent empirical data suggest that not only inherently stable (e.g., gender, morphology; see Sih et al., <xref rid="ece35882-bib-0113" ref-type="ref">2015</xref>), but even labile state variables and/or short&#x02010;term differences in environmental conditions can shape behavioral consistency (DiRienzo, Niemel&#x000e4;, Hedrick, &#x00026; Kortet, <xref rid="ece35882-bib-0036" ref-type="ref">2016</xref>; Horv&#x000e1;th, Mart&#x000ed;n, L&#x000f3;pez, Garamszegi, &#x00026; Herczeg, <xref rid="ece35882-bib-0053" ref-type="ref">2017</xref>; Horv&#x000e1;th, M&#x000e9;sz&#x000e1;ros, et al., <xref rid="ece35882-bib-0054" ref-type="ref">2017</xref>; Lichtenstein et al., <xref rid="ece35882-bib-0072" ref-type="ref">2016</xref>; Ursz&#x000e1;n, Garamszegi, et al., <xref rid="ece35882-bib-0117" ref-type="ref">2015</xref>; Ursz&#x000e1;n et al., <xref rid="ece35882-bib-0118" ref-type="ref">2018</xref>; Ursz&#x000e1;n, T&#x000f6;r&#x000f6;k, Hettyey, Garamszegi, &#x00026; Herczeg, <xref rid="ece35882-bib-0119" ref-type="ref">2015</xref>). Such variation can have particularly strong effects during early stages of ontogeny (Dingemanse et al., <xref rid="ece35882-bib-0034" ref-type="ref">2007</xref>; DiRienzo &#x00026; Montiglio, <xref rid="ece35882-bib-0035" ref-type="ref">2016</xref>; Ursz&#x000e1;n et al., <xref rid="ece35882-bib-0118" ref-type="ref">2018</xref>), but they are also expected to create long&#x02010;lasting effects (DiRienzo, Niemel&#x000e4;, Skog, Vainikka, &#x00026; Kortet, <xref rid="ece35882-bib-0037" ref-type="ref">2015</xref>; DiRienzo, Pruitt, &#x00026; Hedrick, <xref rid="ece35882-bib-0038" ref-type="ref">2012</xref>; Krause, Kr&#x000fc;ger, &#x00026; Schielzeth, <xref rid="ece35882-bib-0065" ref-type="ref">2017</xref>).</p><p>In amniotes, environmental differences experienced by the mother (i.e., nongenetic maternal effects; see Roff, <xref rid="ece35882-bib-0107" ref-type="ref">1998</xref>) may result in considerable and permanent differences in the offspring's physiology, morphology, and behavior (Ensminger, Langkilde, Owen, MacLeod, &#x00026; Sheriff, <xref rid="ece35882-bib-0040" ref-type="ref">2018</xref>; Gosling, <xref rid="ece35882-bib-0049" ref-type="ref">2008</xref>; Munch et al., <xref rid="ece35882-bib-0091" ref-type="ref">2018</xref>; R&#x000e4;s&#x000e4;nen &#x00026; Kruuk, <xref rid="ece35882-bib-0103" ref-type="ref">2007</xref>). Although several studies suggest that maternal effects could drive the emergence of behavioral consistency (Ghio, Leblanc, Audet, &#x00026; Aubin&#x02010;Horth, <xref rid="ece35882-bib-0046" ref-type="ref">2016</xref>; Langenhof &#x00026; Komdeur, <xref rid="ece35882-bib-0068" ref-type="ref">2018</xref>; McCormick, <xref rid="ece35882-bib-0086" ref-type="ref">2006</xref>; Reddon, <xref rid="ece35882-bib-0105" ref-type="ref">2012</xref>; Rokka, Pihlaja, Siitari, &#x00026; Soulsbury, <xref rid="ece35882-bib-0108" ref-type="ref">2014</xref>), data on this topic are rather contradictory (Arnaud et al., <xref rid="ece35882-bib-0004" ref-type="ref">2017</xref>; Hinde et al., <xref rid="ece35882-bib-0051" ref-type="ref">2015</xref>; Petelle, Dang, &#x00026; Blumstein, <xref rid="ece35882-bib-0099" ref-type="ref">2017</xref>; Ruuskanen, <xref rid="ece35882-bib-0111" ref-type="ref">2018</xref>). Provision to the egg can be seen as a specific dimension of maternal effects (Deeming &#x00026; Ferguson, <xref rid="ece35882-bib-0031" ref-type="ref">1991</xref>; Stewart &#x00026; Ecay, <xref rid="ece35882-bib-0115" ref-type="ref">2010</xref>), as in oviparous vertebrates, such as many reptiles, trace nutrients (vitamins and minerals) must be deposited into the yolk during oogenesis (Deeming &#x00026; Ferguson, <xref rid="ece35882-bib-0031" ref-type="ref">1991</xref>). In many cases, binding proteins responsible for the delivery of certain vitamins can be influenced by the availability of the vitamin itself; thus, the amount of certain vitamins in the yolk and consequently the future state of the offspring highly depend on the composition of maternal diet. Hence, dietary intake of vitamins during gestation is expected to directly affect the state of offspring, and eventually, to affect the emergence of behavioral consistency in juveniles.</p><p>In contrast to maternal effects, the relationship between glucocorticoid hormones and personality was studied frequently (Carere, Caramaschi, &#x00026; Fawcett, <xref rid="ece35882-bib-0023" ref-type="ref">2010</xref>; Ghio et al., <xref rid="ece35882-bib-0046" ref-type="ref">2016</xref>; Koolhaas et al., <xref rid="ece35882-bib-0064" ref-type="ref">1999</xref>; Medina&#x02010;Garc&#x000ed;a, Jawor, &#x00026; Wright, <xref rid="ece35882-bib-0087" ref-type="ref">2017</xref>; Mell et al., <xref rid="ece35882-bib-0088" ref-type="ref">2016</xref>; Muraco, Aspbury, &#x00026; Gabor, <xref rid="ece35882-bib-0092" ref-type="ref">2014</xref>; &#x000d8;verli et al., <xref rid="ece35882-bib-0097" ref-type="ref">2007</xref>). Glucocorticoids are metabolic hormones with numerous pleiotropic effects (MacDougall&#x02010;Shackleton, Bonier, Romero, &#x00026; Moore, <xref rid="ece35882-bib-0077" ref-type="ref">2019</xref>), they play a primary role in energy mobilization and facilitate behavioral and physiological shifts to minimize the effect of stress (Cote, Clobert, Meylan, &#x00026; Fitze, <xref rid="ece35882-bib-0028" ref-type="ref">2006</xref>; Cote, Clobert, Montes Poloni, Haussy, &#x00026; Meylan, <xref rid="ece35882-bib-0029" ref-type="ref">2010</xref>; Romero &#x00026; Wingfield, <xref rid="ece35882-bib-0109" ref-type="ref">2015</xref>). Corticosterone is an important glucocorticoid in vertebrates, being part of the complex physiological stress response and promoting behaviors that directly or indirectly enhance survival (e.g., decreased reproductive activity [Belliure, Smith, &#x00026; Sorci, <xref rid="ece35882-bib-0011" ref-type="ref">2004</xref>], increased locomotor activity [Clobert et al., <xref rid="ece35882-bib-0025" ref-type="ref">2000</xref>]). Experimental data (mainly on avian species) indicate that stress&#x02010;induced corticosterone affects cognitive abilities (Bebus, Small, Jones, Elderbrock, &#x00026; Schoech, <xref rid="ece35882-bib-0009" ref-type="ref">2016</xref>; B&#x000f3;kony et al., <xref rid="ece35882-bib-0017" ref-type="ref">2014</xref>; Jones, Bebus, Ferguson, Bateman, &#x00026; Schoech, <xref rid="ece35882-bib-0062" ref-type="ref">2016</xref>; Ruiz&#x02010;Gomez, Huntingford, &#x000d8;verli, Th&#x000f6;rnqvist, &#x00026; H&#x000f6;glund, <xref rid="ece35882-bib-0110" ref-type="ref">2011</xref>). In addition, bold behavioral types (i.e., risk&#x02010;prone, active, superficial explorer) seem to be associated with low, while shy behavioral types (i.e., risk&#x02010;averse, less active, thorough explorer) with high basal levels of corticosterone (see Carere et al., <xref rid="ece35882-bib-0023" ref-type="ref">2010</xref>; Cockrem, <xref rid="ece35882-bib-0026" ref-type="ref">2007</xref>; Koolhaas et al., <xref rid="ece35882-bib-0064" ref-type="ref">1999</xref>). On the other hand, this pattern is not general (Koolhaas et al., <xref rid="ece35882-bib-0064" ref-type="ref">1999</xref>); moreover, there is no direct link between stress&#x02010;induced corticosterone level and personality in some cases (Garamszegi, Rosivall, et al., <xref rid="ece35882-bib-0044" ref-type="ref">2012</xref>; Medina&#x02010;Garc&#x000ed;a et al., <xref rid="ece35882-bib-0087" ref-type="ref">2017</xref>). Hence, the exact role of corticosterone in the emergence of behavioral consistency is still unclear.</p><p>Here, we aimed to study how maternal diet and corticosterone treatment during early stages of life affect behavioral consistency of juvenile Carpetan rock lizards (<italic>Iberolacerta cyreni</italic>). As <italic>I.&#x000a0;cyreni</italic> became one of the best studied reptiles during the past decades (Horv&#x000e1;th et al., <xref rid="ece35882-bib-0052" ref-type="ref">2016</xref>; Horv&#x000e1;th, Mart&#x000ed;n, et al., <xref rid="ece35882-bib-0053" ref-type="ref">2017</xref>; Mart&#x000ed;n &#x00026; L&#x000f3;pez, <xref rid="ece35882-bib-0080" ref-type="ref">2000</xref>, <xref rid="ece35882-bib-0081" ref-type="ref">2006</xref>; Mart&#x000ed;n &#x00026; Salvador, <xref rid="ece35882-bib-0083" ref-type="ref">1993</xref>), it is a suitable model for our purposes, because the results can be interpreted in a broad eco&#x02010;evolutionary context. To this end, we applied an orthogonal experimental design: (a) Gravid mothers were supplemented with either vitamin D<sub>3</sub> or sunflower oil control and (b) juveniles from each litter were randomly assigned to either corticosterone treatment or soybean oil control treatment. Vitamin D<sub>3</sub> concentration and binding proteins identical to that of the avian yolk are evidently present in several reptile species (Deeming &#x00026; Ferguson, <xref rid="ece35882-bib-0031" ref-type="ref">1991</xref>; Laing &#x00026; Fraser, <xref rid="ece35882-bib-0067" ref-type="ref">1999</xref>); moreover, calcium transport during late stages of embryogenesis is found to be highly sensitive to dietary intake of vitamin D<sub>3</sub> in domestic fowls (Stewart &#x00026; Ecay, <xref rid="ece35882-bib-0115" ref-type="ref">2010</xref>; Tuan &#x00026; Suyama, <xref rid="ece35882-bib-0116" ref-type="ref">1996</xref>). Hence, maternal vitamin D<sub>3</sub> supplementation potentially induces substantial differences in the offspring' permanent state, in particular, in locomotor performance, which is a suitable proxy of fitness (Irschick, Herrel, Vanhooydonck, Huyghe, &#x00026; Van Damme, <xref rid="ece35882-bib-0060" ref-type="ref">2005</xref>; Winchell, Maayan, Fredette, &#x00026; Revell, <xref rid="ece35882-bib-0130" ref-type="ref">2018</xref>). Therefore, offspring of vitamin&#x02010;supplemented <italic>I.&#x000a0;cyreni</italic> mothers are expected to be of higher quality (see Bergeron, Baeta, Pelletier, R&#x000e9;ale, &#x00026; Garant, <xref rid="ece35882-bib-0012" ref-type="ref">2011</xref>; Wilson &#x00026; Nussey, <xref rid="ece35882-bib-0129" ref-type="ref">2010</xref>). In contrast, corticosterone treatment can be considered as an acute manipulation of offspring state, resulting in short&#x02010;term differences. We measured climbing speed (as a measure of locomotor performance) of the juveniles. Then, we repeatedly assayed three behaviors (activity, refuge use, risk&#x02010;taking). We tested for treatment effects on (a) the presence/absence/strength of animal personality (behavioral repeatability), (b) behavioral type (individual mean behavior), and (c) behavioral predictability (within&#x02010;individual behavioral variation unrelated to environmental change). We note here that our assays testing animal personality during a short time period do not represent personality in the classical sense; however, rapid assays combined with relatively long acclimation periods potentially provide sufficient estimates on repeatability (Biro, <xref rid="ece35882-bib-0014" ref-type="ref">2012</xref>). We hypothesized that our treatments will have strong effects on physiological processes, and consequently, on performance and behavior. We expected higher climbing speed in lizards with vitamin&#x02010;supplemented mothers. Based on our previous and other empirical results (see Horv&#x000e1;th, Mart&#x000ed;n, et al., <xref rid="ece35882-bib-0053" ref-type="ref">2017</xref>; Horv&#x000e1;th, M&#x000e9;sz&#x000e1;ros, et al., <xref rid="ece35882-bib-0054" ref-type="ref">2017</xref>; Lichtenstein et al., <xref rid="ece35882-bib-0072" ref-type="ref">2016</xref>), we predicted that animal personality will be stronger in optimal (vitamin&#x02010;supplemented mother&#x000a0;&#x000d7;&#x000a0;corticosterone control) rather than suboptimal (vitamin control mother&#x000a0;&#x000d7;&#x000a0;corticosterone&#x02010;treated) treatments, because optimal conditions might favor the emergence of individual strategies. We were also interested to see whether increased variation in individual states would increase behavioral variation. We tested this question by comparing the strength of personality between the pooled sample (high variation) and the different treatment groups (low variation). We also predicted increased boldness in general for juveniles from vitamin&#x02010;supplemented mothers, following the state&#x02010;dependent safety principle (see Dingemanse &#x00026; Wolf, <xref rid="ece35882-bib-0033" ref-type="ref">2010</xref>; Sih et al., <xref rid="ece35882-bib-0113" ref-type="ref">2015</xref>) and decreased behavioral activity in corticosterone&#x02010;treated individuals. Regarding behavioral predictability, two different scenarios are plausible. Recent studies suggest that higher&#x02010;state individuals are less predictable (DiRienzo &#x00026; Montiglio, <xref rid="ece35882-bib-0035" ref-type="ref">2016</xref>; Lichtenstein et al., <xref rid="ece35882-bib-0071" ref-type="ref">2017</xref>); thus, lizards from vitamin&#x02010;supplemented mothers could be expected to be less predictable. However, it is equally plausible that low&#x02010;quality individuals may need to be unpredictable to avoid predation. We formed no explicit predictions regarding treatment interactions, but expected milder effects of corticosterone treatment on individuals of higher quality.</p></sec><sec sec-type="materials-and-methods" id="ece35882-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35882-sec-0003"><label>2.1</label><title>Collection and housing of females</title><p>We noosed 17 gravid females between 20 May and 21 June 2016 at the Puerto de Navacerrada (Sierra de Guadarrama Mts., Community of Madrid, Spain, 1,900&#x000a0;m asl, approximately). This habitat is characterized by a large cover of granite rocks and dense vegetation of <italic>Cytisus</italic> and <italic>Juniperus</italic> shrubs. Gravid <italic>I.&#x000a0;cyreni</italic> females were identified in the field by the presence of bite marks made by males during copulation. Animals were transported to the &#x0201c;El Ventorrillo&#x0201d; field station of the Museo Nacional de Ciencias Naturales, ca. 5&#x000a0;km from the capture site, where they were housed outdoor, individually in gray opaque boxes (57&#x000a0;cm&#x000a0;&#x000d7;&#x000a0;37&#x000a0;cm&#x000a0;&#x000d7;&#x000a0;30&#x000a0;cm; length, width, height, respectively). In the boxes, we provided a layer of coconut fiber (2&#x02013;3&#x000a0;cm, approximately) as substrate and a hollow brick as shelter. During the whole captivity period (including treatments, see below), food (crickets [<italic>Achaeta domestica</italic>] and mealworms [<italic>Tenebrio molitor</italic>]) and water were provided ad libitum. All females were released at their original capture points, without any sign of injury, a few days after oviposition.</p></sec><sec id="ece35882-sec-0004"><label>2.2</label><title>Maternal supplementation treatment</title><p>Females were randomly assigned to vitamin D<sub>3</sub> supplementation treatment (<italic>N</italic>&#x000a0;=&#x000a0;7; hereafter vitamin&#x02010;supplemented) and control treatment (<italic>N</italic>&#x000a0;=&#x000a0;10; hereafter vitamin control). Supplemented females were fed daily with a dietary dose of 0.20&#x000a0;&#x003bc;g (=8&#x000a0;IU) vitamin D<sub>3</sub> (MYPROTEIN, The Hut.com Ltd.) diluted in 0.25&#x000a0;ml sunflower oil (Coosol, Coosol S.L.). Treatments lasted until oviposition, which varied by (minimum) 20 to (maximum) 25&#x000a0;days. To ensure that all females ingested the same amount of vitamin solution, lizards were gently handled and a sterile syringe with a cannula was used to slowly deliver the solution into their mouth. Lizards were released back to their cages when it was ensured that they had swallowed the entire dose. Previous work from Langkilde and Shine (<xref rid="ece35882-bib-0069" ref-type="ref">2006</xref>) suggests that simple handling of a similarly sized lizard is not particularly stressful; moreover, plasma corticosterone levels recover to background level relatively quick. As handling related to our experimental procedure took only a few minutes daily, we are convinced that this treatment did not cause significant and prolonged stress in female <italic>I.&#x000a0;cyreni</italic>. Control females were treated in the same way (including handling), but they were provided with 0.25&#x000a0;ml of sunflower oil alone, without the vitamin D<sub>3</sub> solution. Note that sunflower oil contains no vitamin D<sub>3</sub>.</p></sec><sec id="ece35882-sec-0005"><label>2.3</label><title>Offspring characteristics and corticosterone treatment</title><p>Upon oviposition, eggs were collected and individually relocated into 170&#x02010;ml plastic jars. The jars were filled with moistened perlite (1:1 perlite&#x02013;water ratio) and covered with a lid in order to maintain humidity. Eggs were incubated at 27.5&#x000b0;C (mean incubation time&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>: 37&#x000a0;&#x000b1;&#x000a0;2&#x000a0;days) using air incubators (FRIOCELL FC&#x02010;B2V&#x02010;M/FC404, MMM Medcenter GmbH). Seventeen females laid 100 eggs; clutch size varied between four and nine (mean clutch size&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>: 5.64&#x000a0;&#x000b1;&#x000a0;1.68 eggs). Eighty&#x02010;six juveniles hatched altogether (mean number of offspring per clutch&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>: 4.16&#x000a0;&#x000b1;&#x000a0;2.19). Once the juveniles were born, we measured snout&#x02010;vent length (SVL) with a digital caliper (to the nearest 0.01&#x000a0;mm). Body mass (BM) was measured using a digital scale (to the nearest 0.001&#x000a0;g). As all offspring retain hemipenes well after birth, sex determination was not possible, and thus, we did not consider offspring sex in our analyses. We did not test for potential intraclutch differences in resource allocation, as this requires performing various invasive techniques on eggs (see Poisbleau et al., <xref rid="ece35882-bib-0100" ref-type="ref">2013</xref>; Warner, Bonnet, Hobson, &#x00026; Shine, <xref rid="ece35882-bib-0124" ref-type="ref">2008</xref>).</p><p>Juveniles were housed individually in plastic boxes (17&#x000a0;cm&#x000a0;&#x000d7;&#x000a0;17&#x000a0;cm&#x000a0;&#x000d7;&#x000a0;9&#x000a0;cm; length, width, height, respectively) under laboratory indoor conditions. A thin layer of coconut fiber was used as substrate, and a piece of tile as shelter. Photoperiod (12&#x000a0;hr light:12&#x000a0;hr dark; natural range in September at the habitat) was provided by Repti Glo 5.0 Full Spectrum Terrarium Lamps (Exo Terra, Rolf V. Hagen Inc.). In the daytime, thermoregulation was provided by 80&#x000a0;W Solar GLO heat bulbs (Exo Terra, Rolf V. Hagen Inc.), average substrate temperature beneath the lamps was 27.57&#x000b0;C (&#x000b1;2.38&#x000b0;C [standard deviation, <italic>SD</italic>]). Temperature decreased substantially during the night (ca. 20&#x000b0;C), imitating the natural conditions of the species during early autumn. Two juveniles from each clutch were chosen randomly and then assigned randomly to the corticosterone&#x02010;treated or corticosterone control treatments (sample sizes for the different treatment combinations: vitamin&#x02010;supplemented&#x000a0;&#x000d7;&#x000a0;corticosterone&#x02010;treated&#x000a0;=&#x000a0;7; vitamin supplemented&#x000a0;&#x000d7;&#x000a0;corticosterone control&#x000a0;=&#x000a0;7; vitamin control&#x000a0;&#x000d7;&#x000a0;corticosterone&#x02010;treated&#x000a0;=&#x000a0;10; vitamin control&#x000a0;&#x000d7;&#x000a0;corticosterone control&#x000a0;=&#x000a0;10). Juveniles in the corticosterone group were dorsally administered (with a pipette) with 0.5&#x000a0;&#x003bc;l of a corticosterone solution (3&#x000a0;&#x003bc;g corticosterone/1&#x000a0;&#x003bc;l soybean oil), while in the control group with 0.5&#x000a0;&#x003bc;l of soybean oil. These volumes and concentrations are identical to those used in previous experiments using offspring of Common lizard (<italic>Zootoca vivipara</italic>), a species of similar size, and known to elevate plasma corticosterone levels in various, small&#x02010;sized reptile species (Cadby, Jones, &#x00026; Wapstra, <xref rid="ece35882-bib-0022" ref-type="ref">2010</xref>; Meylan, Belliure, Clobert, &#x00026; Fraipont, <xref rid="ece35882-bib-0089" ref-type="ref">2002</xref>). Treatments were applied every day at 18.00&#x000a0;hr (UTC&#x000a0;+&#x000a0;02.00) for 10&#x000a0;days between September 03 and 12. During habituation, treatments and behavioral assays (see below), water and food (<italic>Acheta domestica</italic>) were provided ad libitum.</p></sec><sec id="ece35882-sec-0006"><label>2.4</label><title>Behavioral assays</title><p>Activity, shelter use, and risk&#x02010;taking of 1&#x02010; to 2&#x02010;week&#x02010;old juveniles (Figure <xref rid="ece35882-fig-0001" ref-type="fig">1</xref>) were tested four times between 06 and 13 September starting three days after the start of treatments. We observed risk&#x02010;taking on every second day to provide time to animals to recover from the handling related to this assay. Activity of juveniles was video&#x02010;recorded between 10.00 and 11.00&#x000a0;hr (UTC&#x000a0;+&#x000a0;02.00) using video cameras (Panasonic HC&#x02010;V160, Panasonic Co.). We assessed movement activity (hereafter activity) of animals in their home boxes based on a 30&#x02010;min sample from every 1&#x000a0;hr video footage (sum of three 10&#x02010;min intervals, distributed equally: 5&#x02013;15, 25&#x02013;35, 45&#x02013;55&#x000a0;min). The program MotionMeerkat (Weinstein, <xref rid="ece35882-bib-0126" ref-type="ref">2015</xref>) was used to evaluate the time (s) the animals spent moving. We also evaluated the time (s) the animals spent under the shelter during the observation period (hereafter shelter use) to get another measure of activity (R&#x000e9;ale, Reader, Sol, McDougall, &#x00026; Dingemanse, <xref rid="ece35882-bib-0104" ref-type="ref">2007</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35882-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Juvenile Carpetan rock lizards (<italic>Iberolacerta cyreni</italic>). Photograph by Gonzalo Rodr&#x000ed;guez&#x02010;Ruiz</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14476-g001"/></fig><p>Risk&#x02010;taking was evaluated between 14.00 and 15.00 in unfamiliar, hence potentially risky environments. Nine arenas (white plastic boxes; 17&#x000a0;cm&#x000a0;&#x000d7;&#x000a0;17&#x000a0;cm&#x000a0;&#x000d7;&#x000a0;9&#x000a0;cm; length, width, height, respectively) were used, and tests were performed in four rounds on each day, to assay all juveniles once in every test day. Arenas were thoroughly washed using detergent between assays to remove chemical stimuli that may have been left by the last individual. The order and placement of the animals were randomized within day. First, the experimenter caught the juvenile and dropped it into the test arena from a standardized height of 10&#x000a0;cm. This was done to mimic a situation when the individual was caught by a predator but managed to escape. Juveniles responded to the handling with rapid escape behavior and subsequent immobility. Latency to restart activity (time spent immobile) was used as a proxy for risk&#x02010;taking with individuals restarting normal activity quickly seen as risk&#x02010;takers (Ursz&#x000e1;n, Garamszegi, et al., <xref rid="ece35882-bib-0117" ref-type="ref">2015</xref>). Juveniles' behavior was video&#x02010;recorded for 10&#x000a0;min. Out of the 136 assays, individuals remained immobile during the 10&#x02010;min observation period in only six cases (three individuals). These observations received maximal score (600&#x000a0;s). We note that the video evaluation was not blind regarding the test animals' identity, because the identification number of the animals was visible in the video recordings. However, it does not pose a problem since the subjectivity in our methods was negligible.</p></sec><sec id="ece35882-sec-0007"><label>2.5</label><title>Locomotor performance</title><p>After the behavioral tests, climbing speed of offspring was assessed as a measure of locomotor performance (see Cadby et al., <xref rid="ece35882-bib-0022" ref-type="ref">2010</xref>; Wapstra, <xref rid="ece35882-bib-0123" ref-type="ref">2000</xref>). As <italic>I.&#x000a0;cyreni</italic> is a highly specified, scansorial, rock&#x02010;dwelling species (Mart&#x000ed;n &#x00026; L&#x000f3;pez, <xref rid="ece35882-bib-0079" ref-type="ref">1999</xref>; Mart&#x000ed;n &#x00026; Salvador, <xref rid="ece35882-bib-0082" ref-type="ref">1997</xref>; Monasterio, Salvador, &#x00026; D&#x000ed;az, <xref rid="ece35882-bib-0090" ref-type="ref">2010</xref>), climbing speed is more relevant for performance in this species than sprint speed on a horizontal plane. In these tests, a predator attack was simulated by tapping lizards close to the tail with a brush to stimulate them to run along a racetrack (0.5&#x000a0;m&#x000a0;&#x000d7;&#x000a0;0.15&#x000a0;m; length, width, respectively) tilted to an angle of 90&#x000b0; and covered with sandpaper (see Gomes, Carretero, &#x00026; Kaliontzopoulou, <xref rid="ece35882-bib-0047" ref-type="ref">2016</xref>; Ortega, L&#x000f3;pez, &#x00026; Mart&#x000ed;n, <xref rid="ece35882-bib-0096" ref-type="ref">2014</xref>). Tests were performed between 12:00 and 15:00&#x000a0;p.m. (UTC&#x000a0;+&#x000a0;02.00) when lizards were fully active (see Arag&#x000f3;n, L&#x000f3;pez, &#x00026; Mart&#x000ed;n, <xref rid="ece35882-bib-0002" ref-type="ref">2004</xref>; Mart&#x000ed;n&#x000a0;&#x00026; Salvador, <xref rid="ece35882-bib-0084" ref-type="ref">1995</xref>; P&#x000e9;rez&#x02010;Mellado et al., <xref rid="ece35882-bib-0098" ref-type="ref">1988</xref>). Each lizard was tested two times during two consecutive days (22 and 23 September). Before climbing trials, the animals were kept at 30&#x000b0;C for one hour to allow them to reach optimal temperatures (Aguado &#x00026; Bra&#x000f1;a, <xref rid="ece35882-bib-0001" ref-type="ref">2014</xref>). Tests were recorded with a digital video camera (Panasonic HC&#x02010;V160, Panasonic Co.) at 25&#x000a0;fps. The runs were graded on a scale of 1&#x02013;5. Runs with 1 representing individuals that refused to run and 5 representing individuals that run through the entire track without stops (see Collins, Self, Anderson, &#x00026; McBrayer, <xref rid="ece35882-bib-0027" ref-type="ref">2013</xref>). Only runs scored 4 and 5 were considered for speed tests (see van Berkum &#x00026; Tsuji, <xref rid="ece35882-bib-0120" ref-type="ref">1987</xref>; Vanhooydonck, Van Damme, &#x00026; Aerts, <xref rid="ece35882-bib-0121" ref-type="ref">2001</xref>). Based on this criterion, runs from four individuals of control mothers (two placeboes and two corticosterone) were discarded. To extract speed measures, video records were analyzed with the software TRACKER v.4.97 (Open Source Physics). Maximum climbing speed for each individual was determined as the highest speed (cm/s) recorded within any two successive frames in any trial (Gomes, Carretero, &#x00026; Kaliontzopoulou, <xref rid="ece35882-bib-0048" ref-type="ref">2017</xref>; Mart&#x000ed;n &#x00026; L&#x000f3;pez, <xref rid="ece35882-bib-0078" ref-type="ref">1995</xref>).</p></sec><sec id="ece35882-sec-0008"><label>2.6</label><title>Statistical analyses</title><p>To test whether our treatments affected offspring SVL, BW, and climbing speed, we ran three separate linear mixed models (LMMs). In the first LMM, we used SVL as response variable, while maternal vitamin supplementation, corticosterone treatment, and their interaction were added as fixed factors. Mother identity was added as a random factor to account for the nonindependence of individuals within a single family. The second model on BW was built in the same manner; however, to control for size, we added SVL as a covariate. In the third model, climbing speed was our response variable, the treatments and their interaction were added as fixed factors and both SVL and BW were included as covariates to control for the effect of size and condition.</p><p>Behavioral measures were square&#x02010;root&#x02010;transformed in order to achieve normal distributions of the model residuals. We used repeatability of behavior (i.e., strength of animal personality) as the first estimate of behavioral variation. To estimate repeatability of the behavioral traits in the pooled sample and treatment groups, we ran LMMs separately with the behavioral variable of interest as dependent variable and individual as random factor using restricted maximum&#x02010;likelihood estimation in the lme4 package (Bates, M&#x000e4;chler, Bolker, &#x00026; Walker, <xref rid="ece35882-bib-0007" ref-type="ref">2015</xref>). Confidence intervals were calculated by nonparametric bootstrapping, while significance is provided by random permutation (also called randomization test), both sampled at each 1,000th iteration.</p><p>Behavioral type (individual mean behavior) was used as the second measure of behavioral variation. We ran LMMs on the behaviors separately to test whether treatments affected behavioral type. In these models, the different behavioral traits were our response variables, treatments and their interactions were added as fixed effects, while mother identity and individual were random factors. We added z&#x02010;transformed order of trials (hereafter: time) both as a single fixed effect and as a random slope (i.e., in interaction with individual) to the models to test for habituation on the group and individual levels directly.</p><p>Behavioral predictability was the third measure of behavioral variation. To characterize behavioral predictability, we calculated residual individual standard deviation scores (riSD; Chang et al., <xref rid="ece35882-bib-0024" ref-type="ref">2017</xref>; Lichtenstein et al., <xref rid="ece35882-bib-0071" ref-type="ref">2017</xref>; Stamps et al., <xref rid="ece35882-bib-0114" ref-type="ref">2012</xref>). To this end, we built simplified LMMs for each behavioral trait separately, with behavior as response variable, time as fixed and individual (random intercept) and the individual&#x000a0;&#x000d7;&#x000a0;time interaction (random slopes) as random effects. Predicted values for each individual were extracted from the models and compared with the observed values to get residual values for each risk&#x02010;taking observation. We calculated riSD scores following the method of Stamps et al. (<xref rid="ece35882-bib-0114" ref-type="ref">2012</xref>), however, based on N observations, rather than N&#x02212;1, as this provides a more conservative approach to detect significant differences in riSDs (see Briffa, <xref rid="ece35882-bib-0019" ref-type="ref">2013</xref>). We performed similar LMMs to those of the behavioral types, but with riSD as response variable, and only mother identity as random factor.</p><p>Backward elimination was applied in order to simplify our models by removing nonsignificant effects from LMMs provided by the package lmerTest (Kuznetsova, Brockhoff, &#x00026; Christensen, <xref rid="ece35882-bib-0066" ref-type="ref">2016</xref>). We also report the proportion of explained variance by the fixed factors (marginal <italic>R<sup>2</sup></italic>) and by both fixed and random factors (conditional <italic>R</italic>
+<sup>2</sup>) available in the MuMIn package (Barto&#x00144;, <xref rid="ece35882-bib-0005" ref-type="ref">2016</xref>). These values represent goodness&#x02010;of&#x02010;fit measures of GLMMs similar to the <italic>R</italic>
+<sup>2</sup> value of generalized linear models (Nakagawa, Johnson, &#x00026; Schielzeth, <xref rid="ece35882-bib-0093" ref-type="ref">2017</xref>; Nakagawa &#x00026; Schielzeth, <xref rid="ece35882-bib-0095" ref-type="ref">2013</xref>). All analyses were performed using the R statistical environment (R Developmental Core Team, <xref rid="ece35882-bib-0101" ref-type="ref">2018</xref>).</p></sec><sec id="ece35882-sec-0009"><label>2.7</label><title>Ethical approval</title><p>All applicable international, national, and/or institutional guidelines for the care and use of animals were followed. The experiment was performed under license (permit number: 10/056780.9/16) from the Environmental Agency of Madrid Government (&#x0201c;Consejer&#x000ed;a de Medio Ambiente de la Comunidad de Madrid,&#x0201d; Spain).</p></sec></sec><sec sec-type="results" id="ece35882-sec-0010"><label>3</label><title>RESULTS</title><sec id="ece35882-sec-0011"><label>3.1</label><title>Offspring quality</title><p>According to our LMMs, none of our treatments affected offspring SVL or BW (see Table <xref rid="ece35882-tbl-0001" ref-type="table">1</xref>). On the other hand, the third model revealed an effect of maternal vitamin treatment on offspring's climbing speed (<italic>F</italic>
+<sub>1,17.25</sub>&#x000a0;=&#x000a0;5.24, <italic>p</italic>&#x000a0;=&#x000a0;.035; Figure <xref rid="ece35882-fig-0002" ref-type="fig">2</xref>): juveniles from vitamin&#x02010;supplemented mothers climbed 42.4% faster. Corticosterone had no effect on climbing speed, neither alone nor in interaction with vitamin supplementation (see Table <xref rid="ece35882-tbl-0001" ref-type="table">1</xref>). The family effect was significant (<italic>&#x003c7;</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;3.9, <italic>df</italic>&#x000a0;=&#x000a0;1, <italic>p</italic>&#x000a0;=&#x000a0;.048). We found no effect of SVL or BW on climbing speed (Table <xref rid="ece35882-tbl-0001" ref-type="table">1</xref>).</p><table-wrap id="ece35882-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Results of LMMs on morphology of juvenile <italic>Iberolacerta cyreni</italic>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Dependent variable</th><th align="left" valign="top" rowspan="1" colspan="1">Fixed effects</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>F </italic>(<italic>df</italic>
+<sub>1</sub>, <italic>df</italic>
+<sub>2</sub>)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>p</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="3" colspan="1">SVL</td><td align="left" rowspan="1" colspan="1">Corticosterone (C)</td><td align="char" char="(" rowspan="1" colspan="1">0.95 (1; 17.32)</td><td align="left" rowspan="1" colspan="1">.34</td></tr><tr><td align="left" rowspan="1" colspan="1">Maternal diet (M)</td><td align="char" char="(" rowspan="1" colspan="1">1.17 (1; 30.21)</td><td align="left" rowspan="1" colspan="1">.29</td></tr><tr><td align="left" rowspan="1" colspan="1">C&#x000a0;&#x000d7;&#x000a0;M</td><td align="char" char="(" rowspan="1" colspan="1">0.98 (1; 16.87)</td><td align="left" rowspan="1" colspan="1">.33</td></tr><tr><td align="left" rowspan="4" colspan="1">BW</td><td align="left" rowspan="1" colspan="1">C</td><td align="char" char="(" rowspan="1" colspan="1">0.16 (1; 18.79)</td><td align="left" rowspan="1" colspan="1">.69</td></tr><tr><td align="left" rowspan="1" colspan="1">M</td><td align="char" char="(" rowspan="1" colspan="1">0.001 (1; 30.99)</td><td align="left" rowspan="1" colspan="1">.99</td></tr><tr><td align="left" rowspan="1" colspan="1">C&#x000a0;&#x000d7;&#x000a0;M</td><td align="char" char="(" rowspan="1" colspan="1">0.58 (1; 17.55)</td><td align="left" rowspan="1" colspan="1">.45</td></tr><tr><td align="left" rowspan="1" colspan="1">SVL</td><td align="char" char="(" rowspan="1" colspan="1">3.79 (1; 32.94)</td><td align="left" rowspan="1" colspan="1">.06</td></tr><tr><td align="left" rowspan="5" colspan="1">Climbing speed</td><td align="left" rowspan="1" colspan="1">C</td><td align="char" char="(" rowspan="1" colspan="1">0.21 (1; 16.15)</td><td align="left" rowspan="1" colspan="1">.66</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>M</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>5.24 (1; 17.25)</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>.035</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">C&#x000a0;&#x000d7;&#x000a0;M</td><td align="char" char="(" rowspan="1" colspan="1">0.16 (1; 16.22)</td><td align="left" rowspan="1" colspan="1">.69</td></tr><tr><td align="left" rowspan="1" colspan="1">SVL</td><td align="char" char="(" rowspan="1" colspan="1">0.19 (1; 31.68)</td><td align="left" rowspan="1" colspan="1">.66</td></tr><tr><td align="left" rowspan="1" colspan="1">BW</td><td align="char" char="(" rowspan="1" colspan="1">0.14 (1; 29.55)</td><td align="left" rowspan="1" colspan="1">.71</td></tr></tbody></table><table-wrap-foot id="ece35882-ntgp-0001"><title>Note</title><fn id="ece35882-note-0001"><p>
+<italic>F</italic> statistics (numerator and denominator <italic>df</italic> in parentheses) and <italic>p</italic> values are shown. Significant effects are in bold font.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35882-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Differences in climbing speed of juvenile <italic>Iberolacerta cyreni</italic> induced by maternal vitamin D<sub>3</sub> supplementation. Least square means and standard errors are shown</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14476-g002"/></fig></sec><sec id="ece35882-sec-0012"><label>3.2</label><title>Behavioral repeatability</title><p>Random permutation indicated moderate repeatability for all behavioral traits in the pooled sample (Table <xref rid="ece35882-tbl-0002" ref-type="table">2</xref>). As random permutation gives robust measures of statistical significance for Gaussian data (Nakagawa &#x00026; Schielzeth, <xref rid="ece35882-bib-0094" ref-type="ref">2010</xref>), we considered activity personality being significant, in all treatment groups, with estimates showing moderate/high repeatability (0.31&#x000a0;&#x0003c;&#x000a0;<italic>R</italic>&#x000a0;&#x0003c;&#x000a0;0.68; see Table <xref rid="ece35882-tbl-0002" ref-type="table">2</xref>). On the other hand, confidence intervals for activity repeatability estimates highly overlapped between treatment groups and with that of the pooled sample; thus, repeatability estimates did not differ between treatment groups and the whole sample. In the case of shelter use, repeatability was significant only in the vitamin&#x02010;supplemented&#x000a0;&#x000d7;&#x000a0;corticosterone&#x02010;treated group, where the estimate indicates particularly high repeatability (<italic>R</italic>&#x000a0;=&#x000a0;0.9; Table <xref rid="ece35882-tbl-0002" ref-type="table">2</xref>). In risk&#x02010;taking, corticosterone supplementation resulted in the lack of significant repeatability, while repeatabilities in the corticosterone control groups can be considered moderate to high (0.4&#x000a0;&#x0003c;&#x000a0;<italic>R</italic>&#x000a0;&#x0003c;&#x000a0;0.57; see Table <xref rid="ece35882-tbl-0002" ref-type="table">2</xref>).</p><table-wrap id="ece35882-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Repeatability estimates for activity, shelter use, and risk&#x02010;taking in juvenile <italic>Iberolacerta cyreni</italic> in the pooled sample (all) and in the different treatment groups (CORT corticosterone, NoCORT corticosterone control, VIT vitamin D<sub>3</sub> supplemented mothers, NoVIT control mothers)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">ALL (<italic>N</italic>&#x000a0;=&#x000a0;34)</th><th align="left" valign="top" rowspan="1" colspan="1">VIT/CORT (<italic>N</italic>&#x000a0;=&#x000a0;7)</th><th align="left" valign="top" rowspan="1" colspan="1">NoVIT/CORT (<italic>N</italic>&#x000a0;=&#x000a0;10)</th><th align="left" valign="top" rowspan="1" colspan="1">VIT/NoCORT (<italic>N</italic>&#x000a0;=&#x000a0;7)</th><th align="left" valign="top" rowspan="1" colspan="1">NoVIT/NoCORT (<italic>N</italic>&#x000a0;=&#x000a0;10)</th></tr></thead><tbody><tr><td align="left" colspan="5" rowspan="1">Activity</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold><italic>R</italic>&#x000a0;=&#x000a0;0.415</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold><italic>R</italic>&#x000a0;=&#x000a0;0.363</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold><italic>R</italic>&#x000a0;=&#x000a0;0.305</bold>
+</td><td align="char" char="=" rowspan="1" colspan="1">
+<bold><italic>R</italic>&#x000a0;=&#x000a0;0.676</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold><italic>R</italic>&#x000a0;=&#x000a0;0.326</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold><italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold><italic>p</italic>&#x000a0;=&#x000a0;.02</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold><italic>p</italic>&#x000a0;=&#x000a0;.011</bold>
+</td><td align="char" char="=" rowspan="1" colspan="1">
+<bold><italic>p</italic>&#x000a0;=&#x000a0;.001</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold><italic>p</italic>&#x000a0;=&#x000a0;.006</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold>CI&#x000a0;=&#x000a0;0.21&#x02013;0.58</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>CI&#x000a0;=&#x000a0;0&#x02013;0.7</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>CI&#x000a0;=&#x000a0;0&#x02013;0.61</bold>
+</td><td align="char" char="=" rowspan="1" colspan="1">
+<bold>CI&#x000a0;=&#x000a0;0.12&#x02013;0.87</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>CI&#x000a0;=&#x000a0;0&#x02013;0.61</bold>
+</td></tr><tr><td align="left" colspan="5" rowspan="1">Shelter use</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold><italic>R</italic>&#x000a0;=&#x000a0;0.28</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold><italic>R</italic>&#x000a0;=&#x000a0;0.9</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>R</italic>&#x000a0;=&#x000a0;0.08</td><td align="char" char="=" rowspan="1" colspan="1">
+<italic>R</italic>&#x000a0;=&#x000a0;0.12</td><td align="left" rowspan="1" colspan="1">
+<italic>R</italic>&#x000a0;=&#x000a0;0.1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold><italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold><italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic>&#x000a0;=&#x000a0;.118</td><td align="char" char="=" rowspan="1" colspan="1">
+<italic>p</italic>&#x000a0;=&#x000a0;.099</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic>&#x000a0;=&#x000a0;.16</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold>CI&#x000a0;=&#x000a0;0.07&#x02013;0.44</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>CI&#x000a0;=&#x000a0;0.63&#x02013;0.96</bold>
+</td><td align="left" rowspan="1" colspan="1">CI&#x000a0;=&#x000a0;0&#x02013;0.38</td><td align="char" char="=" rowspan="1" colspan="1">CI&#x000a0;=&#x000a0;0&#x02013;0.5</td><td align="left" rowspan="1" colspan="1">CI&#x000a0;=&#x000a0;0&#x02013;0.42</td></tr><tr><td align="left" colspan="5" rowspan="1">Risk&#x02010;taking</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold><italic>R</italic>&#x000a0;=&#x000a0;0.332</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>R</italic>&#x000a0;=&#x000a0;0.219</td><td align="left" rowspan="1" colspan="1">
+<italic>R</italic>&#x000a0;&#x0003c;&#x000a0;0.001</td><td align="char" char="=" rowspan="1" colspan="1">
+<bold><italic>R</italic>&#x000a0;=&#x000a0;0.396</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold><italic>R</italic>&#x000a0;=&#x000a0;0.569</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold><italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic>&#x000a0;=&#x000a0;.055</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.99</td><td align="char" char="=" rowspan="1" colspan="1">
+<bold><italic>p</italic>&#x000a0;=&#x000a0;.012</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold><italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold>CI&#x000a0;=&#x000a0;0.13&#x02013;0.5</bold>
+</td><td align="left" rowspan="1" colspan="1">CI&#x000a0;=&#x000a0;0&#x02013;0.57</td><td align="left" rowspan="1" colspan="1">CI&#x000a0;=&#x000a0;0&#x02013;0.299</td><td align="char" char="=" rowspan="1" colspan="1">
+<bold>CI&#x000a0;=&#x000a0;0&#x02013;0.71</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>CI&#x000a0;=&#x000a0;0.18&#x02013;0.8</bold>
+</td></tr></tbody></table><table-wrap-foot id="ece35882-ntgp-0002"><title>Note</title><fn id="ece35882-note-0002"><p>Estimates are based on linear mixed models (LMMs). Repeatabilities (<italic>R</italic>) and 95% confidence intervals (CI) are shown. Significance (<italic>p</italic>) estimates are based on randomization tests. Significant repeatabilities are in bold font.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece35882-sec-0013"><label>3.3</label><title>Behavioral type and predictability</title><p>LMMs revealed no effects of any treatments on behavioral types. However, we found significant habituation in activity (<italic>F</italic>
+<sub>1,102</sub>&#x000a0;=&#x000a0;5.2, <italic>p</italic>&#x000a0;=&#x000a0;.02): Juveniles became more active by time, although individual trends did not differ (<italic>&#x003c7;</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.19, <italic>df</italic>&#x000a0;=&#x000a0;1, <italic>p</italic>&#x000a0;=&#x000a0;.66). In contrast, there was no sign of habituation in shelter use or risk&#x02010;taking (shelter use: <italic>F</italic>
+<sub>1,102</sub>&#x000a0;=&#x000a0;2.1, <italic>p</italic>&#x000a0;=&#x000a0;.15; risk&#x02010;taking: <italic>F</italic>
+<sub>1,101.9</sub>&#x000a0;=&#x000a0;1.26, <italic>p</italic>&#x000a0;=&#x000a0;.26), and there was no difference between individual trends (shelter use: <italic>&#x003c7;</italic>
+<sup>2</sup>&#x000a0;&#x0003c;&#x000a0;0.001, <italic>df</italic>&#x000a0;=&#x000a0;1, <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.99; risk&#x02010;taking: <italic>&#x003c7;</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.76, <italic>df</italic>&#x000a0;=&#x000a0;1, <italic>p</italic>&#x000a0;=&#x000a0;.39). The fixed effects explained 5.4% (activity), 6.3% (shelter use), and 3.6% (risk&#x02010;taking) of the total variance, while the full models 44.4% (activity), 25.2% (shelter use), and 46.8% (risk&#x02010;taking), which can be seen as sufficient explanatory power for behavioral variables. For remaining nonsignificant effects, see Table <xref rid="ece35882-tbl-0003" ref-type="table">3</xref>.</p><table-wrap id="ece35882-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Results of LMMs on activity, shelter use, and risk&#x02010;taking behavioral types of juvenile <italic>Iberolacerta cyreni</italic>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Fixed effects</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Activity</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Shelter use</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Risk&#x02010;taking</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>F</italic> (<italic>df</italic>
+<sub>1</sub>, <italic>df</italic>
+<sub>2</sub>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>F</italic> (<italic>df</italic>
+<sub>1</sub>, <italic>df</italic>
+<sub>2</sub>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>F</italic> (<italic>df</italic>
+<sub>1</sub>, <italic>df</italic>
+<sub>2</sub>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Corticosterone</td><td align="char" char="(" rowspan="1" colspan="1">0.084 (1, 34)</td><td align="left" rowspan="1" colspan="1">.37</td><td align="char" char="(" rowspan="1" colspan="1">0.91 (1, 17)</td><td align="left" rowspan="1" colspan="1">.36</td><td align="char" char="(" rowspan="1" colspan="1">0.005 (1, 35.41)</td><td align="left" rowspan="1" colspan="1">.94</td></tr><tr><td align="left" rowspan="1" colspan="1">Maternal diet</td><td align="char" char="(" rowspan="1" colspan="1">1.21 (1, 34)</td><td align="left" rowspan="1" colspan="1">.28</td><td align="char" char="(" rowspan="1" colspan="1">3.24 (1, 17)</td><td align="left" rowspan="1" colspan="1">.089</td><td align="char" char="(" rowspan="1" colspan="1">1.85 (1, 35.24)</td><td align="left" rowspan="1" colspan="1">.18</td></tr><tr><td align="left" rowspan="1" colspan="1">Corticosterone&#x000a0;&#x000d7;&#x000a0;Maternal diet</td><td align="char" char="(" rowspan="1" colspan="1">0.004 (1, 34)</td><td align="left" rowspan="1" colspan="1">.95</td><td align="char" char="(" rowspan="1" colspan="1">0.28 (1, 17)</td><td align="left" rowspan="1" colspan="1">.6</td><td align="char" char="(" rowspan="1" colspan="1">0.01 (1, 35.21.7)</td><td align="left" rowspan="1" colspan="1">.92</td></tr><tr><td align="left" rowspan="1" colspan="1">Time</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>5.2 (1, 102)</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>.02</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">2.1 (1, 102)</td><td align="left" rowspan="1" colspan="1">.15</td><td align="char" char="(" rowspan="1" colspan="1">1.26 (1, 101.9)</td><td align="left" rowspan="1" colspan="1">.26</td></tr></tbody></table><table-wrap-foot id="ece35882-ntgp-0003"><title>Note</title><fn id="ece35882-note-0003"><p>
+<italic>F</italic> statistics (numerator and denominator <italic>df</italic> in parentheses) and <italic>p</italic> values are shown. Significant effects are in bold font.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>LMMs revealed a significant vitamin D<sub>3</sub> supplementation effect on activity predictability (<italic>F</italic>
+<sub>1,34</sub>&#x000a0;=&#x000a0;7.74, <italic>p</italic>&#x000a0;=&#x000a0;.009): Juveniles from vitamin&#x02010;supplemented mothers were more predictable (Figure <xref rid="ece35882-fig-0003" ref-type="fig">3</xref>). Treatments did not affect shelter use or risk&#x02010;taking predictability (see Table <xref rid="ece35882-tbl-0004" ref-type="table">4</xref>.). The fixed effects explained 25.9% (activity), 18.7% (risk&#x02010;taking), and 0.7% (shelter use) of the total variance, while the full models explained 25.9% (activity), 53.9% (risk&#x02010;taking), and 30.5% (shelter use), which can be seen as sufficient explanatory power for behavioral variables. For the nonsignificant effects, see Table <xref rid="ece35882-tbl-0004" ref-type="table">4</xref>.</p><fig fig-type="Figure" xml:lang="en" id="ece35882-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Differences in activity predictability of juvenile <italic>Iberolacerta cyreni</italic> induced by maternal vitamin D<sub>3</sub> supplementation. Predictability (riSD) values are multiplied by &#x02212;1 for straightforward interpretation; hence, small values translate to low predictability in the figure. Least square means and standard errors are shown</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14476-g003"/></fig><table-wrap id="ece35882-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Results of LMMs on activity, shelter use, and risk&#x02010;taking behavioral predictability of juvenile <italic>Iberolacerta cyreni</italic>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Fixed effects</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Activity</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Shelter use</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Risk&#x02010;taking</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>F</italic> (<italic>df</italic>
+<sub>1</sub>, <italic>df</italic>
+<sub>2</sub>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>F</italic> (<italic>df</italic>
+<sub>1</sub>, <italic>df</italic>
+<sub>2</sub>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>F</italic> (<italic>df</italic>
+<sub>1</sub>, <italic>df</italic>
+<sub>2</sub>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Corticosterone</td><td align="left" rowspan="1" colspan="1">0.59 (1, 33.99)</td><td align="left" rowspan="1" colspan="1">.45</td><td align="left" rowspan="1" colspan="1">0.05 (1, 16.95)</td><td align="left" rowspan="1" colspan="1">.83</td><td align="left" rowspan="1" colspan="1">3.18 (1, 16.99)</td><td align="left" rowspan="1" colspan="1">.093</td></tr><tr><td align="left" rowspan="1" colspan="1">Maternal diet</td><td align="left" rowspan="1" colspan="1">
+<bold>7.74 (1, 34.004)</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>.009</bold>
+</td><td align="left" rowspan="1" colspan="1">0.14 (1, 17)</td><td align="left" rowspan="1" colspan="1">.71</td><td align="left" rowspan="1" colspan="1">1.87 (1, 17)</td><td align="left" rowspan="1" colspan="1">.19</td></tr><tr><td align="left" rowspan="1" colspan="1">Corticosterone&#x000a0;&#x000d7;&#x000a0;Maternal diet</td><td align="left" rowspan="1" colspan="1">2.48 (1, 34.008)</td><td align="left" rowspan="1" colspan="1">.12</td><td align="left" rowspan="1" colspan="1">0.04 (1, 17.09)</td><td align="left" rowspan="1" colspan="1">.84</td><td align="left" rowspan="1" colspan="1">3.99 (1, 16.99)</td><td align="left" rowspan="1" colspan="1">.62</td></tr></tbody></table><table-wrap-foot id="ece35882-ntgp-0004"><title>Note</title><fn id="ece35882-note-0004"><p>
+<italic>F</italic> statistics (numerator and denominator <italic>df</italic> in parentheses) and <italic>p</italic> values are shown. Significant effects are in bold font.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></sec><sec sec-type="discussion" id="ece35882-sec-0014"><label>4</label><title>DISCUSSION</title><p>Here, we manipulated two biologically relevant factors (composition of maternal diet and corticosterone levels) that are expected to have a profound effect both on offspring permanent&#x02010; and short&#x02010;term state and, thus, on behavioral consistency. Based on our results, maternal diet affected offspring climbing speed positively; moreover, we found significant treatment effects on different levels of juveniles' behavioral consistency, suggesting that individual quality can modify the effect of corticosterone in &#x0201c;switching&#x0201d; individual behavioral variation on/off. We discuss our results in light of the evolutionary consequences of the presence/absence of individual differences in highly flexible phenotypic traits.</p><sec id="ece35882-sec-0015"><label>4.1</label><title>Offspring quality</title><p>Somewhat surprisingly, corticosterone treatment did not affect offspring climbing speed; however, we found a clear effect of maternal vitamin treatment: Juveniles from vitamin D<sub>3</sub> supplemented mothers had higher climbing speed (42.4% increase) than conspecifics from control mothers. Locomotor performance is known to potentially increase the ability to escape from predators (Bauwens, Garland, Castilla, &#x00026; Van Damme, <xref rid="ece35882-bib-0008" ref-type="ref">1995</xref>; Irschick &#x00026; Garland, <xref rid="ece35882-bib-0059" ref-type="ref">2001</xref>), foraging efficacy (Husak, Ferguson, &#x00026; Lovern, <xref rid="ece35882-bib-0057" ref-type="ref">2016</xref>; Irschick, Meyers, Husak, &#x00026; Le Galliard, <xref rid="ece35882-bib-0061" ref-type="ref">2008</xref>), and social dominance status in lizards (Clobert et al., <xref rid="ece35882-bib-0025" ref-type="ref">2000</xref>; Garland, Hankins, &#x00026; Huey, <xref rid="ece35882-bib-0045" ref-type="ref">1990</xref>; L&#x000f3;pez &#x00026; Mart&#x000ed;n, <xref rid="ece35882-bib-0073" ref-type="ref">2002</xref>), which makes it a suitable proxy of individual fitness (Irschick et al., <xref rid="ece35882-bib-0060" ref-type="ref">2005</xref>; Winchell et al., <xref rid="ece35882-bib-0130" ref-type="ref">2018</xref>). Previous data on reptiles indicate the importance of maternal investment on offspring's traits linked to individual state (Meylan et al., <xref rid="ece35882-bib-0089" ref-type="ref">2002</xref>; Munch et al., <xref rid="ece35882-bib-0091" ref-type="ref">2018</xref>; Wapstra, <xref rid="ece35882-bib-0123" ref-type="ref">2000</xref>); however, there are contradictory results as well (Ensminger et al., <xref rid="ece35882-bib-0040" ref-type="ref">2018</xref>; Warner, Lovern, &#x00026; Shine, <xref rid="ece35882-bib-0125" ref-type="ref">2008</xref>). Our results provide, to our knowledge for the first time, empirical data that the amount of vitamin D<sub>3</sub> in maternal diet increases offspring locomotor performance in reptiles. Vitamin D<sub>3</sub> is implied to be a hormonally active vitamin essential in the development of organs and maintenance of calcium homeostasis in amniotes (Karsten, Ferguson, Chen, &#x00026; Holick, <xref rid="ece35882-bib-0063" ref-type="ref">2009</xref>; Laing &#x00026; Fraser, <xref rid="ece35882-bib-0067" ref-type="ref">1999</xref>); nevertheless, its exact role during reproduction and embryogenesis is much less understood. Recent empirical work on rodents indicates that maternal vitamin D<sub>3</sub> intake affects offspring health and bone structure positively (Lanham et al., <xref rid="ece35882-bib-0070" ref-type="ref">2013</xref>; Luk, Torrealday, Perry, &#x00026; Pal, <xref rid="ece35882-bib-0074" ref-type="ref">2012</xref>). However, since the exact downstream mechanisms likely differ between mammals and reptiles, direct comparison between our and these previous findings is not possible. Nevertheless, our results suggest that vitamin D<sub>3</sub> is indeed an important factor of embryogenesis and an important maternal investment that potentially affects offspring fitness.</p><p>Families differed significantly in climbing speed. Even if we assume that fathers were different among clutches, as we had F1 generation, maternal or cross&#x02010;generational environmental effects cannot be ruled out, and thus, the additive genetic contribution cannot be proven (Lynch &#x00026; Walsh, <xref rid="ece35882-bib-0076" ref-type="ref">1998</xref>).</p></sec><sec id="ece35882-sec-0016"><label>4.2</label><title>Behavioral repeatability</title><p>There were no evident treatment effects on the repeatability of activity. Repeatability of shelter use was moderate in the pooled sample, while it was significant only in the vitamin&#x02010;supplemented&#x000a0;&#x000d7;&#x000a0;corticosterone&#x02010;treated treatment group, consistency being particularly strong in this treatment (see Bell et al., <xref rid="ece35882-bib-0010" ref-type="ref">2009</xref> for reference). This type of challenge&#x02010;triggered consistency is contrary to previous finding on wild&#x02010;caught adults of <italic>I. cyreni</italic>, where shelter use personality (estimated similarly to the present study) was detected only under optimal conditions (Horv&#x000e1;th, Mart&#x000ed;n, et al., <xref rid="ece35882-bib-0053" ref-type="ref">2017</xref>). In the present approach, shelter use describes &#x0201c;general&#x0201d; (as opposed to movement) activity, as individuals spending more time hiding were regarded as less active (Koolhaas et al., <xref rid="ece35882-bib-0064" ref-type="ref">1999</xref>; R&#x000e9;ale et al., <xref rid="ece35882-bib-0104" ref-type="ref">2007</xref>). Regarding the exact mechanisms causing the emergence of personality in this group (or the collapse in the others), we can only speculate. Perhaps different tactics in exposure to predators in favor of foraging under stress could only be chosen by individuals with high climbing speed and thus good escape abilities. Risk&#x02010;taking proved to be moderately repeatable in the pooled sample, and moderate&#x02013;high in the corticosterone control groups, while repeatability was negligible in the corticosterone&#x02010;treated groups. This pattern is somewhat in line with our previous findings on repeatability of risk&#x02010;taking in adult male <italic>I.&#x000a0;cyreni</italic>: Individuals under suboptimal conditions tend to shift their behavior toward a general strategy, resulting in decreased interindividual variation (Horv&#x000e1;th, Mart&#x000ed;n, et al., <xref rid="ece35882-bib-0053" ref-type="ref">2017</xref>). The fact that under certain circumstances animal personality can quickly fade implies that drastic changes in behavioral strategy could occur not just among years, but among seasons within the same year (see Garamszegi et al., <xref rid="ece35882-bib-0043" ref-type="ref">2015</xref>). More importantly, quick cessation of behavioral variation may have serious evolutionary consequences, since at least initial response to selection depends on existing between&#x02010;individual phenotypic variation (Barton &#x00026; Partridge, <xref rid="ece35882-bib-0006" ref-type="ref">2000</xref>; Farine, Montiglio, &#x00026; Spiegel, <xref rid="ece35882-bib-0041" ref-type="ref">2015</xref>). Confidence intervals of repeatabilities in the treatment groups highly overlapped with that of the pooled sample in all studied behaviors, indicating no significant difference between repeatability estimates of the treatment groups and the pooled sample. These results suggest that lowered variation in individual states does not weaken behavioral consistency, similarly to what we find about the effect of environmental variation in adult males of <italic>I.&#x000a0;cyreni</italic> and <italic>L.&#x000a0;viridis</italic> (Horv&#x000e1;th, Mart&#x000ed;n, et al., <xref rid="ece35882-bib-0053" ref-type="ref">2017</xref>; Horv&#x000e1;th, M&#x000e9;sz&#x000e1;ros, et al., <xref rid="ece35882-bib-0054" ref-type="ref">2017</xref>; respectively).</p><p>We are aware that the sample size per vitamin D<sub>3</sub>&#x000a0;&#x000d7;&#x000a0;corticosterone treatment groups is somewhat low, making the interpretation of lack of significant repeatabilities questionable. However, we must note that the highest repeatability estimate with no statistical support was 0.22 (<italic>p</italic>&#x000a0;=&#x000a0;.055), which can already be seen as low repeatability (see Bell et al., <xref rid="ece35882-bib-0010" ref-type="ref">2009</xref>), and the rest of nonsignificant estimates fell below 0.16. Hence, we think that the pattern we present regarding the presence/absence of behavioral repeatability (a test for animal personality) is robust. Although we found significant habituation in activity (juveniles became more active by time), consistent between&#x02010;individual differences were detected irrespective of general trends of habituation. Hence, we are convinced that our assays give a good estimate of individual behavioral differences (Biro, <xref rid="ece35882-bib-0014" ref-type="ref">2012</xref>).</p></sec><sec id="ece35882-sec-0017"><label>4.3</label><title>Behavioral type and predictability</title><p>Regarding behavioral types, our expectation was that juveniles from vitamin&#x02010;supplemented mothers and under low levels of exogenous corticosterone behave bolder (i.e., being more active, risk&#x02010;prone and spend less time hiding), either because of their superior quality or less challenging levels of physiological stress. To the contrary, none of our treatments affected behavioral types significantly. This is interesting because it shows that individual quality can affect behavioral strategies (presence of personality, see above; individual behavioral predictability, see below) without affecting group&#x02010;level mean behavior.</p><p>In contrast to the lack of significant treatment effects on behavioral types, we found significant effect of maternal diet on activity predictability: Juveniles from control mothers were less predictable. Quick growth at the juvenile stage is a good strategy to reach maturity early, and foraging activity is a key factor of maximizing energy intake (Biro &#x00026; Stamps, <xref rid="ece35882-bib-0016" ref-type="ref">2008</xref>; Brodin &#x00026; Johansson, <xref rid="ece35882-bib-0021" ref-type="ref">2004</xref>). However, increased behavioral activity results in higher exposure to predators. Because of their lower quality (i.e., poorer climbing speed), juveniles from control mothers potentially are under higher predation risk, as they cannot flee as quickly as their conspecifics. Expressing behavior in an unpredictable way might be an effective antipredator strategy, as predators often rely on predictable patterns in prey locomotion (Briffa, <xref rid="ece35882-bib-0019" ref-type="ref">2013</xref>; Highcock &#x00026; Carter, <xref rid="ece35882-bib-0050" ref-type="ref">2014</xref>; Richardson, Dickinson, Burman, Pike, &#x00026; Pike, <xref rid="ece35882-bib-0106" ref-type="ref">2018</xref>). Hence, this pattern is somewhat in line with the predictions of state&#x02010;dependent safety principle (Dosmann, Brooks, &#x00026; Mateo, <xref rid="ece35882-bib-0039" ref-type="ref">2014</xref>; Luttbeg &#x00026; Sih, <xref rid="ece35882-bib-0075" ref-type="ref">2010</xref>; Sih et al., <xref rid="ece35882-bib-0113" ref-type="ref">2015</xref>), where individuals with low climbing speed suffer higher predation risk while being active and should thus be less predictable (but see Ursz&#x000e1;n et al., <xref rid="ece35882-bib-0118" ref-type="ref">2018</xref>).</p></sec></sec><sec sec-type="conclusions" id="ece35882-sec-0018"><label>5</label><title>CONCLUSIONS</title><p>Taken together, our results support the notion that differences in permanent individual state (i.e., climbing speed) induced by maternal diet can affect the expression of between&#x02010;individual behavioral variation, that is, animal personality. In some of the cases, the effects depended on exposure to exogenous corticosterone. Hence, our results indicate that maternal effects can have a major role in the emergence of behavioral consistency. This is not only important in understanding the proximate mechanisms behind the development of animal personality but has a broader evolutionary significance too. Since our treatments could induce or erode consistent behavioral variation among juvenile lizards, and considering that natural selection can only operate on existing between&#x02010;individual phenotypic variation, short&#x02010;term variation in environmental conditions and individual state might&#x02014;at least temporarily&#x02014;release a population from natural selection acting on behavioral variation (see also Horv&#x000e1;th, Mart&#x000ed;n, et al., <xref rid="ece35882-bib-0053" ref-type="ref">2017</xref>; Horv&#x000e1;th, M&#x000e9;sz&#x000e1;ros, et al., <xref rid="ece35882-bib-0054" ref-type="ref">2017</xref>).</p></sec><sec sec-type="COI-statement" id="ece35882-sec-0020"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35882-sec-0021"><title>AUTHOR CONTRIBUTION</title><p>GeH, GR&#x02010;R, JM, PL, and GH designed the study; GeH and GR&#x02010;R collected data and performed the experiments; GeH analyzed the data with the contribution of GR&#x02010;R and GH; GeH, and GH wrote the manuscript with the substantial contribution of GR&#x02010;R, JM, and PL; all authors reviewed the manuscript and gave final approval for publication.</p></sec><sec id="ece35882-sec-0022"><sec disp-level="2" id="ece35882-sec-0023"><title>Open Research Badges</title><p>This article has earned an <ext-link ext-link-type="uri" xlink:href="https://openscience.com">https://openscience.com</ext-link> Badge for making publicly available the digitally&#x02010;shareable data necessary to reproduce the reported results. The data is available at <ext-link ext-link-type="uri" xlink:href="http://doi.org/10.5061/dryad.sqv9s4n0g">http://doi.org/10.5061/dryad.sqv9s4n0g</ext-link>.</p></sec></sec></body><back><ack id="ece35882-sec-0019"><title>ACKNOWLEDGMENTS</title><p>We are grateful for two anonymous reviewers whose comments and suggestions have helped us to increase the quality of our paper. Our sincere thank goes to Jos&#x000e9; Javier Cuervo Os&#x000e9;s and Alfredo Salvador Milla for their assistance in fieldwork. We thank &#x0201c;El Ventorrillo&#x0201d; Field Station of Museo Nacional de Ciencias Naturales, CSIC, for use of their facilities. This work was supported by the &#x000da;NKP&#x02010;17&#x02010;3 New National Excellence Program of the Ministry of Human Capacities (for GeH); Subprograma de Formaci&#x000f3;n de Personal Investigador (# BES&#x02010;2015&#x02010;071805, for GR&#x02010;R); Ministerio de Econom&#x000ed;a y Competitividad project MINECO CGL2014&#x02010;53523&#x02010;P (for JM and PL); the National Research, Development and Innovation Fund for international cooperation (SNN 125627; for GeH and GH); and the Hungarian Scientific Research Fund (# OTKA&#x02010;K 105517 for GH).</p></ack><sec sec-type="data-availability" id="ece35882-sec-0024"><title>DATA AVAILABILITY STATEMENT</title><p>Data from this study are archived in the public archive Dryad (<ext-link ext-link-type="uri" xlink:href="http://datadryad.org" specific-use="software is-supplemented-by">http://datadryad.org</ext-link>) at the <ext-link ext-link-type="uri" xlink:href="http://doi.org/10.5061/dryad.sqv9s4n0g" specific-use="dataset is-supplemented-by">http://doi.org/10.5061/dryad.sqv9s4n0g</ext-link> (Horv&#x000e1;th, Rodr&#x000ed;guez&#x02010;Ruiz, Mart&#x000ed;n, L&#x000f3;pez, &#x00026; Herczeg, <xref rid="ece35882-bib-0055" ref-type="ref">2019</xref>).</p></sec><ref-list content-type="cited-references" id="ece35882-bibl-0001"><title>REFERENCES</title><ref id="ece35882-bib-0001"><mixed-citation publication-type="journal" id="ece35882-cit-0001">
+<string-name>
+<surname>Aguado</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bra&#x000f1;a</surname>, <given-names>F.</given-names>
+</string-name> (<year>2014</year>). <article-title>Thermoregulation in a cold&#x02010;adapted species (Cyren's Rock Lizard, <italic>Iberolacerta cyreni</italic> ): Influence of thermal environment and associated costs</article-title>. <source xml:lang="en">Canadian Journal of Zoology</source>, <volume>92</volume>, <fpage>955</fpage>&#x02013;<lpage>964</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0002"><mixed-citation publication-type="journal" id="ece35882-cit-0002">
+<string-name>
+<surname>Arag&#x000f3;n</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name> (<year>2004</year>). <article-title>The ontogeny of spatio&#x02010;temporal tactics and social relationships of adult male Iberian rock lizards, <italic>Lacerta monticola</italic>
+</article-title>. <source xml:lang="en">Ethology</source>, <volume>110</volume>, <fpage>1001</fpage>&#x02013;<lpage>1019</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0003"><mixed-citation publication-type="journal" id="ece35882-cit-0003">
+<string-name>
+<surname>Araya&#x02010;Ajoy</surname>, <given-names>Y. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dingemanse</surname>, <given-names>N. J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Repeatability, heritability, and age&#x02010;dependence in the aggressiveness reaction norms of a wild passerine bird</article-title>. <source xml:lang="en">Journal of Animal Ecology</source>, <volume>86</volume>, <fpage>227</fpage>&#x02013;<lpage>238</lpage>.<pub-id pub-id-type="pmid">27973682</pub-id></mixed-citation></ref><ref id="ece35882-bib-0004"><mixed-citation publication-type="journal" id="ece35882-cit-0004">
+<string-name>
+<surname>Arnaud</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Suzumura</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Weiss</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Inoue&#x02010;Murayama</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Genes, social transmission, but not maternal effects influence responses of wild Japanese macaques (<italic>Macaca fuscata</italic>) to novel&#x02010;object and novel&#x02010;food tests</article-title>. <source xml:lang="en">Primates</source>, <volume>58</volume>, <fpage>103</fpage>&#x02013;<lpage>113</lpage>. <pub-id pub-id-type="doi">10.1007/s10329-016-0572-9</pub-id>
+<pub-id pub-id-type="pmid">27619670</pub-id></mixed-citation></ref><ref id="ece35882-bib-0005"><mixed-citation publication-type="book" id="ece35882-cit-0005">
+<string-name>
+<surname>Barto&#x00144;</surname>, <given-names>K.</given-names>
+</string-name> (<year>2016</year>). <source xml:lang="en">MuMIn: Multi&#x02010;model inference</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/package=MuMIn">https://cran.r-project.org/package=MuMIn</ext-link>
+</mixed-citation></ref><ref id="ece35882-bib-0006"><mixed-citation publication-type="journal" id="ece35882-cit-0006">
+<string-name>
+<surname>Barton</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Partridge</surname>, <given-names>L.</given-names>
+</string-name> (<year>2000</year>). <article-title>Limits to natural selection</article-title>. <source xml:lang="en">BioEssays</source>, <volume>22</volume>, <fpage>1075</fpage>&#x02013;<lpage>1084</lpage>. <pub-id pub-id-type="doi">10.1002/1521-1878(200012)22:12&#x0003c;1075:AID-BIES5&#x0003e;3.0.CO;2-M</pub-id>
+<pub-id pub-id-type="pmid">11084623</pub-id></mixed-citation></ref><ref id="ece35882-bib-0007"><mixed-citation publication-type="journal" id="ece35882-cit-0007">
+<string-name>
+<surname>Bates</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000e4;chler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bolker</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Walker</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Fitting linear mixed&#x02010;effects models using lme4</article-title>. <source xml:lang="en">Journal of Statistical Software</source>, <volume>67</volume>, <fpage>1</fpage>&#x02013;<lpage>48</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0008"><mixed-citation publication-type="journal" id="ece35882-cit-0008">
+<string-name>
+<surname>Bauwens</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Garland</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Castilla</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Van Damme</surname>, <given-names>R.</given-names>
+</string-name> (<year>1995</year>). <article-title>Evolution of sprint speed in lacertid lizards: Morphological, physiological and behavioural covariation</article-title>. <source xml:lang="en">Evolution</source>, <volume>49</volume>, <fpage>848</fpage>&#x02013;<lpage>863</lpage>.<pub-id pub-id-type="pmid">28564867</pub-id></mixed-citation></ref><ref id="ece35882-bib-0009"><mixed-citation publication-type="journal" id="ece35882-cit-0009">
+<string-name>
+<surname>Bebus</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Small</surname>, <given-names>T. W.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>B. C.</given-names>
+</string-name>, <string-name>
+<surname>Elderbrock</surname>, <given-names>E. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schoech</surname>, <given-names>S. J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Associative learning is inversely related to reversal learning and varies with nestling corticosterone exposure</article-title>. <source xml:lang="en">Animal Behavior</source>, <volume>111</volume>, <fpage>251</fpage>&#x02013;<lpage>260</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2015.10.027</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0010"><mixed-citation publication-type="journal" id="ece35882-cit-0010">
+<string-name>
+<surname>Bell</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Hankison</surname>, <given-names>S. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Laskowski</surname>, <given-names>K. L.</given-names>
+</string-name> (<year>2009</year>). <article-title>The repeatability of behaviour: A meta&#x02010;analysis</article-title>. <source xml:lang="en">Animal Behavior</source>, <volume>77</volume>, <fpage>771</fpage>&#x02013;<lpage>783</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2008.12.022</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0011"><mixed-citation publication-type="journal" id="ece35882-cit-0011">
+<string-name>
+<surname>Belliure</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sorci</surname>, <given-names>G.</given-names>
+</string-name> (<year>2004</year>). <article-title>Effect of testosterone on T cell&#x02010;mediated immunity in two species of Mediterranean lacertid lizards</article-title>. <source xml:lang="en">Journal of Experimental Zoology. Part A. Comparative Experimental Biology</source>, <volume>301</volume>, <fpage>411</fpage>&#x02013;<lpage>418</lpage>. <pub-id pub-id-type="doi">10.1002/jez.a.20068</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0012"><mixed-citation publication-type="journal" id="ece35882-cit-0012">
+<string-name>
+<surname>Bergeron</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Baeta</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Pelletier</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>R&#x000e9;ale</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Garant</surname>, <given-names>D.</given-names>
+</string-name> (<year>2011</year>). <article-title>Individual quality: Tautology or biological reality?</article-title>
+<source xml:lang="en">Journal of Animal Ecology</source>, <volume>80</volume>, <fpage>361</fpage>&#x02013;<lpage>364</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2656.2010.01770.x</pub-id>
+<pub-id pub-id-type="pmid">21054382</pub-id></mixed-citation></ref><ref id="ece35882-bib-0013"><mixed-citation publication-type="journal" id="ece35882-cit-0013">
+<string-name>
+<surname>Bijleveld</surname>, <given-names>A. I.</given-names>
+</string-name>, <string-name>
+<surname>Massourakis</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>van der Marel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dekinga</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Spaans</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>van Gils</surname>, <given-names>J. A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Piersma</surname>, <given-names>T.</given-names>
+</string-name> (<year>2014</year>). <article-title>Personality drives physiological adjustments and is not related to survival</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>281</volume>, <fpage>20133135</fpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2013.3135</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0014"><mixed-citation publication-type="journal" id="ece35882-cit-0014">
+<string-name>
+<surname>Biro</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Do rapid assays predict repeatability in labile (behavioural) traits?</article-title>
+<source xml:lang="en">Animal Behavior</source>, <volume>83</volume>, <fpage>1295</fpage>&#x02013;<lpage>1300</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2012.01.036</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0015"><mixed-citation publication-type="journal" id="ece35882-cit-0015">
+<string-name>
+<surname>Biro</surname>, <given-names>P. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Adriaenssens</surname>, <given-names>B.</given-names>
+</string-name> (<year>2013</year>). <article-title>Predictability as a personality trait: Consistent differences in intraindividual behavioral variation</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>182</volume>, <fpage>621</fpage>&#x02013;<lpage>629</lpage>. <pub-id pub-id-type="doi">10.1086/673213</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0016"><mixed-citation publication-type="journal" id="ece35882-cit-0016">
+<string-name>
+<surname>Biro</surname>, <given-names>P. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stamps</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2008</year>). <article-title>Are animal personality traits linked to life&#x02010;history productivity?</article-title>
+<source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>23</volume>, <fpage>361</fpage>&#x02013;<lpage>368</lpage>.<pub-id pub-id-type="pmid">18501468</pub-id></mixed-citation></ref><ref id="ece35882-bib-0017"><mixed-citation publication-type="journal" id="ece35882-cit-0017">
+<string-name>
+<surname>Bokony</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Lendvai</surname>, <given-names>A. Z.</given-names>
+</string-name>, <string-name>
+<surname>Vagasi</surname>, <given-names>C. I.</given-names>
+</string-name>, <string-name>
+<surname>Patras</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Pap</surname>, <given-names>P. L.</given-names>
+</string-name>, <string-name>
+<surname>Nemeth</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Liker</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Necessity or capacity? Physiological state predicts problem&#x02010;solving performance in house sparrows</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>25</volume>, <fpage>124</fpage>&#x02013;<lpage>135</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/art094</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0018"><mixed-citation publication-type="journal" id="ece35882-cit-0018">
+<string-name>
+<surname>Brembs</surname>, <given-names>B.</given-names>
+</string-name> (<year>2011</year>). <article-title>Towards a scientific concept of free will as a biological trait: Spontaneous actions and decision&#x02010;making in invertebrates</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>278</volume>, <fpage>930</fpage>&#x02013;<lpage>939</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2010.2325</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0019"><mixed-citation publication-type="journal" id="ece35882-cit-0019">
+<string-name>
+<surname>Briffa</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Plastic proteans: Reduced predictability in the face of predation risk in hermit crabs</article-title>. <source xml:lang="en">Biology Letters</source>, <volume>9</volume>, <fpage>20130592</fpage>
+<pub-id pub-id-type="doi">10.1098/rsbl.2013.0592</pub-id>
+<pub-id pub-id-type="pmid">23985348</pub-id></mixed-citation></ref><ref id="ece35882-bib-0020"><mixed-citation publication-type="journal" id="ece35882-cit-0020">
+<string-name>
+<surname>Briffa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bridger</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Biro</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2013</year>). <article-title>How does temperature affect behaviour? Multilevel analysis of plasticity, personality and predictability in hermit crabs</article-title>. <source xml:lang="en">Animal Behavior</source>, <volume>86</volume>, <fpage>47</fpage>&#x02013;<lpage>54</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2013.04.009</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0021"><mixed-citation publication-type="journal" id="ece35882-cit-0021">
+<string-name>
+<surname>Brodin</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Johansson</surname>, <given-names>F.</given-names>
+</string-name> (<year>2004</year>). <article-title>Conflicting selection pressures on the growth/predation risk trade&#x02010;off in a damselfly</article-title>. <source xml:lang="en">Ecology</source>, <volume>85</volume>, <fpage>2927</fpage>&#x02013;<lpage>2932</lpage>. <pub-id pub-id-type="doi">10.1890/03-3120</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0022"><mixed-citation publication-type="journal" id="ece35882-cit-0022">
+<string-name>
+<surname>Cadby</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>S. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wapstra</surname>, <given-names>E.</given-names>
+</string-name> (<year>2010</year>). <article-title>Are increased concentrations of maternal corticosterone adaptive to offspring? A test using a placentotrophic lizard</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>24</volume>, <fpage>409</fpage>&#x02013;<lpage>416</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2435.2009.01637.x</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0023"><mixed-citation publication-type="journal" id="ece35882-cit-0023">
+<string-name>
+<surname>Carere</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Caramaschi</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fawcett</surname>, <given-names>T. W.</given-names>
+</string-name> (<year>2010</year>). <article-title>Covariation between personalities and individual differences in coping with stress: Converging evidence and hypotheses</article-title>. <source xml:lang="en">Current Zoology</source>, <volume>56</volume>, <fpage>728</fpage>&#x02013;<lpage>741</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0024"><mixed-citation publication-type="journal" id="ece35882-cit-0024">
+<string-name>
+<surname>Chang</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Teo</surname>, <given-names>H. Y.</given-names>
+</string-name>, <string-name>
+<surname>Norma&#x02010;Rashid</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Li</surname>, <given-names>D.</given-names>
+</string-name> (<year>2017</year>). <article-title>Predator personality and prey behavioural predictability jointly determine foraging performance</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>7</volume>, <fpage>1</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1038/srep40734</pub-id>
+<pub-id pub-id-type="pmid">28127051</pub-id></mixed-citation></ref><ref id="ece35882-bib-0025"><mixed-citation publication-type="journal" id="ece35882-cit-0025">
+<string-name>
+<surname>Clobert</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Oppliger</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sorci</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Ernande</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Swallow</surname>, <given-names>J. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Garland</surname>, <given-names>T.</given-names>
+</string-name> (<year>2000</year>). <article-title>Trade&#x02010;offs in phenotypic traits: Endurance at birth, growth, survival, predation and susceptibility to parasitism in a lizard, <italic>Lacerta vivipara</italic>
+</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>14</volume>, <fpage>675</fpage>&#x02013;<lpage>684</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2435.2000.00477.x</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0026"><mixed-citation publication-type="journal" id="ece35882-cit-0026">
+<string-name>
+<surname>Cockrem</surname>, <given-names>J. F.</given-names>
+</string-name> (<year>2007</year>). <article-title>Stress, corticosterone responses and avian personalities</article-title>. <source xml:lang="en">Journal of Ornithology</source>, <volume>148</volume>, <fpage>169</fpage>&#x02013;<lpage>178</lpage>. <pub-id pub-id-type="doi">10.1007/s10336-007-0175-8</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0027"><mixed-citation publication-type="journal" id="ece35882-cit-0027">
+<string-name>
+<surname>Collins</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name>
+<surname>Self</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>R. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McBrayer</surname>, <given-names>L. D.</given-names>
+</string-name> (<year>2013</year>). <article-title>Rock&#x02010;dwelling lizards exhibit less sensitivity of sprint speed to increases in substrate rugosity</article-title>. <source xml:lang="en">Zoology</source>, <volume>116</volume>, <fpage>151</fpage>&#x02013;<lpage>158</lpage>. <pub-id pub-id-type="doi">10.1016/j.zool.2013.01.001</pub-id>
+<pub-id pub-id-type="pmid">23578935</pub-id></mixed-citation></ref><ref id="ece35882-bib-0028"><mixed-citation publication-type="journal" id="ece35882-cit-0028">
+<string-name>
+<surname>Cote</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Clobert</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Meylan</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fitze</surname>, <given-names>P. S.</given-names>
+</string-name> (<year>2006</year>). <article-title>Experimental enhancement of corticosterone levels positively affects subsequent male survival</article-title>. <source xml:lang="en">Hormones and Behavior</source>, <volume>49</volume>, <fpage>320</fpage>&#x02013;<lpage>327</lpage>. <pub-id pub-id-type="doi">10.1016/j.yhbeh.2005.08.004</pub-id>
+<pub-id pub-id-type="pmid">16153645</pub-id></mixed-citation></ref><ref id="ece35882-bib-0029"><mixed-citation publication-type="journal" id="ece35882-cit-0029">
+<string-name>
+<surname>Cote</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Clobert</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Montes Poloni</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Haussy</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Meylan</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>). <article-title>Food deprivation modifies corticosterone&#x02010;dependent behavioural shifts in the common lizard</article-title>. <source xml:lang="en">General and Comparative Endocrinology</source>, <volume>166</volume>, <fpage>142</fpage>&#x02013;<lpage>151</lpage>. <pub-id pub-id-type="doi">10.1016/j.ygcen.2009.11.008</pub-id>
+<pub-id pub-id-type="pmid">19925801</pub-id></mixed-citation></ref><ref id="ece35882-bib-0030"><mixed-citation publication-type="journal" id="ece35882-cit-0030">
+<string-name>
+<surname>Dall</surname>, <given-names>S. R. X.</given-names>
+</string-name>, <string-name>
+<surname>Houston</surname>, <given-names>A. I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McNamara</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2004</year>). <article-title>The behavioural ecology of personality: Consistent individual differences from an adaptive perspective</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>7</volume>, <fpage>734</fpage>&#x02013;<lpage>739</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2004.00618.x</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0031"><mixed-citation publication-type="book" id="ece35882-cit-0031">
+<string-name>
+<surname>Deeming</surname>, <given-names>C. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ferguson</surname>, <given-names>M. W. J.</given-names>
+</string-name> (<year>1991</year>). <source xml:lang="en">Egg incubation: Its effects on embryonic development in birds and reptiles</source>. <publisher-loc>Cambridge, UK</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>.</mixed-citation></ref><ref id="ece35882-bib-0032"><mixed-citation publication-type="journal" id="ece35882-cit-0032">
+<string-name>
+<surname>Dingemanse</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<surname>Kazem</surname>, <given-names>A. J. N.</given-names>
+</string-name>, <string-name>
+<surname>R&#x000e9;ale</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wright</surname>, <given-names>J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Behavioural reaction norms: Animal personality meets individual plasticity</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>25</volume>, <fpage>81</fpage>&#x02013;<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2009.07.013</pub-id>
+<pub-id pub-id-type="pmid">19748700</pub-id></mixed-citation></ref><ref id="ece35882-bib-0033"><mixed-citation publication-type="journal" id="ece35882-cit-0033">
+<string-name>
+<surname>Dingemanse</surname>, <given-names>N. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolf</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Recent models for adaptive personality differences: A review</article-title>. <source xml:lang="en">Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences</source>, <volume>365</volume>, <fpage>3947</fpage>&#x02013;<lpage>3958</lpage>. <pub-id pub-id-type="doi">10.1098/rstb.2010.0221</pub-id>
+<pub-id pub-id-type="pmid">21078647</pub-id></mixed-citation></ref><ref id="ece35882-bib-0034"><mixed-citation publication-type="journal" id="ece35882-cit-0034">
+<string-name>
+<surname>Dingemanse</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kazem</surname>, <given-names>A. J. N.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>D. K.</given-names>
+</string-name>, <string-name>
+<surname>Hickling</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dawnay</surname>, <given-names>N.</given-names>
+</string-name> (<year>2007</year>). <article-title>Behavioural syndromes differ predictably between 12 populations of three&#x02010;spined stickleback</article-title>. <source xml:lang="en">Journal of Animal Ecology</source>, <volume>76</volume>, <fpage>1128</fpage>&#x02013;<lpage>1138</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2656.2007.01284.x</pub-id>
+<pub-id pub-id-type="pmid">17922709</pub-id></mixed-citation></ref><ref id="ece35882-bib-0035"><mixed-citation publication-type="journal" id="ece35882-cit-0035">
+<string-name>
+<surname>DiRienzo</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Montiglio</surname>, <given-names>P. O.</given-names>
+</string-name> (<year>2016</year>). <article-title>The contribution of developmental experience vs. condition to life history, trait variation and individual differences</article-title>. <source xml:lang="en">Journal of Animal Ecology</source>, <volume>85</volume>, <fpage>915</fpage>&#x02013;<lpage>926</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2656.12512</pub-id>
+<pub-id pub-id-type="pmid">26937627</pub-id></mixed-citation></ref><ref id="ece35882-bib-0036"><mixed-citation publication-type="journal" id="ece35882-cit-0036">
+<string-name>
+<surname>DiRienzo</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Niemel&#x000e4;</surname>, <given-names>P. T.</given-names>
+</string-name>, <string-name>
+<surname>Hedrick</surname>, <given-names>A. V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kortet</surname>, <given-names>R.</given-names>
+</string-name> (<year>2016</year>). <article-title>Adult bacterial exposure increases behavioral variation and drives higher repeatability in field crickets</article-title>. <source xml:lang="en">Behavioral Ecology and Sociobiology</source>, <volume>70</volume>, <fpage>1941</fpage>&#x02013;<lpage>1947</lpage>. <pub-id pub-id-type="doi">10.1007/s00265-016-2200-5</pub-id>
+<pub-id pub-id-type="pmid">28584393</pub-id></mixed-citation></ref><ref id="ece35882-bib-0037"><mixed-citation publication-type="journal" id="ece35882-cit-0037">
+<string-name>
+<surname>DiRienzo</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Niemel&#x000e4;</surname>, <given-names>P. T.</given-names>
+</string-name>, <string-name>
+<surname>Skog</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vainikka</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kortet</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Juvenile pathogen exposure affects the presence of personality in adult field crickets</article-title>. <source xml:lang="en">Frontiers in Ecology and Evolution</source>, <volume>3</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.3389/fevo.2015.00036</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0038"><mixed-citation publication-type="journal" id="ece35882-cit-0038">
+<string-name>
+<surname>DiRienzo</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Pruitt</surname>, <given-names>J. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hedrick</surname>, <given-names>A. V.</given-names>
+</string-name> (<year>2012</year>). <article-title>Juvenile exposure to acoustic sexual signals from conspecifics alters growth trajectory and an adult personality trait</article-title>. <source xml:lang="en">Animal Behavior</source>, <volume>84</volume>, <fpage>861</fpage>&#x02013;<lpage>868</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2012.07.007</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0039"><mixed-citation publication-type="journal" id="ece35882-cit-0039">
+<string-name>
+<surname>Dosmann</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>, <given-names>K. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mateo</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Within&#x02010;individual correlations reveal link between a behavioral syndrome, condition, and cortisol in free&#x02010;ranging Belding's ground squirrels</article-title>. <source xml:lang="en">Ethology</source>, <volume>120</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0040"><mixed-citation publication-type="journal" id="ece35882-cit-0040">
+<string-name>
+<surname>Ensminger</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name>
+<surname>Langkilde</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>, <given-names>D. A. S.</given-names>
+</string-name>, <string-name>
+<surname>MacLeod</surname>, <given-names>K. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sheriff</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Maternal stress alters the phenotype of the mother, her eggs, and her offspring in a wild caught lizard</article-title>. <source xml:lang="en">Journal of Animal Ecology</source>, <volume>87</volume>(<issue>6</issue>), <fpage>1685</fpage>&#x02013;<lpage>1697</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2656.12891</pub-id>
+<pub-id pub-id-type="pmid">30074248</pub-id></mixed-citation></ref><ref id="ece35882-bib-0041"><mixed-citation publication-type="journal" id="ece35882-cit-0041">
+<string-name>
+<surname>Farine</surname>, <given-names>D. R.</given-names>
+</string-name>, <string-name>
+<surname>Montiglio</surname>, <given-names>P. O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Spiegel</surname>, <given-names>O.</given-names>
+</string-name> (<year>2015</year>). <article-title>From individuals to groups and back: The evolutionary implications of group phenotypic composition</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>30</volume>, <fpage>609</fpage>&#x02013;<lpage>621</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2015.07.005</pub-id>
+<pub-id pub-id-type="pmid">26411618</pub-id></mixed-citation></ref><ref id="ece35882-bib-0042"><mixed-citation publication-type="journal" id="ece35882-cit-0042">
+<string-name>
+<surname>Garamszegi</surname>, <given-names>L. Z.</given-names>
+</string-name>, <string-name>
+<surname>Mark&#x000f3;</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Herczeg</surname>, <given-names>G.</given-names>
+</string-name> (<year>2012</year>). <article-title>A meta&#x02010;analysis of correlated behaviours with implications for behavioural syndromes: Mean effect size, publication bias, phylogenetic effects and the role of mediator variables</article-title>. <source xml:lang="en">Evolutionary Ecology</source>, <volume>26</volume>, <fpage>1213</fpage>&#x02013;<lpage>1235</lpage>. <pub-id pub-id-type="doi">10.1007/s10682-012-9589-8</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0043"><mixed-citation publication-type="journal" id="ece35882-cit-0043">
+<string-name>
+<surname>Garamszegi</surname>, <given-names>L. Z.</given-names>
+</string-name>, <string-name>
+<surname>Mark&#x000f3;</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Sz&#x000e1;sz</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Zseb&#x00151;k</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Azc&#x000e1;rate</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Herczeg</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>T&#x000f6;r&#x000f6;k</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Among&#x02010;year variation in the repeatability, within&#x02010; and between&#x02010;individual, and phenotypic correlations of behaviors in a natural population</article-title>. <source xml:lang="en">Behavioral Ecology and Sociobiology</source>, <volume>69</volume>, <fpage>2005</fpage>&#x02013;<lpage>2017</lpage>. <pub-id pub-id-type="doi">10.1007/s00265-015-2012-z</pub-id>
+<pub-id pub-id-type="pmid">26586925</pub-id></mixed-citation></ref><ref id="ece35882-bib-0044"><mixed-citation publication-type="journal" id="ece35882-cit-0044">
+<string-name>
+<surname>Garamszegi</surname>, <given-names>L. Z.</given-names>
+</string-name>, <string-name>
+<surname>Rosivall</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Rettenbacher</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mark&#x000f3;</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zseb&#x00151;k</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sz&#x000f6;ll&#x00151;si</surname>, <given-names>E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>T&#x000f6;r&#x000f6;k</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Corticosterone, avoidance of novelty, risk&#x02010;taking and aggression in a wild bird: No evidence for pleiotropic effects</article-title>. <source xml:lang="en">Ethology</source>, <volume>118</volume>, <fpage>621</fpage>&#x02013;<lpage>635</lpage>. <pub-id pub-id-type="doi">10.1111/j.1439-0310.2012.02049.x</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0045"><mixed-citation publication-type="journal" id="ece35882-cit-0045">
+<string-name>
+<surname>Garland</surname>, <given-names>T.</given-names>, <suffix>Jr.</suffix>
+</string-name>, <string-name>
+<surname>Hankins</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Huey</surname>, <given-names>R. B.</given-names>
+</string-name> (<year>1990</year>). <article-title>Locomotor capacity and social dominance in male lizards</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>4</volume>, <fpage>243</fpage>&#x02010;<lpage>250</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0046"><mixed-citation publication-type="journal" id="ece35882-cit-0046">
+<string-name>
+<surname>Ghio</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Leblanc</surname>, <given-names>A. B.</given-names>
+</string-name>, <string-name>
+<surname>Audet</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Aubin&#x02010;Horth</surname>, <given-names>N.</given-names>
+</string-name> (<year>2016</year>). <article-title>Effects of maternal stress and cortisol exposure at the egg stage on learning, boldness and neophobia in brook trout</article-title>. <source xml:lang="en">Behaviour</source>, <volume>153</volume>, <fpage>1639</fpage>&#x02013;<lpage>1663</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0047"><mixed-citation publication-type="journal" id="ece35882-cit-0047">
+<string-name>
+<surname>Gomes</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Carretero</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kaliontzopoulou</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>The relevance of morphology for habitat use and locomotion in two species of wall lizards</article-title>. <source xml:lang="en">Acta Oecologica</source>, <volume>70</volume>, <fpage>87</fpage>&#x02013;<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1016/j.actao.2015.12.005</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0048"><mixed-citation publication-type="journal" id="ece35882-cit-0048">
+<string-name>
+<surname>Gomes</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Carretero</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kaliontzopoulou</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Instantaneous versus interval speed estimates of maximum locomotor capacities for whole&#x02010;organism performance studies</article-title>. <source xml:lang="en">Evolutionary Biology</source>, <volume>44</volume>, <fpage>551</fpage>&#x02013;<lpage>560</lpage>. <pub-id pub-id-type="doi">10.1007/s11692-017-9426-7</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0049"><mixed-citation publication-type="journal" id="ece35882-cit-0049">
+<string-name>
+<surname>Gosling</surname>, <given-names>S. D.</given-names>
+</string-name> (<year>2008</year>). <article-title>Personality in non&#x02010;human animals</article-title>. <source xml:lang="en">Social and Personality Psychology Compass</source>, <volume>2</volume>, <fpage>985</fpage>&#x02013;<lpage>1001</lpage>. <pub-id pub-id-type="doi">10.1111/j.1751-9004.2008.00087.x</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0050"><mixed-citation publication-type="journal" id="ece35882-cit-0050">
+<string-name>
+<surname>Highcock</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Carter</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Intraindividual variability of boldness is repeatable across contexts in a wild lizard</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>9</volume>, <elocation-id>e95179</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0095179</pub-id>
+<pub-id pub-id-type="pmid">24733271</pub-id></mixed-citation></ref><ref id="ece35882-bib-0051"><mixed-citation publication-type="journal" id="ece35882-cit-0051">
+<string-name>
+<surname>Hinde</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Skibiel</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Foster</surname>, <given-names>A. B.</given-names>
+</string-name>, <string-name>
+<surname>Rosso</surname>, <given-names>L. D.</given-names>
+</string-name>, <string-name>
+<surname>Mendoza</surname>, <given-names>S. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Capitanio</surname>, <given-names>J. P.</given-names>
+</string-name> (<year>2015</year>). <article-title>Cortisol in mother's milk across lactation reflects maternal life history and predicts infant temperament</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>26</volume>, <fpage>269</fpage>&#x02013;<lpage>281</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/aru186</pub-id>
+<pub-id pub-id-type="pmid">25713475</pub-id></mixed-citation></ref><ref id="ece35882-bib-0052"><mixed-citation publication-type="journal" id="ece35882-cit-0052">
+<string-name>
+<surname>Horv&#x000e1;th</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Garamszegi</surname>, <given-names>L. Z.</given-names>
+</string-name>, <string-name>
+<surname>Bert&#x000f3;k</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Herczeg</surname>, <given-names>G.</given-names>
+</string-name> (<year>2016</year>). <article-title>Blood parasite infection intensity covaries with risk&#x02010;taking personality in male Carpetan rock lizards (<italic>Iberolacerta cyreni</italic>)</article-title>. <source xml:lang="en">Ethology</source>, <volume>122</volume>, <fpage>355</fpage>&#x02013;<lpage>363</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0053"><mixed-citation publication-type="journal" id="ece35882-cit-0053">
+<string-name>
+<surname>Horv&#x000e1;th</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Garamszegi</surname>, <given-names>L. Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Herczeg</surname>, <given-names>G.</given-names>
+</string-name> (<year>2017</year>). <article-title>Food and vitamin D3 availability affects lizard personalities: An experiment</article-title>. <source xml:lang="en">Behavioral Ecology and Sociobiology</source>, <volume>71</volume>, <fpage>27</fpage>
+<pub-id pub-id-type="doi">10.1007/s00265-016-2257-1</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0054"><mixed-citation publication-type="journal" id="ece35882-cit-0054">
+<string-name>
+<surname>Horv&#x000e1;th</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000e9;sz&#x000e1;ros</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ursz&#x000e1;n</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name>
+<surname>Bajer</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Moln&#x000e1;r</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Garamszegi</surname>, <given-names>L. Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Herczeg</surname>, <given-names>G.</given-names>
+</string-name> (<year>2017</year>). <article-title>Environment&#x02010;dependence of behavioural consistency in adult male European green lizards (<italic>Lacerta viridis</italic>)</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>12</volume>, <elocation-id>e0187657</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0187657</pub-id>
+<pub-id pub-id-type="pmid">29112964</pub-id></mixed-citation></ref><ref id="ece35882-bib-0055"><mixed-citation publication-type="data" id="ece35882-cit-0055">
+<string-name>
+<surname>Horv&#x000e1;th</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Rodr&#x000ed;guez&#x02010;Ruiz</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Herczeg</surname>, <given-names>G.</given-names>
+</string-name> (<year>2019</year>). <data-title>Maternal diet affects juvenile Carpetan rock lizard performance and personality</data-title>
+<source>Ecology and Evolution</source>, <pub-id pub-id-type="doi">10.1002/ece3.5882</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0056"><mixed-citation publication-type="book" id="ece35882-cit-0056">
+<string-name>
+<surname>Houston</surname>, <given-names>A. I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McNamara</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>1999</year>). <source xml:lang="en">Models of adaptive behaviour: An approach based on state</source> (<edition designator="1">1st ed.</edition>). <publisher-loc>Cambridge, UK</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>.</mixed-citation></ref><ref id="ece35882-bib-0057"><mixed-citation publication-type="journal" id="ece35882-cit-0057">
+<string-name>
+<surname>Husak</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Ferguson</surname>, <given-names>H. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lovern</surname>, <given-names>M. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Trade&#x02010;offs among locomotor performance, reproduction and immunity in lizards</article-title>. <source xml:lang="en">Functional Ecology</source>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2435.12653</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0058"><mixed-citation publication-type="journal" id="ece35882-cit-0058">
+<string-name>
+<surname>Ioannou</surname>, <given-names>C. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dall</surname>, <given-names>S. R. X.</given-names>
+</string-name> (<year>2016</year>). <article-title>Individuals that are consistent in risk&#x02010;taking benefit during collective foraging</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>6</volume>, <fpage>33991</fpage>.<pub-id pub-id-type="pmid">27671145</pub-id></mixed-citation></ref><ref id="ece35882-bib-0059"><mixed-citation publication-type="journal" id="ece35882-cit-0059">
+<string-name>
+<surname>Irschick</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Garland</surname>, <given-names>T.</given-names>
+</string-name> (<year>2001</year>). <article-title>Integrating function and ecology in studies of adaptation: Investigations of locomotor capacity as a model system</article-title>. <source xml:lang="en">Annual Review of Ecology and Systematics</source>, <volume>32</volume>, <fpage>367</fpage>&#x02013;<lpage>396</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.32.081501.114048</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0060"><mixed-citation publication-type="journal" id="ece35882-cit-0060">
+<string-name>
+<surname>Irschick</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Herrel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vanhooydonck</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Huyghe</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Van Damme</surname>, <given-names>R.</given-names>
+</string-name> (<year>2005</year>). <article-title>Locomotor compensation creates a mismatch between laboratory and field estimates of escape speed in lizards: A cautionary tale for performance&#x02010;to&#x02010;fitness studies</article-title>. <source xml:lang="en">Evolution</source>, <volume>59</volume>, <fpage>1579</fpage>&#x02013;<lpage>1587</lpage>.<pub-id pub-id-type="pmid">16153043</pub-id></mixed-citation></ref><ref id="ece35882-bib-0061"><mixed-citation publication-type="journal" id="ece35882-cit-0061">
+<string-name>
+<surname>Irschick</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Meyers</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Husak</surname>, <given-names>J. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Le Galliard</surname>, <given-names>J. F.</given-names>
+</string-name> (<year>2008</year>). <article-title>How does selection operate on whole&#x02010;organism functional performance capacities? A review and synthesis</article-title>. <source xml:lang="en">Evolutionary Ecology Research</source>, <volume>10</volume>, <fpage>177</fpage>&#x02013;<lpage>196</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0062"><mixed-citation publication-type="journal" id="ece35882-cit-0062">
+<string-name>
+<surname>Jones</surname>, <given-names>B. C.</given-names>
+</string-name>, <string-name>
+<surname>Bebus</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Ferguson</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Bateman</surname>, <given-names>P. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schoech</surname>, <given-names>S. J.</given-names>
+</string-name> (<year>2016</year>). <article-title>The glucocorticoid response in a free&#x02010;living bird predicts whether long&#x02010;lasting memories fade or strengthen with time</article-title>. <source xml:lang="en">Animal Behavior</source>, <volume>122</volume>, <fpage>157</fpage>&#x02013;<lpage>168</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2016.10.009</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0063"><mixed-citation publication-type="journal" id="ece35882-cit-0063">
+<string-name>
+<surname>Karsten</surname>, <given-names>K. B.</given-names>
+</string-name>, <string-name>
+<surname>Ferguson</surname>, <given-names>G. W.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>T. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Holick</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2009</year>). <article-title>Panther chameleons, <italic>Furcifer pardalis</italic>, behaviorally regulate optimal exposure to UV depending on dietary vitamin D3 status</article-title>. <source xml:lang="en">Physiological and Biochemical Zoology</source>, <volume>82</volume>, <fpage>218</fpage>&#x02013;<lpage>225</lpage>.<pub-id pub-id-type="pmid">19335229</pub-id></mixed-citation></ref><ref id="ece35882-bib-0064"><mixed-citation publication-type="journal" id="ece35882-cit-0064">
+<string-name>
+<surname>Koolhaas</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Korte</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>De Boer</surname>, <given-names>S. F.</given-names>
+</string-name>, <string-name>
+<surname>Van Der Vegt</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Van Reenen</surname>, <given-names>C. G.</given-names>
+</string-name>, <string-name>
+<surname>Hopster</surname>, <given-names>H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Blokhuis</surname>, <given-names>H. J.</given-names>
+</string-name> (<year>1999</year>). <article-title>Coping styles in animals: Current status in behavior and stress&#x02010; physiology</article-title>. <source xml:lang="en">Neuroscience and Biobehavioral Reviews</source>, <volume>23</volume>, <fpage>925</fpage>&#x02013;<lpage>935</lpage>. <pub-id pub-id-type="doi">10.1016/S0149-7634(99)00026-3</pub-id>
+<pub-id pub-id-type="pmid">10580307</pub-id></mixed-citation></ref><ref id="ece35882-bib-0065"><mixed-citation publication-type="journal" id="ece35882-cit-0065">
+<string-name>
+<surname>Krause</surname>, <given-names>E. T.</given-names>
+</string-name>, <string-name>
+<surname>Kr&#x000fc;ger</surname>, <given-names>O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schielzeth</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>). <article-title>Long&#x02010;term effects of early nutrition and environmental matching on developmental and personality traits in zebra finches</article-title>. <source xml:lang="en">Animal Behavior</source>, <volume>128</volume>, <fpage>103</fpage>&#x02013;<lpage>115</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2017.04.003</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0066"><mixed-citation publication-type="book" id="ece35882-cit-0066">
+<string-name>
+<surname>Kuznetsova</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Brockhoff</surname>, <given-names>P. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Christensen</surname>, <given-names>R. H. B.</given-names>
+</string-name> (<year>2016</year>). <source xml:lang="en">lmerTest: Tests in linear mixed effects models</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/package=lmerTest">https://cran.r-project.org/package=lmerTest</ext-link>
+</mixed-citation></ref><ref id="ece35882-bib-0067"><mixed-citation publication-type="journal" id="ece35882-cit-0067">
+<string-name>
+<surname>Laing</surname>, <given-names>C. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fraser</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>1999</year>). <article-title>The vitamin D system in iguanian lizards</article-title>. <source xml:lang="en">Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology</source>, <volume>123</volume>, <fpage>373</fpage>&#x02013;<lpage>379</lpage>. <pub-id pub-id-type="doi">10.1016/S0305-0491(99)00081-4</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0068"><mixed-citation publication-type="journal" id="ece35882-cit-0068">
+<string-name>
+<surname>Langenhof</surname>, <given-names>M. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Komdeur</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Why and how the early&#x02010;life environment affects development of coping behaviours</article-title>. <source xml:lang="en">Behavioral Ecology and Sociobiology</source>, <volume>72</volume>, <fpage>34</fpage>
+<pub-id pub-id-type="doi">10.1007/s00265-018-2452-3</pub-id>
+<pub-id pub-id-type="pmid">29449757</pub-id></mixed-citation></ref><ref id="ece35882-bib-0069"><mixed-citation publication-type="journal" id="ece35882-cit-0069">
+<string-name>
+<surname>Langkilde</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shine</surname>, <given-names>R.</given-names>
+</string-name> (<year>2006</year>). <article-title>How much stress do researchers inflict on their study animals? A case study using a scincid lizard, <italic>Eulamprus heatwolei</italic>
+</article-title>. <source xml:lang="en">Journal of Experimental Biology</source>, <volume>209</volume>, <fpage>1035</fpage>&#x02013;<lpage>1043</lpage>. <pub-id pub-id-type="doi">10.1242/jeb.02112</pub-id>
+<pub-id pub-id-type="pmid">16513929</pub-id></mixed-citation></ref><ref id="ece35882-bib-0070"><mixed-citation publication-type="journal" id="ece35882-cit-0070">
+<string-name>
+<surname>Lanham</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Habgood</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Burne</surname>, <given-names>T. H. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Eyles</surname>, <given-names>D. W.</given-names>
+</string-name> (<year>2013</year>). <article-title>Effect of vitamin D deficiency during pregnancy on offspring bone structure, composition and quality in later life</article-title>. <source xml:lang="en">Journal of Developmental Origins of Health and Disease</source>. <volume>4</volume>, <fpage>49</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">25080182</pub-id></mixed-citation></ref><ref id="ece35882-bib-0071"><mixed-citation publication-type="journal" id="ece35882-cit-0071">
+<string-name>
+<surname>Lichtenstein</surname>, <given-names>J. L. L.</given-names>
+</string-name>, <string-name>
+<surname>Chism</surname>, <given-names>G. T.</given-names>
+</string-name>, <string-name>
+<surname>Kamath</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pruitt</surname>, <given-names>J. N.</given-names>
+</string-name> (<year>2017</year>). <article-title>Intraindividual behavioral variability predicts foraging outcome in a beach&#x02010;dwelling jumping spider</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>7</volume>, <fpage>18063</fpage>.<pub-id pub-id-type="pmid">29273746</pub-id></mixed-citation></ref><ref id="ece35882-bib-0072"><mixed-citation publication-type="journal" id="ece35882-cit-0072">
+<string-name>
+<surname>Lichtenstein</surname>, <given-names>J. L. L.</given-names>
+</string-name>, <string-name>
+<surname>DiRienzo</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Knutson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kuo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>K. C.</given-names>
+</string-name>, <string-name>
+<surname>Brittingham</surname>, <given-names>H. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Pruitt</surname>, <given-names>J. N.</given-names>
+</string-name> (<year>2016</year>). <article-title>Prolonged food restriction decreases body condition and reduces repeatability in personality traits in web&#x02010;building spiders</article-title>. <source xml:lang="en">Behavioral Ecology and Sociobiology</source>, <volume>70</volume>, <fpage>1793</fpage>&#x02013;<lpage>1803</lpage>. <pub-id pub-id-type="doi">10.1007/s00265-016-2184-1</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0073"><mixed-citation publication-type="journal" id="ece35882-cit-0073">
+<string-name>
+<surname>L&#x000f3;pez</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name> (<year>2002</year>). <article-title>Locomotor capacity and dominance in male lizards <italic>Lacerta monticola</italic>: A trade&#x02010;off between survival and reproductive success?</article-title>
+<source xml:lang="en">Biological Journal of the Linnean Society</source>, <volume>77</volume>, <fpage>201</fpage>&#x02013;<lpage>209</lpage>. <pub-id pub-id-type="doi">10.1046/j.1095-8312.2002.00103.x</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0074"><mixed-citation publication-type="journal" id="ece35882-cit-0074">
+<string-name>
+<surname>Luk</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Torrealday</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Perry</surname>, <given-names>G. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pal</surname>, <given-names>L.</given-names>
+</string-name> (<year>2012</year>). <article-title>Relevance of vitamin D in reproduction</article-title>. <source xml:lang="en">Human Reproduction</source>, <volume>27</volume>, <fpage>3015</fpage>&#x02013;<lpage>3027</lpage>. <pub-id pub-id-type="doi">10.1093/humrep/des248</pub-id>
+<pub-id pub-id-type="pmid">22824625</pub-id></mixed-citation></ref><ref id="ece35882-bib-0075"><mixed-citation publication-type="journal" id="ece35882-cit-0075">
+<string-name>
+<surname>Luttbeg</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sih</surname>, <given-names>A.</given-names>
+</string-name> (<year>2010</year>). <article-title>Risk, resources and state&#x02010;dependent adaptive behavioural syndromes</article-title>. <source xml:lang="en">Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences</source>, <volume>365</volume>, <fpage>3977</fpage>&#x02013;<lpage>3990</lpage>. <pub-id pub-id-type="doi">10.1098/rstb.2010.0207</pub-id>
+<pub-id pub-id-type="pmid">21078650</pub-id></mixed-citation></ref><ref id="ece35882-bib-0076"><mixed-citation publication-type="book" id="ece35882-cit-0076">
+<string-name>
+<surname>Lynch</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Walsh</surname>, <given-names>B.</given-names>
+</string-name> (<year>1998</year>). <source xml:lang="en">Genetics and analysis of quantitative traits</source>. <publisher-loc>Sunderland, MA</publisher-loc>: <publisher-name>Sinauer Associates Inc</publisher-name>.</mixed-citation></ref><ref id="ece35882-bib-0077"><mixed-citation publication-type="journal" id="ece35882-cit-0077">
+<string-name>
+<surname>MacDougall&#x02010;Shackleton</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Bonier</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Romero</surname>, <given-names>L. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Moore</surname>, <given-names>I. T.</given-names>
+</string-name> (<year>2019</year>). <article-title>Glucocorticoids and &#x0201c;Stress&#x0201d; are not synonymous</article-title>. <source xml:lang="en">Integrative Organismal Biology</source>, <volume>1</volume>, <fpage>obz017</fpage>
+<pub-id pub-id-type="doi">10.1093/iob/obz017</pub-id>.</mixed-citation></ref><ref id="ece35882-bib-0078"><mixed-citation publication-type="journal" id="ece35882-cit-0078">
+<string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>L&#x000f3;pez</surname>, <given-names>P.</given-names>
+</string-name> (<year>1995</year>). <article-title>Escape behaviour of juvenile <italic>Psammodromus algirus</italic> lizards: Constraint of or compensation for limitations in body size?</article-title>
+<source xml:lang="en">Behaviour</source>, <volume>132</volume>, <fpage>181</fpage>&#x02013;<lpage>192</lpage>. <pub-id pub-id-type="doi">10.1163/156853995X00685</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0079"><mixed-citation publication-type="journal" id="ece35882-cit-0079">
+<string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>L&#x000f3;pez</surname>, <given-names>P.</given-names>
+</string-name> (<year>1999</year>). <article-title>When to come out from a refuge: Risk&#x02010;sensitive and state&#x02010;dependent decisions in an alpine lizard</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>10</volume>, <fpage>487</fpage>&#x02013;<lpage>492</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/10.5.487</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0080"><mixed-citation publication-type="journal" id="ece35882-cit-0080">
+<string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>L&#x000f3;pez</surname>, <given-names>P.</given-names>
+</string-name> (<year>2000</year>). <article-title>Chemoreception, symmetry and mate choice in lizards</article-title>. <source xml:lang="en">Proceedings of the Royal Society of London. Series B: Biological Sciences</source>, <volume>267</volume>, <fpage>1265</fpage>&#x02013;<lpage>1269</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2000.1137</pub-id>
+<pub-id pub-id-type="pmid">10972119</pub-id></mixed-citation></ref><ref id="ece35882-bib-0081"><mixed-citation publication-type="journal" id="ece35882-cit-0081">
+<string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>L&#x000f3;pez</surname>, <given-names>P.</given-names>
+</string-name> (<year>2006</year>). <article-title>Links between male quality, male chemical signals, and female mate choice in Iberian Rock Lizards</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>20</volume>, <fpage>1087</fpage>&#x02013;<lpage>1096</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2435.2006.01183.x</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0082"><mixed-citation publication-type="journal" id="ece35882-cit-0082">
+<string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Salvador</surname>, <given-names>A.</given-names>
+</string-name> (<year>1997</year>). <article-title>Microhabitat selection by the Iberian rock lizard <italic>Lacerta monticola</italic>: Effects on density and spatial distribution of individuals</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>79</volume>, <fpage>303</fpage>&#x02013;<lpage>307</lpage>. <pub-id pub-id-type="doi">10.1016/0006-3207(95)00110-7</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0083"><mixed-citation publication-type="journal" id="ece35882-cit-0083">
+<string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Salvador</surname>, <given-names>A.</given-names>
+</string-name> (<year>1993</year>). <article-title>Tail loss and foraging tactics of the Iberian rock&#x02010;lizard, <italic>Lacerta monticola</italic>
+</article-title>. <source xml:lang="en">Oikos</source>, <volume>66</volume>, <fpage>318</fpage>&#x02013;<lpage>324</lpage>. <pub-id pub-id-type="doi">10.2307/3544820</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0084"><mixed-citation publication-type="journal" id="ece35882-cit-0084">
+<string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Salvador</surname>, <given-names>A.</given-names>
+</string-name> (<year>1995</year>). <article-title>Effects of tail loss on activity patterns of rock&#x02010;lizards, <italic>Lacerta monticola</italic>
+</article-title>. <source xml:lang="en">Copeia</source>, <volume>4</volume>, <fpage>984</fpage>&#x02013;<lpage>988</lpage>. <pub-id pub-id-type="doi">10.2307/1447052</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0085"><mixed-citation publication-type="book" id="ece35882-cit-0085">
+<string-name>
+<surname>Mathot</surname>, <given-names>K. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dingemanse</surname>, <given-names>N. J.</given-names>
+</string-name> (<year>2014</year>). <chapter-title>Plasticity and personality</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Martin</surname><given-names>L. B.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Ghalambor</surname><given-names>C. K.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Woods</surname><given-names>A.</given-names></name></person-group> (Eds.), <source xml:lang="en">Integrative organismal biology</source> (pp. <fpage>55</fpage>&#x02013;<lpage>69</lpage>). <publisher-loc>Hoboken, NJ</publisher-loc>: <publisher-name>John Wiley &#x00026; Sons Inc</publisher-name>.</mixed-citation></ref><ref id="ece35882-bib-0086"><mixed-citation publication-type="journal" id="ece35882-cit-0086">
+<string-name>
+<surname>McCormick</surname>, <given-names>M. I.</given-names>
+</string-name> (<year>2006</year>). <article-title>Mothers matter: Crowding leads to stressed mothers and smaller offspring in marine fish</article-title>. <source xml:lang="en">Ecology</source>, <volume>87</volume>, <fpage>1104</fpage>&#x02013;<lpage>1109</lpage>. <pub-id pub-id-type="doi">10.1890/0012-9658(2006)87[1104:MMCLTS]2.0.CO;2</pub-id>
+<pub-id pub-id-type="pmid">16761587</pub-id></mixed-citation></ref><ref id="ece35882-bib-0087"><mixed-citation publication-type="journal" id="ece35882-cit-0087">
+<string-name>
+<surname>Medina&#x02010;Garc&#x000ed;a</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jawor</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wright</surname>, <given-names>T. F.</given-names>
+</string-name> (<year>2017</year>). <article-title>Cognition, personality, and stress in budgerigars, <italic>Melopsittacus undulatus</italic>
+</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>28</volume>, <fpage>1</fpage>&#x02013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/arx116</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0088"><mixed-citation publication-type="journal" id="ece35882-cit-0088">
+<string-name>
+<surname>Mell</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Josserand</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Decenci&#x000e8;re</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Artacho</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Meylan</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Le Galliard</surname>, <given-names>J.&#x02010;F.</given-names>
+</string-name> (<year>2016</year>). <article-title>Do personalities co&#x02010;vary with metabolic expenditure and glucocorticoid stress response in adult lizards?</article-title>
+<source xml:lang="en">Behavioral Ecology and Sociobiology</source>, <volume>70</volume>, <fpage>951</fpage>&#x02013;<lpage>961</lpage>. <pub-id pub-id-type="doi">10.1007/s00265-016-2117-z</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0089"><mixed-citation publication-type="journal" id="ece35882-cit-0089">
+<string-name>
+<surname>Meylan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Belliure</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Clobert</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>de Fraipont</surname>, <given-names>M.</given-names>
+</string-name> (<year>2002</year>). <article-title>Stress and body condition as prenatal and postnatal determinants of dispersal in the common lizard (<italic>Lacerta vivipara</italic>)</article-title>. <source xml:lang="en">Hormones and Behavior</source>, <volume>42</volume>, <fpage>319</fpage>&#x02013;<lpage>326</lpage>. <pub-id pub-id-type="doi">10.1006/hbeh.2002.1827</pub-id>
+<pub-id pub-id-type="pmid">12460591</pub-id></mixed-citation></ref><ref id="ece35882-bib-0090"><mixed-citation publication-type="journal" id="ece35882-cit-0090">
+<string-name>
+<surname>Monasterio</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Salvador</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>D&#x000ed;az</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2010</year>). <article-title>Altitude and rock cover explain the distribution and abundance of a Mediterranean alpine lizard</article-title>. <source xml:lang="en">Journal of Herpetology</source>, <volume>44</volume>, <fpage>158</fpage>&#x02013;<lpage>163</lpage>. <pub-id pub-id-type="doi">10.1670/08-319.1</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0091"><mixed-citation publication-type="journal" id="ece35882-cit-0091">
+<string-name>
+<surname>Munch</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Noble</surname>, <given-names>D. W. A.</given-names>
+</string-name>, <string-name>
+<surname>Botterill&#x02010;James</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Koolhof</surname>, <given-names>I. S.</given-names>
+</string-name>, <string-name>
+<surname>Halliwell</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wapstra</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>While</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Maternal effects impact decision&#x02010;making in a viviparous lizard</article-title>. <source xml:lang="en">Biology Letters</source>, <volume>14</volume>, <fpage>20170556</fpage>
+<pub-id pub-id-type="doi">10.1098/rsbl.2017.0556</pub-id>
+<pub-id pub-id-type="pmid">29643218</pub-id></mixed-citation></ref><ref id="ece35882-bib-0092"><mixed-citation publication-type="journal" id="ece35882-cit-0092">
+<string-name>
+<surname>Muraco</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Aspbury</surname>, <given-names>A. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gabor</surname>, <given-names>C. R.</given-names>
+</string-name> (<year>2014</year>). <article-title>Does male behavioral type correlate with species recognition and stress?</article-title>
+<source xml:lang="en">Behavioral Ecology</source>, <volume>25</volume>, <fpage>200</fpage>&#x02013;<lpage>205</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0093"><mixed-citation publication-type="journal" id="ece35882-cit-0093">
+<string-name>
+<surname>Nakagawa</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schielzeth</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>). <article-title>The coefficient of determination R<sup>2</sup> and intra&#x02010;class correlation coefficient from generalized linear mixed&#x02010;effects models revisited and expanded</article-title>. <source xml:lang="en">Journal of the Royal Society Interface</source>, <volume>14</volume>, <fpage>20170213</fpage>.</mixed-citation></ref><ref id="ece35882-bib-0094"><mixed-citation publication-type="journal" id="ece35882-cit-0094">
+<string-name>
+<surname>Nakagawa</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schielzeth</surname>, <given-names>H.</given-names>
+</string-name> (<year>2010</year>). <article-title>Repeatability for Gaussian and non&#x02010;Gaussian data: A practical guide for biologists</article-title>. <source xml:lang="en">Biological Reviews</source>, <volume>85</volume>, <fpage>935</fpage>&#x02013;<lpage>956</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-185X.2010.00141.x</pub-id>
+<pub-id pub-id-type="pmid">20569253</pub-id></mixed-citation></ref><ref id="ece35882-bib-0095"><mixed-citation publication-type="journal" id="ece35882-cit-0095">
+<string-name>
+<surname>Nakagawa</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schielzeth</surname>, <given-names>H.</given-names>
+</string-name> (<year>2013</year>). <article-title>A general and simple method for obtaining R<sup>2</sup> from generalized linear mixed&#x02010;effects models</article-title>. <source xml:lang="en">Methods in Ecology and Evolution</source>, <volume>4</volume>, <fpage>133</fpage>&#x02013;<lpage>142</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0096"><mixed-citation publication-type="journal" id="ece35882-cit-0096">
+<string-name>
+<surname>Ortega</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Conspicuous blue tails, dorsal pattern morphs and escape behaviour in hatchling Iberian wall lizards (<italic>Podarcis hispanicus</italic>)</article-title>. <source xml:lang="en">Biological Journal of the Linnean Society</source>, <volume>113</volume>, <fpage>1094</fpage>&#x02013;<lpage>1106</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0097"><mixed-citation publication-type="journal" id="ece35882-cit-0097">
+<string-name>
+<surname>&#x000d8;verli</surname>, <given-names>&#x000d8;.</given-names>
+</string-name>, <string-name>
+<surname>S&#x000f8;rensen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pulman</surname>, <given-names>K. G. T.</given-names>
+</string-name>, <string-name>
+<surname>Pottinger</surname>, <given-names>T. G.</given-names>
+</string-name>, <string-name>
+<surname>Korzan</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Summers</surname>, <given-names>C. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nilsson</surname>, <given-names>G. E.</given-names>
+</string-name> (<year>2007</year>). <article-title>Evolutionary background for stress&#x02010;coping styles: Relationships between physiological, behavioral, and cognitive traits in non&#x02010;mammalian vertebrates</article-title>. <source xml:lang="en">Neuroscience and Biobehavioral Reviews</source>, <volume>31</volume>, <fpage>396</fpage>&#x02013;<lpage>412</lpage>. <pub-id pub-id-type="doi">10.1016/j.neubiorev.2006.10.006</pub-id>
+<pub-id pub-id-type="pmid">17182101</pub-id></mixed-citation></ref><ref id="ece35882-bib-0098"><mixed-citation publication-type="journal" id="ece35882-cit-0098">
+<string-name>
+<surname>P&#x000e9;rez&#x02010;Mellado</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Gil</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Pollo</surname>, <given-names>C. P.</given-names>
+</string-name>, <string-name>
+<surname>Rodr&#x000ed;guez&#x02010;Merino</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Marco</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lizana</surname>, <given-names>M.</given-names>
+</string-name> (<year>1988</year>). <article-title>Uso del espacio y del tiempo en <italic>Lacerta monticola</italic> de la Sierra de Gredos</article-title>. <source xml:lang="en">Graellsia</source>, <volume>44</volume>, <fpage>65</fpage>&#x02013;<lpage>80</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0099"><mixed-citation publication-type="journal" id="ece35882-cit-0099">
+<string-name>
+<surname>Petelle</surname>, <given-names>M. B.</given-names>
+</string-name>, <string-name>
+<surname>Dang</surname>, <given-names>B. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blumstein</surname>, <given-names>D. T.</given-names>
+</string-name> (<year>2017</year>). <article-title>The effect of maternal glucocorticoid levels on juvenile docility in yellow&#x02010;bellied marmots</article-title>. <source xml:lang="en">Hormones and Behavior</source>, <volume>89</volume>, <fpage>86</fpage>&#x02013;<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1016/j.yhbeh.2016.12.014</pub-id>
+<pub-id pub-id-type="pmid">28062231</pub-id></mixed-citation></ref><ref id="ece35882-bib-0100"><mixed-citation publication-type="journal" id="ece35882-cit-0100">
+<string-name>
+<surname>Poisbleau</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dehnhard</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Demongin</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Parenteau</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Quillfeldt</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Eens</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Females paired with new and heavy mates reduce intra&#x02010;clutch differences in resource allocation</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>, <elocation-id>e72136</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0072136</pub-id>
+<pub-id pub-id-type="pmid">23967280</pub-id></mixed-citation></ref><ref id="ece35882-bib-0101"><mixed-citation publication-type="book" id="ece35882-cit-0101">
+<collab collab-type="authors">R Developmental Core Team</collab>
+(<year>2018</year>). <source xml:lang="en">R: A language and environment for statistical computing</source>. <publisher-loc>Vienna, Austria</publisher-loc>: <publisher-name>R Foundation for Statistical Computing</publisher-name>.</mixed-citation></ref><ref id="ece35882-bib-0102"><mixed-citation publication-type="journal" id="ece35882-cit-0102">
+<string-name>
+<surname>Rands</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Cowlishaw</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Pettifor</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name>
+<surname>Rowcliffe</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Johnstone</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2003</year>). <article-title>Spontaneous emergence of leaders and followers in foraging pairs</article-title>. <source xml:lang="en">Nature</source>, <volume>423</volume>, <fpage>432</fpage>&#x02013;<lpage>434</lpage>. <pub-id pub-id-type="doi">10.1038/nature01630</pub-id>
+<pub-id pub-id-type="pmid">12761547</pub-id></mixed-citation></ref><ref id="ece35882-bib-0103"><mixed-citation publication-type="journal" id="ece35882-cit-0103">
+<string-name>
+<surname>R&#x000e4;s&#x000e4;nen</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kruuk</surname>, <given-names>L. E. B.</given-names>
+</string-name> (<year>2007</year>). <article-title>Maternal effects and evolution at ecological time&#x02010;scales</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>21</volume>, <fpage>408</fpage>&#x02013;<lpage>421</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2435.2007.01246.x</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0104"><mixed-citation publication-type="journal" id="ece35882-cit-0104">
+<string-name>
+<surname>R&#x000e9;ale</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Reader</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Sol</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>McDougall</surname>, <given-names>P. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dingemanse</surname>, <given-names>N. J.</given-names>
+</string-name> (<year>2007</year>). <article-title>Integrating animal temperament within ecology and evolution</article-title>. <source xml:lang="en">Biological Reviews</source>, <volume>82</volume>, <fpage>291</fpage>&#x02013;<lpage>318</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-185X.2007.00010.x</pub-id>
+<pub-id pub-id-type="pmid">17437562</pub-id></mixed-citation></ref><ref id="ece35882-bib-0105"><mixed-citation publication-type="journal" id="ece35882-cit-0105">
+<string-name>
+<surname>Reddon</surname>, <given-names>A. R.</given-names>
+</string-name> (<year>2012</year>). <article-title>Parental effects on animal personality</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>23</volume>, <fpage>242</fpage>&#x02013;<lpage>245</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/arr210</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0106"><mixed-citation publication-type="journal" id="ece35882-cit-0106">
+<string-name>
+<surname>Richardson</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Dickinson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Burman</surname>, <given-names>O. H. P.</given-names>
+</string-name>, <string-name>
+<surname>Pike</surname>, <given-names>T. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pike</surname>, <given-names>T. W.</given-names>
+</string-name> (<year>2018</year>). <article-title>Unpredictable movement as an anti&#x02010;predator strategy</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>285</volume>, <fpage>20181112</fpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2018.1112</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0107"><mixed-citation publication-type="book" id="ece35882-cit-0107">
+<string-name>
+<surname>Roff</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>1998</year>). <chapter-title>The detection and measurement of maternal effects</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Mousseau</surname><given-names>T. A.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Fox</surname><given-names>C. W.</given-names></name></person-group> (Eds.), <source xml:lang="en">Maternal effects as adaptations</source> (pp. <fpage>83</fpage>&#x02013;<lpage>96</lpage>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece35882-bib-0108"><mixed-citation publication-type="journal" id="ece35882-cit-0108">
+<string-name>
+<surname>Rokka</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Pihlaja</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Siitari</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Soulsbury</surname>, <given-names>C. D.</given-names>
+</string-name> (<year>2014</year>). <article-title>Sex&#x02010;specific differences in offspring personalities across the laying order in magpies <italic>Pica pica</italic>
+</article-title>. <source xml:lang="en">Behavioural Processes</source>, <volume>107</volume>, <fpage>79</fpage>&#x02013;<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1016/j.beproc.2014.07.019</pub-id>
+<pub-id pub-id-type="pmid">25111085</pub-id></mixed-citation></ref><ref id="ece35882-bib-0109"><mixed-citation publication-type="book" id="ece35882-cit-0109">
+<string-name>
+<surname>Romero</surname>, <given-names>L. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wingfield</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>2015</year>). <source xml:lang="en">Tempests, poxes, predators, and people: Stress in wild animals and how they cope</source>. <publisher-loc>Oxford, UK</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece35882-bib-0110"><mixed-citation publication-type="journal" id="ece35882-cit-0110">
+<string-name>
+<surname>Ruiz&#x02010;Gomez</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Huntingford</surname>, <given-names>F. A.</given-names>
+</string-name>, <string-name>
+<surname>&#x000d8;verli</surname>, <given-names>&#x000d8;.</given-names>
+</string-name>, <string-name>
+<surname>Th&#x000f6;rnqvist</surname>, <given-names>P.&#x02010;O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>H&#x000f6;glund</surname>, <given-names>E.</given-names>
+</string-name> (<year>2011</year>). <article-title>Response to environmental change in rainbow trout selected for divergent stress coping styles</article-title>. <source xml:lang="en">Physiology &#x00026; Behavior</source>, <volume>102</volume>, <fpage>317</fpage>&#x02013;<lpage>322</lpage>. <pub-id pub-id-type="doi">10.1016/j.physbeh.2010.11.023</pub-id>
+<pub-id pub-id-type="pmid">21130105</pub-id></mixed-citation></ref><ref id="ece35882-bib-0111"><mixed-citation publication-type="journal" id="ece35882-cit-0111">
+<string-name>
+<surname>Ruuskanen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Groothuis</surname>, <given-names>T. G. G.</given-names>
+</string-name>, <string-name>
+<surname>Baugh</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<surname>Schaper</surname>, <given-names>S. V.</given-names>
+</string-name>, <string-name>
+<surname>de Vries</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>van Oers</surname>, <given-names>K.</given-names>
+</string-name> (<year>2018</year>). <article-title>Maternal egg hormones in the mating context: The effect of pair personality</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>32</volume>, <fpage>439</fpage>&#x02013;<lpage>449</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2435.12987</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0112"><mixed-citation publication-type="journal" id="ece35882-cit-0112">
+<string-name>
+<surname>Sih</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bell</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>J. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ziemba</surname>, <given-names>R. E.</given-names>
+</string-name> (<year>2004</year>). <article-title>Behavioural syndromes: An integrative overview</article-title>. <source xml:lang="en">The Quarterly Review of Biology</source>, <volume>79</volume>, <fpage>241</fpage>&#x02013;<lpage>277</lpage>.<pub-id pub-id-type="pmid">15529965</pub-id></mixed-citation></ref><ref id="ece35882-bib-0113"><mixed-citation publication-type="journal" id="ece35882-cit-0113">
+<string-name>
+<surname>Sih</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mathot</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Moir&#x000f3;n</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Montiglio</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dingemanse</surname>, <given-names>N. J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Animal personality and state &#x02013; behaviour feedbacks: A review and guide for empiricists</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>30</volume>, <fpage>50</fpage>&#x02013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">25498413</pub-id></mixed-citation></ref><ref id="ece35882-bib-0114"><mixed-citation publication-type="journal" id="ece35882-cit-0114">
+<string-name>
+<surname>Stamps</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Briffa</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Biro</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Unpredictable animals: Individual differences in intraindividual variability (IIV)</article-title>. <source xml:lang="en">Animal Behavior</source>, <volume>83</volume>, <fpage>1325</fpage>&#x02013;<lpage>1334</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2012.02.017</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0115"><mixed-citation publication-type="journal" id="ece35882-cit-0115">
+<string-name>
+<surname>Stewart</surname>, <given-names>J. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ecay</surname>, <given-names>T. W.</given-names>
+</string-name> (<year>2010</year>). <article-title>Patterns of maternal provision and embryonic mobilization of calcium in oviparous and viviparous squamate reptiles</article-title>. <source xml:lang="en">Herpetological Conservation and Biology</source>, <volume>5</volume>, <fpage>341</fpage>&#x02013;<lpage>359</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0116"><mixed-citation publication-type="journal" id="ece35882-cit-0116">
+<string-name>
+<surname>Tuan</surname>, <given-names>R. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Suyama</surname>, <given-names>E.</given-names>
+</string-name> (<year>1996</year>). <article-title>Developmental expression and vitamin D regulation of Calbindin&#x02010;D28K in chick embryonic yolk sac endoderm</article-title>. <source xml:lang="en">Journal of Nutrition</source>, <volume>126</volume>, <fpage>1308S</fpage>&#x02013;<lpage>1316S</lpage>.<pub-id pub-id-type="pmid">8642477</pub-id></mixed-citation></ref><ref id="ece35882-bib-0117"><mixed-citation publication-type="journal" id="ece35882-cit-0117">
+<string-name>
+<surname>Ursz&#x000e1;n</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Garamszegi</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Nagy</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Hettyey</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>T&#x000f6;r&#x000f6;k</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Herczeg</surname>, <given-names>G.</given-names>
+</string-name> (<year>2015</year>). <article-title>No personality without experience? A test on <italic>Rana dalmatina</italic> tadpoles</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>5</volume>, <fpage>5847</fpage>&#x02013;<lpage>5856</lpage>.<pub-id pub-id-type="pmid">26811759</pub-id></mixed-citation></ref><ref id="ece35882-bib-0118"><mixed-citation publication-type="journal" id="ece35882-cit-0118">
+<string-name>
+<surname>Ursz&#x000e1;n</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Garamszegi</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Nagy</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Hettyey</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>T&#x000f6;r&#x000f6;k</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Herczeg</surname>, <given-names>G.</given-names>
+</string-name> (<year>2018</year>). <article-title>Experience during development triggers between&#x02010;individual variation in behavioural plasticity</article-title>. <source xml:lang="en">Journal of Animal Ecology</source>, <volume>87</volume>, <fpage>1264</fpage>&#x02013;<lpage>1273</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2656.12847</pub-id>
+<pub-id pub-id-type="pmid">29752882</pub-id></mixed-citation></ref><ref id="ece35882-bib-0119"><mixed-citation publication-type="journal" id="ece35882-cit-0119">
+<string-name>
+<surname>Ursz&#x000e1;n</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>T&#x000f6;r&#x000f6;k</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hettyey</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Garamszegi</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Herczeg</surname>, <given-names>G.</given-names>
+</string-name> (<year>2015</year>). <article-title>Behavioural consistency and life history of <italic>Rana dalmatina</italic> tadpoles</article-title>. <source xml:lang="en">Oecologia</source>, <volume>178</volume>, <fpage>129</fpage>&#x02013;<lpage>140</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-014-3207-0</pub-id>
+<pub-id pub-id-type="pmid">25656582</pub-id></mixed-citation></ref><ref id="ece35882-bib-0120"><mixed-citation publication-type="journal" id="ece35882-cit-0120">
+<string-name>
+<surname>van Berkum</surname>, <given-names>F. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tsuji</surname>, <given-names>J. S.</given-names>
+</string-name> (<year>1987</year>). <article-title>Inter&#x02010;familiar differences in sprint speed of hatchling <italic>Sceloporus occidentalis</italic> (Reptilia: Iguanidae)</article-title>. <source xml:lang="en">Journal of Zoology of London</source>, <volume>212</volume>, <fpage>511</fpage>&#x02013;<lpage>519</lpage>.</mixed-citation></ref><ref id="ece35882-bib-0121"><mixed-citation publication-type="journal" id="ece35882-cit-0121">
+<string-name>
+<surname>Vanhooydonck</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Van Damme</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Aerts</surname>, <given-names>P.</given-names>
+</string-name> (<year>2001</year>). <article-title>Speed and stamina trade&#x02010;off in lacertid lizards</article-title>. <source xml:lang="en">Evolution</source>, <volume>55</volume>, <fpage>1040</fpage>&#x02013;<lpage>1048</lpage>. <pub-id pub-id-type="doi">10.1554/0014-3820(2001)055[1040:SASTOI]2.0.CO;2</pub-id>
+<pub-id pub-id-type="pmid">11430640</pub-id></mixed-citation></ref><ref id="ece35882-bib-0122"><mixed-citation publication-type="journal" id="ece35882-cit-0122">
+<string-name>
+<surname>Velasque</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Briffa</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>). <article-title>The opposite effects of routine metabolic rate and metabolic rate during startle responses on variation in the predictability of behaviour in hermit crabs</article-title>. <source xml:lang="en">Behaviour</source>, <volume>153</volume>, <fpage>1545</fpage>&#x02013;<lpage>1566</lpage>. <pub-id pub-id-type="doi">10.1163/1568539X-00003371</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0123"><mixed-citation publication-type="journal" id="ece35882-cit-0123">
+<string-name>
+<surname>Wapstra</surname>, <given-names>E.</given-names>
+</string-name> (<year>2000</year>). <article-title>Maternal basking opportunity affects juvenile phenotype in a viviparous lizard</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>14</volume>, <fpage>345</fpage>&#x02013;<lpage>352</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2435.2000.00428.x</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0124"><mixed-citation publication-type="journal" id="ece35882-cit-0124">
+<string-name>
+<surname>Warner</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Bonnet</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Hobson</surname>, <given-names>K. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shine</surname>, <given-names>R.</given-names>
+</string-name> (<year>2008</year>). <article-title>Lizards combine stored energy and recently acquired nutrients flexibly to fuel reproduction</article-title>. <source xml:lang="en">Journal of Animal Ecology</source>, <volume>77</volume>, <fpage>1242</fpage>&#x02013;<lpage>1249</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2656.2008.01442.x</pub-id>
+<pub-id pub-id-type="pmid">18637855</pub-id></mixed-citation></ref><ref id="ece35882-bib-0125"><mixed-citation publication-type="journal" id="ece35882-cit-0125">
+<string-name>
+<surname>Warner</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Lovern</surname>, <given-names>M. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shine</surname>, <given-names>R.</given-names>
+</string-name> (<year>2008</year>). <article-title>Maternal influences on offspring phenotypes and sex ratios in a multi&#x02010;clutching lizard with environmental sex determination</article-title>. <source xml:lang="en">Biological Journal of the Linnean Society</source>, <volume>95</volume>, <fpage>256</fpage>&#x02013;<lpage>266</lpage>. <pub-id pub-id-type="doi">10.1111/j.1095-8312.2008.01058.x</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0126"><mixed-citation publication-type="journal" id="ece35882-cit-0126">
+<string-name>
+<surname>Weinstein</surname>, <given-names>B. G.</given-names>
+</string-name> (<year>2015</year>). <article-title>MotionMeerkat: Integrating motion video detection and ecological monitoring</article-title>. <source xml:lang="en">Methods in Ecology and Evolution</source>, <volume>6</volume>, <fpage>357</fpage>&#x02013;<lpage>362</lpage>. <pub-id pub-id-type="doi">10.1111/2041-210X.12320</pub-id>
+</mixed-citation></ref><ref id="ece35882-bib-0127"><mixed-citation publication-type="book" id="ece35882-cit-0127">
+<string-name>
+<surname>West&#x02010;Eberhard</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2003</year>). <source xml:lang="en">Developmental plasticity and evolution</source> (<edition designator="1">1st ed.</edition>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece35882-bib-0128"><mixed-citation publication-type="journal" id="ece35882-cit-0128">
+<string-name>
+<surname>Westneat</surname>, <given-names>D. F.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dingemanse</surname>, <given-names>N. J.</given-names>
+</string-name> (<year>2015</year>). <article-title>The biology hidden inside residual within&#x02010;individual phenotypic variation</article-title>. <source xml:lang="en">Biological Reviews</source>, <volume>90</volume>, <fpage>729</fpage>&#x02013;<lpage>743</lpage>. <pub-id pub-id-type="doi">10.1111/brv.12131</pub-id>
+<pub-id pub-id-type="pmid">25080034</pub-id></mixed-citation></ref><ref id="ece35882-bib-0129"><mixed-citation publication-type="journal" id="ece35882-cit-0129">
+<string-name>
+<surname>Wilson</surname>, <given-names>A. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nussey</surname>, <given-names>D. H.</given-names>
+</string-name> (<year>2010</year>). <article-title>What is individual quality? An evolutionary perspective</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>25</volume>, <fpage>207</fpage>&#x02013;<lpage>214</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2009.10.002</pub-id>
+<pub-id pub-id-type="pmid">19897275</pub-id></mixed-citation></ref><ref id="ece35882-bib-0130"><mixed-citation publication-type="journal" id="ece35882-cit-0130">
+<string-name>
+<surname>Winchell</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Maayan</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Fredette</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Revell</surname>, <given-names>L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Linking locomotor performance to morphological shifts in urban lizards</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>285</volume>, <fpage>20180229</fpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2018.0229</pub-id>
+</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,370 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Cardiol</journal-id><journal-id journal-id-type="iso-abbrev">Clin Cardiol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1932-8737</journal-id><journal-id journal-id-type="publisher-id">CLC</journal-id><journal-title-group><journal-title>Clinical Cardiology</journal-title></journal-title-group><issn pub-type="ppub">0160-9289</issn><issn pub-type="epub">1932-8737</issn><publisher><publisher-name>Wiley Periodicals, Inc.</publisher-name><publisher-loc>New York</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31710766</article-id><article-id pub-id-type="pmc">6954377</article-id><article-id pub-id-type="doi">10.1002/clc.23288</article-id><article-id pub-id-type="publisher-id">CLC23288</article-id><article-categories><subj-group subj-group-type="overline"><subject>Clinical Investigations</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical Investigations</subject></subj-group></article-categories><title-group><article-title>Physical activity is reduced prior to ventricular arrhythmias in patients with a wearable cardioverter defibrillator</article-title><alt-title alt-title-type="left-running-head">Burch et al.</alt-title></title-group><contrib-group><contrib id="clc23288-cr-0001" contrib-type="author" corresp="yes"><name><surname>Burch</surname><given-names>Ashley E.</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3871-6349</contrib-id><xref ref-type="aff" rid="clc23288-aff-0001">
+<sup>1</sup>
+</xref><address><email>burchas15@ecu.edu</email></address></contrib><contrib id="clc23288-cr-0002" contrib-type="author"><name><surname>D'Souza</surname><given-names>Benjamin</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="clc23288-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="clc23288-cr-0003" contrib-type="author"><name><surname>Gimbel</surname><given-names>J. Rod</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="clc23288-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="clc23288-cr-0004" contrib-type="author"><name><surname>Rohrer</surname><given-names>Ursula</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="clc23288-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="clc23288-cr-0005" contrib-type="author"><name><surname>Masuda</surname><given-names>Tsuyoshi</given-names></name><degrees>MEng</degrees><xref ref-type="aff" rid="clc23288-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="clc23288-cr-0006" contrib-type="author"><name><surname>Sears</surname><given-names>Samuel</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="clc23288-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="clc23288-cr-0007" contrib-type="author"><name><surname>Scherr</surname><given-names>Daniel</given-names></name><degrees>MD, FHRS</degrees><xref ref-type="aff" rid="clc23288-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="clc23288-aff-0001">
+<label><sup>1</sup></label>
+<institution>East Carolina Heart Institute</institution>
+<city>Greenville</city>
+<named-content content-type="country-part">North Carolina</named-content>
+</aff><aff id="clc23288-aff-0002">
+<label><sup>2</sup></label>
+<institution>University of Pennsylvania</institution>
+<city>Philadelphia</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+</aff><aff id="clc23288-aff-0003">
+<label><sup>3</sup></label>
+<institution>Cardiac Rhythm Specialists</institution>
+<city>Bayside</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+</aff><aff id="clc23288-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Medicine, Division of Cardiology</named-content>
+<institution>Medical University of Graz</institution>
+<city>Graz</city>
+<country country="AT">Austria</country>
+</aff><aff id="clc23288-aff-0005">
+<label><sup>5</sup></label>
+<institution>ZOLL Medical</institution>
+<city>Pittsburgh</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+</aff><aff id="clc23288-aff-0006">
+<label><sup>6</sup></label>
+<institution>East Carolina University</institution>
+<city>Greenville</city>
+<named-content content-type="country-part">North Carolina</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Ashley E. Burch, PhD, East Carolina Heart Institute, 115 Heart Drive, Office 2231, Greenville, NC 27834.<break/>
+Email: <email>burchas15@ecu.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>43</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/clc.v43.1</issue-id><fpage>60</fpage><lpage>65</lpage><history><date date-type="received"><day>03</day><month>7</month><year>2019</year></date><date date-type="rev-recd"><day>20</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>23</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Clinical Cardiology</italic> published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CLC-43-60.pdf"/><abstract><title>Abstract</title><sec id="clc23288-sec-0001"><title>Introduction</title><p>The utility of accelerometer&#x02010;based activity data to identify patients at risk of sustained ventricular tachycardia (VT) or ventricular fibrillation (VF) has not previously been investigated. The aim of the current study was to determine whether physical activity is associated with manifesting spontaneous sustained VT/VF requiring emergent defibrillation in patients with an ejection fraction of &#x02264;35%.</p></sec><sec id="clc23288-sec-0002"><title>Methods</title><p>Patients consecutively prescribed a wearable cardioverter defibrillator (WCD) from April 2015 to May 2018 were included. Shock data and 4&#x02009;weeks of physical activity data, beginning with the first week of WCD wear, were analyzed.</p></sec><sec id="clc23288-sec-0003"><title>Results</title><p>Based on the ROC curve outcome generated from 4057 patients, average daily step count during the first week accurately predicted those patients with sustained VT/VF compared to those without (shocked (n = 81) vs nonshocked (n = 3976) area under the curve, c&#x02010;index = 0.71, 95% CI = 0.65&#x02010;0.77, <italic>P</italic> &#x0003c;&#x02009;.001). An average cutoff of 3637 daily steps during week 1 separated the groups. Patients who averaged fewer than 3637 steps per day during the first week of WCD use were 4.3 times more likely to experience a shock than those who walked more than 3637 steps per day (OR = 4.29, 95% CI = 2.58&#x02010;7.15, <italic>P</italic> &#x0003c;&#x02009;.001).</p></sec><sec id="clc23288-sec-0004"><title>Discussion</title><p>Average daily step counts are lower in WCD patients who manifest spontaneous VT/VF. Whether these findings represent a causal or correlational relationship, future studies to encourage a minimum daily step count in high&#x02010;risk patients may impact the incidence of sustained VT/VF.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="clc23288-kwd-0001">activity</kwd><kwd id="clc23288-kwd-0002">ventricular arrhythmia</kwd><kwd id="clc23288-kwd-0003">wearable cardioverter defibrillator</kwd></kwd-group><counts><fig-count count="1"/><table-count count="1"/><page-count count="6"/><word-count count="3877"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:11.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="clc23288-cit-9001">
+<string-name>
+<surname>Burch</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>D'Souza</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gimbel</surname>
+<given-names>JR</given-names>
+</string-name>, et al. <article-title>Physical activity is reduced prior to ventricular arrhythmias in patients with a wearable cardioverter defibrillator</article-title>. <source xml:lang="en">Clin Cardiol</source>. <year>2020</year>;<volume>43</volume>:<fpage>60</fpage>&#x02013;<lpage>65</lpage>. <pub-id pub-id-type="doi">10.1002/clc.23288</pub-id>
+</mixed-citation>
+</p></notes></front><body id="clc23288-body-0001"><sec id="clc23288-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Physical activity has prognostic value for cardiac patients. Following a myocardial infarction, patients self&#x02010;reported activity is a significant predictor of death.<xref rid="clc23288-bib-0001" ref-type="ref">1</xref>, <xref rid="clc23288-bib-0002" ref-type="ref">2</xref>, <xref rid="clc23288-bib-0003" ref-type="ref">3</xref> More objective measures of physical activity, such as walking speed or results from the 6&#x02010;minute walk test, are also predictive of clinical outcomes for cardiac patients.<xref rid="clc23288-bib-0004" ref-type="ref">4</xref>, <xref rid="clc23288-bib-0005" ref-type="ref">5</xref> Many modern cardiac devices contain accelerometers, allowing for continuous monitoring of activity. In patients with heart failure, activity data collected from these devices has been used to predict atrial arrhythmias, improved ejection fraction, heart failure hospitalization, and death.<xref rid="clc23288-bib-0005" ref-type="ref">5</xref>, <xref rid="clc23288-bib-0006" ref-type="ref">6</xref>, <xref rid="clc23288-bib-0007" ref-type="ref">7</xref>, <xref rid="clc23288-bib-0008" ref-type="ref">8</xref>, <xref rid="clc23288-bib-0009" ref-type="ref">9</xref>, <xref rid="clc23288-bib-0010" ref-type="ref">10</xref>
+</p><p>The precision of accelerometer data has allowed investigators to calculate specific cutoff values of activity associated with adverse cardiac outcomes. A retrospective study of patients with implantable cardioverter defibrillators (ICDs) found that decreased physical activity in the months following implantation is associated with an increase in heart failure hospitalization and mortality.<xref rid="clc23288-bib-0006" ref-type="ref">6</xref> For every 10 minutes per day of additional time spent active, there was a 4% risk reduction in a composite variable of hospitalization and death. Zhao and colleagues (2017) analyzed activity data from 845 patients with ICDs to determine whether physical activity could predict cardiac mortality. A cutoff value of 113&#x02009;minutes of activity per day was found to successfully predict cardiac death. In a recent study, accelerometer&#x02010;based activity was associated with the risk of atrial arrhythmias.<xref rid="clc23288-bib-0009" ref-type="ref">9</xref> Patients who were active for less than 3.5 hours per day were at a higher risk for subclinical high&#x02010;rate atrial fibrillation lasting for 6 minutes or longer. These studies demonstrate the utility of physical activity as a mechanism to identify patients at risk for cardiac events.</p><p>Ventricular arrhythmias are the leading cause of sudden cardiac death among patients with heart failure. In the months following a diagnosis of heart failure with reduced ejection fraction, patients are at an increased risk of arrhythmic death.<xref rid="clc23288-bib-0011" ref-type="ref">11</xref>, <xref rid="clc23288-bib-0012" ref-type="ref">12</xref> The wearable cardioverter defibrillator (WCD) is able to detect ventricular tachycardia (VT) and ventricular fibrillation (VF) and deliver a shock to restore sinus rhythm (Chung, 2014). Like the ICD, the WCD contains an accelerometer capable of continuous activity monitoring. Among patients with an ICD, self&#x02010;reported physical exertion is associated with an increased risk of sustained VT.<xref rid="clc23288-bib-0013" ref-type="ref">13</xref> However, when accounting for general fitness level, the relationship between sustained ventricular arrhythmia and physical exertion is strongest among patients who reported generally lower fitness levels or predominately sedentary behavior over the 6 months preceding an appropriate shock.<xref rid="clc23288-bib-0014" ref-type="ref">14</xref> The utility of an accelerometer to identify patients at risk of sustained VT/VF based on physical activity has not been investigated. The aim of the current study was to determine whether physical activity is associated with sustained VT/VF requiring emergent defibrillation in patients with an ejection fraction of &#x02264;35%. Specifically, differences in daily step count were compared for WCD patients who received a shock for sustained VT/VF and those who did not.</p></sec><sec id="clc23288-sec-0006"><label>2</label><title>METHODS</title><sec id="clc23288-sec-0007"><label>2.1</label><title>Patients</title><p>In this retrospective cohort study, we analyzed adult patients who were consecutively prescribed a WCD in Germany from April 2015 to May 2018. Consent was obtained from all patients to use their data. Four weeks of physical activity beginning with the first week of WCD wear were used for the current study. To be included in the dataset, patients had to have a minimum threshold of at least 140&#x02009;hours of WCD wear during the first week of WCD prescription. Patients were excluded if they died of unknown death over the prescribed wearing period, had incomplete data, or withdrawn WCD. Patients were included in the shocked group in they received an appropriate shock. Patients who received an inappropriate shock were included in the nonshocked group.</p></sec><sec id="clc23288-sec-0008"><label>2.2</label><title>Device description</title><p>The WCD (LifeVest, ZOLL, Pittsburgh, PA) automatically detects and treats sustained VT and VF. The device contains a monitor (about 0.77&#x02009;kg) worn on a hip holster (or shoulder strap) and an electrode belt; the latter holds 4 dry electrodes creating 2 surface electrocardiogram (ECG) channels, positioned in side&#x02010;to&#x02010;side (SS) and front&#x02010;to&#x02010;back (FB) configurations. A three&#x02010;axis accelerometer in the electrode belt determines the patient's step count and body position. The chest garment contains two defibrillation pads on the back and one at the left anterior part of the chest, close to the apical region of the heart. A pair of response buttons on the monitor allows a conscious patient to prevent a potential shock. A description of the WCD technical details have been reported elsewhere in the literature.<xref rid="clc23288-bib-0015" ref-type="ref">15</xref>
+</p></sec><sec id="clc23288-sec-0009"><label>2.3</label><title>Statistical analysis</title><p>Descriptive statistics were used to summarize demographic and shock data. Activity data, defined as step count, was continuously recorded for each patient during WCD wear. Average daily step count was calculated each week for 4 consecutive weeks. Data were excluded for one patient due to their Week 3 step count being an extreme outlier (<italic>z</italic>&#x02010;score = 13). Receiver operating characteristic (ROC) curves were constructed to determine the optimal cutoff for predicting group membership (shocked vs nonshocked) using step count during week 1. The Youdin index method was applied to preserve sensitivity and specificity when identifying the step count cutoff value. A <italic>t</italic>&#x02010;test was used to assess differences in physical activity between the shocked and nonshocked groups at weeks 2, 3, and 4. A <italic>P</italic>&#x02010;value &#x0003c; .05 was considered statistically significant. All analyses were performed using SPSS version 25 (IBM SPSS Statistics, IBM Corporation, Armonk, NY).</p></sec></sec><sec id="clc23288-sec-0010"><label>3</label><title>RESULTS</title><sec id="clc23288-sec-0011"><label>3.1</label><title>Patients</title><p>A total of 5528 patients were screened, 1471 patients were excluded for incomplete data (n = 97), not meeting minimum age (n = 15) or WCD hours of wear requirements (n = 677), withdrawn WCD (withdrawn could be due to several factors including: skin irritation, noncompliance, insurance reasons) (n = 630), or if they died of unknown death during the study period (n = 52). In the final sample, 4057 patients were included. Demographic variables for the full sample, and by group (shocked vs nonshocked) are summarized in Table <xref rid="clc23288-tbl-0001" ref-type="table">1</xref>. Eighty&#x02010;one patients (2%) received an appropriate shock for sustained VT/VF during WCD wear. On average, patients in the shocked group were older (64, SD = 14&#x02009;years) than patients in the nonshocked group (60, SD = 13&#x02009;years, <italic>P</italic> =&#x02009;.01). Of the 81 patients who received a shock, 9 (11%) did not survive the shock event.</p><table-wrap id="clc23288-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline characteristics by group</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Total sample</th><th align="left" valign="bottom" rowspan="1" colspan="1">Shocked</th><th align="left" valign="bottom" rowspan="1" colspan="1">Nonshocked</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>N</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">4057</td><td align="left" valign="top" rowspan="1" colspan="1">81 (2)</td><td align="left" valign="top" rowspan="1" colspan="1">3976 (98)</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">60 (13)</td><td align="left" valign="top" rowspan="1" colspan="1">64 (14)</td><td align="left" valign="top" rowspan="1" colspan="1">60 (13)</td><td align="left" valign="top" rowspan="1" colspan="1">.01</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Male (%)</td><td align="left" valign="top" rowspan="1" colspan="1">3239 (80)</td><td align="left" valign="top" rowspan="1" colspan="1">67 (83)</td><td align="left" valign="top" rowspan="1" colspan="1">3172 (80)</td><td align="left" valign="top" rowspan="1" colspan="1">.51</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Daily step count week 1 median (IQR)</td><td align="left" valign="top" rowspan="1" colspan="1">4771 (2739&#x02010;7318)</td><td align="left" valign="top" rowspan="1" colspan="1">2456 (961&#x02010;4185)</td><td align="left" valign="top" rowspan="1" colspan="1">4821 (2779&#x02010;7350)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>WCD indication (%)</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Recent PCI</td><td align="left" valign="top" rowspan="1" colspan="1">1182 (29.1)</td><td align="left" valign="top" rowspan="1" colspan="1">23 (28.4)</td><td align="left" valign="top" rowspan="1" colspan="1">1159 (29.1)</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dilated cardiomyopathy</td><td align="left" valign="top" rowspan="1" colspan="1">1007 (24.8)</td><td align="left" valign="top" rowspan="1" colspan="1">8 (9.9)</td><td align="left" valign="top" rowspan="1" colspan="1">999 (25.1)</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Other</td><td align="left" valign="top" rowspan="1" colspan="1">952 (23.5)</td><td align="left" valign="top" rowspan="1" colspan="1">25(30.9)</td><td align="left" valign="top" rowspan="1" colspan="1">927 (23.3)</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NICM</td><td align="left" valign="top" rowspan="1" colspan="1">364 (9.0)</td><td align="left" valign="top" rowspan="1" colspan="1">4(4.9)</td><td align="left" valign="top" rowspan="1" colspan="1">360 (9.1)</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Myocarditis</td><td align="left" valign="top" rowspan="1" colspan="1">242 (6.0)</td><td align="left" valign="top" rowspan="1" colspan="1">5(6.2)</td><td align="left" valign="top" rowspan="1" colspan="1">237 (6.0)</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ICD explant</td><td align="left" valign="top" rowspan="1" colspan="1">163 (4.0)</td><td align="left" valign="top" rowspan="1" colspan="1">13(16.0)</td><td align="left" valign="top" rowspan="1" colspan="1">150 (3.8)</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Recent CABG</td><td align="left" valign="top" rowspan="1" colspan="1">147 (3.6)</td><td align="left" valign="top" rowspan="1" colspan="1">3(3.7)</td><td align="left" valign="top" rowspan="1" colspan="1">144 (3.6)</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot id="clc23288-ntgp-0001"><fn id="clc23288-note-0001"><p>ICD, implantable cardioverter defibrillator; IQR, interquartile range; NICM, nonischemic cardiomyopathy; PCI, percutaneous coronary intervention; SD, standard deviation; WCD, wearable cardioverter defibrillator.</p></fn></table-wrap-foot></table-wrap></sec><sec id="clc23288-sec-0012"><label>3.2</label><title>Activity</title><p>During week 1, patients in the shocked group had significantly fewer steps compared to the not&#x02010;shocked group (Table <xref rid="clc23288-tbl-0001" ref-type="table">1</xref>).</p><p>Based on the ROC curve outcome, daily step count during week 1 demonstrated good accuracy in predicting group (shocked vs nonshocked (area under the curve, c&#x02010;index = .71, 95% CI = .65&#x02010;.77, <italic>P</italic> &#x0003c;&#x02009;.001). The Youdin index was applied and a cutoff daily step count of 3637 during week 1 was identified with maximum sensitivity and specificity, 73% and 65%, respectively. In our sample, 36% (n = 1463) of patients walked fewer than 3637 steps a day during week 1. These patients were five times more likely to experience a shock than patients with more than 3637 steps per day during this time period (OR = 4.91, 95% CI = 3.0&#x02010;8.05, <italic>P</italic> &#x0003c;&#x02009;.001).</p><p>A logistic regression was performed to predict group membership from step count; age and WCD indication was univariately associated with the group and were therefore entered into the model as additional predictors. A binary variable was created for step count based on the cutoff of 3637 steps per day during week 1 (ie, greater than 3637 or less than 3637 steps). With age and WCD indication entered into the model, step count during week 1 remained a significant predictor of group. In this multivariate analysis, patients who walked fewer than 3637 steps per day during the first week of WCD prescription were 4.3 times more likely to experience a shock than those who walked more than 3637 steps per day (OR = 4.29, 95% CI = 2.58&#x02010;7.15, <italic>P</italic> &#x0003c;&#x02009;.001). Step count over the following 3&#x02009;weeks remained significantly lower in the shocked group compared to the nonshocked group (Figure <xref rid="clc23288-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="clc23288-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Daily average step count across the 4&#x02010;week study period. Step count was significantly lower in the appropriately shocked compared to nonshocked group across each of the 4&#x02009;weeks</p></caption><graphic id="nlm-graphic-1" xlink:href="CLC-43-60-g001"/></fig></sec></sec><sec id="clc23288-sec-0013"><label>4</label><title>DISCUSSION</title><p>Less physical activity in the first week of WCD use is associated with shocked VT/VF events in the first month of WCD use. Patients who received a shock walked nearly half as many steps as patients in the nonshocked group. A cutoff value of 3637 steps during the first week of WCD use successfully identified shocked and nonshocked patients, even after controlling for differences in age between the two groups. Among patients who were shocked, 73% had fewer than 3637 steps during week 1.</p><p>Previous work has shown the utility of physical activity in predicting atrial arrhythmias, heart failure hospitalization, and death.<xref rid="clc23288-bib-0005" ref-type="ref">5</xref>, <xref rid="clc23288-bib-0006" ref-type="ref">6</xref>, <xref rid="clc23288-bib-0007" ref-type="ref">7</xref>, <xref rid="clc23288-bib-0008" ref-type="ref">8</xref>, <xref rid="clc23288-bib-0009" ref-type="ref">9</xref>, <xref rid="clc23288-bib-0010" ref-type="ref">10</xref> Results from the present study add to this literature by demonstrating the utility of accelerometer&#x02010;acquired activity in predicting sustained VT/VF in a population of WCD patients with a low ejection fraction. Furthermore, a clinically meaningful daily step count has been identified allowing clinicians to set a goal for their patients to reach a minimum step count of approximately 4000 steps each day to reduce the likelihood of sustained VT/VF.</p><p>Unlike many of the risk factors for sudden cardiac death, physical activity is a modifiable risk factor. Reductions in heart failure risk are seen among patients adhering to guideline&#x02010;recommended levels of activity.<xref rid="clc23288-bib-0016" ref-type="ref">16</xref> The recommended level of 150&#x02010;300&#x02009;minutes of moderately intense activity per week may seem out of reach for many heart failure patients; however, even modest increases in physical activity can have beneficial cardiac outcomes.<xref rid="clc23288-bib-0017" ref-type="ref">17</xref> Studies of heart failure patients participating in short&#x02010;term cardiac rehabilitation programs have shown significant improvements in peak oxygen uptake and left ventricular ejection fraction.<xref rid="clc23288-bib-0018" ref-type="ref">18</xref>, <xref rid="clc23288-bib-0019" ref-type="ref">19</xref>
+</p><p>The current study presents physical activity as a function of step count. Studies from North American and Australia report 20&#x02010;35% of a population&#x02010;based sample of adults own a wearable activity tracker.<xref rid="clc23288-bib-0020" ref-type="ref">20</xref>, <xref rid="clc23288-bib-0021" ref-type="ref">21</xref> The ubiquity of commercially available step count monitors makes this metric of activity more accessible for patients than the traditionally reported minutes spent active. A systematic review of 26 studies found activity tracker utilization was associated with significant improvements in physical activity among outpatient adults.<xref rid="clc23288-bib-0022" ref-type="ref">22</xref> Among post&#x02010;myocardial infarction patents, activity self&#x02010;monitoring was associated with exercise maintenance 6 months after completing a cardiac rehabilitation program compared to a randomized nonself&#x02010;monitoring group.<xref rid="clc23288-bib-0023" ref-type="ref">23</xref> These studies suggest objective monitoring of daily activity empowers patients to engage in their own activity rehabilitation process. Outcomes from the current study allow clinicians to encourage patients to set specific, evidence&#x02010;based activity goals and use activity trackers to monitor progress towards these goals.</p><p>The ubiquity of patient owned activity trackers and the increased available of cardiac devices with accelerometer recorded activity that can be provided to physicians increases the utility of activity metrics for monitoring cardiac care. Changes in activity may signal declining health and worsening heart failure. Accelerometer containing cardiac devices, including the WCD, can provide continuous real&#x02010;time activity monitoring of at&#x02010;risk patients. The present study suggests reduced activity may be a useful marker to identify patients at increased risk of sustained VT/VF, further adding to sudden cardiac death risk stratification beyond left ventricular ejection fraction. Others have proposed the presence of warning symptoms and signs, such as angina pectoris and dyspnea that may forecast sudden cardiac arrest.<xref rid="clc23288-bib-0024" ref-type="ref">24</xref>, <xref rid="clc23288-bib-0025" ref-type="ref">25</xref>, <xref rid="clc23288-bib-0026" ref-type="ref">26</xref> Identification of a decline in activity as a precedent to sustained VT/VF may allow physicians time to intervene and make pharmacological or other treatment adjustments.</p><sec id="clc23288-sec-0014"><label>4.1</label><title>Study limitations</title><p>The retrospective design of this study does not allow for a causal conclusion to be drawn between decreased activity and sustained VT/VF. It remains a possibility that patients who are less active are sicker and therefore at a greater risk of death. However, in the MADIT&#x02010;CRT, reduced activity during the week of a nonfatal ventricular arrhythmia was associated with an increased probability of death.<xref rid="clc23288-bib-0007" ref-type="ref">7</xref> These findings suggest a decline in physical activity may precede sustained VT/VF, and that decreased activity associated with VT/VF may determine the significance of the event for future outcomes, including death. Prospective studies would be helpful to determine the possible benefit of physical activity in preventing sudden cardiac death. In addition, randomization based on disease state would provide information about the relationship between change in physical activity and heart failure progression.</p><p>A second limitation of this study is the lack of co&#x02010;variates, including underlying heart disease, mobility restrictions, pharmacological management, and NYHA class, all of which may influence a proportion of the relationship found between decreased activity and increased incidence of shock. The study sample, although large in number, was pulled from a commercial database with limited co&#x02010;variate data available for reporting. Another limitation, similar to many other cardiac study populations, our sample was predominately male. A significant gender difference in rates of physical activity may exist. An international study of 3572 acute&#x02010;myocardial infarction (MI) patients found women were 37% more likely to exhibit low levels of activity compared to males.<xref rid="clc23288-bib-0027" ref-type="ref">27</xref> At 12 months post&#x02010;MI, only 36% of women compared to 48% of men met the recommended level of physical activity. Encouragingly, a meta&#x02010;analysis including 370&#x02009;460 heart failure patients found the benefit of higher levels of physical activity in reducing heart failure risk was similar between men and women.<xref rid="clc23288-bib-0028" ref-type="ref">28</xref> Though men and women may benefit from physical activity, additional investigation is needed to determine if the cutoff values in activity detected from predominately male cardiac populations are applicable to female patients.</p><p>Engaging in regular physical activity is critical for optimal heart failure management. Patients who manifest spontaneous VT/VF have a lower average daily step count than those who do not have a sustained VT/VF event. Among patients at risk for sudden cardiac arrest, encouraging a minimum of 4000 steps per day could reduce the likelihood of sustained VT/VF.</p></sec></sec><sec sec-type="COI-statement" id="clc23288-sec-0016"><title>CONFLICT OF INTEREST</title><p>The authors declared the following potential conflicts of interest with respect to the research, authorship, and/or publication of this article: Ashley Burch has research grants from ZOLL Medical. These funds are directed to East Carolina University. Samuel Sears has research grants from Medtronic and ZOLL Medical. These funds are directed to East Carolina University. Samuel Sears serves as a consultant to Medtronic, Abbot/St Jude Medical, and ZOLL Medical. The other authors declare that they have no known conflicts of interest.</p></sec></body><back><ack id="clc23288-sec-0015"><title>ACKNOWLEDGMENTS</title><p>We would like to thank all the investigators and centers that participated in data collection for this study.</p></ack><ref-list id="clc23288-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="clc23288-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="clc23288-cit-0001">
+<string-name>
+<surname>Orjan</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Amanda</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>&#x000c5;sa</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Increased physical activity post&#x02010;myocardial infarction is related to reduced mortality: results from the SWEDEHEART registry</article-title>. <source xml:lang="en">J Am Heart Assoc</source>. <year>2018</year>;<volume>7</volume>:<elocation-id>e010108</elocation-id>.<pub-id pub-id-type="pmid">30561263</pub-id></mixed-citation></ref><ref id="clc23288-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="clc23288-cit-0002">
+<string-name>
+<surname>Gorczyca</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Eaton</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>LaMonte</surname>
+<given-names>MJ</given-names>
+</string-name>, et al. <article-title>Change in physical activity and sitting time after myocardial infarction and mortality among postmenopausal women in the Women's health initiative&#x02010;observational study</article-title>. <source xml:lang="en">J Am Heart Assoc</source>. <year>2017</year>;<volume>6</volume>:<elocation-id>e005354</elocation-id>.<pub-id pub-id-type="pmid">28507059</pub-id></mixed-citation></ref><ref id="clc23288-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="clc23288-cit-0003">
+<string-name>
+<surname>Steffen&#x02010;Batey</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Nichaman Milton</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Goff</surname>
+<given-names>DC</given-names>
+</string-name>, et al. <article-title>Change in level of physical activity and risk of all&#x02010;cause mortality or reinfarction</article-title>. <source xml:lang="en">Circulation</source>. <year>2000</year>;<volume>102</volume>:<fpage>2204</fpage>&#x02010;<lpage>2209</lpage>.<pub-id pub-id-type="pmid">11056093</pub-id></mixed-citation></ref><ref id="clc23288-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="clc23288-cit-0004">
+<string-name>
+<surname>Grazzi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Mazzoni</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Improved walking speed is associated with lower hospitalisation rates in patients in an exercise&#x02010;based secondary prevention programme</article-title>. <source xml:lang="en">Heart</source>. <year>2016</year>;<volume>102</volume>:<fpage>1902</fpage>&#x02010;<lpage>1908</lpage>.<pub-id pub-id-type="pmid">27390367</pub-id></mixed-citation></ref><ref id="clc23288-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="clc23288-cit-0005">
+<string-name>
+<surname>Vegh</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Kandala</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Orencole</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Device&#x02010;measured physical activity versus six&#x02010;minute walk test as a predictor of reverse remodeling and outcome after cardiac resynchronization therapy for heart failure</article-title>. <source xml:lang="en">Am J Cardiol</source>. <year>2014</year>;<volume>113</volume>:<fpage>1523</fpage>&#x02010;<lpage>1528</lpage>.<pub-id pub-id-type="pmid">24641966</pub-id></mixed-citation></ref><ref id="clc23288-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="clc23288-cit-0006">
+<string-name>
+<surname>Conraads</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Spruit</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Braunschweig</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Physical activity, measured with implanted devices, predicts patient outcome in chronic heart failure</article-title>. <source xml:lang="en">Circ Heart Fail</source>. <year>2014</year>;<volume>7</volume>:<fpage>279</fpage>&#x02010;<lpage>287</lpage>.<pub-id pub-id-type="pmid">24519908</pub-id></mixed-citation></ref><ref id="clc23288-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="clc23288-cit-0007">
+<string-name>
+<surname>Jam&#x000e9;</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kutyifa</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Polonsky</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Predictive value of device&#x02010;derived activity level for short&#x02010;term outcomes in MADIT&#x02010;CRT</article-title>. <source xml:lang="en">Heart Rhythm</source>. <year>2017</year>;<volume>14</volume>:<fpage>1081</fpage>&#x02010;<lpage>1086</lpage>.<pub-id pub-id-type="pmid">28347835</pub-id></mixed-citation></ref><ref id="clc23288-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="clc23288-cit-0008">
+<string-name>
+<surname>Kramer</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Mitchell</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Monteiro</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Patient activity and survival following implantable cardioverter&#x02010;defibrillator implantation: the ALTITUDE activity study</article-title>. <source xml:lang="en">J Am Heart Assoc</source>. <year>2015</year>;<volume>4</volume>:<elocation-id>e001775</elocation-id>.<pub-id pub-id-type="pmid">25979902</pub-id></mixed-citation></ref><ref id="clc23288-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="clc23288-cit-0009">
+<string-name>
+<surname>Palmisano</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Guerra</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ammendola</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Physical activity measured by Implanted devices predicts atrial arrhythmias and patient outcome: results of IMPLANTED (Italian multicentre observational registry on patients with implantable devices remotely monitored)</article-title>. <source xml:lang="en">J Am Heart Assoc</source>. <year>2018</year>;<volume>7</volume>:<elocation-id>e008146</elocation-id>.<pub-id pub-id-type="pmid">29478022</pub-id></mixed-citation></ref><ref id="clc23288-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="clc23288-cit-0010">
+<string-name>
+<surname>Zhao</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Association between patient activity and long&#x02010;term cardiac death in patients with implantable cardioverter&#x02010;defibrillators and cardiac resynchronization therapy defibrillators</article-title>. <source xml:lang="en">Eur J Prev Cardiol</source>. <year>2017</year>;<volume>24</volume>:<fpage>760</fpage>&#x02010;<lpage>767</lpage>.<pub-id pub-id-type="pmid">28117620</pub-id></mixed-citation></ref><ref id="clc23288-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="clc23288-cit-0011">
+<string-name>
+<surname>Adabag</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Therneau</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Gersh</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Weston</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Roger</surname>
+<given-names>VL</given-names>
+</string-name>. <article-title>Sudden death after myocardial infarction</article-title>. <source xml:lang="en">JAMA</source>. <year>2008</year>;<volume>300</volume>:<fpage>2022</fpage>&#x02010;<lpage>2029</lpage>.<pub-id pub-id-type="pmid">18984889</pub-id></mixed-citation></ref><ref id="clc23288-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="clc23288-cit-0012">
+<string-name>
+<surname>Kannel</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Plehn</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Cupples</surname>
+<given-names>LA</given-names>
+</string-name>. <article-title>Cardiac failure and sudden death in the Framingham study</article-title>. <source xml:lang="en">Am Heart J</source>. <year>1988</year>;<volume>115</volume>:<fpage>869</fpage>&#x02010;<lpage>875</lpage>.<pub-id pub-id-type="pmid">3354416</pub-id></mixed-citation></ref><ref id="clc23288-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="clc23288-cit-0013">
+<string-name>
+<surname>Fries</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f6;nig</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000e4;fers</surname>
+<given-names>H&#x02010;J</given-names>
+</string-name>, <string-name>
+<surname>B&#x000f6;hm</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Triggering effect of physical and mental stress on spontaneous ventricular tachyarrhythmias in patients with implantable cardioverter&#x02010;defibrillators</article-title>. <source xml:lang="en">Clin Cardiol</source>. <year>2002</year>;<volume>25</volume>:<fpage>474</fpage>&#x02010;<lpage>478</lpage>.<pub-id pub-id-type="pmid">12375806</pub-id></mixed-citation></ref><ref id="clc23288-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="clc23288-cit-0014">
+<string-name>
+<surname>Chahal</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Mostofsky</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Mittleman</surname>
+<given-names>MA</given-names>
+</string-name>, et al. <article-title>Aerobic fitness and risk of ventricular arrhythmia following physical exertion</article-title>. <source xml:lang="en">Can J Cardiol</source>. <year>2016</year>;<volume>32</volume>:<fpage>533</fpage>&#x02010;<lpage>538</lpage>.<pub-id pub-id-type="pmid">27017150</pub-id></mixed-citation></ref><ref id="clc23288-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="clc23288-cit-0015">
+<string-name>
+<surname>Klein</surname>
+<given-names>HU</given-names>
+</string-name>, <string-name>
+<surname>Goldenberg</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Moss</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>Risk stratification for implantable cardioverter defibrillator therapy: the role of the wearable cardioverter&#x02010;defibrillator</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2013</year>;<volume>34</volume>:<fpage>2230</fpage>&#x02010;<lpage>2242</lpage>.<pub-id pub-id-type="pmid">23729691</pub-id></mixed-citation></ref><ref id="clc23288-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="clc23288-cit-0016">
+<string-name>
+<surname>O'Donovan</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>I&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Hamer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Stamatakis</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Association of &#x0201c;weekend warrior&#x0201d; and other leisure time physical activity patterns with risks for all&#x02010;cause, cardiovascular disease, and cancer mortality</article-title>. <source xml:lang="en">JAMA Intern Med</source>. <year>2017</year>;<volume>177</volume>:<fpage>335</fpage>&#x02010;<lpage>342</lpage>.<pub-id pub-id-type="pmid">28097313</pub-id></mixed-citation></ref><ref id="clc23288-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="clc23288-cit-0017">
+<string-name>
+<surname>Piercy</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Troiano</surname>
+<given-names>RP</given-names>
+</string-name>. <article-title>Physical activity guidelines for Americans from the US Department of Health and Human Services</article-title>. <source xml:lang="en">Circ Cardiovasc Qual Outcomes</source>. <year>2018</year>;<volume>11</volume>:<elocation-id>e005263</elocation-id>.<pub-id pub-id-type="pmid">30571339</pub-id></mixed-citation></ref><ref id="clc23288-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="clc23288-cit-0018">
+<string-name>
+<surname>Choi</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sohn</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Cardiac rehabilitation exercise training for high&#x02010;risk cardiac patients</article-title>. <source xml:lang="en">Ann Rehabil Med</source>. <year>2017</year>;<volume>41</volume>:<fpage>650</fpage>&#x02010;<lpage>658</lpage>.<pub-id pub-id-type="pmid">28971050</pub-id></mixed-citation></ref><ref id="clc23288-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="clc23288-cit-0019">
+<string-name>
+<surname>Holloway</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Dass</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Suttie</surname>
+<given-names>JJ</given-names>
+</string-name>, et al. <article-title>Exercise training in dilated cardiomyopathy improves rest and stress cardiac function without changes in cardiac high energy phosphate metabolism</article-title>. <source xml:lang="en">Heart</source>. <year>2012</year>;<volume>98</volume>:<fpage>1083</fpage>&#x02010;<lpage>1090</lpage>.<pub-id pub-id-type="pmid">22739638</pub-id></mixed-citation></ref><ref id="clc23288-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="clc23288-cit-0020">
+<string-name>
+<surname>Alley</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schoeppe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Guertler</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Jennings</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Duncan</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Vandelanotte</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Interest and preferences for using advanced physical activity tracking devices: results of a national cross&#x02010;sectional survey</article-title>. <source xml:lang="en">BMJ Open</source>. <year>2016</year>;<volume>6</volume>:<elocation-id>e011243</elocation-id>.</mixed-citation></ref><ref id="clc23288-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="clc23288-cit-0021">
+<string-name>
+<surname>Macridis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Johnston</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Consumer physical activity tracking device ownership and use among a population&#x02010;based sample of adults</article-title>. <source xml:lang="en">PLoS One</source>. <year>2018</year>;<volume>13</volume>:<elocation-id>e0189298</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0189298</pub-id>.<pub-id pub-id-type="pmid">29293532</pub-id></mixed-citation></ref><ref id="clc23288-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="clc23288-cit-0022">
+<string-name>
+<surname>Bravata</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Smith&#x02010;Spangler</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sundaram</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Using pedometers to increase physical activity and improve health: a systematic review</article-title>. <source xml:lang="en">JAMA</source>. <year>2007</year>;<volume>298</volume>:<fpage>2296</fpage>&#x02010;<lpage>2304</lpage>.<pub-id pub-id-type="pmid">18029834</pub-id></mixed-citation></ref><ref id="clc23288-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="clc23288-cit-0023">
+<string-name>
+<surname>Izawa</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Omiya</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Effect of the self&#x02010;monitoring approach on exercise maintenance during cardiac rehabilitation: a randomized, controlled trial</article-title>. <source xml:lang="en">Am J Phys Med Rehabil</source>. <year>2005</year>;<volume>84</volume>:<fpage>313</fpage>&#x02010;<lpage>321</lpage>.<pub-id pub-id-type="pmid">15829777</pub-id></mixed-citation></ref><ref id="clc23288-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="clc23288-cit-0024">
+<string-name>
+<surname>Marijon</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Uy&#x02010;Evanado</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dumas</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Warning symptoms are associated with survival from sudden cardiac arrest</article-title>. <source xml:lang="en">Ann Intern Med</source>. <year>2016</year>;<volume>164</volume>:<fpage>23</fpage>&#x02010;<lpage>29</lpage>.<pub-id pub-id-type="pmid">26720493</pub-id></mixed-citation></ref><ref id="clc23288-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="clc23288-cit-0025">
+<string-name>
+<surname>M&#x000fc;ller</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Agrawal</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Arntz</surname>
+<given-names>H&#x02010;R</given-names>
+</string-name>. <article-title>How sudden is sudden cardiac death?</article-title>
+<source xml:lang="en">Circulation</source>. <year>2006</year>;<volume>114</volume>:<fpage>1146</fpage>&#x02010;<lpage>1150</lpage>.<pub-id pub-id-type="pmid">16952983</pub-id></mixed-citation></ref><ref id="clc23288-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="clc23288-cit-0026">
+<string-name>
+<surname>Narayan</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Daubert</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>New concepts in sudden cardiac arrest to address an intractable epidemic: JACC State&#x02010;of&#x02010;the&#x02010;Art Review</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2019</year>;<volume>73</volume>:<fpage>70</fpage>&#x02010;<lpage>88</lpage>.<pub-id pub-id-type="pmid">30621954</pub-id></mixed-citation></ref><ref id="clc23288-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="clc23288-cit-0027">
+<string-name>
+<surname>Minges</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Strait</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Gender differences in physical activity following acute myocardial infarction in adults: a prospective, observational study</article-title>. <source xml:lang="en">Eur J Prev Cardiol</source>. <year>2017</year>;<volume>24</volume>:<fpage>192</fpage>&#x02010;<lpage>203</lpage>.<pub-id pub-id-type="pmid">27885060</pub-id></mixed-citation></ref><ref id="clc23288-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="clc23288-cit-0028">
+<string-name>
+<surname>Ambarish</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sushil</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Monica</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Dose&#x02013;response relationship between physical activity and risk of heart failure</article-title>. <source xml:lang="en">Circulation</source>. <year>2015</year>;<volume>132</volume>:<fpage>1786</fpage>&#x02010;<lpage>1794</lpage>.<pub-id pub-id-type="pmid">26438781</pub-id></mixed-citation></ref></ref-list></back></article>

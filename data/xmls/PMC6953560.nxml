@@ -1,0 +1,757 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938496</article-id><article-id pub-id-type="pmc">6953560</article-id><article-id pub-id-type="doi">10.1002/ece3.5835</article-id><article-id pub-id-type="publisher-id">ECE35835</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Identifying the risk regions of house break&#x02010;ins caused by Tibetan brown bears (<italic>Ursus arctos pruinosus</italic>) in the Sanjiangyuan region, China</article-title><alt-title alt-title-type="left-running-head">DAI et al.</alt-title></title-group><contrib-group><contrib id="ece35835-cr-0001" contrib-type="author"><name><surname>Dai</surname><given-names>Yunchuan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3225-6698</contrib-id><xref ref-type="aff" rid="ece35835-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35835-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35835-cr-0002" contrib-type="author"><name><surname>Hacker</surname><given-names>Charlotte E.</given-names></name><xref ref-type="aff" rid="ece35835-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35835-cr-0003" contrib-type="author"><name><surname>Zhang</surname><given-names>Yuguang</given-names></name><xref ref-type="aff" rid="ece35835-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35835-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35835-cr-0004" contrib-type="author"><name><surname>Li</surname><given-names>Wenwen</given-names></name><xref ref-type="aff" rid="ece35835-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ece35835-cr-0005" contrib-type="author"><name><surname>Li</surname><given-names>Jia</given-names></name><xref ref-type="aff" rid="ece35835-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="ece35835-cr-0006" contrib-type="author"><name><surname>Zhang</surname><given-names>Yu</given-names></name><xref ref-type="aff" rid="ece35835-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="ece35835-cr-0007" contrib-type="author"><name><surname>Bona</surname><given-names>Gongbaocairen</given-names></name><xref ref-type="aff" rid="ece35835-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="ece35835-cr-0008" contrib-type="author"><name><surname>Liu</surname><given-names>Haodong</given-names></name><xref ref-type="aff" rid="ece35835-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="ece35835-cr-0009" contrib-type="author"><name><surname>Li</surname><given-names>Ye</given-names></name><xref ref-type="aff" rid="ece35835-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35835-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35835-cr-0010" contrib-type="author" corresp="yes"><name><surname>Xue</surname><given-names>Yadong</given-names></name><xref ref-type="aff" rid="ece35835-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35835-aff-0002">
+<sup>2</sup>
+</xref><address><email>xueyadong334@163.com</email></address></contrib><contrib id="ece35835-cr-0011" contrib-type="author" corresp="yes"><name><surname>Li</surname><given-names>Diqiang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6878-6703</contrib-id><xref ref-type="aff" rid="ece35835-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35835-aff-0002">
+<sup>2</sup>
+</xref><address><email>lidiqiang_caf@163.com</email></address></contrib></contrib-group><aff id="ece35835-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Research Institute of Forest Ecology, Environment and Protection</named-content>
+<institution>Chinese Academy of Forestry</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="ece35835-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Key Laboratory of Biodiversity Conservation</named-content>
+<institution>State Forestry and Grassland Administration</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="ece35835-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Biological Sciences</named-content>
+<institution>Duquesne University</institution>
+<city>Pittsburgh</city>
+<named-content content-type="country-part">PA</named-content>
+<country country="US">USA</country>
+</aff><aff id="ece35835-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Key Laboratory for Biodiversity Science and Ecological Engineering</named-content>
+<named-content content-type="organisation-division">Ministry of Education</named-content>
+<named-content content-type="organisation-division">College of Life Sciences</named-content>
+<institution>Beijing Normal University</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="ece35835-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Institute of Desertification Studies</named-content>
+<institution>Chinese Academy of Forestry</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="ece35835-aff-0006">
+<label><sup>6</sup></label>
+<institution>Qilian Mountain National Park Qinghai Administration</institution>
+<city>Xining</city>
+<country country="CN">China</country>
+</aff><aff id="ece35835-aff-0007">
+<label><sup>7</sup></label>
+<institution>The People's Government of Duocai Township</institution>
+<city>Zhiduo</city>
+<country country="CN">China</country>
+</aff><aff id="ece35835-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Research Institute of Forest Resource Information Techniques</named-content>
+<institution>Chinese Academy of Forestry</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Diqiang Li and&#x000a0;Yadong Xue, Research Institute of Forest Ecology, Environment and Protection, Chinese Academy of Forestry, Beijing 100091, China.<break/>
+Emails: <email>lidiqiang_caf@163.com</email> (DL) ; <email>xueyadong334@163.com</email> (YX)<break/></corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>12</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>13979</fpage><lpage>13990</lpage><history><date date-type="received"><day>27</day><month>4</month><year>2019</year></date><date date-type="rev-recd"><day>12</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>21</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-13979.pdf"/><abstract id="ece35835-abs-0001"><title>Abstract</title><p>Damage to homesteads by brown bears (<italic>Ursus arctos</italic>) has become commonplace in Asia, Europe, and the Americas. Science&#x02010;based solutions for preventing damages can contribute to the establishment of mechanisms that promote human&#x02013;bear coexistence. We examined the spatial distribution patterns of house break&#x02010;ins by Tibetan brown bears (<italic>U.&#x000a0;a.&#x000a0;pruinosus</italic>) in Zhiduo County of the Sanjiangyuan region in China. Occurrence points of bear damage were collected from field surveys completed from 2017 to 2019. The maximum entropy (MaxEnt) model was then used to assess house break&#x02010;in risk. Circuit theory modeling was used to simulate risk diffusion paths based on the risk map generated from our MaxEnt model. The results showed that (a) the total risk area of house break&#x02010;ins caused by brown bears was 11,577.91&#x000a0;km<sup>2</sup>, accounting for 29.85% of Zhiduo County, with most of the risk areas were distributed in Sanjiangyuan National Park, accounting for 58.31% of the total risk area; (b) regions of alpine meadow located in Sanjiangyuan National Park with a high human population density were associated with higher risk; (c) risk diffusion paths extended southeast to northwest, connecting the inside of Sanjiangyuan National Park to its outside border; and (d) eastern Suojia, southern Zhahe, eastern Duocai, and southern Jiajiboluo had more risk diffusion paths than other areas examined, indicating higher risk for brown bear break&#x02010;ins in these areas. Risk diffusion paths will need strong conservation management to facilitate migration and gene flow of brown bears and to alleviate bear damage, and implementation of compensation schemes may be necessary in risk areas to offset financial burdens. Our analytical methods can be applied to conflict reduction efforts and wildlife conservation planning across the Qinghai&#x02013;Tibet Plateau.</p></abstract><abstract abstract-type="graphical" id="ece35835-abs-0002"><p>Assessing risk areas and simulating risk diffusion paths are crucial steps toward mitigating brown bear damage and provide a foundation for developing conservation programs and policies that aimed at making coexistence possible.<boxed-text position="anchor" content-type="graphic" id="ece35835-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-13979-g008.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35835-kwd-0001">bear damage</kwd><kwd id="ece35835-kwd-0002">house break&#x02010;ins</kwd><kwd id="ece35835-kwd-0003">risk assessment</kwd><kwd id="ece35835-kwd-0004">risk diffusion path</kwd><kwd id="ece35835-kwd-0005">Sanjiangyuan region</kwd><kwd id="ece35835-kwd-0006"><styled-content style="fixed-case" toggle="no"><italic>Ursus arctos pruinosus</italic></styled-content></kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>National Key R&#x00026;D Program of China</funding-source><award-id>2017YFC0506405</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="1"/><page-count count="12"/><word-count count="8582"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35835-cit-1001">
+<string-name>
+<surname>Dai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hacker</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Identifying the risk regions of house break&#x02010;ins caused by Tibetan brown bears (<italic>Ursus arctos pruinosus</italic>) in the Sanjiangyuan region, China</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>13979</fpage>&#x02013;<lpage>13990</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5835</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35835-body-0001"><sec id="ece35835-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Anthropogenic influences have affected every ecosystem on earth, with demands and pressures on wildlife resources steadily increasing (Samojlik et al., <xref rid="ece35835-bib-0046" ref-type="ref">2018</xref>; Strum, <xref rid="ece35835-bib-0051" ref-type="ref">2010</xref>). Over&#x02010;exploitation of natural resources reduces, fragments, and isolates wildlife habitat across landscapes, and threatens numerous endangered animal species (Fahrig, <xref rid="ece35835-bib-0017" ref-type="ref">2003</xref>; Rushton, Wood, Lurz, &#x00026; Koprowski, <xref rid="ece35835-bib-0045" ref-type="ref">2006</xref>). As a result, these species must capitalize on novel human resources to survive, causing conflict between humans and wildlife (Samojlik et al., <xref rid="ece35835-bib-0046" ref-type="ref">2018</xref>; Soofi, Qashqaei, Aryal, &#x00026; Coogan, <xref rid="ece35835-bib-0050" ref-type="ref">2018</xref>; Strum, <xref rid="ece35835-bib-0051" ref-type="ref">2010</xref>). These instances are exacerbated when guided conservation policies facilitate wildlife population recovery, but existing habitat is unable to support these increased numbers, increasing human&#x02010;wildlife conflict (HWC; Messmer, <xref rid="ece35835-bib-0032" ref-type="ref">2000</xref>).</p><p>Human&#x02010;wildlife conflict results in negative outcomes for humans or their resources, and wildlife and their habitats (Can, D'Cruze, Garshelis, Beecham, &#x00026; Macdonald, <xref rid="ece35835-bib-0009" ref-type="ref">2014</xref>; Lamichhane et al., <xref rid="ece35835-bib-0023" ref-type="ref">2018</xref>; van Eeden et al., <xref rid="ece35835-bib-0054" ref-type="ref">2018</xref>). Conflict types include house break&#x02010;ins (Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>), human injury and death (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>; Pozsgai, <xref rid="ece35835-bib-0040" ref-type="ref">2017</xref>; White &#x00026; Ward, <xref rid="ece35835-bib-0057" ref-type="ref">2010</xref>), livestock depredation (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>; Meinecke et al., <xref rid="ece35835-bib-0031" ref-type="ref">2018</xref>; Peterson, Birckhead, Leong, Peterson, &#x00026; Peterson, <xref rid="ece35835-bib-0038" ref-type="ref">2010</xref>; van Eeden et al., <xref rid="ece35835-bib-0054" ref-type="ref">2018</xref>), crop raiding (Liu et al., <xref rid="ece35835-bib-0028" ref-type="ref">2011</xref>), and disease transmission (DeCandia, Dobson, &#x00026; vonHoldt, <xref rid="ece35835-bib-0015" ref-type="ref">2018</xref>). Consequences for wildlife include removal, retaliatory killing, and reduced tolerance for coexistence, which can lead to population decline, fragmentation (Proctor et al., <xref rid="ece35835-bib-0043" ref-type="ref">2012</xref>), and elevated conservation concerns (Dickman, <xref rid="ece35835-bib-0016" ref-type="ref">2010</xref>; Li, Yin, Wang, Jiagong, &#x00026; Lu, <xref rid="ece35835-bib-0025" ref-type="ref">2013</xref>; van Eeden et al., <xref rid="ece35835-bib-0054" ref-type="ref">2018</xref>). Attacks on humans by endangered animals that are legally protected are especially controversial (Prasad, Kumar, Raj, Michael, &#x00026; Bi&#x02010;Song, <xref rid="ece35835-bib-0041" ref-type="ref">2016</xref>). This is because if human beings hurt these animals, they would be punished by law. But if these animals hurt humans, then humans can only get a little financial compensation. Human&#x02013;wildlife coexistence strategies are influenced by many factors, including religion, cultural, and economic value of wildlife products, and the financial losses stemming from the conflict, making them difficult to manage (Aryal, Morley, &#x00026; McLean, <xref rid="ece35835-bib-0006" ref-type="ref">2018</xref>; Dickman, <xref rid="ece35835-bib-0016" ref-type="ref">2010</xref>; Li et al., <xref rid="ece35835-bib-0025" ref-type="ref">2013</xref>). Previous studies have linked the increase of HWC and its associated economic loss in many countries, including China (Aryal, Brunton, Ji, Barraclough, &#x00026; Raubenheimer, <xref rid="ece35835-bib-0004" ref-type="ref">2014</xref>; Karamanlidis, Sanopoulos, Georgiadis, &#x00026; Zedrosser, <xref rid="ece35835-bib-0020" ref-type="ref">2011</xref>; Li et al., <xref rid="ece35835-bib-0025" ref-type="ref">2013</xref>, <xref rid="ece35835-bib-0026" ref-type="ref">2018</xref>; Liu et al., <xref rid="ece35835-bib-0028" ref-type="ref">2011</xref>; Rigg et al., <xref rid="ece35835-bib-0044" ref-type="ref">2011</xref>).</p><p>The Tibetan brown bear (<italic>Ursus arctos pruinosus</italic>; Figure <xref rid="ece35835-fig-0001" ref-type="fig">1</xref>), also known as the Tibetan blue bear, is a rare subspecies of brown bear living at high altitudes in close proximity to humans in Central Asia (Dai, Hacker, et al., <xref rid="ece35835-bib-0011" ref-type="ref">2019</xref>; Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>; Xu et al., <xref rid="ece35835-bib-0059" ref-type="ref">2006</xref>). The species population estimate is between 5,000 and 6,000 individuals (Wu, <xref rid="ece35835-bib-0058" ref-type="ref">2014</xref>). Due to effective conservation policies and reduced hunting in the Sanjiangyuan region, Tibetan brown bears are becoming more abundant each year (Yan et al., <xref rid="ece35835-bib-0060" ref-type="ref">2019</xref>). However, humans have overexploited large&#x02010;scale grasslands to meet growing demands in the past few decades, resulting in a declining habitat quality and a highly fragmented distribution of brown bears (Nawaz, Martin, &#x00026; Swenson, <xref rid="ece35835-bib-0036" ref-type="ref">2014</xref>). Large areas of alpine meadow, a preferred habitat of the brown bear, have been degraded due to overgrazing in the Sanjiangyuan region, disrupting the regular migration paths of brown bears and increasing the overlap between species' distribution and herders' living areas (Dai, Hacker, et al., <xref rid="ece35835-bib-0011" ref-type="ref">2019</xref>). The attempt to take novel migration routes coupled with increased overlap has caused an increase in the number of human&#x02013;bear conflicts, severely elevating the degree of bear damage. Moreover, the high altitude of the Sanjiangyuan region limits the number of plant food species rich in sugar and fat energy that can cultivate there. Thus, brown bears rely on digging pikas (<italic>Ochotona curzoniae</italic>) and marmots (<italic>Marmota himalayana</italic>) for food, but these resources can take a substantial amount of energy to procure (Wu, <xref rid="ece35835-bib-0058" ref-type="ref">2014</xref>). The presence of readily available and high&#x02010;energy food sources in herders' residential areas serve as a much more efficient foraging strategy, but increase the risk of brown bears damaging herders' property and threatening herders' personal safety (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35835-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Tibetan brown bear (<italic>Ursus arctos pruinosus</italic>) captured by camera trapping in the Yangtze River Zone of Sanjiangyuan National Park, China</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-13979-g001"/></fig><p>In China, conflict between humans and Tibetan brown bears is prominent among HWC events (Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>). These events can be extreme with reports of brown bears attacking people and preying on livestock (Aryal, Hopkins, Raubenheimer, &#x00026; Brunton, <xref rid="ece35835-bib-0005" ref-type="ref">2012</xref>; Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>; Han et al., <xref rid="ece35835-bib-0018" ref-type="ref">2018</xref>; Yan et al., <xref rid="ece35835-bib-0060" ref-type="ref">2019</xref>). House break&#x02010;ins by Tibetan brown bears started in 1998 when herders started to build winter homes in the Sanjiangyuan region of China. According to the Wildlife Damage Compensation Program (WDCP) of Qinghai Forestry and Grassland Administration, wildlife damage in Qinghai Province between 2014 and 2017 resulted in financial compensation of approximately $4.03&#x000a0;million USD, of which $1.69&#x000a0;million USD (41.94%) was caused by brown bear (data provided by the WDCP). Brown bears damage home doors, windows, furniture, and daily supplies (Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>; Han et al., <xref rid="ece35835-bib-0018" ref-type="ref">2018</xref>; Wu, <xref rid="ece35835-bib-0058" ref-type="ref">2014</xref>). In addition, they threaten local herders' physical safety (Aryal et al., <xref rid="ece35835-bib-0004" ref-type="ref">2014</xref>; Aryal, Raubenheimer, et al., <xref rid="ece35835-bib-0007" ref-type="ref">2012</xref>; Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>; Han et al., <xref rid="ece35835-bib-0018" ref-type="ref">2018</xref>; Wu, <xref rid="ece35835-bib-0058" ref-type="ref">2014</xref>). Between 2014 and 2017, 14 herders were attacked by brown bears in Qinghai Province, injuring five people and killing nine (data provided by the WDCP). Bear damage has become an increasingly urgent and important issue for China to resolve but is complicated by the need to preserve and protect the species (Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>). To foster human&#x02013;bear coexistence and implement spatially differentiated management of risk areas, it is imperative to better understand brown bear ecology, determine the relationship between risk areas and their surrounding environment, and to understand the spatial distribution characteristics associated with incidents of brown bear damage.</p><p>Our research used maximum entropy (MaxEnt) modeling to identify regions at risk of house break&#x02010;ins where Tibetan brown bears are currently distributed and to predict future risks. We used the circuit theory model based on the random walk theory to simulate the risk diffusion paths of Tibetan brown bears within Zhiduo County of Sanjiangyuan region. We aimed to achieve the following goals: (a) explore how ecological environment variables are linked to risk areas and analyze the spatial distribution characteristics of risk regions; (b) identify risk diffusion paths and analyze connections between Tibetan brown bears located in and outside the Sanjiangyuan National Park; (c) combine the results of (a) and (b) to discuss the risk areas and risk diffusion paths; and (d) suggest mitigation strategies in accordance to differing risk levels and diffusion paths. The purpose of this study is to provide scientific support for the management of brown bear damage in Sanjiangyuan National Park and to provide feasible recommendations for the protection of Tibetan brown bears and herder livelihoods.</p></sec><sec sec-type="materials-and-methods" id="ece35835-sec-0002"><label>2</label><title>MATERIAL AND METHODS</title><sec id="ece35835-sec-0003"><label>2.1</label><title>Study area</title><p>Zhiduo County of Sanjiangyuan region (between 92.7066&#x000b0; and 96.3751&#x000b0;E, 33.2948&#x000b0; and 34.7546&#x000b0;N; excluding Hoh Xil National Nature Reserve; 38,793.4&#x000a0;km<sup>2</sup>) has an average altitude of 4,500&#x000a0;m and is located on the central part of the Qinghai&#x02013;Tibet Plateau in China (Figure <xref rid="ece35835-fig-0002" ref-type="fig">2</xref>). The area is dominated by alpine meadow vegetation, accounting for 50.84% of the study area. The weather is typically dry and cold with the annual average temperature ranging from &#x02212;0.3&#x000b0;C to &#x02212;6&#x000b0;C and the annual precipitation consisting mostly of snow fall ranging from 150 to 420&#x000a0;mm. Zhiduo County is rich in wildlife species. Representative ungulates include Przewalski's gazelle (<italic>Procapra przewalskii</italic>), Tibetan antelope (<italic>Pantholops hodgsonii</italic>), Tibetan gazelle (<italic>Procapra picticaudata</italic>), wild yak (<italic>Bos mutus</italic>), Kiang (<italic>Equus kiang</italic>), and blue sheep (<italic>Pseudois nayaur</italic>). Carnivores include snow leopard (<italic>Panthera uncia</italic>), Tibetan brown bear, gray wolf (<italic>Canis lupus</italic>), Tibetan fox (<italic>Vulpes ferrilata</italic>), and dhole (<italic>Cuon alpinus</italic>) (data provided by the Sanjiangyuan National Park administration; <ext-link ext-link-type="uri" xlink:href="http://sjy.qinghai.gov.cn/">http://sjy.qinghai.gov.cn/</ext-link>). Zhiduo has 68 pastoral communities spread across 5 townships (Suojia, Zhahe, Duocai, Zhiqu, and Lixin) and 1 town (Jiajiboluo) with 34,236 inhabitants. Tibetans account for more than 98.35% of residents, with the remainder being Han, Hui people, and others (data provided by the government of Zhiduo County; <ext-link ext-link-type="uri" xlink:href="http://www.zhiduo.gov.cn/">http://www.zhiduo.gov.cn/</ext-link>). Among them, Suojia and Zhahe are encompassed by the Yangtze River Zone of Sanjiangyuan National Park, Duocai and Suojia border the Lancang River Zone of Sanjiangyuan National Park (Figure <xref rid="ece35835-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35835-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Location of Zhiduo County of Sanjiangyuan region, Qinghai&#x02013;Tibet Plateau. The study area excludes Hoh Xil National Nature Reserve and only includes Suojia, Zhahe, Duocai, Zhiqu, Lixin and Jiajiboluo. Among them, Suojia and Zhahe are encompassed by the Yangtze River Zone of Sanjiangyuan National Park, Duocai and Suojia border the Lancang River Zone of Sanjiangyuan National Park (SNP)</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-13979-g002"/></fig></sec><sec id="ece35835-sec-0004"><label>2.2</label><title>Occurrence records</title><p>All appropriate permits and permissions for research involving human subjects were acquired prior to study start. An Institutional Review Board exemption was granted as no identifying information was collected during the interview. Data on bear damage occurrences were compiled from field surveys conducted at different times between 2017 and 2019 in various localities of Zhiduo County, Qinghai Province. Presence points of bear damage were collected by conducting household surveys and semi&#x02010;structured interviews during field surveys carried out as part of other research projects (Dai, Hacker, et al., <xref rid="ece35835-bib-0011" ref-type="ref">2019</xref>; Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>). Coordinates of bear damage were recorded with GPS. Incidents primarily included house break&#x02010;ins (including damage of doors, windows, furniture, and daily supplies) and livestock depredation in domestic animal enclosures. In total, we interviewed 255 households in Zhiduo County and collected 239 GPS coordinates of bear damage. Among them, 228 GPS coordinates consisted of house break&#x02010;ins, and 11 for both house break&#x02010;ins and penned livestock depredation. We attributed each accident location as an occurrence point. Only 16 households did not experience bear damage. In order to reduce autocorrelation, we filtered occurrence points by randomly selecting one point in each grid of 1&#x000a0;km<sup>2</sup> according to model optimization recommendations and previous studies (Aryal et al., <xref rid="ece35835-bib-0008" ref-type="ref">2016</xref>; Dai, Hacker, et al., <xref rid="ece35835-bib-0011" ref-type="ref">2019</xref>; Li, Liu, Xue, Zhang, &#x00026; Li, <xref rid="ece35835-bib-0024" ref-type="ref">2017</xref>; Phillips, Anderson, &#x00026; Schapire, <xref rid="ece35835-bib-0039" ref-type="ref">2006</xref>).</p></sec><sec id="ece35835-sec-0005"><label>2.3</label><title>Environmental variables</title><p>We selected environmental variables based on geographic environmental characteristics, human disturbance, brown bear ecology, and those used in previously published literature (Dai, Hacker, et al., <xref rid="ece35835-bib-0011" ref-type="ref">2019</xref>; Li et al., <xref rid="ece35835-bib-0026" ref-type="ref">2018</xref>; Wu, <xref rid="ece35835-bib-0058" ref-type="ref">2014</xref>). Environmental variables were categorized into three groups: (a) geographic environmental factors, such as elevation, slope, aspect, distance to rivers, density of river distribution, distance to lakes, and density of lake distribution; (b) human factors, such as human population density, human influence index; and (c) factors associated with brown bear ecology, such as distance to the Sanjiangyuan National Park, land use type, and Normalized Difference Vegetation Index (NDVI). Variables considered were not only related to anthropogenic disturbance, but also to brown bear distribution. For example, the distance to the Sanjiangyuan National Park is an important variable for assessing brown bear distribution&#x000a0;because the park provides important habitat and refugia for brown bears (Dai, Hacker, et al., <xref rid="ece35835-bib-0011" ref-type="ref">2019</xref>; Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>); land use type and NDVI determine the richness of natural food source of the brown bear.</p><p>Elevation, aspect, and slope were derived from the ASTER GDEM V2 digital elevation model (at 30&#x000a0;m resolution; <ext-link ext-link-type="uri" xlink:href="http://www.gscloud.cn/">http://www.gscloud.cn/</ext-link>). Normalized Difference Vegetation Index (NDVI) and human population density were obtained from the Resource and Environment Data Cloud Platform (NDVI in 2018; human population density in 2015; at 1&#x000a0;km resolution; <ext-link ext-link-type="uri" xlink:href="http://www.resdc.cn/">http://www.resdc.cn/</ext-link>). Human Influence Index (HII) was obtained from the Socioeconomic Data and Applications Center, NASA (Last of the Wild, v2; at 1&#x000a0;km resolution; <ext-link ext-link-type="uri" xlink:href="http://sedac.ciesin.columbia.edu/">http://sedac.ciesin.columbia.edu/</ext-link>). HII represents anthropogenic impacts (1995&#x02013;2004), calculated by integrating human accessibility, human land use, and human population pressure.</p><p>Land use/land cover data of the study site were obtained by interpreting 2017 Landsat 8 OLI (at 30&#x000a0;m resolution; U.S. Geological Survey; <ext-link ext-link-type="uri" xlink:href="https://www.usgs.gov/">https://www.usgs.gov/</ext-link>) and adopting a 1:50,000 digital elevation model (DEM) as a reference control image to correct for geometric biases by using ENVI 5.1 (ESRI Inc.). An RMS error &#x0003c;1 indicates that the land use/land cover data fulfills the precision standards of research. Land use/land cover data were organized into 12 categories: (1) coniferous forest, (2) bush, (3) alpine meadow, (4) alpine steppe, (5) swamp, (6) water body, (7) river bed, (8) bare rock, (9) desert, and (10) other.</p></sec><sec id="ece35835-sec-0006"><label>2.4</label><title>Variable standardization and selection</title><p>All spatial variables were resampled to 500&#x000a0;m resolution (Li et al., <xref rid="ece35835-bib-0027" ref-type="ref">2019</xref>) and unified projection coordinate system (Clarke_1866_Albers) in ArcGIS 10.1 (ESRI Inc.). The correlation coefficient of variables was computed by using the tool of Band Collection Statistics (BCS) in ArcGIS 10.1. In order to identify the key variables affecting estimation model of human&#x02013;bear conflict risk, variables were screened in a series of three steps. First, the multicollinearity of variables was reduced by eliminating correlation variables where |<italic>r</italic>|&#x000a0;&#x0003e;&#x000a0;0.6 (Li et al., <xref rid="ece35835-bib-0026" ref-type="ref">2018</xref>; Appendix <xref rid="ece35835-sup-0001" ref-type="supplementary-material">S1</xref>). Second, we introduced the remaining variables to model and removed those with no contribution rates. Third, the most influential variables based on contribution rates obtained from the output of the first model were selected, and the model repeated (Dai, Hacker, et al., <xref rid="ece35835-bib-0011" ref-type="ref">2019</xref>).</p></sec><sec id="ece35835-sec-0007"><label>2.5</label><title>Modeling risk distributions of house break&#x02010;ins</title><p>There were 16 households that reported they did not experience bear damage. The logistic regression model is more appropriate than the presence&#x02010;only maximum entropy (MaxEnt) model, because the risk distribution map is better&#x02010;informed with both presence and absence data than with presence data alone (Miller, <xref rid="ece35835-bib-0033" ref-type="ref">2015</xref>). However, these 16 households were primarily concentrated in residential areas with a higher density of humans and thus greater human interference; therefore, these occurrence points cannot objectively represent the environmental characteristics of the houses that were not damaged by brown bears. Hence, we selected the MaxEnt model to predict risk distributions of house break&#x02010;ins (Dai, Hacker, et al., <xref rid="ece35835-bib-0011" ref-type="ref">2019</xref>; Li et al., <xref rid="ece35835-bib-0026" ref-type="ref">2018</xref>). The parameters of MaxEnt model were set to 25% for random test percentage and 1 regularization multiplier (Aryal et al., <xref rid="ece35835-bib-0008" ref-type="ref">2016</xref>; Su et al., <xref rid="ece35835-bib-0052" ref-type="ref">2018</xref>). We ran 15 replicates and preformed a cross&#x02010;validation (Dai, Hacker, et al., <xref rid="ece35835-bib-0011" ref-type="ref">2019</xref>; Phillips et al., <xref rid="ece35835-bib-0039" ref-type="ref">2006</xref>; Vedel&#x02010;S&#x000f8;rensen, Tovaranonte, B&#x000f8;cher, Balslev, &#x00026; Barfod, <xref rid="ece35835-bib-0055" ref-type="ref">2013</xref>). Percent contribution was used to estimate the importance of variables. Risk maps were calculated using the logistic output of MaxEnt, and the logical risk index (RI) is from the lowest &#x0201c;0&#x0201d; to the highest &#x0201c;1.&#x0201d; We classified the risk maps into four categories including &#x0201c;high risk&#x0201d; (RI&#x000a0;&#x02265;&#x000a0;0.6), &#x0201c;medium risk&#x0201d; (0.4&#x000a0;&#x02264;&#x000a0;RI&#x000a0;&#x0ff1c;&#x000a0;0.6), &#x0201c;low risk&#x0201d; (0.2&#x000a0;&#x02264;&#x000a0;RI&#x000a0;&#x0ff1c;&#x000a0;0.4), and &#x0201c;nonrisk&#x0201d; (RI&#x000a0;&#x0ff1c;&#x000a0;0.2; Yang, Kushwaha, Saran, Xu, &#x00026; Roy, <xref rid="ece35835-bib-0061" ref-type="ref">2013</xref>; Convertino, Mu&#x000f1;oz&#x02010;Carpena, Chu&#x02010;Agor, Kiker, &#x00026; Linkov, <xref rid="ece35835-bib-0010" ref-type="ref">2014</xref>; Ansari &#x00026; Ghoddousi, <xref rid="ece35835-bib-0002" ref-type="ref">2018</xref>).</p><p>We evaluated MaxEnt model performance by using the area under the receiver operating characteristic curve (AUC) (Su et al., <xref rid="ece35835-bib-0052" ref-type="ref">2018</xref>). AUC is an independent threshold value to verify the accuracy of model outputs, and its value ranges from 0 to 1. When AUC is closer to 1, the accuracy of the model is higher (Araujo, Pearson, Thuiller, &#x00026; Erhard, <xref rid="ece35835-bib-0003" ref-type="ref">2005</xref>; Dai, Hacker, et al., <xref rid="ece35835-bib-0011" ref-type="ref">2019</xref>; Phillips et al., <xref rid="ece35835-bib-0039" ref-type="ref">2006</xref>).</p></sec><sec id="ece35835-sec-0008"><label>2.6</label><title>Predicting risk diffusion paths</title><p>Circuit model is based on circuit theory, predicting the movement of random walkers between source and target cells across a landscape by electricity patterns (Dai, Hacker, et al., <xref rid="ece35835-bib-0011" ref-type="ref">2019</xref>; McRae &#x00026; Beier, <xref rid="ece35835-bib-0029" ref-type="ref">2007</xref>; McRae, Shah, &#x00026; Mohapatra, <xref rid="ece35835-bib-0030" ref-type="ref">2013</xref>; Walpole, Bowman, Murray, &#x00026; Wilson, <xref rid="ece35835-bib-0056" ref-type="ref">2012</xref>). We simulated risk diffusion paths for brown bears based on the risk map from our MaxEnt model by using Circuitscape software 4.0 (<ext-link ext-link-type="uri" xlink:href="https://circuitscape.org/">https://circuitscape.org/</ext-link>). The model mode, calculation, and mapping options for Circuitscape were set to pairwise mode (run in low&#x02010;memory mode), use average conductance instead of resistance for connections between cells, write cumulative and max current maps only, and set focal node currents to zero (Dai, Hacker, et al., <xref rid="ece35835-bib-0011" ref-type="ref">2019</xref>). We inverted the RI value to link the risk region of house break&#x02010;ins with low movement resistance, and vice versa. Specifically, we used the functions of negative exponential transformation to convert RI into resistance values (Dai, Hacker, et al., <xref rid="ece35835-bib-0011" ref-type="ref">2019</xref>; Keeley, Beier, &#x00026; Gagnon, <xref rid="ece35835-bib-0021" ref-type="ref">2016</xref>; Li et al., <xref rid="ece35835-bib-0026" ref-type="ref">2018</xref>):<disp-formula id="ece35835-disp-0001"><mml:math id="nlm-math-1"><mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:mrow><mml:mtext>If RI</mml:mtext><mml:mo>&#x0003e;</mml:mo><mml:mtext>Threshold</mml:mtext><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mtext>Risk Region</mml:mtext><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mtext>Resistance</mml:mtext><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mtext>If RI</mml:mtext><mml:mo>&#x0003c;</mml:mo><mml:mtext>Threshold</mml:mtext><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mtext>Nonrisk Region</mml:mtext><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mtext>Resistance</mml:mtext><mml:mo>=</mml:mo><mml:msup><mml:mi mathvariant="normal">e</mml:mi><mml:mrow><mml:mfrac><mml:mrow><mml:mi>ln</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>0.001</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mtext>threshold</mml:mtext></mml:mfrac><mml:mo>&#x000d7;</mml:mo><mml:mtext>RI</mml:mtext></mml:mrow></mml:msup><mml:mo>&#x000d7;</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mn>000</mml:mn></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd/></mml:mtr></mml:mtable></mml:mrow></mml:math></disp-formula>
+</p></sec></sec><sec sec-type="results" id="ece35835-sec-0009"><label>3</label><title>RESULTS</title><sec id="ece35835-sec-0010"><label>3.1</label><title>Model performance</title><p>In the MaxEnt model, 218 occurrence points and 11 variables were used to construct the risk assessment model. The percent contribution of model variables ranked from highest to lowest were Land use type (34.1%), Population density (31.4%), Normalized Difference Vegetation Index (10.4%), Distance to rivers (10.1%), Distance to lakes; (4.8%), Distance to Sanjiangyuan National Park (3.9%), Density of lake distribution (2.7%), Elevation (2%), Slope (0.4%), Density of river distribution (0.2%), and Aspect (0.1%). Land use type was found to have the greatest influence on the spatial risk distributions of house break&#x02010;ins. The cross&#x02010;validation value illustrated sufficient performance for model outputs (average testing AUC was 0.983&#x000a0;&#x000b1;&#x000a0;0.0042; average training AUC was 0.986&#x000a0;&#x000b1;&#x000a0;0.0001; Figure <xref rid="ece35835-fig-0003" ref-type="fig">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35835-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Statistical graphs of MaxEnt model output results. (a) is the receiver operating characteristic (ROC) curve and average test AUC for accuracy analysis of risk prediction by MaxEnt model and (b) is the analysis of test omission rate and predicted area, where values indicate the training gain only with variables</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-13979-g003"/></fig></sec><sec id="ece35835-sec-0011"><label>3.2</label><title>Risk distributions of house break&#x02010;ins</title><p>The total risk area of house break&#x02010;ins caused by brown bears was 11,577.91&#x000a0;km<sup>2</sup>, accounting for 29.85% of Zhiduo County of the Sanjiangyuan region (Table <xref rid="ece35835-tbl-0001" ref-type="table">1</xref> and Figure <xref rid="ece35835-fig-0004" ref-type="fig">4</xref>). The low&#x02010;risk area covered the largest portion of land (about 5,633.01&#x000a0;km<sup>2</sup>), accounting for 48.65% of the total risk area, followed by medium risk (4,811.66&#x000a0;km<sup>2</sup>, 41.56%) and high risk (1,133.24&#x000a0;km<sup>2</sup>, 9.79%; Table <xref rid="ece35835-tbl-0001" ref-type="table">1</xref>). Suojia had the largest risk area (3,950.94&#x000a0;km<sup>2</sup>; 34.12%), followed by Zhahe (2,800.43&#x000a0;km<sup>2</sup>; 24.19%), Duocai (2,471.10&#x000a0;km<sup>2</sup>; 21.34%), Zhiqu (1,174.09&#x000a0;km<sup>2</sup>; 10.14%), Jiajiboluo (884.42&#x000a0;km<sup>2</sup>; 7.64%), and Lixin (296.93&#x000a0;km<sup>2</sup>; 2.56%; Table <xref rid="ece35835-tbl-0001" ref-type="table">1</xref> and Figure <xref rid="ece35835-fig-0004" ref-type="fig">4</xref>).</p><table-wrap id="ece35835-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Statistics of risk region of house break&#x02010;ins caused by brown bears in Zhiduo County of the Sanjiangyuan region (area unit: km<sup>2</sup>; percent unit: %)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Township</th><th align="left" rowspan="2" valign="bottom" colspan="1">Nonrisk</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Low risk</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Medium risk</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">High risk</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Total of risk</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Area</th><th align="left" valign="bottom" rowspan="1" colspan="1">Percent</th><th align="left" valign="bottom" rowspan="1" colspan="1">Area</th><th align="left" valign="bottom" rowspan="1" colspan="1">Percent</th><th align="left" valign="bottom" rowspan="1" colspan="1">Area</th><th align="left" valign="bottom" rowspan="1" colspan="1">Percent</th><th align="left" valign="bottom" rowspan="1" colspan="1">Area</th><th align="left" valign="bottom" rowspan="1" colspan="1">Percent</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Suojia</td><td align="char" char="." rowspan="1" colspan="1">12,095.38</td><td align="char" char="." rowspan="1" colspan="1">2,075.3</td><td align="char" char="." rowspan="1" colspan="1">52.53</td><td align="char" char="." rowspan="1" colspan="1">1,734.12</td><td align="char" char="." rowspan="1" colspan="1">43.89</td><td align="char" char="." rowspan="1" colspan="1">141.52</td><td align="char" char="." rowspan="1" colspan="1">3.58</td><td align="char" char="." rowspan="1" colspan="1">3,950.94</td><td align="left" rowspan="1" colspan="1">34.12</td></tr><tr><td align="left" rowspan="1" colspan="1">Zhahe</td><td align="char" char="." rowspan="1" colspan="1">3,548.08</td><td align="char" char="." rowspan="1" colspan="1">1,307.41</td><td align="char" char="." rowspan="1" colspan="1">46.69</td><td align="char" char="." rowspan="1" colspan="1">1,206.68</td><td align="char" char="." rowspan="1" colspan="1">43.09</td><td align="char" char="." rowspan="1" colspan="1">286.34</td><td align="char" char="." rowspan="1" colspan="1">10.22</td><td align="char" char="." rowspan="1" colspan="1">2,800.43</td><td align="left" rowspan="1" colspan="1">24.19</td></tr><tr><td align="left" rowspan="1" colspan="1">Duocai</td><td align="char" char="." rowspan="1" colspan="1">7,300.32</td><td align="char" char="." rowspan="1" colspan="1">899.03</td><td align="char" char="." rowspan="1" colspan="1">36.38</td><td align="char" char="." rowspan="1" colspan="1">1,059.22</td><td align="char" char="." rowspan="1" colspan="1">42.86</td><td align="char" char="." rowspan="1" colspan="1">512.85</td><td align="char" char="." rowspan="1" colspan="1">20.75</td><td align="char" char="." rowspan="1" colspan="1">2,471.10</td><td align="left" rowspan="1" colspan="1">21.34</td></tr><tr><td align="left" rowspan="1" colspan="1">Zhiqu</td><td align="char" char="." rowspan="1" colspan="1">1,937.47</td><td align="char" char="." rowspan="1" colspan="1">771.23</td><td align="char" char="." rowspan="1" colspan="1">65.69</td><td align="char" char="." rowspan="1" colspan="1">372.93</td><td align="char" char="." rowspan="1" colspan="1">31.76</td><td align="char" char="." rowspan="1" colspan="1">29.93</td><td align="char" char="." rowspan="1" colspan="1">2.55</td><td align="char" char="." rowspan="1" colspan="1">1,174.09</td><td align="left" rowspan="1" colspan="1">10.14</td></tr><tr><td align="left" rowspan="1" colspan="1">Lixin</td><td align="char" char="." rowspan="1" colspan="1">850.28</td><td align="char" char="." rowspan="1" colspan="1">87.29</td><td align="char" char="." rowspan="1" colspan="1">29.4</td><td align="char" char="." rowspan="1" colspan="1">153.00</td><td align="char" char="." rowspan="1" colspan="1">51.53</td><td align="char" char="." rowspan="1" colspan="1">56.64</td><td align="char" char="." rowspan="1" colspan="1">19.08</td><td align="char" char="." rowspan="1" colspan="1">296.93</td><td align="left" rowspan="1" colspan="1">2.56</td></tr><tr><td align="left" rowspan="1" colspan="1">Jiajiboluo</td><td align="char" char="." rowspan="1" colspan="1">1,483.96</td><td align="char" char="." rowspan="1" colspan="1">492.75</td><td align="char" char="." rowspan="1" colspan="1">55.71</td><td align="char" char="." rowspan="1" colspan="1">285.71</td><td align="char" char="." rowspan="1" colspan="1">32.3</td><td align="char" char="." rowspan="1" colspan="1">105.96</td><td align="char" char="." rowspan="1" colspan="1">11.98</td><td align="char" char="." rowspan="1" colspan="1">884.42</td><td align="left" rowspan="1" colspan="1">7.64</td></tr><tr><td align="left" rowspan="1" colspan="1">Total</td><td align="char" char="." rowspan="1" colspan="1">27,215.49</td><td align="char" char="." rowspan="1" colspan="1">5,633.01</td><td align="char" char="." rowspan="1" colspan="1">48.65</td><td align="char" char="." rowspan="1" colspan="1">4,811.66</td><td align="char" char="." rowspan="1" colspan="1">41.56</td><td align="char" char="." rowspan="1" colspan="1">1,133.24</td><td align="char" char="." rowspan="1" colspan="1">9.79</td><td align="char" char="." rowspan="1" colspan="1">11,577.91</td><td align="left" rowspan="1" colspan="1">100</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35835-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Predicted risk areas of house break&#x02010;ins caused by brown bears in Zhiduo County of the Sanjiangyuan region</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-13979-g004"/></fig><p>Predicted risk areas occurred widely from southeast to northwest in the study area and most were distributed in Suojia and Zhahe (6,751.37&#x000a0;km<sup>2</sup>), located in the Yangtze River Zone of Sanjiangyuan National Park, accounting for 58.31% of the total risk area (Table <xref rid="ece35835-tbl-0001" ref-type="table">1</xref> and Figure <xref rid="ece35835-fig-0004" ref-type="fig">4</xref>). However, Duocai, located outside the Sanjiangyuan National Park, had the largest proportion of high&#x02010;risk area (512.85&#x000a0;km<sup>2</sup>), accounting for 45.26% of the total high&#x02010;risk area. By analysis of types of land use in risk regions, it found that the area of the alpine meadow is the largest at 11,060.34&#x000a0;km<sup>2</sup>, accounting for 95.53% of the total risk area (Figure <xref rid="ece35835-fig-0005" ref-type="fig">5</xref>; Appendix <xref rid="ece35835-sup-0001" ref-type="supplementary-material">S2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35835-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>The land use type of house break&#x02010;in risk areas</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-9-13979-g005"/></fig></sec><sec id="ece35835-sec-0012"><label>3.3</label><title>The risk diffusion paths of brown bears</title><p>Eastern Suojia, southern Zhahe, eastern Duocai, and southern Jiajiboluo exhibited risk diffusion paths with high&#x000a0;current flow extending from the southeast to the northwest, connecting the inside and outside of the Sanjiangyuan National Park (Figure <xref rid="ece35835-fig-0006" ref-type="fig">6</xref>). Risk diffusion paths with high&#x000a0;current flow were primarily distributed in high&#x02010; and medium&#x02010;risk areas, whereas risk diffusion paths with low&#x000a0;current flow were primarily located in low&#x02010;risk areas (Figures <xref rid="ece35835-fig-0004" ref-type="fig">4</xref> and <xref rid="ece35835-fig-0006" ref-type="fig">6</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35835-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Risk diffusion paths for brown bears in Zhiduo County were simulated by the Circuit model based on the risk map</p></caption><graphic id="nlm-graphic-13" xlink:href="ECE3-9-13979-g006"/></fig></sec></sec><sec sec-type="discussion" id="ece35835-sec-0013"><label>4</label><title>DISCUSSION</title><sec id="ece35835-sec-0014"><label>4.1</label><title>Model limitations</title><p>The results of this study have some limitations and uncertainties. First, some factors related to human&#x02013;bear encounter probability were missing, such as herders' grazing range. We initially planned to use participatory mapping to outline herders' grazing ranges across seasons, but the difference in summer pasture from year to year made it impossible to unify and standardize the resulting data. As an alternative, we contacted the local Animal Husbandry Bureau for information on pasture range size, but spatial distribution maps of ranges were unavailable. Another limitation was inability to interview households in less accessible habitat. Zhiduo County is located in the hinterland of the Qinghai&#x02013;Tibet Plateau. This area is characterized by high altitudes, harsh weather, and limited roadways, with its inhabitants living vast distances between each other. There likely are occurrence points of house break&#x02010;ins caused by brown bears that were not collected due to these research challenges, which may bias results. Nonetheless, outcomes represent a reliable analysis of the risk distribution areas of house break&#x02010;ins caused by brown bears and are based on the best available data.</p></sec><sec id="ece35835-sec-0015"><label>4.2</label><title>Representative type of brown bear damage</title><p>Tibetan brown bears have been the most dangerous species for humans in the Sanjiangyuan region (Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>; Wu, <xref rid="ece35835-bib-0058" ref-type="ref">2014</xref>). They not only predate livestock, but also break into houses and attack people (Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>; Han et al., <xref rid="ece35835-bib-0018" ref-type="ref">2018</xref>; Wu, <xref rid="ece35835-bib-0058" ref-type="ref">2014</xref>), a behavior which herders find intolerable (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>). In our field survey, we found that house break&#x02010;ins by brown bears posed the greatest threat to the livelihood of local people. However, the type of brown bear damage in other areas of the Himalayas, such as Nepal, is dominated by livestock depredation, rather than house break&#x02010;ins (Aryal, Hopkins, et al., <xref rid="ece35835-bib-0005" ref-type="ref">2012</xref>). Brown bears raiding houses in the Sanjiangyuan region of China may be directly related to the availability of accessible food (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>). Herders in the Sanjiangyuan region store food in their permanent winter houses over the summer while they are away (Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>). Over time, brown bears have learned to exploit this food resource (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>). Hibernation patterns may also play a role. Tibetan brown bears hibernate from late October or early November to the middle of March of the following year (Han et al., <xref rid="ece35835-bib-0018" ref-type="ref">2018</xref>). Post hibernation, brown bears need to replenish energy, but the temperature in the Sanjiangyuan region is still very low and most marmots have not finished hibernation, causing a natural food shortage. Therefore, brown bears seek high&#x02010;energy food in herders' homes, such as yak butter, flour, meat, and livestock fodder (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>). In the process of searching for food, daily supplies (e.g., cabinets, teapots, bowls, and calfskin bags) are damaged, resulting in even more economic loss (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>).</p></sec><sec id="ece35835-sec-0016"><label>4.3</label><title>Characteristics of risk distributions</title><sec id="ece35835-sec-0017"><label>4.3.1</label><title>Spatial variation of risk distributions</title><p>More risk areas for house break&#x02010;ins were found inside as opposed to outside Sanjiangyaun National Park (Figure <xref rid="ece35835-fig-0004" ref-type="fig">4</xref>). This may be related to a larger population of brown bears in the national park. Another considerable factor is the national park's rich biodiversity. Although national parks offer some degree of refuge to brown bears from human disturbance and are vital for conservation, many have insufficient resources to harbor large populations of brown bears, encouraging brown bears to seek readily available food sources in areas with herder settlements. However, some risk areas were geographically distant from the Sanjiangyuan National Park, indicating that brown bears may be incentivized to travel further if nearby winter houses lack food. For instance, when herders move to their summer pasture, brown bears may be prone to approach regions where herders are occupying temporary living spaces (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>). The third contributing factor could be that a proportion of the herders' activity range in the Sanjiangyuan National Park overlaps with brown bears' habitat (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>).</p><p>There was lower risk in the western region of Suojia and southwestern of Duocai (Figure <xref rid="ece35835-fig-0004" ref-type="fig">4</xref>). This may be due to fewer brown bears in the area given the reduced area of suitable habitat and food in these regions. Alpine steppe habitat is less suitable than alpine meadow for brown bears (Wu, <xref rid="ece35835-bib-0058" ref-type="ref">2014</xref>; Xu et al., <xref rid="ece35835-bib-0059" ref-type="ref">2006</xref>), and the west regions of Suojia and southwestern of Duocai have fewer continuous alpine meadow patches than that in other regions of study area (Figure <xref rid="ece35835-fig-0005" ref-type="fig">5</xref>; Appendix <xref rid="ece35835-sup-0001" ref-type="supplementary-material">S2</xref>). Further, alpine steppe patches (Figure <xref rid="ece35835-fig-0005" ref-type="fig">5</xref>; Appendix <xref rid="ece35835-sup-0001" ref-type="supplementary-material">S2</xref>) harbor fewer pikas and marmots.</p><p>The southeastern (A) and northeastern areas (B) of Suojia, the northern areas (C) of Duocai, and northwestern areas (D) of Zhiqu had higher risk index (Figure <xref rid="ece35835-fig-0005" ref-type="fig">5</xref>), but currently there are no records of Tibetan brown bears breaking into houses or preying on livestock in these regions. However, these areas constitute continuous alpine meadow patches and are relatively close to other present bear damage sites (Figure <xref rid="ece35835-fig-0005" ref-type="fig">5</xref>), suggesting a greater potential likelihood of future brown bear raiding. Protective measures (e.g., electric or barrier fences) for local settlements in these regions should be taken in advance.</p></sec><sec id="ece35835-sec-0018"><label>4.3.2</label><title>The direction of risk diffusion paths</title><p>The risk diffusion paths extended from the southeast to the northwest, connecting the inside of Sanjiangyuan National Park to the outside. This direction of risk diffusion paths is possibly related to the fact that human disturbance within the Sanjiangyuan National Park is more scarce compared to the outer region of the national park. It has been noted that the habitat quality within the Sanjiangyuan National Park is much higher than that of the national park exterior; therefore, areas within Sanjiangyuan National Park provide an ideal refuge for brown bears (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>). In addition, there are more herders' homes outside of the Sanjiangyuan National Park than within the national park, thus providing more readily available and high&#x02010;energy food sources for brown bears. Upon both the onset and completion of hibernation, brown bears require substantial amounts of high&#x02010;energy fatty foods. Because these foods are lacking in Sanjiangyuan National Park (Wu, <xref rid="ece35835-bib-0058" ref-type="ref">2014</xref>), brown bears may diffuse along these paths to more human dominated settlements in search of human food, such as dairy products, meat products, and livestock (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>).</p><p>The risk diffusion paths of Zhiqu, Jiajiboluo, and Lixin spread to the Sanjiangyuan National Park through Duocai; the risk diffusion paths of Suojia and Zhahe spread out to the Sanjiangyuan National Park through Duocai (Figure <xref rid="ece35835-fig-0006" ref-type="fig">6</xref>). Duocai serves as a core connection point for risk diffusion paths inside and outside the national park. This may make herders living in these areas more susceptible to the negative outcomes of bear damage. It is essential to implement and strengthen protection measures in these areas.</p><p>The high current diffusion paths were mainly concentrated on alpine meadows (Figure <xref rid="ece35835-fig-0005" ref-type="fig">5</xref>; Figure <xref rid="ece35835-fig-0006" ref-type="fig">6</xref>). Alpine meadows provide rich natural food for the brown bear during the migration. Herder settlements are at a low density inside the limits of the Sanjiangyuan National Park, so bears traveling through the area rely on natural, rather than human food for energy. Alpine meadows are richer in rodents than other types of vegetation; therefore, brown bears tend to choose alpine meadow patches when they spread over long distance.</p></sec></sec><sec id="ece35835-sec-0019"><label>4.4</label><title>Suggestions to mitigate bear damage</title><sec id="ece35835-sec-0020"><label>4.4.1</label><title>Conventional and new mitigation strategies to mitigate bear damage</title><p>Local herders have adopted a variety of strategies to discourage brown bears from breaking into their homes. These include dogs, scarecrows, firecrackers, strengthening doors and walls, and building fences around homes (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>; Han et al., <xref rid="ece35835-bib-0018" ref-type="ref">2018</xref>; Wu, <xref rid="ece35835-bib-0058" ref-type="ref">2014</xref>). When families move to their summer pastures, economic losses that could be caused by brown bears to their winter homes can be decreased in a number of ways. These include placing 24&#x02010;hr solar&#x02010;powered radios in winter homes to create the illusion that the house is inhabited, leaving doors and windows open, carrying all food with them when moving to summer pastures, asking relatives to keep watch of their houses, and putting iron nail plates around houses (Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>; Han et al., <xref rid="ece35835-bib-0018" ref-type="ref">2018</xref>). We suggest some additional methods to be adopted by the local government and neighboring wildlife agencies to prevent bear damage, such as electric fences (Ambarli &#x00026; Bilgin, <xref rid="ece35835-bib-0001" ref-type="ref">2008</xref>; Huygens &#x00026; Hayashi, <xref rid="ece35835-bib-0019" ref-type="ref">2000</xref>; Proctor et al., <xref rid="ece35835-bib-0042" ref-type="ref">2018</xref>; Sapkota, Aryal, Baral, Hayward, &#x00026; Raubenheimer, <xref rid="ece35835-bib-0047" ref-type="ref">2014</xref>), steel bins (Schirokauer &#x00026; Boyd, <xref rid="ece35835-bib-0048" ref-type="ref">1998</xref>), bear spray (Miller, Freimund, Metcalf, Nickerson, &#x00026; Powell, <xref rid="ece35835-bib-0034" ref-type="ref">2019</xref>; Smith, Herrero, Debruyn, &#x00026; Wilder, <xref rid="ece35835-bib-0049" ref-type="ref">2011</xref>), and diversionary feeding (Kubasiewicz, Bunnefeld, Tulloch, Quine, &#x00026; Park, <xref rid="ece35835-bib-0022" ref-type="ref">2015</xref>). These measures should first consider herders who are located in high&#x02010;risk areas or in proximity to high&#x000a0;current risk diffusion paths. Mitigation measures should also be tailored to region, taking into account local realities such as geography, laws and regulations, culture and religious practices (Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>).</p></sec><sec id="ece35835-sec-0021"><label>4.4.2</label><title>Strengthen management of the high&#x000a0;current risk diffusion paths</title><p>Although the herders living around high&#x000a0;current risk diffusion paths, such as the herders in eastern region of Duocai (Figure <xref rid="ece35835-fig-0006" ref-type="fig">6</xref>), are more likely to suffer brown bear damage, it remains that these risk diffusion paths serve as important ecological corridors for brown bears and must be protected. The disruption of bear migration would have negative impacts on local ecosystems and human life. For example, if unable to migrate to resource&#x02010;rich areas, brown bears may seek at herder homes for food at even higher rates. In addition, reduced accessibility between populations previously provided by corridors would reduce genetic exchange inside and outside the national park. In order to reduce the property losses of herders living around the high&#x000a0;current risk diffusion paths, local government and wildlife responsible agencies should focus on strengthening the protection of their properties. At the same time, warning signs should be placed around the high&#x000a0;current risk diffusion paths, and humans should always be alert to the presence of brown bears.</p></sec><sec id="ece35835-sec-0022"><label>4.4.3</label><title>Compensation suggestions based on predicted risk map</title><p>Financial compensation programs play an important role in supporting herders that live in carnivore damage hotspots within national park boundaries (Aryal et al., <xref rid="ece35835-bib-0004" ref-type="ref">2014</xref>). In Sanjiangyuan National Park, the compensation program is key to minimizing retaliation against carnivores (Dai, Li, et al., <xref rid="ece35835-bib-0013" ref-type="ref">2019</xref>; Dai, Xue, et al., <xref rid="ece35835-bib-0014" ref-type="ref">2019</xref>). Compensation programs also present opportunities for pastoral communities to establish close relationships with the local Forestry Department, engendering trust in authority that can improve attitudes toward conservation (Dickman, <xref rid="ece35835-bib-0016" ref-type="ref">2010</xref>; Treves &#x00026; Karanth, <xref rid="ece35835-bib-0053" ref-type="ref">2010</xref>; Miller et al, 2015). However, only one compensation program currently supports herders in the Sanjiangyuan National Park, and this cannot fully resolve carnivore damages (Li et al., <xref rid="ece35835-bib-0026" ref-type="ref">2018</xref>; Morehouse, Tigner, &#x00026; Boyce, <xref rid="ece35835-bib-0035" ref-type="ref">2018</xref>; Nyhus, Fischer, Madden, &#x00026; Osofsky, <xref rid="ece35835-bib-0037" ref-type="ref">2003</xref>). In conjunction with the current compensation program, the local government should purchase insurance for herders' properties to supplement compensation from the destruction of homes and loss of livestock.&#x000a0;High, medium and low&#x02010;grade insurance should be purchased in accordance to the high, medium, or low&#x02010;risk area where herders are living.</p></sec></sec></sec><sec sec-type="conclusions" id="ece35835-sec-0023"><label>5</label><title>CONCLUSION</title><p>Assessing risk areas and simulating risk diffusion paths are crucial steps toward mitigating brown bear damage and provide a foundation for developing conservation programs and policies that aimed at making coexistence possible. We used maximum entropy (MaxEnt) model to assess the risk regions of house break&#x02010;ins caused by Tibetan brown bears and to predict future risks. We then used the circuit theory model based on the random walk theory to simulate risk diffusion paths of brown bears within Zhiduo County of the Sanjiangyuan region. To foster human&#x02013;bear coexistence, we suggest that local government and wildlife agencies focus on managing risk areas and risk diffusion paths of brown bears, and work toward implementing new mitigation strategies, such as electric fences, steel bins, bear spray, and diversionary feeding. We also propose some compensation suggestions based on our predicted risk map. We hope our analytical methods can be applied to carnivore damage reduction efforts and carnivore conservation planning across the Qinghai&#x02013;Tibet Plateau.</p></sec><sec sec-type="COI-statement" id="ece35835-sec-0024"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35835-sec-0025"><title>AUTHOR CONTRIBUTIONS</title><p>Diqiang Li and Yadong Xue developed concept and led manuscript production. Yunchuan Dai performed the structure of manuscript, and drafted the first version of the manuscript. Charlotte E. Hacker, Yuguang Zhang, Wenwen Li, Jia Li, and Haodong Liu led spatial modeling and contributed to manuscript writing. Yu Zhang, Gongbaocairen Bona and Ye Li performed the data collection and data analysis. All co&#x02010;authors participated in the scientific discussions and commented on the manuscript.</p></sec><sec id="ece35835-sec-0026"><sec disp-level="2" id="ece35835-sec-3015"><title>OPEN RESEARCH BADGES</title><p content-type="openScience">
+<inline-graphic xlink:href="ECE3-9-13979-g007.jpg" xlink:title="image"/>This article has been awarded Open Materials and Open Data Badges. All materials and data are publicly accessible via the Open Science Framework at <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.brv15dv5m">https://doi.org/10.5061/dryad.brv15dv5m</ext-link>.</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35835-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13979-s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35835-sec-0029"><title>ACKNOWLEDGMENTS</title><p>This research was supported by National Key R&#x00026;D Program of China (2017YFC0506405). We thank Sanjiangyuan National Park Administration and Qinghai Forestry and Grassland Administration for their ground survey support for this research.</p></ack><sec sec-type="data-availability" id="ece35835-sec-0028"><title>DATA AVAILABILITY STATEMENT</title><p>All authors agreed to deposit data from this manuscript to a public repository. Data are submitted to Dryad, and DOI number is <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.brv15dv5m" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.brv15dv5m</ext-link>.</p></sec><ref-list content-type="cited-references" id="ece35835-bibl-0001"><title>REFERENCES</title><ref id="ece35835-bib-0001"><mixed-citation publication-type="journal" id="ece35835-cit-0001">
+<string-name>
+<surname>Ambarli</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bilgin</surname>, <given-names>C. C.</given-names>
+</string-name> (<year>2008</year>). <article-title>Human&#x02010;brown bear conflicts in Artvin, Northeastern Turkey: Encounters, damage, and attitudes</article-title>. <source xml:lang="en">Ursus</source>, <volume>19</volume>(<issue>2</issue>), <fpage>146</fpage>&#x02013;<lpage>153</lpage>. <pub-id pub-id-type="doi">10.2192/1537-6176-19.2.146</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0002"><mixed-citation publication-type="journal" id="ece35835-cit-0002">
+<string-name>
+<surname>Ansari</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ghoddousi</surname>, <given-names>A.</given-names>
+</string-name> (<year>2018</year>). <article-title>Water availability limits brown bear distribution at the southern edge of its global range</article-title>. <source xml:lang="en">Ursus</source>, <volume>29</volume>(<issue>1</issue>), <fpage>13</fpage>&#x02013;<lpage>25</lpage>. <pub-id pub-id-type="doi">10.2192/URSUS-D-16-00017.1</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0003"><mixed-citation publication-type="journal" id="ece35835-cit-0003">
+<string-name>
+<surname>Araujo</surname>, <given-names>M. B.</given-names>
+</string-name>, <string-name>
+<surname>Pearson</surname>, <given-names>R. G.</given-names>
+</string-name>, <string-name>
+<surname>Thuiller</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Erhard</surname>, <given-names>M.</given-names>
+</string-name> (<year>2005</year>). <article-title>Validation of species&#x02010;climate impact models under climate change</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>11</volume>(<issue>9</issue>), <fpage>1504</fpage>&#x02013;<lpage>1513</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2486.2005.01000.x</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0004"><mixed-citation publication-type="journal" id="ece35835-cit-0004">
+<string-name>
+<surname>Aryal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Brunton</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Barraclough</surname>, <given-names>R. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Raubenheimer</surname>, <given-names>D.</given-names>
+</string-name> (<year>2014</year>). <article-title>Human&#x02013;carnivore conflict: Ecological and economical sustainability of predation on livestock by snow leopard and other carnivores in the Himalaya</article-title>. <source xml:lang="en">Sustainability Science</source>, <volume>9</volume>(<issue>3</issue>), <fpage>321</fpage>&#x02013;<lpage>329</lpage>. <pub-id pub-id-type="doi">10.1007/s11625-014-0246-8</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0005"><mixed-citation publication-type="journal" id="ece35835-cit-0005">
+<string-name>
+<surname>Aryal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hopkins</surname>, <given-names>J. B.</given-names>, <suffix>III</suffix>
+</string-name>, <string-name>
+<surname>Raubenheimer</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brunton</surname>, <given-names>J. D.</given-names>
+</string-name> (<year>2012</year>). <article-title>Distribution and diet of brown bears in the upper Mustang Region, Nepal</article-title>. <source xml:lang="en">Ursus</source>, <volume>23</volume>(<issue>2</issue>), <fpage>231</fpage>&#x02013;<lpage>236</lpage>. <pub-id pub-id-type="doi">10.2307/41933230</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0006"><mixed-citation publication-type="journal" id="ece35835-cit-0006">
+<string-name>
+<surname>Aryal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Morley</surname>, <given-names>C. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McLean</surname>, <given-names>I. G.</given-names>
+</string-name> (<year>2018</year>). <article-title>Conserving elephants depend on a total ban of ivory trade globally</article-title>. <source xml:lang="en">Biodiversity and Conservation</source>, <volume>27</volume>(<issue>10</issue>), <fpage>2767</fpage>&#x02013;<lpage>2775</lpage>. <pub-id pub-id-type="doi">10.1007/s10531-018-1534-x</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0007"><mixed-citation publication-type="journal" id="ece35835-cit-0007">
+<string-name>
+<surname>Aryal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Raubenheimer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sathyakumar</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Poudel</surname>, <given-names>B. S.</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Kunwar</surname>, <given-names>K. J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Brunton</surname>, <given-names>D.</given-names>
+</string-name> (<year>2012</year>). <article-title>Conservation strategy for brown bear and its habitat in Nepal</article-title>. <source xml:lang="en">Diversity</source>, <volume>4</volume>(<issue>3</issue>), <fpage>301</fpage>&#x02013;<lpage>317</lpage>. <pub-id pub-id-type="doi">10.3390/d4030301</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0008"><mixed-citation publication-type="journal" id="ece35835-cit-0008">
+<string-name>
+<surname>Aryal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Shrestha</surname>, <given-names>U. B.</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Ale</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name>
+<surname>Shrestha</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ingty</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Raubenheimer</surname>, <given-names>D.</given-names>
+</string-name> (<year>2016</year>). <article-title>Predicting the distributions of predator (snow leopard) and prey (blue sheep) under climate change in the Himalaya</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>6</volume>(<issue>12</issue>), <fpage>4065</fpage>&#x02013;<lpage>4075</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.2196</pub-id>
+<pub-id pub-id-type="pmid">27516864</pub-id></mixed-citation></ref><ref id="ece35835-bib-0009"><mixed-citation publication-type="journal" id="ece35835-cit-0009">
+<string-name>
+<surname>Can</surname>, <given-names>&#x000d6;. E.</given-names>
+</string-name>, <string-name>
+<surname>D'Cruze</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Garshelis</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name>
+<surname>Beecham</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Macdonald</surname>, <given-names>D. W.</given-names>
+</string-name> (<year>2014</year>). <article-title>Resolving human&#x02010;bear conflict: A global survey of countries, experts, and key factors</article-title>. <source xml:lang="en">Conservation Letters</source>, <volume>7</volume>(<issue>6</issue>), <fpage>501</fpage>&#x02013;<lpage>513</lpage>. <pub-id pub-id-type="doi">10.1111/conl.12117</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0010"><mixed-citation publication-type="journal" id="ece35835-cit-0010">
+<string-name>
+<surname>Convertino</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mu&#x000f1;oz&#x02010;Carpena</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Chu&#x02010;Agor</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Kiker</surname>, <given-names>G. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Linkov</surname>, <given-names>I.</given-names>
+</string-name> (<year>2014</year>). <article-title>Untangling drivers of species distributions: Global sensitivity and uncertainty analyses of MaxEnt</article-title>. <source xml:lang="en">Environmental Modelling &#x00026; Software</source>, <volume>51</volume>, <fpage>296</fpage>&#x02013;<lpage>309</lpage>. <pub-id pub-id-type="doi">10.1016/j.envsoft.2013.10.001</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0011"><mixed-citation publication-type="book" id="ece35835-cit-0011">
+<string-name>
+<surname>Dai</surname>, <given-names>Y. C.</given-names>
+</string-name>, <string-name>
+<surname>Hacker</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y. G.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>W. W.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>H. D.</given-names>
+</string-name>, &#x02026; &#x00026; <string-name>
+<surname>Li</surname>, <given-names>D. Q.</given-names>
+</string-name> (<year>2019</year>). <source xml:lang="en">Identifying climate refugia and its potential impact on T ibetan brown bear (Ursus arctos pruinosus ) in Sanjiangyuan National Park</source>. <publisher-loc>China</publisher-loc>: <publisher-name>Ecology and Evolution</publisher-name>
+<pub-id pub-id-type="doi">10.1002/ece3.5780</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0013"><mixed-citation publication-type="journal" id="ece35835-cit-0013">
+<string-name>
+<surname>Dai</surname>, <given-names>Y. C.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>D. Q.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>W. W.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y. G.</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>, <given-names>Y. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Xue</surname>, <given-names>Y. D.</given-names>
+</string-name> (<year>2019</year>). <article-title>Summary comments on human-bear conflict mitigation measures and implications to Sanjiangyuan National Park</article-title>. <source xml:lang="en">Acta Ecologica Sinica</source>, <volume>39</volume>(<issue>22</issue>). <pub-id pub-id-type="doi">10.5846/stxb201904060672</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0014"><mixed-citation publication-type="journal" id="ece35835-cit-0014">
+<string-name>
+<surname>Dai</surname>, <given-names>Y. C.</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>, <given-names>Y. D.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>Y. F.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y. G.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, &#x02026; &#x00026; <string-name>
+<surname>Li</surname>, <given-names>D. Q.</given-names>
+</string-name> (<year>2019</year>). <article-title>The human-bear conflicts and herder attitudes and knowledge in the Yangtze River Zone of Sanjiangyuan National Park</article-title>. <source xml:lang="en">Acta Ecologica Sinica</source>, <volume>39</volume>(<issue>22</issue>). <pub-id pub-id-type="doi">10.5846/stxb201904270867</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0015"><mixed-citation publication-type="journal" id="ece35835-cit-0015">
+<string-name>
+<surname>DeCandia</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Dobson</surname>, <given-names>A. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>vonHoldt</surname>, <given-names>B. M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Toward an integrative molecular approach to wildlife disease</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>32</volume>(<issue>4</issue>), <fpage>798</fpage>&#x02013;<lpage>807</lpage>. <pub-id pub-id-type="doi">10.1111/cobi.13083</pub-id>
+<pub-id pub-id-type="pmid">29380417</pub-id></mixed-citation></ref><ref id="ece35835-bib-0016"><mixed-citation publication-type="journal" id="ece35835-cit-0016">
+<string-name>
+<surname>Dickman</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Complexities of conflict: The importance of considering social factors for effectively resolving human&#x02010;wildlife conflict</article-title>. <source xml:lang="en">Animal Conservation</source>, <volume>13</volume>(<issue>5</issue>), <fpage>458</fpage>&#x02013;<lpage>466</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-1795.2010.00368.x</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0017"><mixed-citation publication-type="journal" id="ece35835-cit-0017">
+<string-name>
+<surname>Fahrig</surname>, <given-names>L.</given-names>
+</string-name> (<year>2003</year>). <article-title>Effects of habitat fragmentation on biodiversity</article-title>. <source xml:lang="en">Annual Review of Ecology, Evolution, and Systematics</source>, <volume>34</volume>(<issue>1</issue>), <fpage>487</fpage>&#x02013;<lpage>515</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.34.011802.132419</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0018"><mixed-citation publication-type="journal" id="ece35835-cit-0018">
+<string-name>
+<surname>Han</surname>, <given-names>X. F.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>G. S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>E. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Xu</surname>, <given-names>A. C.</given-names>
+</string-name> (<year>2018</year>). <article-title>The status and characteristics of, and solutions to, human&#x02010;Tibetan brown bear conflicts in the Qinghai province</article-title>. <source xml:lang="en">Acta Theriologica Sinica</source>, <volume>38</volume>(<issue>1</issue>), <fpage>28</fpage>&#x02013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.16829/j.slxb.150106</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0019"><mixed-citation publication-type="journal" id="ece35835-cit-0019">
+<string-name>
+<surname>Huygens</surname>, <given-names>O. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hayashi</surname>, <given-names>H.</given-names>
+</string-name> (<year>2000</year>). <article-title>Using electric fences to reduce asiatic black bear depredation in Nagano prefecture, central</article-title>. <source xml:lang="en">Japan. Wildlife Society Bulletin</source>, <volume>27</volume>(<issue>4</issue>), <fpage>959</fpage>&#x02013;<lpage>964</lpage>. <pub-id pub-id-type="doi">10.1016/S0169-5347(99)01720-6</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0020"><mixed-citation publication-type="journal" id="ece35835-cit-0020">
+<string-name>
+<surname>Karamanlidis</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Sanopoulos</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Georgiadis</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zedrosser</surname>, <given-names>A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Structural and economic aspects of human&#x02013;bear conflicts in Greece</article-title>. <source xml:lang="en">Ursus</source>, <volume>22</volume>(<issue>2</issue>), <fpage>141</fpage>&#x02013;<lpage>151</lpage>. <pub-id pub-id-type="doi">10.2192/ursus-d-10-00016.1</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0021"><mixed-citation publication-type="journal" id="ece35835-cit-0021">
+<string-name>
+<surname>Keeley</surname>, <given-names>A. T. H.</given-names>
+</string-name>, <string-name>
+<surname>Beier</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gagnon</surname>, <given-names>J. W.</given-names>
+</string-name> (<year>2016</year>). <article-title>Estimating landscape resistance from habitat suitability: Effects of data source and nonlinearities</article-title>. <source xml:lang="en">Landscape Ecology</source>, <volume>31</volume>(<issue>9</issue>), <fpage>2151</fpage>&#x02013;<lpage>2162</lpage>. <pub-id pub-id-type="doi">10.1007/s10980-016-0387-5</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0022"><mixed-citation publication-type="journal" id="ece35835-cit-0022">
+<string-name>
+<surname>Kubasiewicz</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Bunnefeld</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Tulloch</surname>, <given-names>A. I. T.</given-names>
+</string-name>, <string-name>
+<surname>Quine</surname>, <given-names>C. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Park</surname>, <given-names>K. J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Diversionary feeding: An effective management strategy for conservation conflict?</article-title>
+<source xml:lang="en">Biodiversity and Conservation</source>, <volume>25</volume>(<issue>1</issue>), <fpage>1</fpage>&#x02013;<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1007/s10531-015-1026-1</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0023"><mixed-citation publication-type="journal" id="ece35835-cit-0023">
+<string-name>
+<surname>Lamichhane</surname>, <given-names>B. R.</given-names>
+</string-name>, <string-name>
+<surname>Persoon</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name>
+<surname>Leirs</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Poudel</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Subedi</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Pokheral</surname>, <given-names>C. P.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>de Iongh</surname>, <given-names>H. H.</given-names>
+</string-name> (<year>2018</year>). <article-title>Spatio&#x02010;temporal patterns of attacks on human and economic losses from wildlife in Chitwan National Park, Nepal</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>13</volume>(<issue>4</issue>), <elocation-id>e0195373</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0195373</pub-id>
+<pub-id pub-id-type="pmid">29672538</pub-id></mixed-citation></ref><ref id="ece35835-bib-0024"><mixed-citation publication-type="journal" id="ece35835-cit-0024">
+<string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Li</surname>, <given-names>D.</given-names>
+</string-name> (<year>2017</year>). <article-title>Assessing vulnerability of giant pandas to climate change in the Qinling Mountains of China</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>7</volume>(<issue>11</issue>), <fpage>4003</fpage>&#x02013;<lpage>4015</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.2981</pub-id>
+<pub-id pub-id-type="pmid">28616195</pub-id></mixed-citation></ref><ref id="ece35835-bib-0025"><mixed-citation publication-type="journal" id="ece35835-cit-0025">
+<string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Jiagong</surname>, <given-names>Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lu</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2013</year>). <article-title>Human&#x02010;snow leopard conflicts in the Sanjiangyuan Region of the Tibetan Plateau</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>166</volume>, <fpage>118</fpage>&#x02013;<lpage>123</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2013.06.024</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0026"><mixed-citation publication-type="journal" id="ece35835-cit-0026">
+<string-name>
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>Y.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zhang</surname>, <given-names>L. I.</given-names>
+</string-name> (<year>2018</year>). <article-title>Human&#x02010;elephant conflict in Xishuangbanna Prefecture, China: Distribution, diffusion, and mitigation</article-title>. <source xml:lang="en">Global Ecology and Conservation</source>, <volume>16</volume>, <elocation-id>e00462</elocation-id>
+<pub-id pub-id-type="doi">10.1016/j.gecco.2018.e00462</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0027"><mixed-citation publication-type="journal" id="ece35835-cit-0027">
+<string-name>
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name> (<year>2019</year>). <article-title>Identifying climate refugia and its potential impact on small population of Asian elephant (<italic>Elephas maximus</italic>) in China</article-title>. <source xml:lang="en">Global Ecology and Conservation</source>, <volume>19</volume>, <elocation-id>e00664</elocation-id>
+<pub-id pub-id-type="doi">10.1016/j.gecco.2019.e00664</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0028"><mixed-citation publication-type="journal" id="ece35835-cit-0028">
+<string-name>
+<surname>Liu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>McShea</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Garshelis</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shao</surname>, <given-names>L.</given-names>
+</string-name> (<year>2011</year>). <article-title>Human&#x02010;wildlife conflicts influence attitudes but not necessarily behaviors: Factors driving the poaching of bears in China</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>144</volume>(<issue>1</issue>), <fpage>538</fpage>&#x02013;<lpage>547</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2010.10.009</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0029"><mixed-citation publication-type="journal" id="ece35835-cit-0029">
+<string-name>
+<surname>McRae</surname>, <given-names>B. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beier</surname>, <given-names>P.</given-names>
+</string-name> (<year>2007</year>). <article-title>Circuit theory predicts gene flow in plant and animal populations</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>104</volume>(<issue>50</issue>), <fpage>19885</fpage>&#x02013;<lpage>19890</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0706568104</pub-id>
+<pub-id pub-id-type="pmid">18056641</pub-id></mixed-citation></ref><ref id="ece35835-bib-0030"><mixed-citation publication-type="book" id="ece35835-cit-0030">
+<string-name>
+<surname>McRae</surname>, <given-names>B. H.</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>, <given-names>V. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mohapatra</surname>, <given-names>T. K.</given-names>
+</string-name> (<year>2013</year>). <source xml:lang="en">Circuitscape 4 user guide. The nature conservancy</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.circuitscape.org">https://www.circuitscape.org</ext-link>
+</mixed-citation></ref><ref id="ece35835-bib-0031"><mixed-citation publication-type="journal" id="ece35835-cit-0031">
+<string-name>
+<surname>Meinecke</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Soofi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Riechers</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Khorozyan</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Hosseini</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Schwarze</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Waltert</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Crop variety and prey richness affect spatial patterns of human&#x02010;wildlife conflicts in Iran's Hyrcanian forests</article-title>. <source xml:lang="en">Journal for Nature Conservation</source>, <volume>43</volume>, <fpage>165</fpage>&#x02013;<lpage>172</lpage>. <pub-id pub-id-type="doi">10.1016/j.jnc.2018.04.005</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0032"><mixed-citation publication-type="journal" id="ece35835-cit-0032">
+<string-name>
+<surname>Messmer</surname>, <given-names>T. A.</given-names>
+</string-name> (<year>2000</year>). <article-title>The emergence of human&#x02013;wildlife conflict management: Turning challenges into opportunities</article-title>. <source xml:lang="en">International Biodeterioration and Biodegradation</source>, <volume>45</volume>(<issue>3&#x02013;4</issue>), <fpage>97</fpage>&#x02013;<lpage>102</lpage>. <pub-id pub-id-type="doi">10.1016/s0964-8305(00)00045-7</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0033"><mixed-citation publication-type="journal" id="ece35835-cit-0033">
+<string-name>
+<surname>Miller</surname>, <given-names>J. R. B.</given-names>
+</string-name> (<year>2015</year>). <article-title>Mapping attack hotspots to mitigate human&#x02013;carnivore conflict: Approaches and applications of spatial predation risk modeling</article-title>. <source xml:lang="en">Biodiversity and Conservation</source>, <volume>24</volume>(<issue>12</issue>), <fpage>2887</fpage>&#x02013;<lpage>2911</lpage>. <pub-id pub-id-type="doi">10.1007/s10531-015-0993-6</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0034"><mixed-citation publication-type="journal" id="ece35835-cit-0034">
+<string-name>
+<surname>Miller</surname>, <given-names>Z. D.</given-names>
+</string-name>, <string-name>
+<surname>Freimund</surname>, <given-names>W. A.</given-names>
+</string-name>, <string-name>
+<surname>Metcalf</surname>, <given-names>E. C.</given-names>
+</string-name>, <string-name>
+<surname>Nickerson</surname>, <given-names>N. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Powell</surname>, <given-names>R. B.</given-names>
+</string-name> (<year>2019</year>). <article-title>Merging elaboration and the theory of planned behavior to understand bear spray behavior of day hikers in Yellowstone national Park</article-title>. <source xml:lang="en">Environmental Management</source>, <volume>63</volume>(<issue>3</issue>), <fpage>366</fpage>&#x02013;<lpage>378</lpage>. <pub-id pub-id-type="doi">10.1007/s00267-019-01139-w</pub-id>
+<pub-id pub-id-type="pmid">30701282</pub-id></mixed-citation></ref><ref id="ece35835-bib-0035"><mixed-citation publication-type="journal" id="ece35835-cit-0035">
+<string-name>
+<surname>Morehouse</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<surname>Tigner</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Boyce</surname>, <given-names>M. S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Coexistence with large carnivores supported by a predator&#x02010;compensation program</article-title>. <source xml:lang="en">Environmental Management</source>, <volume>61</volume>(<issue>5</issue>), <fpage>719</fpage>&#x02013;<lpage>731</lpage>. <pub-id pub-id-type="doi">10.1007/s00267-017-0994-1</pub-id>
+<pub-id pub-id-type="pmid">29318357</pub-id></mixed-citation></ref><ref id="ece35835-bib-0036"><mixed-citation publication-type="journal" id="ece35835-cit-0036">
+<string-name>
+<surname>Nawaz</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Swenson</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>2014</year>). <article-title>Identifying key habitats to conserve the threatened brown bear in the Himalaya</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>170</volume>, <fpage>198</fpage>&#x02013;<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2013.12.031</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0037"><mixed-citation publication-type="journal" id="ece35835-cit-0037">
+<string-name>
+<surname>Nyhus</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Madden</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Osofsky</surname>, <given-names>S.</given-names>
+</string-name> (<year>2003</year>). <article-title>Taking the bite out of wildlife damage the challenges of wildlife compensation schemes</article-title>. <source xml:lang="en">Conservation in Practice</source>, <volume>4</volume>(<issue>2</issue>), <fpage>37</fpage>&#x02013;<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1111/j.1526-4629.2003.tb00061.x</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0038"><mixed-citation publication-type="journal" id="ece35835-cit-0038">
+<string-name>
+<surname>Peterson</surname>, <given-names>M. N.</given-names>
+</string-name>, <string-name>
+<surname>Birckhead</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Leong</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Peterson</surname>, <given-names>T. R.</given-names>
+</string-name> (<year>2010</year>). <article-title>Rearticulating the myth of human&#x02010;wildlife conflict</article-title>. <source xml:lang="en">Conservation Letters</source>, <volume>3</volume>(<issue>2</issue>), <fpage>74</fpage>&#x02013;<lpage>82</lpage>. <pub-id pub-id-type="doi">10.1111/j.1755-263X.2010.00099.x</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0039"><mixed-citation publication-type="journal" id="ece35835-cit-0039">
+<string-name>
+<surname>Phillips</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>R. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schapire</surname>, <given-names>R. E.</given-names>
+</string-name> (<year>2006</year>). <article-title>Maximum entropy modeling of species geographic distributions</article-title>. <source xml:lang="en">Ecological Modelling</source>, <volume>190</volume>(<issue>3&#x02013;4</issue>), <fpage>231</fpage>&#x02013;<lpage>259</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolmodel.2005.03.026</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0040"><mixed-citation publication-type="journal" id="ece35835-cit-0040">
+<string-name>
+<surname>Pozsgai</surname>, <given-names>G.</given-names>
+</string-name> (<year>2017</year>). <article-title>Conservation and human&#x02010;wildlife conflicts on farmland: Book review</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>32</volume>(<issue>1</issue>), <fpage>1</fpage>&#x02013;<lpage>3</lpage>. <pub-id pub-id-type="doi">10.1111/cobi.13032</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0041"><mixed-citation publication-type="journal" id="ece35835-cit-0041">
+<string-name>
+<surname>Prasad</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>, <given-names>P. P.</given-names>
+</string-name>, <string-name>
+<surname>Raj</surname>, <given-names>N. P.</given-names>
+</string-name>, <string-name>
+<surname>Michael</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bi&#x02010;Song</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2016</year>). <article-title>Human&#x02010;wildlife conflicts in Nepal: Patterns of human fatalities and injuries caused by large mammals</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>11</volume>(<issue>9</issue>), <elocation-id>e0161717</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0161717</pub-id>
+<pub-id pub-id-type="pmid">27612174</pub-id></mixed-citation></ref><ref id="ece35835-bib-0042"><mixed-citation publication-type="journal" id="ece35835-cit-0042">
+<string-name>
+<surname>Proctor</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name>
+<surname>Kasworm</surname>, <given-names>W. F.</given-names>
+</string-name>, <string-name>
+<surname>Annis</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>MacHutchon</surname>, <given-names>A. G.</given-names>
+</string-name>, <string-name>
+<surname>Teisberg</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Radandt</surname>, <given-names>T. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Servheen</surname>, <given-names>C.</given-names>
+</string-name> (<year>2018</year>). <article-title>Conservation of threatened Canada&#x02010;USA trans&#x02010;border grizzly bears linked to comprehensive conflict reduction</article-title>. <source xml:lang="en">Human Wildlife Interactions</source>, <volume>12</volume>, <fpage>348</fpage>&#x02013;<lpage>372</lpage>. <pub-id pub-id-type="doi">10.26077/yjy6-0m57</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0043"><mixed-citation publication-type="journal" id="ece35835-cit-0043">
+<string-name>
+<surname>Proctor</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name>
+<surname>Paetkau</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Mclellan</surname>, <given-names>B. N.</given-names>
+</string-name>, <string-name>
+<surname>Stenhouse</surname>, <given-names>G. B.</given-names>
+</string-name>, <string-name>
+<surname>Kendall</surname>, <given-names>K. C.</given-names>
+</string-name>, <string-name>
+<surname>Mace</surname>, <given-names>R. D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Strobeck</surname>, <given-names>C.</given-names>
+</string-name> (<year>2012</year>). <article-title>Population Fragmentation and inter&#x02010;ecosystem movements of grizzly bears in western Canada and the northern United States</article-title>. <source xml:lang="en">Wildlife Monographs</source>, <volume>180</volume>, <fpage>1</fpage>&#x02013;<lpage>46</lpage>. <pub-id pub-id-type="doi">10.1002/wmon.6</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0044"><mixed-citation publication-type="journal" id="ece35835-cit-0044">
+<string-name>
+<surname>Rigg</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Fin&#x0010f;o</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wechselberger</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gorman</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Sillero&#x02010;Zubiri</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Macdonald</surname>, <given-names>D. W.</given-names>
+</string-name> (<year>2011</year>). <article-title>Mitigating carnivore&#x02010;livestock conflict in Europe: Lessons from Slovakia</article-title>. <source xml:lang="en">Oryx</source>, <volume>45</volume>(<issue>02</issue>), <fpage>272</fpage>&#x02013;<lpage>280</lpage>. <pub-id pub-id-type="doi">10.1017/S0030605310000074</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0045"><mixed-citation publication-type="journal" id="ece35835-cit-0045">
+<string-name>
+<surname>Rushton</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>, <given-names>D. J. A.</given-names>
+</string-name>, <string-name>
+<surname>Lurz</surname>, <given-names>P. W. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Koprowski</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2006</year>). <article-title>Modelling the population dynamics of the Mt. Graham red squirrel: Can we predict its future in a changing environment with multiple threats?</article-title>
+<source xml:lang="en">Biological Conservation</source>, <volume>131</volume>(<issue>1</issue>), <fpage>121</fpage>&#x02013;<lpage>131</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocon.2006.02.010</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0046"><mixed-citation publication-type="journal" id="ece35835-cit-0046">
+<string-name>
+<surname>Samojlik</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Selva</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Daszkiewicz</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Fedotova</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wajrak</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kuijper</surname>, <given-names>D. P. J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Lessons from Bia&#x00142;owie&#x0017c;a Forest on the history of protection and the world's first reintroduction of a large carnivore</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>32</volume>(<issue>4</issue>), <fpage>808</fpage>&#x02013;<lpage>816</lpage>. <pub-id pub-id-type="doi">10.1111/cobi.13088</pub-id>
+<pub-id pub-id-type="pmid">29388699</pub-id></mixed-citation></ref><ref id="ece35835-bib-0047"><mixed-citation publication-type="journal" id="ece35835-cit-0047">
+<string-name>
+<surname>Sapkota</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Aryal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Baral</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name>
+<surname>Hayward</surname>, <given-names>M. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Raubenheimer</surname>, <given-names>D.</given-names>
+</string-name> (<year>2014</year>). <article-title>Economic analysis of electric fencing for mitigating human&#x02010;wildlife conflict in Nepal</article-title>. <source xml:lang="en">Journal of Resources and Ecology</source>, <volume>5</volume>(<issue>3</issue>), <fpage>237</fpage>&#x02013;<lpage>243</lpage>. <pub-id pub-id-type="doi">10.5814/j.issn.1674-764x.2014.03</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0048"><mixed-citation publication-type="journal" id="ece35835-cit-0048">
+<string-name>
+<surname>Schirokauer</surname>, <given-names>D. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Boyd</surname>, <given-names>H. M.</given-names>
+</string-name> (<year>1998</year>). <article-title>Bear&#x02010;human conflict management in denali national park and preserve, 1982&#x02013;94</article-title>. <source xml:lang="en">Ursus</source>, <volume>10</volume>, <fpage>395</fpage>&#x02013;<lpage>403</lpage>. <pub-id pub-id-type="doi">10.1016/j.jag.2012.04.008</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0049"><mixed-citation publication-type="journal" id="ece35835-cit-0049">
+<string-name>
+<surname>Smith</surname>, <given-names>T. S.</given-names>
+</string-name>, <string-name>
+<surname>Herrero</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Debruyn</surname>, <given-names>T. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wilder</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2011</year>). <article-title>Efficacy of bear deterrent spray in Alaska</article-title>. <source xml:lang="en">Journal of Wildlife Management</source>, <volume>72</volume>(<issue>3</issue>), <fpage>640</fpage>&#x02013;<lpage>645</lpage>. <pub-id pub-id-type="doi">10.2193/2006-452</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0050"><mixed-citation publication-type="journal" id="ece35835-cit-0050">
+<string-name>
+<surname>Soofi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Qashqaei</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<surname>Aryal</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coogan</surname>, <given-names>S. C. P.</given-names>
+</string-name> (<year>2018</year>). <article-title>Autumn food habits of the brown bear Ursus arctos in the Golestan National Park: A pilot study in Iran</article-title>. <source xml:lang="en">Mammalia</source>, <volume>82</volume>(<issue>4</issue>), <fpage>338</fpage>&#x02013;<lpage>342</lpage>. <pub-id pub-id-type="doi">10.1515/mammalia-2016-0051</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0051"><mixed-citation publication-type="journal" id="ece35835-cit-0051">
+<string-name>
+<surname>Strum</surname>, <given-names>S. C.</given-names>
+</string-name> (<year>2010</year>). <article-title>The development of primate raiding: implications for management and conservation</article-title>. <source xml:lang="en">International Journal of Primatology</source>, <volume>31</volume>(<issue>1</issue>), <fpage>133</fpage>&#x02013;<lpage>156</lpage>. <pub-id pub-id-type="doi">10.1007/s10764-009-9387-5</pub-id>
+<pub-id pub-id-type="pmid">20174437</pub-id></mixed-citation></ref><ref id="ece35835-bib-0052"><mixed-citation publication-type="journal" id="ece35835-cit-0052">
+<string-name>
+<surname>Su</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Aryal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hegab</surname>, <given-names>I. M.</given-names>
+</string-name>, <string-name>
+<surname>Shrestha</surname>, <given-names>U. B.</given-names>
+</string-name>, <string-name>
+<surname>Coogan</surname>, <given-names>S. C. P.</given-names>
+</string-name>, <string-name>
+<surname>Sathyakumar</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ji</surname>, <given-names>W.</given-names>
+</string-name> (<year>2018</year>). <article-title>Decreasing brown bear (<italic>Ursus arctos</italic>) habitat due to climate change in Central Asia and the Asian Highlands</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>8</volume>(<issue>23</issue>), <fpage>11887</fpage>&#x02013;<lpage>11899</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.4645</pub-id>
+<pub-id pub-id-type="pmid">30598784</pub-id></mixed-citation></ref><ref id="ece35835-bib-0053"><mixed-citation publication-type="journal" id="ece35835-cit-0053">
+<string-name>
+<surname>Treves</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Karanth</surname>, <given-names>K. U.</given-names>
+</string-name> (<year>2010</year>). <article-title>Human&#x02010;carnivore conflict and perspectives on carnivore management worldwide</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>17</volume>(<issue>6</issue>), <fpage>1491</fpage>&#x02013;<lpage>1499</lpage>. <pub-id pub-id-type="doi">10.2307/3588897</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0054"><mixed-citation publication-type="journal" id="ece35835-cit-0054">
+<string-name>
+<surname>van Eeden</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Eklund</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>J. R. B.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez&#x02010;Bao</surname>, <given-names>J. V.</given-names>
+</string-name>, <string-name>
+<surname>Chapron</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Cejtin</surname>, <given-names>M. R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Treves</surname>, <given-names>A.</given-names>
+</string-name> (<year>2018</year>). <article-title>Carnivore conservation needs evidence&#x02010;based livestock protection</article-title>. <source xml:lang="en">PLOS Biology</source>, <volume>16</volume>(<issue>9</issue>), <elocation-id>e2005577</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pbio.2005577</pub-id>
+<pub-id pub-id-type="pmid">30226872</pub-id></mixed-citation></ref><ref id="ece35835-bib-0055"><mixed-citation publication-type="journal" id="ece35835-cit-0055">
+<string-name>
+<surname>Vedel&#x02010;S&#x000f8;rensen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tovaranonte</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>B&#x000f8;cher</surname>, <given-names>P. K.</given-names>
+</string-name>, <string-name>
+<surname>Balslev</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barfod</surname>, <given-names>A. S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Spatial distribution and environmental preferences of 10 economically important forest palms in western South America</article-title>. <source xml:lang="en">Forest Ecology and Management</source>, <volume>307</volume>, <fpage>284</fpage>&#x02013;<lpage>292</lpage>. <pub-id pub-id-type="doi">10.1016/j.foreco.2013.07.005</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0056"><mixed-citation publication-type="journal" id="ece35835-cit-0056">
+<string-name>
+<surname>Walpole</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Bowman</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>, <given-names>D. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wilson</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Functional connectivity of lynx at their southern range periphery in Ontario</article-title>. <source xml:lang="en">Canada. Landscape Ecology</source>, <volume>27</volume>(<issue>5</issue>), <fpage>761</fpage>&#x02013;<lpage>773</lpage>. <pub-id pub-id-type="doi">10.1007/s10980-012-9728-1</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0057"><mixed-citation publication-type="journal" id="ece35835-cit-0057">
+<string-name>
+<surname>White</surname>, <given-names>P. C. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ward</surname>, <given-names>A. I.</given-names>
+</string-name> (<year>2010</year>). <article-title>Interdisciplinary approaches for the management of existing and emerging human&#x02013;wildlife conflicts</article-title>. <source xml:lang="en">Wildlife Research</source>, <volume>37</volume>(<issue>8</issue>), <fpage>623</fpage>
+<pub-id pub-id-type="doi">10.1071/WR10191</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0058"><mixed-citation publication-type="book" id="ece35835-cit-0058">
+<string-name>
+<surname>Wu</surname>, <given-names>L.</given-names>
+</string-name> (<year>2014</year>). <source xml:lang="en">Ecological study on human&#x02010;brown bear conflicts in Sanjiangyuan Area, Tibetan Plateau, China</source>. Ph.D Thesis, <publisher-name>Peking University</publisher-name>, <publisher-loc>Beijing</publisher-loc>.</mixed-citation></ref><ref id="ece35835-bib-0059"><mixed-citation publication-type="journal" id="ece35835-cit-0059">
+<string-name>
+<surname>Xu</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cai</surname>, <given-names>P.</given-names>
+</string-name> (<year>2006</year>). <article-title>Summer food habits of brown bears in Kekexili Nature Reserve, Qinghai&#x02010;Tibetan Plateau, China</article-title>. <source xml:lang="en">Ursus</source>, <volume>17</volume>(<issue>2</issue>), <fpage>132</fpage>&#x02013;<lpage>137</lpage>. <pub-id pub-id-type="doi">10.2192/1537-6176(2006)17[132:sfhobb]2.0.co;2</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0060"><mixed-citation publication-type="journal" id="ece35835-cit-0060">
+<string-name>
+<surname>Yan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zhang</surname>, <given-names>T.</given-names>
+</string-name> (<year>2019</year>). <article-title>Analysis on the human&#x02010;wildlife conflict in the Sanjiangyuan Region</article-title>. <source xml:lang="en">Acta Theriologica Sinica</source>, <volume>39</volume>(<issue>4</issue>), <fpage>476</fpage>&#x02013;<lpage>484</lpage>. <pub-id pub-id-type="doi">10.16829/j.slxb.150216</pub-id>
+</mixed-citation></ref><ref id="ece35835-bib-0061"><mixed-citation publication-type="journal" id="ece35835-cit-0061">
+<string-name>
+<surname>Yang</surname>, <given-names>X.&#x02010;Q.</given-names>
+</string-name>, <string-name>
+<surname>Kushwaha</surname>, <given-names>S. P. S.</given-names>
+</string-name>, <string-name>
+<surname>Saran</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Roy</surname>, <given-names>P. S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Maxent modeling for predicting the potential distribution of medicinal plant, <italic>Justicia adhatoda</italic> L. in Lesser Himalayan foothills</article-title>. <source xml:lang="en">Ecological Engineering</source>, <volume>51</volume>, <fpage>83</fpage>&#x02013;<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecoleng.2012.12.004</pub-id>
+</mixed-citation></ref></ref-list></back></article>

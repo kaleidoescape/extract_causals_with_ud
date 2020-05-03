@@ -1,0 +1,356 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">ARYA Atheroscler</journal-id><journal-id journal-id-type="iso-abbrev">ARYA Atheroscler</journal-id><journal-id journal-id-type="publisher-id">ARYA</journal-id><journal-title-group><journal-title>ARYA Atherosclerosis</journal-title></journal-title-group><issn pub-type="ppub">1735-3955</issn><issn pub-type="epub">2251-6638</issn><publisher><publisher-name>Isfahan Cardiovascular Research Center, Isfahan University of Medical Sciences</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31949450</article-id><article-id pub-id-type="pmc">6954357</article-id><article-id pub-id-type="publisher-id">ARYA-15-233</article-id><article-id pub-id-type="doi">10.22122/arya.v15i5.1623</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Interleukin 10, lipid profile, vitamin D, selenium, metabolic syndrome, and serum antioxidant capacity in elderly people with and without cardiovascular disease: Amirkola health and ageing project cohort-based study</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Nematollahi</surname><given-names>Hamid Reza</given-names></name><xref ref-type="aff" rid="af1-ARYA-15-233">1</xref></contrib><contrib contrib-type="author"><name><surname>Hosseini</surname><given-names>Reza</given-names></name><xref ref-type="aff" rid="af2-ARYA-15-233">2</xref></contrib><contrib contrib-type="author"><name><surname>Bijani</surname><given-names>Ali</given-names></name><xref ref-type="aff" rid="af3-ARYA-15-233">3</xref></contrib><contrib contrib-type="author"><name><surname>Akhavan-Niaki</surname><given-names>Haleh</given-names></name><xref ref-type="aff" rid="af4-ARYA-15-233">4</xref></contrib><contrib contrib-type="author"><name><surname>Parsian</surname><given-names>Hadi</given-names></name><xref ref-type="aff" rid="af5-ARYA-15-233">5</xref></contrib><contrib contrib-type="author"><name><surname>Pouramir</surname><given-names>Mahdi</given-names></name><xref ref-type="aff" rid="af5-ARYA-15-233">5</xref></contrib><contrib contrib-type="author"><name><surname>Saravi</surname><given-names>Mehrdad</given-names></name><xref ref-type="aff" rid="af6-ARYA-15-233">6</xref></contrib><contrib contrib-type="author"><name><surname>Bagherzadeh</surname><given-names>Mojgan</given-names></name><xref ref-type="aff" rid="af7-ARYA-15-233">7</xref></contrib><contrib contrib-type="author"><name><surname>Mosapour</surname><given-names>Abbas</given-names></name><xref ref-type="aff" rid="af8-ARYA-15-233">8</xref></contrib><contrib contrib-type="author"><name><surname>Saleh-Moghaddam</surname><given-names>Massud</given-names></name><xref ref-type="aff" rid="af9-ARYA-15-233">9</xref></contrib><contrib contrib-type="author"><name><surname>Rajabian</surname><given-names>Majid</given-names></name><xref ref-type="aff" rid="af9-ARYA-15-233">9</xref></contrib><contrib contrib-type="author"><name><surname>Golpour</surname><given-names>Monireh</given-names></name><xref ref-type="aff" rid="af10-ARYA-15-233">10</xref></contrib><contrib contrib-type="author"><name><surname>Mostafazadeh</surname><given-names>Amrollah</given-names></name><xref ref-type="aff" rid="af11-ARYA-15-233">11</xref><xref rid="c1-ARYA-15-233" ref-type="corresp"/></contrib></contrib-group><aff id="af1-ARYA-15-233">
+<label>1</label>Department of Biochemistry, School of Sciences, Payame Noor University of Mashhad, Mashhad, Iran</aff><aff id="af2-ARYA-15-233">
+<label>2</label>Professor, Social Determinants of Health Research Center AND Department of Community Medicine, Babol University of Medical Sciences, Babol, Iran</aff><aff id="af3-ARYA-15-233">
+<label>3</label>Assistant Professor, Social Determinants of Health Research Center, Health Research Institute, Babol University of Medical Sciences, Babol, Iran</aff><aff id="af4-ARYA-15-233">
+<label>4</label>Professor, Cellular and Molecular Biology Research Center, Health Research Institute, Babol University of Medical Sciences, Babol, Iran</aff><aff id="af5-ARYA-15-233">
+<label>5</label>Professor, Department of Biochemistry, School of Sciences, Babol University of Medical Sciences, Babol, Iran</aff><aff id="af6-ARYA-15-233">
+<label>6</label>Associate Professor, Department of Cardiology, School of Medicine, Babol University of Medical Sciences, Babol, Iran</aff><aff id="af7-ARYA-15-233">
+<label>7</label>Department of Immunology, School of Medicine, Babol University of Medical Sciences, Babol, Iran</aff><aff id="af8-ARYA-15-233">
+<label>8</label>PhD Candidate, Department of Biochemistry, School of Medicine, Babol University of Medical Sciences, Babol, Iran</aff><aff id="af9-ARYA-15-233">
+<label>9</label>Professor, Department of Biochemistry, School of Sciences, Payame Noor University of Mashhad, Mashhad, Iran</aff><aff id="af10-ARYA-15-233">
+<label>10</label>PhD Candidate, Cellular and Molecular Biology Research Center AND Student Research Committee, School of Medicine, Mazandaran University of Medical Sciences, Sari, Iran</aff><aff id="af11-ARYA-15-233">
+<label>11</label>Associate Professor, Cellular and Molecular Biology Research Center, Health Research Institute, Babol University of Medical Sciences, Babol, Iran</aff><author-notes><corresp id="c1-ARYA-15-233">Correspondence to: Amrollah Mostafazadeh, Email: <email xlink:href="amrolah65@yahoo.com">amrolah65@yahoo.com</email></corresp></author-notes><pub-date pub-type="ppub"><month>9</month><year>2019</year></pub-date><volume>15</volume><issue>5</issue><fpage>233</fpage><lpage>240</lpage><history><date date-type="received"><day>14</day><month>5</month><year>2018</year></date><date date-type="accepted"><day>10</day><month>6</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; 2019 Isfahan Cardiovascular Research Center &#x00026; Isfahan University of Medical Sciences</copyright-statement><copyright-year>2019</copyright-year><license xlink:href="http://creativecommons.org/licenses/by-nc/3.0/" license-type="open-access"><license-p>This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License which allows users to read, copy, distribute and make derivative works for non-commercial purposes from the material, as long as the author of the original work is cited properly.</license-p></license></permissions><abstract><sec id="st1"><title>BACKGROUND</title><p>The age-related autoinflammation-mediated atherosclerosis is associated with some immunological, nutritional, and metabolic parameters and redox status. Here, we evaluated the association of circulatory interleukin 10 (IL-10) levels with lipid profile, some nutrients, and total anti-oxidant capacity in elderly people who presented cardiovascular disease (CVD) with or without metabolic syndrome (MetS) and in healthy subjects.</p></sec><sec id="st2"><title>METHODS</title><p>In this cross-sectional case-control study, 258 sera prepared from elderly people (144 healthy and 114 patient subjects) who participated in a community-based study, the Amirkola Health and Ageing Project (AHAP), were analyzed for IL-10, lipid profile, vitamin D, selenium (Se), antioxidant capacity, and MetS.</p></sec><sec id="st3"><title>RESULTS</title><p>Compared to patients, the healthy subjects exhibited higher levels of circulatory IL-10 among individuals with detectable serum IL-10 (P = 0.036). However, this difference was not observed when total subjects from both groups were compared, since more than 90% of those people were IL-10-negative. Se, vitamin D, and antioxidant levels were similar in both groups. There was a negative association between IL-10 and body mass index (BMI) (P &#x0003c; 0.050) and an equivocal association with vitamin D levels, whereas the association between IL-10 and other indicated variables was not significant. Significant association was observed between MetS and CVD prevalence (P &#x0003c; 0.001). There was a positive correlation between Se and total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), and triglyceride (TG) (P &#x0003c; 0.010) in healthy subjects and with TC in patients (P &#x0003c; 0.050).</p></sec><sec id="st4"><title>CONCLUSION</title><p>A major proportion of elderly people were serum IL-10-negative, whereas independently to IL-10, MetS was most common in patients with CVD. Weight loss may have the potential to increase IL-10 levels in the elderly.</p></sec></abstract><kwd-group><kwd>Interleukin 10</kwd><kwd>Lipids</kwd><kwd>Cardiovascular Diseases</kwd><kwd>Antioxidants</kwd><kwd>Metabolic Syndrome</kwd><kwd>Elderly</kwd></kwd-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>The age-related ischemic heart disease (IHD) is still the leading cause of death worldwide.<xref rid="b1-ARYA-15-233" ref-type="bibr">1</xref> Aging could be defined as a period of human life, in which the effects of modifiable risk factors for atherosclerosis, such as dyslipidemia and metabolic syndrome (MetS), are maximally piled in the body.</p><p>Thus, the exploration of those modifiable risk factors in elder people is worth to be performed, to access to some new predisposing or preventing factors for premature cardiovascular diseases (CVDs). Indeed, CVD is common in younger people (&#x0003c; 65 years). In men, 25% and 50% of total new-onset CVD events occur before age of 55 and 65 years, respectively.<xref rid="b2-ARYA-15-233" ref-type="bibr">2</xref></p><p>Atherosclerosis is a prevalent cause of coronary heart diseases (CHDs).<xref rid="b3-ARYA-15-233" ref-type="bibr">3</xref> It is also recognized as an inflammatory disease.<xref rid="b4-ARYA-15-233" ref-type="bibr">4</xref>,<xref rid="b5-ARYA-15-233" ref-type="bibr">5</xref> Even the radiation-mediated atherosclerosis is attributed to the deoxyribonucleic acid (DNA) damage-induced chronic inflammation.<xref rid="b6-ARYA-15-233" ref-type="bibr">6</xref> Thus, targeting the inflammation was recently noticed as an attractive strategy to reduce the CVD risk factors.<xref rid="b7-ARYA-15-233" ref-type="bibr">7</xref> Moreover, the oxidized low-density lipoprotein (oxLDL)-derived substances such as oxidized cholesterol esters as the damage-associated molecular pattern (DAMP)-related molecules are well-known culprit in induction of inflammation in context of atherosclerosis, through activation of pattern recognition receptors (PRRs) such as toll-like receptor 4 (TLR4).<xref rid="b8-ARYA-15-233" ref-type="bibr">8</xref> Due to the inflammatory nature of atherosclerosis, it is reasonable to assume that the anti-inflammatory cytokines such as interleukin 10 (IL-10) can play some beneficial roles in amelioration of this process. For instance, in macrophages, IL-10 induces the down-regulation of the receptor for oxLDL cholesterol (OxLDL-C), i.e., CD36 and scavenger receptor A, and thereby inhibits the influx of this well-known atherogenic lipid, and subsequently precludes one of the key steps in atherosclerosis, namely foam cells formation, which is defined as a hallmark of atherosclerosis.<xref rid="b9-ARYA-15-233" ref-type="bibr">9</xref> Also, IL-10 prevents the apoptosis-mediated foam cells death<xref rid="b10-ARYA-15-233" ref-type="bibr">10</xref> and protects against ageing-induced dysfunction of endothelial cells.<xref rid="b11-ARYA-15-233" ref-type="bibr">11</xref> We have previously reported that healthy adult people have higher circulating IL-10 when compared to adult subjects with unstable angina.<xref rid="b12-ARYA-15-233" ref-type="bibr">12</xref> We also found a significant positive correlation between the serum levels of high-density lipoprotein cholesterol (HDL-C) with two major anti-inflammatory cytokines, IL-10 and IL-4.12 However, to our knowledge, scanty study reported the serum levels of IL-10 in elderly people. There is a report indicating that serum IL-10 is positively associated with risk of CVD in the elderly.<xref rid="b10-ARYA-15-233" ref-type="bibr">10</xref></p><p>Furthermore, since the oxidative stress is considered as one of the best-known inflammation-inducing factors in CVD,<xref rid="b13-ARYA-15-233" ref-type="bibr">13</xref> the anti-oxidant defense can also be considered as a proper partner for IL-10 to diminish the hazardous effects of inflammatory process which is involved in atherosclerosis. Probably the antioxidant capacity increase in elderly people14 is a contra-reactive mechanism to such insult. There are different types of anti-oxidant systems in our body, such as superoxide dismutase (SOD), catalase, and especially glutathione peroxidase (GPx).<xref rid="b14-ARYA-15-233" ref-type="bibr">14</xref> For the latter enzyme, selenium (Se) acts as a main cofactor which is necessary for proper functioning of this enzyme.<xref rid="b15-ARYA-15-233" ref-type="bibr">15</xref> Se also plays a pivotal role in different aspects of immune system including cytokine production as well as in regulation of inflammatory reactions.<xref rid="b16-ARYA-15-233" ref-type="bibr">16</xref> High dietary intake of Se leads to an increase in pro-inflammatory cytokine production, i.e., interferon-gamma (IFN-&#x003b3;) through skewing of naive T-helper cells differentiation to IFN-&#x003b3; producer Th1 cells, while low dietary intake of Se causes increased levels of anti-inflammatory cytokine, i.e., IL-4.<xref rid="b16-ARYA-15-233" ref-type="bibr">16</xref></p><p>Vitamin D3 (cholecalciferol) is another nutrient which in recent years has been appeared as a main player in glucose homeostasis and cardiovascular functions in elderly individuals<xref rid="b17-ARYA-15-233" ref-type="bibr">17</xref> as well as in regulation of immune responses.<xref rid="b18-ARYA-15-233" ref-type="bibr">18</xref> One billion of people especially elderly people suffer from vitamin D3 deficiency worldwide.<xref rid="b18-ARYA-15-233" ref-type="bibr">18</xref> Contrary to Se, this steroidal hormone is believed to contribute to the differentiation of naive T-cells to an anti-inflammatory type of T-helper, i.e., Th2.<xref rid="b19-ARYA-15-233" ref-type="bibr">19</xref> Thus, this vitamin can be considered as an anti atherogenesis factor acting probably through enhancing of IL-10 production.</p><p>MetS is a multicomponent modifiable risk factor for CVD which is considered as a manifestation of host inflammatory response.<xref rid="b20-ARYA-15-233" ref-type="bibr">20</xref> This worldwide prevalent syndrome has been associated to reduced IL-10 production especially in elderly people.<xref rid="b21-ARYA-15-233" ref-type="bibr">21</xref></p><p>Thus, the knowledge about the IL-10 levels and the determining factors in biogenesis of this anti-inflammatory cytokine in elderly people may provide some reliable evidence to take an effective immune modulation strategy to delay the premature atherosclerotic plaque formation and plaque rupture. To examine this strategy, in this population-based study, we determined for the first time the serum levels of IL-10, Se, and vitamin D as well as the lipid profile and total antioxidant capacity, and investigated the presence of MetS in elderly subjects with CVD and healthy controls, to evaluate the potential association of these immunological, nutritional, and biochemical parameters with CVD. This study showed that most elderly people had no significant levels of serum IL-10. However, in subjects with detectable levels of serum IL-10, there was a negative association between IL-10 and body mass index (BMI), and an equivocal association with vitamin D levels. Moreover, patients with CVD suffered from MetS much more than normal subjects, independently to serum IL-10. Thus, weight loss may have the potential to compensate this IL-10 deficiency in elderly.</p></sec><sec sec-type="methods"><title>Materials and Methods</title><p>
+<bold><italic>Patients and healthy control subjects:</italic></bold> Subjects were selected among 1616 individuals who participated in Amirkola Health and Ageing Project (AHAP) during April 2011-July 2012.<xref rid="b22-ARYA-15-233" ref-type="bibr">22</xref> In this project, the health status of elderly people who lived in Amirkola, a city located in the northern part of Iran, near the Caspian Sea, was evaluated. AHAP proposal was approved by the Ethics Committee of Babol University of Medical Sciences, Babol, Iran, and informed consent was obtained from all participants or their relatives. In the current cross-sectional case-control study, at first step, 375 patients with a history of angina, heart failure (HF), high blood pressure, and myocardial infarction (MI) were selected based on their medical records and medications that they had used for heart diseases. Among these subjects, 175 patients presenting rheumatoid arthritis (RA), 42 with fractures and trauma, 31 with diabetes, 12 with stroke history, and one person suffering from cancer were excluded from the study. Finally, 114 subjects were included in patient group. Among the remained old people (1241 of 1616 subjects), to select healthy control subjects, we excluded those who had diseases that could change the level of IL-10 in blood circulation. Thus, 152 subjects were selected as healthy control group, which were age- and sex-matched with subjects of patient group. Then, we measured the C-reactive protein (CRP) levels in sera of these subjects to exclude those with a significant common and uncommon inflammatory condition based on previous report.<xref rid="b18-ARYA-15-233" ref-type="bibr">18</xref> As mentioned, the CVDs are considered as inflammatory diseases with increased levels of CRP, so this marker was not used as a criterion in patients selection. Consequently, eight CRP-positive subjects were excluded from the study, and finally 144 subjects were selected as healthy control group. The necessary volumes of serum specimens of all selected subjects were thawed from -80 oC for further experiments.</p><p>The number of subjects with or without MetS was extracted from AHAP data bank in which those subjects have been already classified according to the Iranian National Committee on Obesity (INCO) criteria.<xref rid="b23-ARYA-15-233" ref-type="bibr">23</xref></p><p>
+<bold><italic>Serum IL-10 detection by enzyme-linked immunosorbent assay (ELISA): </italic></bold>The quantitative detection of circulating IL-10 level was performed by using the Orgenium's kit (Orgenium Laboratories, Vantaa, Finland) which was based on sandwich ELISA with sensitivity of 2 pg/ml. Some serum specimens with undetectable levels of IL-10 analyzed by this kit were rechecked with another ELISA kit (R&#x00026;D systems, USA) which exhibited a higher level of sensitivity (0.17 pg/ml). The optical density (OD) for each well was obtained by microplate reader (Stat Fax 4200 Awereness Technology, USA).</p><p>
+<bold><italic>Measurement of lipid profile: </italic></bold>Demographical data as well as serum levels of triglyceride (TG), LDL-C, and HDL-C were extracted from AHAP data bank. The indicated analytes were measured by Pars Azmoon kit (Iran) and Hitachi Auto Analyzer (Japan).</p><p>
+<bold><italic>Se assessment: </italic></bold>Serum Se concentration was measured by atomic absorption spectrophotometry (AAS) technique using Atomic Absorption Spectrophotometer (PG990, China).</p><p>
+<bold><italic>Vitamin D assessment: </italic></bold>The related values for 25-hydroxy vitamin D concentrations in sera of patients and control subjects were extracted from AHAP study data bank. These data have been provided by assessing of sera 25-hydroxy vitamin D with an ELISA-based kit (IDS, UK).</p><p>
+<bold><italic>CRP detection: </italic></bold>A qualitative CRP latex kit (Bionik/Iran) was used to detect CRP in serum of the control subjects.</p><p>
+<bold><italic>Antioxidant capacity assessment: </italic></bold>For measuring the total plasma antioxidant activity, we used the ferric reducing ability of plasma (FRAP) test. This method is based on the ability of plasma to reduce ferric ion (Fe3+) to ferrous ion (Fe2+) at low pH.<xref rid="b24-ARYA-15-233" ref-type="bibr">24</xref></p><p>
+<bold><italic>Statistical analyses: </italic></bold>The continuous data were expressed as mean &#x000b1; standard deviation (SD), and discontinuous data were expressed as frequency and percentage. Kolmogorov-Smirnov test (K-S test) was used to examine the data normality. Mean values were compared by independent samples t-test for data with normal distribution; otherwise, Mann-Whitney U test was used. Pearson and Spearman correlation coefficient values were determined for indicated normally- and non-normally-distributed data, respectively. The discontinuous data were evaluated by chi-square test. Data were analyzed by SPSS software (version 18, SPSS Inc., Chicago, IL, USA). P &#x0003c; 0.050 was considered as a significant level in all statistical tests.</p></sec><sec sec-type="result"><title>Results</title><p>As a major risk factor for coronary atherosclerosis, the lipid profile was evaluated in patients and control groups. In <xref rid="t1-ARYA-15-233" ref-type="table">table 1</xref>, it can be seen that the apparently healthy elderly people had significantly higher levels of total cholesterol (TC) and LDL-C when compared to the subjects with heart diseases (P = 0.018 and P = 0.035, respectively), while surprisingly the mean of HDL-C level was almost equal. The serum levels of TG was higher in patients group in comparison with healthy controls (P = 0.016).</p><p>As a main anti-inflammatory and anti-atherogenic cytokine, we determined the serum levels of IL-10 in all studied subjects. As shown in <xref ref-type="fig" rid="f1-ARYA-15-233">figure 1</xref>, the mean &#x000b1; SD IL-10 concentration was 0.26 &#x000b1; 1.10 (pg/ml) and 0.92 &#x000b1; 3.69 (pg/ml) in subjects with heart disease and healthy controls, respectively. This difference was not statistically significant due to a large variation between variables in the two studied groups (P &#x0003e; 0.050). Indeed, most samples (more than 90 %) had no detectable levels of serum IL-10. However, this difference appeared at a significant level when only the subjects with detectable levels of serum IL-10 in each group were statistically compared (P = 0.036) (<xref ref-type="fig" rid="f1-ARYA-15-233">Figure 1</xref>).</p><p>FRAP test was used to evaluate the levels of antioxidant defense systems between the two groups. The mean &#x000b1; SD of total serum antioxidant levels was 893 &#x000b1; 120 &#x003bc;mol/l and 966 &#x000b1; 243 &#x003bc;mol/l in healthy controls and patients group, respectively. This difference was not statistically significant (P &#x0003e; 0.050).</p><p>To evaluate the possible protective role of IL-10 in MetS development, we compared the number of all subjects suffering from MetS (n = 97) or without MetS (n = 161) in all serum IL-10-positive (n = 23) and negative (n = 235) individuals. No significant association between serum IL-10 and MetS prevalence was observed when the data were analyzed by chi-square test (P &#x0003e; 0.050). Moreover, MetS was much more common in patient subjects versus control ones (P &#x0003c; 0.001).</p><p>The association between serum IL-10 levels with BMI, one of the well-known criteria of obesity, was also investigated. As shown in <xref ref-type="fig" rid="f2-ARYA-15-233">figure 2</xref>, the subjects with detectable levels of IL-10 exhibited a significantly lower value of BMI when compared to subjects with undetectable IL-10 levels (P = 0.045). Among subjects with detectable IL-10 serum levels, there was a person with outlier of BMI; if we ignore this case, the observed difference will become more significant (P = 0.016).</p><p>Due to the well-known beneficial effects of Se on immune system as well as its important role as a cofactor for the GPx, this trace element was determined in the serum of studied subjects. Then by Pearson test, the correlations between serum Se and serum IL-10 as well as serum Se with lipid profile were determined.</p><p>The mean &#x000b1; SD of serum Se levels were 79.8 &#x000b1; 17.0 &#x003bc;g/l (n = 114) and 82.4 &#x000b1; 16.8 &#x003bc;g/l (n = 144) in patients and healthy controls, respectively. This difference was not statistically significant (P &#x0003e; 0.050). Moreover, there was no significant correlation between serum IL-10 levels and Se concentrations (P &#x0003e; 0.050). A positive correlation was found between serum Se and TC (r = 0.33, P &#x0003c; 0.050 in patients and r = 0.32, P &#x0003c; 0.010 in control group), LDL-C (r = 0.29, P &#x0003c; 0.010), and TG (r = 0.30, P &#x0003c; 0.010) only in control group. There was no significant correlation between Se and HDL-C in both groups (P &#x0003e; 0.050) (<xref ref-type="fig" rid="f3-ARYA-15-233">Figure 3</xref>).</p><p>To examine the hypothesis that 25-hydroxy vitamin D exerts its beneficial effects on cardiovascular system through modification of IL-10 production, we compared the mean &#x000b1; SD of this vitamin in subjects with and without detectable levels of IL-10 in serum, (40.48 &#x000b1; 59.30 ng/ml and 24.23 &#x000b1; 23.00 ng/ml, respectively).</p><p>As it can be seen in <xref ref-type="fig" rid="f4-ARYA-15-233">figure 4</xref>, subjects with detectable IL-10 exhibited higher levels of this vitamin in their serum compared to subject without IL-10, although this difference was not significant (P &#x0003e; 0.050) due to the existence of great variation between the two groups. If the variation was equal between groups, then this difference would become significant (P = 0.009).</p></sec><sec sec-type="discussion"><title>Discussion</title><p>In consistence with our previous study,12 we found a significant higher level of serum IL-10 in apparently healthy elderly subjects in comparison with those with CVD who had detectable amounts of this cytokine in their sera. However, we were not able to find any significant difference in serum IL-10 levels between the two groups in total subjects. This may be due to our another interesting finding indicating that the serum samples prepared from more than 90% of elderly subjects in both groups had undetectable levels of IL-10. In this study, healthy subjects had significant higher levels of serum LDL-C and TG, and same levels of HDL-C when compared to patients group. To interpret these findings, we assumed that patients used the cholesterol-lowering drugs including atorvastatin which could decrease the serum LDL-C levels, whereas it has a less effect on plasma concentrations of HDL-C and TG.<xref rid="b25-ARYA-15-233" ref-type="bibr">25</xref></p><p>As a macrophage deactivating factor and consequently as a blocker of anion superoxide production, a potent inflammatory and oxidative agent, we determined the correlation between serum IL-10 levels and serum total antioxidant activity. We were not able to find any significant correlation between these two variables. However, in an ex-vivo model, Huet et al. recently reported the IL-10 as an anti-inflammatory cytokine that exhibits also an anti-oxidant activity.<xref rid="b26-ARYA-15-233" ref-type="bibr">26</xref> Probably this variation originated from different techniques used in these studies.</p><p>We investigated the existence of a well-known inflammatory state, i.e., MetS, in subjects with detectable levels of serum IL-10. We were not able to find any association between serum IL-10 concentrations and the existence of MetS, whereas the prevalence of this syndrome was significantly higher in patient subjects. We did not find any correlation between serum IL-10 concentrations and each single component of serum lipid profile in patient and control groups. van Exel et al. reported a correlation between low production capacity of IL-10 and MetS in old inhabitants of Leiden City, Netherlands.<xref rid="b20-ARYA-15-233" ref-type="bibr">20</xref> Contrary to our study, they measured the cytokine levels in lipopolysaccharide (LPS)-activated whole blood culture supernatants and not the circulating levels of IL-10. However, we found that old subjects with detectable levels of serum IL-10 were thinner than those without IL-10.</p><p>To explore natural modifiers of IL-10 concentrations, we also studied the effects of two nutrients on CVD as well as on the serum levels of IL-10. In this study, we found that the elderly people with heart disease had a lower concentration of serum Se (79.8 &#x000b1; 17.0 &#x003bc;g/l) compared to apparently healthy control subjects (82.4 &#x000b1; 16.8 &#x003bc;g/l). Although this difference was not statistically significant, it can be concluded that in both groups the dietary intake of Se was sufficient to protect their heart against CHDs, if we suppose that the required serum Se concentration is 45 &#x003bc;g/l according to an existing report.<xref rid="b27-ARYA-15-233" ref-type="bibr">27</xref> However, Flores-Mateo et al.<xref rid="b28-ARYA-15-233" ref-type="bibr">28</xref> and Sabino et al.<xref rid="b29-ARYA-15-233" ref-type="bibr">29</xref> in their recently-published reviews criticized about the protective role of Se against heart diseases. Indeed, in the present study, we found a positive correlation between serum Se concentrations and serum TG, LDL-C, and TC levels but not with HDL-C concentrations. To our knowledge, there is no direct evidence to interpret the correlation between Se and hyperlipidemia, but there are some indirect evidence supporting this hypothesis.<xref rid="b30-ARYA-15-233" ref-type="bibr">30</xref>-<xref rid="b33-ARYA-15-233" ref-type="bibr">33</xref></p><p>25-hydroxy vitamin D was another nutrient that we investigated its relationship to serum IL-10 levels. We found that subjects with detectable levels of serum IL-10 had also higher levels of vitamin D in their sera (almost two folds) when compared to subjects with undetectable levels of serum IL-10. This difference was statistically significant (amended) if we assume that the vitamin D concentration variation is similar in both groups. However, this difference disappeared due to the existence of significant difference in vitamin D distribution patterns between the two groups. Indeed this study provided an equivocal evidence for correlation between serum IL-10 and vitamin D levels in elderly individuals.</p><p>The most important limitation of this study was the high variation in serum vitamin D levels in our population. However, this variation can disappear if the elderly people receive the same regimen to compensate their vitamin D deficiency. Such strategy may cause much more IL-10 production in these individuals and subsequently result in CVD prevention. There are some studies that support this idea. Recently, Dimeloe et al. reported that the active form of vitamin D [1,25 (OH) D3] can induce IL-10 production in CD4+ T-cells through up-regulation of &#x003b1;-1-antitrypsin synthesis in these lymphocytes.<xref rid="b34-ARYA-15-233" ref-type="bibr">34</xref> Kiani et al. also reported that vitamin D significantly reduced the risk of CVD events in people without MetS syndrome.<xref rid="b35-ARYA-15-233" ref-type="bibr">35</xref></p><p>Collectively, the data generated by this study indicate that independently of Se and lipid profile but equivocally associated with serum vitamin D, the old people with CVD had significant lower levels of serum IL-10 compared to old apparently healthy subjects who had detectable levels of serum IL-10. Moreover, there was no significant association between serum IL-10 and prevalence of MetS totally, whereas this cytokine was inversely associated with obesity in old people.</p></sec><sec><title>Conclusion</title><p>Independent to IL-10, the prevalence of MetS was higher in patients with CVD versus control group. There was no significant difference between elderly people with and without CVD in serum Se, vitamin D, and redox state, while most of those people had no detectable level of IL-10 in their blood circulation. Thus, applying some strategies such as weight loss and probably vitamin D supplementation to improve the production of this anti-atheroscelerogenic cytokine may have some beneficial outcomes for those people.</p></sec></body><back><ack><title>Acknowledgments</title><p>This study was financially supported by a grant (grant number: 9134841) of the Research and Technology Vice-chancellery of Babol University of Medical Sciences.</p></ack><fn-group><fn><p>
+<bold>Conflicts of Interest</bold>
+</p><p>Authors have no conflict of interests.</p></fn></fn-group><ref-list><title>REFERENCES</title><ref id="b1-ARYA-15-233"><label>1</label><element-citation publication-type="webpage">
+<person-group person-group-type="author"><collab>World Health Organization.</collab></person-group>
+<source>The top 10 causes of death [Online].</source>
+<comment>Available from: URL: <ext-link ext-link-type="uri" xlink:href="https://www.who.int/news-room/factsheets/detail/the-top-10-causes-of-death">https://www.who.int/news-room/factsheets/detail/the-top-10-causes-of-death</ext-link></comment>
+<year>2018</year>
+</element-citation></ref><ref id="b2-ARYA-15-233"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sniderman</surname><given-names>AD</given-names></name><name><surname>Thanassoulis</surname><given-names>G</given-names></name><name><surname>Williams</surname><given-names>K</given-names></name><name><surname>Pencina</surname><given-names>M</given-names></name></person-group>
+<article-title> Risk of premature cardiovascular disease vs the number of premature cardiovascular events.</article-title>
+<source>JAMA Cardiol</source>
+<year>2016</year>
+<volume>1</volume>
+<issue>4</issue>
+<fpage>492</fpage>
+<lpage>4</lpage>
+<pub-id pub-id-type="pmid">27438330</pub-id></element-citation></ref><ref id="b3-ARYA-15-233"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>P</given-names></name><name><surname>Xiong</surname><given-names>T</given-names></name><name><surname>Tenedero</surname><given-names>CB</given-names></name><name><surname>Lebeau</surname><given-names>P</given-names></name><name><surname>Ni</surname><given-names>R</given-names></name><name><surname>MacDonald</surname><given-names>ME</given-names></name><etal/></person-group>
+<article-title> Rosuvastatin reduces aortic sinus and coronary artery atherosclerosis in SR-B1 (Scavenger Receptor Class B Type 1)/ApoE (Apolipoprotein E) double knockout mice independently of plasma cholesterol lowering.</article-title>
+<source>Arterioscler Thromb Vasc Biol</source>
+<year>2018</year>
+<volume>38</volume>
+<issue>1</issue>
+<fpage>26</fpage>
+<lpage>39</lpage>
+<pub-id pub-id-type="pmid">29162602</pub-id></element-citation></ref><ref id="b4-ARYA-15-233"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bessueille</surname><given-names>L</given-names></name><name><surname>Magne</surname><given-names>D</given-names></name></person-group>
+<article-title> Inflammation: A culprit for vascular calcification in atherosclerosis and diabetes.</article-title>
+<source>Cell Mol Life Sci</source>
+<year>2015</year>
+<volume>72</volume>
+<issue>13</issue>
+<fpage>2475</fpage>
+<lpage>89</lpage>
+<pub-id pub-id-type="pmid">25746430</pub-id></element-citation></ref><ref id="b5-ARYA-15-233"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fava</surname><given-names>C</given-names></name><name><surname>Montagnana</surname><given-names>M</given-names></name></person-group>
+<article-title> Atherosclerosis is an inflammatory disease which lacks a common anti-inflammatory therapy: How human genetics can help to this issue. A Narrative Review.</article-title>
+<source>Front Pharmacol</source>
+<year>2018</year>
+<volume>9</volume>
+<fpage>55</fpage>
+<pub-id pub-id-type="pmid">29467655</pub-id></element-citation></ref><ref id="b6-ARYA-15-233"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sylvester</surname><given-names>CB</given-names></name><name><surname>Abe</surname><given-names>JI</given-names></name><name><surname>Patel</surname><given-names>ZS</given-names></name><name><surname>Grande-Allen</surname><given-names>KJ</given-names></name></person-group>
+<article-title> Radiation-induced cardiovascular disease: Mechanisms and importance of linear energy transfer.</article-title>
+<source>Front Cardiovasc Med</source>
+<year>2018</year>
+<volume>5</volume>
+<fpage>5</fpage>
+<pub-id pub-id-type="pmid">29445728</pub-id></element-citation></ref><ref id="b7-ARYA-15-233"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maffia</surname><given-names>P</given-names></name><name><surname>Cirino</surname><given-names>G</given-names></name></person-group>
+<article-title> Targeting inflammation to reduce cardiovascular disease risk.</article-title>
+<source>Br J Pharmacol</source>
+<year>2017</year>
+<volume>174</volume>
+<issue>22</issue>
+<fpage>3895</fpage>
+<lpage>7</lpage>
+<pub-id pub-id-type="pmid">29080212</pub-id></element-citation></ref><ref id="b8-ARYA-15-233"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>YI</given-names></name><name><surname>Shyy</surname><given-names>JY</given-names></name></person-group>
+<article-title> Context-dependent role of oxidized lipids and lipoproteins in inflammation.</article-title>
+<source>Trends Endocrinol Metab</source>
+<year>2017</year>
+<volume>28</volume>
+<issue>2</issue>
+<fpage>143</fpage>
+<lpage>52</lpage>
+<pub-id pub-id-type="pmid">27931771</pub-id></element-citation></ref><ref id="b9-ARYA-15-233"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lin</surname><given-names>J</given-names></name><name><surname>Li</surname><given-names>M</given-names></name><name><surname>Wang</surname><given-names>Z</given-names></name><name><surname>He</surname><given-names>S</given-names></name><name><surname>Ma</surname><given-names>X</given-names></name><name><surname>Li</surname><given-names>D</given-names></name></person-group>
+<article-title> The role of CD4+CD25+ regulatory T cells in macrophage-derived foam-cell formation.</article-title>
+<source>J Lipid Res</source>
+<year>2010</year>
+<volume>51</volume>
+<issue>5</issue>
+<fpage>1208</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="pmid">20007839</pub-id></element-citation></ref><ref id="b10-ARYA-15-233"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Welsh</surname><given-names>P</given-names></name><name><surname>Murray</surname><given-names>HM</given-names></name><name><surname>Ford</surname><given-names>I</given-names></name><name><surname>Trompet</surname><given-names>S</given-names></name><name><surname>de Craen</surname><given-names>AJ</given-names></name><name><surname>Jukema</surname><given-names>JW</given-names></name><etal/></person-group>
+<article-title> Circulating interleukin-10 and risk of cardiovascular events: A prospective study in the elderly at risk.</article-title>
+<source>Arterioscler Thromb Vasc Biol</source>
+<year>2011</year>
+<volume>31</volume>
+<issue>10</issue>
+<fpage>2338</fpage>
+<lpage>44</lpage>
+<pub-id pub-id-type="pmid">21757655</pub-id></element-citation></ref><ref id="b11-ARYA-15-233"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kinzenbaw</surname><given-names>DA</given-names></name><name><surname>Chu</surname><given-names>Y</given-names></name><name><surname>Pena Silva</surname><given-names>RA</given-names></name><name><surname>Didion</surname><given-names>SP</given-names></name><name><surname>Faraci</surname><given-names>FM</given-names></name></person-group>
+<article-title> Interleukin-10 protects against aging-induced endothelial dysfunction.</article-title>
+<source>Physiol Rep</source>
+<year>2013</year>
+<volume>1</volume>
+<issue>6</issue>
+<fpage>e00149</fpage>
+<pub-id pub-id-type="pmid">24400151</pub-id></element-citation></ref><ref id="b12-ARYA-15-233"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mostafazadeh</surname><given-names>A</given-names></name><name><surname>Saravi</surname><given-names>M</given-names></name><name><surname>Niaki</surname><given-names>HA</given-names></name><name><surname>Drabbels</surname><given-names>J</given-names></name><name><surname>Gholipour</surname><given-names>HM</given-names></name><name><surname>Minagar</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title> HLA-DRBeta1, circulating Th1/Th2 cytokines and immunological homunculus in coronary atherosclerosis.</article-title>
+<source>Iran J Allergy Asthma Immunol</source>
+<year>2011</year>
+<volume>10</volume>
+<issue>1</issue>
+<fpage>11</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="pmid">21358010</pub-id></element-citation></ref><ref id="b13-ARYA-15-233"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cervantes Gracia</surname><given-names>K</given-names></name><name><surname>Llanas-Cornejo</surname><given-names>D</given-names></name><name><surname>Husi</surname><given-names>H</given-names></name></person-group>
+<article-title> CVD and Oxidative Stress.</article-title>
+<source>J Clin Med</source>
+<year>2017</year>
+<volume>6</volume>
+<issue>2</issue>
+</element-citation></ref><ref id="b14-ARYA-15-233"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Limberaki</surname><given-names>E</given-names></name><name><surname>Eleftheriou</surname><given-names>P</given-names></name><name><surname>Vagdatli</surname><given-names>E</given-names></name><name><surname>Kostoglou</surname><given-names>V</given-names></name><name><surname>Petrou</surname><given-names>C</given-names></name></person-group>
+<article-title> Serum antioxidant status among young, middle-aged and elderly people before and after antioxidant rich diet.</article-title>
+<source>Hippokratia</source>
+<year>2012</year>
+<volume>16</volume>
+<issue>2</issue>
+<fpage>118</fpage>
+<lpage>23</lpage>
+<pub-id pub-id-type="pmid">23935266</pub-id></element-citation></ref><ref id="b15-ARYA-15-233"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zachara</surname><given-names>BA</given-names></name></person-group>
+<article-title> Selenium and selenium-dependent antioxidants in chronic kidney disease.</article-title>
+<source>Adv Clin Chem</source>
+<year>2015</year>
+<volume>68</volume>
+<fpage>131</fpage>
+<lpage>51</lpage>
+<pub-id pub-id-type="pmid">25858871</pub-id></element-citation></ref><ref id="b16-ARYA-15-233"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>Z</given-names></name><name><surname>Rose</surname><given-names>AH</given-names></name><name><surname>Hoffmann</surname><given-names>PR</given-names></name></person-group>
+<article-title> The role of selenium in inflammation and immunity: From molecular mechanisms to therapeutic opportunities.</article-title>
+<source>Antioxid Redox Signal</source>
+<year>2012</year>
+<volume>16</volume>
+<issue>7</issue>
+<fpage>705</fpage>
+<lpage>43</lpage>
+<pub-id pub-id-type="pmid">21955027</pub-id></element-citation></ref><ref id="b17-ARYA-15-233"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Suthar</surname><given-names>OP</given-names></name><name><surname>Mathur</surname><given-names>S</given-names></name><name><surname>Gupta</surname><given-names>V</given-names></name><name><surname>Agarwal</surname><given-names>H</given-names></name><name><surname>Mathur</surname><given-names>A</given-names></name><name><surname>Singh</surname><given-names>P</given-names></name><etal/></person-group>
+<article-title> Study of correlation of serum vitamin d levels with arterial stiffness and cardiovascular morbidity in elderly individuals of western Rajasthan.</article-title>
+<source>J Assoc Physicians India</source>
+<year>2018</year>
+<volume>66</volume>
+<issue>3</issue>
+<fpage>18</fpage>
+<lpage>21</lpage>
+</element-citation></ref><ref id="b18-ARYA-15-233"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dhingra</surname><given-names>R</given-names></name><name><surname>Gona</surname><given-names>P</given-names></name><name><surname>Nam</surname><given-names>BH</given-names></name><name><surname>D'Agostino</surname><given-names>RB</given-names></name><name><surname>Wilson</surname><given-names>PW</given-names></name><name><surname>Benjamin</surname><given-names>EJ</given-names></name><etal/></person-group>
+<article-title> C-reactive protein, inflammatory conditions, and cardiovascular disease risk.</article-title>
+<source>Am J Med</source>
+<year>2007</year>
+<volume>120</volume>
+<issue>12</issue>
+<fpage>1054</fpage>
+<lpage>62</lpage>
+<pub-id pub-id-type="pmid">18060926</pub-id></element-citation></ref><ref id="b19-ARYA-15-233"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>El-Fakhri</surname><given-names>N</given-names></name><name><surname>McDevitt</surname><given-names>H</given-names></name><name><surname>Shaikh</surname><given-names>MG</given-names></name><name><surname>Halsey</surname><given-names>C</given-names></name><name><surname>Ahmed</surname><given-names>SF</given-names></name></person-group>
+<article-title> Vitamin D and its effects on glucose homeostasis, cardiovascular function and immune function.</article-title>
+<source>Horm Res Paediatr</source>
+<year>2014</year>
+<volume>81</volume>
+<issue>6</issue>
+<fpage>363</fpage>
+<lpage>78</lpage>
+<pub-id pub-id-type="pmid">24776698</pub-id></element-citation></ref><ref id="b20-ARYA-15-233"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van Exel</surname><given-names>E</given-names></name><name><surname>Gussekloo</surname><given-names>J</given-names></name><name><surname>de Craen</surname><given-names>AJ</given-names></name><name><surname>Frolich</surname><given-names>M</given-names></name><name><surname>Bootsma-Van Der Wiel</surname><given-names>A</given-names></name><name><surname>Westendorp</surname><given-names>RG</given-names></name></person-group>
+<article-title> Low production capacity of interleukin-10 associates with the metabolic syndrome and type 2 diabetes: The Leiden 85-Plus Study.</article-title>
+<source>Diabetes</source>
+<year>2002</year>
+<volume>51</volume>
+<issue>4</issue>
+<fpage>1088</fpage>
+<lpage>92</lpage>
+<pub-id pub-id-type="pmid">11916930</pub-id></element-citation></ref><ref id="b21-ARYA-15-233"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Esposito</surname><given-names>K</given-names></name><name><surname>Pontillo</surname><given-names>A</given-names></name><name><surname>Giugliano</surname><given-names>F</given-names></name><name><surname>Giugliano</surname><given-names>G</given-names></name><name><surname>Marfella</surname><given-names>R</given-names></name><name><surname>Nicoletti</surname><given-names>G</given-names></name><etal/></person-group>
+<article-title> Association of low interleukin-10 levels with the metabolic syndrome in obese women.</article-title>
+<source>J Clin Endocrinol Metab</source>
+<year>2003</year>
+<volume>88</volume>
+<issue>3</issue>
+<fpage>1055</fpage>
+<lpage>8</lpage>
+<pub-id pub-id-type="pmid">12629085</pub-id></element-citation></ref><ref id="b22-ARYA-15-233"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hosseini</surname><given-names>SR</given-names></name><name><surname>Cumming</surname><given-names>RG</given-names></name><name><surname>Kheirkhah</surname><given-names>F</given-names></name><name><surname>Nooreddini</surname><given-names>H</given-names></name><name><surname>Baiani</surname><given-names>M</given-names></name><name><surname>Mikaniki</surname><given-names>E</given-names></name><etal/></person-group>
+<article-title> Cohort profile: The Amirkola Health and Ageing Project (AHAP).</article-title>
+<source>Int J Epidemiol</source>
+<year>2014</year>
+<volume>43</volume>
+<issue>5</issue>
+<fpage>1393</fpage>
+<lpage>400</lpage>
+<pub-id pub-id-type="pmid">23918798</pub-id></element-citation></ref><ref id="b23-ARYA-15-233"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Azizi</surname><given-names>F</given-names></name><name><surname>Hadaegh</surname><given-names>F</given-names></name><name><surname>Khalili</surname><given-names>D</given-names></name><name><surname>Esteghamati</surname><given-names>A</given-names></name><name><surname>Hosseinpanah</surname><given-names>F</given-names></name><name><surname>Delavari</surname><given-names>A</given-names></name><etal/></person-group>
+<article-title> Appropriate definition of metabolic syndrome among Iranian adults: Report of the Iranian National Committee of Obesity.</article-title>
+<source>Arch Iran Med</source>
+<year>2010</year>
+<volume>13</volume>
+<issue>5</issue>
+<fpage>426</fpage>
+<lpage>8</lpage>
+<pub-id pub-id-type="pmid">20804311</pub-id></element-citation></ref><ref id="b24-ARYA-15-233"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Benzie</surname><given-names>IF</given-names></name><name><surname>Strain</surname><given-names>JJ</given-names></name></person-group>
+<article-title> The ferric reducing ability of plasma (FRAP) as a measure of "antioxidant power": The FRAP assay.</article-title>
+<source>Anal Biochem</source>
+<year>1996</year>
+<volume>239</volume>
+<issue>1</issue>
+<fpage>70</fpage>
+<lpage>6</lpage>
+<pub-id pub-id-type="pmid">8660627</pub-id></element-citation></ref><ref id="b25-ARYA-15-233"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>RX</given-names></name><name><surname>Guo</surname><given-names>YL</given-names></name><name><surname>Li</surname><given-names>XL</given-names></name><name><surname>Li</surname><given-names>S</given-names></name><name><surname>Li</surname><given-names>JJ</given-names></name></person-group>
+<article-title> Impact of short-term low-dose atorvastatin on low-density lipoprotein and high-density lipoprotein subfraction phenotype.</article-title>
+<source>Clin Exp Pharmacol Physiol</source>
+<year>2014</year>
+<volume>41</volume>
+<issue>7</issue>
+<fpage>475</fpage>
+<lpage>81</lpage>
+<pub-id pub-id-type="pmid">24739131</pub-id></element-citation></ref><ref id="b26-ARYA-15-233"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huet</surname><given-names>O</given-names></name><name><surname>Laemmel</surname><given-names>E</given-names></name><name><surname>Fu</surname><given-names>Y</given-names></name><name><surname>Dupic</surname><given-names>L</given-names></name><name><surname>Aprico</surname><given-names>A</given-names></name><name><surname>Andrews</surname><given-names>KL</given-names></name><etal/></person-group>
+<article-title> Interleukin 10 antioxidant effect decreases leukocytes/endothelial interaction induced by tumor necrosis factor alpha.</article-title>
+<source>Shock</source>
+<year>2013</year>
+<volume>39</volume>
+<issue>1</issue>
+<fpage>83</fpage>
+<lpage>8</lpage>
+<pub-id pub-id-type="pmid">23247124</pub-id></element-citation></ref><ref id="b27-ARYA-15-233"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Virtamo</surname><given-names>J</given-names></name><name><surname>Valkeila</surname><given-names>E</given-names></name><name><surname>Alfthan</surname><given-names>G</given-names></name><name><surname>Punsar</surname><given-names>S</given-names></name><name><surname>Huttunen</surname><given-names>JK</given-names></name><name><surname>Karvonen</surname><given-names>MJ</given-names></name></person-group>
+<article-title> Serum selenium and the risk of coronary heart disease and stroke.</article-title>
+<source>Am J Epidemiol</source>
+<year>1985</year>
+<volume>122</volume>
+<issue>2</issue>
+<fpage>276</fpage>
+<lpage>82</lpage>
+<pub-id pub-id-type="pmid">4014210</pub-id></element-citation></ref><ref id="b28-ARYA-15-233"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Flores-Mateo</surname><given-names>G</given-names></name><name><surname>Navas-Acien</surname><given-names>A</given-names></name><name><surname>Pastor-Barriuso</surname><given-names>R</given-names></name><name><surname>Guallar</surname><given-names>E</given-names></name></person-group>
+<article-title> Selenium and coronary heart disease: A meta-analysis.</article-title>
+<source>Am J Clin Nutr</source>
+<year>2006</year>
+<volume>84</volume>
+<issue>4</issue>
+<fpage>762</fpage>
+<lpage>73</lpage>
+<pub-id pub-id-type="pmid">17023702</pub-id></element-citation></ref><ref id="b29-ARYA-15-233"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sabino</surname><given-names>P</given-names></name><name><surname>Stranges</surname><given-names>S</given-names></name><name><surname>Strazzullo</surname><given-names>P</given-names></name></person-group>
+<article-title> Does selenium matter in cardiometabolic disorders? A short review of the evidence.</article-title>
+<source>J Endocrinol Invest</source>
+<year>2013</year>
+<volume>36</volume>
+<issue>10 Suppl</issue>
+<fpage>21</fpage>
+<lpage>7</lpage>
+</element-citation></ref><ref id="b30-ARYA-15-233"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murata</surname><given-names>Y</given-names></name><name><surname>Shimamura</surname><given-names>T</given-names></name><name><surname>Hamuro</surname><given-names>J</given-names></name></person-group>
+<article-title> The polarization of T(h)1/T(h)2 balance is dependent on the intracellular thiol redox status of macrophages due to the distinctive cytokine production.</article-title>
+<source>Int Immunol</source>
+<year>2002</year>
+<volume>14</volume>
+<issue>2</issue>
+<fpage>201</fpage>
+<lpage>12</lpage>
+<pub-id pub-id-type="pmid">11809739</pub-id></element-citation></ref><ref id="b31-ARYA-15-233"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Peterson</surname><given-names>JD</given-names></name><name><surname>Herzenberg</surname><given-names>LA</given-names></name><name><surname>Vasquez</surname><given-names>K</given-names></name><name><surname>Waltenbaugh</surname><given-names>C</given-names></name></person-group>
+<article-title> Glutathione levels in antigen-presenting cells modulate Th1 versus Th2 response patterns.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<year>1998</year>
+<volume>95</volume>
+<issue>6</issue>
+<fpage>3071</fpage>
+<lpage>6</lpage>
+<pub-id pub-id-type="pmid">9501217</pub-id></element-citation></ref><ref id="b32-ARYA-15-233"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kidd</surname><given-names>P</given-names></name></person-group>
+<article-title> Th1/Th2 balance: The hypothesis, its limitations, and implications for health and disease.</article-title>
+<source>Altern Med Rev</source>
+<year>2003</year>
+<volume>8</volume>
+<issue>3</issue>
+<fpage>223</fpage>
+<lpage>46</lpage>
+<pub-id pub-id-type="pmid">12946237</pub-id></element-citation></ref><ref id="b33-ARYA-15-233"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feingold</surname><given-names>KR</given-names></name><name><surname>Grunfeld</surname><given-names>C</given-names></name></person-group>
+<article-title> Role of cytokines in inducing hyperlipidemia.</article-title>
+<source>Diabetes</source>
+<year>1992</year>
+<volume>41</volume>
+<issue>Suppl 2</issue>
+<fpage>97</fpage>
+<lpage>101</lpage>
+<pub-id pub-id-type="pmid">1526345</pub-id></element-citation></ref><ref id="b34-ARYA-15-233"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dimeloe</surname><given-names>S</given-names></name><name><surname>Rice</surname><given-names>LV</given-names></name><name><surname>Chen</surname><given-names>H</given-names></name><name><surname>Cheadle</surname><given-names>C</given-names></name><name><surname>Raynes</surname><given-names>J</given-names></name><name><surname>Pfeffer</surname><given-names>P</given-names></name><etal/></person-group>
+<article-title> Vitamin D (1,25(OH)2D3) induces alpha-1-antitrypsin synthesis by CD4(+) T cells, which is required for 1,25(OH)2D3-driven IL-10.</article-title>
+<source>J Steroid Biochem Mol Biol</source>
+<year>2019</year>
+<volume>189</volume>
+<fpage>1</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="pmid">30690074</pub-id></element-citation></ref><ref id="b35-ARYA-15-233"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kiani</surname><given-names>K</given-names></name><name><surname>Roohafza</surname><given-names>H</given-names></name><name><surname>Gharipour</surname><given-names>M</given-names></name><name><surname>Dianatkhah</surname><given-names>M</given-names></name><name><surname>Talaei</surname><given-names>M</given-names></name><name><surname>Oveisgharan</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title> The association between the serum 25-hydroxyvitamin D level and cardiovascular events in individuals with and without metabolic syndrome.</article-title>
+<source>ARYA Atheroscler</source>
+<year>2018</year>
+<volume>14</volume>
+<issue>6</issue>
+<fpage>254</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="pmid">31143226</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="f1-ARYA-15-233" position="float"><label>Figure 1</label><caption><p>(A) Means of serum interleukin 10 (IL-10) concentration in total subjects with heart disease (n = 114) and
+total apparently healthy controls (n = 144) (left panel). Right panel shows the means of serum IL-10 concentration in
+subjects with detectable levels of this cytokine from each group. For subjects with heart disease (n = 9) and for
+apparently healthy control subjects (n = 14)</p><p>
+* P &#x0003c; 0.050 is considered significant. (B) Scatter plot of rechecked serum samples for IL-10 concentrations. We rechecked the IL-10
+levels in 18 sera which had undetectable levels of this cytokine in our previous experiment with enzyme-linked immunosorbent assay
+(ELISA) kit with analytical sensitivity of 2 pg/ml. As it can be seen, the IL-10 concentration was &#x02264; 0.5 pg/ml in 15 out of 18 (83%)
+of sera. This value for remaining three serum samples was 0.6 and 0.7 for two samples and only one sample exhibited a result that
+was higher than 2 pg/ml (2.9 pg/ml). The median value for rechecked serum IL-10 concentration was calculated as 0.44 pg/ml and
+the 95% confidence interval (CI) was obtained as 0.20-0.85 pg/ml for mean.</p></caption><graphic xlink:href="ARYA-15-233f1"/></fig><fig id="f2-ARYA-15-233" position="float"><label>Figure 2</label><caption><p>Body mass index (BMI) in subjects with
+(n = 23) and without detectable serum interleukin 10
+(IL-10) (n = 235). Horizontal lines represent the
+median values. Boxes represent 25th-75th percentiles
+and vertical bars represent the minimum and maximum
+values. Spots show outlier values.</p><p>
+* P &#x0003c; 0.050=0 is considered significant.</p></caption><graphic xlink:href="ARYA-15-233f2"/></fig><fig id="f3-ARYA-15-233" position="float"><label>Figure 3</label><caption><p>Correlation between serum selenium (Se)
+levels and lipid profile in subjects with heart disease
+(above left panel). Right panel shows these correlations
+in control subjects. In patient group, there was a
+positive correlation between Se and total cholesterol
+(Chol) but not with low-density lipoprotein cholesterol
+(LDL-C) and triglyceride (TG). In control group, there
+was a positive correlation between Se and all study
+components of lipid profile (table below)</p><p>
+* P &#x0003c; 0.050 is considered significant.</p></caption><graphic xlink:href="ARYA-15-233f3"/></fig><fig id="f4-ARYA-15-233" position="float"><label>Figure 4</label><caption><p>Means of vitamin D concentration in
+subjects with (n = 23) and without detectable serum
+interleukin 10 (IL-10) (n = 235).</p><p>
+P &#x0003c; 0.050 is considered significant.</p><p>
+CI: Confidence interval</p></caption><graphic xlink:href="ARYA-15-233f4"/></fig><table-wrap id="t1-ARYA-15-233" position="float"><label>Table 1</label><caption><p>The demographic data and mean values of serum lipid profile in patients and controls</p></caption><table frame="hsides" rules="groups"><thead><tr valign="middle"><th align="left" rowspan="1" colspan="1">Variables</th><th colspan="2" rowspan="1">Groups<hr/></th><th rowspan="1" colspan="1">P</th></tr><tr valign="middle"><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">Patients (n = 114)</th><th rowspan="1" colspan="1">Controls (n = 144)</th><th rowspan="1" colspan="1">
+</th></tr></thead><tbody><tr valign="middle"><td rowspan="1" colspan="1">Sex (female/male) [n (%)]</td><td align="center" rowspan="1" colspan="1">51 (44.7)/63 (55.3)</td><td align="center" rowspan="1" colspan="1">49 (34.0)/95 (66.0)</td><td align="center" rowspan="1" colspan="1">0.080</td></tr><tr valign="middle"><td rowspan="1" colspan="1">Age (year)**</td><td align="center" rowspan="1" colspan="1">70.1 &#x000b1; 8.1</td><td align="center" rowspan="1" colspan="1">68.5 &#x000b1; 7.1</td><td align="center" rowspan="1" colspan="1">0.093</td></tr><tr valign="middle"><td rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)**</td><td align="center" rowspan="1" colspan="1">27.4 &#x000b1; 4.3</td><td align="center" rowspan="1" colspan="1">27.8 &#x000b1; 4.9</td><td align="center" rowspan="1" colspan="1">0.361</td></tr><tr valign="middle"><td rowspan="1" colspan="1">TG (mg/dl)**</td><td align="center" rowspan="1" colspan="1">157.0 &#x000b1; 81.0</td><td align="center" rowspan="1" colspan="1">135.0 &#x000b1; 60.0</td><td align="center" rowspan="1" colspan="1">0.016*</td></tr><tr valign="middle"><td rowspan="1" colspan="1">HDL-C (mg/dl)**</td><td align="center" rowspan="1" colspan="1">38.0 &#x000b1; 4.0</td><td align="center" rowspan="1" colspan="1">39.0 &#x000b1; 4.0</td><td align="center" rowspan="1" colspan="1">0.354</td></tr><tr valign="middle"><td rowspan="1" colspan="1">LDL-C (mg/dl)**</td><td align="center" rowspan="1" colspan="1">124.0 &#x000b1; 52.0</td><td align="center" rowspan="1" colspan="1">137.0 &#x000b1; 39.0</td><td align="center" rowspan="1" colspan="1">0.035*</td></tr><tr valign="middle"><td rowspan="1" colspan="1">TC (mg/dl)**</td><td align="center" rowspan="1" colspan="1">190.0 &#x000b1; 47.0</td><td align="center" rowspan="1" colspan="1">207.0 &#x000b1; 41.0</td><td align="center" rowspan="1" colspan="1">0.018*</td></tr></tbody></table><table-wrap-foot><fn id="tfn1-ARYA-15-233"><label>*</label><p>Considered as significant (P &#x0003c; 0.050) in t-test and chi-square test;</p></fn><fn id="tfn2-ARYA-15-233"><label>**</label><p>Mean &#x000b1; standard deviation (SD)</p></fn><fn id="tfn3-ARYA-15-233"><p>BMI: Body mass index; TG: Triglyceride; HDL-C: High-density lipoprotein cholesterol; LDL-C: Low-density lipoprotein cholesterol; TC: Total cholesterol</p></fn></table-wrap-foot></table-wrap></floats-group></article>

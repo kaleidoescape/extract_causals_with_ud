@@ -1,0 +1,853 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Brief Bioinform</journal-id><journal-id journal-id-type="iso-abbrev">Brief. Bioinformatics</journal-id><journal-id journal-id-type="publisher-id">bib</journal-id><journal-title-group><journal-title>Briefings in Bioinformatics</journal-title></journal-title-group><issn pub-type="ppub">1467-5463</issn><issn pub-type="epub">1477-4054</issn><publisher><publisher-name>Oxford University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">30239581</article-id><article-id pub-id-type="pmc">6954402</article-id><article-id pub-id-type="doi">10.1093/bib/bby084</article-id><article-id pub-id-type="publisher-id">bby084</article-id><article-categories><subj-group subj-group-type="heading"><subject>Problem Solving Protocol</subject></subj-group></article-categories><title-group><article-title>Revealing tumor heterogeneity of breast cancer by utilizing the linkage between somatic and germline mutations</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Zou</surname><given-names>Meng</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Jin</surname><given-names>Rui</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Au</surname><given-names>Kin Fai</given-names></name><!--<email>kinfai-au@uiowa.edu</email>--><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff3">3</xref><xref rid="cor1" ref-type="corresp"/></contrib></contrib-group><aff id="aff1"><label>1</label>
+<institution>School of Mathematics and Statistics</institution>, Huazhong University of Science and Technology</aff><aff id="aff2"><label>2</label>
+<institution>Department of Statistics, University of Iowa</institution>
+</aff><aff id="aff3"><label>3</label>
+<institution>Department of Biomedical Informatics</institution>, Ohio State University</aff><author-notes><corresp id="cor1">Corresponding author: Kin Fai Au, Department of Biomedical Informatics, The Ohio State University, OH 43210, USA, Tel.: (614) 688-9742; Fax: (614) 688-6600; E-mail: <email>kinfai.au@osumc.edu</email></corresp></author-notes><pub-date pub-type="collection"><month>11</month><year>2019</year></pub-date><pub-date pub-type="epub" iso-8601-date="2018-09-18"><day>18</day><month>9</month><year>2018</year></pub-date><pub-date pub-type="pmc-release"><day>18</day><month>9</month><year>2018</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>20</volume><issue>6</issue><fpage>2306</fpage><lpage>2315</lpage><history><date date-type="received"><day>8</day><month>4</month><year>2018</year></date><date date-type="rev-recd"><day>7</day><month>6</month><year>2018</year></date><date date-type="accepted"><day>26</day><month>6</month><year>2018</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2018. Published by Oxford University Press.</copyright-statement><copyright-year>2018</copyright-year><license license-type="cc-by-nc" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/"><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com</license-p></license></permissions><self-uri xlink:href="bby084.pdf"/><abstract><title>Abstract</title><p>The intra-tumor heterogeneity is associated with cancer progression and therapeutic resistance, such as in breast cancer. While the existing methods for studying tumor heterogeneity only analyze variant allele frequency (VAF), the genotype of variant is also informative for inferring subclones, which can be detected by long reads or paired-end reads. We developed GenoClone to integrate VAF with the genotype of variant innovatively, so it showed superior performance of inferring the number of subclones, estimating the fractions of subclones and identifying somatic single-nucleotide variants composition of subclones. When GenoClone was applied to 389 TCGA breast cancer samples, it revealed extensive intra-tumor heterogeneity. We further found that a few somatic mutations were relevant to the late stage of tumor evolution, including the ones at the oncogene PIK3CA and the tumor suppress gene TP53. Moreover, 52 subclones that were identified from 167 samples shared high similarity of somatic mutations, which were clustered into three groups with the sizes of 24, 14 and 14. It is helpful for understanding the development of breast cancer in certain subgroups of people and the drug development for population level. Furthermore, GenoClone also identified the tumor heterogeneity in different aliquots of the same samples. The implementation of GenoClone is available at <ext-link ext-link-type="uri" xlink:href="http://www.healthcare.uiowa.edu/labs/au/GenoClone/">http://www.healthcare.uiowa.edu/labs/au/GenoClone/</ext-link>.</p></abstract><kwd-group><kwd>tumor heterogeneity</kwd><kwd>subclone inference</kwd><kwd>VAF</kwd><kwd>somatic mutation</kwd><kwd>germline mutation</kwd></kwd-group><funding-group><award-group award-type="grant"><funding-source><named-content content-type="funder-name">National Human Genome Research Institute</named-content><named-content content-type="funder-identifier">10.13039/100000051</named-content></funding-source><award-id>R01HG008759</award-id></award-group><award-group award-type="grant"><funding-source><named-content content-type="funder-name">Department of Internal Medicine, University of Nebraska Medical Center</named-content><named-content content-type="funder-identifier">10.13039/100008339</named-content></funding-source></award-group><award-group award-type="grant"><funding-source><named-content content-type="funder-name">Ohio State University</named-content><named-content content-type="funder-identifier">10.13039/100006928</named-content></funding-source></award-group></funding-group><counts><page-count count="10"/></counts></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Tumor evolution is a reiterative process of clonal expansion driven by sequential somatic mutation and Darwinian nature selection [<xref rid="ref1" ref-type="bibr">1</xref>, <xref rid="ref2" ref-type="bibr">2</xref>]. Therefore, tumors are composed of remarkable distinct cell populations (referred as &#x02018;subclones&#x02019;), which is termed intra-tumor heterogeneity. The explicit studies of subclones within tumor samples can greatly improve the understanding of tumor evolution and thus benefit drug development and precision medicine [<xref rid="ref3" ref-type="bibr">3</xref>, <xref rid="ref4" ref-type="bibr">4</xref>]. For example, intra-tumor heterogeneity has been shown in breast cancer [<xref rid="ref5" ref-type="bibr">5&#x02013;7</xref>] and causes target therapy may not function on the therapy-resistant subclones [<xref rid="ref8" ref-type="bibr">8</xref>]. Moreover, the resistant subclones may reduce the successful rate of subsequent treatments and lead to tumor relapse and therapy failure [<xref rid="ref9" ref-type="bibr">9</xref>]. Thus, it is important to correctly identify the subclones and estimate their fractions for intra-tumor study.</p><p>The development of new sequencing technologies allows us to perform genome-wide study of tumor heterogeneity [<xref rid="ref10" ref-type="bibr">10&#x02013;12</xref>]. Single-cell sequencing, which avoids the confounding factors of bulk sequencing of the whole tumor, is useful to address the heterogeneity problems [<xref rid="ref13" ref-type="bibr">13</xref>, <xref rid="ref14" ref-type="bibr">14</xref>]. However, in addition to the technical problems of amplification bias and allele dropout [<xref rid="ref15" ref-type="bibr">15</xref>, <xref rid="ref16" ref-type="bibr">16</xref>], single-cell sequencing is also limited by the high cost for sequencing a number of single cells, which is required to identify the subclones and estimate their fractions. Alternatively, identification of tumor subclones by bulk sequencing of a whole-tumor sample, followed by appropriate bioinformatics analysis, is more affordable and thus is of broader utility.</p><p>Variant allele frequency (VAF) of single-nucleotide mutations or variants has been used to infer the tumor subclones from bulk sequencing in recent studies [<xref rid="ref17" ref-type="bibr">17</xref>, <xref rid="ref18" ref-type="bibr">18</xref>], because the fractions of subclones are linearly associated with VAFs. The observed VAFs depend on the stochastics process of selecting fragments from library construction, so it strongly correlates with sequencing depth. Deep sequencing is helpful to address the uncertainty of VAF. Roth <italic>et al</italic>. developed a statistical inference model, PyClone, to identify the tumor subclones [<xref rid="ref19" ref-type="bibr">19</xref>]. PyClone identifies somatic mutations and copy number variants by the whole-genome or exome sequencing data, and next applies targeted deep sequencing to estimate VAFs. However, PyClone only infers cellular abundance of each variant, rather than the fractions of subclones. The other existing tools based on clustering approach overcome the substantial variability of observed VAFs measurement and further infer the fractions of subclones [<xref rid="ref20" ref-type="bibr">20</xref>, <xref rid="ref21" ref-type="bibr">21</xref>]. For example, SciClone maximizes the posterior probability of VAFs based on a Dirichlet Process mixture model while the number of clusters is not fixed in advance. Subsequently, SciClone identifies the number of variant clusters by discarding clusters that does not contribute to the model and finally estimates the fractions of subclones. However, in addition to VAFs, the fractions of subclones also depend on genotype. For example, if the variant is adenine to guanine (A to G), then the genotype of the variant would be AG or GG. Lee <italic>et al</italic>. developed a Bayesian feature allocation model to identify the genotype of variants as well as the number of subclones and their fractions while it simultaneously increases the solution space and thus results in higher uncertainty of the solution [<xref rid="ref22" ref-type="bibr">22</xref>]. Determination of the genotype of variants and reduction of the VAF uncertainty are the main problems in subclone inference.</p><p>Direct determination of the genotype of variants in each subclone is to identify whether variants are from paternal or maternal alleles [<xref rid="ref23" ref-type="bibr">23&#x02013;25</xref>]. However, it is difficult to obtain the entire paternal and maternal alleles (e.g. family trio data are required). Instead, if the linkage between somatic mutation (i.e. somatic single-nucleotide variant/sSNV) and germline mutation (single-nucleotide polymorphism/SNP) is known, we can determine the origins of sSNVs: maternal, paternal or both. Since the matched pair of normal and tumor samples shares the same SNPs, we can firstly distinguish sSNVs from SNPs from sequencing data. Then the sSNV&#x02013;SNP linkage can be detected from long reads (e.g. PacBio, Oxford Nanopore Technologies and 454 sequencing) or paired-end reads covering sSNVs and the corresponding adjacent SNPs. This linkage information can reduce the dimension of solution space and thus a more accurate subclone inference can be obtained.</p><p>We develop a novel method, GenoClone (<ext-link ext-link-type="uri" xlink:href="http://www.healthcare.uiowa.edu/labs/au/GenoClone">http://www.healthcare.uiowa.edu/labs/au/GenoClone/</ext-link>), to study tumor heterogeneity by innovatively integrating VAFs and genotype of sSNVs (<xref rid="f1" ref-type="fig">Figure 1</xref>). Comparing to two existing methods, GenoClone showed superior performance of identifying the number of subclones, estimating their fractions and determining their sSNVs compositions in simulation data. By GenoClone, we analyzed 389 breast invasive carcinoma samples from The Cancer Genome Atlas (TCGA-BRCA) and revealed tumor heterogeneity in nearly all the samples. The results also showed that the mutations of the oncogene PIK3CA and the tumor suppressor gene TP53 may occur at the late stage of tumor evolution of breast cancer. Moreover, the similarity analysis among the subclones identified from 167 samples showed high similarity of 52 subclones, which were clustered into three groups with the sizes of 24, 14 and 14. Within these clusters of subclones, a few shared sSNVs, such as chr2_55679588_CA, chr3_179234297_AG and chr3_179218303_GA, provided informative foundation for drug design and treatment in certain subgroups of patients. In addition, we revealed the tumor heterogeneity in different aliquots of the same tumor samples and found the VAF of TP53 varied in different aliquots.</p><fig id="f1" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Flowchart of GenoClone. VarScan2 is used to detect the somatic mutations (sSNVs) and germline mutations (SNPs) from tumor and matched normal samples. Then, GenoClone detects sSNV&#x02013;SNP linkage by paired-end reads or long reads to infer the genotype of sSNVs. The observed VAFs are computed from short-read coverage. Finally, GenoClone integrates the genotype of sSNVs and their VAFs in the optimization model to infer subclones.</p></caption><graphic xlink:href="bby084f1"/></fig></sec><sec id="sec2"><title>Methods</title><sec id="sec3"><title>Somatic and germline mutation detection</title><p>Given the exome or whole-genome sequencing data from tumor and the matched normal samples, we can detect the mutations from both by the existing SNP calling methods. Next, we can determine the somatic and germline mutations by comparing the variant calling results from two samples. These two steps can be integrated (e.g. by VarScan2 [<xref rid="ref26" ref-type="bibr">26</xref>]). Here, we used VarScan v2.4.2 and named the germline mutation as SNP and somatic mutation as sSNV below.</p></sec><sec id="sec4"><title>sSNV&#x02013;SNP linkage</title><p>It is ideal to obtain the linkages among sSNVs for inferring the haplotypes of subclones. sSNVs are separated by long distance in the genome, so whole-genome sequencing by long reads is required to obtain such linkages among sSNVs. However, the whole-genome sequencing by long reads is of high cost and requires a large amount of DNA materials that the primary tumor samples may not provide. Instead of linkages among sSNVs, the linkage of sSNV and the adjacent SNP (termed sSNV&#x02013;SNP linkage) can be detected by paired-end reads or long reads from either exome or whole-genome sequencing. Given an SNV, we use the adjacent SNPs to identify whether the SNV originates from one haplotype or both haplotypes. For example, one sSNV and one SNP is simultaneously detected on some paired-end reads, and the SNP on one haplotype is A and on the other haplotype is T. If the sSNV is only detected to be linked with A, then we could infer that the sSNV originates from one haplotype. If the sSNV is detected to be linked with A and T, then the sSNV originates from both haplotypes.</p></sec><sec id="sec5"><title>Optimization model to estimate the fractions of subclones</title><p>Suppose the tumors contain <inline-formula><tex-math id="M1">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C$\end{document}</tex-math></inline-formula> subclones. Let <inline-formula><tex-math id="M2">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${X}_{S\times 2C}$\end{document}</tex-math></inline-formula> be the subclone matrix with the binary elements <inline-formula><tex-math id="M3">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${x}_{s,2c-1}$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math id="M4">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${x}_{s,2c}$\end{document}</tex-math></inline-formula> denoting whether <inline-formula><tex-math id="M5">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${c}^{th}$\end{document}</tex-math></inline-formula> subclone contains the <inline-formula><tex-math id="M6">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${s}^{th}$\end{document}</tex-math></inline-formula> sSNV in its two haplotypes where<inline-formula><tex-math id="M7">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$s=1,2,\cdots, S$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math id="M8">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$c=1,2,\cdots, C$\end{document}</tex-math></inline-formula>. Denote <inline-formula><tex-math id="M9">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${w}_c$\end{document}</tex-math></inline-formula> as the fraction of subclone <inline-formula><tex-math id="M10">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$c$\end{document}</tex-math></inline-formula>, then we have <disp-formula id="deqn01"><label>(1)</label><tex-math id="M11">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{equation*} \sum_{c=1}^c{w}_c=1. \end{equation*}\end{document}</tex-math></disp-formula></p><p>Next, we can infer the true VAFs of sSNVs by the subclone matrix <inline-formula><tex-math id="M12">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$X$\end{document}</tex-math></inline-formula> and their fraction <inline-formula><tex-math id="M13">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${w}_c$\end{document}</tex-math></inline-formula><disp-formula id="deqn02"><label>(2)</label><tex-math id="M14">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{equation*} {VAF_s}^{true}=\frac{1}{2}\sum_{c=1}^C{w}_c\left({x}_{s,2c-1}+{x}_{s,2c}\right)\!. \end{equation*}\end{document}</tex-math></disp-formula></p><p>However, the observed VAF is influenced by the sequencing depth: as the sequencing depth increases, the variance of observed VAF decreases. If the depth is large enough, then we could assume that the observed VAF is nearly the same as true VAF. According to this assumption, given the sequencing depth of the <inline-formula><tex-math id="M15">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${s}^{th}$\end{document}</tex-math></inline-formula> sSNV (termed <inline-formula><tex-math id="M16">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${D}_s$\end{document}</tex-math></inline-formula>), we minimize the difference between true and observed VAF <disp-formula id="deqn03"><label>(3)</label><tex-math id="M17">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{equation*} \min f=\sum_{s=1}^S\frac{1}{D_s}\left|{VAF_s}^{true}-{VAF_s}^{observed}\right|\!. \end{equation*}\end{document}</tex-math></disp-formula></p><p>Considering the sSNV&#x02013;SNP linkages in the model, for the sSNV <inline-formula><tex-math id="M18">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$s\in I$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math id="M19">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$s$\end{document}</tex-math></inline-formula> should occur in no more than one haplotype from each subclone, then <disp-formula id="deqn04"><label>(4)</label><tex-math id="M20">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{equation*} {x}_{s,2c-1}+{x}_{s,2c}\le 1. \end{equation*}\end{document}</tex-math></disp-formula></p><p>For <inline-formula><tex-math id="M21">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$s\in \overline{I}$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math id="M22">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$s$\end{document}</tex-math></inline-formula> should occur on two haplotypes at least in one subclone, then we could get <disp-formula id="deqn05"><label>(5)</label><tex-math id="M23">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{equation*} \sum_{c=1}^C\left({x}_{s,2c-1}+{x}_{s,2c}\right)\ge 2. \end{equation*}\end{document}</tex-math></disp-formula></p><p>Therefore, we can construct an optimization model to obtain the feasible solution, <disp-formula id="deqn06"><label>(6)</label><tex-math id="M24">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{equation*} \min \sum_{s=1}^S\frac{1}{D_s}\left|{VAF_s}^{true}-{VAF_s}^{observed}\right| \end{equation*}\end{document}</tex-math></disp-formula>
+subject to<disp-formula id="deqn07"><tex-math id="M25">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$$ \left\{\begin{array}{@{}l@{}} \begin{array}{@{}l}\qquad\qquad\quad\displaystyle\sum_{c=1}^C{w}_c=1 \\{}{VAF_s}^{true}=\frac{1}{2}\displaystyle\sum_{c=1}^C{w}_c\left({x}_{s,2c-1}+{x}_{s,2c}\right)\\{}\qquad{x}_{s,2c-1}+{x}_{s,2c}\le 1\kern1em for\ s\in I\end{array}\\{}\begin{array}{@{}l@{}} \displaystyle\sum_{c=1}^C\left({x}_{s,2c-1}+{x}_{s,2c}\right)\ge 2\kern0.75em for\ s\in \overline{I}\\{}\qquad{x}_{s,2c-1},{x}_{s,2c-1}\in \left\{0,1\right\}\!,{w}_c&#x0003e;0\ \end{array} \end{array}\right., $$\end{document}</tex-math></disp-formula>
+where set <inline-formula><tex-math id="M26">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$I$\end{document}</tex-math></inline-formula> is for the sSNVs that originated from only one haplotype, and <inline-formula><tex-math id="M27">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\overline{I}$\end{document}</tex-math></inline-formula> for the ones that originated from both. If all subclones can be inferred from the set <inline-formula><tex-math id="M28">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$I$\end{document}</tex-math></inline-formula>, then let <inline-formula><tex-math id="M29">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${y}_{sc}={x}_{s,2c-1}+{x}_{s,2c}$\end{document}</tex-math></inline-formula> and we could obtain a simplified model<disp-formula id="deqn08"><label>(7)</label><tex-math id="M30">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{equation*} \min \sum_{s=1}^S\frac{1}{D_s}\left|{VAF_s}^{true}-{VAF_s}^{observed}\right| \end{equation*}\end{document}</tex-math></disp-formula>
+subject to<disp-formula id="deqn09"><tex-math id="M31">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$$ \left\{\begin{array}{@{}c}\displaystyle\sum_{c=1}^C{w}_c=1\\{}{VAF_s}^{true}=\frac{1}{2}\displaystyle\sum_{c=1}^C{w}_c{y}_{sc}\\{}{y}_{sc}\in \left\{0,1\right\}\!,{w}_c&#x0003e;0\end{array}\right. $$\end{document}</tex-math></disp-formula>
+where <inline-formula><tex-math id="M32">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$Y={({y}_{sc})}_{S\times C}$\end{document}</tex-math></inline-formula> is a binary matrix. <inline-formula><tex-math id="M33">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$Y$\end{document}</tex-math></inline-formula> is similar to <inline-formula><tex-math id="M34">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$X$\end{document}</tex-math></inline-formula> and thus can also be referred to a subclone matrix. Then, the diploid inference is converted to haplotype inference, which is the novelty of the model. The sSNV&#x02013;SNP linkage information could obtain the sets <inline-formula><tex-math id="M35">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$I$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math id="M36">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\overline{I}$\end{document}</tex-math></inline-formula> and we only use the sSNVs from set <inline-formula><tex-math id="M37">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$I$\end{document}</tex-math></inline-formula> to simplify the calculation in the next section.</p></sec><sec id="sec6"><title>Solve the model by Monte Carlo optimization</title><p>For the simplified model, since <inline-formula><tex-math id="M38">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${y}_{sc}$\end{document}</tex-math></inline-formula> is an integer and <inline-formula><tex-math id="M39">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${w}_c$\end{document}</tex-math></inline-formula> is a positive real number, the optimization problem is a mixed-integer problem. Mixed-integer linear programming (MILP) problems are NP-hard to solve [<xref rid="ref27" ref-type="bibr">27</xref>, <xref rid="ref28" ref-type="bibr">28</xref>]. In our model, the constraints are quadratic, which makes the problem more difficult. Here we apply the Monte Carlo optimization method to solve the model by fixing the number of subclones:</p><p>Step 1: Initialization. Given the maximal number of subclones <inline-formula><tex-math id="M40">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\left({C}_{max}\right)$\end{document}</tex-math></inline-formula> and let <inline-formula><tex-math id="M41">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$f=\sum_{s=1}^S\frac{1}{D_s}\left|{VAF_s}^{true}-{VAF_s}^{observed}\right|$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math id="M42">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C=1$\end{document}</tex-math></inline-formula>, then <inline-formula><tex-math id="M43">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${VAF_s}^{observed}=0.5$\end{document}</tex-math></inline-formula>.</p><p>Step 2: Update <inline-formula><tex-math id="M44">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C=C+1$\end{document}</tex-math></inline-formula>;. Randomly generate <inline-formula><tex-math id="M45">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$W=\left({w}_1,\cdots, {w}_C\right)$\end{document}</tex-math></inline-formula> for 10&#x02009;000 times from uniform distribution <inline-formula><tex-math id="M46">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$U\left(0,1\right)$\end{document}</tex-math></inline-formula> and normalize them by <inline-formula><tex-math id="M47">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${w}_c={w}_c/\sum_{c=1}^C{w}_c$\end{document}</tex-math></inline-formula>.</p><p>Step 3: For each <inline-formula><tex-math id="M48">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$W$\end{document}</tex-math></inline-formula>, calculate all the sums of elements from <inline-formula><tex-math id="M49">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${2}^W$\end{document}</tex-math></inline-formula> denoting the all subsets of W, and then assign <inline-formula><tex-math id="M50">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$2{VAF}_s^{observed}$\end{document}</tex-math></inline-formula> to the nearest sums to obtain <inline-formula><tex-math id="M51">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${y}_{sc}$\end{document}</tex-math></inline-formula> and further <inline-formula><tex-math id="M52">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${VAF}_s^{true}$\end{document}</tex-math></inline-formula>. The objective function <inline-formula><tex-math id="M53">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$f$\end{document}</tex-math></inline-formula> for <inline-formula><tex-math id="M54">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$W$\end{document}</tex-math></inline-formula> is also calculated.</p><p>Step 4: Obtaining <inline-formula><tex-math id="M55">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$W$\end{document}</tex-math></inline-formula> by minimizing all <inline-formula><tex-math id="M56">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${f}^{\prime }s$\end{document}</tex-math></inline-formula>, if <inline-formula><tex-math id="M57">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C={C}_{max}$\end{document}</tex-math></inline-formula>, stop; otherwise, go to Step 2.</p><p>Usually, we set the <inline-formula><tex-math id="M58">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${C}_{max}$\end{document}</tex-math></inline-formula> as 10 in the calculation. If needed, the user can modify <inline-formula><tex-math id="M59">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${C}_{max}$\end{document}</tex-math></inline-formula> when many subclones are expected.</p></sec><sec id="sec7"><title>Subclones inference by balancing model goodness and the numbers of subclones</title><p>As the number of subclones is an important parameter in the model, we need to evaluate the goodness of the model to find the optimal number of subclones. Suppose the number of fragments is large enough in the sequencing library construction and then <inline-formula><tex-math id="M60">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${D}_s$\end{document}</tex-math></inline-formula> fragments are randomly selected for <inline-formula><tex-math id="M61">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${s}^{th}$\end{document}</tex-math></inline-formula> sSNV where <inline-formula><tex-math id="M62">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${VAF_s}^{true}$\end{document}</tex-math></inline-formula> of these fragments contains alternative allele. Assume that this random process follows a binomial distribution, we have<disp-formula id="deqn10"><tex-math id="M63">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$$ {D}_s{VAF_s}^{observed}\sim Binomial\left({D}_s,{VAF_s}^{true}\right). $$\end{document}</tex-math></disp-formula></p><p>Furthermore, we estimate the standard variance of <inline-formula><tex-math id="M64">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${VAF_s}^{observed}$\end{document}</tex-math></inline-formula> as<disp-formula id="deqn11"><label>(8)</label><tex-math id="M65">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{equation*} \sigma \left({VAF_s}^{observed}\right)=\sqrt{\frac{{VAF_s}^{true}\left(1-{VAF_s}^{true}\right)}{D_s}}. \end{equation*}\end{document}</tex-math></disp-formula></p><p>The true VAF is not larger than 0.5, so we use the maximal <inline-formula><tex-math id="M66">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${VAF_s}^{true}=0.5$\end{document}</tex-math></inline-formula> and the median <inline-formula><tex-math id="M67">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${D}_s$\end{document}</tex-math></inline-formula> to obtain an estimation of <inline-formula><tex-math id="M68">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\sigma \big({VAF_s}^{observed}\big)$\end{document}</tex-math></inline-formula>.</p><p>Then we define the goodness for a given number of subclones <inline-formula><tex-math id="M69">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C$\end{document}</tex-math></inline-formula> as<disp-formula id="deqn12"><label>(9)</label><tex-math id="M70">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{equation*} {G}_C=\frac{\#\left(\left|{VAF_s}^{observed}-{VAF_s}^{true}\right|\lt\sigma \left({VAF_s}^{observed}\right)\right)}{S}. \end{equation*}\end{document}</tex-math></disp-formula></p><p>The term <inline-formula><tex-math id="M71">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\big|{VAF_s}^{observed}-{VAF_s}^{true}\big|$\end{document}</tex-math></inline-formula> can be calculated for each <inline-formula><tex-math id="M72">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C$\end{document}</tex-math></inline-formula> for <inline-formula><tex-math id="M73">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C=1,2,\dots, {C}_{max}$\end{document}</tex-math></inline-formula> in the Monte Carlo optimization and the optimal number of subclones is selected by balancing the goodness and the number of subclones. By default, we select the number of subclones <inline-formula><tex-math id="M74">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C$\end{document}</tex-math></inline-formula> if <inline-formula><tex-math id="M75">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$|{G}_{C+1}-{G}_C|&#x0003c;0.05$\end{document}</tex-math></inline-formula>.</p></sec><sec id="sec8"><title>Implementation of GenoClone</title><p>As illustrated in <xref rid="f1" ref-type="fig">Figure 1</xref>, the alignments (&#x02018;bam&#x02019; files) of the sequencing data of tumor and the matched normal samples are entered. Firstly, the somatic mutations (sSNVs) and germline mutations (SNPs) are called by VarScan2 [<xref rid="ref26" ref-type="bibr">26</xref>]. Secondly, GenoClone uses the paired-end short reads or long reads sequencing to detect the sSNV&#x02013;SNP linkages for the genotype of sSNVs. Simultaneously, GenoClone calculates VAFs of all sSNVs via short reads. Thirdly, GenoClone integrates the VAFs and their genotypes into the above optimization model that is solved by the Monte Carlo optimization.</p></sec><sec id="sec9"><title>Data set</title><p>The diversity of intra-tumor subclones in breast cancer is associated with cancer progression and therapeutic resistance (6). We analyzed 389 breast invasive carcinoma samples from The Cancer Genome Atlas (TCGA) by GenoClone (<xref rid="sup1" ref-type="supplementary-material">Supplementary Table S1</xref>). For each sample, the exome sequencing data from tumor and the matched normal were used. In addition, the exome sequencing data of different aliquots from two TCGA-BRCA samples (TCGA-A7-A13E and TCGA-A7-A13D) were also used to study the heterogeneity among different aliquots.</p></sec></sec><sec id="sec10"><title>Results</title><sec id="sec11"><title>Subclone inference by GenoClone</title><p>We applied GenoClone to a simulation data to evaluate the performance by the following three metrics: (i) correct identification of the number of subclones, (ii) the fractions of subclones and (iii) accuracy (i.e. the proportion of sSNVs correctly identified in each subclones). The simulation data contained four subclones with different fractions (0.05, 0.15, 0.35 and 0.45) and all sSNV-SNP linkages were known (see Supplementary Materials, <xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S1</xref>). We examined the difference between true and observed VAFs and the goodness (see definition of &#x02018;goodness&#x02019; in Method) with respect to the number of subclones (<xref rid="f2" ref-type="fig">Figure 2</xref>). As the number of subclones increased from one to four, the difference between true and observed VAFs decreased dramatically (<xref rid="f2" ref-type="fig">Figure 2A</xref>) and the goodness increased significantly (<xref rid="f2" ref-type="fig">Figure 2B</xref>). Until the number of subclones was increased from four to five, the improvement of the goodness was not smaller than 0.05. Therefore, GenoClone identified four subclones that matched exactly to the simulation. The estimated fractions of subclones were 0.0748, 0.1418, 0.3427 and 0.4406, which were very close to the true values (<xref rid="f3" ref-type="fig">Figure 3A</xref>). The accuracy of each subclone identified by GenoClone were 68.18%, 69.70%, 78.79% and 84.85%, respectively (<xref rid="f3" ref-type="fig">Figure 3B</xref>). The subclones with low fractions (e.g. 0.05 and 0.15) showed relatively poorer accuracy because the low fractions might be sensitive to the process of solving the optimization problem in GenoClone (<xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S2</xref> and see Methods).</p><fig id="f2" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Subclone inference by examining the difference of true and observed VAFs and goodness in the simulation. As the number of subclones increases, (A) the difference of true and observed VAFs decreased and (B) the goodness increases. The changes are significant until the number of subclones increases to four.</p></caption><graphic xlink:href="bby084f2"/></fig><fig id="f3" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Comparison of GenoClone, PyClone and SciClone in the simulation. (A) The black bar represents the true fractions of the four subclones. The fractions of the subclones inferred by GenoClone (red bars) are closer to the true ones than PyClone (green bars) and SciClone (blue bars). (B) The accuracy of sSNV composition identification of each subclone by GenoClone, SciClone and Pyclone. GenoClone showed the highest accuracy except the Subclone 1.</p></caption><graphic xlink:href="bby084f3"/></fig></sec><sec id="sec12"><title>Influence of sSNV&#x02013;SNP linkage ratio for subclone inference</title><p>In the simulation above, we assumed all sSNV&#x02013;SNP linkage were known, while we often have only a subset of sSNVs linked with SNPs in real data, as the other sSNVs are far from SNPs. To investigate the influence of sSNV&#x02013;SNP linkages for subclone inference, we define linkage ratio as the fraction of sSNVs linked with SNPs. Given a linkage ratio, we repeated 1000 simulations. We tested different linkage ratios from 20% to 90% (see Supplementary Materials). For the linkage ratio of 20%, only 1.2% tests failed to find the correct numbers of subclones. Moreover, the estimated fractions of subclones were close to the true values (<xref rid="f4" ref-type="fig">Figure 4</xref>). As the linkage ratio increased, the standard deviation of the estimated fractions decreased. Interestingly, the most significant improvement occurred as the linkage ratio increased from 20% to 40% and then the improvement became marginal. Therefore, more linkage information were helpful to estimate subclone fractions with less variance, while the linkage ratio of 40% rather than 100% may be high enough to generate the optimal output.</p><fig id="f4" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Subclone fraction estimation with different sSNV&#x02013;SNP linkage ratios in the simulation. The true fractions of the four subclones are 0.05, 0.15, 0.35 and 0.45 (dashed lines). The fractions estimated by GenoClone with different sSNV-SNP linkage ratios are close to the true values. As the linkage ratio increases, the variance of fraction estimation decreases.</p></caption><graphic xlink:href="bby084f4"/></fig></sec><sec id="sec13"><title>Comparisons with PyClone and SciClone</title><p>Furthermore, we compared the performance of GenoClone with the existing tools PyClone and SciClone on the same simulation data (see Supplementary Materials) [<xref rid="ref19" ref-type="bibr">19</xref>, <xref rid="ref21" ref-type="bibr">21</xref>]. PyClone inferred the cellular abundance for each sSNVs, based on which sSNVs were clustered. Pyclone yielded six clusters of sSNVs with their centroids of abundance at 0.0666, 0.2041, 0.3714, 0.2558, 0.5498 and 0.4721 (<xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S3</xref>). Therefore, PyClone was not able to predict the number of subclones correctly and thus was also not able to estimate the fractions accurately. We tried to convert six clusters of sSNVs to four subclones manually by considering the size of cluster and their abundance and the fractions of four subclones could be obtained as 0.0666, 0.2041, 0.3579 and 0.3714 (see Supplementary Materials, <xref rid="f3" ref-type="fig">Figure 3A</xref>). Except Subclone 1, the fraction estimations of the other subclones by PyClone were of much higher errors than GenoClone. The similar result was also observed in the comparison of the accuracy between GenoClone and PyClone (<xref rid="f3" ref-type="fig">Figure 3B</xref>). Overall, GenoClone showed better performance of predicting the number of subclones and estimating of the fractions of subclones, as well as more accurate identification of sSNV composition in each subclone.</p><p>SciClone yielded four clusters of sSNVs and their fractions were estimated as 0.0382, 0.2148, 0.3666 and 0.3804 (<xref rid="f3" ref-type="fig">Figure 3A</xref>). The average estimation error of subclone fractions by GenoClone was much smaller than SciClone (0.0124 versus 0.0407). In addition, the averaged accuracy of sSNV composition in each subclone predicted by SciClone (51.5%) was much lower than GenoClone (75.2%) (<xref rid="f3" ref-type="fig">Figure 3B</xref>). Although SciClone predicted the same number of subclones, GenoClone showed advantages in estimating the fractions of subclones and identifying sSNV composition of each subclone.</p></sec><sec id="sec14"><title>Subclone inference of breast cancer</title><p>GenoClone detected two subclones in nearly all (388) the samples (<xref rid="f5" ref-type="fig">Figure 5A</xref>), while the only outlier contained one subclone. Therefore, intra-tumor heterogeneity existed extensively in breast cancer. However, the goodness of 11.31% samples (44/389) was smaller than 0.7, which inferred the possible underestimation of the numbers of subclones. It may be caused by the lack of enough sSNV&#x02013;SNP linkages (<italic>P</italic>-value&#x000a0;=&#x000a0;7.75e-9, Student&#x02019;s <italic>t</italic> test, <xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S4</xref>). Thus, we defined that these samples contained two or more subclones (termed Group 1). In addition, 42.93% samples (167/389) with goodness higher than 0.85 were defined to contain exactly two subclones (termed Group 2). According to American Joint Committee on Cancer (AJCC), higher proportion of the samples in Group 1 was at Stage I than Group 2, while Group 1 was slightly lower than Group 2 at Stage III (<xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S5</xref>). Therefore, the samples containing more subclones (i.e. Group 1) may increase the probability of obtaining metastasis at the early stage, while at the late stage the samples with less subclones (i.e. Group 2) may dominate to expose. We used 167 samples of Group 2 in the analysis below as they had higher goodness.</p><fig id="f5" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Subclone inference of 389 TCGA-BRCA samples. (A) The histogram of the goodness for 389 TCGA-BRCA samples. The goodness of about half of the samples [167 (42.93%) of 389] is greater than 0.85. (B) The mean and variance of true and observed VAFs for 167 samples. The red box highlights the samples with mean &#x0003c; 0.045 and variance &#x0003c; 0.0015.</p></caption><graphic xlink:href="bby084f5"/></fig></sec><sec id="sec15"><title>Subclones inference with non-SNP-linked sSNVs</title><p>While the SNP-linked sSNVs were informative for inferring subclones, the non-SNP-linked sSNVs may be important to study tumorigenesis and tumor evolution. Therefore, the non-SNP-linked sSNVs should be also considered in the analysis. We assigned the non-SNP-linked sSNVs to each subclone according to the difference between the fractions of subclones and the corresponding observed VAFs (see Supplementary Materials). After including both types of sSNVs in the analysis by GenoClone, the goodness of each sample was still higher than 0.85, except that two samples went down to 0.84 and 0.83 (<xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S6A</xref>). Furthermore, in 155 samples, the average of the difference between true and observed VAFs was smaller than 0.045 and the variance was smaller than 0.0015 (<xref rid="f5" ref-type="fig">Figure 5B</xref>). For example, the distribution of <inline-formula><tex-math id="M76">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${VAF_s}^{true}\,-\, {VAF_s}^{observed}$\end{document}</tex-math></inline-formula> of the tumor TCGA-EW-A1P7 centered at zero (<xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S6B</xref>). Thus, GenoClone showed consistent and unbiased results when including non-SNP-linked sSNVs. Both SNP-linked and non-SNP-linked sSNVs were included in the analysis below to investigate the role of sSNVs in tumor evolution.</p></sec><sec id="sec16"><title>sSNVs in tumor evolution of breast cancer</title><p>A total of 39&#x000a0;604 sSNVs were detected from 167 breast cancer samples (<xref rid="sup1" ref-type="supplementary-material">Supplementary Table S2</xref>). For each sample, the sSNVs that occurred in all subclones were defined as early mutants, and the sSNVs that occurred in only one subclone were defined as late mutants. Next, we studied the correlation between sSNVs and the tumor evolution of breast cancer. For example, the sSNV chr3_179234297_AG located at PIK3CA that had been shown as an oncogene in ovarian cancer [<xref rid="ref29" ref-type="bibr">29</xref>] and high mutation frequency at PIK3CA was also found in breast cancer [<xref rid="ref30" ref-type="bibr">30</xref>, <xref rid="ref31" ref-type="bibr">31</xref>]. This sSNV occurred in 17 samples and occurred in only one subclone in most samples (16 of 17). Therefore, it may likely emerge in the late stage of tumor evolution. In addition, another sSNV of PIK3CA, chr3_179218303_GA, was similar as it also occurred in one subclone of 11 of 12 samples containing it. These evidences implied that mutations of PIK3CA occurred at the late stage of tumor progression, which was consistent with the recent studies in human cancers [<xref rid="ref32" ref-type="bibr">32</xref>, <xref rid="ref33" ref-type="bibr">33</xref>]. Another sSNV, chr10_26224072_GT, occurred in both subclones of three samples while a total of seven samples contained it. Thus, this sSNV might be the early mutant so it is associated with breast cancer occurrence. More interestingly, 24 sSNVs were found at TP53, which is a well-known tumor suppressor gene and driver gene in many types of human tumors [<xref rid="ref34" ref-type="bibr">34</xref>, <xref rid="ref35" ref-type="bibr">35</xref>], including four sSNVs that occurred at both subclones. It showed a possibility that the majority of TP53 mutations occurred at the late stage of tumor evolution, while a few may occur at the early stage (<xref rid="sup1" ref-type="supplementary-material">Supplementary Table S3</xref>).</p></sec><sec id="sec17"><title>Similarities of sSNVs composition among subclones</title><p>To investigate the biological significance of subclones, we studied their similarities of sSNVs composition by Fisher&#x02019;s exact test (see Supplementary Materials). In the majority [123 (73.6%) of 167] of the samples, significant similarity (<italic>P</italic>-value&#x000a0;&#x0003c;&#x000a0;0.01) was found between two subclones. However, two subclones were different (<italic>P</italic>-value&#x000a0; &#x0003e;&#x000a0;0.1) in 15.5% (23/167) of the samples (<xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S7</xref>), which was likely due to significant difference of cancer progression in these samples. The difference existed in two subclones of the same sample demonstrated the importance of studying the tumor heterogeneity within tumors.</p><p>Next, we studied the similarities among subclones from all the samples by clustering analysis (<xref rid="f6" ref-type="fig">Figure 6A</xref>). Although 97.6% pairs of subclones were different (<italic>P</italic>-value&#x000a0;&#x0003e;&#x000a0;0.1), a cluster of 24 subclones with significant similarities were found (black solid-line box in <xref rid="f6" ref-type="fig">Figure 6A</xref> and <xref rid="f6" ref-type="fig">B</xref>). Within this cluster, the most common sSNV chr2_55679588_CA occurred in 10 subclones, followed by chr7_92040995_GT and chr6_83237608_CA occurring in eight subclones, chr19_16483788_TG, chr3_138269901_CA, chr2_169891311_CT, chr10_26224072_GT and chr10_32932369_CA in seven subclones, etc. Moreover, the panel of sSNVs chr2_55679588_CA, chr6_83237608_CA, chr19_16483788_TG and chr3_138269901_CA occurred in 83.33% (20/24) of subclones. Furthermore, all the subclones were not metastasis and most were Her2 negative (83.3%) and ER positive (70.8%) [<xref rid="ref31" ref-type="bibr">31</xref>]. These results from the 24-subclone cluster provided useful information for the research of cancer progression and precision medicine.</p><fig id="f6" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Similarities among the subclones from 167 TCGA-BRCA samples. (A) The heatmap of similarity of mutual subclone pairs identified from 167 TCGA-BRCA samples. The <italic>P</italic>-value of each pair of subclones was calculated by the Fisher&#x02019;s exact test. The biggest cluster is highlighted by the black solid-line box and the other two clusters are highlighted by the white dashed-line box. (B) The sSNVs in the biggest clusters. The sSNVs occurred at least four times are shown. Chr2_55679588_CA occurs in 10 samples. Chr2_55679588_CA represents the sSNV at chromosome 2 and its position is 55679588 with reference C to A.</p></caption><graphic xlink:href="bby084f6"/></fig><p>In addition to the cluster above, we found two smaller clusters (white dashed-line box in <xref rid="f6" ref-type="fig">Figure 6A</xref>). An sSNV at PIK3CA, ch3_17923497_AG, occurred in all subclones of the first cluster of 14 subclones (<xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S8A</xref>). Similarly, the other sSNV at PIK3CA, ch3_179218303_GA, occurred in all subclones of the second cluster of 14 subclones (<xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S8B</xref>). Thus, the two sSNVs could be target driver mutations for these subclones.</p></sec><sec id="sec18"><title>Subclone inference in aliquots of tumors</title><p>In order to further analyze the intra-tumor heterogeneity of breast cancer sample, we applied GenoClone to three aliquots of the tumor TCGA-A7-A13E. At least three subclones were found in each aliquot (<xref rid="f7" ref-type="fig">Figure 7</xref>). All three subclones in the second vial (01B-06D-A272-09) did not contain the sSNV chr17_7675088_CT, which is located at TP53 (<xref rid="f7" ref-type="fig">Figure 7A</xref>) and was shared by two aliquots of the first vial (01A-11D-A272-09 and 01A-11D-A12Q-09). This implied the heterogeneity between different vials of this sample. More interestingly, significant difference of the subclones was also detected even within the same vial of the sample. In the first vial, four subclones were found in the aliquot 01A-11D-A12Q-09 (<xref rid="f7" ref-type="fig">Figure 7C</xref>), while three subclones in the other aliquot 01A-11D-A272-09 (<xref rid="f7" ref-type="fig">Figure 7B</xref>). Furthermore, we found that the VAF of chr17_7675088_CT was 0.2051 in the 01A-11D-A272-09 and was increased to 0.3113 in 01A-11D-A12Q-09. Therefore, the aliquot 01A-11D-A12Q-09 might occur in a later phase of tumor evolution than 01A-11D-A272-09.</p><fig id="f7" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Subclone inference from three aliquots of the tumor TCGA-A7-A13E by examining the difference of true and observed VAFs and goodness. (A) The second vial &#x02018;B&#x02019; and both (B) and (C) are from the first vial &#x02018;A&#x02019;. Three subclones are predicted in both (A) and (B) and four subclones in (C). When the number of subclones increase from three to four, the improvement of goodness of (B) and (C) are 0.039 and 0.069, individually.</p></caption><graphic xlink:href="bby084f7"/></fig><p>In addition to TCGA-A7-A13E, we applied GenoClone to another tumor TCGA-A7-A13D containing two aliquots (01A-13D-A272-09 and 01A-13D-A12Q-09) from the same vial. Similarly, different numbers of subclones were found in the two aliquots (<xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S9</xref>). The sSNV chr17_7674870_CA at TP53 was detected in both aliquots. Moreover, the aliquot 01A-13D-A272-09 that contained less subclones (<xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S9A</xref>) had smaller VAF of this sSNV (0.5882) than the other aliquot 01A-13D-A12Q-09 (VAF&#x000a0;=&#x000a0;0.7307, <xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S9B</xref>). If the sSNV chr17_7674870_CA at TP53 correlates with tumor evolution, then the aliquot 01A-13D-A12Q-09 may emerge in a later evolution stage than the other aliquot.</p></sec></sec><sec id="sec19"><title>Discussion</title><p>Deciphering tumor heterogeneity is very helpful for understanding the causes and consequences of tumor evolution [<xref rid="ref9" ref-type="bibr">9</xref>] and finally assists therapeutic treatment and personal medicine [<xref rid="ref36" ref-type="bibr">36</xref>, <xref rid="ref37" ref-type="bibr">37</xref>]. Recent studies identified subclones by VAFs without utilizing genotype information [<xref rid="ref19" ref-type="bibr">19</xref>, <xref rid="ref21" ref-type="bibr">21</xref>]. GenoClone integrates the genotype of sSNVs and VAFs in an optimization model innovatively, so as to achieve better characterization of tumor heterogeneity. Compared to the existing methods, GenoClone showed superior performance of inferring the number of subclones, estimating subclone fractions and identifying sSNVs composition of each subclone. If the fraction of subclones is equal, GenoClone could infer the number of subclones and their fractions but nearly impossible to assign sSNVs to each subclone (<xref rid="sup1" ref-type="supplementary-material">Supplementary Table S4</xref>). PyClone and SciClone also obtained similar result. This situation may be solved by single-cell sequencing. Therefore, the re-analysis of the publicly available data by GenoClone may provide more accurate understanding of heterogeneity of the samples, as paired-end reads can detect the genotype of sSNVs. By GenoClone, we showed the extensive intra-tumor heterogeneity of 389 breast cancer samples in TCGA. Further analysis also revealed the possible roles of a few sSNVs in tumor evolutions, especially the ones at the oncogene PIK3CA and the tumor suppressor gene TP53. Interestingly, similarity analysis of sSNVs composition among all subclones found from 167 TCGA-BRCA samples identified three subclone clusters, which contained a panel of sSNVs. These results may further benefit the treatment and drug design for large population. In addition, the heterogeneity in different aliquots of the same samples showed that the subclones did not uniformly distribute within the tumor. Therefore, in order to obtain a better understanding of tumor evolution, we needed to study the heterogeneity in the whole tumor rather than a fraction of sample.</p><p>GenoClone used the variant calling results from the existing tool VarScan2, which outputs the sSNVs with VAFs larger than a default threshold. Thus, GenoClone only identifies the large subclones with VAFs above the threshold. Small subclones can be detected if the threshold of VAF is relaxed. When we analyzed 389 TCGA-BRCA samples by GenoClone, two subclones with reasonably high VAFs were found in most samples because of this restriction. This result still demonstrated that tumor heterogeneity is widespread.</p><p>Because GenoClone utilizes sSNV-SNP linkage, it reduces the uncertainty of the genotype of sSNVs. As the sSNV&#x02013;SNP linkage ratio increases, the estimation variance of subclone fractions decreases. However, GenoClone could also handle the low-coverage data by minimizing the difference of true and observed VAFs to reduce the influence of the variance of VAFs. While low sequencing coverage and the long distance between some sSNVs and the adjacent SNPs may result in low ratios of sSNV&#x02013;SNP linkages, GenoClone showed robust performance in different linkage ratios. As a user-friendly tool, GenoClone defined the model goodness to evaluate the reliability of subclone inference so that the results can be used and interpreted appropriately in the downstream analysis. In addition, like PyClone, GenoClone assumes that sSNVs occur and remain in the descendant cells, while GenoClone does not require that sSNVs occur only once. As copy number variation (CNV) is also important for subclone formation and evolution, the integration of CNV data to GenoClone may obtain more accurate subclone inference in the future study. We downloaded the CNVs of the matched samples from TCGA and found no significant difference between GenoClone output with and without removing the sSNVs from CNV regions (<xref rid="sup1" ref-type="supplementary-material">Supplementary Figure S10</xref>). The heterogeneity may exist in different aliquots of the same sample, so the CNVs data may not be helpful in the subclone inference from exome sequencing data. Moreover, GenoClone may use the linkage information to distinguish the homozygous and heterozygous CNVs. GenoClone can be applied to both exome and whole-genome sequencing data. Both paired-end reads (e.g. Illumina) and Third Generation Sequencing long reads (e.g. Pacbio and Oxford Nanopore Technologies) can be used.</p><boxed-text id="box01" position="float" orientation="portrait"><sec id="sec20"><title>Key Points</title><p>
+<list list-type="bullet"><list-item><p>We develop the bioinformatics tool GenoClone that first integrates the genotype of sSNVs and VAF to infer subclones and tumor heterogeneity.</p></list-item><list-item><p>We showed superior performance of GenoClone over the existing tools in three ways: (i) infer the number of subclones correctly, (ii) estimate subclone fractions accurately and (iii) identify sSNVs composition of each subclone accurately.</p></list-item><list-item><p>By GenoClone, we analyzed 389 TCGA breast cancer samples and showed the widespread heterogeneity of the samples. The further analysis revealed the possible roles of a few sSNVs in tumor evolution, including the ones at the oncogene PIK3CA and tumor suppressor gene TP53.</p></list-item><list-item><p>We discovered three significant clusters of subclones that were identified from different TCGA breast cancer samples, which would benefit the research of common variants in breast cancer and the following studies of precision treatment.</p></list-item><list-item><p>We also showed the heterogeneity among different aliquots of the same samples.</p></list-item></list>
+</p></sec></boxed-text></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sup1"><label>bby084_Supp</label><media xlink:href="bby084_supp.zip"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ack1"><title>Acknowledgements</title><p>We thank Donghai Dai, MD, PhD, at the University of Iowa Carver College of Medicine, for discussion.</p></ack><sec id="sec22"><title>Funding</title><p>National Human Genome Research Institute [R01HG008759 to K.F.A and M.Z.]; Department of Internal Medicine, University of Iowa institutional fund to K.F.A. and M.Z.; Department of Biomedical informatics, Ohio State University institutional fund to K.F.A. </p></sec><notes id="bio3"><sec sec-type="author-bio" id="sec41a"><title/><p>
+<bold>Meng Zou</bold> is currently an instructor at the School of Mathematics and Statistics, Huazhong University of Science and Technology. He was a postdoctoral scholar at the Department of Internal Medicine, University of Iowa.</p></sec><sec sec-type="author-bio" id="sec42b"><title/><p>
+<bold>Rui Jin</bold> is a PhD student at the Department of Statistics, University of Iowa.</p></sec><sec sec-type="author-bio" id="sec43c"><title/><p>
+<bold>Kin Fai Au</bold> is currently an associate professor at the Department of Biomedical Informatics, Ohio State University. His research focuses on the method development of Third Generation Sequencing. He was an associate professor at the Department of Internal Medicine, University of Iowa. </p></sec></notes><ref-list id="bib1"><title>References</title><ref id="ref1"><label>1.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Nowell</surname><given-names>PC</given-names></name></person-group>
+<article-title>The clonal evolution of tumor cell populations</article-title>. <source>Science</source><year>1976</year>;<volume>194</volume>(<issue>4260</issue>):<fpage>23</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">959840</pub-id></mixed-citation></ref><ref id="ref2"><label>2.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Greaves</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Maley</surname><given-names>CC</given-names></name></person-group>
+<article-title>Clonal evolution in cancer</article-title>. <source>Nature</source><year>2012</year>;<volume>481</volume>(<issue>7381</issue>):<fpage>306</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">22258609</pub-id></mixed-citation></ref><ref id="ref3"><label>3.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Marusyk</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Almendro</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Polyak</surname><given-names>K</given-names></name></person-group>
+<article-title>Intra-tumour heterogeneity: a looking glass for cancer?</article-title><source>Nat Rev Cancer</source><year>2012</year>;<volume>12</volume>(<issue>5</issue>):<fpage>323</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">22513401</pub-id></mixed-citation></ref><ref id="ref4"><label>4.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bedard</surname><given-names>PL</given-names></name>, <name name-style="western"><surname>Hansen</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Ratain</surname><given-names>MJ</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Tumour heterogeneity in the clinic</article-title>. <source>Nature</source><year>2013</year>;<volume>501</volume>(<issue>7467</issue>):<fpage>355</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">24048068</pub-id></mixed-citation></ref><ref id="ref5"><label>5.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Sz&#x000f6;ll&#x000f6;si</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Bal&#x000e1;zs</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Feuerstein</surname><given-names>BG</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>ERBB-2 (HER2/neu) gene copy number, p185HER-2 overexpression, and intratumor heterogeneity in human breast cancer</article-title>. <source>Cancer Res</source><year>1995</year>;<volume>55</volume>(<issue>22</issue>):<fpage>5400</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">7585609</pub-id></mixed-citation></ref><ref id="ref6"><label>6.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Polyak</surname><given-names>K</given-names></name></person-group>
+<article-title>Heterogeneity in breast cancer</article-title>. <source>J Clin Invest</source><year>2011</year>;<volume>121</volume>(<issue>10</issue>):<fpage>3786</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">21965334</pub-id></mixed-citation></ref><ref id="ref7"><label>7.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Koren</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Bentires-Alj</surname><given-names>M</given-names></name></person-group>
+<article-title>Breast tumor heterogeneity: source of fitness, hurdle for therapy</article-title>. <source>Mol Cell</source><year>2015</year>;<volume>60</volume>(<issue>4</issue>):<fpage>537</fpage>&#x02013;<lpage>46</lpage>.<pub-id pub-id-type="pmid">26590713</pub-id></mixed-citation></ref><ref id="ref8"><label>8.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zardavas</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Baselga</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Piccart</surname><given-names>M</given-names></name></person-group>
+<article-title>Emerging targeted agents in metastatic breast cancer</article-title>. <source>Nat Rev Clin Oncol</source><year>2013</year>;<volume>10</volume>(<issue>4</issue>):<fpage>191</fpage>&#x02013;<lpage>210</lpage>.<pub-id pub-id-type="pmid">23459626</pub-id></mixed-citation></ref><ref id="ref9"><label>9.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Marusyk</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Polyak</surname><given-names>K</given-names></name></person-group>
+<article-title>Tumor heterogeneity: causes and consequences. Biochimica et Biophysica Acta (BBA)-Reviews on</article-title>. <source>Cancer</source><year>2010</year>;<volume>1805</volume>(<issue>1</issue>):<fpage>105</fpage>&#x02013;<lpage>17</lpage>.</mixed-citation></ref><ref id="ref10"><label>10.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Metzker</surname><given-names>ML</given-names></name></person-group>
+<article-title>Sequencing technologies&#x02014;the next generation</article-title>. <source>Nat Rev Genet</source><year>2010</year>;<volume>11</volume>(<issue>1</issue>):<fpage>31</fpage>&#x02013;<lpage>46</lpage>.<pub-id pub-id-type="pmid">19997069</pub-id></mixed-citation></ref><ref id="ref11"><label>11.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Koboldt Daniel</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Steinberg Karyn</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Larson David</surname><given-names>E</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>The next-generation sequencing revolution and its impact on genomics</article-title>. <source>Cell</source><year>2013</year>;<volume>155</volume>(<issue>1</issue>):<fpage>27</fpage>&#x02013;<lpage>38</lpage>.<pub-id pub-id-type="pmid">24074859</pub-id></mixed-citation></ref><ref id="ref12"><label>12.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Shendure</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Ji</surname><given-names>H</given-names></name></person-group>
+<article-title>Next-generation DNA sequencing</article-title>. <source>Nat Biotechnol</source><year>2008</year>;<volume>26</volume>(<issue>10</issue>):<fpage>1135</fpage>&#x02013;<lpage>45</lpage>.<pub-id pub-id-type="pmid">18846087</pub-id></mixed-citation></ref><ref id="ref13"><label>13.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Navin</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Kendall</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Troge</surname><given-names>J</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Tumour evolution inferred by single-cell sequencing</article-title>. <source>Nature</source><year>2011</year>;<volume>472</volume>(<issue>7341</issue>):<fpage>90</fpage>&#x02013;<lpage>4</lpage>.<pub-id pub-id-type="pmid">21399628</pub-id></mixed-citation></ref><ref id="ref14"><label>14.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bankevich</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Nurk</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Antipov</surname><given-names>D</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing</article-title>. <source>J Comput Biol</source><year>2012</year>;<volume>19</volume>(<issue>5</issue>):<fpage>455</fpage>&#x02013;<lpage>77</lpage>.<pub-id pub-id-type="pmid">22506599</pub-id></mixed-citation></ref><ref id="ref15"><label>15.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ning</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Liu</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>G</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Current challenges in the bioinformatics of single cell genomics</article-title>. <source>Front Oncol</source><year>2014</year>;<volume>4</volume>:<fpage>7</fpage>.<pub-id pub-id-type="pmid">24478987</pub-id></mixed-citation></ref><ref id="ref16"><label>16.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hou</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Song</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Zhu</surname><given-names>P</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Single-cell exome sequencing and monoclonal evolution of a JAK2-negative myeloproliferative neoplasm</article-title>. <source>Cell</source><year>2012</year>;<volume>148</volume>(<issue>5</issue>):<fpage>873</fpage>&#x02013;<lpage>85</lpage>.<pub-id pub-id-type="pmid">22385957</pub-id></mixed-citation></ref><ref id="ref17"><label>17.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ding</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Ley</surname><given-names>TJ</given-names></name>, <name name-style="western"><surname>Larson</surname><given-names>DE</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Clonal evolution in relapsed acute myeloid leukaemia revealed by whole-genome sequencing</article-title>. <source>Nature</source><year>2012</year>;<volume>481</volume>(<issue>7382</issue>):<fpage>506</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">22237025</pub-id></mixed-citation></ref><ref id="ref18"><label>18.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Nik-Zainal</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Van Loo</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Wedge</surname><given-names>DC</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>The life history of 21 breast cancers</article-title>. <source>Cell</source><year>2012</year>;<volume>149</volume>(<issue>5</issue>):<fpage>994</fpage>&#x02013;<lpage>1007</lpage>.<pub-id pub-id-type="pmid">22608083</pub-id></mixed-citation></ref><ref id="ref19"><label>19.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Roth</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Khattra</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Yap</surname><given-names>D</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>PyClone: statistical inference of clonal population structure in cancer</article-title>. <source>Nat Methods</source><year>2014</year>;<volume>11</volume>(<issue>4</issue>):<fpage>396</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">24633410</pub-id></mixed-citation></ref><ref id="ref20"><label>20.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hajirasouliha</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Mahmoody</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Raphael</surname><given-names>BJ</given-names></name></person-group>
+<article-title>A combinatorial approach for analyzing intra-tumor heterogeneity from high-throughput sequencing data</article-title>. <source>Bioinformatics</source><year>2014</year>;<volume>30</volume>(<issue>12</issue>):<fpage>i78</fpage>&#x02013;<lpage>86</lpage>.<pub-id pub-id-type="pmid">24932008</pub-id></mixed-citation></ref><ref id="ref21"><label>21.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Miller</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>White</surname><given-names>BS</given-names></name>, <name name-style="western"><surname>Dees</surname><given-names>ND</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>SciClone: inferring clonal architecture and tracking the spatial and temporal patterns of tumor evolution</article-title>. <source>PLoS Comput Biol</source><year>2014</year>;<volume>10</volume>(<issue>8</issue>):<comment>e1003665</comment>.</mixed-citation></ref><ref id="ref22"><label>22.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Lee</surname><given-names>J</given-names></name>, <name name-style="western"><surname>M&#x000fc;ller</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Sengupta</surname><given-names>S</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Bayesian feature allocation models for tumor heterogeneity</article-title>. In: <source>Statistical Analysis for High-Dimensional Data</source>. <publisher-loc>Cham</publisher-loc>:
+<publisher-name>Springer</publisher-name>, <year>2016</year>, <fpage>211</fpage>&#x02013;<lpage>32</lpage>.</mixed-citation></ref><ref id="ref23"><label>23.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lo</surname><given-names>YD</given-names></name>, <name name-style="western"><surname>Chan</surname><given-names>KA</given-names></name>, <name name-style="western"><surname>Sun</surname><given-names>H</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Maternal plasma DNA sequencing reveals the genome-wide genetic and mutational profile of the fetus</article-title>. <source>Sci Transl Med</source><year>2010</year>;<volume>2</volume>(<issue>61</issue>):<fpage>61ra91</fpage>.</mixed-citation></ref><ref id="ref24"><label>24.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>El-Maarri</surname><given-names>O</given-names></name>, <name name-style="western"><surname>Seoud</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Coullin</surname><given-names>P</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Maternal alleles acquiring paternal methylation patterns in biparental complete hydatidiform moles</article-title>. <source>Hum Mol Genet</source><year>2003</year>;<volume>12</volume>(<issue>12</issue>):<fpage>1405</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">12783848</pub-id></mixed-citation></ref><ref id="ref25"><label>25.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Marshall</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Slate</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Kruuk</surname><given-names>L</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Statistical confidence for likelihood-based paternity inference in natural populations</article-title>. <source>Mol Ecol</source><year>1998</year>;<volume>7</volume>(<issue>5</issue>):<fpage>639</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">9633105</pub-id></mixed-citation></ref><ref id="ref26"><label>26.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Koboldt</surname><given-names>DC</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Larson</surname><given-names>DE</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>VarScan 2: somatic mutation and copy number alteration discovery in cancer by exome sequencing</article-title>. <source>Genome Res</source><year>2012</year>;<volume>22</volume>(<issue>3</issue>):<fpage>568</fpage>&#x02013;<lpage>76</lpage>.<pub-id pub-id-type="pmid">22300766</pub-id></mixed-citation></ref><ref id="ref27"><label>27.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Chakrabarty</surname><given-names>K</given-names></name></person-group>
+<article-title>Test scheduling for core-based systems using mixed-integer linear programming</article-title>. <source><italic toggle="yes">IEEE Trans Comput Des Integr Circuits Syst</italic></source><year>2000</year>;<volume>19</volume>(<issue>10</issue>):<fpage>1163</fpage>&#x02013;<lpage>74</lpage>.</mixed-citation></ref><ref id="ref28"><label>28.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Sun</surname><given-names>X</given-names></name></person-group>
+<source>Nonlinear Integer Programming</source>, <comment>Vol. 84</comment>
+<publisher-loc>New York</publisher-loc>:
+<publisher-name>Springer Science &#x00026; Business Media</publisher-name>, <year>2006</year>.</mixed-citation></ref><ref id="ref29"><label>29.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Shayesteh</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Lu</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Kuo</surname><given-names>W-L</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>PIK3CA is implicated as an oncogene in ovarian cancer</article-title>. <source>Nat Genet</source><year>1999</year>;<volume>21</volume>(<issue>1</issue>):<fpage>99</fpage>&#x02013;<lpage>102</lpage>.<pub-id pub-id-type="pmid">9916799</pub-id></mixed-citation></ref><ref id="ref30"><label>30.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bachman</surname><given-names>KE</given-names></name>, <name name-style="western"><surname>Argani</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Samuels</surname><given-names>Y</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>The PIK3CA gene is mutated with high frequency in human breast cancers</article-title>. <source>Cancer Biol Ther</source><year>2004</year>;<volume>3</volume>(<issue>8</issue>):<fpage>772</fpage>&#x02013;<lpage>5</lpage>.<pub-id pub-id-type="pmid">15254419</pub-id></mixed-citation></ref><ref id="ref31"><label>31.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Network</surname><given-names>CGA</given-names></name></person-group>
+<article-title>Comprehensive molecular portraits of human breast tumours</article-title>. <source>Nature</source><year>2012</year>;<volume>490</volume>(<issue>7418</issue>):<fpage>61</fpage>&#x02013;<lpage>70</lpage>.<pub-id pub-id-type="pmid">23000897</pub-id></mixed-citation></ref><ref id="ref32"><label>32.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Samuels</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Bardelli</surname><given-names>A</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>High frequency of mutations of the PIK3CA gene in human cancers</article-title>. <source>Science</source><year>2004</year>;<volume>304</volume>(<issue>5670</issue>):<fpage>554</fpage>&#x02013;<lpage>4</lpage>.<pub-id pub-id-type="pmid">15016963</pub-id></mixed-citation></ref><ref id="ref33"><label>33.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Samuels</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Velculescu</surname><given-names>VE</given-names></name></person-group>
+<article-title>Oncogenic mutations of PIK3CA in human cancers</article-title>. <source>Cell Cycle</source><year>2004</year>;<volume>3</volume>(<issue>10</issue>):<fpage>1221</fpage>&#x02013;<lpage>4</lpage>.<pub-id pub-id-type="pmid">15467468</pub-id></mixed-citation></ref><ref id="ref34"><label>34.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lowe</surname><given-names>SW</given-names></name>, <name name-style="western"><surname>Schmitt</surname><given-names>EM</given-names></name>, <name name-style="western"><surname>Smith</surname><given-names>SW</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>p53 is required for radiation-induced apoptosis in mouse thymocytes</article-title>. <source>Nature</source><year>1993</year>;<volume>362</volume>(<issue>6423</issue>):<fpage>847</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">8479522</pub-id></mixed-citation></ref><ref id="ref35"><label>35.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Nigro</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Baker</surname><given-names>SJ</given-names></name>, <name name-style="western"><surname>Preisinger</surname><given-names>AC</given-names></name>, <etal>et al.</etal></person-group>
+<article-title>Mutations in the p53 gene occur in diverse human tumour types</article-title>. <source>Nature</source><year>1989</year>;<volume>342</volume>(<issue>6250</issue>):<fpage>705</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">2531845</pub-id></mixed-citation></ref><ref id="ref36"><label>36.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Heppner</surname><given-names>GH</given-names></name>, <name name-style="western"><surname>Miller</surname><given-names>BE</given-names></name></person-group>
+<article-title>Tumor heterogeneity: biological implications and therapeutic consequences</article-title>. <source>Cancer and Metastasis Rev</source><year>1983</year>;<volume>2</volume>(<issue>1</issue>):<fpage>5</fpage>&#x02013;<lpage>23</lpage>.<pub-id pub-id-type="pmid">6616442</pub-id></mixed-citation></ref><ref id="ref37"><label>37.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Longo</surname><given-names>DL</given-names></name></person-group>
+<article-title>Tumor heterogeneity and personalized medicine</article-title>. <source>N Engl J Med</source><year>2012</year>;<volume>366</volume>(<issue>10</issue>):<fpage>956</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">22397658</pub-id></mixed-citation></ref></ref-list></back></article>

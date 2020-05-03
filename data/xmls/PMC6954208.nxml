@@ -1,0 +1,1200 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Sci Rep</journal-id><journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id><journal-title-group><journal-title>Scientific Reports</journal-title></journal-title-group><issn pub-type="epub">2045-2322</issn><publisher><publisher-name>Nature Publishing Group UK</publisher-name><publisher-loc>London</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31924835</article-id><article-id pub-id-type="pmc">6954208</article-id><article-id pub-id-type="publisher-id">57062</article-id><article-id pub-id-type="doi">10.1038/s41598-019-57062-x</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Natural convection of Nanoliquid from a Cylinder in Square Porous Enclosure using Buongiorno&#x02019;s Two-phase Model</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Alhashash</surname><given-names>Abeer</given-names></name><address><email>dr.abeeralhashash@gmail.com</email></address><xref ref-type="aff" rid="Aff1"/></contrib><aff id="Aff1"><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1756 6705</institution-id><institution-id institution-id-type="GRID">grid.440748.b</institution-id><institution>Department of Mathematics, College of Science, </institution><institution>Jouf University, </institution></institution-wrap>P.O. Box 2014 Sakaka, Saudi Arabia </aff></contrib-group><pub-date pub-type="epub"><day>10</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="pmc-release"><day>10</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="collection"><year>2020</year></pub-date><volume>10</volume><elocation-id>143</elocation-id><history><date date-type="received"><day>24</day><month>6</month><year>2019</year></date><date date-type="accepted"><day>17</day><month>12</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2020</copyright-statement><license license-type="OpenAccess"><license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article&#x02019;s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p></license></permissions><abstract id="Abs1"><p id="Par1">Natural convection of nanoliquid in a square porous enclosure has been studied using non homogeneous two-phase Buongiorno&#x02019;s model. The outer of enclosure has cold temperature and a circular cylinder is put at the center. A finite heated segment is located on the top cylinder surface which is otherwise insulated. The momentum in the porous layer is modeled applying the Brinkman-Forchheimer equations. The analysis are conducted in the following interval of the associated groups: the portion of heated surface (5%&#x02009;&#x02264;&#x02009;<italic>H</italic>&#x02009;&#x02264;&#x02009;100%), the concentration (0.0&#x02009;&#x02264;&#x02009;<italic>&#x003d5;</italic>&#x02009;&#x02264;&#x02009;0.04), the Darcy number, 10<sup>&#x02212;5</sup>&#x02009;&#x02264;&#x02009;<italic>D</italic><sub><italic>a</italic></sub>&#x02009;&#x02264;&#x02009;10<sup>&#x02212;2</sup> and the cylinder size, (0.15&#x02009;&#x02264;&#x02009;<italic>R</italic>&#x02009;&#x02264;&#x02009;0.25). The minimum heat transfer rate of the active surface were obtained at location <italic>&#x003be;</italic>&#x02009;=&#x02009;90&#x000b0;. In general, the ratio of the heat transfer per unit area of the heat source decreases as the length of the heated surface increases. The heat transfer rate is intensified for the half thermally active surface and high value of Darcy number at higher nanoparticles concentration.</p></abstract><kwd-group kwd-group-type="npg-subject"><title>Subject terms</title><kwd>Applied mathematics</kwd><kwd>Fluid dynamics</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; The Author(s) 2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1" sec-type="introduction"><title>Introduction</title><p id="Par2">Management convection heat transfer becomes an important aspect in thermal device such as handled devices, electronic equipments and heat exchangers. With maximum loads often in the order of second and ever-small packages design of the handheld devices that restrict their surface temperatures. Heat exchangers may be grouped by configuration, transfer process, flow organization, etc. In industrial processes, another technique for enhancing the thermal performance is using porous medium.</p><p id="Par3">One of the technique to improve heat transfer is to utilise porous medium with nanoliquid. A nanoliquid is called as a smart liquid with added metals of sizes less than 100&#x02009;nm in classical heat transfer liquid such as water, glycol and oil<sup><xref ref-type="bibr" rid="CR1">1</xref></sup>. studied a triangle porous enclosure filled with with nanoliquid where the heater attached to the wall. The conductive solid attached on the wall were considered by<sup><xref ref-type="bibr" rid="CR2">2</xref>&#x02013;<xref ref-type="bibr" rid="CR6">6</xref></sup>. They investigated the effect of the wall conditions and nanoliquid properties on the overall heat transfer. Heated partially porous enclosure was studied by<sup><xref ref-type="bibr" rid="CR7">7</xref>,<xref ref-type="bibr" rid="CR8">8</xref></sup> investigated the interaction between nanoparticles and magnetic field. Influence of internal chemical reaction in the porous layer was considered by<sup><xref ref-type="bibr" rid="CR9">9</xref></sup>. The Tiwari and Das model with new formulation for the physical properties of the nanoliquid was applied by<sup><xref ref-type="bibr" rid="CR10">10</xref>,<xref ref-type="bibr" rid="CR11">11</xref></sup>. Systematic review of free convection in porous media with nanoliquid was given by<sup><xref ref-type="bibr" rid="CR12">12</xref>,<xref ref-type="bibr" rid="CR13">13</xref></sup> studied transient convective flow in porous square enclosure having solid obstacle and nonuniform boundary condition<sup><xref ref-type="bibr" rid="CR14">14</xref></sup>. Considered three heat equation model<sup><xref ref-type="bibr" rid="CR15">15</xref></sup>. Investigated the influence of nonuniform side walls temperature on heat transfer characteristics of nanoliquid<sup><xref ref-type="bibr" rid="CR16">16</xref></sup>. Considered hybrid nanoliquid or suspend more than one type of nanoparticles into the base liquid. They observed that decreasing of the Nusselt number is much higher for hybrid nanoliquid compared to the single nanoliquid. Recently<sup><xref ref-type="bibr" rid="CR17">17</xref>,<xref ref-type="bibr" rid="CR18">18</xref></sup>, considered the annulus porous enclosure with Darcy model and the influences of Lorentz forces are taken into account.</p><p id="Par4">The above literatures review assume that liquid phase and the solid is in thermal equilibrium condition with the slip velocity between solid and the liquid is ignored. This approach is called as a single-phase model. The multi-phase model assumes the slip velocity between the liquid phase and the solid, so that the multi-phase nanoliquid model confirmed to be more realistic the Buongiorno&#x02019;s multi-phase nanoliquid model together with the Brownian motion and thermophoresis effects were studied by<sup><xref ref-type="bibr" rid="CR19">19</xref></sup>. They reported that the Nusselt number is increasing functions of the ration of heating intensity and thermophoresis parameters but decreasing functions of the the ratio of thermal diffusivity and Brownian motion parameters<sup><xref ref-type="bibr" rid="CR20">20</xref></sup>. Included the dissipation and surface radiation parameters to the Darcy flow and found that the influence of viscous dissipation on the concentration patterns is fairly large<sup><xref ref-type="bibr" rid="CR21">21</xref></sup>. Considered non-equilibrium heat equations and treat the porous media using the Brinkman model. They found that if the cylindrical heater is put at the below of the enclosure, the concentration distribution get homogeneous because of the agitation by powerful flow circulation<sup><xref ref-type="bibr" rid="CR22">22</xref></sup>. Treated the porous media using the Brinkman&#x02013;Forchheimer model and conclude that a proper selection of heater configuration and orientation angle combined with nanoliquid concentration and porosity parameters can extremely modify the heat transfer<sup><xref ref-type="bibr" rid="CR23">23</xref></sup>. Found increasing the heat transfer parameter at the interface boost the heat transfer in the solid matrix but reduces the heat transfer in the nanoliquid<sup><xref ref-type="bibr" rid="CR24">24</xref></sup>. Concluded that the hybrid nanofluids retard the flow circulation and the heat transfer performance later the increment of wall thickness, porosity, interface heat transfer coefficient can increase or decrease the flow circulation and the thermal performance<sup><xref ref-type="bibr" rid="CR25">25</xref></sup>. Reported that the variability of porosity and the convection intensity indicated considerably effects on the Nusselt number and the concentration distribution<sup><xref ref-type="bibr" rid="CR26">26</xref></sup>. Found that the presence of hybrid nanofluids increases the heat transfer performance over the plate. Recently<sup><xref ref-type="bibr" rid="CR27">27</xref></sup>, observed that the fusion temperature is the important aspect on the thermal performance enhancement.</p><p id="Par5">Free convection from a hot cylinder inserted in the porous enclosure were well studied in previous researches<sup><xref ref-type="bibr" rid="CR28">28</xref></sup> considered the bottom and vertical sides are insulated while the top wall is cold and found a small variation of the heat transfer by adjusting the cylinder size. The active cylinder embedded in the center of the deferentially heated enclosure studied by<sup><xref ref-type="bibr" rid="CR29">29</xref>,<xref ref-type="bibr" rid="CR30">30</xref></sup> filled the porous enclosure with a water-based nanoliquid suspending Ag, Cu, Al<sub>2</sub>O<sub>3</sub>, or TiO<sub>2</sub> solid nanoparticles. They searched the optimum cylinder radius and applied the Darcy flow with the Tiwari and Das nanoliquid models. The review of the reference indicates that nanoliquid considering the Buongiorno&#x02019;s two-phase nanoliquid model incorporating the Brownian motion and thermophoresis forces has not received enough attention. The present work aims to investigated the free convection by heating cylinder surface having a constant heat flux inserted in the porous enclosure using Brinkman&#x02013;Forchheimer model. The inner cylinder is heated partially with constant heat flux. Previously, the partial heating of the side or bottom walls were studied by<sup><xref ref-type="bibr" rid="CR31">31</xref>&#x02013;<xref ref-type="bibr" rid="CR34">34</xref></sup>. The heat source size was found to modify the liquid flow and the thermal performance. The application of partial heating occurs in the cooling electronic device where the boards and component represent the finite heat source.</p></sec><sec id="Sec2"><title>Mathematical Formulation</title><p id="Par6">Figure&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref> sketch a system coordinate of a square porous enclosure with a cylinder. The enclosure were considered at a constant low temperature. The cylinder has radius <italic>r</italic> and put in the middle point of the square. A finite heated segment <inline-formula id="IEq1"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\xi $$\end{document}</tex-math><mml:math id="M2"><mml:mi>&#x003be;</mml:mi></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq1.gif"/></alternatives></inline-formula> with constant heat flux is located on the top cylinder surface which is otherwise insulated. Under the effect of the gravitational acceleration, the cylinder and enclosure at different temperature gradient bring to a buoyancy problem. All of the surfaces are considered to be impermeable, the liquid in the enclosure is a water-based nanoliquid having Al<sub>2</sub>O<sub>3</sub>. The Boussinesq approximation is assumed valid for the density variation. Based on these considerations, the continuity, momentum, thermal energy, nanoparticles and nanoparticles mass flux equations can be stated as follows<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>:<disp-formula id="Equ1"><label>1</label><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\nabla \cdot {\bf{v}}=0,$$\end{document}</tex-math><mml:math id="M4" display="block"><mml:mo>&#x02207;</mml:mo><mml:mo>&#x022c5;</mml:mo><mml:mi mathvariant="bold">v</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ1.gif" position="anchor"/></alternatives></disp-formula><disp-formula id="Equ2"><label>2</label><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{array}{rcl}{\rho }_{nl}\frac{{\bf{v}}}{{\varepsilon }^{2}}\cdot \nabla {\bf{v}} &#x00026; = &#x00026; -\nabla p+\nabla \cdot \frac{({\mu }_{nl}\nabla {\bf{v}})}{\varepsilon }+{(\rho \beta )}_{nl}g\frac{\partial T}{\partial x}\\  &#x00026;  &#x00026; -\,\frac{150{\mu }_{nl}{(1-\varepsilon )}^{2}}{{d}^{2}{\varepsilon }^{3}}{\bf{v}}-\frac{262.5d{(1-\varepsilon )}^{2}}{{d}^{2}{\varepsilon }^{3}}|{\bf{v}}|{\bf{v}},\end{array}$$\end{document}</tex-math><mml:math id="M6" display="block"><mml:mtable columnalign="left"><mml:mtr columnalign="left"><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mfrac><mml:mi mathvariant="bold">v</mml:mi><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x003b5;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mo>&#x022c5;</mml:mo><mml:mo>&#x02207;</mml:mo><mml:mi mathvariant="bold">v</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="center"><mml:mo>=</mml:mo></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mo>&#x02207;</mml:mo><mml:mi>p</mml:mi><mml:mo>+</mml:mo><mml:mo>&#x02207;</mml:mo><mml:mo>&#x022c5;</mml:mo><mml:mfrac><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02207;</mml:mo><mml:mi mathvariant="bold">v</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>&#x003b5;</mml:mi></mml:mfrac><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003b2;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mi>g</mml:mi><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>x</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"/><mml:mtd columnalign="left"/><mml:mtd columnalign="left"><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mspace width=".25em"/><mml:mfrac><mml:mrow><mml:mn>150</mml:mn><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>&#x003b5;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:msup><mml:mrow><mml:mi>&#x003b5;</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mi mathvariant="bold">v</mml:mi><mml:mo>&#x02212;</mml:mo><mml:mfrac><mml:mrow><mml:mn>262.5</mml:mn><mml:mi>d</mml:mi><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>&#x003b5;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:msup><mml:mrow><mml:mi>&#x003b5;</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mo stretchy="false">|</mml:mo><mml:mi mathvariant="bold">v</mml:mi><mml:mo stretchy="false">|</mml:mo><mml:mi mathvariant="bold">v</mml:mi><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ2.gif" position="anchor"/></alternatives></disp-formula><disp-formula id="Equ3"><label>3</label><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\frac{{(\rho {C}_{p})}_{nl}}{\varepsilon }{\bf{v}}\cdot \nabla T=-\,\nabla \cdot ({k}_{nl}\nabla T)-{C}_{p,p}{J}_{p}\cdot \nabla T,$$\end{document}</tex-math><mml:math id="M8" display="block"><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mi>&#x003b5;</mml:mi></mml:mfrac><mml:mi mathvariant="bold">v</mml:mi><mml:mo>&#x022c5;</mml:mo><mml:mo>&#x02207;</mml:mo><mml:mi>T</mml:mi><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mspace width="-.25em"/><mml:mo>&#x02207;</mml:mo><mml:mo>&#x022c5;</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02207;</mml:mo><mml:mi>T</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi><mml:mo>,</mml:mo><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>J</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo>&#x022c5;</mml:mo><mml:mo>&#x02207;</mml:mo><mml:mi>T</mml:mi><mml:mo>,</mml:mo></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ3.gif" position="anchor"/></alternatives></disp-formula><disp-formula id="Equ4"><label>4</label><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\bf{v}}\cdot \nabla \varphi =-\,\frac{\varepsilon }{{\rho }_{p}}\nabla \cdot {J}_{p},$$\end{document}</tex-math><mml:math id="M10" display="block"><mml:mi mathvariant="bold">v</mml:mi><mml:mo>&#x022c5;</mml:mo><mml:mo>&#x02207;</mml:mo><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mspace width="-.25em"/><mml:mfrac><mml:mi>&#x003b5;</mml:mi><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>&#x02207;</mml:mo><mml:mo>&#x022c5;</mml:mo><mml:msub><mml:mrow><mml:mi>J</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo>,</mml:mo></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ4.gif" position="anchor"/></alternatives></disp-formula><disp-formula id="Equ5"><label>5</label><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${J}_{p}=-\,{\rho }_{p}{D}_{B}\nabla \varphi -{\rho }_{p}{D}_{T}\nabla T$$\end{document}</tex-math><mml:math id="M12" display="block"><mml:msub><mml:mrow><mml:mi>J</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mspace width="-.25em"/><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02207;</mml:mo><mml:mi>&#x003c6;</mml:mi><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>T</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02207;</mml:mo><mml:mi>T</mml:mi></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ5.gif" position="anchor"/></alternatives></disp-formula>symbol <italic>g</italic> is the gravity acceleration, <inline-formula id="IEq2"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi $$\end{document}</tex-math><mml:math id="M14"><mml:mi>&#x003c6;</mml:mi></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq2.gif"/></alternatives></inline-formula> is the concentration and <inline-formula id="IEq3"><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${J}_{p}$$\end{document}</tex-math><mml:math id="M16"><mml:msub><mml:mrow><mml:mi>J</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq3.gif"/></alternatives></inline-formula> is the nanoparticles mass flux. <inline-formula id="IEq4"><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${D}_{B}$$\end{document}</tex-math><mml:math id="M18"><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq4.gif"/></alternatives></inline-formula> is the Brownian diffusion coefficient, <inline-formula id="IEq5"><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${D}_{B}=\frac{{k}_{b}T}{3\pi {\mu }_{l}{d}_{p}}$$\end{document}</tex-math><mml:math id="M20"><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>b</mml:mi></mml:mrow></mml:msub><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn><mml:mi>&#x003c0;</mml:mi><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq5.gif"/></alternatives></inline-formula>. <inline-formula id="IEq6"><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${D}_{T}$$\end{document}</tex-math><mml:math id="M22"><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>T</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq6.gif"/></alternatives></inline-formula> is the thermophoretic diffusion coefficient, <inline-formula id="IEq7"><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${D}_{T}=0.26\frac{{k}_{l}}{2{k}_{l}+{k}_{p}}\frac{{\mu }_{l}}{{\rho }_{l}T}\varphi $$\end{document}</tex-math><mml:math id="M24"><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>T</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>0.26</mml:mn><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mi>T</mml:mi></mml:mrow></mml:mfrac><mml:mi>&#x003c6;</mml:mi></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq7.gif"/></alternatives></inline-formula>. The specific heat capacitance of the nanoliquid <inline-formula id="IEq8"><alternatives><tex-math id="M25">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${(\rho {C}_{p})}_{nl}$$\end{document}</tex-math><mml:math id="M26"><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq8.gif"/></alternatives></inline-formula> is stated as<disp-formula id="Equ6"><label>6</label><alternatives><tex-math id="M27">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${(\rho {C}_{p})}_{nl}=(1-\varphi ){(\rho {C}_{p})}_{l}+\varphi {(\rho {C}_{p})}_{p}.$$\end{document}</tex-math><mml:math id="M28" display="block"><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>&#x003c6;</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mi>&#x003c6;</mml:mi><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo>.</mml:mo></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ6.gif" position="anchor"/></alternatives></disp-formula><fig id="Fig1"><label>Figure 1</label><caption><p>Schematic representation of the model.</p></caption><graphic xlink:href="41598_2019_57062_Fig1_HTML" id="d29e1097"/></fig></p><p id="Par7">The diffusivity of the nanoliquid <italic>&#x003b1;</italic><sub><italic>nl</italic></sub> is defined as<disp-formula id="Equ7"><label>7</label><alternatives><tex-math id="M29">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\alpha }_{nl}=\frac{{k}_{nl}}{{(\rho {C}_{p})}_{nl}}$$\end{document}</tex-math><mml:math id="M30" display="block"><mml:msub><mml:mrow><mml:mi>&#x003b1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ7.gif" position="anchor"/></alternatives></disp-formula></p><p id="Par8">The density of the nanoliquid <inline-formula id="IEq9"><alternatives><tex-math id="M31">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\rho }_{nl}$$\end{document}</tex-math><mml:math id="M32"><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq9.gif"/></alternatives></inline-formula> can be determined<disp-formula id="Equ8"><label>8</label><alternatives><tex-math id="M33">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\rho }_{nl}=(1-\varphi ){\rho }_{l}+\varphi {\rho }_{p}$$\end{document}</tex-math><mml:math id="M34" display="block"><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>&#x003c6;</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mi>&#x003c6;</mml:mi><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ8.gif" position="anchor"/></alternatives></disp-formula></p><p id="Par9">The thermal expansion coefficient of the nanoliquid <italic>&#x003b2;</italic><sub><italic>nl</italic></sub> is formulated as:<disp-formula id="Equ9"><label>9</label><alternatives><tex-math id="M35">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${(\rho \beta )}_{nl}=(1-\varphi ){(\rho \beta )}_{l}+\varphi {(\rho \beta )}_{p}$$\end{document}</tex-math><mml:math id="M36" display="block"><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003b2;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>&#x003c6;</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003b2;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mi>&#x003c6;</mml:mi><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003b2;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ9.gif" position="anchor"/></alternatives></disp-formula></p><p id="Par10">The dynamic viscosity ratio of nanoliquid in the the room temperature was given by<sup><xref ref-type="bibr" rid="CR36">36</xref></sup> as follows.<disp-formula id="Equ10"><label>10</label><alternatives><tex-math id="M37">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\frac{{\mu }_{nl}}{{\mu }_{l}}=\frac{1}{[1-34.87{({d}_{p}/{d}_{l})}^{-0.3}{\varphi }^{1.03}]}$$\end{document}</tex-math><mml:math id="M38" display="block"><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:mo stretchy="true">[</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mn>34.87</mml:mn><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo>/</mml:mo><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>0.3</mml:mn></mml:mrow></mml:msup><mml:msup><mml:mrow><mml:mi>&#x003c6;</mml:mi></mml:mrow><mml:mrow><mml:mn>1.03</mml:mn></mml:mrow></mml:msup></mml:mrow><mml:mo stretchy="true">]</mml:mo></mml:mrow></mml:mfrac></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ10.gif" position="anchor"/></alternatives></disp-formula></p><p id="Par11">The conductivity ratio of nanoliquid is given by<sup><xref ref-type="bibr" rid="CR36">36</xref></sup> as follows:<disp-formula id="Equ11"><label>11</label><alternatives><tex-math id="M39">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\frac{{k}_{nl}}{{k}_{l}}=1+4.4{{\rm{Re}}}_{B}^{0.4}{{\rm{\Pr }}}^{0.66}{(\frac{T}{{T}_{fr}})}^{10}{(\frac{{k}_{p}}{{k}_{l}})}^{0.03}{\varphi }^{0.66}.$$\end{document}</tex-math><mml:math id="M40" display="block"><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mn>4.4</mml:mn><mml:msubsup><mml:mrow><mml:mi mathvariant="normal">Re</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mn>0.4</mml:mn></mml:mrow></mml:msubsup><mml:msup><mml:mrow><mml:mi mathvariant="normal">Pr</mml:mi></mml:mrow><mml:mrow><mml:mn>0.66</mml:mn></mml:mrow></mml:msup><mml:msup><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mi>T</mml:mi><mml:mrow><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>f</mml:mi><mml:mi>r</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mrow><mml:mn>10</mml:mn></mml:mrow></mml:msup><mml:msup><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mrow><mml:mn>0.03</mml:mn></mml:mrow></mml:msup><mml:msup><mml:mrow><mml:mi>&#x003c6;</mml:mi></mml:mrow><mml:mrow><mml:mn>0.66</mml:mn></mml:mrow></mml:msup><mml:mo>.</mml:mo></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ11.gif" position="anchor"/></alternatives></disp-formula>with<disp-formula id="Equ12"><label>12</label><alternatives><tex-math id="M41">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${{\rm{Re}}}_{B}=\frac{{\rho }_{l}{u}_{B}{d}_{p}}{{\mu }_{l}}.$$\end{document}</tex-math><mml:math id="M42" display="block"><mml:msub><mml:mrow><mml:mi mathvariant="normal">Re</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ12.gif" position="anchor"/></alternatives></disp-formula><disp-formula id="Equ13"><label>13</label><alternatives><tex-math id="M43">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${u}_{B}=\frac{2{k}_{b}T}{\pi {\mu }_{l}{d}_{p}^{2}}.$$\end{document}</tex-math><mml:math id="M44" display="block"><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>2</mml:mn><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>b</mml:mi></mml:mrow></mml:msub><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c0;</mml:mi><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:msubsup><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ13.gif" position="anchor"/></alternatives></disp-formula>With <inline-formula id="IEq10"><alternatives><tex-math id="M45">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${k}_{b}$$\end{document}</tex-math><mml:math id="M46"><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>b</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq10.gif"/></alternatives></inline-formula> is the average relative kinetic energy of nanoparticles in the liquid with the temperature of the liquid. It is called as The Boltzmann constant, defined to be exactly <inline-formula id="IEq11"><alternatives><tex-math id="M47">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${k}_{b}=1.380648\times {10}^{-23}\,(J/K)$$\end{document}</tex-math><mml:math id="M48"><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>b</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>1.380648</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>23</mml:mn></mml:mrow></mml:msup><mml:mspace width=".25em"/><mml:mo stretchy="false">(</mml:mo><mml:mi>J</mml:mi><mml:mo>/</mml:mo><mml:mi>K</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq11.gif"/></alternatives></inline-formula>. <inline-formula id="IEq12"><alternatives><tex-math id="M49">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${l}_{l}=0.17\,{\rm{nm}}$$\end{document}</tex-math><mml:math id="M50"><mml:msub><mml:mrow><mml:mi>l</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>0.17</mml:mn><mml:mspace width=".25em"/><mml:mi mathvariant="normal">nm</mml:mi></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq12.gif"/></alternatives></inline-formula> is the average path of liquid. <inline-formula id="IEq13"><alternatives><tex-math id="M51">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${d}_{l}$$\end{document}</tex-math><mml:math id="M52"><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq13.gif"/></alternatives></inline-formula> is the molecular diameter of base fluid defined as<sup><xref ref-type="bibr" rid="CR36">36</xref></sup><disp-formula id="Equ14"><label>14</label><alternatives><tex-math id="M53">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${d}_{l}=\frac{6M}{N\pi {\rho }_{l}}.$$\end{document}</tex-math><mml:math id="M54" display="block"><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>6</mml:mn><mml:mi>M</mml:mi></mml:mrow><mml:mrow><mml:mi>N</mml:mi><mml:mi>&#x003c0;</mml:mi><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ14.gif" position="anchor"/></alternatives></disp-formula>With <inline-formula id="IEq14"><alternatives><tex-math id="M55">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$M$$\end{document}</tex-math><mml:math id="M56"><mml:mi>M</mml:mi></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq14.gif"/></alternatives></inline-formula> is the molecular mass of the water, <inline-formula id="IEq15"><alternatives><tex-math id="M57">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$N$$\end{document}</tex-math><mml:math id="M58"><mml:mi>N</mml:mi></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq15.gif"/></alternatives></inline-formula> is the number of constituent nanoparticles that are contained in one mole&#x000a0;and <inline-formula id="IEq16"><alternatives><tex-math id="M59">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\rho }_{l}$$\end{document}</tex-math><mml:math id="M60"><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq16.gif"/></alternatives></inline-formula> is the density of the water. Consequently and basing on water as a host liquid, the value of <inline-formula id="IEq17"><alternatives><tex-math id="M61">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${d}_{l}$$\end{document}</tex-math><mml:math id="M62"><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq17.gif"/></alternatives></inline-formula> is evaluated as:<disp-formula id="Equ15"><label>15</label><alternatives><tex-math id="M63">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${d}_{l}={(\frac{6\times 0.01801528}{6.022\times {10}^{23}\times \pi \times 998.26})}^{1/3}=3.85\times {10}^{-10}\,{\rm{m}}.$$\end{document}</tex-math><mml:math id="M64" display="block"><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mn>6</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:mn>0.01801528</mml:mn></mml:mrow><mml:mrow><mml:mn>6.022</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mn>23</mml:mn></mml:mrow></mml:msup><mml:mo>&#x000d7;</mml:mo><mml:mi>&#x003c0;</mml:mi><mml:mo>&#x000d7;</mml:mo><mml:mn>998.26</mml:mn></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mo>=</mml:mo><mml:mn>3.85</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>10</mml:mn></mml:mrow></mml:msup><mml:mspace width=".25em"/><mml:mi mathvariant="normal">m</mml:mi><mml:mo>.</mml:mo></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ15.gif" position="anchor"/></alternatives></disp-formula></p><p id="Par12">Introducing the non-dimensional variables as follow:<disp-formula id="Equ16"><label>16</label><alternatives><tex-math id="M65">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{array}{l}X=\frac{x}{L},Y=\frac{y}{L},V=\frac{vL}{{\nu }_{l}},P=\frac{p{L}^{2}}{{\rho }_{nl}{\nu }_{l}^{2}},{\varphi }^{\ast }=\frac{\varphi }{\phi },{D}_{B}^{\ast }=\frac{{D}_{B}}{{D}_{B0}},{D}_{T}^{\ast }=\frac{{D}_{T}}{{D}_{T0}},\\ \Theta =\frac{T-{T}_{c}}{\Delta T},R=\frac{r}{L},\Delta T=\frac{q\mbox{''}L}{{k}_{l}}\end{array}$$\end{document}</tex-math><mml:math id="M66" display="block"><mml:mtable columnalign="left"><mml:mtr columnalign="left"><mml:mtd columnalign="left"><mml:mrow><mml:mi>X</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mi>x</mml:mi><mml:mi>L</mml:mi></mml:mfrac><mml:mo>,</mml:mo><mml:mi>Y</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mi>y</mml:mi><mml:mi>L</mml:mi></mml:mfrac><mml:mo>,</mml:mo><mml:mi>V</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>v</mml:mi><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bd;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo><mml:mi>P</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>p</mml:mi><mml:msup><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:msubsup><mml:mrow><mml:mi>&#x003bd;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac><mml:mo>,</mml:mo><mml:msup><mml:mrow><mml:mi>&#x003c6;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup><mml:mo>=</mml:mo><mml:mfrac><mml:mi>&#x003c6;</mml:mi><mml:mi>&#x003d5;</mml:mi></mml:mfrac><mml:mo>,</mml:mo><mml:msubsup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:mrow></mml:msubsup><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo><mml:msubsup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:mrow></mml:msubsup><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>T</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>T</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"><mml:mrow><mml:mi mathvariant="normal">&#x00398;</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>T</mml:mi><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:mfrac><mml:mo>,</mml:mo><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mi>r</mml:mi><mml:mi>L</mml:mi></mml:mfrac><mml:mo>,</mml:mo><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>T</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>q</mml:mi><mml:mo>&#x0201d;</mml:mo><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ16.gif" position="anchor"/></alternatives></disp-formula></p><p id="Par13">This then produces the dimensionless continuity, momentum, heat transfer and nanoparticle equations are:<disp-formula id="Equ17"><label>17</label><alternatives><tex-math id="M67">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\frac{\partial U}{\partial X}+\frac{\partial V}{\partial Y}=0$$\end{document}</tex-math><mml:math id="M68" display="block"><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>U</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>X</mml:mi></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>V</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>Y</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ17.gif" position="anchor"/></alternatives></disp-formula><disp-formula id="Equ18"><label>18</label><alternatives><tex-math id="M69">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{array}{rcl}(\frac{{\rho }_{nl}}{{\rho }_{l}})\frac{U}{{\varepsilon }^{2}}\frac{\partial U}{\partial X}+(\frac{{\rho }_{nl}}{{\rho }_{l}})\frac{V}{{\varepsilon }^{2}}\frac{\partial U}{\partial Y} &#x00026; = &#x00026; -(\frac{{\rho }_{nl}}{{\rho }_{l}})\frac{\partial P}{\partial X}\\  &#x00026;  &#x00026; +\,(\frac{{\mu }_{nl}}{{\mu }_{l}\varepsilon })(\frac{{\partial }^{2}U}{\partial {X}^{2}}+\frac{{\partial }^{2}U}{\partial {Y}^{2}})\\  &#x00026;  &#x00026; +\,(\frac{{\rho }_{nl}}{{\rho }_{l}}\frac{{\mu }_{nl}}{{\mu }_{l}})\frac{U}{Da}\\  &#x00026;  &#x00026; -\,(\frac{{\rho }_{nl}}{{\rho }_{l}}\frac{{\mu }_{nl}}{{\mu }_{l}})\frac{{C}_{F}}{{\Pr }}\frac{\sqrt{{U}^{2}+{V}^{2}}}{\sqrt{Da}}U\end{array}$$\end{document}</tex-math><mml:math id="M70" display="block"><mml:mtable columnalign="left"><mml:mtr columnalign="left"><mml:mtd columnalign="right"><mml:mrow><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mfrac><mml:mi>U</mml:mi><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x003b5;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>U</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>X</mml:mi></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mfrac><mml:mi>V</mml:mi><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x003b5;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>U</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>Y</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mtd><mml:mtd columnalign="center"><mml:mo>=</mml:mo></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>X</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"/><mml:mtd columnalign="left"/><mml:mtd columnalign="left"><mml:mrow><mml:mo>+</mml:mo><mml:mspace width=".25em"/><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mi>&#x003b5;</mml:mi></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x02202;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mi>U</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msup><mml:mrow><mml:mi>X</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x02202;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mi>U</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msup><mml:mrow><mml:mi>Y</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"/><mml:mtd columnalign="left"/><mml:mtd columnalign="left"><mml:mrow><mml:mo>+</mml:mo><mml:mspace width=".25em"/><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mfrac><mml:mi>U</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mi>a</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"/><mml:mtd columnalign="left"/><mml:mtd columnalign="left"><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mspace width=".25em"/><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>F</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi mathvariant="italic">Pr</mml:mi></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msqrt><mml:mrow><mml:msup><mml:mrow><mml:mi>U</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:msup><mml:mrow><mml:mi>V</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:msqrt></mml:mrow><mml:mrow><mml:msqrt><mml:mrow><mml:mi>D</mml:mi><mml:mi>a</mml:mi></mml:mrow></mml:msqrt></mml:mrow></mml:mfrac><mml:mi>U</mml:mi></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ18.gif" position="anchor"/></alternatives></disp-formula><disp-formula id="Equ19"><label>19</label><alternatives><tex-math id="M71">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{array}{rcl}(\frac{{\rho }_{nl}}{{\rho }_{l}})\frac{U}{{\varepsilon }^{2}}\frac{\partial V}{\partial X}+(\frac{{\rho }_{nl}}{{\rho }_{l}})\frac{V}{{\varepsilon }^{2}}\frac{\partial V}{\partial Y} &#x00026; = &#x00026; -(\frac{{\rho }_{nl}}{{\rho }_{l}})\frac{\partial P}{\partial Y}\\  &#x00026;  &#x00026; +\,(\frac{{\mu }_{nl}}{\varepsilon {\mu }_{l}})(\frac{{\partial }^{2}V}{\partial {X}^{2}}+\frac{{\partial }^{2}V}{\partial {Y}^{2}})\\  &#x00026;  &#x00026; +\,[(\frac{{(\rho \beta )}_{nl}}{{(\rho \beta )}_{l}})\frac{1}{{\Pr }}Ra\Theta ]\\  &#x00026;  &#x00026; +\,(\frac{{\rho }_{nl}}{{\rho }_{l}}\frac{{\mu }_{nl}}{{\mu }_{l}})\frac{V}{Da}\\  &#x00026;  &#x00026; -\,(\frac{{\rho }_{nl}}{{\rho }_{l}}\frac{{\mu }_{nl}}{{\mu }_{l}})\frac{{C}_{F}}{{\Pr }}\frac{\sqrt{{U}^{2}+{V}^{2}}}{\sqrt{Da}}V\end{array}$$\end{document}</tex-math><mml:math id="M72" display="block"><mml:mtable columnalign="left"><mml:mtr columnalign="left"><mml:mtd columnalign="right"><mml:mrow><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mfrac><mml:mi>U</mml:mi><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x003b5;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>V</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>X</mml:mi></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mfrac><mml:mi>V</mml:mi><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x003b5;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>V</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>Y</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mtd><mml:mtd columnalign="center"><mml:mo>=</mml:mo></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>Y</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"/><mml:mtd columnalign="left"/><mml:mtd columnalign="left"><mml:mrow><mml:mo>+</mml:mo><mml:mspace width=".25em"/><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>&#x003b5;</mml:mi><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x02202;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mi>V</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msup><mml:mrow><mml:mi>X</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x02202;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mi>V</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msup><mml:mrow><mml:mi>Y</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"/><mml:mtd columnalign="left"/><mml:mtd columnalign="left"><mml:mrow><mml:mo>+</mml:mo><mml:mspace width=".25em"/><mml:mrow><mml:mo stretchy="true">[</mml:mo><mml:mrow><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003b2;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003b2;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:mi mathvariant="italic">Pr</mml:mi></mml:mrow></mml:mfrac><mml:mi>R</mml:mi><mml:mi>a</mml:mi><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mo stretchy="true">]</mml:mo></mml:mrow></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"/><mml:mtd columnalign="left"/><mml:mtd columnalign="left"><mml:mrow><mml:mo>+</mml:mo><mml:mspace width=".25em"/><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mfrac><mml:mi>V</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mi>a</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"/><mml:mtd columnalign="left"/><mml:mtd columnalign="left"><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mspace width=".25em"/><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>F</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi mathvariant="italic">Pr</mml:mi></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msqrt><mml:mrow><mml:msup><mml:mrow><mml:mi>U</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:msup><mml:mrow><mml:mi>V</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:msqrt></mml:mrow><mml:mrow><mml:msqrt><mml:mrow><mml:mi>D</mml:mi><mml:mi>a</mml:mi></mml:mrow></mml:msqrt></mml:mrow></mml:mfrac><mml:mi>V</mml:mi></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ19.gif" position="anchor"/></alternatives></disp-formula><disp-formula id="Equ20"><label>20</label><alternatives><tex-math id="M73">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{array}{rcl}\frac{U}{\varepsilon }\frac{\partial \Theta }{\partial X}+\frac{V}{\varepsilon }\frac{\partial \Theta }{\partial Y} &#x00026; = &#x00026; \frac{{(\rho {C}_{p})}_{l}}{{(\rho {C}_{p})}_{nl}}\frac{{k}_{nl}}{{k}_{l}}\frac{1}{{\rm{\Pr }}}(\frac{{\partial }^{2}\Theta }{\partial {X}^{2}}+\frac{{\partial }^{2}\Theta }{\partial {Y}^{2}})\\  &#x00026;  &#x00026; +\,\frac{{(\rho {C}_{p})}_{l}}{{(\rho {C}_{p})}_{nl}}\frac{{D}_{B}^{\ast }}{{\rm{\Pr }}\,Le}(\frac{\partial \Phi }{\partial X}\frac{\partial \Theta }{\partial X}+\frac{\partial \Phi }{\partial Y}\frac{\partial \Theta }{\partial Y})\\  &#x00026;  &#x00026; +\,\frac{{(\rho {C}_{p})}_{l}}{{(\rho {C}_{p})}_{nl}}\frac{{D}_{T}^{\ast }}{{\rm{\Pr }}\,Le{N}_{BT}}[{(\frac{\partial \Theta }{\partial X})}^{2}+{(\frac{\partial \Theta }{\partial Y})}^{2}],\end{array}$$\end{document}</tex-math><mml:math id="M74" display="block"><mml:mtable columnalign="left"><mml:mtr columnalign="left"><mml:mtd columnalign="right"><mml:mrow><mml:mfrac><mml:mi>U</mml:mi><mml:mi>&#x003b5;</mml:mi></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>X</mml:mi></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mi>V</mml:mi><mml:mi>&#x003b5;</mml:mi></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>Y</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mtd><mml:mtd columnalign="center"><mml:mo>=</mml:mo></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:mi mathvariant="normal">Pr</mml:mi></mml:mrow></mml:mfrac><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x02202;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msup><mml:mrow><mml:mi>X</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x02202;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msup><mml:mrow><mml:mi>Y</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"/><mml:mtd columnalign="left"/><mml:mtd columnalign="left"><mml:mrow><mml:mo>+</mml:mo><mml:mspace width=".25em"/><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msubsup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:mi mathvariant="normal">Pr</mml:mi><mml:mspace width=".1em"/><mml:mi>L</mml:mi><mml:mi>e</mml:mi></mml:mrow></mml:mfrac><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x003a6;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>X</mml:mi></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>X</mml:mi></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x003a6;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>Y</mml:mi></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>Y</mml:mi></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"/><mml:mtd columnalign="left"/><mml:mtd columnalign="left"><mml:mrow><mml:mo>+</mml:mo><mml:mspace width=".25em"/><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msubsup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:mi mathvariant="normal">Pr</mml:mi><mml:mspace width=".1em"/><mml:mi>L</mml:mi><mml:mi>e</mml:mi><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mrow><mml:mo stretchy="true">[</mml:mo><mml:mrow><mml:msup><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>X</mml:mi></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:msup><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>Y</mml:mi></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow><mml:mo stretchy="true">]</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ20.gif" position="anchor"/></alternatives></disp-formula><disp-formula id="Equ21"><label>21</label><alternatives><tex-math id="M75">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\frac{U}{\varepsilon }\frac{\partial \Phi }{\partial X}+\frac{V}{\varepsilon }\frac{\partial \Phi }{\partial Y}=\frac{{D}_{B}^{\ast }}{Sc}(\frac{{\partial }^{2}\Phi }{\partial {X}^{2}}+\frac{{\partial }^{2}\Phi }{\partial {Y}^{2}})+\frac{{D}_{T}^{\ast }}{Sc{N}_{BT}}(\frac{{\partial }^{2}\Theta }{\partial {X}^{2}}+\frac{{\partial }^{2}\Theta }{\partial {Y}^{2}})$$\end{document}</tex-math><mml:math id="M76" display="block"><mml:mfrac><mml:mi>U</mml:mi><mml:mi>&#x003b5;</mml:mi></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x003a6;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>X</mml:mi></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mi>V</mml:mi><mml:mi>&#x003b5;</mml:mi></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x003a6;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>Y</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:mi>S</mml:mi><mml:mi>c</mml:mi></mml:mrow></mml:mfrac><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x02202;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mi mathvariant="normal">&#x003a6;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msup><mml:mrow><mml:mi>X</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x02202;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mi mathvariant="normal">&#x003a6;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msup><mml:mrow><mml:mi>Y</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:mi>S</mml:mi><mml:mi>c</mml:mi><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x02202;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msup><mml:mrow><mml:mi>X</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x02202;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msup><mml:mrow><mml:mi>Y</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ21.gif" position="anchor"/></alternatives></disp-formula>Symbols <inline-formula id="IEq18"><alternatives><tex-math id="M77">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${D}_{B0}=\frac{{k}_{b}{T}_{c}}{3\pi {\mu }_{l}{d}_{p}}$$\end{document}</tex-math><mml:math id="M78"><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>b</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mn>3</mml:mn><mml:mi>&#x003c0;</mml:mi><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq18.gif"/></alternatives></inline-formula> is the reference Brownian diffusion coefficient, <inline-formula id="IEq19"><alternatives><tex-math id="M79">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${D}_{T0}=0.26\frac{{k}_{l}}{2{k}_{l}+{k}_{p}}\frac{{\mu }_{l}}{{\rho }_{l}\theta }\phi $$\end{document}</tex-math><mml:math id="M80"><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>T</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>0.26</mml:mn><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac><mml:mi>&#x003d5;</mml:mi></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq19.gif"/></alternatives></inline-formula> is the reference thermophoretic diffusion factor, <italic>Sc</italic> is the ratio of kinematic viscosity and mass diffusivity (Schmidt number), <inline-formula id="IEq20"><alternatives><tex-math id="M81">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${N}_{BT}=\phi {D}_{B0}{T}_{c}/({D}_{T0}\Delta T)$$\end{document}</tex-math><mml:math id="M82"><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi>&#x003d5;</mml:mi><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub><mml:mo>/</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>T</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:msub><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>T</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq20.gif"/></alternatives></inline-formula> is the diffusivity ratio parameter, <inline-formula id="IEq21"><alternatives><tex-math id="M83">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Le={k}_{l}/{(\rho {C}_{p})}_{l}\phi {D}_{B0}$$\end{document}</tex-math><mml:math id="M84"><mml:mi>L</mml:mi><mml:mi>e</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>/</mml:mo><mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mi>&#x003d5;</mml:mi><mml:msub><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq21.gif"/></alternatives></inline-formula> is Lewis number, <inline-formula id="IEq22"><alternatives><tex-math id="M85">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Ra=g{\rho }_{l}{\beta }_{l}\Delta T{L}^{3}/({\mu }_{l}{\alpha }_{l})$$\end{document}</tex-math><mml:math id="M86"><mml:mi>R</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mi>g</mml:mi><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>&#x003b2;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>T</mml:mi><mml:msup><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msup><mml:mo>/</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>&#x003b1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq22.gif"/></alternatives></inline-formula> is the Rayleigh number, <inline-formula id="IEq23"><alternatives><tex-math id="M87">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da=\frac{K}{{L}^{2}}$$\end{document}</tex-math><mml:math id="M88"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mi>K</mml:mi><mml:mrow><mml:msup><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq23.gif"/></alternatives></inline-formula> is the Darcy number and <inline-formula id="IEq24"><alternatives><tex-math id="M89">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\rm{\Pr }}={\nu }_{l}/{\alpha }_{l}$$\end{document}</tex-math><mml:math id="M90"><mml:mi mathvariant="normal">Pr</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003bd;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>/</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003b1;</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq24.gif"/></alternatives></inline-formula> is the Prandtl number, <inline-formula id="IEq25"><alternatives><tex-math id="M91">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${C}_{F}=1.75/\sqrt{150}$$\end{document}</tex-math><mml:math id="M92"><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>F</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>1.75</mml:mn><mml:mo>/</mml:mo><mml:msqrt><mml:mrow><mml:mn>150</mml:mn></mml:mrow></mml:msqrt></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq25.gif"/></alternatives></inline-formula> is the Forchheimer constant, <inline-formula id="IEq26"><alternatives><tex-math id="M93">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$K={\varepsilon }^{2}{D}_{p}^{2}/(150{[1-\varepsilon ]}^{2})$$\end{document}</tex-math><mml:math id="M94"><mml:mi>K</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mi>&#x003b5;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:msubsup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msubsup><mml:mo>/</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>150</mml:mn><mml:msup><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>&#x003b5;</mml:mi><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq26.gif"/></alternatives></inline-formula> is the permeability of the porous medium, <italic>D</italic><sub><italic>p</italic></sub> is spherical beads diameter<sup><xref ref-type="bibr" rid="CR37">37</xref></sup> and <inline-formula id="IEq27"><alternatives><tex-math id="M95">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${k}_{{\rm{eff}}}=\varepsilon +(1-\varepsilon ){k}_{s}/{k}_{l}$$\end{document}</tex-math><mml:math id="M96"><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">eff</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi>&#x003b5;</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>&#x003b5;</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mo>/</mml:mo><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq27.gif"/></alternatives></inline-formula> is the effective porous medium conductivity<sup><xref ref-type="bibr" rid="CR38">38</xref></sup>. The non-dimensional boundary conditions are:<disp-formula id="Equ22"><label>22</label><alternatives><tex-math id="M97">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$U=V=0,\,\frac{\partial {\varphi }^{\ast }}{\partial n}=\frac{\partial \Theta }{\partial n}=0\,{\rm{on}}\,{\rm{the}}\,{\rm{insulated}}\,{\rm{cylinder}}\,{\rm{surface}},$$\end{document}</tex-math><mml:math id="M98" display="block"><mml:mi>U</mml:mi><mml:mo>=</mml:mo><mml:mi>V</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mspace width=".25em"/><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msup><mml:mrow><mml:mi>&#x003c6;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mspace width=".25em"/><mml:mi mathvariant="normal">on</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">the</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">insulated</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">cylinder</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">surface</mml:mi><mml:mo>,</mml:mo></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ22.gif" position="anchor"/></alternatives></disp-formula><disp-formula id="Equ23"><label>23</label><alternatives><tex-math id="M99">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$U=V=0,\,\frac{\partial {\varphi }^{\ast }}{\partial n}=-\,\frac{{D}_{T}^{\ast }}{{D}_{B}^{\ast }}\cdot \frac{1}{{N}_{BT}}\cdot \frac{\partial \Theta }{\partial n},\frac{\partial \Theta }{\partial n}=-\,1\,{\rm{on}}\,{\rm{the}}\,{\rm{heated}}\,{\rm{cylinder}}\,{\rm{surface}},$$\end{document}</tex-math><mml:math id="M100" display="block"><mml:mi>U</mml:mi><mml:mo>=</mml:mo><mml:mi>V</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mspace width=".25em"/><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msup><mml:mrow><mml:mi>&#x003c6;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mspace width="-.25em"/><mml:mfrac><mml:mrow><mml:msubsup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac><mml:mo>&#x022c5;</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>&#x022c5;</mml:mo><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:mfrac><mml:mo>,</mml:mo><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mspace width="-.25em"/><mml:mn>1</mml:mn><mml:mspace width=".25em"/><mml:mi mathvariant="normal">on</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">the</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">heated</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">cylinder</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">surface</mml:mi><mml:mo>,</mml:mo></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ23.gif" position="anchor"/></alternatives></disp-formula><disp-formula id="Equ24"><label>24</label><alternatives><tex-math id="M101">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$U=V=0,\,\frac{\partial {\varphi }^{\ast }}{\partial n}=-\,\frac{{D}_{T}^{\ast }}{{D}_{B}^{\ast }}\cdot \frac{1}{{N}_{BT}}\cdot \frac{\partial \Theta }{\partial n},\,\Theta =0\,{\rm{on}}\,{\rm{the}}\,{\rm{bottom}},{\rm{right}},{\rm{top}}\,{\rm{and}}\,{\rm{left}}\,{\rm{walls}},$$\end{document}</tex-math><mml:math id="M102" display="block"><mml:mi>U</mml:mi><mml:mo>=</mml:mo><mml:mi>V</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mspace width=".25em"/><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msup><mml:mrow><mml:mi>&#x003c6;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mspace width="-.25em"/><mml:mfrac><mml:mrow><mml:msubsup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>D</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac><mml:mo>&#x022c5;</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>&#x022c5;</mml:mo><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:mfrac><mml:mo>,</mml:mo><mml:mspace width=".25em"/><mml:mi mathvariant="normal">&#x00398;</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mspace width=".25em"/><mml:mi mathvariant="normal">on</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">the</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">bottom</mml:mi><mml:mo>,</mml:mo><mml:mi mathvariant="normal">right</mml:mi><mml:mo>,</mml:mo><mml:mi mathvariant="normal">top</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">and</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">left</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">walls</mml:mi><mml:mo>,</mml:mo></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ24.gif" position="anchor"/></alternatives></disp-formula>A reference pressure is required to determine a unique pressure field. Any other point in the domain with a preference value could be took as a reference pressure. Here, the bottom right point of the boundary is null and selected as a pressure reference. This adopted value does not influence the solution at all. The reference pressure level is equivalent to 1 ATM in absolute pressure for the default reference pressure.</p><p id="Par14">The local heat transfer for the surface with constant heat flux is<disp-formula id="Equ25"><label>25</label><alternatives><tex-math id="M103">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$N{u}_{nl}=\frac{q\mbox{''}L}{{k}_{l}(T-{T}_{c})}=\frac{{k}_{nl}}{{k}_{l}}\frac{1}{\Theta }$$\end{document}</tex-math><mml:math id="M104" display="block"><mml:mi>N</mml:mi><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>q</mml:mi><mml:mo>&#x0201d;</mml:mo><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mi>T</mml:mi><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mn>1</mml:mn><mml:mi mathvariant="normal">&#x00398;</mml:mi></mml:mfrac></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ25.gif" position="anchor"/></alternatives></disp-formula></p><p id="Par15">Finally, the averaged heat transfer at the heated surface is defined as<disp-formula id="Equ26"><label>26</label><alternatives><tex-math id="M105">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\overline{Nu}}_{nl}=\frac{1}{\xi 2\pi RH}\,{\int }_{-\xi /2}^{\xi /2}\,Nu(\xi ){\rm{d}}\xi $$\end{document}</tex-math><mml:math id="M106" display="block"><mml:msub><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>N</mml:mi><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy="true">&#x000af;</mml:mo></mml:mrow></mml:mover></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:mi>&#x003be;</mml:mi><mml:mn>2</mml:mn><mml:mi>&#x003c0;</mml:mi><mml:mi>R</mml:mi><mml:mi>H</mml:mi></mml:mrow></mml:mfrac><mml:mspace width=".1em"/><mml:msubsup><mml:mo>&#x0222b;</mml:mo><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mi>&#x003be;</mml:mi><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mi>&#x003be;</mml:mi><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msubsup><mml:mspace width=".1em"/><mml:mi>N</mml:mi><mml:mi>u</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003be;</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mi mathvariant="normal">d</mml:mi><mml:mi>&#x003be;</mml:mi></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ26.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq28"><alternatives><tex-math id="M107">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\xi $$\end{document}</tex-math><mml:math id="M108"><mml:mi>&#x003be;</mml:mi></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq28.gif"/></alternatives></inline-formula> is the angular position and <italic>H</italic> is the portion of the heated segment defined as:<disp-formula id="Equ27"><label>27</label><alternatives><tex-math id="M109">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H=\frac{\xi }{360}$$\end{document}</tex-math><mml:math id="M110" display="block"><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mi>&#x003be;</mml:mi><mml:mrow><mml:mn>360</mml:mn></mml:mrow></mml:mfrac></mml:math><graphic xlink:href="41598_2019_57062_Article_Equ27.gif" position="anchor"/></alternatives></disp-formula></p></sec><sec id="Sec3"><title>Solution Method</title><p id="Par16">The governing equations and the boundary condition was solved numerically by the finite element method (FEM). Divisions of the calculation domain into finite elements where the close form of each of the temperature (isotherms), velocity (streamfunctions) and nanoparticle distribution (iso concentrations) variables were given by<sup><xref ref-type="bibr" rid="CR39">39</xref></sup>.</p><p id="Par17">Computational domain element is generated by triangular shapes. For each of the dependent variables inside the calculation domain, high-orders and low-orders of triangular Lagrange finite elements were utilized. For the continuity, momentum and energy equations, evaluating of residuals was conducted by replacing the close form into the governing equations. A Newton method is utilized to approximate the nonlinear part of the momentum equations.</p><p id="Par18">In the process of mathematical calculation, the mesh generation on the domain is made by using non-uniform triangles. Various grid sensitivity checks were conducted to evaluate the sufficiency of the grid scheme and to make certain of the results are accurate. In the tests, considering the case at point <inline-formula id="IEq29"><alternatives><tex-math id="M111">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(x=-\,0.25,y=0.35)$$\end{document}</tex-math><mml:math id="M112"><mml:mo stretchy="false">(</mml:mo><mml:mi>x</mml:mi><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mspace width="-.25em"/><mml:mn>0.25</mml:mn><mml:mo>,</mml:mo><mml:mi>y</mml:mi><mml:mo>=</mml:mo><mml:mn>0.35</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq29.gif"/></alternatives></inline-formula> for the <inline-formula id="IEq30"><alternatives><tex-math id="M113">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H=37.5 \% $$\end{document}</tex-math><mml:math id="M114"><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mn>37.5</mml:mn><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq30.gif"/></alternatives></inline-formula>, <inline-formula id="IEq31"><alternatives><tex-math id="M115">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M116"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq31.gif"/></alternatives></inline-formula>, <inline-formula id="IEq32"><alternatives><tex-math id="M117">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M118"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq32.gif"/></alternatives></inline-formula>, <inline-formula id="IEq33"><alternatives><tex-math id="M119">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da=0.01$$\end{document}</tex-math><mml:math id="M120"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mn>0.01</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq33.gif"/></alternatives></inline-formula> and <inline-formula id="IEq34"><alternatives><tex-math id="M121">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Ra={10}^{5}$$\end{document}</tex-math><mml:math id="M122"><mml:mi>R</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mn>5</mml:mn></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq34.gif"/></alternatives></inline-formula> as tabulated in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>. Small quantity variation of the selected variable is observed from the extra fine grid size. Considering the time of computation, then the extra fine grid was chose for all the calculations conducted in this simulation. As a verification, the computations for the streamline and isotherms match well with those reported by<sup><xref ref-type="bibr" rid="CR40">40</xref></sup> at <inline-formula id="IEq35"><alternatives><tex-math id="M123">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Ra={10}^{5}$$\end{document}</tex-math><mml:math id="M124"><mml:mi>R</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mn>5</mml:mn></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq35.gif"/></alternatives></inline-formula>, <inline-formula id="IEq36"><alternatives><tex-math id="M125">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M126"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq36.gif"/></alternatives></inline-formula>, <inline-formula id="IEq37"><alternatives><tex-math id="M127">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H=100 \% $$\end{document}</tex-math><mml:math id="M128"><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mn>100</mml:mn><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq37.gif"/></alternatives></inline-formula> and <inline-formula id="IEq38"><alternatives><tex-math id="M129">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.0$$\end{document}</tex-math><mml:math id="M130"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.0</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq38.gif"/></alternatives></inline-formula> for nonporous case, <inline-formula id="IEq39"><alternatives><tex-math id="M131">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varepsilon =0.99$$\end{document}</tex-math><mml:math id="M132"><mml:mi>&#x003b5;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.99</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq39.gif"/></alternatives></inline-formula>, <inline-formula id="IEq40"><alternatives><tex-math id="M133">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da={10}^{7}$$\end{document}</tex-math><mml:math id="M134"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mn>7</mml:mn></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq40.gif"/></alternatives></inline-formula> as displayed in Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Grid sensitivity tests at coordinate <inline-formula id="IEq41"><alternatives><tex-math id="M135">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(x=-\,0.25,y=0.35)$$\end{document}</tex-math><mml:math id="M136"><mml:mo stretchy="false">(</mml:mo><mml:mi>x</mml:mi><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mspace width="-.25em"/><mml:mn>0.25</mml:mn><mml:mo>,</mml:mo><mml:mi>y</mml:mi><mml:mo>=</mml:mo><mml:mn>0.35</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq41.gif"/></alternatives></inline-formula> for the <inline-formula id="IEq42"><alternatives><tex-math id="M137">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H=37.5 \% $$\end{document}</tex-math><mml:math id="M138"><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mn>37.5</mml:mn><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq42.gif"/></alternatives></inline-formula>, <inline-formula id="IEq43"><alternatives><tex-math id="M139">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M140"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq43.gif"/></alternatives></inline-formula>, <inline-formula id="IEq44"><alternatives><tex-math id="M141">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M142"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq44.gif"/></alternatives></inline-formula>, <inline-formula id="IEq45"><alternatives><tex-math id="M143">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da=0.01$$\end{document}</tex-math><mml:math id="M144"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mn>0.01</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq45.gif"/></alternatives></inline-formula> and <inline-formula id="IEq46"><alternatives><tex-math id="M145">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Ra={10}^{5}$$\end{document}</tex-math><mml:math id="M146"><mml:mi>R</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mn>5</mml:mn></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq46.gif"/></alternatives></inline-formula>.</p></caption><table frame="hsides" rules="groups"><thead><tr><th>Predefined mesh size</th><th>Domain elements</th><th>Boundary elements</th><th><inline-formula id="IEq47"><alternatives><tex-math id="M147">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\overline{{\boldsymbol{Nu}}}$$\end{document}</tex-math><mml:math id="M148"><mml:mover accent="true"><mml:mrow><mml:mi mathvariant="bold-italic">Nu</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy="true">&#x000af;</mml:mo></mml:mrow></mml:mover></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq47.gif"/></alternatives></inline-formula></th><th>|&#x003a8;<sub><italic>max</italic></sub>|</th><th>CPU time (s)</th></tr></thead><tbody><tr><td>Coarse</td><td>1102</td><td>122</td><td>0.1389</td><td>0.3066</td><td>10</td></tr><tr><td>Normal</td><td>1640</td><td>154</td><td>0.1383</td><td>0.3081</td><td>11</td></tr><tr><td>Fine</td><td>2418</td><td>192</td><td>0.1400</td><td>0.3086</td><td>12</td></tr><tr><td>Finer</td><td>7638</td><td>404</td><td>0.1396</td><td>0.3093</td><td>20</td></tr><tr><td>Extra fine</td><td>21332</td><td>788</td><td>0.1393</td><td>0.3096</td><td>47</td></tr><tr><td>Extremely fine</td><td>26830</td><td>788</td><td>0.1396</td><td>0.3098</td><td>57</td></tr></tbody></table></table-wrap><fig id="Fig2"><label>Figure 2</label><caption><p>Validation of computed streamlines and isotherms of the present work (bottom) with that of<sup><xref ref-type="bibr" rid="CR40">40</xref></sup> (top) at <inline-formula id="IEq48"><alternatives><tex-math id="M149">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Ra={10}^{5}$$\end{document}</tex-math><mml:math id="M150"><mml:mi>R</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mn>5</mml:mn></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq48.gif"/></alternatives></inline-formula>, <inline-formula id="IEq49"><alternatives><tex-math id="M151">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M152"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq49.gif"/></alternatives></inline-formula>, <inline-formula id="IEq50"><alternatives><tex-math id="M153">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H=100 \% $$\end{document}</tex-math><mml:math id="M154"><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mn>100</mml:mn><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq50.gif"/></alternatives></inline-formula> and <inline-formula id="IEq51"><alternatives><tex-math id="M155">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.0$$\end{document}</tex-math><mml:math id="M156"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.0</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq51.gif"/></alternatives></inline-formula>.</p></caption><graphic xlink:href="41598_2019_57062_Fig2_HTML" id="d29e5178"/></fig></p></sec><sec id="Sec4" sec-type="results"><title>Results and Discussion</title><p id="Par19">The reported results are set at <inline-formula id="IEq52"><alternatives><tex-math id="M157">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varepsilon =0.7$$\end{document}</tex-math><mml:math id="M158"><mml:mi>&#x003b5;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.7</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq52.gif"/></alternatives></inline-formula>, <inline-formula id="IEq53"><alternatives><tex-math id="M159">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Pr=4.623$$\end{document}</tex-math><mml:math id="M160"><mml:mi>P</mml:mi><mml:mi>r</mml:mi><mml:mo>=</mml:mo><mml:mn>4.623</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq53.gif"/></alternatives></inline-formula> and <inline-formula id="IEq54"><alternatives><tex-math id="M161">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Le=3.5\times {10}^{5}$$\end{document}</tex-math><mml:math id="M162"><mml:mi>L</mml:mi><mml:mi>e</mml:mi><mml:mo>=</mml:mo><mml:mn>3.5</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mn>5</mml:mn></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq54.gif"/></alternatives></inline-formula>, <inline-formula id="IEq55"><alternatives><tex-math id="M163">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${N}_{BT}=1.1$$\end{document}</tex-math><mml:math id="M164"><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mi>B</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>1.1</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq55.gif"/></alternatives></inline-formula>, <inline-formula id="IEq56"><alternatives><tex-math id="M165">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Sc=3.55\times {10}^{4}$$\end{document}</tex-math><mml:math id="M166"><mml:mi>S</mml:mi><mml:mi>c</mml:mi><mml:mo>=</mml:mo><mml:mn>3.55</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mn>4</mml:mn></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq56.gif"/></alternatives></inline-formula>. These parameters represents the porosity, Prandtl number, Lewis number, normalized temperature, ratio of Brownian to thermophoretic diffusivity and Schmidt number. The important parameters in this study are: the portion of heated surface (<inline-formula id="IEq57"><alternatives><tex-math id="M167">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$5 \% \le H\le 100 \% $$\end{document}</tex-math><mml:math id="M168"><mml:mn>5</mml:mn><mml:mo>%</mml:mo><mml:mo>&#x02264;</mml:mo><mml:mi>H</mml:mi><mml:mo>&#x02264;</mml:mo><mml:mn>100</mml:mn><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq57.gif"/></alternatives></inline-formula>), the nanoparticle volume fraction (<inline-formula id="IEq58"><alternatives><tex-math id="M169">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.0\le \phi \le 0.04$$\end{document}</tex-math><mml:math id="M170"><mml:mn>0.0</mml:mn><mml:mo>&#x02264;</mml:mo><mml:mi>&#x003d5;</mml:mi><mml:mo>&#x02264;</mml:mo><mml:mn>0.04</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq58.gif"/></alternatives></inline-formula>), the Darcy number, <inline-formula id="IEq59"><alternatives><tex-math id="M171">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${10}^{-5}\le Da\le {10}^{-2}$$\end{document}</tex-math><mml:math id="M172"><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:msup><mml:mo>&#x02264;</mml:mo><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>&#x02264;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq59.gif"/></alternatives></inline-formula> and the cylinder size, (<inline-formula id="IEq60"><alternatives><tex-math id="M173">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.15\le R\le 0.25$$\end{document}</tex-math><mml:math id="M174"><mml:mn>0.15</mml:mn><mml:mo>&#x02264;</mml:mo><mml:mi>R</mml:mi><mml:mo>&#x02264;</mml:mo><mml:mn>0.25</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq60.gif"/></alternatives></inline-formula>).</p><p id="Par20">Figure&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref> illustrates the evolution of the streamlines, isotherms and isoconcentration by increasing the Darcy number at <inline-formula id="IEq61"><alternatives><tex-math id="M175">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M176"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq61.gif"/></alternatives></inline-formula>, <inline-formula id="IEq62"><alternatives><tex-math id="M177">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M178"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq62.gif"/></alternatives></inline-formula>, <inline-formula id="IEq63"><alternatives><tex-math id="M179">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H=50 \% $$\end{document}</tex-math><mml:math id="M180"><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mn>50</mml:mn><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq63.gif"/></alternatives></inline-formula> and <inline-formula id="IEq64"><alternatives><tex-math id="M181">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da={10}^{-2}$$\end{document}</tex-math><mml:math id="M182"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq64.gif"/></alternatives></inline-formula>. When the liquid temperature adjacent to localized heated surface rises where the hot liquid has lower density than the cold liquid. This creates a rotational flow, an anti-clockwise circulation cell in the left portion and clockwise circulation cell in the right portion. At small Darcy number, both of the flow circulation are slow and while at larger Darcy number, both of the flow circulation are moving quickly and the solid particle disperse wider with denser boundary layer at the bottom wall. It may be due to the fact that at high Darcy numbers where porosities enlarge, more particles are diffused within recirculating zones and accordingly, more deposition happen especially in the zone under the cylinder. Non-uniform shear rate leads to the movement of particles toward the central line. The reason is that thermophoretic force exerts on the particles in the contrary to the heat transport direction. The direction of heat transport is from the center of the active surface toward the wall. Thus, thermophoresis causes the particles migrate toward the center line.<fig id="Fig3"><label>Figure 3</label><caption><p>Effects of the heat source length on streamlines, isotherms and nanoparticles distribution at <inline-formula id="IEq65"><alternatives><tex-math id="M183">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M184"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq65.gif"/></alternatives></inline-formula>, <inline-formula id="IEq66"><alternatives><tex-math id="M185">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M186"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq66.gif"/></alternatives></inline-formula>, <inline-formula id="IEq67"><alternatives><tex-math id="M187">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H=50 \% $$\end{document}</tex-math><mml:math id="M188"><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mn>50</mml:mn><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq67.gif"/></alternatives></inline-formula> and <inline-formula id="IEq68"><alternatives><tex-math id="M189">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da={10}^{-2}$$\end{document}</tex-math><mml:math id="M190"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq68.gif"/></alternatives></inline-formula>.</p></caption><graphic xlink:href="41598_2019_57062_Fig3_HTML" id="d29e5524"/></fig></p><p id="Par21">Figure&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref> illustrates the evolution of the streamlines, isotherms and isoconcentrations by increasing the heater size at <inline-formula id="IEq69"><alternatives><tex-math id="M191">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M192"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq69.gif"/></alternatives></inline-formula>, <inline-formula id="IEq70"><alternatives><tex-math id="M193">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M194"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq70.gif"/></alternatives></inline-formula> and <inline-formula id="IEq71"><alternatives><tex-math id="M195">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da={10}^{-2}$$\end{document}</tex-math><mml:math id="M196"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq71.gif"/></alternatives></inline-formula>. The streamlines show that as the <italic>H</italic> increases, the two overall rotating eddies are intensified. The cells are elongated vertically following increasing the heat source length. This occurs because of the larger density different are generated from the larger heated segment. Here the density variation intensify the flow circulation and circularize the isotherm. There is no isotherms below the cylinder for the case <inline-formula id="IEq72"><alternatives><tex-math id="M197">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H\le 50 \% $$\end{document}</tex-math><mml:math id="M198"><mml:mi>H</mml:mi><mml:mo>&#x02264;</mml:mo><mml:mn>50</mml:mn><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq72.gif"/></alternatives></inline-formula>. The liquid temperature begins to distribute at the lower part for 75% heater flux size of the cylinder perimeter where denser nanoparticle distribution is also observed. Here, the nanoparticles movement happen in the central part below the cylinder. It is also noted that symmetrical circulating cells, isotherms and nanoparticle distribution were found for the considered heated segment size. The distribution of nanoparticles concentration is high at the upper cylinder surface, top wall and the upper half of the left and right wall. The thermophoresis acts against the gradient of temperature and moves the nanoparticles from upper cylinder surface to top wall and the upper half of the left and right wall. At the same times, the Brownian force discharges on the particles against the concentration gradient direction, where the thermophoresis and Brownian forces are directly facing each other. The Brownian force decreases while the shear rate effect increases. This brings a higher nanoparticles distribution at the active surface for a given mean concentration.<fig id="Fig4"><label>Figure 4</label><caption><p>Effects of the heating size on streamlines, isotherms and nanoparticles distribution at <inline-formula id="IEq73"><alternatives><tex-math id="M199">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M200"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq73.gif"/></alternatives></inline-formula>, <inline-formula id="IEq74"><alternatives><tex-math id="M201">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M202"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq74.gif"/></alternatives></inline-formula> and <inline-formula id="IEq75"><alternatives><tex-math id="M203">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da={10}^{-2}$$\end{document}</tex-math><mml:math id="M204"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq75.gif"/></alternatives></inline-formula>.</p></caption><graphic xlink:href="41598_2019_57062_Fig4_HTML" id="d29e5660"/></fig></p><p id="Par22">Figure&#x000a0;<xref rid="Fig5" ref-type="fig">5</xref> illustrates the influence of the heater size on the local Nusselt number at <inline-formula id="IEq76"><alternatives><tex-math id="M205">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M206"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq76.gif"/></alternatives></inline-formula>, <inline-formula id="IEq77"><alternatives><tex-math id="M207">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M208"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq77.gif"/></alternatives></inline-formula> and <inline-formula id="IEq78"><alternatives><tex-math id="M209">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da={10}^{-2}$$\end{document}</tex-math><mml:math id="M210"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq78.gif"/></alternatives></inline-formula>. This figure represent the heat transfer rate along the constant heated with heat flux and the insulated segment. The local heat transfer performance is minimum at <inline-formula id="IEq79"><alternatives><tex-math id="M211">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\xi =90^\circ $$\end{document}</tex-math><mml:math id="M212"><mml:mi>&#x003be;</mml:mi><mml:mo>=</mml:mo><mml:mn>90</mml:mn><mml:mo>&#x000b0;</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq79.gif"/></alternatives></inline-formula>. The local heat transfer rate decreases while the portion of the heater increases. Reducing the length of the heater has locally elevated the thermal energy transport, namely, for <inline-formula id="IEq80"><alternatives><tex-math id="M213">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H=75 \% $$\end{document}</tex-math><mml:math id="M214"><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mn>75</mml:mn><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq80.gif"/></alternatives></inline-formula> one can find non parabolic curve of the local Nusselt number profile, while further decreasing of <italic>H</italic> leads to close form of the parabolic curve.<fig id="Fig5"><label>Figure 5</label><caption><p>Effects of the heater size on the local Nusselt number at <inline-formula id="IEq81"><alternatives><tex-math id="M215">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M216"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq81.gif"/></alternatives></inline-formula>, <inline-formula id="IEq82"><alternatives><tex-math id="M217">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M218"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq82.gif"/></alternatives></inline-formula> and <inline-formula id="IEq83"><alternatives><tex-math id="M219">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da={10}^{-2}$$\end{document}</tex-math><mml:math id="M220"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq83.gif"/></alternatives></inline-formula>.</p></caption><graphic xlink:href="41598_2019_57062_Fig5_HTML" id="d29e5812"/></fig></p><p id="Par23">Figure&#x000a0;<xref rid="Fig6" ref-type="fig">6</xref> illustrates the effect of the cylinder size on the local Nusselt number at <inline-formula id="IEq84"><alternatives><tex-math id="M221">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H=75 \% $$\end{document}</tex-math><mml:math id="M222"><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mn>75</mml:mn><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq84.gif"/></alternatives></inline-formula>, <inline-formula id="IEq85"><alternatives><tex-math id="M223">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M224"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq85.gif"/></alternatives></inline-formula> and <inline-formula id="IEq86"><alternatives><tex-math id="M225">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da={10}^{-2}$$\end{document}</tex-math><mml:math id="M226"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq86.gif"/></alternatives></inline-formula>. The minimum heat transfer rate of the active surface were obtained at location <inline-formula id="IEq87"><alternatives><tex-math id="M227">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\xi =90^\circ $$\end{document}</tex-math><mml:math id="M228"><mml:mi>&#x003be;</mml:mi><mml:mo>=</mml:mo><mml:mn>90</mml:mn><mml:mo>&#x000b0;</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq87.gif"/></alternatives></inline-formula>. The <inline-formula id="IEq88"><alternatives><tex-math id="M229">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.25$$\end{document}</tex-math><mml:math id="M230"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.25</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq88.gif"/></alternatives></inline-formula> generate the lowest value of the local minimum. This minimum initiate from the symmetrical cold surfaces applied at left and right walls. The contrary cell motion prohibit direct heat transfer between the left and right cells. Each cell block the liquid movement from the opposite side. When the cylinder size is made smaller, the most importance response in temperature and nanoparticle concentration and then the local Nusselt number profiles is witnessed at the active surface.<fig id="Fig6"><label>Figure 6</label><caption><p>Effects of the cylinder size on the local Nusselt number at <inline-formula id="IEq89"><alternatives><tex-math id="M231">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H=75 \% $$\end{document}</tex-math><mml:math id="M232"><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mn>75</mml:mn><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq89.gif"/></alternatives></inline-formula>, <inline-formula id="IEq90"><alternatives><tex-math id="M233">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M234"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq90.gif"/></alternatives></inline-formula> and <inline-formula id="IEq91"><alternatives><tex-math id="M235">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da={10}^{-2}$$\end{document}</tex-math><mml:math id="M236"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq91.gif"/></alternatives></inline-formula>.</p></caption><graphic xlink:href="41598_2019_57062_Fig6_HTML" id="d29e5963"/></fig></p><p id="Par24">Figure&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref> illustrates the effect of the cylinder size on the average Nusselt number versus the heater size at <inline-formula id="IEq92"><alternatives><tex-math id="M237">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M238"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq92.gif"/></alternatives></inline-formula> and <inline-formula id="IEq93"><alternatives><tex-math id="M239">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da={10}^{-2}$$\end{document}</tex-math><mml:math id="M240"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq93.gif"/></alternatives></inline-formula>. Obviously, the smaller cylinder radius the higher average Nusselt number at the considered heater size. The the ratio of the heat transfer per unit area tends to decrease by increasing length portion of the heat source for the considered cylinder size. A rise of constant heat flux segment at <inline-formula id="IEq94"><alternatives><tex-math id="M241">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H=50 \% $$\end{document}</tex-math><mml:math id="M242"><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mn>50</mml:mn><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq94.gif"/></alternatives></inline-formula> brings an extension of the thermal plume and fairly large heating of the cylinder surface. Simultaneously, the measurable amount of the bottom convective cells rises and magnitudes of region with high solution reduce. The cumulative influence is to increase the heat transfer rate significantly.<fig id="Fig7"><label>Figure 7</label><caption><p>Effects of the cylinder size on the average Nusselt number versus the heater size at <inline-formula id="IEq95"><alternatives><tex-math id="M243">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M244"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq95.gif"/></alternatives></inline-formula> and <inline-formula id="IEq96"><alternatives><tex-math id="M245">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da={10}^{-2}$$\end{document}</tex-math><mml:math id="M246"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq96.gif"/></alternatives></inline-formula>.</p></caption><graphic xlink:href="41598_2019_57062_Fig7_HTML" id="d29e6067"/></fig></p><p id="Par25">Figure&#x000a0;<xref rid="Fig8" ref-type="fig">8</xref> illustrates the influence of the average nanoparticles concentration on the average Nusselt number versus the heater size at <inline-formula id="IEq97"><alternatives><tex-math id="M247">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M248"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq97.gif"/></alternatives></inline-formula> and <inline-formula id="IEq98"><alternatives><tex-math id="M249">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da={10}^{-2}$$\end{document}</tex-math><mml:math id="M250"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq98.gif"/></alternatives></inline-formula>. The higher average nanoparticles concentration, the higher average Nusselt number at the considered heater size. When the thermally active surface increases, more heat is transferred into the system and thus the temperature in the annulus increase. In general, the ratio of the heat transfer per unit area of the heat source decreases as the length of the constant heat flux surface increases. The heat transfer rate is intensified for the half thermally active surface. This due to faster spreading of the thermal plume occurs at half thermally active surface. At the 50% heating portion, there is a local maximum in the Nusselt number values. The maximum Nusselt number accompany the stronger conductive nanoliquid at the sheet which rises the heat transfer performance at the sheet. This allows the heat enters deeper into the quiescent water. A growth of the heat transfer indicate linear variations of the average Nusselt number by varying the heater size with constant heat flux.<fig id="Fig8"><label>Figure 8</label><caption><p>Influence of the average nanoparticles concentration on the average Nusselt number versus the heater size at <inline-formula id="IEq99"><alternatives><tex-math id="M251">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M252"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq99.gif"/></alternatives></inline-formula> and <inline-formula id="IEq100"><alternatives><tex-math id="M253">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Da={10}^{-2}$$\end{document}</tex-math><mml:math id="M254"><mml:mi>D</mml:mi><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq100.gif"/></alternatives></inline-formula>.</p></caption><graphic xlink:href="41598_2019_57062_Fig8_HTML" id="d29e6155"/></fig></p><p id="Par26">Figure&#x000a0;<xref rid="Fig9" ref-type="fig">9</xref> illustrates the influence of the Darcy number on the average Nusselt number versus the heater size at <inline-formula id="IEq101"><alternatives><tex-math id="M255">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M256"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq101.gif"/></alternatives></inline-formula> and <inline-formula id="IEq102"><alternatives><tex-math id="M257">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M258"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq102.gif"/></alternatives></inline-formula>. Darcy number is beyond 10<sup>&#x02212;4</sup>, the flow equations reduce to Darcy model. The nanoliquid particle moves with greater velocity for the high value of Darcy number and the velocity is modified at relative short of the heated surface. So that the enhancement in heat transfer by adjusting the porous medium permeability is more pronounced at <inline-formula id="IEq103"><alternatives><tex-math id="M259">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H &#x0003e; 20 \% $$\end{document}</tex-math><mml:math id="M260"><mml:mi>H</mml:mi><mml:mo>&#x0003e;</mml:mo><mml:mn>20</mml:mn><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq103.gif"/></alternatives></inline-formula>. At low values of the Darcy number, the nanoparticle movement is slow. This due to a retardation in the existence of solid fibers and decreasing in thermal conduction heat transfer within the porous medium. Deviation from the Darcy model increases the effectiveness of the nanoparticles in terms of heat transfer enhancement. At the current situation, it is important to use the heterogeneous nanoliquid model due to considerably effect of thermophoretic.<fig id="Fig9"><label>Figure 9</label><caption><p>Influence of the Darcy number on the average Nusselt number versus the heater size at <inline-formula id="IEq104"><alternatives><tex-math id="M261">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varphi =0.03$$\end{document}</tex-math><mml:math id="M262"><mml:mi>&#x003c6;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.03</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq104.gif"/></alternatives></inline-formula> and <inline-formula id="IEq105"><alternatives><tex-math id="M263">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R=0.2$$\end{document}</tex-math><mml:math id="M264"><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq105.gif"/></alternatives></inline-formula>.</p></caption><graphic xlink:href="41598_2019_57062_Fig9_HTML" id="d29e6245"/></fig></p></sec><sec id="Sec5" sec-type="conclusion"><title>Conclusions</title><p id="Par27">The two-phase Buongiorno nanoliquid model was applied to formulate the continuity, momentum, energy and nanoparticles equations in dimensionless form, set of partial differential equation. Plotting of the local and average Nusselt numbers is given and the contour results of isotherms, streamlines and isoconcentrations within the enclosure are exhibited. Some important finding from this simulation are given below:<list list-type="order"><list-item><p id="Par28">The streamlines, isotherms and nanoparticles isoconcentrations are symmetrical about the length of the enclosure. A higher nanoparticles distribution were obtained at the active surface for a given mean concentration.</p></list-item><list-item><p id="Par29">A non parabolic curve of the local Nusselt number profile were found when the active surface portion greater than 50%. The minimum heat transfer rate of the active surface were obtained at location <inline-formula id="IEq106"><alternatives><tex-math id="M265">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\xi =90^\circ $$\end{document}</tex-math><mml:math id="M266"><mml:mi>&#x003be;</mml:mi><mml:mo>=</mml:mo><mml:mn>90</mml:mn><mml:mo>&#x000b0;</mml:mo></mml:math><inline-graphic xlink:href="41598_2019_57062_Article_IEq106.gif"/></alternatives></inline-formula>.</p></list-item><list-item><p id="Par30">In general, the ratio of the heat transfer per unit area of the heat source decreases as the length of the heated surface increases. The heat transfer rate is intensified for the half thermally active surface and high value of Darcy number. The higher average nanoparticles concentration, the higher heat transfer rate.</p></list-item></list></p></sec></body><back><fn-group><fn><p><bold>Publisher&#x02019;s note</bold> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></fn></fn-group><notes notes-type="author-contribution"><title>Author contributions</title><p>The author designed, developed, solved the problem and wrote the manuscript.</p></notes><notes notes-type="COI-statement"><title>Competing interests</title><p id="Par31">The author declares no competing interests.</p></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sun</surname><given-names>Q</given-names></name><name><surname>Pop</surname><given-names>I</given-names></name></person-group><article-title>Free convection in a triangle cavity filled with a porous medium saturated with nanofluids with flush mounted heater on the wall</article-title><source>Int. J. Thermal Sci.</source><year>2011</year><volume>50</volume><fpage>2141</fpage><lpage>2153</lpage><pub-id pub-id-type="doi">10.1016/j.ijthermalsci.2011.06.005</pub-id></element-citation></ref><ref id="CR2"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chamkha</surname><given-names>AJ</given-names></name><name><surname>Ismael</surname><given-names>MA</given-names></name></person-group><article-title>Conjugate heat transfer in a porous cavity filled with nanofluids and heated by a triangular thick wall</article-title><source>Int. J. Thermal Sci.</source><year>2013</year><volume>67</volume><fpage>135</fpage><lpage>151</lpage><pub-id pub-id-type="doi">10.1016/j.ijthermalsci.2012.12.002</pub-id></element-citation></ref><ref id="CR3"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sheremet</surname><given-names>MA</given-names></name><name><surname>Pop</surname><given-names>I</given-names></name></person-group><article-title>Conjugate natural convection in a square porous cavity filled by a nanofluid using buongiorno&#x02019;s mathematical model</article-title><source>Int. J. Heat Mass Transf.</source><year>2014</year><volume>79</volume><fpage>137</fpage><lpage>145</lpage><pub-id pub-id-type="doi">10.1016/j.ijheatmasstransfer.2014.07.092</pub-id></element-citation></ref><ref id="CR4"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ismael</surname><given-names>MA</given-names></name><name><surname>Chamkha</surname><given-names>AJ</given-names></name></person-group><article-title>Conjugate natural convection in a differentially heated composite enclosure filled with a nanofluid</article-title><source>J. Porous Media</source><year>2015</year><volume>18</volume><fpage>699</fpage><lpage>716</lpage><pub-id pub-id-type="doi">10.1615/JPorMedia.v18.i7.50</pub-id></element-citation></ref><ref id="CR5"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ismael</surname><given-names>MA</given-names></name><name><surname>Armaghani</surname><given-names>T</given-names></name><name><surname>Chamkha</surname><given-names>AJ</given-names></name></person-group><article-title>Conjugate heat transfer and entropy generation in a cavity filled with a nanofluid-saturated porous media and heated by a triangular solid</article-title><source>Journal of the Taiwan Institute of Chemical Engineers</source><year>2016</year><volume>59</volume><fpage>138</fpage><lpage>151</lpage><pub-id pub-id-type="doi">10.1016/j.jtice.2015.09.012</pub-id></element-citation></ref><ref id="CR6"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mehryan</surname><given-names>S</given-names></name><name><surname>Izadi</surname><given-names>M</given-names></name><name><surname>Sheremet</surname></name></person-group><article-title>Analysis of conjugate natural convection within a porous square enclosure occupied with micropolar nanofluid using local thermal non-equilibrium model</article-title><source>J. Mol. Liq.</source><year>2018</year><volume>250</volume><fpage>353</fpage><lpage>368</lpage><pub-id pub-id-type="doi">10.1016/j.molliq.2017.11.177</pub-id></element-citation></ref><ref id="CR7"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chamkha</surname><given-names>A</given-names></name><name><surname>Ismael</surname><given-names>M</given-names></name></person-group><article-title>Natural convection in differentially heated partially porous layered cavities filled with a nanofluid</article-title><source>Numer. Heat Transf. Part A</source><year>2014</year><volume>65</volume><fpage>1089</fpage><lpage>1113</lpage><pub-id pub-id-type="doi">10.1080/10407782.2013.851560</pub-id></element-citation></ref><ref id="CR8"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mahajan</surname><given-names>A</given-names></name><name><surname>Sharma</surname><given-names>M</given-names></name></person-group><article-title>Convection in magnetic nanofluids in porous media</article-title><source>J. Porous Media</source><year>2014</year><volume>17</volume><fpage>439</fpage><lpage>455</lpage><pub-id pub-id-type="doi">10.1615/JPorMedia.v17.i5.60</pub-id></element-citation></ref><ref id="CR9"><label>9.</label><mixed-citation publication-type="other">Zehforoosh, A. &#x00026; Hossainpour, S. Porous matrix properties effect on the internal heat generation in a square cavity saturated with Cu-water nanofluid. <italic>Modares Mechanical Engineering</italic><bold>14</bold> (2015).</mixed-citation></ref><ref id="CR10"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ghalambaz</surname><given-names>M</given-names></name><name><surname>Sheremet</surname><given-names>M</given-names></name><name><surname>Pop</surname><given-names>I</given-names></name></person-group><article-title>Free convection in a parallelogrammic porous cavity filled with a nanofluid using Tiwari and das nanofluid model</article-title><source>PLoS One</source><year>2015</year><volume>10</volume><fpage>e0126486</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0126486</pub-id><pub-id pub-id-type="pmid">25993540</pub-id></element-citation></ref><ref id="CR11"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sheremet</surname><given-names>M</given-names></name><name><surname>Grosan</surname><given-names>T</given-names></name><name><surname>Pop</surname><given-names>I</given-names></name></person-group><article-title>Free convection in a square cavity filled with a porous medium saturated by nanofluid using Tiwari and Das nanofluid model</article-title><source>Transp. Porous Med.</source><year>2015</year><volume>106</volume><fpage>595</fpage><lpage>610</lpage><pub-id pub-id-type="doi">10.1007/s11242-014-0415-3</pub-id></element-citation></ref><ref id="CR12"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mahdi</surname><given-names>R</given-names></name><name><surname>Mohammed</surname><given-names>H</given-names></name><name><surname>Munisamy</surname><given-names>K</given-names></name><name><surname>Saeid</surname><given-names>N</given-names></name></person-group><article-title>Review of convection heat transfer and fluid flow in porous media with nanofluid</article-title><source>Renewable and Sustainable Energy Reviews</source><year>2015</year><volume>41</volume><fpage>715</fpage><lpage>734</lpage><pub-id pub-id-type="doi">10.1016/j.rser.2014.08.040</pub-id></element-citation></ref><ref id="CR13"><label>13.</label><mixed-citation publication-type="other">Alsabery, A., Siddheshwar, P., Saleh, H. &#x00026; Hashim, I. Transient free convective heat transfer in nanoliquid-saturated porous square cavity with a concentric solid insert and sinusoidal boundary condition. <italic>Superlattices and Microstructures</italic> (2016).</mixed-citation></ref><ref id="CR14"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sabour</surname><given-names>M</given-names></name><name><surname>Ghalambaz</surname><given-names>M</given-names></name></person-group><article-title>Natural convection in a triangular cavity filled with a nanofluid-saturated porous medium using three heat equation model</article-title><source>Canadian Journal of Physics</source><year>2016</year><volume>94</volume><fpage>604</fpage><lpage>615</lpage><pub-id pub-id-type="doi">10.1139/cjp-2016-0053</pub-id></element-citation></ref><ref id="CR15"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ghasemi</surname><given-names>K</given-names></name><name><surname>Siavashi</surname><given-names>M</given-names></name></person-group><article-title>Lattice Boltzmann numerical simulation and entropy 865 generation analysis of natural convection of nanofluid in a porous cavity with different linear temperature distributions on side walls</article-title><source>J. Mol. Liq.</source><year>2017</year><volume>233</volume><fpage>415</fpage><lpage>430</lpage><pub-id pub-id-type="doi">10.1016/j.molliq.2017.03.016</pub-id></element-citation></ref><ref id="CR16"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mehryan</surname><given-names>S</given-names></name><name><surname>Kashkooli</surname><given-names>F</given-names></name><name><surname>Ghalambaz</surname><given-names>M</given-names></name><name><surname>Chamkha</surname><given-names>A</given-names></name></person-group><article-title>Free convection of hybrid Al<sub>2</sub>O<sub>3</sub>-Cu water nanofluid in a differentially heated porous cavity</article-title><source>Advanced Powder Technology</source><year>2017</year><volume>28</volume><fpage>2295</fpage><lpage>2305</lpage><pub-id pub-id-type="doi">10.1016/j.apt.2017.06.011</pub-id></element-citation></ref><ref id="CR17"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sheikholeslami</surname><given-names>M</given-names></name><name><surname>Shehzad</surname><given-names>S</given-names></name></person-group><article-title>Simulation of water based nanofluid convective flow inside a porous enclosure via non-equilibrium model</article-title><source>Int. J. Heat Mass Transf.</source><year>2018</year><volume>120</volume><fpage>1200</fpage><lpage>1212</lpage><pub-id pub-id-type="doi">10.1016/j.ijheatmasstransfer.2017.12.132</pub-id></element-citation></ref><ref id="CR18"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sheikholeslami</surname><given-names>M</given-names></name><name><surname>Shehzad</surname><given-names>S</given-names></name></person-group><article-title>CVFEM simulation for nanofluid migration in a porous medium using Darcy model</article-title><source>Int. J. Heat Mass Transf.</source><year>2018</year><volume>122</volume><fpage>1264</fpage><lpage>1271</lpage><pub-id pub-id-type="doi">10.1016/j.ijheatmasstransfer.2018.02.080</pub-id></element-citation></ref><ref id="CR19"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sheremet</surname><given-names>M</given-names></name><name><surname>Pop</surname><given-names>I</given-names></name></person-group><article-title>Natural convection in a square porous cavity with sinusoidal temperature distributions on both side walls filled with a nanofluid: Buongiorno&#x02019;s mathematical model</article-title><source>Transp. Porous Med.</source><year>2014</year><volume>105</volume><fpage>411</fpage><lpage>429</lpage><pub-id pub-id-type="doi">10.1007/s11242-014-0375-7</pub-id></element-citation></ref><ref id="CR20"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ghalambaz</surname><given-names>M</given-names></name><name><surname>Sabour</surname><given-names>M</given-names></name><name><surname>Pop</surname><given-names>I</given-names></name></person-group><article-title>Free convection in a square cavity filled by a porous medium saturated by a nanofluid: Viscous dissipation and radiation effects</article-title><source>Engineering Science and Technology, an International Journal</source><year>2016</year><volume>19</volume><fpage>1244</fpage><lpage>1253</lpage><pub-id pub-id-type="doi">10.1016/j.jestch.2016.02.006</pub-id></element-citation></ref><ref id="CR21"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hoghoughi</surname><given-names>G</given-names></name><name><surname>Izadi</surname><given-names>M</given-names></name><name><surname>Oztop</surname><given-names>H</given-names></name><name><surname>Abu-Hamdeh</surname><given-names>N</given-names></name></person-group><article-title>Effect of geometrical parameters on natural convection in a porous undulant-wall enclosure saturated by a nanofluid using Buongiorno&#x02019;s model</article-title><source>J. Mol. Liq.</source><year>2018</year><volume>255</volume><fpage>148</fpage><lpage>159</lpage><pub-id pub-id-type="doi">10.1016/j.molliq.2018.01.145</pub-id></element-citation></ref><ref id="CR22"><label>22.</label><mixed-citation publication-type="other">Emami, R., Siavashi, M. &#x00026; Moghaddam, G. The effect of inclination angle and hot wall configuration on Cu-water nanofluid natural convection inside a porous square cavity. <italic>Advanced Powder Technology</italic> (2018).</mixed-citation></ref><ref id="CR23"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tahmasebi</surname><given-names>A</given-names></name><name><surname>Mahdavi</surname><given-names>M</given-names></name><name><surname>Ghalambaz</surname><given-names>M</given-names></name></person-group><article-title>Local thermal nonequilibrium conjugate natural convection heat transfer of nanofluids in a cavity partially filled with porous media using Buongiorno&#x02019;s model</article-title><source>Numer. Heat Transf. Part A</source><year>2018</year><volume>73</volume><fpage>254</fpage><lpage>276</lpage><pub-id pub-id-type="doi">10.1080/10407782.2017.1422632</pub-id></element-citation></ref><ref id="CR24"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ghalambaz</surname><given-names>M</given-names></name><name><surname>Sheremet</surname><given-names>M</given-names></name><name><surname>Mehryan</surname><given-names>S</given-names></name><name><surname>Kashkooli</surname><given-names>F</given-names></name><name><surname>Pop</surname><given-names>I</given-names></name></person-group><article-title>Local thermal non-equilibrium analysis of conjugate free convection within a porous enclosure occupied with Ag&#x02013;MgO hybrid nanofluid</article-title><source>Journal of Thermal Analysis and Calorimetry</source><year>2019</year><volume>135</volume><fpage>1381</fpage><lpage>1398</lpage><pub-id pub-id-type="doi">10.1007/s10973-018-7472-8</pub-id></element-citation></ref><ref id="CR25"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mehryan</surname><given-names>S</given-names></name><name><surname>Ghalambaz</surname><given-names>M</given-names></name><name><surname>Izadi</surname><given-names>M</given-names></name></person-group><article-title>Conjugate natural convection of nanofluids inside an enclosure filled by three layers of solid, porous medium and free nanofluid using buongiorno&#x02019;s and local thermal non-equilibrium models</article-title><source>Journal of Thermal Analysis and Calorimetry</source><year>2019</year><volume>135</volume><fpage>1047</fpage><lpage>1067</lpage><pub-id pub-id-type="doi">10.1007/s10973-018-7380-y</pub-id></element-citation></ref><ref id="CR26"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ghalambaz</surname><given-names>M</given-names></name><name><surname>Gro&#x0015f;an</surname><given-names>T</given-names></name><name><surname>Pop</surname><given-names>I</given-names></name></person-group><article-title>Mixed convection boundary layer flow and heat transfer over a vertical plate embedded in a porous medium filled with a suspension of nano-encapsulated phase change materials</article-title><source>Journal of Molecular Liquids</source><year>2019</year><volume>293</volume><fpage>111432</fpage><pub-id pub-id-type="doi">10.1016/j.molliq.2019.111432</pub-id></element-citation></ref><ref id="CR27"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ghalambaz</surname><given-names>M</given-names></name><name><surname>Chamkha</surname><given-names>A</given-names></name><name><surname>Wen</surname><given-names>D</given-names></name></person-group><article-title>Natural convective flow and heat transfer of nano-encapsulated phase change materials (NEPCMs) in a cavity</article-title><source>Int. J. Heat Mass Transf.</source><year>2019</year><volume>138</volume><fpage>738</fpage><lpage>749</lpage><pub-id pub-id-type="doi">10.1016/j.ijheatmasstransfer.2019.04.037</pub-id></element-citation></ref><ref id="CR28"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oosthuizen</surname><given-names>P</given-names></name><name><surname>Naylor</surname><given-names>D</given-names></name></person-group><article-title>Natural convective heat transfer from a cylinder in an enclosure partly filled with a porous medium</article-title><source>Int. J. Numer. Meth. Heat Fluid Flow</source><year>2006</year><volume>6</volume><fpage>51</fpage><lpage>63</lpage><pub-id pub-id-type="doi">10.1108/09615539610131262</pub-id></element-citation></ref><ref id="CR29"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Misirlioglu</surname><given-names>A</given-names></name></person-group><article-title>The effect of rotating cylinder on the heat transfer in a square cavity filled with porous medium</article-title><source>Int. J. Eng. Sci.</source><year>2006</year><volume>44</volume><fpage>1173</fpage><lpage>1187</lpage><pub-id pub-id-type="doi">10.1016/j.ijengsci.2006.07.008</pub-id></element-citation></ref><ref id="CR30"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saleh</surname><given-names>H</given-names></name><name><surname>Hashim</surname><given-names>I</given-names></name></person-group><article-title>Natural convection from a cylinder in square porous enclosure filled with nanofluids</article-title><source>J. Porous Media</source><year>2015</year><volume>18</volume><fpage>559</fpage><lpage>567</lpage><pub-id pub-id-type="doi">10.1615/JPorMedia.v18.i6.10</pub-id></element-citation></ref><ref id="CR31"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Prasad</surname><given-names>V</given-names></name><name><surname>Kulacki</surname><given-names>FA</given-names></name></person-group><article-title>Natural convection in horizontal porous layers with localized heating from below</article-title><source>J. Heat Transf.</source><year>1987</year><volume>109</volume><fpage>795</fpage><lpage>798</lpage><pub-id pub-id-type="doi">10.1115/1.3248162</pub-id></element-citation></ref><ref id="CR32"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Robillard</surname><given-names>L</given-names></name><name><surname>Wang</surname><given-names>C</given-names></name><name><surname>Vasseur</surname><given-names>P</given-names></name></person-group><article-title>Multiple steady states in a confined porous medium with localized heating from below</article-title><source>Numer. Heat Transf. Part A</source><year>1988</year><volume>13</volume><fpage>91</fpage><lpage>110</lpage></element-citation></ref><ref id="CR33"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Krishna</surname><given-names>D</given-names></name><name><surname>Basak</surname><given-names>T</given-names></name><name><surname>Das</surname><given-names>S</given-names></name></person-group><article-title>Natural convection in a non-Darcy anisotropic porous cavity with a finite heat source at the bottom wall</article-title><source>Int. J. Thermal Sci.</source><year>2009</year><volume>48</volume><fpage>1279</fpage><lpage>1293</lpage><pub-id pub-id-type="doi">10.1016/j.ijthermalsci.2008.11.022</pub-id></element-citation></ref><ref id="CR34"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Molla</surname><given-names>MM</given-names></name><name><surname>Saha</surname><given-names>SC</given-names></name><name><surname>Khan</surname><given-names>MAI</given-names></name></person-group><article-title>Natural convection flow in a porous enclosure with localized heating from below</article-title><source>JP Journal of Heat and Mass Transfer</source><year>2012</year><volume>6</volume><fpage>1</fpage><lpage>16</lpage></element-citation></ref><ref id="CR35"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Buongiorno</surname><given-names>J</given-names></name></person-group><article-title>Convective transport in nanofluids</article-title><source>J. Heat Transf.</source><year>2006</year><volume>128</volume><fpage>240</fpage><lpage>250</lpage><pub-id pub-id-type="doi">10.1115/1.2150834</pub-id></element-citation></ref><ref id="CR36"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Corcione</surname><given-names>M</given-names></name></person-group><article-title>Empirical correlating equations for predicting the effective thermal conductivity and dynamic viscosity of nanofluids</article-title><source>Energy Convers. Manag.</source><year>2011</year><volume>52</volume><fpage>789</fpage><lpage>793</lpage><pub-id pub-id-type="doi">10.1016/j.enconman.2010.06.072</pub-id></element-citation></ref><ref id="CR37"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nithiarasu</surname><given-names>P</given-names></name><name><surname>Seetharamu</surname><given-names>K</given-names></name><name><surname>Sundararajan</surname><given-names>T</given-names></name></person-group><article-title>Natural convective heat transfer in an enclosure filled with fluid saturated variable porosity medium</article-title><source>Int. J. Heat Mass Transf.</source><year>1997</year><volume>40</volume><fpage>3955</fpage><lpage>3967</lpage><pub-id pub-id-type="doi">10.1016/S0017-9310(97)00008-2</pub-id></element-citation></ref><ref id="CR38"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al-Amiri</surname><given-names>A</given-names></name><name><surname>Khanafer</surname><given-names>K</given-names></name><name><surname>Pop</surname><given-names>I</given-names></name></person-group><article-title>Steady-state conjugate natural convection in a fluid-saturated porous cavity</article-title><source>Int. J. Heat Mass Transf.</source><year>2008</year><volume>51</volume><fpage>4260</fpage><lpage>4275</lpage><pub-id pub-id-type="doi">10.1016/j.ijheatmasstransfer.2007.12.026</pub-id></element-citation></ref><ref id="CR39"><label>39.</label><mixed-citation publication-type="other">Hashim, I., Alsabery, A., Sheremet, M. &#x00026; Chamkha, A. Numerical investigation of natural convection of Al<sub>2</sub>O<sub>3</sub>-water nanofluid in a wavy cavity with conductive inner block using Buongiorno&#x02019;s two-phase model. <italic>Advanced Powder Technology</italic> (2018).</mixed-citation></ref><ref id="CR40"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>B</given-names></name><name><surname>Lee</surname><given-names>D</given-names></name><name><surname>Ha</surname><given-names>M</given-names></name><name><surname>Yoon</surname><given-names>H</given-names></name></person-group><article-title>A numerical study of natural convection in a square enclosure with a circular cylinder at different vertical locations</article-title><source>Int. J. Heat Mass Transf.</source><year>2008</year><volume>51</volume><fpage>1888</fpage><lpage>1906</lpage><pub-id pub-id-type="doi">10.1016/j.ijheatmasstransfer.2007.06.033</pub-id></element-citation></ref></ref-list></back></article>

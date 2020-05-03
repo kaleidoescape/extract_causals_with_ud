@@ -1,0 +1,587 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Stem Cells Transl Med</journal-id><journal-id journal-id-type="iso-abbrev">Stem Cells Transl Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2157-6580</journal-id><journal-id journal-id-type="publisher-id">SCT3</journal-id><journal-title-group><journal-title>Stem Cells Translational Medicine</journal-title></journal-title-group><issn pub-type="ppub">2157-6564</issn><issn pub-type="epub">2157-6580</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31568685</article-id><article-id pub-id-type="pmc">6954724</article-id><article-id pub-id-type="doi">10.1002/sctm.18-0227</article-id><article-id pub-id-type="publisher-id">SCT312595</article-id><article-categories><subj-group subj-group-type="overline"><subject>Tissue Engineering and Regenerative Medicine</subject></subj-group><subj-group subj-group-type="heading"><subject>Tissue Engineering and Regenerative Medicine</subject></subj-group></article-categories><title-group><article-title>Functional equivalence of stem cell and stem cell&#x02010;derived extracellular vesicle transplantation to repair the irradiated brain</article-title><alt-title alt-title-type="right-running-head">Stem cell&#x02010;derived EV protects the irradiated brain</alt-title><alt-title alt-title-type="left-running-head">Smith et al.</alt-title></title-group><contrib-group><contrib id="sct312595-cr-0001" contrib-type="author"><name><surname>Smith</surname><given-names>Sarah M.</given-names></name><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312595-cr-0002" contrib-type="author"><name><surname>Giedzinski</surname><given-names>Erich</given-names></name><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312595-cr-0003" contrib-type="author"><name><surname>Angulo</surname><given-names>Maria C.</given-names></name><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312595-cr-0004" contrib-type="author"><name><surname>Lui</surname><given-names>Tiffany</given-names></name><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312595-cr-0005" contrib-type="author"><name><surname>Lu</surname><given-names>Celine</given-names></name><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312595-cr-0006" contrib-type="author"><name><surname>Park</surname><given-names>Audrey L.</given-names></name><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312595-cr-0007" contrib-type="author"><name><surname>Tang</surname><given-names>Sharon</given-names></name><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312595-cr-0008" contrib-type="author"><name><surname>Martirosian</surname><given-names>Vahan</given-names></name><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312595-cr-0009" contrib-type="author"><name><surname>Ru</surname><given-names>Ning</given-names></name><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312595-cr-0010" contrib-type="author"><name><surname>Chmielewski</surname><given-names>Nicole N.</given-names></name><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312595-cr-0011" contrib-type="author"><name><surname>Liang</surname><given-names>Yaxuan</given-names></name><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312595-cr-0012" contrib-type="author"><name><surname>Baulch</surname><given-names>Janet E.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1078-6946</contrib-id><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312595-cr-0013" contrib-type="author"><name><surname>Acharya</surname><given-names>Munjal M.</given-names></name><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312595-cr-0014" contrib-type="author" corresp="yes"><name><surname>Limoli</surname><given-names>Charles L.</given-names></name><xref ref-type="aff" rid="sct312595-aff-0001">
+<sup>1</sup>
+</xref><address><email>climoli@uci.edu</email></address></contrib></contrib-group><aff id="sct312595-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Radiation Oncology</named-content>
+<institution>University of California</institution>
+<city>Irvine</city>
+<named-content content-type="country-part">California</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Charles L. Limoli, PhD, Department of Radiation Oncology, University of California Irvine, Medical Sciences I, Room B&#x02010;146B, Irvine, CA 92697&#x02010;2695.<break/>
+Email: <email>climoli@uci.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>9</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>9</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/sct3.v9.1</issue-id><fpage>93</fpage><lpage>105</lpage><history><date date-type="received"><day>11</day><month>10</month><year>2018</year></date><date date-type="accepted"><day>17</day><month>6</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 AlphaMed Press <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <sc>stem cells translational medicine</sc> published by Wiley Periodicals, Inc. on behalf of AlphaMed Press</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:SCT3-9-93.pdf"/><abstract><title>Abstract</title><p>Cranial radiotherapy, although beneficial for the treatment of brain tumors, inevitably leads to normal tissue damage that can induce unintended neurocognitive complications that are progressive and debilitating. Ionizing radiation exposure has also been shown to compromise the structural integrity of mature neurons throughout the brain, an effect believed to be at least in part responsible for the deterioration of cognitive health. Past work has shown that cranially transplanted human neural stem cells (hNSCs) or their extracellular vesicles (EVs) afforded long&#x02010;term beneficial effects on many of these cognitive decrements. To provide additional insight into the potential neuroprotective mechanisms of cell&#x02010;based regenerative strategies, we have analyzed hippocampal neurons for changes in structural integrity and synaptic remodeling after unilateral and bilateral transplantation of hNSCs or EVs derived from those same cells. Interestingly, hNSCs and EVs similarly afforded protection to host neurons, ameliorating the impact of irradiation on dendritic complexity and spine density for neurons present in both the ipsilateral and contralateral hippocampi 1&#x02009;month following irradiation and transplantation. These morphometric improvements were accompanied by increased levels of glial cell&#x02010;derived growth factor and significant attenuation of radiation&#x02010;induced increases in postsynaptic density protein 95 and activated microglia were found ipsi&#x02010; and contra&#x02010;lateral to the transplantation sites of the irradiated hippocampus treated with hNSCs or hNSC&#x02010;derived EVs. These findings document potent far&#x02010;reaching neuroprotective effects mediated by grafted stem cells or EVs adjacent and distal to the site of transplantation and support their potential as therapeutic agents to counteract the adverse effects of cranial irradiation.</p></abstract><abstract abstract-type="graphical"><p>Regenerative medicine holds promise for restoring brain structure and function following cancer relevant radiotherapy. These studies document potent distal neuroprotective effects mediated by bilateral and unilateral grafted stem cells or extracellular vesicles to the site of transplantation and support their potential as therapeutic agents to counteract the adverse effects of cranial irradiation.<boxed-text position="anchor" content-type="graphic" id="sct312595-blkfxd-0001" orientation="portrait"><graphic xlink:href="SCT3-9-93-g008.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="sct312595-kwd-0001">brain</kwd><kwd id="sct312595-kwd-0002">cranial irradiation</kwd><kwd id="sct312595-kwd-0003">extracellular vesicle</kwd><kwd id="sct312595-kwd-0004">neural stem cell</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Defense Threat Reduction Agency </institution><institution-id institution-id-type="open-funder-registry">10.13039/100000774</institution-id></institution-wrap></funding-source><award-id>1&#x02010;13&#x02010;1&#x02010;0022</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>NINDS </institution><institution-id institution-id-type="open-funder-registry">10.13039/100000065</institution-id></institution-wrap></funding-source><award-id>5R01 NS074388</award-id><award-id>T32 NS082174</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="12"/><word-count count="8399"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:13.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="sct312595-cit-9001">
+<string-name>
+<surname>Smith</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Giedzinski</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Angulo</surname>
+<given-names>MC</given-names>
+</string-name>, et al. <article-title>Functional equivalence of stem cell and stem cell&#x02010;derived extracellular vesicle transplantation to repair the irradiated brain</article-title>. <source xml:lang="en">STEM CELLS Transl Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>93</fpage>&#x02013;<lpage>105</lpage>. <pub-id pub-id-type="doi">10.1002/sctm.18-0227</pub-id>
+<pub-id pub-id-type="pmid">31568685</pub-id></mixed-citation>
+</p><fn-group id="sct312595-ntgp-0001"><fn id="sct312595-note-1002"><p>
+<bold>Funding information</bold> Defense Threat Reduction Agency, Grant/Award Number: 1&#x02010;13&#x02010;1&#x02010;0022; NINDS, Grant/Award Numbers: 5R01 NS074388, T32 NS082174</p></fn></fn-group></notes></front><body id="sct312595-body-0001"><sec sec-type="opening-section" id="sct312595-sec-0001"><label>1</label><p>
+<boxed-text position="anchor" content-type="box" id="sct312595-blkfxd-0002" orientation="portrait"><caption><title>Significance statement</title></caption><p>Cranial radiation therapy for the treatment of brain cancers often leads to adverse impacts on cognitive function. This is particularly problematic for childhood cancer survivors who live long post&#x02010;therapy lives. The past regenerative medicine approaches using human neural stem cells (hNSCs) have shown beneficial neurocognitive effects in the irradiated brain. The present study evaluated the neuroprotective impact of hNSCs and hNSC&#x02010;derived extracellular vesicles in the irradiated brain, as demonstrated by preservation of host neuronal morphology, reductions in inflammation, and restoration of neurotrophic factors.</p></boxed-text>
+</p></sec><sec id="sct312595-sec-0003"><label>2</label><title>INTRODUCTION</title><p>Radiotherapy represents a beneficial frontline treatment for primary and metastatic brain tumors, resulting in improved local regional control and increased survival of afflicted patients.<xref rid="sct312595-bib-0001" ref-type="ref">1</xref>, <xref rid="sct312595-bib-0002" ref-type="ref">2</xref> Unfortunately, these cancer treatments cause a wide spectrum of debilitating and progressive cognitive impairments that adversely impact working memory, learning, executive function, and attention that manifest months to years following the cessation of treatment.<xref rid="sct312595-bib-0003" ref-type="ref">3</xref>, <xref rid="sct312595-bib-0004" ref-type="ref">4</xref>, <xref rid="sct312595-bib-0005" ref-type="ref">5</xref>, <xref rid="sct312595-bib-0006" ref-type="ref">6</xref>, <xref rid="sct312595-bib-0007" ref-type="ref">7</xref>, <xref rid="sct312595-bib-0008" ref-type="ref">8</xref> The mechanisms underlying these multifaceted effects are complex, persistent, and dynamic over time, and can be linked to cycles of secondary reactive processes involving oxidative stress and inflammation that serve to perpetuate the signature of radiation injury in the brain.<xref rid="sct312595-bib-0009" ref-type="ref">9</xref>, <xref rid="sct312595-bib-0010" ref-type="ref">10</xref>, <xref rid="sct312595-bib-0011" ref-type="ref">11</xref> These damaging processes can result in decreased hippocampal neurogenesis, demyelination, microvascular injury, and alterations in neuronal structure that disrupt dendritic morphology, spine density, and synaptic proteins, factors that have been proposed to be contributory to if not causal of radiation&#x02010;induced cognitive impairment.<xref rid="sct312595-bib-0001" ref-type="ref">1</xref>, <xref rid="sct312595-bib-0008" ref-type="ref">8</xref>, <xref rid="sct312595-bib-0012" ref-type="ref">12</xref>, <xref rid="sct312595-bib-0013" ref-type="ref">13</xref>, <xref rid="sct312595-bib-0014" ref-type="ref">14</xref>, <xref rid="sct312595-bib-0015" ref-type="ref">15</xref>
+</p><p>In the absence of systematic clinical studies, there remains a conspicuous lack of satisfactory solutions for the clinical management of this unmet medical need that greatly diminishes quality of life for cancer patients. These considerations prompted earlier investigations from our laboratory using rodent models to explore the utility of stem cell transplantation for resolving the unintended side effects of cranial radiotherapy.<xref rid="sct312595-bib-0016" ref-type="ref">16</xref>, <xref rid="sct312595-bib-0017" ref-type="ref">17</xref> These and related studies have documented the long&#x02010;term benefits of cranially transplanted human stem cells of multiple types, where evidence of functional integration within and neurotrophic support to the host brain has highlighted the potential clinical promise of such cell&#x02010;based therapies.<xref rid="sct312595-bib-0018" ref-type="ref">18</xref>, <xref rid="sct312595-bib-0019" ref-type="ref">19</xref>, <xref rid="sct312595-bib-0020" ref-type="ref">20</xref>, <xref rid="sct312595-bib-0021" ref-type="ref">21</xref> Interestingly, more recent work has found that replacing human neural stem cells (hNSCs) with stem&#x02010;cell derived extracellular vesicles (EVs) during transplantation surgery affords similar neurocognitive benefits,<xref rid="sct312595-bib-0022" ref-type="ref">22</xref> circumventing some of the more traditional concerns relating to teratoma formation and immunorejection that have hindered the translational advancement of stem cells to the clinic.</p><p>Given the prominent role that the restoration of cognitive health plays in the quality of life for survivors of brain tumors<xref rid="sct312595-bib-0023" ref-type="ref">23</xref> particularly for children, we have embarked on a more detailed examination of the impact of hNSC and EV transplantation on the structural integrity and plasticity of mature hippocampal neurons. Although previous studies analyzed how transplanted stem cells ameliorate structural alterations to neurons after chemotherapy alone,<xref rid="sct312595-bib-0024" ref-type="ref">24</xref> or how transplanted EV impact similar parameters in the irradiated brain,<xref rid="sct312595-bib-0022" ref-type="ref">22</xref> a systematic and detailed analysis of how transplanted stem cells and EV impact neuronal structure has yet to be undertaken. Furthermore, the extent and range of the beneficial effects of cell&#x02010;based therapies as a function of distance from the transplant site has yet to be investigated, factors that have important therapeutic implications for dosing and administration. Therefore, to shed light on some of these critical issues, we report on the impact of bilateral and unilateral hemisphere transplantations of hNSCs and hNSC&#x02010;derived EVs on the structural integrity of hippocampal neurons in the irradiated rodent brain.</p></sec><sec id="sct312595-sec-0004"><label>3</label><title>MATERIALS AND METHODS</title><sec id="sct312595-sec-0005"><label>3.1</label><title>Animals and irradiation</title><p>All animal procedures are in accordance with NIH and approved by the University of California Institutional Animal Care and Use Committee. Four&#x02010;month&#x02010;old male immunodeficient athymic nude (ATN) rats (Cr:NIH&#x02010;Foxn1rnu, strain 316; Charles River, San Diego) were maintained in sterile housing conditions (20&#x000b0;C&#x02009;&#x000b1;&#x02009;1&#x000b0;C; 70%&#x02009;&#x000b1;&#x02009;10% humidity; 12&#x02009;hours:12&#x02009;hours light and dark cycle) and had free access to sterilized diet and water. The ATN rats were divided into five experimental groups (N <italic>=</italic> 8&#x02010;12 per group): 0&#x02009;Gy receiving sham surgery (Con), 10&#x02009;Gy headonly irradiation receiving sham surgery (IRR), 10&#x02009;Gy headonly irradiation receiving bilateral hNSC grafting (IRR&#x02009;+&#x02009;hNSC), 10&#x02009;Gy head only irradiation receiving unilateral hNSC grafting (IRR&#x02009;+&#x02009;hNSC Contra), and 10&#x02009;Gy headonly irradiation receiving unilateral EV grafting (IRR&#x02009;+&#x02009;EV Contra). For cranial irradiation, animals were anesthetized (2.5% isoflurane), placed ventrally and unrestrained on the treatment table (XRAD 320 irradiator, Precision X&#x02010;ray, North Branford, CT), and positioned under a collimated (1.0&#x02009;cm<sup>2</sup> diameter) beam for head&#x02010;only irradiation delivered at a dose rate of 1.0&#x02009;Gy/minute.</p></sec><sec id="sct312595-sec-0006"><label>3.2</label><title>Stem cell growth and EV isolation</title><p>The use of hNSCs was approved by the Institutional Human Stem Cell Research Oversight Committee. The validation, expansion, and characterization of hNSCs (ENStem&#x02010;A; EMD Millipore) have been previously described.<xref rid="sct312595-bib-0017" ref-type="ref">17</xref>, <xref rid="sct312595-bib-0025" ref-type="ref">25</xref> EVs were isolated and purified from conditioned hNSC culture medium by ultracentrifugation<xref rid="sct312595-bib-0026" ref-type="ref">26</xref> and characterized using a ZetaView PMX 110 particle analyzer (Particle Metrix GmbH; Meerbusch, Germany).</p></sec><sec id="sct312595-sec-0007"><label>3.3</label><title>Cranial transplantation</title><p>Two days following headonly irradiation, rats received bilateral or unilateral, intrahippocampal transplantation of hNSCs or EVs suspended in vehicle (hibernation buffer) using a 33&#x02010;gauge microsyringe at an injection rate of 0.25&#x02009;mL/minute. For bilateral transplants, each hippocampus received four distinct injections of live hNSCs (1&#x02009;&#x000d7;&#x02009;10<sup>5</sup> in 2&#x02009;&#x003bc;L) per hemisphere using precise stereotaxic coordinates, as described previously.<xref rid="sct312595-bib-0016" ref-type="ref">16</xref> For unilateral transplants, each hippocampus received four distinct injections of hNSCs (1&#x02009;&#x000d7;&#x02009;10<sup>5</sup> in 2&#x02009;&#x003bc;L) or EVs (~1.0&#x02009;&#x000d7;&#x02009;10<sup>8</sup> in 2&#x02009;&#x003bc;L) into a single hemisphere using the same stereotaxic coordinates. Sham surgery controls received an equal volume of sterile hibernation buffer at the same stereotaxic injection coordinates. All cohorts were anesthetized using isoflurane/oxygen (5% (vol/vol) induction, 2.5% (vol/vol) maintenance; VetEquip).</p></sec><sec id="sct312595-sec-0008"><label>3.4</label><title>Morphometric analyses of neurons</title><p>Animals were euthanized and perfused with 4% paraformaldehyde (Acros Organics, Geel, Belgium), and brain tissues were processed for coronal sectioning using a cryostat (Leica Microsystems, Wetzlar, Germany). For morphometric analyses brain sections (150&#x02009;&#x003bc;m) from each cohort (N <italic>=</italic> 4&#x02010;5 per group) were subjected to Golgi&#x02010;Cox impregnation and staining of neurons according to the manufacturer's instructions (SuperGolgi kit, Bioenno Tech., Santa Ana, California) and counterstained by nuclear fast red to visualize hippocampal subregions. Details regarding the inclusion criteria for selecting mature neurons for morphometric analysis in the hippocampal DG have been described previously.<xref rid="sct312595-bib-0024" ref-type="ref">24</xref> Briefly, apical and basal dendrites of neurons were traced using NeuroLucida (MicroBrightField) within the DG and CA1 subfields of the hippocampus (CA1 data are provided in the <xref rid="sct312595-supitem-0001" ref-type="supplementary-material">Supporting Information</xref>). All analyses were conducted blind from coded slides. Dendritic complexity was determined by the following equation (&#x02211; branch tip orders + number of branch tips)&#x02009;&#x000d7;&#x02009;(total dendritic length/total number of primary dendrites).</p><p>The Stereoinvestigator program (v11, MicroBrightField) was used for the quantification of dendritic spines from the same set of tissues used for morphometric analyses. Briefly, serial sections (every third) through the entire hippocampus were chosen to analyze potential differences in spine density between each of the experimental cohorts (N <italic>=</italic> 3 per group). Further details regarding these procedures have been published previously.<xref rid="sct312595-bib-0024" ref-type="ref">24</xref>
+</p></sec><sec id="sct312595-sec-0009"><label>3.5</label><title>Extraction and ELISA for measurement of neurotrophins</title><p>Rats receiving unilateral intrahippocampal transplantation of hNSC&#x02010;derived EVs or sham surgery were euthanized at 4&#x02009;weeks after surgery using isoflurane anesthesia. Brains were immediately extracted from the skull (N = 6&#x02010;8 per group) and the hippocampus was dissected from each cerebral hemisphere. Each hippocampus was weighed and transferred into 300&#x02009;&#x003bc;L ice&#x02010;cold lysis buffer (N&#x02010;PER Neuronal Protein Extraction Reagent, Thermo Scientific Product number 23225) containing sodium orthovanadate (0.5&#x02009;mM), pheyl&#x02010;methylsulfonyl fluoride (PMSF, 1&#x02009;mM), aprotinin (10&#x02009;&#x003bc;g/mL), and leupeptin (1&#x02009;&#x003bc;g/mL; Santa Cruz Biotechnology, Santa Cruz, California, <ext-link ext-link-type="uri" xlink:href="http://www.scbt.com">http://www.scbt.com</ext-link>). Tissues were sonicated individually, centrifuged at 4&#x000b0;C and the supernatants were collected and diluted 1:5 with Dulbecco's phosphate&#x02010;buffered saline. The supernatants were acidified to pH&#x02009;2.6 then neutralized to pH&#x02009;7.6, and the BDNF and GDNF levels were assayed using E<sub>max</sub> ImmunoAssay Systems from Promega (BDNF catalog number G7611, GDNF catalog number G7621) and uncoated ELISA plates (Biolegend Nunc MaxiSorp, catalog number 423501). All measurements were performed at a wavelength of 450&#x02009;&#x003bc;m on a microplate reader (BioTek Synergy Mx).</p></sec><sec id="sct312595-sec-0010"><label>3.6</label><title>Immunostaining of PSD&#x02010;95 and activated microglia</title><p>Brains from experimental cohorts not subjected to Golgi&#x02010;Cox impregnation were prepared for immunohistochemical analyses (N <italic>=</italic> 4&#x02010;6 per group) on serial sections (30&#x02009;&#x003bc;m, 2&#x02010;4 sections per animal), and the open blade and enclosed blade of the CA1 of the hippocampus for each section were imaged through the stratum radiatum. Analysis of PSD&#x02010;95 was performed using the spot tool (Imaris software suite (v7.6, Bitplane, Inc., Z&#x000fc;rich, Switzerland). To quantify the density of PSD&#x02010;95, the number of PSD&#x02010;95 puncta was converted to spots, derived from confocal Z&#x02010;stacks taken in 0.5&#x02009;&#x003bc;m steps at &#x000d7;60 magnification. The &#x0201c;spot quality threshold&#x0201d; and &#x0201c;minimum spot diameter&#x0201d; parameters were manually adjusted to optimize puncta detection and kept constant thereafter for all subsequent analyses. Additional details regarding the quantification of synaptic puncta have been described previously.<xref rid="sct312595-bib-0015" ref-type="ref">15</xref>
+</p><p>Immunostaining for activated microglia (ED&#x02010;1<sup>+</sup> cells) was carried out on serial sections (30&#x02009;&#x003bc;m coronal) as described previously.<xref rid="sct312595-bib-0024" ref-type="ref">24</xref> Sections were mounted on gelatin&#x02010;coated slides, air&#x02010;dried, dehydrated, and counterstained with nuclear fast red (Vector Labs, Burlingame, California). The number of activated microglia (ED1+) within the DH, GCL, and CA3/CA1 regions of hippocampus were analyzed by stereology.</p></sec><sec id="sct312595-sec-0011"><label>3.7</label><title>EV labeling</title><p>For in vivo tracking, EVs were labeled with PKH26 (Sigma&#x02010;Aldrich, St. Louis, Missouri, <ext-link ext-link-type="uri" xlink:href="http://www.sigmaaldrich.com">http://www.sigmaaldrich.com</ext-link>, PKH26GL) the day before transplantation. The EVs were then resuspended in Diluent C, then incubated with Dye Solution for 2&#x02009;minutes with intermittent mixing as per the manufacturer's protocol. The dye was quenched with 1% bovine serum albumin in water, and EVs were isolated through ultracentrifugation<xref rid="sct312595-bib-0027" ref-type="ref">27</xref> and washed.</p></sec><sec id="sct312595-sec-0012"><label>3.8</label><title>Labeled EV tracking and quantification</title><p>Animals were euthanized and perfused with 4% paraformaldehyde (Acros Organics), and brain tissues were processed for coronal sectioning using a cryostat (Leica Microsystems). Four serial sections (30&#x02009;&#x003bc;m, every 10th section) were stained with DAPI and imaged using a confocal microscope at &#x000d7;40 magnification. Five images were collected for both the ipsilateral and contralateral hippocampi from each section to image the CA1 pyramidal cell layer. Analysis was performed using the spot tool (Imaris software suite (v7.6, Bitplane, Inc.). To quantify the density of EVs, the number of EVs was converted into spots, derived from confocal Z&#x02010;stacks taken in 1&#x02009;&#x003bc;m steps at &#x000d7;40 magnification.</p></sec><sec id="sct312595-sec-0013"><label>3.9</label><title>Statistics</title><p>All statistical analyses were conducted using PASW Statistics 18 (SPSS, IBM Corporation) and GraphPad Prism (v6). Significance between the groups was assessed using one&#x02010;way analysis of variance (ANOVA), and when overall group effects were found, individual groups were then subjected to Bonferroni's multiple comparisons test. All analyses considered a value of <italic>P</italic>&#x02009;&#x02264;&#x02009;.05 to be statistically significant.</p></sec></sec><sec id="sct312595-sec-0014"><label>4</label><title>RESULTS</title><sec id="sct312595-sec-0015"><label>4.1</label><title>Radiation&#x02010;induced cognitive dysfunction following intrahippocampal stem cell transplantation: The impact on irradiated versus control cohorts</title><p>Past work from our laboratory has clearly demonstrated the neurocognitive benefits of hNSCs cranially transplanted in the irradiated brain.<xref rid="sct312595-bib-0016" ref-type="ref">16</xref>, <xref rid="sct312595-bib-0017" ref-type="ref">17</xref>, <xref rid="sct312595-bib-0018" ref-type="ref">18</xref>, <xref rid="sct312595-bib-0019" ref-type="ref">19</xref>, <xref rid="sct312595-bib-0020" ref-type="ref">20</xref>, <xref rid="sct312595-bib-0021" ref-type="ref">21</xref> We have also shown that the benefits of such approaches have been limited to ameliorating deficits caused by irradiation, where unirradiated controls were not found to exhibit improved behavioral performance (Figure <xref rid="sct312595-supitem-0002" ref-type="supplementary-material">S1</xref>, adapted from<xref rid="sct312595-bib-0017" ref-type="ref">17</xref>). For this reason, and the fact that stem cell grafting of &#x0201c;normal&#x0201d; controls is clinically irrelevant, we chose to omit this group from subsequent analyses.</p></sec><sec id="sct312595-sec-0016"><label>4.2</label><title>Tracking EVs following unilateral intrahippocampal transplantation</title><p>To determine whether EVs migrate to the contralateral hemisphere following unilateral engraftment, PKH26&#x02010;labeled red fluorescent EVs were transplanted into one hemisphere (hippocampus), and the animals were euthanized 48&#x02009;hours following surgery (Figure <xref rid="sct312595-fig-0001" ref-type="fig">1</xref>). Numerous EVs were found migrating to the pyramidal region of the ipsilateral hippocampus relative to the transplantation sites (5.99&#x02009;&#x003bc;m<sup>3</sup> per 10&#x02009;mm<sup>3</sup>). More importantly, EVs were also present in the contralateral CA1 region near the pyramidal cell layer (3.50&#x02009;&#x003bc;m<sup>3</sup> per 10&#x02009;mm<sup>3</sup>). Quantification of EVs in the CA1 pyramidal cell layer of four serial sections throughout the hippocampus demonstrated a similar number of EVs on the ipsilateral and contralateral sides (<italic>P</italic> = .0618), although there is a trend toward fewer EVs that had migrated across the brain to the contralateral hippocampus relative to the ipsilateral hippocampus. These data demonstrate that unilaterally transplanted EVs can migrate throughout the irradiated brain, with the potential to deliver widespread neurotrophic support.</p><fig fig-type="Figure" xml:lang="en" id="sct312595-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>In vivo tracking of cranially grafted extracellular EV. Dye&#x02010;loaded EVs were grafted unilaterally 2&#x02009;days following irradiation, and coronal brain sections were imaged to detect the presence of EV on each side of the brain 2&#x02009;days afterward. EV loaded with dye exhibited a strong signal (red) in the ipsilateral CA1 of the hippocampus with migration to the pyramidal cell layer 48&#x02009;hours later. Analysis of the contralateral side revealed a detectable presence of fluorescently labeled EV near the CA1 pyramidal cell layer at this same time postsurgery. Quantification of EV throughout the CA1 pyramidal cell layer of the hippocampus (4 serial sections, every 10th section) showed similar volume of EV on the ipsilateral and contralateral sides relative to transplantation site. Confocal <italic>z</italic> stacks were collected at &#x000d7;40 magnification. Scale bars, 20 and 100&#x02009;&#x003bc;m, respectively. EV, extracellular vesicles; pyr, pyramidal cell layer; sr, stratum radiatum; ts, transplant site</p></caption><graphic id="nlm-graphic-3" xlink:href="SCT3-9-93-g001"/></fig></sec><sec id="sct312595-sec-0017"><label>4.3</label><title>Structural plasticity of neurons following irradiation and stem cell&#x02010;based transplantation</title><p>Past work has shown that stem cell transplantation preserved the host&#x02010;neuronal morphology in the chemotherapy&#x02010;treated brain.<xref rid="sct312595-bib-0024" ref-type="ref">24</xref> Furthermore, EVs transplanted in the irradiated brain were found to be equally protective in preserving the structure of hippocampal neurons.<xref rid="sct312595-bib-0022" ref-type="ref">22</xref> Despite these recent findings, we have not directly tested the impact of stem cell transplantation on the structural integrity of irradiated neurons, nor have we evaluated the distal effects from the site of transplantation. Therefore, the dendritic structure of Golgi&#x02010;Cox impregnated granule cell neurons in the dentate gyrus of the hippocampus was analyzed after irradiation and following bilateral and unilateral hNSCs and hNSC&#x02010;derived EV transplantation paradigms (1 month after transplantation). Compared with controls, at 1 month, the neuronal complexity and spine density are severely compromised in the irradiated hippocampus that is reversed in the brain receiving bilateral hNSC transplantation (Figure <xref rid="sct312595-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="sct312595-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Bilateral transplantation of human neural stem cells (hNSCs) preserves host neuronal morphology in the dentate gyrus following irradiation. Four&#x02010;month&#x02010;old athymic nude rats received 10&#x02009;Gy head&#x02010;only x&#x02010;ray irradiation, followed by sham surgery or bilateral hNSC transplantation. Golgi&#x02010;Cox staining was performed 1&#x02009;month after irradiation and transplantation. A, D, and G, Panoramic images of the hippocampus of control, irradiated, and irradiated + bilateral hNSC transplanted animals, respectively. B, E, and H, Images of granular cell layer neurons in the dentate gyrus of control, irradiated, and irradiated + bilateral hNSC transplanted animals, respectively. C, F, and I, Images of dendritic spines of granular cell layer neurons of control, irradiated, and irradiated + bilateral hNSC transplanted animals, respectively. Images from irradiated + bilateral hNSC transplanted animals are also representative of sections from animals who received unilateral transplantation of hNSCs or extracellular vesicles (EVs). The bright&#x02010;field images were collected at &#x000d7;4 (A, D, G), &#x000d7;40 (B, E, H), and &#x000d7;100 (C, F, I) magnifications. Scale bar, 100&#x02009;&#x003bc;m (A, D, G) and 20&#x02009;&#x003bc;m (B, E, H)</p></caption><graphic id="nlm-graphic-5" xlink:href="SCT3-9-93-g002"/></fig><p>Significant differences between groups were found (one&#x02010;way ANOVA, F(4,14) = 12.34, <italic>P</italic> = .0002), and compared with controls (Figure <xref rid="sct312595-fig-0003" ref-type="fig">3</xref>), irradiated granule cell neurons exhibited significant reductions (&#x0003e;50%, <italic>P</italic> = .0075) in the dendritic complexity. Bilateral transplantation of hNSCs preserved host neuronal structure 1&#x02009;month following irradiation, with a statistically significant increase in dendritic complexity compared with the irradiated group (F(4,14) = 12.34, <italic>P</italic> = .0005), whereas granule cell neurons from controls and from irradiated animals receiving bilateral hNSC transplantation were morphologically and statistically indistinguishable (F(4,14) = 12.34, <italic>P</italic> = .9721) (Figure <xref rid="sct312595-fig-0003" ref-type="fig">3</xref>). Additional studies comparing control, irradiated, and cohorts bilaterally transplanted with hNSCs demonstrated that the neuroprotective effects of grafted hNSCs in the dentate gyrus extend to 4&#x02009;months, as dendritic complexity is significantly elevated in the transplanted brain compared with irradiated cohorts (F(2,10) = 26.25, <italic>P</italic> = .0001), and statistically indistinguishable from controls (F(2,10) = 26.25, <italic>P</italic> = .7078) (Figure <xref rid="sct312595-supitem-0003" ref-type="supplementary-material">S2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="sct312595-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Unilateral transplantation of human neural stem cells (hNSCs) or hNSC&#x02010;derived extracellular vesicles (EVs) protects dendritic complexity in the contralateral dentate gyrus following irradiation. Four&#x02010;month&#x02010;old athymic nude rats received 10&#x02009;Gy head&#x02010;only x&#x02010;ray irradiation or sham irradiation/surgery (Control), bilateral or unilateral hNSC transplantation, or unilateral transplantation of hNSC&#x02010;derived EV. Golgi&#x02010;Cox staining was performed 1&#x02009;month after irradiation and morphometric analysis of dendritic complexity of granular cell layer neurons was calculated using Neurolucida. A, Dendritic length of granular cell layer neurons in the dentate gyrus. B, Dendritic volume of granular cell layer neurons. C, Quantification of dendritic endings of traced granular cell neurons. D, Computed dendritic complexity for traced granular cell neurons. Irradiation (IRR) resulted in a significant decrease in dendritic complexity relative to control animals, and bilateral (IRR&#x02009;+&#x02009;hNSC) and unilateral (IRR&#x02009;+&#x02009;hNSC Contra) transplantation of hNSCs and unilateral transplantation of EVs (IRR&#x02009;+&#x02009;EV Contra) rescued complexity. Data are presented as the mean&#x02009;&#x000b1;&#x02009;SEM (N = 4 animals/group, 4 neurons traced per animal). <italic>P</italic>&#x02010;values are derived from analysis of variance and Bonferroni's multiple comparisons test. *, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.05; **, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.01; ***, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.001 all compared against the irradiated group</p></caption><graphic id="nlm-graphic-7" xlink:href="SCT3-9-93-g003"/></fig><p>Our past studies<xref rid="sct312595-bib-0022" ref-type="ref">22</xref> have shown that hippocampal transplantation of hNSC&#x02010;derived EVs alleviated radiation&#x02010;induced microglial activation distal to the transplantation sites (amygdala). To assess the spatial reach of beneficial effects to host brain neuronal structure, unilateral transplantations of hNSCs or EVs were performed. Analysis of neuronal morphology in the contralateral hippocampus revealed that both hNSC and EV transplantations exerted far&#x02010;reaching neuroprotective effects (Figure <xref rid="sct312595-fig-0003" ref-type="fig">3</xref>). Significant overall group effects were found (F(4,14) = 12.34, <italic>P</italic> = .0002) as the impact of unilateral transplantation using either hNSCs (F(4,14) = 12.34, <italic>P</italic> = .012) or EVs (F(4,14) = 12.34, <italic>P</italic> = .0002) preserved dendritic complexity in the irradiated brain compared with the sham surgery irradiated cohort (Figure <xref rid="sct312595-fig-0003" ref-type="fig">3</xref>D). The morphology of the contralateral granule cell neurons resembled that of controls and was statistically indistinguishable for unilateral transplantation of both hNSCs (F(4,14) = 12.34, <italic>P</italic>&#x02009;&#x0003e;&#x02009;.9999) and EVs (F(4,14) = 12.34, <italic>P</italic> = .7315), demonstrating that hNSC or EV grafting could protect host neurons against radiation&#x02010;induced degradation at sites distal to the region of transplantation. There were no statistically significant differences in dendritic complexity between bilateral and unilateral transplantation of hNSCs (F(4,14) = 12.34, <italic>P</italic> = .3938], between unilateral transplantation of hNSCs and unilateral transplantation of EVs (F(4,14) = 12.34, <italic>P</italic>&#x02009;&#x0003e;&#x02009;.9999], or between bilateral transplantation of hNSCs and unilateral transplantation of EVs (F(4,14) = 12.34, <italic>P</italic> = .3943].</p><p>To complement the dendritic complexity measurements, analysis of higher resolution images (eg, Figure <xref rid="sct312595-fig-0002" ref-type="fig">2</xref>C,F,I) was undertaken to assess the impact of the transplantation paradigms on dendritic spine density. Significant overall group effects were found (F(4,10) = 5.844, <italic>P</italic> = .0109), and consistent with past results,<xref rid="sct312595-bib-0024" ref-type="ref">24</xref> irradiation significantly reduced overall dendritic spine density compared with unirradiated controls (F(4,10) = 5.844, <italic>P</italic> = .0286) 1&#x02009;month following exposure (Figure <xref rid="sct312595-fig-0004" ref-type="fig">4</xref>). Importantly, significant group differences were found between irradiated and transplanted cohorts, where bilateral transplantation of hNSCs was found to restore dendritic spine density against radiation&#x02010;induced depletion (F(4,10) = 5.844, <italic>P</italic> = .0251). Dendritic spine density levels in animals receiving bilateral hNSC transplantation were similar to that of control animals (F(4,10) = 5.844, <italic>P</italic>&#x02009;&#x0003e;&#x02009;.9999). Assessment of spine densities in the contralateral hippocampus following unilateral transplantation of hNSCs or EVs showed an increase in spine density along granule cell dendrites compared with irradiated cohorts, but these positive trends did not reach statistical significance (Figure <xref rid="sct312595-fig-0004" ref-type="fig">4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="sct312595-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Bilateral transplantation of human neural stem cells (hNSCs) rescues the radiation&#x02010;induced reduction in dendritic spine density in the dentate gyrus (DG). Four&#x02010;month&#x02010;old athymic nude rats received 10&#x02009;Gy head&#x02010;only x&#x02010;ray irradiation or sham irradiation/surgery (Con), bilateral or unilateral hNSC transplantation, or unilateral transplantation of hNSC&#x02010;derived extracellular vesicles (EVs). Quantification of dendritic spines along Golgi&#x02010;Cox impregnated granule cell neurons 1&#x02009;month after irradiation revealed that bilateral hNSC transplantation (IRR&#x02009;+&#x02009;hNSC) rescued spine density in the dentate gyrus from the reduction seen in irradiated animals (IRR). Unilateral transplantation of hNSC (IRR&#x02009;+&#x02009;hNSC Contra) and hNSC&#x02010;derived EV (IRR&#x02009;+&#x02009;EV Contra) showed a trend toward increasing dendritic spine density in the contralateral DG relative to the irradiated brain, but failed to reach statistical significance. Data are presented as the mean&#x02009;&#x000b1;&#x02009;SEM (N = 4 animals/group, three sections per animal). <italic>P</italic>&#x02010;values are derived from analysis of variance and Bonferroni's multiple comparisons test. *, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.05 compared against the irradiated group</p></caption><graphic id="nlm-graphic-9" xlink:href="SCT3-9-93-g004"/></fig></sec><sec id="sct312595-sec-0018"><label>4.4</label><title>Neurotrophin levels in the hippocampus following irradiation and unilateral stem cell&#x02010;derived EV transplantation</title><p>In the next experiment, we sought to interrogate potential mechanisms by which unilateral transplantation of EVs conferred benefits to the CNS. Brain&#x02010;derived neurotrophic factor (BDNF) and glial cell line&#x02010;derived neurotrophic factor (GDNF) levels were assayed in both the ipsilateral and contralateral hemispheres of the hippocampus following irradiation and surgery. The levels of BDNF were unchanged 4&#x02009;weeks following irradiation with and without unilateral EV transplantation (F(3,16) = &#x02212;0.4619, <italic>P</italic> = .7128) (Figure <xref rid="sct312595-fig-0005" ref-type="fig">5</xref>A). However, GDNF levels were reduced in the irradiated brain (F(3,18) = 8.989, <italic>P</italic> = .0015), and restored following unilateral EV transplantation on the ipsilateral site relative to GDNF levels of irradiated animals (F(3,18) = 8.989, <italic>P</italic> = .0035) (Figure <xref rid="sct312595-fig-0005" ref-type="fig">5</xref>B). The GDNF levels in the ipsilateral hippocampus of animals receiving unilateral EV transplantation were statistically similar to those of control animals (F(3,18) = 8.989, <italic>P</italic>&#x02009;&#x0003e;&#x02009;.999). The GDNF levels in the contralateral hippocampus of transplanted animals were increased compared with the irradiated hippocampus, but this elevation was not statistically significant (F(3,18) = 8.989, <italic>P</italic> = .4958). These data suggest that the beneficial effects of grafted EVs in the irradiated brain may in part be due to a restoration of neurotrophic factors.</p><fig fig-type="Figure" xml:lang="en" id="sct312595-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Unilateral transplantation of human neural stem cell&#x02010;derived extracellular vesicles (EVs) modulate glial cell line&#x02010;derived neurotrophic factor (GDNF) in the irradiated hippocampus. Two&#x02010;month&#x02010;old athymic nude rats received 10&#x02009;Gy head&#x02010;only x&#x02010;ray irradiation (IRR) or sham irradiation/ surgery (Control) or unilateral transplantation of hNSC&#x02010;derived EV. Animals were euthanized at 4&#x02009;weeks after surgery and neurotrophic growth factor levels were assessed (N = 6&#x02010;8 per group). A, Brain&#x02010;derived neurotrophic factor (BDNF) levels in the control, irradiated, ipsilateral transplanted (IRR&#x02009;+&#x02009;EV Ipsi), and contralateral (IRR&#x02009;+&#x02009;EV Contra) hippocampus remained relatively unaffected by EV grafting. B, In contrast, GDNF levels that were reduced by irradiation were recovered on the ipsilateral side after EV grafting. On the contralatral side, EV grafting only showed trends toward improvement. <italic>P</italic>&#x02010;values are derived from analysis of variance and Bonferroni's multiple comparisons test. *, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.05 each compared against the irradiated group</p></caption><graphic id="nlm-graphic-11" xlink:href="SCT3-9-93-g005"/></fig></sec><sec id="sct312595-sec-0019"><label>4.5</label><title>Synaptic signaling protein levels after irradiation and stem cell&#x02010;based transplantation</title><p>The ability of irradiation to compromise neuronal morphology is also linked with the disruption of synaptic protein expression. Our past data have shown that radiation exposure elicits a marked rise in the level of PSD&#x02010;95 in the hippocampal dentate gyrus.<xref rid="sct312595-bib-0015" ref-type="ref">15</xref> Present results corroborate those past findings, as significant overall group effects were found (F(4,174) = 7.393, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.0001), and demonstrate that following cranial irradiation, levels of PSD&#x02010;95 are significantly elevated compared with unirradiated controls (F(4,174) = 7.393, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.0001; Figure <xref rid="sct312595-fig-0006" ref-type="fig">6</xref>). Interestingly, both transplantation paradigms were found to reduce the radiation&#x02010;induced increase in PSD&#x02010;95 levels. Bilateral (F(4,174) = 7.393, <italic>P</italic> = .0003) and unilateral transplantation paradigms using either hNSCs (F(4,174) = 7.393, <italic>P</italic> = .002) or EVs (F(4,174) = 7.393, <italic>P</italic> = .0005) were all effective at attenuating the rise in PSD&#x02010;95 observed in the irradiated brain (Figure <xref rid="sct312595-fig-0006" ref-type="fig">6</xref>D). There were no significant differences in PSD&#x02010;95 levels of the dentate gyrus between bilateral versus unilateral hNSC transplantation (F(4,174) = 7.393, <italic>P</italic>&#x02009;&#x0003e;&#x02009;.9999), between unilateral transplantation of hNSCs versus EVs (F(4,174) = 7.393, <italic>P</italic>&#x02009;&#x0003e;&#x02009;.9999), and between bilateral transplantation of hNSCs versus unilateral transplantation of EVs (F(4,174) = 7.393, <italic>P</italic>&#x02009;&#x0003e;&#x02009;.9999); the control levels of PSD&#x02010;95 were also statistically indistinguishable from that of the bilateral hNSC transplantation group (F(4,174) = 7.393, <italic>P</italic>&#x02009;&#x0003e;&#x02009;.9999), the unilateral hNSC transplantation group (F(4,174) = 7.393, <italic>P</italic> = .093), and the unilateral EV transplantation group (F(4,174) = 7.393, <italic>P</italic> = .1791). These data provide the first evidence that increased levels of PSD&#x02010;95 found after radiation exposure can be restored back to the control level by engraftment of hNSCs or hNSC&#x02010;derived EVs, and provide further support for the neuromodulatory role of this therapeutic strategy in the irradiated brain.</p><fig fig-type="Figure" xml:lang="en" id="sct312595-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>The numbers of PSD&#x02010;95 puncta are increased after irradiation and were attenuated by unilateral transplantation of human neural stem cells (hNSCs) or unilateral transplantation of hNSC&#x02010;derived extracellular vesicles (EVs) in the contralateral hemisphere. Bilateral transplantation of hNSCs also attenuates radiation&#x02010;induced increases in PSD&#x02010;95 puncta. Four&#x02010;month&#x02010;old athymic nude rats received 10&#x02009;Gy head&#x02010;only x&#x02010;ray irradiation or sham irradiation/ surgery (control), bilateral or unilateral hNSC transplantation, or unilateral transplantation of hNSC&#x02010;derived EV. A&#x02010;C, Representative immunofluorescence images showing PSD&#x02010;95 foci (red) in the (A) control, (B) irradiated, and (C) bilateral hNSC&#x02010;grafted hippocampal CA1. PSD&#x02010;95 puncta are dramatically elevated in the sr following irradiation (IRR) as compared with the control group (Con). Transplantation of hNSCs, either bilaterally (IRR&#x02009;+&#x02009;hNSC) or unilaterally (IRR&#x02009;+&#x02009;hNSC Contra), and hNSC&#x02010;derived EV unilaterally (IRR&#x02009;+&#x02009;EV Contra) ameliorate elevated PSD&#x02010;95 in the CA1 both ipsi&#x02010; and contra&#x02010;lateral to the sites of transplantation. D, Quantification of total PSD&#x02010;95 synaptic puncta in the CA1 of control, irradiated, and transplanted animals, analyzed using the spot tool of the Imaris software suite. Data are presented as the mean&#x02009;&#x000b1;&#x02009;SEM (N = 4 animals/group, two sections stained and analyzed per animal). <italic>P</italic>&#x02010;values are derived from analysis of variance and Bonferroni's multiple comparisons test. **, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.01; ***, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.001 each compared against the irradiated group. Confocal <italic>z</italic> stacks were collected at &#x000d7;40 magnification. Scale bar, 20&#x02009;&#x003bc;m (A&#x02010;C). pyr, pyramidal cell layer; sr, striatum radiatum</p></caption><graphic id="nlm-graphic-13" xlink:href="SCT3-9-93-g006"/></fig></sec><sec id="sct312595-sec-0020"><label>4.6</label><title>The impact of stem cell&#x02010;based transplantation on radiation&#x02010;induced neuroinflammation</title><p>Significant work from our group has demonstrated the ability of ionizing radiation exposure to elevate inflammation in the brain.<xref rid="sct312595-bib-0020" ref-type="ref">20</xref>, <xref rid="sct312595-bib-0022" ref-type="ref">22</xref> Microglial activation represents a reliable marker of neuroinflammation that has been shown to increase significantly in the context of various cranial irradiation paradigms.<xref rid="sct312595-bib-0009" ref-type="ref">9</xref>, <xref rid="sct312595-bib-0027" ref-type="ref">27</xref>, <xref rid="sct312595-bib-0028" ref-type="ref">28</xref> Present results support past findings and indicate that cranial irradiation induces increased numbers of activated microglia throughout distinct subfields of the hippocampus (Figure <xref rid="sct312595-fig-0007" ref-type="fig">7</xref>; F(5,14) = 16.92, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.0001). Bilateral transplantation of hNSCs was found to reduce the microglial activation throughout the hippocampus (F(5,14) = 16.92, <italic>P</italic> = .0004), with the most significant effect in the dentate gyrus (F(5,14) = 14.40, <italic>P</italic> = .0003; Figure <xref rid="sct312595-fig-0007" ref-type="fig">7</xref>D). Interestingly, data adapted from a prior publication<xref rid="sct312595-bib-0022" ref-type="ref">22</xref> for comparative purposes indicate a similar if not more pronounced benefit of bilaterally grafted EVs at reducing numbers of activated microglia in the irradiated brain to control levels (F(5,14) = 16.92, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.0001). Unilateral transplantation of hNSCs (F(5,14) = 16.92, <italic>P</italic> = .0008) or EVs (F(5,14) = 16.92, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.0001) was also found to confer significant benefits, demonstrating effective reductions in the numbers of activated microglia throughout various regions of the contralateral hippocampus (Figure <xref rid="sct312595-fig-0007" ref-type="fig">7</xref>D,E). Similar numbers of activated microglia were found in the hippocampus of bilateral and unilateral hNSC&#x02010;transplanted animals (F(5,14) = 16.92, <italic>P</italic>&#x02009;&#x0003e;&#x02009;.9999), bilateral and unilateral EV&#x02010;transplanted animals (F(5,14) = 16.92, <italic>P</italic> = .4516), animals receiving bilateral transplantation of hNSCs versus EVs (F(5,14) = 16.92, <italic>P</italic> = .9675), and animals receiving unilateral transplantation of hNSCs versus EVs (F(5,14) = 16.92, <italic>P</italic>&#x02009;&#x0003e;&#x02009;.9999). There were no statistically significant differences between the activated microglia quantification in the control group versus any of the transplanted groups, either (F(5,14) = 16.92, <italic>P</italic>&#x02009;&#x0003e;&#x02009;.9999 for control vs. bilateral hNSC transplantation; <italic>P</italic>&#x02009;&#x0003e;&#x02009;.9999 for control vs. bilateral EV transplantation; <italic>P</italic> = .7414 for control vs. unilateral hNSC transplantation; <italic>P</italic> = .9999 for control vs. unilateral EV transplantation). The ability of hNSC and EV transplantation to minimize the numbers of radiation&#x02010;induced activated microglia suggests that such strategies can play a significant role in facilitating the neurocognitive recovery of the irradiated brain.</p><fig fig-type="Figure" xml:lang="en" id="sct312595-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Either bilateral or unilateral transplantation of human neural stem cells (hNSCs), or bilateral or unilateral transplantation of hNSC&#x02010;derived extracellular vesicles (EVs) ameliorates the increase in activated microglia following irradiation, as examined in the contralateral hippocampus for unilateral transplantations. Four&#x02010;month&#x02010;old athymic nude rats received 10&#x02009;Gy head&#x02010;only x&#x02010;ray irradiation, sham irradiation/surgery (control) or bilateral or unilateral hNSC transplantation, or bilateral or unilateral transplantation of hNSC&#x02010;derived EV. Unbiased stereology was conducted using Neurolucida. A&#x02010;C, Representative bright&#x02010;field images depict ED&#x02010;1+ microglia (dark brown) in the (A) control, (B) irradiated, and (C) bilateral hNSC&#x02010;grafted hippocampus (dentate hilus, DH). D, Bilateral (IRR&#x02009;+&#x02009;hNSC) and unilateral (IRR&#x02009;+&#x02009;hNSC Contra) transplantation of hNSCs diminishes the number of activated microglia in hippocampal subfields (DH, granular cell layer [GCL], and CA3 and CA1), compared with the elevated activated microglia in irradiated animals (IRR) and similar to control levels, (E) and in the total hippocampus; this effect is also seen following bilateral (IRR&#x02009;+&#x02009;EV) and unilateral (IRR&#x02009;+&#x02009;EV Contra) transplantation of hNSC&#x02010;derived EV. Data are presented as the mean&#x02009;&#x000b1;&#x02009;SEM (N = 4 animals/group, three sections stained and analyzed per animal). <italic>P</italic>&#x02010;values are derived from analysis of variance and Bonferroni's multiple comparisons test. **, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.01; ***, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.001 each compared against the irradiated group. Bright&#x02010;field images were collected at &#x000d7;40 (A&#x02010;C) and &#x000d7;100 (inserts) magnification. Scale bar, 14&#x02009;&#x003bc;m (A&#x02010;C), and 7&#x02009;&#x003bc;m (inserts)</p></caption><graphic id="nlm-graphic-15" xlink:href="SCT3-9-93-g007"/></fig></sec></sec><sec id="sct312595-sec-0021"><label>5</label><title>DISCUSSION</title><p>Radiation&#x02010;induced cognitive dysfunction is a severe and unintended side effect of radiotherapy used to forestall the progression of primary and secondary CNS malignancies. Despite the many benefits of these regimens, curative treatments are limited by normal tissue tolerances that dictate dose limits to minimize unacceptable normal tissue complications. In this light, mitigation of the progressive and debilitating neurocognitive decline following treatment remains an unmet medical need that hampers the recovery and impacts quality of life of pediatric and adult cancer survivors alike.<xref rid="sct312595-bib-0014" ref-type="ref">14</xref> Much of our past work has focused on this pressing problem and demonstrated the neuroprotective benefits of cranially transplanted human stem cells<xref rid="sct312595-bib-0018" ref-type="ref">18</xref>, <xref rid="sct312595-bib-0019" ref-type="ref">19</xref> and EVs<xref rid="sct312595-bib-0022" ref-type="ref">22</xref> in the irradiated brain. Importantly, many of these past studies have subjected rodents to extensive behavioral testing, where we demonstrated significant improvements in neurocognitive outcomes at protracted times following irradiation and transplantation.<xref rid="sct312595-bib-0019" ref-type="ref">19</xref>, <xref rid="sct312595-bib-0021" ref-type="ref">21</xref> Here, we present data from a systematic study of transplanted hNSCs and EVs that implicate several of the potential routes by which stem cell&#x02010;based transplantation strategies bestow therapeutic benefits.</p><p>Precisely how irradiation impacts the brain to disrupt neurotransmission and cognitive processing has been a subject of intense investigation over the years, and many excellent reviews have described various features believed to be critical to the radioresponse of the CNS.<xref rid="sct312595-bib-0008" ref-type="ref">8</xref>, <xref rid="sct312595-bib-0012" ref-type="ref">12</xref>, <xref rid="sct312595-bib-0014" ref-type="ref">14</xref>, <xref rid="sct312595-bib-0029" ref-type="ref">29</xref> More recent evidence, however, has provided some important clues regarding the structural sensitivity of mature neurons to ionizing radiation exposure, changes that are posited to have significant functional consequences within the irradiated brain.<xref rid="sct312595-bib-0015" ref-type="ref">15</xref>, <xref rid="sct312595-bib-0030" ref-type="ref">30</xref> Since the original descriptions of the morphometric alterations observed in irradiated hippocampal neurons,<xref rid="sct312595-bib-0015" ref-type="ref">15</xref>, <xref rid="sct312595-bib-0031" ref-type="ref">31</xref> subsequent studies from multiple groups have corroborated these findings in other brain regions after exposure to a variety of radiation types.<xref rid="sct312595-bib-0027" ref-type="ref">27</xref>, <xref rid="sct312595-bib-0028" ref-type="ref">28</xref>, <xref rid="sct312595-bib-0032" ref-type="ref">32</xref>, <xref rid="sct312595-bib-0033" ref-type="ref">33</xref> Importantly, many if not all of these changes were found to persist over time, suggesting that alterations to irradiated neurons were either permanent or exhibited time constants of recovery that far exceeded the length of reported experimentation.</p><p>In fact it was the temporal coincidence of radiation&#x02010;induced cognitive impairment and dendritic degradation that suggested cause and effect, although this remained largely corollary until a series of follow&#x02010;up studies linked poor individual behavioral performance to reductions in dendritic spine density.<xref rid="sct312595-bib-0027" ref-type="ref">27</xref>, <xref rid="sct312595-bib-0028" ref-type="ref">28</xref> Although these heavy ion studies strengthened the structure function relationship between impaired cognition and altered neuronal morphometry, it was not until improvements in cognition found after stem cell&#x02010;based interventions were linked to the preservation of host neuronal structure that this idea became increasingly difficult to dismiss.<xref rid="sct312595-bib-0022" ref-type="ref">22</xref>, <xref rid="sct312595-bib-0024" ref-type="ref">24</xref> Thus, a major focus of the present work was to support this idea further, by critically determining the nature and extent of stem cell&#x02010; and EV&#x02010;based neurotrophic support in the irradiated brain.</p><p>Findings presented here provide the first evidence that cranially transplanted stem cells preserve host neuronal morphometry after irradiation. Bilateral and unilateral transplantation of hNSCs preserved the dendritic morphology in both hemispheres of the brain, demonstrating that locally transplanted stem cells can impact neurons residing 6&#x02010;8&#x02009;mm distal from the site of grafting. Similar findings were found with transplanted EVs, indicating that a likely mechanism of neurotrophic support from grafted stem cells involves the secretion of such vesicles that can mediate local and distal effects through yet&#x02010;to&#x02010;be&#x02010;defined paracrine signaling mechanisms.</p><p>Quantification of fluorescent EVs between the hemispheres was, however, not found to differ, pointing to the widespread regenerative capabilities of transplanted EVs. Dendritic spine density was also protected after the grafting procedures, although only to a significant extent after bilateral hNSC transplantation. Although the benefits of unilateral transplantation showed trends toward increased spine density, neither hNSCs nor EVs were able to increase spine densities significantly over irradiated cohorts. Noteworthy too is that past results implementing bilateral EV transplantation in the irradiated brain were also unable to demonstrate a protective effect on spine densities, despite improvements in cognition, pointing to the complexities of structure&#x02010;function relationships in the irradiated brain.<xref rid="sct312595-bib-0022" ref-type="ref">22</xref> Despite certain caveats regarding the functional importance of dendritic spines to cognition, present findings suggest that transplanted EVs might be devoid of certain bioactive cargo required for robust protection of dendritic spines, contrary to the situation with grafted hNSCs.</p><p>One of the many possible avenues that grafted EVs might impact the irradiated brain can be by modulation of endogenous neurotrophic support.<xref rid="sct312595-bib-0034" ref-type="ref">34</xref>, <xref rid="sct312595-bib-0035" ref-type="ref">35</xref> Past work from our group has shown that a significant fraction of cranially grafted human stem cells ultimately differentiate along glial lineages.<xref rid="sct312595-bib-0016" ref-type="ref">16</xref>, <xref rid="sct312595-bib-0017" ref-type="ref">17</xref>, <xref rid="sct312595-bib-0020" ref-type="ref">20</xref>, <xref rid="sct312595-bib-0024" ref-type="ref">24</xref> Neurotrophic support from grafted and/or host glial cells could augment host neuronal function by the secretion of exosomes able to provide a variety of neuroprotective benefits. Analyses of hippocampi derived from either side of the grafted brain revealed significantly elevated levels of GDNF on the ipsilateral side with trends on the contralateral side. in vitro models have demonstrated the capability of GDNF to promote axonal sprouting<xref rid="sct312595-bib-0036" ref-type="ref">36</xref> and protect neurons from transient ischemia induced damage.<xref rid="sct312595-bib-0037" ref-type="ref">37</xref> Other work in different stem cell&#x02010;based systems has noted various beneficial effects of secreted exosome&#x02010;derived GDNF.<xref rid="sct312595-bib-0038" ref-type="ref">38</xref>, <xref rid="sct312595-bib-0039" ref-type="ref">39</xref> Although such changes were not found for BDNF, data provide evidence that EV grafting is neuromodulatory, able to stimulate neurotrophic growth factors long after irradiation and surgery.</p><p>As a critical postsynaptic scaffolding protein, PSD&#x02010;95 immunostaining has proven to be a remarkably robust marker of ionizing radiation exposure in the brain, increasing after nearly every irradiation dose, type, and post&#x02010;exposure time analyzed.<xref rid="sct312595-bib-0015" ref-type="ref">15</xref>, <xref rid="sct312595-bib-0027" ref-type="ref">27</xref>, <xref rid="sct312595-bib-0028" ref-type="ref">28</xref>, <xref rid="sct312595-bib-0030" ref-type="ref">30</xref> Although the role of PSD&#x02010;95 in organizing and stabilizing postsynaptic glutamate receptors and in synapse maturation has been well studied,<xref rid="sct312595-bib-0040" ref-type="ref">40</xref> the significance of elevated PSD&#x02010;95 levels post&#x02010;irradiation remains uncertain. Importantly, radiation&#x02010;induced decrements in cognition correlate strongly with elevated PSD&#x02010;95 levels, suggesting that the renormalization of PSD&#x02010;95 found after each transplantation paradigm may have functional significance in regulating neurotransmission after the global stress of irradiation. It is tempting to speculate that changes in PSD&#x02010;95 expression alter the function of excitatory synapses, and past findings in proton irradiated mice have shown changes in the ratio of phosphorylated GluR1/R2 AMPA receptor subunits,<xref rid="sct312595-bib-0010" ref-type="ref">10</xref> although PSD&#x02010;95 levels were not measured in that work.</p><p>For decades, neuroinflammation has been implicated as one of the primary driving forces behind numerous chronic and degenerative conditions of the CNS.<xref rid="sct312595-bib-0012" ref-type="ref">12</xref>, <xref rid="sct312595-bib-0041" ref-type="ref">41</xref>, <xref rid="sct312595-bib-0042" ref-type="ref">42</xref>, <xref rid="sct312595-bib-0043" ref-type="ref">43</xref> As alluded to above, irradiation initiates a cascade of secondary reactive processes that may never completely resolve,<xref rid="sct312595-bib-0029" ref-type="ref">29</xref>, <xref rid="sct312595-bib-0044" ref-type="ref">44</xref>, <xref rid="sct312595-bib-0045" ref-type="ref">45</xref>, <xref rid="sct312595-bib-0046" ref-type="ref">46</xref> manifesting as a persistent pro&#x02010;inflammatory state associated with chronically activated microglia. The persistence of the inflammatory footprint has the potential to impact nearly all neurocognitive processes, and it comes as no surprise that radiation&#x02010;induced cognitive dysfunction is routinely associated with elevated levels of activated microglia. Findings reported here corroborate significant past data,<xref rid="sct312595-bib-0009" ref-type="ref">9</xref>, <xref rid="sct312595-bib-0020" ref-type="ref">20</xref>, <xref rid="sct312595-bib-0022" ref-type="ref">22</xref> and reveal that cranial irradiation elicits a robust increase in the number of activated microglia throughout all hippocampal subfields analyzed. Importantly, current findings indicate that bilateral hNSC transplantation significantly reduces the number of activated microglia throughout the hippocampus, supporting earlier results obtained with a different source of hNSCs.<xref rid="sct312595-bib-0020" ref-type="ref">20</xref> Furthermore, data derived from the unilateral transplantations indicate that both hNSCs and EVs exert anti&#x02010;inflammatory effects on the contralateral side of the brain. Substantial reductions in activated microglia distal to the site of transplantation provide further support for the extended range of neurotrophic support imparted by grafted hNSCs and EVs.</p></sec><sec id="sct312595-sec-0022"><label>6</label><title>CONCLUSION</title><p>Regenerative medicine holds promise for restoring tissue functionality in a variety of diseased, damaged, and aged tissues, aiming to ameliorate adverse changes while minimizing treatment complications.<xref rid="sct312595-bib-0047" ref-type="ref">47</xref> For survivors of cancer, adverse neurocognitive outcomes have become an unfortunate burden, with little promise of long&#x02010;term relief. Cranial transplantation of various human stem cell types and stem cell&#x02010;derived EVs has now been shown to impart significant neuroprotective effects within the irradiated microenvironment of the brain. Improved learning and memory may reflect any combination of the factors related to reduced neuroinflammation and preserved host neuronal morphology and synaptic machinery. Furthermore, the beneficial effects of these transplantation paradigms are likely to be enhanced through the use of EVs, as they are clearly non&#x02010;teratogenic, less immunogenic, and capable of migrating extensively throughout the irradiated brain. Although precise mechanistic links between stem cell and EV engraftment and enhanced cognition following irradiation require further elucidation, current data add to the evidence that stem cell&#x02010;based transplantation strategies may one day provide a certain fraction of cancer survivors with much sought after relief from their persisting declines in cognitive health.</p></sec><sec sec-type="COI-statement" id="sct312595-sec-0025"><title>CONFLICT OF INTEREST</title><p>The authors declare no potential conflict of interest.</p></sec><sec id="sct312595-sec-0024"><title>AUTHOR CONTRIBUTIONS</title><p>S.M.S.: collected and/or assembled data, analyzed and interpreted the data, wrote the manuscript; E.G., M.C.A., T. L., C.L., A.L.P., S.T., V.M., N.R., N.N.C., Y.L.: collected and/or assembled data; J.E.B., M.M.A.: analyzed and interpreted the data, wrote the manuscript; C.L.L.: analyzed and interpreted the data, wrote the manuscript, funded the work.</p></sec><sec sec-type="data-availability" id="sct312595-sec-0027"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="sct312595-supitem-0001"><caption><p>
+<bold>Appendix S1</bold>. Supporting Information.</p></caption><media xlink:href="SCT3-9-93-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sct312595-supitem-0002"><caption><p>
+<bold>Figure S1</bold> Bilateral transplantation with human neural stem cells (hNSCs) improves cranial irradiation (IRR)&#x02010;induced behavioral impairments. Unirradiated (0&#x02009;Gy, Control) and cranially irradiated (10&#x02009;Gy, IRR) animals received bilateral transplantation of hNSCs 48&#x02009;hours post&#x02010;IRR. Animals were administered a hippocampus&#x02010;dependent novel place recognition (NPR) task one month later. The discrimination index (DI) is calculated as [(novel location exploration time/total exploration time)&#x02009;&#x02212;&#x02009;(familiar location exploration time/total exploration time)]&#x02009;&#x000d7;&#x02009;100. The control (0&#x02009;Gy) animals receiving either sham surgery or hNSC transplantation showed a comparable DI on the NPR task. Cranial IRR led to a significant decline in performance on the NPR task whereas irradiated animals receiving hNSC transplantation showed a significant improvement (P&#x02009;&#x0003c;&#x02009;.01) in the DI at 1&#x02010;month post&#x02010;surgery. Data are shown as mean&#x02009;&#x000b1;&#x02009;S.E.M. (N = 8 animals per group). P values are derived from two&#x02010;way ANOVA. Adapted from Supplemental Reference 1.</p></caption><media xlink:href="SCT3-9-93-s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sct312595-supitem-0003"><caption><p>
+<bold>Figure S2</bold> Beneficial effects of bilateral transplantation of human neural stem cells (hNSC) on dendritic morphology in the dentate gyrus persist at four months following irradiation. Four&#x02010;month&#x02010;old athymic nude rats received 10&#x02009;Gy head&#x02010;only x&#x02010;ray irradiation (IRR) or sham irradiation/surgery (Control), or bilateral hNSC transplantation (IRR&#x02009;+&#x02009;hNSC). Golgi&#x02010;Cox staining was performed four months post&#x02010;irradiation and morphometric analysis of dendritic structure of granule cell layer neurons was characterized using Neurolucida. Exposure to radiation caused a significant decrease in dendritic length, volume, and complexity at four months following exposure. Bilateral hNSC transplantation in irradiated animals preserved dendritic length and complexity in the dentate gyrus relative to irradiated animals that received sham surgery. Data are presented as the mean&#x02009;&#x000b1;&#x02009;SEM (N = 4 animals/group, 4 neurons traced per animal). P values are derived from ANOVA and Bonferroni's multiple comparisons test. *P&#x02009;&#x0003c;&#x02009;.05; **P&#x02009;&#x0003c;&#x02009;.01; ***P&#x02009;&#x0003c;&#x02009;.001 all compared against the irradiated group.</p></caption><media xlink:href="SCT3-9-93-s003.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="sct312595-sec-0023"><title>ACKNOWLEDGMENTS</title><p>Training grant T32 NS082174 (S.M.S.), and grants from the NINDS 5R01 NS074388 (C.L.L.) and from the Defense Threat Reduction Agency HDTRA 1&#x02010;13&#x02010;1&#x02010;0022 (C.L.L.) supported this work.</p></ack><ref-list id="sct312595-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="sct312595-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="sct312595-cit-0001">
+<string-name>
+<surname>Lee</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Sonntag</surname>
+<given-names>WE</given-names>
+</string-name>. <article-title>Whole brain radiation&#x02010;induced cognitive impairment: Pathophysiological mechanisms and therapeutic targets</article-title>. <source xml:lang="en">Biomol Ther (Seoul)</source>. <year>2012</year>;<volume>20</volume>:<fpage>357</fpage>&#x02010;<lpage>370</lpage>.<pub-id pub-id-type="pmid">24009822</pub-id></mixed-citation></ref><ref id="sct312595-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="sct312595-cit-0002">
+<string-name>
+<surname>Miller</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>CC</given-names>
+</string-name>, et al. <article-title>Cancer treatment and survivorship statistics, 2016</article-title>. <source xml:lang="en">CA Cancer J Clin</source>. <year>2016</year>;<volume>66</volume>:<fpage>271</fpage>&#x02010;<lpage>289</lpage>.<pub-id pub-id-type="pmid">27253694</pub-id></mixed-citation></ref><ref id="sct312595-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="sct312595-cit-0003">
+<string-name>
+<surname>Butler</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Rapp</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>
+<given-names>EG</given-names>
+</string-name>. <article-title>Managing the cognitive effects of brain tumor radiation therapy</article-title>. <source xml:lang="en">Curr Treat Options Oncol</source>. <year>2006</year>;<volume>7</volume>:<fpage>517</fpage>&#x02010;<lpage>523</lpage>.<pub-id pub-id-type="pmid">17032563</pub-id></mixed-citation></ref><ref id="sct312595-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="sct312595-cit-0004">
+<string-name>
+<surname>Duffner</surname>
+<given-names>PK</given-names>
+</string-name>. <article-title>Long&#x02010;term effects of radiation therapy on cognitive and endocrine function in children with leukemia and brain tumors</article-title>. <source xml:lang="en">Neurologist</source>. <year>2004</year>;<volume>10</volume>:<fpage>293</fpage>&#x02010;<lpage>310</lpage>.<pub-id pub-id-type="pmid">15518596</pub-id></mixed-citation></ref><ref id="sct312595-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="sct312595-cit-0005">
+<string-name>
+<surname>Meyers</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>PD</given-names>
+</string-name>. <article-title>Role and relevance of neurocognitive assessment in clinical trials of patients with CNS tumors</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2006</year>;<volume>24</volume>:<fpage>1305</fpage>&#x02010;<lpage>1309</lpage>.<pub-id pub-id-type="pmid">16525186</pub-id></mixed-citation></ref><ref id="sct312595-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="sct312595-cit-0006">
+<string-name>
+<surname>Roman</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Sperduto</surname>
+<given-names>PW</given-names>
+</string-name>. <article-title>Neuropsychological effects of cranial radiation: current knowledge and future directions</article-title>. <source xml:lang="en">Int J Radiat Oncol Biol Phys</source>. <year>1995</year>;<volume>31</volume>:<fpage>983</fpage>&#x02010;<lpage>998</lpage>.<pub-id pub-id-type="pmid">7860415</pub-id></mixed-citation></ref><ref id="sct312595-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="sct312595-cit-0007">
+<string-name>
+<surname>Sundgren</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Brain irradiation: effects on normal brain parenchyma and radiation injury</article-title>. <source xml:lang="en">Neuroimaging Clin N Am</source>. <year>2009</year>;<volume>19</volume>:<fpage>657</fpage>&#x02010;<lpage>668</lpage>.<pub-id pub-id-type="pmid">19959011</pub-id></mixed-citation></ref><ref id="sct312595-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="sct312595-cit-0008">
+<string-name>
+<surname>Greene&#x02010;Schloesser</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Robbins</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Peiffer</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>
+<given-names>EG</given-names>
+</string-name>, <string-name>
+<surname>Wheeler</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Radiation&#x02010;induced brain injury: a review</article-title>. <source xml:lang="en">Front Oncol</source>. <year>2012</year>;<volume>2</volume>:<fpage>73</fpage>.<pub-id pub-id-type="pmid">22833841</pub-id></mixed-citation></ref><ref id="sct312595-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="sct312595-cit-0009">
+<string-name>
+<surname>Parihar</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Acharya</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Roa</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Bosch</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Christie</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Limoli</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>Defining functional changes in the brain caused by targeted stereotaxic radiosurgery</article-title>. <source xml:lang="en">Transl Cancer Res</source>. <year>2014</year>;<volume>3</volume>:<fpage>124</fpage>&#x02010;<lpage>137</lpage>.<pub-id pub-id-type="pmid">24904783</pub-id></mixed-citation></ref><ref id="sct312595-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="sct312595-cit-0010">
+<string-name>
+<surname>Parihar</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name>
+<surname>Tran</surname>
+<given-names>KK</given-names>
+</string-name>, et al. <article-title>Targeted overexpression of mitochondrial catalase prevents radiation&#x02010;induced cognitive dysfunction</article-title>. <source xml:lang="en">Antioxid Redox Signal</source>. <year>2015</year>;<volume>22</volume>:<fpage>78</fpage>&#x02010;<lpage>91</lpage>.<pub-id pub-id-type="pmid">24949841</pub-id></mixed-citation></ref><ref id="sct312595-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="sct312595-cit-0011">
+<string-name>
+<surname>Tseng</surname>
+<given-names>BP</given-names>
+</string-name>, <string-name>
+<surname>Giedzinski</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Izadi</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Functional consequences of radiation&#x02010;induced oxidative stress in cultured neural stem cells and the brain exposed to charged particle irradiation</article-title>. <source xml:lang="en">Antioxid Redox Signal</source>. <year>2014</year>;<volume>20</volume>:<fpage>1410</fpage>&#x02010;<lpage>1422</lpage>.<pub-id pub-id-type="pmid">23802883</pub-id></mixed-citation></ref><ref id="sct312595-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="sct312595-cit-0012">
+<string-name>
+<surname>Greene&#x02010;Schloesser</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Robbins</surname>
+<given-names>ME</given-names>
+</string-name>. <article-title>Molecular pathways: radiation&#x02010;induced cognitive impairment</article-title>. <source xml:lang="en">Clin Cancer Res</source>. <year>2013</year>;<volume>19</volume>:<fpage>2294</fpage>&#x02010;<lpage>2300</lpage>.<pub-id pub-id-type="pmid">23388505</pub-id></mixed-citation></ref><ref id="sct312595-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="sct312595-cit-0013">
+<string-name>
+<surname>Greene&#x02010;Schloesser</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Robbins</surname>
+<given-names>ME</given-names>
+</string-name>. <article-title>Radiation&#x02010;induced cognitive impairment&#x02013;from bench to bedside</article-title>. <source xml:lang="en">Neuro Oncol</source>. <year>2012</year>;<volume>14</volume>:<fpage>iv37</fpage>&#x02010;<lpage>iv44</lpage>.<pub-id pub-id-type="pmid">23095829</pub-id></mixed-citation></ref><ref id="sct312595-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="sct312595-cit-0014">
+<string-name>
+<surname>Makale</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Hattangadi&#x02010;Gluth</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Kesari</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Mechanisms of radiotherapy&#x02010;associated cognitive disability in patients with brain tumours</article-title>. <source xml:lang="en">Nat Rev Neurol</source>. <year>2017</year>;<volume>13</volume>:<fpage>52</fpage>&#x02010;<lpage>64</lpage>.<pub-id pub-id-type="pmid">27982041</pub-id></mixed-citation></ref><ref id="sct312595-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="sct312595-cit-0015">
+<string-name>
+<surname>Parihar</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Limoli</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>Cranial irradiation compromises neuronal architecture in the hippocampus</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2013</year>;<volume>110</volume>:<fpage>12822</fpage>&#x02010;<lpage>12827</lpage>.<pub-id pub-id-type="pmid">23858442</pub-id></mixed-citation></ref><ref id="sct312595-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="sct312595-cit-0016">
+<string-name>
+<surname>Acharya</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Christie</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Lan</surname>
+<given-names>ML</given-names>
+</string-name>, et al. <article-title>Rescue of radiation&#x02010;induced cognitive impairment through cranial transplantation of human embryonic stem cells</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2009</year>;<volume>106</volume>:<fpage>19150</fpage>&#x02010;<lpage>19155</lpage>.<pub-id pub-id-type="pmid">19901336</pub-id></mixed-citation></ref><ref id="sct312595-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="sct312595-cit-0017">
+<string-name>
+<surname>Acharya</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Christie</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Lan</surname>
+<given-names>ML</given-names>
+</string-name>, et al. <article-title>Human neural stem cell transplantation ameliorates radiation&#x02010;induced cognitive dysfunction</article-title>. <source xml:lang="en">Cancer Res</source>. <year>2011</year>;<volume>71</volume>:<fpage>4834</fpage>&#x02010;<lpage>4845</lpage>.<pub-id pub-id-type="pmid">21757460</pub-id></mixed-citation></ref><ref id="sct312595-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="sct312595-cit-0018">
+<string-name>
+<surname>Acharya</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Christie</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Lan</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Limoli</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>Comparing the functional consequences of human stem cell transplantation in the irradiated rat brain</article-title>. <source xml:lang="en">Cell Transplant</source>. <year>2013</year>;<volume>22</volume>:<fpage>55</fpage>&#x02010;<lpage>64</lpage>.<pub-id pub-id-type="pmid">22546529</pub-id></mixed-citation></ref><ref id="sct312595-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="sct312595-cit-0019">
+<string-name>
+<surname>Acharya</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Martirosian</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Christie</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Limoli</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>Long&#x02010;term cognitive effects of human stem cell transplantation in the irradiated brain</article-title>. <source xml:lang="en">Int J Radiat Biol</source>. <year>2014</year>;<volume>90</volume>:<fpage>816</fpage>&#x02010;<lpage>820</lpage>.<pub-id pub-id-type="pmid">24882389</pub-id></mixed-citation></ref><ref id="sct312595-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="sct312595-cit-0020">
+<string-name>
+<surname>Acharya</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Martirosian</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Christie</surname>
+<given-names>LA</given-names>
+</string-name>, et al. <article-title>Defining the optimal window for cranial transplantation of human induced pluripotent stem cell&#x02010;derived cells to ameliorate radiation&#x02010;induced cognitive impairment</article-title>. <source xml:lang="en">Stem Cells Translational Medicine</source>. <year>2015</year>;<volume>4</volume>:<fpage>74</fpage>&#x02010;<lpage>83</lpage>.<pub-id pub-id-type="pmid">25391646</pub-id></mixed-citation></ref><ref id="sct312595-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="sct312595-cit-0021">
+<string-name>
+<surname>Acharya</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Rosi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jopson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Limoli</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>Human neural stem cell transplantation provides long&#x02010;term restoration of neuronal plasticity in the irradiated hippocampus</article-title>. <source xml:lang="en">Cell Transplant</source>. <year>2015</year>;<volume>24</volume>:<fpage>691</fpage>&#x02010;<lpage>702</lpage>.<pub-id pub-id-type="pmid">25289634</pub-id></mixed-citation></ref><ref id="sct312595-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="sct312595-cit-0022">
+<string-name>
+<surname>Baulch</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Acharya</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>BD</given-names>
+</string-name>, et al. <article-title>Cranial grafting of stem cell&#x02010;derived microvesicles improves cognition and reduces neuropathology in the irradiated brain</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2016</year>;<volume>113</volume>:<fpage>4836</fpage>&#x02010;<lpage>4841</lpage>.<pub-id pub-id-type="pmid">27044087</pub-id></mixed-citation></ref><ref id="sct312595-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="sct312595-cit-0023">
+<string-name>
+<surname>Liu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Page</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Solheim</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>Quality of life in adults with brain tumors: current knowledge and future directions</article-title>. <source xml:lang="en">Neuro Oncol</source>. <year>2009</year>;<volume>11</volume>:<fpage>330</fpage>&#x02010;<lpage>339</lpage>.<pub-id pub-id-type="pmid">19001097</pub-id></mixed-citation></ref><ref id="sct312595-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="sct312595-cit-0024">
+<string-name>
+<surname>Acharya</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Martirosian</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Chmielewski</surname>
+<given-names>NN</given-names>
+</string-name>, et al. <article-title>Stem cell transplantation reverses chemotherapy&#x02010;induced cognitive dysfunction</article-title>. <source xml:lang="en">Cancer Res</source>. <year>2015</year>;<volume>75</volume>:<fpage>676</fpage>&#x02010;<lpage>686</lpage>.<pub-id pub-id-type="pmid">25687405</pub-id></mixed-citation></ref><ref id="sct312595-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="sct312595-cit-0025">
+<string-name>
+<surname>Acharya</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Lan</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Kan</surname>
+<given-names>VH</given-names>
+</string-name>, et al. <article-title>Consequences of ionizing radiation&#x02010;induced damage in human neural stem cells</article-title>. <source xml:lang="en">Free Radic Biol Med</source>. <year>2010</year>;<volume>49</volume>:<fpage>1846</fpage>&#x02010;<lpage>1855</lpage>.<pub-id pub-id-type="pmid">20826207</pub-id></mixed-citation></ref><ref id="sct312595-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="sct312595-cit-0026">
+<string-name>
+<surname>Thery</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Amigorena</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Raposo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Clayton</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Isolation and characterization of exosomes from cell culture supernatants and biological fluids</article-title>. <source xml:lang="en">Curr Protoc Cell Biol</source>. <year>2006</year>;<volume>Chapter 3</volume>(<issue>Unit 3</issue>):<fpage>22</fpage>.</mixed-citation></ref><ref id="sct312595-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="sct312595-cit-0027">
+<string-name>
+<surname>Parihar</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name>
+<surname>Caressi</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Cosmic radiation exposure and persistent cognitive dysfunction</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2016</year>;<volume>6</volume>:<fpage>34774</fpage>.<pub-id pub-id-type="pmid">27721383</pub-id></mixed-citation></ref><ref id="sct312595-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="sct312595-cit-0028">
+<string-name>
+<surname>Parihar</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Tran</surname>
+<given-names>KK</given-names>
+</string-name>, et al. <article-title>What happens to your brain on the way to Mars</article-title>. <source xml:lang="en">Sci Adv</source>. <year>2015</year>;<volume>1</volume>:<elocation-id>e1400256</elocation-id>.<pub-id pub-id-type="pmid">26180843</pub-id></mixed-citation></ref><ref id="sct312595-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="sct312595-cit-0029">
+<string-name>
+<surname>Tofilon</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Fike</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>The radioresponse of the central nervous system: a dynamic process</article-title>. <source xml:lang="en">Radiat Res</source>. <year>2000</year>;<volume>153</volume>:<fpage>357</fpage>&#x02010;<lpage>370</lpage>.<pub-id pub-id-type="pmid">10798963</pub-id></mixed-citation></ref><ref id="sct312595-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="sct312595-cit-0030">
+<string-name>
+<surname>Parihar</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Pasha</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tran</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Craver</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Acharya</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Limoli</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>Persistent changes in neuronal structure and synaptic plasticity caused by proton irradiation</article-title>. <source xml:lang="en">Brain Struct Funct</source>. <year>2015</year>;<volume>220</volume>:<fpage>1161</fpage>&#x02010;<lpage>1171</lpage>.<pub-id pub-id-type="pmid">24446074</pub-id></mixed-citation></ref><ref id="sct312595-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="sct312595-cit-0031">
+<string-name>
+<surname>Chakraborti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rosi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fike</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>Cranial irradiation alters dendritic spine density and morphology in the hippocampus</article-title>. <source xml:lang="en">PLoS One</source>. <year>2012</year>;<volume>7</volume>:e<fpage>40844</fpage>.</mixed-citation></ref><ref id="sct312595-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="sct312595-cit-0032">
+<string-name>
+<surname>Allen</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Raber</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chakraborti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fike</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>(56)Fe irradiation alters spine density and dendritic complexity in the mouse hippocampus</article-title>. <source xml:lang="en">Radiat Res</source>. <year>2015</year>;<volume>184</volume>:<fpage>586</fpage>&#x02010;<lpage>594</lpage>.<pub-id pub-id-type="pmid">26579941</pub-id></mixed-citation></ref><ref id="sct312595-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="sct312595-cit-0033">
+<string-name>
+<surname>Chmielewski</surname>
+<given-names>NN</given-names>
+</string-name>, <string-name>
+<surname>Caressi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Giedzinski</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Parihar</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Limoli</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>Contrasting the effects of proton irradiation on dendritic complexity of subiculum neurons in wild type and MCAT mice</article-title>. <source xml:lang="en">Environ Mol Mutagen</source>. <year>2016</year>;<volume>57</volume>:<fpage>364</fpage>&#x02010;<lpage>371</lpage>.<pub-id pub-id-type="pmid">26996825</pub-id></mixed-citation></ref><ref id="sct312595-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="sct312595-cit-0034">
+<string-name>
+<surname>Kalani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tyagi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tyagi</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Exosomes: mediators of neurodegeneration, neuroprotection and therapeutics</article-title>. <source xml:lang="en">Mol Neurobiol</source>. <year>2014</year>;<volume>49</volume>:<fpage>590</fpage>&#x02010;<lpage>600</lpage>.<pub-id pub-id-type="pmid">23999871</pub-id></mixed-citation></ref><ref id="sct312595-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="sct312595-cit-0035">
+<string-name>
+<surname>Marsh</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Blurton&#x02010;Jones</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Neural stem cell therapy for neurodegenerative disorders: the role of neurotrophic support</article-title>. <source xml:lang="en">Neurochem Int</source>. <year>2017</year>;<volume>106</volume>:<fpage>94</fpage>&#x02010;<lpage>100</lpage>.<pub-id pub-id-type="pmid">28219641</pub-id></mixed-citation></ref><ref id="sct312595-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="sct312595-cit-0036">
+<string-name>
+<surname>Kust</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Panteleev</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Mertsalov</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Availability of pre&#x02010; and pro&#x02010;regions of transgenic GDNF affects the ability to induce axonal sprout growth</article-title>. <source xml:lang="en">Mol Neurobiol</source>. <year>2015</year>;<volume>51</volume>:<fpage>1195</fpage>&#x02010;<lpage>1205</lpage>.<pub-id pub-id-type="pmid">24990318</pub-id></mixed-citation></ref><ref id="sct312595-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="sct312595-cit-0037">
+<string-name>
+<surname>Curcio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Salazar</surname>
+<given-names>IL</given-names>
+</string-name>, <string-name>
+<surname>Inacio</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name>
+<surname>Canzoniero</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>
+<given-names>CB</given-names>
+</string-name>. <article-title>Brain ischemia downregulates the neuroprotective GDNF&#x02010;Ret signaling by a calpain&#x02010;dependent mechanism in cultured hippocampal neurons</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2015</year>;<volume>6</volume>:e<fpage>1645</fpage>.</mixed-citation></ref><ref id="sct312595-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="sct312595-cit-0038">
+<string-name>
+<surname>Hofer</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Tuan</surname>
+<given-names>RS</given-names>
+</string-name>. <article-title>Secreted trophic factors of mesenchymal stem cells support neurovascular and musculoskeletal therapies</article-title>. <source xml:lang="en">Stem Cell Res Ther</source>. <year>2016</year>;<volume>7</volume>:<fpage>131</fpage>.<pub-id pub-id-type="pmid">27612948</pub-id></mixed-citation></ref><ref id="sct312595-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="sct312595-cit-0039">
+<string-name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Haney</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Gupta</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>GDNF&#x02010;transfected macrophages produce potent neuroprotective effects in Parkinson's disease mouse model</article-title>. <source xml:lang="en">PLoS One</source>. <year>2014</year>;<volume>9</volume>:<elocation-id>e106867</elocation-id>.<pub-id pub-id-type="pmid">25229627</pub-id></mixed-citation></ref><ref id="sct312595-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="sct312595-cit-0040">
+<string-name>
+<surname>Berry</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name>
+<surname>Nedivi</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Spine dynamics: Are they all the same?</article-title>
+<source xml:lang="en">Neuron</source>. <year>2017</year>;<volume>96</volume>:<fpage>43</fpage>&#x02010;<lpage>55</lpage>.<pub-id pub-id-type="pmid">28957675</pub-id></mixed-citation></ref><ref id="sct312595-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="sct312595-cit-0041">
+<string-name>
+<surname>Ekdahl</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name>
+<surname>Kokaia</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Lindvall</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Brain inflammation and adult neurogenesis: the dual role of microglia</article-title>. <source xml:lang="en">Neuroscience</source>. <year>2009</year>;<volume>158</volume>:<fpage>1021</fpage>&#x02010;<lpage>1029</lpage>.<pub-id pub-id-type="pmid">18662748</pub-id></mixed-citation></ref><ref id="sct312595-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="sct312595-cit-0042">
+<string-name>
+<surname>Ransohoff</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Innate immunity in the central nervous system</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>2012</year>;<volume>122</volume>:<fpage>1164</fpage>&#x02010;<lpage>1171</lpage>.<pub-id pub-id-type="pmid">22466658</pub-id></mixed-citation></ref><ref id="sct312595-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="sct312595-cit-0043">
+<string-name>
+<surname>Ransohoff</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>How neuroinflammation contributes to neurodegeneration</article-title>. <source xml:lang="en">Science</source>. <year>2016</year>;<volume>353</volume>:<fpage>777</fpage>&#x02010;<lpage>783</lpage>.<pub-id pub-id-type="pmid">27540165</pub-id></mixed-citation></ref><ref id="sct312595-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="sct312595-cit-0044">
+<string-name>
+<surname>Chiang</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Stalder</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Withers</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>McBride</surname>
+<given-names>WH</given-names>
+</string-name>. <article-title>Delayed molecular responses to brain irradiation</article-title>. <source xml:lang="en">Int J Radiat Biol</source>. <year>1997</year>;<volume>72</volume>:<fpage>45</fpage>&#x02010;<lpage>53</lpage>.<pub-id pub-id-type="pmid">9246193</pub-id></mixed-citation></ref><ref id="sct312595-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="sct312595-cit-0045">
+<string-name>
+<surname>Schaue</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Micewicz</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Ratikan</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>McBride</surname>
+<given-names>WH</given-names>
+</string-name>. <article-title>Radiation and inflammation</article-title>. <source xml:lang="en">Semin Radiat Oncol</source>. <year>2015</year>;<volume>25</volume>:<fpage>4</fpage>&#x02010;<lpage>10</lpage>.<pub-id pub-id-type="pmid">25481260</pub-id></mixed-citation></ref><ref id="sct312595-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="sct312595-cit-0046">
+<string-name>
+<surname>Acharya</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>BD</given-names>
+</string-name>, et al. <article-title>Elimination of microglia improves cognitive function following cranial irradiation</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2016</year>;<volume>6</volume>:<fpage>31545</fpage>.<pub-id pub-id-type="pmid">27516055</pub-id></mixed-citation></ref><ref id="sct312595-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="sct312595-cit-0047">
+<string-name>
+<surname>Benderitter</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Caviggioli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Chapel</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Stem cell therapies for the treatment of radiation&#x02010;induced normal tissue side effects</article-title>. <source xml:lang="en">Antioxid Redox Signal</source>. <year>2014</year>;<volume>21</volume>:<fpage>338</fpage>&#x02010;<lpage>355</lpage>.<pub-id pub-id-type="pmid">24147585</pub-id></mixed-citation></ref></ref-list></back></article>

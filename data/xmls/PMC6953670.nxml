@@ -1,0 +1,651 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938531</article-id><article-id pub-id-type="pmc">6953670</article-id><article-id pub-id-type="doi">10.1002/ece3.5879</article-id><article-id pub-id-type="publisher-id">ECE35879</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Recent evolutionary history predicts population but not ecosystem&#x02010;level patterns</article-title><alt-title alt-title-type="left-running-head">MILLER et al.</alt-title></title-group><contrib-group><contrib id="ece35879-cr-0001" contrib-type="author"><name><surname>Miller</surname><given-names>Madison L.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0478-950X</contrib-id><xref ref-type="aff" rid="ece35879-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35879-cr-0002" contrib-type="author"><name><surname>Kronenberger</surname><given-names>John A.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3588-7572</contrib-id><xref ref-type="aff" rid="ece35879-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35879-cr-0003" contrib-type="author" corresp="yes"><name><surname>Fitzpatrick</surname><given-names>Sarah W.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5610-9449</contrib-id><xref ref-type="aff" rid="ece35879-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35879-aff-0003">
+<sup>3</sup>
+</xref><address><email>sfitz@msu.edu</email></address></contrib></contrib-group><aff id="ece35879-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">W. K. Kellogg Biological Station</named-content>
+<institution>Michigan State University</institution>
+<city>Hickory Corners</city>
+<named-content content-type="country-part">MI</named-content>
+<country country="US">USA</country>
+</aff><aff id="ece35879-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">National Genomics Center for Wildlife and Fish Conservation</named-content>
+<institution>USDA Forest Service</institution>
+<city>Missoula</city>
+<named-content content-type="country-part">MT</named-content>
+<country country="US">USA</country>
+</aff><aff id="ece35879-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Integrative Biology</named-content>
+<institution>Michigan State University</institution>
+<city>Hickory Corners</city>
+<named-content content-type="country-part">MI</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Sarah W. Fitzpatrick, W. K. Kellogg Biological Station, Michigan State University, 3700 E. Gull Lake Drive, Hickory Corners, MI.<break/>
+Email: <email>sfitz@msu.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14442</fpage><lpage>14452</lpage><history><date date-type="received"><day>21</day><month>8</month><year>2019</year></date><date date-type="rev-recd"><day>14</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>21</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14442.pdf"/><abstract id="ece35879-abs-0001"><title>Abstract</title><p>In the face of rapid anthropogenic environmental change, it is increasingly important to understand how ecological and evolutionary interactions affect the persistence of natural populations. Augmented gene flow has emerged as a potentially effective management strategy to counteract negative consequences of genetic drift and inbreeding depression in small and isolated populations. However, questions remain about the long&#x02010;term impacts of augmented gene flow and whether changes in individual and population fitness are reflected in ecosystem structure, potentiating eco&#x02010;evolutionary feedbacks. In this study, we used Trinidadian guppies (<italic>Poecilia reticulata</italic>) in experimental outdoor mesocosms to assess how populations with different recent evolutionary histories responded to a scenario of severe population size reduction followed by expansion in a high&#x02010;quality environment. We also investigated how variation in evolutionary history of the focal species affected ecosystem dynamics. We found that evolutionary history (i.e., gene flow vs. no gene flow) consistently predicted variation in individual growth. In addition, gene flow led to faster population growth in populations from one of the two drainages, but did not have measurable impacts on the ecosystem variables we measured: zooplankton density, algal growth, and decomposition rates. Our results suggest that benefits of gene flow may be long&#x02010;term and environment&#x02010;dependent. Although small in replication and duration, our study highlights the importance of eco&#x02010;evolutionary interactions in determining population persistence and sets the stage for future work in this area.</p></abstract><abstract abstract-type="graphical" id="ece35879-abs-0002"><p>We used the model Trinidadian guppy system to investigate how evolutionary history (i.e., drift vs. gene flow) impacts individual and population growth rates in a novel environment. We also tested whether evolutionary history affects ecosystem variables. Our results suggest that a history of gene flow increases individual and population growth, but does not necessarily scale to the ecosystem level.<boxed-text position="anchor" content-type="graphic" id="ece35879-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14442-g004.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35879-kwd-0001">eco&#x02010;evolutionary dynamics</kwd><kwd id="ece35879-kwd-0002">gene flow</kwd><kwd id="ece35879-kwd-0003">genetic drift</kwd><kwd id="ece35879-kwd-0004">genetic rescue</kwd><kwd id="ece35879-kwd-0005">population dynamics</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Michigan State University </institution><institution-id institution-id-type="open-funder-registry">10.13039/100007709</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="11"/><word-count count="9000"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35879-cit-1001">
+<string-name>
+<surname>Miller</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Kronenberger</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Fitzpatrick</surname>
+<given-names>SW</given-names>
+</string-name>. <article-title>Recent evolutionary history predicts population but not ecosystem&#x02010;level patterns</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14442</fpage>&#x02013;<lpage>14452</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5879</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35879-body-0001"><sec id="ece35879-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Evolution and ecology were historically assumed to operate on different timescales (Slobodkin, <xref rid="ece35879-bib-0055" ref-type="ref">1961</xref>). However, empirical evidence increasingly shows that evolutionary processes can occur quickly enough to influence contemporary population, community, and ecosystem dynamics (Carroll, Hendry, Reznick, &#x00026; Fox, <xref rid="ece35879-bib-0009" ref-type="ref">2007</xref>; Hairston, Ellner, Geber, Yoshida, &#x00026; Fox, <xref rid="ece35879-bib-0022" ref-type="ref">2005</xref>; Harmon et al., <xref rid="ece35879-bib-0023" ref-type="ref">2009</xref>; Yoshida, Jones, Ellner, Fussmann, &#x00026; Hairston, <xref rid="ece35879-bib-0066" ref-type="ref">2003</xref>). Most research in the field of eco&#x02010;evolutionary dynamics focuses on evolution via natural selection (Lowe, Kovach, &#x00026; Allendorf, <xref rid="ece35879-bib-0038" ref-type="ref">2017</xref>). For example, Darwin's finches were famously shown to undergo rapid evolution in beak size in response to seed size availability, which is correlated with rainfall patterns (Grant, <xref rid="ece35879-bib-0021" ref-type="ref">1986</xref>). In addition to many examples of adaptation on ecological timescales, increasing empirical evidence shows how adaptive differentiation in one species can cause measurable effects on environmental parameters (Ezard, C&#x000f4;t&#x000e9;, &#x00026; Pelletier, <xref rid="ece35879-bib-0013" ref-type="ref">2009</xref>; Pelletier, Garant, &#x00026; Hendry, <xref rid="ece35879-bib-0044" ref-type="ref">2009</xref>). A mesocosm study showed that recently diverged benthic and limnetic threespine stickleback morphs had quantifiable effects on prey community structure, primary production, and the nature of dissolved organic materials (Harmon et al., <xref rid="ece35879-bib-0023" ref-type="ref">2009</xref>). Another study found that phenotypically divergent alewives significantly changed the structure of their zooplankton prey communities, specifically altering mean body size, total biomass, species richness, and diversity (Post &#x00026; Palkovacs, <xref rid="ece35879-bib-0046" ref-type="ref">2009</xref>). However, less is known about the ecological role of nonselective evolutionary forces such as genetic drift and gene flow. Addressing both selective and nonselective forces is necessary to understand the full scope of eco&#x02010;evolutionary interactions (Lowe et al., <xref rid="ece35879-bib-0038" ref-type="ref">2017</xref>).</p><p>Evaluating how changes in evolutionary processes affect demography is vital for predicting population persistence, especially under rapid environmental change (Lande, <xref rid="ece35879-bib-0036" ref-type="ref">1988</xref>). Small populations are vulnerable to Allee effects and inbreeding, the latter of which can lead to inbreeding depression and loss of genetic variation (Kinniston &#x00026; Hairston, <xref rid="ece35879-bib-0033" ref-type="ref">2007</xref>). These &#x0201c;small population problems&#x0201d; can constrain adaptation under novel selection pressures and may contribute to an &#x0201c;extinction vortex,&#x0201d; the positive feedback loop of environmental and biological interactions that causes population decline and eventual extinction (Gilpin &#x00026; Soule, <xref rid="ece35879-bib-0020" ref-type="ref">1983</xref>). For example, shorter life spans and lower larval survival rates in inbred Glanville fritillary butterfly populations increased their extinction risk (Saccheri et al., <xref rid="ece35879-bib-0053" ref-type="ref">1998</xref>). On the other hand, some populations and taxa persist in spite of small population sizes. For instance, the Apennine brown bear population in Italy has survived for many generations despite being small, inbred, and having startlingly low levels of genetic variation (Benazzo et al., <xref rid="ece35879-bib-0007" ref-type="ref">2017</xref>). Given contradicting examples like these, more research is needed to determine the eco&#x02010;evolutionary predictors of population dynamics and extinction risk.</p><p>Gene flow is a nonselective evolutionary force that can mitigate small population problems by reversing the effects of inbreeding depression and genetic drift. By increasing genetic variation, gene flow can also facilitate a faster response to natural selection (Swindell &#x00026; Bouzat, <xref rid="ece35879-bib-0058" ref-type="ref">2006</xref>). Gene flow manipulations are an emerging management strategy in which a small number of immigrants are translocated into a (typically) small, inbred population in an effort to restore connectivity among recently isolated populations and ultimately increase population fitness (Aitken &#x00026; Whitlock, <xref rid="ece35879-bib-0002" ref-type="ref">2013</xref>; Tallmon, Luikart, &#x00026; Waples, <xref rid="ece35879-bib-0059" ref-type="ref">2004</xref>; Whiteley, Fitzpatrick, Funk, &#x00026; Tallmon, <xref rid="ece35879-bib-0065" ref-type="ref">2015</xref>). Genetic rescue, an increase in population growth caused by gene flow, has been shown to produce large and consistent benefits to population fitness (Frankham, <xref rid="ece35879-bib-0016" ref-type="ref">2015</xref>; Whiteley et al., <xref rid="ece35879-bib-0065" ref-type="ref">2015</xref>). Several iconic conservation success stories resulting from genetic rescue have been documented in species such as Florida panthers (Johnson, Chappell, et al., <xref rid="ece35879-bib-0030" ref-type="ref">2010</xref>), greater prairie chickens (Westemeier et al., <xref rid="ece35879-bib-0064" ref-type="ref">1998</xref>), and bighorn sheep (Hogg, Forbes, Steele, &#x00026; Luikart, <xref rid="ece35879-bib-0026" ref-type="ref">2006</xref>). Although examples like these suggest that assisted gene flow is an effective management tool, it has not been widely used due to concerns of outbreeding depression, genetic swamping, and disease introduction (Edmands, <xref rid="ece35879-bib-0012" ref-type="ref">2007</xref>; Frankham, <xref rid="ece35879-bib-0016" ref-type="ref">2015</xref>).</p><p>While increasing evidence suggests that gene flow into genetically depauperate populations in the wild can boost genetic variation and thereby increase individual and population fitness (Fitzpatrick et al., <xref rid="ece35879-bib-0014" ref-type="ref">2016</xref>; Robinson et al., <xref rid="ece35879-bib-0051" ref-type="ref">2017</xref>; Weeks et al., <xref rid="ece35879-bib-0063" ref-type="ref">2017</xref>), little is known about how recent episodes of gene flow versus genetic drift affect demography under environmental change. If the environment is poor, gene flow, even if beneficial, may not manifest in higher population sizes. For example, immigration of a single outbred wolf into the isolated Isle Royale population led to an initial increase in heterozygosity without subsequent increases in population size, an outcome thought to be due to poor environmental conditions (Adams, Vucetich, Hedrick, Peterson, &#x00026; Vucetich, <xref rid="ece35879-bib-0001" ref-type="ref">2011</xref>). Conversely, it has not been empirically tested whether populations that have experienced recent gene flow are better able to take advantage of good quality environments than those experiencing high genetic drift. Understanding how recent evolutionary history determines persistence and adaptive potential under changing environments is urgently important given current levels of habitat destruction, climate change, and anthropogenic disturbance facing natural populations today (Chevin, Lande, &#x00026; Mace, <xref rid="ece35879-bib-0010" ref-type="ref">2010</xref>). It is essential to understand how manipulating evolutionary forces affects population demography and persistence and specifically how human&#x02010;assisted gene flow may impact the surrounding environment.</p><p>Genetic rescue is inherently eco&#x02010;evolutionary because it involves manipulating an evolutionary force, gene flow, to affect the dynamics of populations. However, it is unknown the extent to which evolutionary manipulations scale up to affect ecosystem dynamics. There is reason to believe that there would be an effect on ecosystem dynamics since genetic rescue often causes dramatic increases in abundance of the &#x0201c;rescued&#x0201d; population (Fitzpatrick et al., <xref rid="ece35879-bib-0014" ref-type="ref">2016</xref>). For example, trophic cascades could be affected if increased abundance of a top predator results in higher depletion rates of its primary prey species. Additionally, populations adapted to dissimilar environments may use resources differently and cause significant ecosystem structure alterations in short time periods (Bassar et al., <xref rid="ece35879-bib-0004" ref-type="ref">2010</xref>). If immigration from an adaptively divergent population occurs, the ecological role of the recipient population may be altered. Finally, levels of intraspecific genetic variation can impact the ecological role of populations (Hughes, Inouye, Johnson, Underwood, &#x00026; Vellend, <xref rid="ece35879-bib-0028" ref-type="ref">2008</xref>). For example, different levels of population genetic variation in tall goldenrod, <italic>Solidago altissima</italic>, were shown to predict arthropod diversity and community structure (Crutsinger et al., <xref rid="ece35879-bib-0011" ref-type="ref">2006</xref>). Linking changes in recent evolutionary history to changes in population genetic variation to changes in the ecosystem has not been done experimentally. Understanding such links has important consequences for biodiversity conservation under rapid environmental change.</p><p>Trinidadian guppies are a model system frequently used in eco&#x02010;evolutionary research due to short generation times (3&#x02013;4 per year; Magurran, <xref rid="ece35879-bib-0039" ref-type="ref">2005</xref>; Reznick &#x00026; Endler, <xref rid="ece35879-bib-0050" ref-type="ref">1982</xref>), rapid adaptation in new environments (Magurran, <xref rid="ece35879-bib-0039" ref-type="ref">2005</xref>), and predictable phenotypic traits like offspring size, coloration, and life histories based on the environment (Ghalambor, McKay, Carroll, &#x00026; Reznick, <xref rid="ece35879-bib-0019" ref-type="ref">2007</xref>). Streams that drain the Northern Range Mountains in Trinidad have varying predator assemblages, imposing selection pressures that have resulted in the repeated evolution of divergent guppy life histories. Guppies from high predation (HP) environments, found in lower&#x02010;elevation stream reaches, have faster maturation rates and more, smaller offspring than guppies found in low predation (LP) environments at higher elevations (Reznick &#x00026; Endler, <xref rid="ece35879-bib-0050" ref-type="ref">1982</xref>). Headwater populations of guppies also typically have lower genetic variation and smaller population sizes due to founder effects caused by geographical barriers such as waterfalls (Barson, Cable, &#x00026; Oosterhout, <xref rid="ece35879-bib-0003" ref-type="ref">2009</xref>). Previous work shows that inbred guppies often have lower fitness than outbred guppies due to higher susceptibility to parasite infection (Smallbone, Oosterhout, &#x00026; Cable, <xref rid="ece35879-bib-0056" ref-type="ref">2016</xref>), less coloration, fewer mating behaviors (Van Oosterhout et al., <xref rid="ece35879-bib-0061" ref-type="ref">2003</xref>), and fewer offspring produced (Johnson, Onorato, et al., <xref rid="ece35879-bib-0031" ref-type="ref">2010</xref>). Studies documenting fitness effects of gene flow manipulation in wild populations showed that immigration dramatically increased genetic diversity and population sizes, without the loss of locally adapted traits (Fitzpatrick et al., <xref rid="ece35879-bib-0014" ref-type="ref">2016</xref>; Fitzpatrick, Gerberich, Kronenberger, Angeloni, &#x00026; Funk, <xref rid="ece35879-bib-0015" ref-type="ref">2015</xref>).</p><p>This study builds on a previous experiment that tested fitness effects of gene flow in replicated populations housed in glass aquaria in a laboratory environment (Kronenberger et al., <xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>). Kronenberger et al. (<xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>) documented strong and consistent evidence for genetic rescue in a recipient population (Quare) that had initially lower levels of genetic variation, but inconsistent effects of gene flow in a second recipient population (Marianne) that started with higher levels of genetic variation. Initial differences between the two recipient populations in heterozygosity (Quare <italic>H</italic>
+<sub>e</sub>&#x000a0;=&#x000a0;0.71; Marianne <italic>H</italic>
+<sub>e</sub>&#x000a0;=&#x000a0;0.87) and effective population size (Quare <italic>N</italic>
+<sub>e</sub>&#x000a0;=&#x000a0;247; Marianne <italic>N</italic>
+<sub>e</sub>&#x000a0;=&#x000a0;949) suggested that Quare guppies experienced stronger genetic drift than Marianne, and therefore, stood to benefit more from gene flow initially. Laboratory populations from this experiment were maintained for more than two years (about six to eight guppy generations) after the immigration treatments began (Figure <xref rid="ece35879-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35879-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Guppies in the present study were sampled from subset of gene flow treatments from Kronenberger et al. (<xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>) (a) where recipient populations received either no augmentation (None), gene flow from a high predation (HP) guppy population, or gene flow from a low predation (LP) guppy population. Populations were censused bimonthly for a total of 32&#x000a0;months with a 6&#x02010;month pre&#x02013;gene flow period, 12&#x02010;month gene flow augmentation period, and 14&#x02010;month post&#x02013;gene flow period (b). Guppies at month 32 were used to seed mesocosm populations in the present study</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14442-g001"/></fig><p>We used the descendants of the aforementioned experimental populations to test whether recent evolutionary history (i.e., gene flow versus no gene flow treatments from Kronenberger et al. (<xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>)) predicted individual growth and population growth rates in novel, high resource environments. We hypothesized that guppy populations that have experienced recent gene flow would show faster individual and population growth rates and attain larger population sizes compared to populations without gene flow due to added genetic variation. We also tested whether ecosystem dynamics varied between populations with different recent evolutionary histories. If populations that received gene flow exhibited faster individual and population growth rates, we expected resources to be depleted more quickly in those environments. We also predicted that populations with higher genetic variation due to recent gene flow might utilize a more diverse set of resources than populations with lower genetic variation. This is the first study we know of to test ecosystem&#x02010;level consequences of gene flow manipulation. Results of this experiment enhance understanding of eco&#x02010;evolutionary interactions by shedding light on how differences in nonadaptive processes, such as gene flow and genetic drift, can influence demography and ecosystem dynamics in changing environments.</p></sec><sec sec-type="methods" id="ece35879-sec-0002"><label>2</label><title>METHODS</title><sec id="ece35879-sec-0003"><label>2.1</label><title>Mesocosm setup</title><p>Our experiment took place at Michigan State University's W. K. Kellogg Biological Station Experimental Pond Facility from June 2017 to October 2017. We acid&#x02010;washed and filled 24 cattle tanks (1,000&#x000a0;L) with well water and added sand substrate. To create high resource pond communities, we collected a total of 12.5&#x000a0;L of zooplankton&#x02010;rich water using a plankton tow net from four nearby ponds and inoculated each tank with 500&#x000a0;ml of this mixture to provide a prey resource for the guppies. We also added 15&#x000a0;g of a common aquatic plant species, hornwort (<italic>Ceratophyllum demersum</italic>), to each tank to provide cover for young fish from cannibalistic adults. All tanks received a nutrient mixture to increase primary productivity; 10.4&#x000a0;g nitrogen (NaNO<sub>3</sub>) and 0.33&#x000a0;g phosphorus (NaH<sub>2</sub>PO<sub>4</sub>) was dissolved in 50&#x000a0;ml of water and added to each tank (Rudolf &#x00026; Rasmussen, <xref rid="ece35879-bib-0052" ref-type="ref">2013</xref>). We added six (4.5&#x000a0;cm<sup>2</sup>) ceramic tiles to each tank to measure the accumulation of benthic algae. To compare decomposition rates between treatments, 10&#x000a0;&#x000d7;&#x000a0;15 cm mesh bags were filled with 7&#x000a0;g of air&#x02010;dried mixed leaf litter collected from the W.K. Kellogg Bird Sanctuary and submerged in each tank.</p></sec><sec id="ece35879-sec-0004"><label>2.2</label><title>Experimental design</title><p>The guppies used in our experiment initially were collected from LP tributaries of the Quare and Marianne rivers in Trinidad and Tobago, as described in Kronenberger et al. (<xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>). In that experiment, populations were established in 38&#x000a0;L glass aquaria with 16 guppies of a 1:1 sex ratio. Following a six&#x02010;month period without gene flow, populations were augmented with one male and one female wild&#x02010;caught immigrant bimonthly for 12&#x000a0;months. Genetic and demographic monitoring continued for 6&#x000a0;months post&#x02013;gene flow and reduced monitoring of abundance only continued an additional eight months (Figure <xref rid="ece35879-fig-0001" ref-type="fig">1</xref>). Following conclusion of the full 32&#x02010;month gene flow study, subsets of these populations were moved to the MSU Experimental Pond Facility for our experiment in July 2017 (Figure <xref rid="ece35879-fig-0001" ref-type="fig">1</xref>). Our experimental populations were comprised of Kronenberger et al. (<xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>) fish from three evolutionary history treatments across two populations: Quare with no prior gene flow, Marianne with no previous gene flow, Quare with previous gene flow from a HP source population, Marianne with previous gene flow from a HP source population, Quare with previous gene flow from a LP source population (designated &#x0201c;LPF&#x0201d; in Kronenberger et al., <xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>), and tanks with no fish to provide a control for ecosystem measurements. Fish were not available for a Marianne LP gene flow treatment. To initiate our experiment, two adult male and two size&#x02010;matched female guppies from each evolutionary history treatment were anesthetized with a dilute solution of MS&#x02010;222, measured for standard length (distance from tip of snout to tip of hypleural plate), marked with a unique visible implant elastomer pattern (VIE; Northwest Marine Technology, Inc.), and added to the cattle tanks after recovering in an aerated tank. Previous studies show low mortality and high recapture success using these methods (Reznick, Butler, Rodd, &#x00026; Ross, <xref rid="ece35879-bib-0049" ref-type="ref">1996</xref>).</p></sec><sec id="ece35879-sec-0005"><label>2.3</label><title>Data collection</title><p>We compiled the following data from each tank on a biweekly schedule from late July 2017 to early October 2017 (10&#x000a0;weeks total). Using a depth&#x02010;integrated tube sampler, we collected 4&#x000a0;L of water from each tank and filtered it through 75&#x000a0;&#x000b5;m mesh to determine zooplankton density. The samples were immediately stored in ethanol and later visualized under a dissecting microscope to calculate copepod and cladoceran density (individuals/L). We extracted one tile of the six total tiles from each tank every other week and weighed the oven&#x02010;dried algae present to calculate benthic algae accumulation. To quantify primary productivity, pelagic algae were collected by filtering 50&#x02013;100&#x000a0;ml of water from each tank and storing algal samples on folded papers in foil at &#x02212;20&#x02103;. These samples were later analyzed with a UV/VIS spectrophotometer to quantify the amount of chlorophyll&#x02010;a (&#x003bc;g/L) in each. We calculated decomposition rates by comparing the dry leaf litter mass (g) before and after the addition of mesh bags containing leaf litter. To ensure that water conditions were held constant between tanks throughout the course of our experiment, every other week we measured dissolved oxygen, temperature, and pH three times over a 24&#x02010;hr time period in all tanks. All guppies&#x000a0;&#x02265;&#x000a0;14&#x000a0;mm were censused biweekly. New recruits (&#x02265;14&#x000a0;mm) were given unique elastomer marks, and all individuals were processed as described above to census populations and determine individual growth.</p></sec><sec id="ece35879-sec-0006"><label>2.4</label><title>Data analysis</title><sec id="ece35879-sec-0007"><label>2.4.1</label><title>Individual growth</title><p>We were interested in whether differences in recent evolutionary history led to differences in the rate of growth among individuals in a high resource environment. We only compared growth (measured as standard length) among founding females to avoid confounding juvenile with adult growth and female with male growth, the latter because female guppies have indeterminate growth throughout their lifetimes whereas male growth ceases at maturity. We estimated standard lengths at each sampling occasion using a generalized linear mixed model implemented with &#x0201c;proc glimmix&#x0201d; in SAS version 9.4 (SAS Institute). Residuals were not normally distributed, so we assumed a lognormal distribution as it was superior following a comparison of the model under all available distributions using Akaike Information Criterion corrected for small sample size (AIC<sub>C</sub>; Burnham &#x00026; Anderson, <xref rid="ece35879-bib-0008" ref-type="ref">2002</xref>). Fixed effects included the three&#x02010;way interaction between population (Quare and Marianne), treatment (no gene flow, HP gene flow, and LP gene flow), and sampling occasion (week), in addition to all two&#x02010;way interactions and main effects. To account for nonindependence resulting from measuring the same individuals over time, we included sampling occasion as repeated random effect with a heterogeneous autoregressive covariance structure, in which the correlation between sampling occasions decreases exponentially as the interval between them increases. This covariance structure fits our expectation of how sampling occasions are related and was best supported according to AIC<sub>C</sub> comparisons.</p></sec><sec id="ece35879-sec-0008"><label>2.4.2</label><title>Population growth</title><p>To assess whether there were changes in population fitness arising from recent evolutionary history, we used census population sizes to estimate population sizes over time and finite population growth rates of adult fish. Population sizes were estimated using a generalized linear mixed model with a Poisson distribution due to non&#x02010;normally distributed residuals, the typical distribution for nonoverdispersed count data. As in the individual growth model, fixed effects included the three&#x02010;way interaction between population, treatment, and sampling occasion in addition to all two&#x02010;way interactions and main effects. We modeled sampling occasion as a repeated random effect with an autoregressive covariance structure as above, although in this case, the covariance structure was not heterogeneous due to convergence issues. Finite population growth rates were calculated as the total number of individuals in each tank at the end of the experiment divided by 4 (the number of founding individuals) and estimated using multiple linear regression. Fixed effects included the population and treatment main effects and their interaction. Both models (population size and population growth rate) were run using &#x0201c;proc glimmix&#x0201d; in SAS version 9.4.</p></sec><sec id="ece35879-sec-0009"><label>2.4.3</label><title>Ecosystem effects</title><p>We used linear mixed models to test our predictions about how recent evolutionary history impacts environmental variables (decomposition rates, algal growth, and zooplankton density). For all ecosystem measurements, data from the last sampling period were analyzed and compared among treatments to elucidate the greatest differences between treatments. Models included treatment type (no gene flow, HP gene flow, LP gene flow, and control) as a fixed effect and tank location as a random effect. Each treatment was tested against the null model that included only the random effect. We also tested whether populations (Quare and Marianne) determined ecosystem structure and used linear models for each environmental variable. We used simple linear regressions to correlate adult fish abundance and total fish biomass with each environmental variable. All models were run using the &#x0201c;lme4&#x0201d; package in R version 3.5.1 (Bates &#x00026; Maechler, <xref rid="ece35879-bib-0005" ref-type="ref">2009</xref>).</p></sec></sec></sec><sec sec-type="results" id="ece35879-sec-0010"><label>3</label><title>RESULTS</title><sec id="ece35879-sec-0011"><label>3.1</label><title>Individual growth</title><p>Females from all treatments grew larger over the course of the experiment. However, females from populations that previously received gene flow grew faster than females from populations without gene flow (Table <xref rid="ece35879-tbl-0001" ref-type="table">1</xref>; Figure <xref rid="ece35879-fig-0002" ref-type="fig">2</xref>). Pairwise comparisons of estimated marginal means (i.e., means accounting for model structure) showed individuals from HP and LP gene flow treatments to be significantly larger than individuals from populations without recent gene flow. This pattern began in week four and lasted until the end of the experiment at week 10. Differences between the recent gene flow and no gene flow treatments were highly significant (<italic>t</italic>
+<sub>101</sub>&#x000a0;&#x02265;&#x000a0;2.98, <italic>p</italic>&#x000a0;&#x02264;&#x000a0;.0036) in all cases except for the Quare HP versus no gene flow treatment comparison, which was moderately significant (<italic>t</italic>
+<sub>101</sub>&#x000a0;=&#x000a0;2.19, <italic>p</italic>&#x000a0;=&#x000a0;.0309).</p><table-wrap id="ece35879-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>The results of type 3 tests of fixed effects from our individual growth (standard length) and population growth (population size and finite population growth rate) models. Standard length and population size were modeled as repeated measures, generalized linear mixed models, and population growth rate was modeled as a multiple linear regression (see text for more details). For each model, we report numerator and denominator degrees of freedom and <italic>F</italic> and <italic>p</italic> values</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Response</th><th align="left" valign="top" rowspan="1" colspan="1">Fixed effect</th><th align="left" valign="top" rowspan="1" colspan="1">Num. <italic>df</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">Den. <italic>df</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>F</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>p</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="7" colspan="1">Standard length</td><td align="left" rowspan="1" colspan="1">Population</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="char" char="." rowspan="1" colspan="1">7.99</td><td align="char" char="." rowspan="1" colspan="1">.0101</td></tr><tr><td align="left" rowspan="1" colspan="1">Treatment</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="char" char="." rowspan="1" colspan="1">3.56</td><td align="char" char="." rowspan="1" colspan="1">.0467</td></tr><tr><td align="left" rowspan="1" colspan="1">Population*Treatment</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="char" char="." rowspan="1" colspan="1">0.30</td><td align="char" char="." rowspan="1" colspan="1">.5872</td></tr><tr><td align="left" rowspan="1" colspan="1">Period</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">101</td><td align="char" char="." rowspan="1" colspan="1">29.40</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Population*Period</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">101</td><td align="char" char="." rowspan="1" colspan="1">1.09</td><td align="char" char="." rowspan="1" colspan="1">.3720</td></tr><tr><td align="left" rowspan="1" colspan="1">Treatment*Period</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="char" char="." rowspan="1" colspan="1">101</td><td align="char" char="." rowspan="1" colspan="1">1.01</td><td align="char" char="." rowspan="1" colspan="1">.4438</td></tr><tr><td align="left" rowspan="1" colspan="1">Population*Treatment*Period</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">101</td><td align="char" char="." rowspan="1" colspan="1">0.16</td><td align="char" char="." rowspan="1" colspan="1">.9761</td></tr><tr><td align="left" rowspan="7" colspan="1">Population size</td><td align="left" rowspan="1" colspan="1">Population</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1">4.40</td><td align="char" char="." rowspan="1" colspan="1">.0534</td></tr><tr><td align="left" rowspan="1" colspan="1">Treatment</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1">0.70</td><td align="char" char="." rowspan="1" colspan="1">.5137</td></tr><tr><td align="left" rowspan="1" colspan="1">Population*Treatment</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1">5.02</td><td align="char" char="." rowspan="1" colspan="1">.0406</td></tr><tr><td align="left" rowspan="1" colspan="1">Period</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">75</td><td align="char" char="." rowspan="1" colspan="1">17.64</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Population*Period</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">75</td><td align="char" char="." rowspan="1" colspan="1">0.98</td><td align="char" char="." rowspan="1" colspan="1">.4340</td></tr><tr><td align="left" rowspan="1" colspan="1">Treatment*Period</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="char" char="." rowspan="1" colspan="1">75</td><td align="char" char="." rowspan="1" colspan="1">0.50</td><td align="char" char="." rowspan="1" colspan="1">.8861</td></tr><tr><td align="left" rowspan="1" colspan="1">Population*Treatment*Period</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">75</td><td align="char" char="." rowspan="1" colspan="1">1.32</td><td align="char" char="." rowspan="1" colspan="1">.2632</td></tr><tr><td align="left" rowspan="3" colspan="1">Population growth rate</td><td align="left" rowspan="1" colspan="1">Population</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1">1.45</td><td align="char" char="." rowspan="1" colspan="1">.2478</td></tr><tr><td align="left" rowspan="1" colspan="1">Treatment</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1">0.89</td><td align="char" char="." rowspan="1" colspan="1">.4315</td></tr><tr><td align="left" rowspan="1" colspan="1">Population*Treatment</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1">1.00</td><td align="char" char="." rowspan="1" colspan="1">.3322</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35879-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Estimated marginal means and standard errors of standard length, measured from founding females at the start of the experiment and on each subsequent sampling occasion. Colors correspond to evolutionary history treatments: red, no gene flow (none); blue, gene flow from a high predation source (HP); purple, gene flow from a low predation source (LP). Significant differences (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05) are indicated with asterisks; in all cases, HP and LP treatments were similar to one another but significantly different than the none treatment</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14442-g002"/></fig></sec><sec id="ece35879-sec-0012"><label>3.2</label><title>Population growth</title><p>Population sizes in individual tanks were highly variable but generally increased over time (Table <xref rid="ece35879-tbl-0001" ref-type="table">1</xref>; Figure <xref rid="ece35879-fig-0003" ref-type="fig">3</xref>a). According to pairwise comparisons of estimated marginal means, populations were significantly larger in the Quare HP gene flow treatment than in the no gene flow treatment at weeks 8 and 10 (<italic>t</italic>
+<sub>75</sub>&#x000a0;=&#x000a0;2.13, <italic>p</italic>&#x000a0;=&#x000a0;.0368 and t<sub>75</sub>&#x000a0;=&#x000a0;2.78, <italic>p</italic>&#x000a0;=&#x000a0;.0068, respectively; Figure <xref rid="ece35879-fig-0003" ref-type="fig">3</xref>b). The Quare LP gene flow treatment was nearly significantly larger than in the no gene flow treatment at week 10 (<italic>t</italic>
+<sub>75</sub>&#x000a0;=&#x000a0;1.97, <italic>p</italic>&#x000a0;=&#x000a0;.0523). Among Marianne populations, the no gene flow treatment increased relative to the HP gene flow treatment at first (nearly significant at week four; <italic>t</italic>
+<sub>75</sub>&#x000a0;=&#x000a0;&#x02212;1.87, <italic>p</italic>&#x000a0;=&#x000a0;.0648), but populations attained similar sizes by end of the experiment (Figure <xref rid="ece35879-fig-0003" ref-type="fig">3</xref>b). Estimated marginal means of finite population growth rates were similar and high in all treatments except for Quare no gene flow, which remained close to one, indicating no growth (Figure <xref rid="ece35879-fig-0003" ref-type="fig">3</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="ece35879-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Population sizes (<italic>N</italic>) over time in each experimental tank (panel a), estimated marginal means and standard errors of population sizes over time (panel b), and estimated marginal means and standard errors of population growth rates (&#x003bb;) between population founding and end of the experiment (panel c). Colors correspond to evolutionary history treatments: red, no gene flow (none); blue, gene flow from a high predation source (HP); purple, gene flow from a low predation source (LP). Horizontal dashed lines represent starting population size in panels a and b, and the value of <italic>&#x003bb;</italic> indicating no population growth in panel c. Population sizes were significantly different only between the no gene flow and HP gene flow treatments (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05) at weeks 8 and 10 in Quare populations, as indicated with asterisks. There were no significant differences among population growth rates</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14442-g003"/></fig></sec><sec id="ece35879-sec-0013"><label>3.3</label><title>Ecosystem effects</title><p>Linear mixed models and linear models used to test the effects of recent evolutionary history on ecosystem variables revealed no effect of gene flow treatment (HP, LP, none, and control) for either population on decomposition rates, benthic algae accumulation, chlorophyll&#x02010;&#x003b1; level in pelagic algae, or copepod/cladoceran zooplankton density. We did find a significant and positive correlation between total fish biomass and copepod density (<italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;2.084, F18&#x000a0;=&#x000a0;4.739, <italic>p</italic>&#x000a0;=&#x000a0;.04305). However, this relationship was heavily influenced by a single outlier and then became insignificant when the outlier was removed (<italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.04126, F17&#x000a0;=&#x000a0;0.7316, <italic>p</italic>&#x000a0;=&#x000a0;.4043).</p></sec></sec><sec sec-type="discussion" id="ece35879-sec-0014"><label>4</label><title>DISCUSSION</title><p>Our study tested how populations with different recent evolutionary histories responded to a scenario of extreme population size reduction followed by a period of high environment quality. We uncovered fitness benefits in the form of individual growth from previous gene flow that only became apparent in high resource environments. We also investigated how evolutionary histories affected ecosystem dynamics. Our results suggest that recent evolutionary histories affect individual and sometimes population growth rates, but do not scale up to induce measurable effects on the ecosystem. Additional research is needed to fully parse out the relationship between evolutionary history and ecosystem dynamics.</p><sec id="ece35879-sec-0015"><label>4.1</label><title>Effects of evolutionary history on individual growth</title><p>When guppies were exposed to novel high resource environments, we found faster individual growth in females from populations that had previously received gene flow compared to those from populations without a history of gene flow; a result replicated in both Quare and Marianne drainages. There are several possible explanations for this result. One possibility is that certain traits of the original immigrant population (i.e., source of gene flow) facilitated higher growth in novel environments. In other words, if immigrants had inherently faster growth, it is possible that they conferred this trait to the recipient populations. Guppy populations show variation in individual growth with HP populations typically showing faster growth than LP populations (Reznick, Bryant, Reznick, &#x00026; Bryant, <xref rid="ece35879-bib-0048" ref-type="ref">2007</xref>). In our study, if faster growth in individuals was caused by immigrants' traits, we would expect the HP gene flow treatments to grow faster than the LP treatments due to their fast life history (i.e., faster growth, more offspring, and earlier maturation times). However, we found individual growth were higher in all gene flow treatments, regardless of the environment from which the source population originated, suggesting that the observed growth advantage was not solely related to specific traits conferred by immigrants with a fast life history.</p><p>Another possible explanation is that individuals from populations with recent gene flow was able to grow faster on the same level of resources due to acquiring and metabolizing resources more effectively. A recent study found that brook trout with recent gene flow exhibited larger body sizes than brook trout that had not received gene flow while living in the same environments. This was possibly caused by overdominance due to heterosis, or increased fitness in hybrid offspring compared to parents, in somatic juvenile growth (Robinson et al., <xref rid="ece35879-bib-0051" ref-type="ref">2017</xref>). However, overdominance is unlikely to be the cause of treatment differences in our experiment because multiple generations of admixture in gene flow treatments had occurred prior to our study (Kronenberger et al., <xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>). In Kronenberger et al. (<xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>), the authors genotyped every adult and reconstructed pedigrees to confirm the presence of hybridization. They found that Quare populations produced more hybrids than Marianne populations, but at least some admixture was observed in all gene flow treatments used as source populations for this study. Since treatments were left untampered with for over a year, it is unlikely that heterosis would have occurred in our experiment.</p><p>Another possibility is that higher overall genetic variation facilitated a growth benefit to individuals from the gene flow treatments. Genetic variation has been shown in many previous studies to have a positive effect on fitness (Reed, Frankham, Reed, &#x00026; Frankham, <xref rid="ece35879-bib-0047" ref-type="ref">2016</xref>). For example, genetic diversity was positively correlated with mean lifetime expectancy in Chalkhill blue butterflies (Vandewoestijne, Schtickzelle, &#x00026; Baguette, <xref rid="ece35879-bib-0062" ref-type="ref">2008</xref>), honey bee colonies with higher genetic diversity were able to out&#x02010;forage and gain weight faster than colonies with lower genetic diversity (Mattila &#x00026; Seeley, <xref rid="ece35879-bib-0040" ref-type="ref">2007</xref>), and in blue mussels it was shown that individuals with higher heterozygosity also had higher average growth rates (Koehn &#x00026; Gaffney, <xref rid="ece35879-bib-0034" ref-type="ref">1984</xref>). In the latter study, the authors proposed that faster growth rates in more heterozygous mussels were possible due to a greater availability of energy from the decreased costs of metabolism, specifically oxygen consumption rates. In our study, it is possible that fish with increased genetic variation due to gene flow were able to more efficiently utilize the high resources in outdoor mesocosm environments.</p><p>Regardless of the mechanism, the finding of significantly higher individual growth in both Quare and Marianne gene flow treatments is surprising in light of the results from Kronenberger et al. (<xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>), which documented consistent genetic rescue in Quare but not Marianne. The lack of consistent benefits of gene flow in Marianne treatments was previously interpreted as resulting from (a) higher overall initial levels of genetic variation in the recipient population and (b) relatively few generations of admixture over the course of the study. In Kronenberger et al. (<xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>), all tanks were fed a constant diet of fish flakes, guppies were constrained to 10&#x02010;gallon glass tanks, likely limiting population growth, and the indoor environment limited primary productivity. When the same guppies were moved to spacious, high resource outdoor mesocosms, individual growth was significantly higher in gene flow treatments from both Marianne and Quare drainages, suggesting some degree of fitness increase in Marianne guppies with previous gene flow that only became evident in a more favorable environment.</p></sec><sec id="ece35879-sec-0016"><label>4.2</label><title>Effects of evolutionary history on population growth rates</title><p>Although population growth rates did not significantly differ among gene flow treatments, there was a trend for higher population growth rates in Quare gene flow treatments, but not Marianne. Similarly, we found that gene flow treatments achieved a significantly higher mean population size than no gene flow treatments in the Quare, but not Marianne. This discrepancy between the two drainages matches results from Kronenberger et al. (<xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>), namely, that gene flow was only consistently beneficial to recipient populations from Quare. As discussed in Kronenberger et al. (<xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>), Quare populations may have benefited more from the new variation provided by gene flow due to lower initial levels of genetic variation and small effective population sizes compared to the more diverse Marianne population. Importantly, the initial benefits of gene flow documented in Kronenberger et al. (<xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>) appear to have persisted for Quare populations with a history of gene flow in the novel and high resource environments of our study whereas, at the population level, gene flow did not appear to consistently benefit Marianne in either study. However, the large final population sizes reached by gene flow treatments from both drainages, and the fact that significant differences were detected among any treatments is especially striking given the severe bottleneck imposed at the beginning of the experiment (starting populations of two males and two females) and the short experimental duration of 10&#x000a0;weeks.</p></sec><sec id="ece35879-sec-0017"><label>4.3</label><title>Effect of evolutionary history on ecosystem variables</title><p>In this study, the ecosystem variables we measured (zooplankton density, pelagic algae growth, benthic algae growth, and decomposition rates) did not significantly differ among any treatments (see Supporting Information). Fish density also did not appear to influence ecosystem variables although total fish biomass did have a significant but counterintuitive effect on copepod density where greater fish biomass was positively associated with copepod density. This could be due to an unmeasured indirect effect of guppies feeding on copepod predators such as macroinvertebrates. However, given that this result was dependent on a single outlier, we do not have confidence that it represents a meaningful relationship.</p><p>A possible explanation for the lack of differentiation among treatments is that algal and zooplankton communities were able to regenerate at rates fast enough to offset depletion by guppies. A previous study found that the population abundances of many zooplankton species were unaffected by fish predation and that only larger zooplankton species were susceptible to predation (Jack &#x00026; Thorp, <xref rid="ece35879-bib-0029" ref-type="ref">2002</xref>). In our study, we quantified zooplankton density by order (i.e., cladoceran or copepod) and it is possible that a finer resolution of species composition data could have revealed differences among treatments. Also, previous studies have found that algal depletion by zooplankton predation can be offset by the nutrient release due to predation as algal communities use the nutrients to quickly regenerate (Sterner, <xref rid="ece35879-bib-0057" ref-type="ref">1986</xref>). However, these explanations do not explain the lack of differentiation of decomposition rates among treatments.</p><p>Another factor that could have contributed to these results is that macroinvertebrate species composition and abundance were not measured in tanks. This unmeasured component of the trophic system in our cattle tanks may have played an important role. For example, macroinvertebrates could have been an alternate food source for guppies or affected ecosystem variables and explained individual growth differences among treatments without changes in the resource levels we measured. The lack of differences in ecosystem measurements could also be explained by the relatively short time frame of our experiment or the large size of the cattle tanks with low numbers of fish, making the environments too large for such low fish densities to accrue any measurable changes on ecosystem factors. Our experiment consisted of relatively low replication with only four mesocosms per treatment and four fish per starting population. Given that ecosystem measurements are often highly stochastic, low replication also likely contributed to a lack of power to detect measurable ecosystem differences between treatments.</p><p>Interestingly, even though the ecosystem variables we measured were not different among treatments, individual guppy growth and population sizes did differ. This suggests a possible intrinsic mechanism that facilitated individuals from populations that previously received gene flow to grow faster on the same quality and quantity of resources. As discussed briefly above, this could be due to an inverse relationship between heterozygosity and the energetic costs of metabolism, possibly mediated by oxygen consumption. A relationship between heterozygosity and population growth rate has received mixed empirical support in other systems where a positive correlation has been found in American oysters (Koehn &#x00026; Gaffney, <xref rid="ece35879-bib-0034" ref-type="ref">1984</xref>) and some populations of tiger salamanders (Pierce &#x00026; Mitton, <xref rid="ece35879-bib-0045" ref-type="ref">1982</xref>), but not in European plaice (McAndrew, Ward, &#x00026; Beardmore, <xref rid="ece35879-bib-0041" ref-type="ref">1986</xref>) or pink salmon (Beacham &#x00026; Withler, <xref rid="ece35879-bib-0006" ref-type="ref">1985</xref>).</p></sec><sec id="ece35879-sec-0018"><label>4.4</label><title>Environment&#x02010;dependent benefits of gene flow</title><p>Previous gene flow augmentation experiments have focused on fitness benefits that arise in deliberately challenging environments (Hufbauer et al., <xref rid="ece35879-bib-0027" ref-type="ref">2015</xref>) or potentially stressful laboratory environments (Kronenberger et al., <xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>). While these results make important contributions to our growing understanding of how gene flow can rescue populations, it is also critical to understand how augmented populations will perform in &#x0201c;good&#x0201d; environments or periods of low environmental stress and change. In our study, we discovered consistent growth benefits resulting from gene flow in a high resource environment in populations that had not initially shown consistent fitness benefits. This result highlights the importance of using habitat improvement in combination with gene flow augmentation in wildlife management situations. If habitat enhancement and assisted gene flow are used in conjunction, the recipient population may have a better chance of long&#x02010;term persistence. Genetic rescue may only allow populations to reach larger population sizes and gain more genetic variation, both of which can help prevent extinction during periods of environmental stress, but may also facilitate faster population recovery when conditions are favorable.</p></sec><sec id="ece35879-sec-0019"><label>4.5</label><title>Caveats, future directions, and broader implications</title><p>At first glance, it may seem biologically unrealistic to test eco&#x02010;evolutionary effects of a tropical fish in temperate ponds. However, guppies are a highly successful invasive species throughout the world&#x02014;they encounter and thrive in a wide range of novel environments. Due to human introductions (accidental and intentional), guppies have established in sugarcane fields in Australia (Lindholm et al., <xref rid="ece35879-bib-0037" ref-type="ref">2005</xref>), artificially heated streams near power plants in Germany (Jourdan et al., <xref rid="ece35879-bib-0032" ref-type="ref">2014</xref>), and streams fed by hot springs in Japan (Shoji, Yokoyama, &#x00026; Kawata, <xref rid="ece35879-bib-0054" ref-type="ref">2007</xref>). Although our study was carried out in lentic mesocosms in Michigan, as opposed to their native lotic Trinidadian streams, we think our results can be considered in the contexts of both invasive populations and rapid global change. For example, the lack of observable community effects in our study (in novel and high resource environments), compared with previous findings of effects of population history at the community level in native environments beckons for future work exploring eco&#x02010;evolutionary dynamics in native versus novel environments. Testing this question using fish densities that are more comparable to natural densities than the low densities in our experiment would be advisable.</p><p>Our study sets the stage for additional follow&#x02010;up research that will elucidate many remaining uncertainties. For example, future experiments that start with larger initial population sizes might better represent the genetic and phenotypic variation within each evolutionary history treatment and reduce the potentially confounding role of founder's effect. We imposed a strong founder's effect by seeding tanks with only four individuals (two males and two females) and this small sample size may not have represented the phenotypic and genetic variation present in the Kronenberger et al. (<xref rid="ece35879-bib-0035" ref-type="ref">2018</xref>) treatments. To better characterize, the effect of recent evolutionary history on the environment, starting with larger fish densities or smaller mesocosms, may also create higher resource depletion rates and facilitate testing for significant differences in ecosystem variables. Future studies would also benefit by accounting for the composition and density of macroinvertebrates to understand how they affect other ecosystem variables and whether they serve as an alternate food source. Lastly, longer&#x02010;term monitoring of mesocosm populations and environments than what was possible here will provide a better opportunity to reveal treatment differences. Ecosystem&#x02010;level differences may become more detectable as resources are depleted over a longer study period.</p><p>As habitat fragmentation increases and native populations become smaller and more isolated, gene flow augmentation is a potentially powerful option to reverse the effects of inbreeding depression and genetic drift (Frankham et al., <xref rid="ece35879-bib-0018" ref-type="ref">2017</xref>). Previous work has shown that genetic rescue generally provides an immediate fitness increase to small populations (Whiteley et al., <xref rid="ece35879-bib-0065" ref-type="ref">2015</xref>; Frankham, <xref rid="ece35879-bib-0017" ref-type="ref">2016</xref>). In this study, we complement studies investigating the initial fitness effects of gene flow augmentation by considering longer&#x02010;term impacts of recent evolutionary history on individuals and populations in a benign environment. In addition, we investigate the impact of evolutionary history on ecosystem structure. The scenario we studied, in which populations become exposed to new conditions (first a severe bottleneck and then a novel, high resource environment), is highly plausible for contemporary populations&#x02014;including ones that are not of conservation concern. For example, invasive species often experience a strong bottleneck when few individuals first colonize a new habitat and then are exposed to favorable conditions with many possible niches to exploit and few natural predators (Tsutsui, Suarez, Holway, &#x00026; Case, <xref rid="ece35879-bib-0060" ref-type="ref">2002</xref>). Understanding recent evolutionary history, including nonselective forces like gene flow and genetic drift, may help to predict invasive potential. Additional research is needed in this area to fully understand the eco&#x02010;evolutionary and conservation implications of how augmented gene flow versus sustained genetic drift and inbreeding affects populations and ecosystems.</p></sec></sec><sec sec-type="COI-statement" id="ece35879-sec-0021"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35879-sec-0022"><title>AUTHOR CONTRIBUTION</title><p>S. W. F and M. L. M designed the study and collected data. J. A. K. and M. L. M. performed statistical analyses. All authors contributed to writing the paper.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35879-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14442-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35879-sec-0020"><title>ACKNOWLEDGMENTS</title><p>We thank the Fitzpatrick and Conner laboratory at the W.K. Kellogg Biological Station of Michigan State University for valuable feedback on our manuscript. This research was funded by Michigan State University and approved by IACUC (05&#x02010;17&#x02010;085&#x02010;00). This is Kellogg Biological Station contribution # 2141.</p></ack><sec sec-type="data-availability" id="ece35879-sec-0024"><title>DATA AVAILABILITY STATEMENT</title><p>The datasets generated and analyzed in this study are available at <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.fqz612jp8" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.fqz612jp8</ext-link>.</p></sec><ref-list content-type="cited-references" id="ece35879-bibl-0001"><title>REFERENCES</title><ref id="ece35879-bib-0001"><mixed-citation publication-type="journal" id="ece35879-cit-0001">
+<string-name>
+<surname>Adams</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Vucetich</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Hedrick</surname>, <given-names>P. W.</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>, <given-names>R. O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vucetich</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Genomic sweep and potential genetic rescue during limiting environmental conditions in an isolated wolf population</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>278</volume>(<issue>1723</issue>), <fpage>3336</fpage>&#x02013;<lpage>3344</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2011.0261</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0002"><mixed-citation publication-type="journal" id="ece35879-cit-0002">
+<string-name>
+<surname>Aitken</surname>, <given-names>S. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Whitlock</surname>, <given-names>M. C.</given-names>
+</string-name> (<year>2013</year>). <article-title>Assisted gene flow to facilitate local adaptation to climate change</article-title>. <source xml:lang="en">Annual Review of Ecology, Evolution, and Systematics</source>, <volume>44</volume>(<issue>1</issue>), <fpage>367</fpage>&#x02013;<lpage>388</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-ecolsys-110512-135747</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0003"><mixed-citation publication-type="journal" id="ece35879-cit-0003">
+<string-name>
+<surname>Barson</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<surname>Cable</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Van Oosterhout</surname>, <given-names>C.</given-names>
+</string-name> (<year>2009</year>). <article-title>Population genetic analysis of microsatellite variation of guppies (<italic>Poecilia reticulata</italic>) in Trinidad and Tobago: Evidence for a dynamic source&#x02010;sink metapopulation structure, founder events and population bottlenecks</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>22</volume>(<issue>3</issue>), <fpage>485</fpage>&#x02013;<lpage>497</lpage>. <pub-id pub-id-type="doi">10.1111/j.1420-9101.2008.01675.x</pub-id>
+<pub-id pub-id-type="pmid">19210594</pub-id></mixed-citation></ref><ref id="ece35879-bib-0004"><mixed-citation publication-type="journal" id="ece35879-cit-0004">
+<string-name>
+<surname>Bassar</surname>, <given-names>R. D.</given-names>
+</string-name>, <string-name>
+<surname>Marshall</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez&#x02010;Sepulcre</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zandon&#x000e0;</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Auer</surname>, <given-names>S. K.</given-names>
+</string-name>, <string-name>
+<surname>Travis</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Reznick</surname>, <given-names>D. N.</given-names>
+</string-name> (<year>2010</year>). <article-title>Local adaptation in Trinidadian guppies alters ecosystem processes</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>107</volume>(<issue>8</issue>), <fpage>3616</fpage>&#x02013;<lpage>3621</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0908023107</pub-id>
+<pub-id pub-id-type="pmid">20133670</pub-id></mixed-citation></ref><ref id="ece35879-bib-0005"><mixed-citation publication-type="book" id="ece35879-cit-0005">
+<string-name>
+<surname>Bates</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Maechler</surname>, <given-names>M.</given-names>
+</string-name> (<year>2009</year>). <source xml:lang="en">lme4 linear mixed-effects models using S4 classes. R package version 0.999375-32</source>.</mixed-citation></ref><ref id="ece35879-bib-0006"><mixed-citation publication-type="journal" id="ece35879-cit-0006">
+<string-name>
+<surname>Beacham</surname>, <given-names>T. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Withler</surname>, <given-names>R. E.</given-names>
+</string-name> (<year>1985</year>). <article-title>Heterozygosity and morphological variability of pink salmon (<italic>Oncorhynchus gorbuscha</italic>) from southern British Columbia and Puget Sound</article-title>. <source xml:lang="en">Canadian Journal of Genetics and Cytology</source>, <volume>27</volume>(<issue>5</issue>), <fpage>571</fpage>&#x02013;<lpage>579</lpage>. <pub-id pub-id-type="doi">10.1139/g85-084</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0007"><mixed-citation publication-type="journal" id="ece35879-cit-0007">
+<string-name>
+<surname>Benazzo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Trucchi</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Cahill</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Maisano Delser</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Mona</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Fumagalli</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bertorelle</surname>, <given-names>G.</given-names>
+</string-name> (<year>2017</year>). <article-title>Survival and divergence in a small group: The extraordinary genomic history of the endangered Apennine brown bear stragglers</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>114</volume>(<issue>45</issue>), <fpage>E9589</fpage>&#x02013;<lpage>E9597</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1707279114</pub-id>
+<pub-id pub-id-type="pmid">29078308</pub-id></mixed-citation></ref><ref id="ece35879-bib-0008"><mixed-citation publication-type="book" id="ece35879-cit-0008">
+<string-name>
+<surname>Burnham</surname>, <given-names>K. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Anderson</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2002</year>). <source xml:lang="en">Model selection and multimodel inference</source> (<edition designator="2">2nd ed.</edition>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="ece35879-bib-0009"><mixed-citation publication-type="journal" id="ece35879-cit-0009">
+<string-name>
+<surname>Carroll</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Hendry</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name>
+<surname>Reznick</surname>, <given-names>D. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fox</surname>, <given-names>C. W.</given-names>
+</string-name> (<year>2007</year>). <article-title>Evolution on ecological time&#x02010;scales</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>21</volume>(<issue>3</issue>), <fpage>387</fpage>&#x02013;<lpage>393</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2435.2007.01289.x</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0010"><mixed-citation publication-type="journal" id="ece35879-cit-0010">
+<string-name>
+<surname>Chevin</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lande</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mace</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Adaptation, plasticity, and extinction in a changing environment: Towards a predictive theory</article-title>. <source xml:lang="en">PLoS Biology</source>, <volume>8</volume>(<issue>4</issue>), <pub-id pub-id-type="doi">10.1371/journal.pbio.1000357</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0011"><mixed-citation publication-type="journal" id="ece35879-cit-0011">
+<string-name>
+<surname>Crutsinger</surname>, <given-names>G. M.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Fordyce</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Gompert</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Nice</surname>, <given-names>C. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sanders</surname>, <given-names>N. J.</given-names>
+</string-name> (<year>2006</year>). <article-title>An ecosystem process</article-title>. <source xml:lang="en">Cell</source>, <volume>647</volume>(<issue>August</issue>), <fpage>966</fpage>&#x02013;<lpage>968</lpage>. <pub-id pub-id-type="doi">10.1126/science.1128326</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0012"><mixed-citation publication-type="journal" id="ece35879-cit-0012">
+<string-name>
+<surname>Edmands</surname>, <given-names>S.</given-names>
+</string-name> (<year>2007</year>). <article-title>Between a rock and a hard place: Evaluating the relative risks of inbreeding and outbreeding for conservation and management</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>16</volume>(<issue>3</issue>), <fpage>463</fpage>&#x02013;<lpage>475</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2006.03148.x</pub-id>
+<pub-id pub-id-type="pmid">17257106</pub-id></mixed-citation></ref><ref id="ece35879-bib-0013"><mixed-citation publication-type="journal" id="ece35879-cit-0013">
+<string-name>
+<surname>Ezard</surname>, <given-names>T. H. G.</given-names>
+</string-name>, <string-name>
+<surname>C&#x000f4;t&#x000e9;</surname>, <given-names>S. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pelletier</surname>, <given-names>F.</given-names>
+</string-name> (<year>2009</year>). <article-title>Eco&#x02010;evolutionary dynamics: Disentangling phenotypic, environmental and population fluctuations</article-title>. <source xml:lang="en">Philosophical Transactions of the Royal Society B: Biological Sciences</source>, <volume>364</volume>(<issue>1523</issue>), <fpage>1491</fpage>&#x02013;<lpage>1498</lpage>. <pub-id pub-id-type="doi">10.1098/rstb.2009.0006</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0014"><mixed-citation publication-type="journal" id="ece35879-cit-0014">
+<string-name>
+<surname>Fitzpatrick</surname>, <given-names>S. W.</given-names>
+</string-name>, <string-name>
+<surname>Gerberich</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Angeloni</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Bailey</surname>, <given-names>L. L.</given-names>
+</string-name>, <string-name>
+<surname>Broder</surname>, <given-names>E. D.</given-names>
+</string-name>, <string-name>
+<surname>Torres&#x02010;Dowdall</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Funk</surname>, <given-names>C. W.</given-names>
+</string-name> (<year>2016</year>). <article-title>Gene flow from an adaptively divergent source causes rescue through genetic and demographic factors in two wild populations of Trinidadian guppies</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>9</volume>(<issue>7</issue>), <fpage>879</fpage>&#x02013;<lpage>891</lpage>. <pub-id pub-id-type="doi">10.1111/eva.12356</pub-id>
+<pub-id pub-id-type="pmid">27468306</pub-id></mixed-citation></ref><ref id="ece35879-bib-0015"><mixed-citation publication-type="journal" id="ece35879-cit-0015">
+<string-name>
+<surname>Fitzpatrick</surname>, <given-names>S. W.</given-names>
+</string-name>, <string-name>
+<surname>Gerberich</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Kronenberger</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Angeloni</surname>, <given-names>L. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Funk</surname>, <given-names>W. C.</given-names>
+</string-name> (<year>2015</year>). <article-title>Locally adapted traits maintained in the face of high gene flow</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>18</volume>(<issue>1</issue>), <fpage>37</fpage>&#x02013;<lpage>47</lpage>. <pub-id pub-id-type="doi">10.1111/ele.12388</pub-id>
+<pub-id pub-id-type="pmid">25363522</pub-id></mixed-citation></ref><ref id="ece35879-bib-0016"><mixed-citation publication-type="journal" id="ece35879-cit-0016">
+<string-name>
+<surname>Frankham</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Genetic rescue of small inbred populations: Meta&#x02010;analysis reveals large and consistent benefits of gene flow</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>24</volume>(<issue>11</issue>), <fpage>2610</fpage>&#x02013;<lpage>2618</lpage>. <pub-id pub-id-type="doi">10.1111/mec.13139</pub-id>
+<pub-id pub-id-type="pmid">25740414</pub-id></mixed-citation></ref><ref id="ece35879-bib-0017"><mixed-citation publication-type="journal" id="ece35879-cit-0017">
+<string-name>
+<surname>Frankham</surname>, <given-names>R.</given-names>
+</string-name> (<year>2016</year>). <article-title>Genetic rescue benefits persist to at least the F3 generation, based on a metaanalysis</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>195</volume>, <fpage>33</fpage>&#x02013;<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2015.12.038</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0018"><mixed-citation publication-type="book" id="ece35879-cit-0018">
+<string-name>
+<surname>Frankham</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ballou</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Ralls</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Eldridge</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Dudash</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Fenster</surname>, <given-names>C. B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Sunnucks</surname>, <given-names>P.</given-names>
+</string-name> (<year>2017</year>). <source xml:lang="en">Genetic management of fragmented animal and plant populations</source>. <publisher-loc>Oxford, UK</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece35879-bib-0019"><mixed-citation publication-type="journal" id="ece35879-cit-0019">
+<string-name>
+<surname>Ghalambor</surname>, <given-names>C. K.</given-names>
+</string-name>, <string-name>
+<surname>McKay</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Carroll</surname>, <given-names>S. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Reznick</surname>, <given-names>D. N.</given-names>
+</string-name> (<year>2007</year>). <article-title>Adaptive versus non&#x02010;adaptive phenotypic plasticity and the potential for contemporary adaptation in new environments</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>21</volume>(<issue>3</issue>), <fpage>394</fpage>&#x02013;<lpage>407</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2435.2007.01283.x</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0020"><mixed-citation publication-type="book" id="ece35879-cit-0020">
+<string-name>
+<surname>Gilpin</surname>, <given-names>M. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Soule</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>1983</year>). <chapter-title>Minimum viable populations: processes of species extinction</chapter-title> In <source xml:lang="en">Conservation biology: The science of scarcity and diversity</source> (pp. <fpage>19</fpage>&#x02013;<lpage>34</lpage>). <publisher-loc>Sunderland, MA</publisher-loc>: <publisher-name>Sinauer Associates</publisher-name>.</mixed-citation></ref><ref id="ece35879-bib-0021"><mixed-citation publication-type="book" id="ece35879-cit-0021">
+<string-name>
+<surname>Grant</surname>, <given-names>P. R.</given-names>
+</string-name> (<year>1986</year>). <source xml:lang="en">Ecology and evolution of Darwin's finches</source>. <publisher-loc>Princeton, NJ</publisher-loc>: <publisher-name>Princeton University Press</publisher-name>.</mixed-citation></ref><ref id="ece35879-bib-0022"><mixed-citation publication-type="journal" id="ece35879-cit-0022">
+<string-name>
+<surname>Hairston</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name>
+<surname>Ellner</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Geber</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Yoshida</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fox</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2005</year>). <article-title>Rapid evolution and the convergence of ecological and evolutionary time</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>8</volume>(<issue>10</issue>), <fpage>1114</fpage>&#x02013;<lpage>1127</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2005.00812.x</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0023"><mixed-citation publication-type="journal" id="ece35879-cit-0023">
+<string-name>
+<surname>Harmon</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name>
+<surname>Matthews</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Des Roches</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chase</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Shurin</surname>, <given-names>J. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schluter</surname>, <given-names>D.</given-names>
+</string-name> (<year>2009</year>). <article-title>Evolutionary diversification in stickleback affects ecosystem functioning</article-title>. <source xml:lang="en">Nature</source>, <volume>458</volume>(<issue>7242</issue>), <fpage>1167</fpage>&#x02013;<lpage>1170</lpage>. <pub-id pub-id-type="doi">10.1038/nature07974</pub-id>
+<pub-id pub-id-type="pmid">19339968</pub-id></mixed-citation></ref><ref id="ece35879-bib-0026"><mixed-citation publication-type="journal" id="ece35879-cit-0026">
+<string-name>
+<surname>Hogg</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name>
+<surname>Forbes</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>Steele</surname>, <given-names>B. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Luikart</surname>, <given-names>G.</given-names>
+</string-name> (<year>2006</year>). <article-title>Genetic rescue of an insular population of large mammals</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>273</volume>(<issue>1593</issue>), <fpage>1491</fpage>&#x02013;<lpage>1499</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2006.3477</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0027"><mixed-citation publication-type="journal" id="ece35879-cit-0027">
+<string-name>
+<surname>Hufbauer</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name>
+<surname>Sz&#x00171;cs</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kasyon</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Youngberg</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Koontz</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Richards</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Melbourne</surname>, <given-names>B. A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Three types of rescue can avert extinction in a changing environment</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>112</volume>(<issue>33</issue>), <fpage>10557</fpage>&#x02013;<lpage>10562</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1504732112</pub-id>
+<pub-id pub-id-type="pmid">26240320</pub-id></mixed-citation></ref><ref id="ece35879-bib-0028"><mixed-citation publication-type="journal" id="ece35879-cit-0028">
+<string-name>
+<surname>Hughes</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Inouye</surname>, <given-names>B. D.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>M. T. J.</given-names>
+</string-name>, <string-name>
+<surname>Underwood</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vellend</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>). <article-title>Ecological consequences of genetic diversity</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>11</volume>(<issue>6</issue>), <fpage>609</fpage>&#x02013;<lpage>623</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2008.01179.x</pub-id>
+<pub-id pub-id-type="pmid">18400018</pub-id></mixed-citation></ref><ref id="ece35879-bib-0029"><mixed-citation publication-type="journal" id="ece35879-cit-0029">
+<string-name>
+<surname>Jack</surname>, <given-names>J. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thorp</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>2002</year>). <article-title>Impacts of fish predation on an Ohio River zooplankton community</article-title>. <source xml:lang="en">Journal of Plankton Research</source>, <volume>24</volume>(<issue>2</issue>), <fpage>119</fpage>&#x02013;<lpage>127</lpage>. <pub-id pub-id-type="doi">10.1093/plankt/24.2.119</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0030"><mixed-citation publication-type="journal" id="ece35879-cit-0030">
+<string-name>
+<surname>Johnson</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Chappell</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Price</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>Helen Rodd</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Olendorf</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hughes</surname>, <given-names>K. A.</given-names>
+</string-name> (<year>2010</year>). <article-title>Inbreeding depression and inbreeding avoidance in a natural population of guppies (<italic>Poecilia reticulata</italic>)</article-title>. <source xml:lang="en">Ethology</source>, <volume>116</volume>(<issue>5</issue>), <fpage>448</fpage>&#x02013;<lpage>457</lpage>. <pub-id pub-id-type="doi">10.1111/j.1439-0310.2010.01763.x</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0031"><mixed-citation publication-type="journal" id="ece35879-cit-0031">
+<string-name>
+<surname>Johnson</surname>, <given-names>W. E.</given-names>
+</string-name>, <string-name>
+<surname>Onorato</surname>, <given-names>D. P.</given-names>
+</string-name>, <string-name>
+<surname>Roelke</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Land</surname>, <given-names>E. D.</given-names>
+</string-name>, <string-name>
+<surname>Cunningham</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Belden</surname>, <given-names>R. C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>O'Brien</surname>, <given-names>S. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Genetic restoration of the Florida panther</article-title>. <source xml:lang="en">Science</source>, <volume>329</volume>(<issue>5999</issue>), <fpage>1641</fpage>&#x02013;<lpage>1645</lpage>. <pub-id pub-id-type="doi">10.1126/science.1192891</pub-id>
+<pub-id pub-id-type="pmid">20929847</pub-id></mixed-citation></ref><ref id="ece35879-bib-0032"><mixed-citation publication-type="journal" id="ece35879-cit-0032">
+<string-name>
+<surname>Jourdan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Miesen</surname>, <given-names>F. W.</given-names>
+</string-name>, <string-name>
+<surname>Zimmer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gasch</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Herder</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Schleucher</surname>, <given-names>E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bierbach</surname>, <given-names>D.</given-names>
+</string-name> (<year>2014</year>). <article-title>On the natural history of an introduced population of guppies (<italic>Poecilia reticulata</italic> Peters, 1859) in Germany</article-title>. <source xml:lang="en">BioInvasions Records</source>, <volume>3</volume>(<issue>3</issue>), <fpage>175</fpage>&#x02013;<lpage>184</lpage>. <pub-id pub-id-type="doi">10.3391/bir.2014.3.3.07</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0033"><mixed-citation publication-type="journal" id="ece35879-cit-0033">
+<string-name>
+<surname>Kinnison</surname>, <given-names>M. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hairston</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2007</year>). <article-title>Eco&#x02010;evolutionary conservation biology: Contemporary evolution and the dynamics of persistence</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>21</volume>(<issue>3</issue>), <fpage>444</fpage>&#x02013;<lpage>454</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2435.2007.01278.x</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0034"><mixed-citation publication-type="journal" id="ece35879-cit-0034">
+<string-name>
+<surname>Koehn</surname>, <given-names>R. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gaffney</surname>, <given-names>P. M.</given-names>
+</string-name> (<year>1984</year>). <article-title>Genetic heterozygosity and growth rate in <italic>Mytilus edulis</italic>
+</article-title>. <source xml:lang="en">Marine Biology</source>, <volume>82</volume>(<issue>1</issue>), <fpage>1</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1007/BF00392757</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0035"><mixed-citation publication-type="journal" id="ece35879-cit-0035">
+<string-name>
+<surname>Kronenberger</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Gerberich</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Fitzpatrick</surname>, <given-names>S. W.</given-names>
+</string-name>, <string-name>
+<surname>Broder</surname>, <given-names>E. D.</given-names>
+</string-name>, <string-name>
+<surname>Angeloni</surname>, <given-names>L. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Funk</surname>, <given-names>W. C.</given-names>
+</string-name> (<year>2018</year>). <article-title>An experimental test of alternative population augmentation scenarios</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>32</volume>(<issue>4</issue>), <fpage>838</fpage>&#x02013;<lpage>848</lpage>. <pub-id pub-id-type="doi">10.1111/cobi.13076</pub-id>
+<pub-id pub-id-type="pmid">29349820</pub-id></mixed-citation></ref><ref id="ece35879-bib-0036"><mixed-citation publication-type="journal" id="ece35879-cit-0036">
+<string-name>
+<surname>Lande</surname>, <given-names>R.</given-names>
+</string-name> (<year>1988</year>). <article-title>Genetics and biological demography in conservation</article-title>. <source xml:lang="en">Science</source>, <volume>241</volume>(<issue>4872</issue>), <fpage>1455</fpage>&#x02013;<lpage>1460</lpage>.<pub-id pub-id-type="pmid">3420403</pub-id></mixed-citation></ref><ref id="ece35879-bib-0037"><mixed-citation publication-type="journal" id="ece35879-cit-0037">
+<string-name>
+<surname>Lindholm</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Breden</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>, <given-names>W. K.</given-names>
+</string-name>, <string-name>
+<surname>Thakurta</surname>, <given-names>S. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brooks</surname>, <given-names>R.</given-names>
+</string-name> (<year>2005</year>). <article-title>Invasion success and genetic diversity of introduced populations of guppies <italic>Poecilia reticulata</italic> in Australia</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>14</volume>(<issue>12</issue>), <fpage>3671</fpage>&#x02013;<lpage>3682</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2005.02697.x</pub-id>
+<pub-id pub-id-type="pmid">16202088</pub-id></mixed-citation></ref><ref id="ece35879-bib-0038"><mixed-citation publication-type="journal" id="ece35879-cit-0038">
+<string-name>
+<surname>Lowe</surname>, <given-names>W. H.</given-names>
+</string-name>, <string-name>
+<surname>Kovach</surname>, <given-names>R. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Allendorf</surname>, <given-names>F. W.</given-names>
+</string-name> (<year>2017</year>). <article-title>Population genetics and demography unite ecology and evolution</article-title>. <source xml:lang="en">Trends in Ecology and Evolution</source>, <volume>32</volume>(<issue>2</issue>), <fpage>141</fpage>&#x02013;<lpage>152</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2016.12.002</pub-id>
+<pub-id pub-id-type="pmid">28089120</pub-id></mixed-citation></ref><ref id="ece35879-bib-0039"><mixed-citation publication-type="book" id="ece35879-cit-0039">
+<string-name>
+<surname>Magurran</surname>, <given-names>A. E.</given-names>
+</string-name> (<year>2005</year>). <source xml:lang="en">Evolutionary ecology: The Trinidadian guppy</source>. <publisher-loc>Oxford, UK</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece35879-bib-0040"><mixed-citation publication-type="journal" id="ece35879-cit-0040">
+<string-name>
+<surname>Mattila</surname>, <given-names>H. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Seeley</surname>, <given-names>T. D.</given-names>
+</string-name> (<year>2007</year>). <article-title>Genetic diversity in honey productivity and fitness</article-title>. <source xml:lang="en">Science</source>, <volume>317</volume>(<issue>5836</issue>), <fpage>10</fpage>&#x02013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1126/science.1143046</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0041"><mixed-citation publication-type="journal" id="ece35879-cit-0041">
+<string-name>
+<surname>McAndrew</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>, <given-names>R. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beardmore</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>1986</year>). <article-title>Growth rate and heterozygosity in the plaice, pleuronectes</article-title>. <source xml:lang="en">Heredity</source>, <volume>57</volume>(<issue>2</issue>), <fpage>171</fpage>&#x02013;<lpage>180</lpage>. <pub-id pub-id-type="doi">10.1038/hdy.1986.107</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0044"><mixed-citation publication-type="journal" id="ece35879-cit-0044">
+<string-name>
+<surname>Pelletier</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Garant</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hendry</surname>, <given-names>A. P.</given-names>
+</string-name> (<year>2009</year>). <article-title>Eco&#x02010;evolutionary dynamics</article-title>. <source xml:lang="en">Philosophical Transactions of the Royal Society B: Biological Sciences</source>, <volume>364</volume>(<issue>1523</issue>), <fpage>1483</fpage>&#x02013;<lpage>1489</lpage>. <pub-id pub-id-type="doi">10.1098/rstb.2009.0027</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0045"><mixed-citation publication-type="journal" id="ece35879-cit-0045">
+<string-name>
+<surname>Pierce</surname>, <given-names>B. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mitton</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>1982</year>). <article-title>Allozyme heterozygosity and growth in the tiger salamander, <italic>Ambystoma tigrinum</italic>
+</article-title>. <source xml:lang="en">Journal of Heredity</source>, <volume>73</volume>(<issue>4</issue>), <fpage>250</fpage>&#x02013;<lpage>253</lpage>. <pub-id pub-id-type="doi">10.1093/oxfordjournals.jhered.a109633</pub-id>
+<pub-id pub-id-type="pmid">7108182</pub-id></mixed-citation></ref><ref id="ece35879-bib-0046"><mixed-citation publication-type="journal" id="ece35879-cit-0046">
+<string-name>
+<surname>Post</surname>, <given-names>D. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Palkovacs</surname>, <given-names>E. P.</given-names>
+</string-name> (<year>2009</year>). <article-title>Eco&#x02010;evolutionary feedbacks in community and ecosystem ecology: Interactions between the ecological theatre and the evolutionary play</article-title>. <source xml:lang="en">Philosophical Transactions of the Royal Society B: Biological Sciences</source>, <volume>364</volume>(<issue>1523</issue>), <fpage>1629</fpage>&#x02013;<lpage>1640</lpage>. <pub-id pub-id-type="doi">10.1098/rstb.2009.0012</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0047"><mixed-citation publication-type="journal" id="ece35879-cit-0047">
+<string-name>
+<surname>Reed</surname>, <given-names>D. H.</given-names>
+</string-name>, <string-name>
+<surname>Frankham</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Reed</surname>, <given-names>D. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Frankham</surname>, <given-names>R.</given-names>
+</string-name> (<year>2016</year>). <article-title>Correlation between fitness and genetic diversity correlation between fitness and genetic diversity</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>17</volume>(<issue>1</issue>), <fpage>230</fpage>&#x02013;<lpage>237</lpage>. <pub-id pub-id-type="doi">10.1046/j.1523-1739.2003.01236.x</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0048"><mixed-citation publication-type="journal" id="ece35879-cit-0048">
+<string-name>
+<surname>Reznick</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bryant</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Reznick</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bryant</surname>, <given-names>M.</given-names>
+</string-name> (<year>2007</year>). <article-title>Comparative long&#x02010;term mark&#x02010;recapture studies of guppies (<italic>Poecilia reticulata</italic>): Differences among high and low predation localities in growth and survival</article-title>. <source xml:lang="en">Finnish Zoological and Botanical Publishing Board</source>, <volume>44</volume>(<issue>2</issue>), <fpage>152</fpage>&#x02013;<lpage>160</lpage>.</mixed-citation></ref><ref id="ece35879-bib-0049"><mixed-citation publication-type="journal" id="ece35879-cit-0049">
+<string-name>
+<surname>Reznick</surname>, <given-names>D. N.</given-names>
+</string-name>, <string-name>
+<surname>Butler</surname>, <given-names>M. J.</given-names>
+<suffix>IV</suffix>
+</string-name>, <string-name>
+<surname>Rodd</surname>, <given-names>F. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ross</surname>, <given-names>P.</given-names>
+</string-name> (<year>1996</year>). <article-title>Life&#x02010;history evolution in guppies (<italic>Poecilia reticulata</italic>). 6. Differential mortality as a mechanism for natural selection</article-title>. <source xml:lang="en">Evolution</source>, <volume>50</volume>, <fpage>1651</fpage>&#x02013;<lpage>1660</lpage>.<pub-id pub-id-type="pmid">28565709</pub-id></mixed-citation></ref><ref id="ece35879-bib-0050"><mixed-citation publication-type="journal" id="ece35879-cit-0050">
+<string-name>
+<surname>Reznick</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Endler</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>1982</year>). <article-title>The impact of predation on life history evolution</article-title>. <source xml:lang="en">Evolution</source>, <volume>36</volume>(<issue>1</issue>), <fpage>160</fpage>&#x02013;<lpage>177</lpage>.<pub-id pub-id-type="pmid">28581096</pub-id></mixed-citation></ref><ref id="ece35879-bib-0051"><mixed-citation publication-type="journal" id="ece35879-cit-0051">
+<string-name>
+<surname>Robinson</surname>, <given-names>Z. L.</given-names>
+</string-name>, <string-name>
+<surname>Coombs</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Hudy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nislow</surname>, <given-names>K. H.</given-names>
+</string-name>, <string-name>
+<surname>Letcher</surname>, <given-names>B. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Whiteley</surname>, <given-names>A. R.</given-names>
+</string-name> (<year>2017</year>). <article-title>Experimental test of genetic rescue in isolated populations of brook trout</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>26</volume>(<issue>17</issue>), <fpage>4418</fpage>&#x02013;<lpage>4433</lpage>. <pub-id pub-id-type="doi">10.1111/mec.14225</pub-id>
+<pub-id pub-id-type="pmid">28664980</pub-id></mixed-citation></ref><ref id="ece35879-bib-0052"><mixed-citation publication-type="journal" id="ece35879-cit-0052">
+<string-name>
+<surname>Rudolf</surname>, <given-names>V. H. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rasmussen</surname>, <given-names>N. L.</given-names>
+</string-name> (<year>2013</year>). <article-title>Ontogenetic functional diversity: Size structure of a keystone predator drives functioning of a complex ecosystem</article-title>. <source xml:lang="en">Ecology</source>, <volume>94</volume>(<issue>5</issue>), <fpage>1046</fpage>&#x02013;<lpage>1056</lpage>. <pub-id pub-id-type="doi">10.1890/12-0378.1</pub-id>
+<pub-id pub-id-type="pmid">23858645</pub-id></mixed-citation></ref><ref id="ece35879-bib-0053"><mixed-citation publication-type="journal" id="ece35879-cit-0053">
+<string-name>
+<surname>Saccheri</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Kuussaari</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kankare</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vikman</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Fortelious</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hanski</surname>, <given-names>I.</given-names>
+</string-name> (<year>1998</year>). <article-title>Inbreeding and extinction in a butterfly metapopulation</article-title>. <source xml:lang="en">Nature</source>, <volume>392</volume>, <fpage>491</fpage>&#x02013;<lpage>494</lpage>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.davidsbatista.net/blog/2017/11/13/Conditional_Random_Fields">http://www.davidsbatista.net/blog/2017/11/13/Conditional_Random_Fields</ext-link>
+</mixed-citation></ref><ref id="ece35879-bib-0054"><mixed-citation publication-type="journal" id="ece35879-cit-0054">
+<string-name>
+<surname>Shoji</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Yokoyama</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kawata</surname>, <given-names>M.</given-names>
+</string-name> (<year>2007</year>). <article-title>Molecular phylogeny and genetic divergence of the introduced populations of Japanese guppies, <italic>Poecilia reticulata</italic>
+</article-title>.<source xml:lang="en"> Conservation Genetics</source>, <volume>8</volume>(<issue>2</issue>), <fpage>261</fpage>&#x02013;<lpage>271</lpage>. <pub-id pub-id-type="doi">10.1007/s10592-006-9166-1</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0055"><mixed-citation publication-type="book" id="ece35879-cit-0055">
+<string-name>
+<surname>Slobodkin</surname>, <given-names>L. B.</given-names>
+</string-name> (<year>1961</year>). <source xml:lang="en">Growth and regulation of animal populations</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Holt, Rinehart and Winston</publisher-name>.</mixed-citation></ref><ref id="ece35879-bib-0056"><mixed-citation publication-type="journal" id="ece35879-cit-0056">
+<string-name>
+<surname>Smallbone</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>van Oosterhout</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cable</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>The effects of inbreeding on disease susceptibility: <italic>Gyrodactylus turnbulli</italic> infection of guppies<italic>, Poecilia reticulata</italic>
+</article-title>. <source xml:lang="en">Experimental Parasitology</source>, <volume>167</volume>, <fpage>32</fpage>&#x02013;<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1016/j.exppara.2016.04.018</pub-id>
+<pub-id pub-id-type="pmid">27130704</pub-id></mixed-citation></ref><ref id="ece35879-bib-0057"><mixed-citation publication-type="journal" id="ece35879-cit-0057">
+<string-name>
+<surname>Sterner</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>1986</year>). <article-title>Herbivores' direct and indirect effects on algal populations</article-title>. <source xml:lang="en">Science</source>, <volume>231</volume>(<issue>4738</issue>), <fpage>605</fpage>&#x02013;<lpage>607</lpage>.<pub-id pub-id-type="pmid">17750971</pub-id></mixed-citation></ref><ref id="ece35879-bib-0058"><mixed-citation publication-type="journal" id="ece35879-cit-0058">
+<string-name>
+<surname>Swindell</surname>, <given-names>W. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bouzat</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2006</year>). <article-title>Gene flow and adaptive potential in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Conservation Genetics</source>, <volume>7</volume>(<issue>1</issue>), <fpage>79</fpage>&#x02013;<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1007/s10592-005-8223-5</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0059"><mixed-citation publication-type="journal" id="ece35879-cit-0059">
+<string-name>
+<surname>Tallmon</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Luikart</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Waples</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2004</year>). <article-title>The alluring simplicity and complex reality of genetic rescue</article-title>. <source xml:lang="en">Trends in Ecology and Evolution</source>, <volume>19</volume>(<issue>9</issue>), <fpage>489</fpage>&#x02013;<lpage>496</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2004.07.003</pub-id>
+<pub-id pub-id-type="pmid">16701312</pub-id></mixed-citation></ref><ref id="ece35879-bib-0060"><mixed-citation publication-type="journal" id="ece35879-cit-0060">
+<string-name>
+<surname>Tsutsui</surname>, <given-names>N. D.</given-names>
+</string-name>, <string-name>
+<surname>Suarez</surname>, <given-names>A. V.</given-names>
+</string-name>, <string-name>
+<surname>Holway</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Case</surname>, <given-names>T. J.</given-names>
+</string-name> (<year>2002</year>). <article-title>Reduced genetic variation and the success of an invasive species</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>97</volume>(<issue>11</issue>), <fpage>5948</fpage>&#x02013;<lpage>5953</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.100110397</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0061"><mixed-citation publication-type="journal" id="ece35879-cit-0061">
+<string-name>
+<surname>Van Oosterhout</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Trigg</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Carvalho</surname>, <given-names>G. R.</given-names>
+</string-name>, <string-name>
+<surname>Magurran</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name>
+<surname>Hauser</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shaw</surname>, <given-names>P. W.</given-names>
+</string-name> (<year>2003</year>). <article-title>Inbreeding depression and genetic load of sexually selected traits: How the guppy lost its spots</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>16</volume>(<issue>2</issue>), <fpage>273</fpage>&#x02013;<lpage>281</lpage>. <pub-id pub-id-type="doi">10.1046/j.1420-9101.2003.00511.x</pub-id>
+<pub-id pub-id-type="pmid">14635866</pub-id></mixed-citation></ref><ref id="ece35879-bib-0062"><mixed-citation publication-type="journal" id="ece35879-cit-0062">
+<string-name>
+<surname>Vandewoestijne</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schtickzelle</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baguette</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>). <article-title>Positive correlation between genetic diversity and fitness in a large, well&#x02010;connected metapopulation</article-title>. <source xml:lang="en">BMC Biology</source>, <volume>6</volume>, <fpage>1</fpage>&#x02013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1186/1741-7007-6-46</pub-id>
+<pub-id pub-id-type="pmid">18194540</pub-id></mixed-citation></ref><ref id="ece35879-bib-0063"><mixed-citation publication-type="journal" id="ece35879-cit-0063">
+<string-name>
+<surname>Weeks</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Heinze</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Perrin</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Stoklosa</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hoffmann</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>van Rooyen</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Mansergh</surname>, <given-names>I.</given-names>
+</string-name> (<year>2017</year>). <article-title>Genetic rescue increases fitness and aids rapid recovery of an endangered marsupial population</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>8</volume>(<issue>1</issue>), <fpage>1</fpage>&#x02013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1038/s41467-017-01182-3</pub-id>
+</mixed-citation></ref><ref id="ece35879-bib-0064"><mixed-citation publication-type="journal" id="ece35879-cit-0064">
+<string-name>
+<surname>Westemeier</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<surname>Brawn</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Simpson</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Esker</surname>, <given-names>T. L.</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Walk</surname>, <given-names>J. W.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Paige</surname>, <given-names>K. N.</given-names>
+</string-name> (<year>1998</year>). <article-title>Tracking the long&#x02010;term decline and recovery of an isolated population</article-title>. <source xml:lang="en">Science</source>, <volume>282</volume>(<issue>5394</issue>), <fpage>1695</fpage>&#x02013;<lpage>1698</lpage>. <pub-id pub-id-type="doi">10.1126/science.282.5394.1695</pub-id>
+<pub-id pub-id-type="pmid">9831558</pub-id></mixed-citation></ref><ref id="ece35879-bib-0065"><mixed-citation publication-type="journal" id="ece35879-cit-0065">
+<string-name>
+<surname>Whiteley</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Fitzpatrick</surname>, <given-names>S. W.</given-names>
+</string-name>, <string-name>
+<surname>Funk</surname>, <given-names>W. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tallmon</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Genetic rescue to the rescue</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>30</volume>(<issue>1</issue>), <fpage>42</fpage>&#x02013;<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2014.10.009</pub-id>
+<pub-id pub-id-type="pmid">25435267</pub-id></mixed-citation></ref><ref id="ece35879-bib-0066"><mixed-citation publication-type="journal" id="ece35879-cit-0066">
+<string-name>
+<surname>Yoshida</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name>
+<surname>Ellner</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Fussmann</surname>, <given-names>G. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hairston</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2003</year>). <article-title>Rapid evolution drives ecological dynamics in a predator &#x02013; prey system</article-title>. <source xml:lang="en">Nature</source>, <volume>424</volume>(<issue>July</issue>), <fpage>303</fpage>&#x02013;<lpage>306</lpage>. <pub-id pub-id-type="doi">10.1038/nature01767</pub-id>
+<pub-id pub-id-type="pmid">12867979</pub-id></mixed-citation></ref></ref-list></back></article>

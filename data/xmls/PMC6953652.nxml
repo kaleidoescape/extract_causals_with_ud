@@ -1,0 +1,683 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938532</article-id><article-id pub-id-type="pmc">6953652</article-id><article-id pub-id-type="doi">10.1002/ece3.5880</article-id><article-id pub-id-type="publisher-id">ECE35880</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Patterns and potential drivers of intraspecific variability in the body C, N, and P composition of a terrestrial consumer, the snowshoe hare (<italic>Lepus americanus</italic>)</article-title><alt-title alt-title-type="left-running-head">RIZZUTO et al.</alt-title></title-group><contrib-group><contrib id="ece35880-cr-0001" contrib-type="author" corresp="yes"><name><surname>Rizzuto</surname><given-names>Matteo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3065-9140</contrib-id><xref ref-type="aff" rid="ece35880-aff-0001">
+<sup>1</sup>
+</xref><address><email>mrizzuto@mun.ca</email></address></contrib><contrib id="ece35880-cr-0002" contrib-type="author"><name><surname>Leroux</surname><given-names>Shawn J.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9580-0294</contrib-id><xref ref-type="aff" rid="ece35880-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35880-cr-0003" contrib-type="author"><name><surname>Vander Wal</surname><given-names>Eric</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8534-4317</contrib-id><xref ref-type="aff" rid="ece35880-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35880-cr-0004" contrib-type="author"><name><surname>Wiersma</surname><given-names>Yolanda F.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4604-9240</contrib-id><xref ref-type="aff" rid="ece35880-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35880-cr-0005" contrib-type="author"><name><surname>Heckford</surname><given-names>Travis R.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3993-6450</contrib-id><xref ref-type="aff" rid="ece35880-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35880-cr-0006" contrib-type="author"><name><surname>Balluffi&#x02010;Fry</surname><given-names>Juliana</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2365-1055</contrib-id><xref ref-type="aff" rid="ece35880-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ece35880-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<institution>Memorial University of Newfoundland</institution>
+<city>St. John's</city>
+<named-content content-type="country-part">NF</named-content>
+<country country="CA">Canada</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Matteo Rizzuto, Department of Biology, Memorial University of Newfoundland, 230 Elizabeth Avenue, St. John's, NF, Canada.<break/>
+Email: <email>mrizzuto@mun.ca</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>12</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14453</fpage><lpage>14464</lpage><history><date date-type="received"><day>23</day><month>8</month><year>2019</year></date><date date-type="rev-recd"><day>04</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>03</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14453.pdf"/><abstract id="ece35880-abs-0001"><title>Abstract</title><p>
+<list list-type="order" id="ece35880-list-0001"><list-item><p>Intraspecific variability in ecological traits is widespread in nature. Recent evidence, mostly from aquatic ecosystems, shows individuals differing at the most fundamental level, that of their chemical composition. Age, sex, or body size and condition may be key drivers of intraspecific variability in the body concentrations of carbon (C), nitrogen (N), and phosphorus (P). However, we still have a rudimentary understanding of the patterns and drivers of intraspecific variability in chemical composition of terrestrial consumers, particularly vertebrates.</p></list-item><list-item><p>Here, we investigate the elemental composition of the snowshoe hare <italic>Lepus americanus</italic>. Based on snowshoe hare ecology, we predicted older, larger individuals to have higher concentration of N or P and lower C content compared with younger, smaller individuals. We also predicted females to have higher concentrations of N, P, and lower C than males due to the higher reproductive costs they incur. Finally, we predicted that individuals in better body condition would have higher N and P than those in worse condition, irrespective of age.</p></list-item><list-item><p>We obtained C, N, and P concentrations and ratios from a sample of 50 snowshoe hares. We then used general linear models to test our predictions on the relationship between age, sex, body size or condition and stoichiometric variability in hares.</p></list-item><list-item><p>We found considerable variation in C, N, and P stoichiometry within our sample. Contrary to our predictions, we found weak evidence of N content decreasing with age. As well, sex appeared to have no relationship with hare body elemental composition. Conversely, as expected, P content increased with body size and condition. Finally, we found no relationship between variability in C content and any of our predictor variables.</p></list-item><list-item><p>Snowshoe hare stoichiometry does not appear to vary with individual age, sex, body size, or condition. However, the weak relationship between body N concentration and age may suggest varying nutritional requirements of individuals at different ages. Conversely, body P's weak relationship to body size and condition appears in line with this limiting element's importance in terrestrial ecosystems. Snowshoe hares are keystone herbivores in the boreal forest of North America, and the substantial stoichiometric variability we find in our sample could have important implications for nutrient dynamics, in both boreal and adjacent ecosystems.</p></list-item></list>
+</p></abstract><abstract abstract-type="graphical" id="ece35880-abs-0002"><p>We investigate variability in whole&#x02010;body carbon, nitrogen, and phosphorus concentrations and ratios of snowshoe hares. We test whether age, sex, and body size may serve as predictors of this variability. We expected higher P and N concentrations (a) in younger individuals, as well as (b) in females, and (c) in individuals in better condition. While we found no substantial support for age, sex, or body size as predictors of this variation, we nonetheless observe considerable stoichiometric variability in our sample, which may have important implications for nutrient dynamics in boreal and adjacent ecosystems.<boxed-text position="anchor" content-type="graphic" id="ece35880-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14453-g005.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35880-kwd-0001">boreal forest</kwd><kwd id="ece35880-kwd-0002">carbon</kwd><kwd id="ece35880-kwd-0003">ecological stoichiometry</kwd><kwd id="ece35880-kwd-0004">ecosystem ecology</kwd><kwd id="ece35880-kwd-0005">herbivore</kwd><kwd id="ece35880-kwd-0006">intraspecific variability</kwd><kwd id="ece35880-kwd-0007">nitrogen</kwd><kwd id="ece35880-kwd-0008">phosphorus</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Government of Newfoundland and Labrador, Centre for Forest Science and Innovation, to SJL, YW, and EVW</funding-source></award-group><award-group id="funding-0002"><funding-source>Government of Newfoundland and Labrador, Innovate NL Leverage R&#x00026;D program, to EVW and SJL</funding-source><award-id>5404.1884.102</award-id></award-group><award-group id="funding-0003"><funding-source>Government of Newfoundland and Labrador, Ignite R&#x00026;D program, to SJL</funding-source><award-id>5404.1696.101</award-id></award-group><award-group id="funding-0004"><funding-source>Mitacs, Accelerate Graduate Research Internship program, to YW, EVW, and SJL</funding-source><award-id>IT05904</award-id></award-group><award-group id="funding-0005"><funding-source>Canada Foundation for Innovation, John R. Evans Leaders Fund, to EVW and SJL</funding-source><award-id>35973</award-id></award-group><award-group id="funding-0006"><funding-source>Natural Science and Engineering Research Council, Discovery Grant, to SJL</funding-source><award-id>RGPIN 435372&#x02010;2013</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="12"/><word-count count="10020"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35880-cit-1001">
+<string-name>
+<surname>Rizzuto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Leroux</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Vander Wal</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Wiersma</surname>
+<given-names>YF</given-names>
+</string-name>, <string-name>
+<surname>Heckford</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Balluffi&#x02010;Fry</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Patterns and potential drivers of intraspecific variability in the body C, N, and P composition of a terrestrial consumer, the snowshoe hare (<italic>Lepus americanus</italic>)</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14453</fpage>&#x02013;<lpage>14464</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5880</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35880-body-0001"><sec id="ece35880-sec-0001"><label>1</label><title>INTRODUCTION</title><p>The elemental composition of an organism is an important ecological trait subject to variation within and across species (Jeyasingh, Cothran, &#x00026; Tobler, <xref rid="ece35880-bib-0030" ref-type="ref">2014</xref>; Leal, Seehausen, &#x00026; Matthews, <xref rid="ece35880-bib-0033" ref-type="ref">2017</xref>). Primary producers (e.g., plants, algae), owing to the presence of dedicated storage structures in their cells, are plastic in their elemental composition (Borer et al., <xref rid="ece35880-bib-0008" ref-type="ref">2013</xref>; Sterner &#x00026; Elser, <xref rid="ece35880-bib-0057" ref-type="ref">2002</xref>): individual stoichiometric variability can at times be as large as that found among different genotypes (&#x000c5;gren &#x00026; Weih, <xref rid="ece35880-bib-0002" ref-type="ref">2012</xref>). Marine phytoplankton and terrestrial plants show large variability in their carbon (C), nitrogen (N), and phosphorus (P) concentrations, at both large (Martiny et al., <xref rid="ece35880-bib-0039" ref-type="ref">2013</xref>; Sardans et al., <xref rid="ece35880-bib-0052" ref-type="ref">2016</xref>) and small spatio&#x02010;temporal extents (Rivas&#x02010;Ubach, Sardans, Perez&#x02010;Trujillo, Estiarte, &#x00026; Penuelas, <xref rid="ece35880-bib-0051" ref-type="ref">2012</xref>). Conversely, intraspecific variability in the chemical composition of consumers is generally considered smaller than variability observed in autotrophs, due to strict homeostasis requirements&#x02014;particularly for terrestrial consumers (Elser et al., <xref rid="ece35880-bib-0019" ref-type="ref">2007</xref>; Leroux &#x00026; Schmitz, <xref rid="ece35880-bib-0035" ref-type="ref">2015</xref>; Sterner &#x00026; Elser, <xref rid="ece35880-bib-0057" ref-type="ref">2002</xref>). However, studies of invertebrates (Gonz&#x000e1;lez, Fari&#x000f1;a, Kay, Pinto, &#x00026; Marquet, <xref rid="ece35880-bib-0025" ref-type="ref">2011</xref>) or aquatic consumers (e.g., fish; Ebel, Leroux, Robertson, &#x00026; Dempson, <xref rid="ece35880-bib-0014" ref-type="ref">2015</xref>; Ebel, Leroux, Robertson, &#x00026; Dempson, <xref rid="ece35880-bib-0015" ref-type="ref">2016</xref>) recently challenged this view, showing evidence of considerable intraspecific stoichiometric variability in these species. For terrestrial vertebrates, much research has focused on their nutritional body composition (Hewison et al., <xref rid="ece35880-bib-0027" ref-type="ref">1996</xref>), differential use of chemical elements among conspecifics (Atwood &#x00026; Weeks, <xref rid="ece35880-bib-0004" ref-type="ref">2002</xref>), or body condition (Peig &#x00026; Green, <xref rid="ece35880-bib-0046" ref-type="ref">2010</xref>). We know little, however, about their organismal elemental composition, how it interacts with other ecological traits, and whether it varies among individuals. Given the very different patterns of energy and nutrient flows in aquatic and terrestrial ecosystems, which are driven primarily by the greater resource investments in structural support structures by terrestrial autotrophs (Shurin, Gruner, &#x00026; Hillebrand, <xref rid="ece35880-bib-0056" ref-type="ref">2006</xref>), we may expect differences in vertebrate consumer body composition in different ecosystems. Knowledge of the patterns and drivers of terrestrial vertebrate body elemental composition may shed light on how they shape a species' ecological niche (Gonz&#x000e1;lez et al., <xref rid="ece35880-bib-1024" ref-type="ref">2018</xref>; Gonz&#x000e1;lez, D&#x000e9;zerald, Marquet, Romero, &#x00026; Srivastava, <xref rid="ece35880-bib-0024" ref-type="ref">2017</xref>; Pe&#x000f1;uelas et al., <xref rid="ece35880-bib-0047" ref-type="ref">2019</xref>). Further, it may improve our ability to predict the relationship between consumers and ecosystem processes (e.g., carbon cycling; Schmitz et al., <xref rid="ece35880-bib-0053" ref-type="ref">2014</xref>).</p><p>Herbivores have the potential to exert top&#x02010;down control on primary producers and can also affect their predators' ecology (Leroux &#x00026; Schmitz, <xref rid="ece35880-bib-0035" ref-type="ref">2015</xref>). They rely on resources whose organismal stoichiometry is markedly different from their own: terrestrial plants and algae are rich in C&#x02010;heavy structural molecules, while herbivores rely on N and P to fuel their growth (Fagan et al., <xref rid="ece35880-bib-0021" ref-type="ref">2002</xref>; Sterner &#x00026; Elser, <xref rid="ece35880-bib-0057" ref-type="ref">2002</xref>). This mismatch, especially evident in terrestrial food webs, creates a strong bottleneck to nutrient flow in ecosystems (Boersma et al., <xref rid="ece35880-bib-0007" ref-type="ref">2008</xref>; Leroux &#x00026; Schmitz, <xref rid="ece35880-bib-0035" ref-type="ref">2015</xref>). As such, investigating the drivers of intraspecific variability in elemental composition of terrestrial herbivores can help shed light on both trophic dynamics and ecosystem processes, such as nutrient cycling (Leroux &#x00026; Schmitz, <xref rid="ece35880-bib-0035" ref-type="ref">2015</xref>; Schmitz et al., <xref rid="ece35880-bib-0054" ref-type="ref">2018</xref>; Sterner &#x00026; Elser, <xref rid="ece35880-bib-0057" ref-type="ref">2002</xref>). Previous studies showed that consumers' elemental composition may vary under the effect of a wide range of variables and, in particular, as a function of an individual's age, sex, or body size and condition (Ebel et al., <xref rid="ece35880-bib-0014" ref-type="ref">2015</xref>; El&#x02010;Sabaawi et al., <xref rid="ece35880-bib-0017" ref-type="ref">2014</xref>; El&#x02010;Sabaawi, Zandon&#x000e0;, et al., <xref rid="ece35880-bib-0018" ref-type="ref">2012</xref>). Here, we investigate how these three variables influence the C, N, P body composition of a terrestrial consumer common across North America's boreal forest, the snowshoe hare <italic>Lepus americanus</italic>. We focus on C, N, and P, as these are three of the most commonly studied and important elements for an organism (Sterner &#x00026; Elser, <xref rid="ece35880-bib-0057" ref-type="ref">2002</xref>; but see Jeyasingh et al., <xref rid="ece35880-bib-0030" ref-type="ref">2014</xref>). Owing to the strong nutrient limitation of boreal ecosystems (Pastor, Cohen, &#x00026; Hobbs, <xref rid="ece35880-bib-0044" ref-type="ref">2006</xref>), their unique ecology (Feldhamer, Thompson, &#x00026; Chapman, <xref rid="ece35880-bib-0022" ref-type="ref">2003</xref>), and their role as keystone herbivores in the boreal forest (Krebs, Boonstra, &#x00026; Boutin, <xref rid="ece35880-bib-0032" ref-type="ref">2018</xref>), snowshoe hares are well&#x02010;suited to address these questions.</p><p>Organismal elemental content can vary throughout an individual's life. For instance, early life stages of <italic>Daphnia lumholtzi</italic> show higher concentrations of P and lower N:P than older ones, that appear to more strongly influence their growth rate than their body size (Main, Dobberfuhl, &#x00026; Elser, <xref rid="ece35880-bib-0038" ref-type="ref">1997</xref>). Evidence shows this pattern holds true among freshwater insects as well (Back &#x00026; King, <xref rid="ece35880-bib-0005" ref-type="ref">2013</xref>). Furthermore, similar intraspecific differences in elemental concentrations between life stages also exist among vertebrates (El&#x02010;Sabaawi, Kohler, et al., <xref rid="ece35880-bib-0016" ref-type="ref">2012</xref>; El&#x02010;Sabaawi et al., <xref rid="ece35880-bib-0017" ref-type="ref">2014</xref>; El&#x02010;Sabaawi, Zandon&#x000e0;, et al., <xref rid="ece35880-bib-0018" ref-type="ref">2012</xref>). At times, this ontogenic variation in elemental composition of conspecifics is as large as that found among different genera (e.g., <italic>Pimephales promelas</italic> and <italic>Cyprinodon variegatus</italic>; Boros, S&#x000e1;ly, &#x00026; Vanni, <xref rid="ece35880-bib-0009" ref-type="ref">2015</xref>). This allows for describing life stage&#x02010;specific elemental signatures, as recently done for pre&#x02010; and post&#x02010;spawn adult Atlantic salmon <italic>Salmo salar</italic> during their annual spawning migration up&#x02010; and downstream, respectively (Ebel et al., <xref rid="ece35880-bib-0015" ref-type="ref">2016</xref>). Similarly, the transition from newborn to adult in mammals involves a wide range of developmental changes, for example, skeletal development and gonadal maturation, that could influence the elemental requirements and composition of an individual as it grows. For instance, Sterner and Elser (<xref rid="ece35880-bib-0057" ref-type="ref">2002</xref>) hypothesize that, as bone tissue should contain most of its P reserves, a vertebrate's P content should increase with age given skeletal growth. Snowshoe hare develop quickly from newborn to adult but live in a strongly nutrient&#x02010;limited environment: the trade&#x02010;offs they face in acquiring necessary nutrients throughout their lifetime makes them well&#x02010;suited to investigate how age affects vertebrate intraspecific stoichiometry.</p><p>In a similar way, sex could affect relative content of key elements, due to differences in reproductive strategies and roles between males and females. Female mayflies, for instance, tend to have higher %P than males and slower %P decline with age (Back &#x00026; King, <xref rid="ece35880-bib-0005" ref-type="ref">2013</xref>). Among vertebrates, three&#x02010;spined stickleback <italic>Gasterosteus aculeatus</italic> populations sampled from different lakes showed opposing trends in %P and N:P between sexes (Durston &#x00026; El&#x02010;Sabaawi, <xref rid="ece35880-bib-0013" ref-type="ref">2017</xref>). Among mammals, differences in elemental composition related to sex arise mostly because of either parental care or mate search. Lactation and parental care exert costs due to increased foraging requirements in the parent administrating to the newborns, as is the case among small mammals such as the big brown bat <italic>Eptesicus fuscus</italic> (Hood, Oftedal, &#x00026; Kunz, <xref rid="ece35880-bib-0028" ref-type="ref">2006</xref>). Similarly, the development of secondary sexual characteristics, for instance the yearly production of antlers in some ungulate species, dramatically increases the need of a few selected elements in one of the two sexes (Atwood &#x00026; Weeks, <xref rid="ece35880-bib-0004" ref-type="ref">2002</xref>). While snowshoe hares are weakly sexually dimorphic (Feldhamer et al., <xref rid="ece35880-bib-0022" ref-type="ref">2003</xref>) and lack specialized secondary sexual characteristics, they can produce up to four litters per year, each comprising between 4 and 6 leverets. Females are larger than males, on average, likely as a strategy to offset this large reproductive investment (Feldhamer et al., <xref rid="ece35880-bib-0022" ref-type="ref">2003</xref>). Consequently, differences in the organismal content of C, N, or P could arise between sexes in hares following varying nutritional needs due to different reproductive strategies and efforts (Morehouse, Nakazawa, Booher, Jeyasingh, &#x00026; Hall, <xref rid="ece35880-bib-0041" ref-type="ref">2010</xref>).</p><p>Organismal elemental composition can also vary with an individual's body size, as well as with its related condition metrics (body condition indexes, BCI; Stevenson &#x00026; Woods, <xref rid="ece35880-bib-0059" ref-type="ref">2006</xref>). For instance, P content tends to scale with an organism's size, particularly among invertebrates (Back &#x00026; King, <xref rid="ece35880-bib-0005" ref-type="ref">2013</xref>; Gonz&#x000e1;lez et al., <xref rid="ece35880-bib-0025" ref-type="ref">2011</xref>; but see Gillooly et al., <xref rid="ece35880-bib-0023" ref-type="ref">2005</xref>). While widespread, the sign of this relationship differs strongly among different groups, such as invertebrates and vertebrates. Among invertebrates, P content decreases with size, as they lack internal repositories of this element (Gonz&#x000e1;lez et al., <xref rid="ece35880-bib-0025" ref-type="ref">2011</xref>; Sterner &#x00026; Elser, <xref rid="ece35880-bib-0057" ref-type="ref">2002</xref>). Conversely, among vertebrates the majority of P stocks are found in bone tissue, so the P&#x02010;body size allometric relationship should be positive (Sterner &#x00026; Elser, <xref rid="ece35880-bib-0057" ref-type="ref">2002</xref>). That is, all else being equal, P concentration should increase as the body size of an individual increases. However, modeling approaches show that P content should initially decrease and eventually approach an asymptotic relationship with vertebrate body size (Gillooly et al., <xref rid="ece35880-bib-0023" ref-type="ref">2005</xref>). Yet, empirical evidence suggests vertebrates' organismal P content increases with body size: for instance, in the tropical stream fish <italic>Rivulus hartii</italic>, larger individuals have higher concentrations of P than their smaller conspecifics (El&#x02010;Sabaawi, Kohler, et al., <xref rid="ece35880-bib-0016" ref-type="ref">2012</xref>). Likewise, in the Atacama Desert of Chile, two species of lizards show a similar pattern of %P increasing with body size (Gonz&#x000e1;lez et al., <xref rid="ece35880-bib-0025" ref-type="ref">2011</xref>). In turn, this variability in the content of fundamental nutrients with body size could influence the overall condition of an individual&#x02014;which ultimately determines its fitness and nutritional value for its predators (Stevenson &#x00026; Woods, <xref rid="ece35880-bib-0059" ref-type="ref">2006</xref>). In a strongly N&#x02010; and P&#x02010;limited environment like the boreal forest, snowshoe hares need access to large quantities of both N and P to develop muscle mass and skeleton over the course of a relatively short time (Pilati &#x00026; Vanni, <xref rid="ece35880-bib-0048" ref-type="ref">2007</xref>). Thus, larger individuals could indeed show higher concentrations of N and P as they may prioritize or have easier access to these limiting nutrients over C, or other elements (Kay et al., <xref rid="ece35880-bib-0031" ref-type="ref">2005</xref>).</p><p>From all of the above it follows that, during an individual's lifetime, its content of C, N, and P likely varies as a result of age (Ebel et al., <xref rid="ece35880-bib-0015" ref-type="ref">2016</xref>), sex (Durston &#x00026; El&#x02010;Sabaawi, <xref rid="ece35880-bib-0013" ref-type="ref">2017</xref>), or body size (El&#x02010;Sabaawi, Kohler, et al., <xref rid="ece35880-bib-0016" ref-type="ref">2012</xref>). Following previous works and theory on both consumer stoichiometry (Boros et al., <xref rid="ece35880-bib-0009" ref-type="ref">2015</xref>; Ebel et al., <xref rid="ece35880-bib-0015" ref-type="ref">2016</xref>; Gonz&#x000e1;lez et al., <xref rid="ece35880-bib-0025" ref-type="ref">2011</xref>) and snowshoe hare ecology (Krebs et al., <xref rid="ece35880-bib-0032" ref-type="ref">2018</xref>), we predict that (a) snowshoe hare organismal concentration of N and P increases as individuals grow older, whereas C concentration should decrease. We also expect (b) female hares to have higher overall concentration of N and P than males, due to higher reproductive costs, and lower C. Finally, we expect (c) larger snowshoe hares and those in better body condition to have higher concentrations of N and P. We provide predictions pertaining to the C:N, C:P, and N:P ratios in Appendix <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref>: section 1. We present one of the first assessments of the C, N, and P body composition of a terrestrial vertebrate and discuss how intraspecific stoichiometric variability might influence trophic dynamics and ecosystem processes.</p></sec><sec sec-type="methods" id="ece35880-sec-0002"><label>2</label><title>METHODS</title><sec id="ece35880-sec-0003"><label>2.1</label><title>Study species</title><p>Snowshoe hares (Figure <xref rid="ece35880-fig-0001" ref-type="fig">1</xref>) are a keystone herbivore in the boreal forests of North America, with a geographic range extending from Alaska to New Mexico (Feldhamer et al., <xref rid="ece35880-bib-0022" ref-type="ref">2003</xref>). Average total body length of snowshoe hares varies between 36 and 52&#x000a0;cm and mean adult body weight is 1.3&#x000a0;kg (range: 0.9&#x02013;2.3&#x000a0;kg): of this, only about 5% is fat, with both seasonal and annual fluctuations (Murray, <xref rid="ece35880-bib-0043" ref-type="ref">2002</xref>). Females are usually 10%&#x02013;25% larger than males (Feldhamer et al., <xref rid="ece35880-bib-0022" ref-type="ref">2003</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35880-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>A snowshoe hare, <italic>Lepus americanus</italic>, in its summer livery. Photograph courtesy of Juliana Balluffi&#x02010;Fry</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14453-g001"/></fig><p>Snowshoe hares are mostly nocturnal and do not hibernate over winter (Feldhamer et al., <xref rid="ece35880-bib-0022" ref-type="ref">2003</xref>). For these reasons, they are most often found in habitats with dense understory vegetation, allowing for more efficient thermo&#x02010;regulation and predator avoidance (Litvaitis, Sherburne, &#x00026; Bissonette, <xref rid="ece35880-bib-0037" ref-type="ref">1985</xref>). Snowshoe hare populations cycle throughout the continent, with peaks every 8&#x02013;11&#x000a0;years and densities ranging 5&#x02010; to 25&#x02010;fold (Reynolds, Vander Wal, Adams, Curran, &#x00026; Doucet, <xref rid="ece35880-bib-0050" ref-type="ref">2017</xref>). These abundance cycles are a defining characteristic of the boreal forest, affecting the ecology of many boreal species, from the plants the snowshoe hares consume, to their competitors and predators (Krebs et al., <xref rid="ece35880-bib-0032" ref-type="ref">2018</xref>).</p><p>Snowshoe hares were introduced in Newfoundland in 1864 and quickly spread across the island (Strong &#x00026; Leroux, <xref rid="ece35880-bib-0060" ref-type="ref">2014</xref>). Studies conducted in the 1960s investigated their population dynamics, diet composition, and competition with another introduced herbivore, the moose <italic>Alces alces</italic> (Dodds, <xref rid="ece35880-bib-0011" ref-type="ref">1960</xref>, <xref rid="ece35880-bib-0012" ref-type="ref">1965</xref>). Compared with areas of Canada further west, Newfoundland has a fluctuating snowshoe hare population, with shorter and less regular periodicity (8&#x02013;9&#x000a0;years; Reynolds et al., <xref rid="ece35880-bib-0050" ref-type="ref">2017</xref>). Their diet varies among seasons and areas of the island of Newfoundland (Dodds, <xref rid="ece35880-bib-0011" ref-type="ref">1960</xref>): black spruce <italic>Picea mariana</italic> and balsam fir <italic>Abies balsamea</italic> comprise most of the winter forage, whereas during the summer they forage almost exclusively on deciduous plants and shrubs (e.g., <italic>Vaccinium</italic> spp.; <italic>Trifolium</italic> spp.; <italic>Viburnum</italic> spp.; Dodds, <xref rid="ece35880-bib-0011" ref-type="ref">1960</xref>).</p></sec><sec id="ece35880-sec-0004"><label>2.2</label><title>Data collection</title><sec id="ece35880-sec-0005"><label>2.2.1</label><title>Snowshoe hare morphology, age, and sex</title><p>In October 2016, we purchased 50 whole, wild&#x02010;caught snowshoe hares from a local trapper and stored them in individual plastic bags at &#x02212;20&#x000b0;C. These wild&#x02010;caught specimens came from four snaring locations in the Eastern Avalon peninsula, over a small 21.5&#x000a0;km<sup>2</sup> trapping area around the towns of Chapel Arm (NL, 47&#x000b0;31&#x02032;00&#x02033;N, 53&#x000b0;40&#x02032;00&#x02033;W) and Long Harbour (NL, 47&#x000ba;25&#x02032;46&#x02033;N, 53&#x000b0;51&#x02032;30&#x02033;W). Individuals were snared without baits and thus likely reflect the age and sex distribution of the wild population they were taken from. In the laboratory, we thawed and weighed each specimen to the closest 0.1&#x000a0;g. We collected data on total body length, left hind foot length, and skull length and width for each hare to the closest mm, repeating each measurement three times and using their arithmetic mean in all subsequent analyses (see Appendix <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref>: section 2.1).</p><p>Like rodents, the teeth of lagomorphs grow continuously during their life, making conventional aging techniques based on dentine and cement inapplicable (Morris, <xref rid="ece35880-bib-0042" ref-type="ref">1972</xref>). To account for this, we aged our specimens using a mixed approach involving counting bone tissue growth lines deposited after each winter in the mandibular bone. We used an aging method developed for mountain hares <italic>Lepus timidus</italic> to select the area of the bone from which to count the growth lines (Iason, <xref rid="ece35880-bib-0029" ref-type="ref">1988</xref>). For all 50 snowshoe hares in our sample, we extracted the complete mandibular bone, cleaned it of all soft tissues, and shipped the clean bones to Matson's Laboratory (Manhattan, MT, USA) for age determination (see Appendix <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref>: section 2.2).</p><p>Sex determination in wild&#x02010;caught snowshoe can be difficult. While visual approaches are available, these can be challenging when used on young, not yet fully developed individuals (as was the case in this study, see Section <xref rid="ece35880-sec-0009" ref-type="sec">3</xref> below). Genitalia are often not apparent in individuals younger than 6&#x02013;12&#x000a0;months old and, even among not actively reproducing adults, they can be difficult to find. For these reasons, we chose to determine specimen sex using a DNA&#x02010;based approach (Shaw, Wilson, &#x00026; White, <xref rid="ece35880-bib-0055" ref-type="ref">2003</xref>; see Appendix <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref>: section 2.3). As the snowshoe hare genome is not yet completely sequenced, we chose a widely used set of primers for genetic sex determination in mammals to amplify the genetic material extracted from our specimens and from two control snowshoe hares of known sex (Shaw et al., <xref rid="ece35880-bib-0055" ref-type="ref">2003</xref>). In cases when this DNA&#x02010;based approach failed to detect an individual's sex (<italic>n</italic>&#x000a0;=&#x000a0;3), we determined it by visual inspection and palpation of the genital area.</p></sec><sec id="ece35880-sec-0006"><label>2.2.2</label><title>Body size metrics</title><p>We investigate the relationship between body size and organismal chemical composition of snowshoe hares using two different metrics: body condition and average body length. Body condition is a widely used metric to assess the overall health and quality, or &#x0201c;plumpness,&#x0201d; of animals (Peig &#x00026; Green, <xref rid="ece35880-bib-0046" ref-type="ref">2010</xref>; Stevenson &#x00026; Woods, <xref rid="ece35880-bib-0059" ref-type="ref">2006</xref>). Snowshoe hares, however, differ from other mammals in that they do not rely on fat tissue to store energy (see Section <xref rid="ece35880-sec-0003" ref-type="sec">2.1</xref> above). Consequently, body condition indexes that rely on body fat content may not capture the real body condition of our sample of wild&#x02010;caught hares. For this reason, we estimate body condition using the scaled mass index (SMI; Peig &#x00026; Green, <xref rid="ece35880-bib-0045" ref-type="ref">2009</xref>). The SMI standardizes an individual's measure of body size with respect to another, thus accounting for scaling relationships (Peig &#x00026; Green, <xref rid="ece35880-bib-0045" ref-type="ref">2009</xref>). In particular, the SMI uses the average value of the length measurement (<italic>L</italic>) with the strongest relationship with its body weight (<italic>M</italic>) as the standardizing variable, as established by a Standardized Major Axis regression (Peig &#x00026; Green, <xref rid="ece35880-bib-0045" ref-type="ref">2009</xref>; see Appendix <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref>: section 2.4). The SMI formula is:<disp-formula id="ece35880-disp-0001"><label>(1)</label><mml:math id="nlm-math-1"><mml:mrow><mml:msub><mml:mover accent="true"><mml:mi>M</mml:mi><mml:mo stretchy="true">^</mml:mo></mml:mover><mml:mi>i</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>M</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:msup><mml:mfenced close="]" open="[" separators=""><mml:mfrac><mml:msub><mml:mi>L</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msub><mml:mi>L</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mfrac></mml:mfenced><mml:msub><mml:mi>b</mml:mi><mml:mtext>SMA</mml:mtext></mml:msub></mml:msup></mml:mrow></mml:math></disp-formula>where <mml:math id="nlm-math-2"><mml:msub><mml:mover accent="true"><mml:mi>M</mml:mi><mml:mo stretchy="true">^</mml:mo></mml:mover><mml:mi>i</mml:mi></mml:msub></mml:math> is the SMI of individual <italic>i</italic>, <italic>M<sub>i</sub></italic> is its body weight, <italic>L<sub>i</sub></italic> is the linear measure of body size of <italic>i</italic>, <italic>b</italic>
+<sub>SMA</sub> is the exponent (i.e., slope) of a Standardized Major Axis Regression of ln(<italic>M</italic>) over ln(<italic>L</italic>), and <italic>L</italic>
+<sub>0</sub> is the study population's average value of <italic>L<sub>i</sub></italic>. Therefore, the SMI is the expected weight of individual <italic>i</italic> if its length measurement <italic>L<sub>i</sub></italic> was equal to the population's average value <italic>L</italic>
+<sub>0</sub>. In this study, we used the length of the left hind foot to calculate the SMI. From the SMI value, we then computed the relative body condition (<italic>K</italic>
+<sub>n</sub>) of an individual as the ratio of <italic>M<sub>i</sub></italic> to <mml:math id="nlm-math-3"><mml:msub><mml:mover accent="true"><mml:mi>M</mml:mi><mml:mo stretchy="true">^</mml:mo></mml:mover><mml:mi>i</mml:mi></mml:msub></mml:math> (Stevenson &#x00026; Woods, <xref rid="ece35880-bib-0059" ref-type="ref">2006</xref>). This provided us with a simple metric to assess how good or bad an individual's condition was, compared with what it should be.</p><p>As the SMI is sensitive to the length measurement used to calculate it, we ran a separate set of models using a SMI produced using skull length, which also showed a strong relationship with body weight (see Appendix <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref>: section 2.4). Furthermore, we considered average body length as a separate estimate of the effect of body size on the C, N, and P stoichiometry of snowshoe hares (see above, Snowshoe hare morphology, age, and sex).</p></sec><sec id="ece35880-sec-0007"><label>2.2.3</label><title>Snowshoe hare C, N, and P body stoichiometry</title><p>After collecting both morphological data and bone samples required for aging, we individually blended our specimens to a homogeneous paste using a Retsch GM300 knife mill (Retsch GmbH). Through preliminary tests conducted on road&#x02010;killed individuals not included in our sample of 50, we noticed that elastic or fine tissues, such as fur, skin, ears, and the walls of the digestive tract, were particularly difficult to homogenize with our equipment. Consequently, we removed fur, skin, and ears from all specimens: as such, our definition of body here does not include fur, skin, and ears. For the digestive tract, instead, we removed, cleaned, and finely chopped it before adding it back into the mixture. For each specimen, we collected a sample of the homogenized mixture, weighed it for wet weight (g), and oven dried it to constant weight for an average of four nights at 50&#x000b0;C. After drying, we further ground each sample to as fine a powder as possible using mortar and pestle and weighed it again for dry weight (g). On average, we required 50&#x000a0;g of wet homogenized material to produce 10&#x000a0;g of dry material for determining element concentration. We transferred all ground samples to glass vials and stored them in desiccators to prevent moisture accumulation and mold formation.</p><p>We sent the 50 dried samples to the Agriculture and Food Laboratory (AFL) at the University of Guelph for determination of the body content of C, N, and P as % of each sample's dry weight. At AFL, each sample was further ground before stoichiometric analyses. Concentrations of C and N were obtained following standard practices with an Elementar Vario MACRO cube (Elementar Analysensysteme GmbH). For P, homogenized samples were first digested with nitric acid and hydrochloric acid using a closed&#x02010;vessel microwave (CEM Marsxpress; CEM Corporation). The microwave&#x02010;digested sample was then brought to volume with nanopure water and P content quantified using inductively coupled plasma&#x02010;optical emission spectroscopy using a Varian Vista Pro and a pneumatic nebulizer (Varian Inc.). The method was based on AOAC 2011.14.</p><p>Given that few studies have measured the C, N, and P body stoichiometry of terrestrial vertebrates, we ran pilot tests to assess within&#x02010;sample variability. These showed some within&#x02010;sample variability in %C and %N (Appendix <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref>: Figures <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S2</xref> and <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S3</xref>). To account for this, each sample was analyzed three times for C and N content. Conversely, %P was relatively invariant within samples. Because of this, only five samples were run in duplicate to assess within&#x02010;sample variability in %P (see Appendix <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref>: section 2.5). In addition, to capture variability within individuals due to our homogenization protocol, we selected five random specimens for which we sent two additional samples (<italic>n</italic>&#x000a0;=&#x000a0;10) of the homogenized paste to AFL (see Appendix <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref>: section 2.5). Upon receiving the results back from AFL, to obtain C, N, and P stoichiometry and molar ratios for each hare, we calculated each hare's dry body weight and converted the concentration of each element to molar mass using atomic weights. As variation among samples taken from each individual was negligible for all three elements, we used average values of %C, %N, and %P for each individual in subsequent analyses (see Appendix <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref>: section 2.6).</p></sec></sec><sec id="ece35880-sec-0008"><label>2.3</label><title>Statistical analyses</title><p>We used General Linear Models (GLMs) in R (v. 3.4.4; R Core Team, <xref rid="ece35880-bib-0049" ref-type="ref">2018</xref>) to investigate age, sex, body size, and condition as potential drivers of hare stoichiometry. We used the concentration of each element of interest (i.e., %C, %N, %P), as well as the ratios C:N, C:P, and N:P as our response variables. We chose to focus on both elemental concentrations and ratios as these different measurements convey different but complementary information on body composition: quantity of elements of interest and their relationship to each other and importance to the animal, respectively. Age (continuous), sex (categorical), relative body condition (<italic>K</italic>
+<sub>n</sub>, continuous), and average body length (ABL, continuous) were our explanatory variables. To test our predictions, we considered the effects of each of our predictor variables alone and their additive and 2&#x02010;way interactive effects. We tested for multicollinearity among our explanatory variables using variance inflation factor analysis (VIF). As expected, VIF showed that relative body condition and average body length were highly correlated (VIF&#x000a0;&#x0003e;&#x000a0;3). Therefore, we did not include these two variables in the same model (see Appendix <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref>: section 3). We fit a set of 22 competing models, including an intercept&#x02010;only model and used the function AICc from the AICmodavg R package to select the most parsimonious model based on the Akaike Information Criterion corrected for small sample size (AICc; Burnham &#x00026; Anderson, <xref rid="ece35880-bib-0010" ref-type="ref">2002</xref>; Mazerolle, <xref rid="ece35880-bib-0040" ref-type="ref">2019</xref>). We then removed models with uninformative parameters (Leroux, <xref rid="ece35880-bib-0034" ref-type="ref">2019</xref>) from the model set of each response variable (Leroux, <xref rid="ece35880-bib-0034" ref-type="ref">2019</xref>; see Appendix <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref>: section 4.1).</p></sec></sec><sec sec-type="results" id="ece35880-sec-0009"><label>3</label><title>RESULTS</title><p>Snowshoe hares in our sample varied in age between 0 (&#x0201c;young&#x02010;of&#x02010;the&#x02010;year&#x0201d;) and 6&#x000a0;years old, the majority (74%) being between 0 and 1&#x000a0;years old. Only one individual, a female, was 6&#x000a0;years old. Males were more common (31 out of 50) than females (19). Average (&#x000b1;<italic>SD</italic>) wet body weight was 1,374.81&#x000a0;g (&#x000b1;186.59, range: 914.30&#x02013;1,776.50&#x000a0;g), with average dry weight being 399.11&#x000a0;g (&#x000b1;74.70, range: 241.76&#x02013;567.86&#x000a0;g). Water made up to 72% of body weight. Average body length was 42.49&#x000a0;cm (&#x000b1;2.07, range: 36.67&#x02013;46.67&#x000a0;cm; Table <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S16</xref>). Average left hind foot length (<italic>L</italic>
+<sub>0</sub>) for our snowshoe hare population was 12.88&#x000a0;cm (&#x000b1;0.58, range: 11.40&#x02013;14.10&#x000a0;cm). The slope of the Standardized Major Axis regression of average left hind foot length on body weight (i.e., the exponent <italic>b</italic>
+<sub>SMA</sub> in Equation <xref rid="ece35880-disp-0001" ref-type="disp-formula">1</xref>) was 3.18. Overall, young snowshoe hares appeared more variable in relative body condition than older individuals (mean: 1.01&#x000a0;&#x000b1;&#x000a0;0.14; Figure <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S5</xref>).</p><p>Snowshoe hares were, on average, composed of 43.60% C (&#x000b1;2.59, range: 37.46%&#x02013;51.29%), 11.20% N (&#x000b1;0.78, range: 9.42%&#x02013;12.68%), and 2.97% P (&#x000b1;0.52, range: 2.00%&#x02013;4.29%; Figure <xref rid="ece35880-fig-0002" ref-type="fig">2</xref> and Table <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S17</xref>). The most parsimonious model for %N included only age (<italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.066): %N was negatively related to the age of individual snowshoe hares (Table <xref rid="ece35880-tbl-0001" ref-type="table">1</xref>). Evidence for this relationship is, however, weak as the intercept&#x02010;only model was within 2 &#x00394;AICc of the top&#x02010;ranked model (Table <xref rid="ece35880-tbl-0001" ref-type="table">1</xref>). For %P, the two top&#x02010;ranked models included relative body condition and average body length, respectively (Table <xref rid="ece35880-tbl-0001" ref-type="table">1</xref>). %P was positively related to relative body condition (<italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.073; Figure <xref rid="ece35880-fig-0003" ref-type="fig">3</xref>) and average body length (<italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.047). Again, evidence for these relationships is weak as the intercept&#x02010;only model was the third best&#x02010;performing model and within 2 &#x00394;AICc of the top&#x02010;ranked models (Table <xref rid="ece35880-tbl-0001" ref-type="table">1</xref>). We also observed a qualitative pattern of higher %P among older males (Figure <xref rid="ece35880-fig-0004" ref-type="fig">4</xref>), but found no statistical support for it (Table <xref rid="ece35880-tbl-0001" ref-type="table">1</xref>). For %C, the top&#x02010;ranked model was the intercept&#x02010;only model, which provides evidence for no relationship between variation in %C and age, sex, or body size and condition of individuals (Table <xref rid="ece35880-tbl-0001" ref-type="table">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35880-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Sex&#x02010;related variability in the concentrations of carbon (C), nitrogen (N), and phosphorus (P) among 50 snowshoe hares. The lower and upper boundaries of the box are the first and third quartiles, respectively. The thick horizontal line inside the box is the median, that is, the second quartile. The whiskers extend from either boundary to no further than the largest (or smallest) value&#x000a0;*&#x000a0;1.5 IQR (interquartile range). Female snowshoe hares show higher median values of %P than males. Males, on the other hand, appear consistently more variable than females in their content of both N and P. Note the different scales of the <italic>y</italic>&#x02010;axis among the three panels</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14453-g002"/></fig><table-wrap id="ece35880-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Top ranking GLMs for %C, %N, and %P based on &#x02206;AICc values. We report only models that ranked better than the null model, together with the null model. <italic>k</italic>, number of parameters in the model; LL, log&#x02010;likelihood; <italic>K</italic>
+<sub>n</sub>, relative body condition; ABL, average body length. We provide coefficient values as estimate (&#x000b1;<italic>SE</italic>)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">
+<italic>k</italic>
+</th><th align="left" rowspan="2" valign="bottom" colspan="1">LL</th><th align="left" rowspan="2" valign="bottom" colspan="1">&#x00394;AICc</th><th align="left" rowspan="2" valign="bottom" colspan="1">
+<italic>R</italic>
+<sup>2</sup>
+</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Coefficients</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Intercept</th><th align="left" valign="bottom" rowspan="1" colspan="1">Age</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>K</italic>
+<sub>n</sub>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">ABL</th></tr></thead><tbody><tr><td align="left" colspan="8" rowspan="1">%N top models</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;56.599</td><td align="left" rowspan="1" colspan="1">0.000</td><td align="left" rowspan="1" colspan="1">.066</td><td align="char" char="(" rowspan="1" colspan="1">11.367 (&#x000b1;0.141)</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.160 (&#x000b1;0.087)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;58.306</td><td align="left" rowspan="1" colspan="1">1.150</td><td align="left" rowspan="1" colspan="1">.000</td><td align="char" char="(" rowspan="1" colspan="1">11.200 (&#x000b1;0.111)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" colspan="8" rowspan="1">%P top models</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;35.556</td><td align="left" rowspan="1" colspan="1">0.000</td><td align="left" rowspan="1" colspan="1">.073</td><td align="char" char="(" rowspan="1" colspan="1">1.962 (&#x000b1;0.526)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">1.006 (&#x000b1;0.518)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;36.252</td><td align="left" rowspan="1" colspan="1">1.391</td><td align="left" rowspan="1" colspan="1">.047</td><td align="char" char="(" rowspan="1" colspan="1">0.687 (&#x000b1;1.495)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">0.054 (&#x000b1;0.035)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;37.444</td><td align="left" rowspan="1" colspan="1">1.508</td><td align="left" rowspan="1" colspan="1">.000</td><td align="char" char="(" rowspan="1" colspan="1">2.974 (&#x000b1;0.073)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" colspan="8" rowspan="1">%C top models</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;118.09</td><td align="left" rowspan="1" colspan="1">0.000</td><td align="left" rowspan="1" colspan="1">.000</td><td align="char" char="(" rowspan="1" colspan="1">43.606 (&#x000b1;0.367)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35880-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Variability in the concentrations of C, N, and P with increasing relative body condition. The positive trend for P is evident and is weakly supported by the results of our modeling. Conversely, there is no visual evidence of a relationship between %C or %N and relative body condition, which is further confirmed by the results of our modeling (Table <xref rid="ece35880-tbl-0001" ref-type="table">1</xref>). Solid lines are ordinary least square regression lines, shaded areas represent 95% confidence intervals around them</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14453-g003"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35880-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Variability in C, N, and P concentrations and their stoichiometric ratios with increasing age among 50 snowshoe hares. Upper panels: while concentrations of P appear largely invariant as age increases, we notice a negative trend for N concentration for both sexes. This is further supported by the weak relationship found between age and %N through our modeling approach. Lower panels: values of C:N appear to increase with age, regardless of sex, as would be expected given the negative relationship between %N and age. Conversely, the values of N:P seem to decrease as males get older. No trend is evident for C:P, which is in line with the lack of pattern in the variability of %C. We added a jitter of 0.4 to both axes to improve readability of the graphs. All other specifications as in Figure <xref rid="ece35880-fig-0003" ref-type="fig">3</xref>
+</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-14453-g004"/></fig><p>For stoichiometric ratios, the top&#x02010;ranked model for C:N included only age, which had a positive relationship with C:N ratio (<italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.074; Table <xref rid="ece35880-tbl-0002" ref-type="table">2</xref>). For this relationship too, evidence is weak as the intercept&#x02010;only model was within 2 &#x00394;AICc of the best&#x02010;performing one. We found no evidence for a relationship between age, sex, body size, and condition, and either C:P or N:P as the top&#x02010;ranked model for both these ratios was the intercept&#x02010;only model (Table <xref rid="ece35880-tbl-0002" ref-type="table">2</xref>). Using skull length instead of left hind foot length to calculate <italic>K</italic>
+<sub>n</sub> did not qualitatively change our results (see Appendix <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref>: Tables <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S1</xref> and <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S2</xref>).</p><table-wrap id="ece35880-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Top ranking GLMs for C:N, C:P, and N:P based on &#x02206;AICc values. All specifications as in Table <xref rid="ece35880-tbl-0001" ref-type="table">1</xref>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">
+<italic>k</italic>
+</th><th align="left" rowspan="2" valign="bottom" colspan="1">LL</th><th align="left" rowspan="2" valign="bottom" colspan="1">&#x00394;AICc</th><th align="left" rowspan="2" valign="bottom" colspan="1">
+<italic>R</italic>
+<sup>2</sup>
+</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Coefficients</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Intercept</th><th align="left" valign="bottom" rowspan="1" colspan="1">Age</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>K</italic>
+<sub>n</sub>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">ABL</th></tr></thead><tbody><tr><td align="left" colspan="8" rowspan="1">C:N top models</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;27.818</td><td align="left" rowspan="1" colspan="1">0.000</td><td align="left" rowspan="1" colspan="1">.074</td><td align="char" char="(" rowspan="1" colspan="1">4.465 (&#x000b1;0.079)</td><td align="char" char="." rowspan="1" colspan="1">0.095 (&#x000b1;0.049)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;29.731</td><td align="left" rowspan="1" colspan="1">1.559</td><td align="left" rowspan="1" colspan="1">.000</td><td align="char" char="(" rowspan="1" colspan="1">4.564 (&#x000b1;0.063)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" colspan="8" rowspan="1">C:P top models</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;178.30</td><td align="left" rowspan="1" colspan="1">0.000</td><td align="left" rowspan="1" colspan="1">.000</td><td align="char" char="(" rowspan="1" colspan="1">39.205 (&#x000b1;1.223)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" colspan="8" rowspan="1">N:P top models</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;94.153</td><td align="left" rowspan="1" colspan="1">0.000</td><td align="left" rowspan="1" colspan="1">.000</td><td align="char" char="(" rowspan="1" colspan="1">8.58 (&#x000b1;0.227)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec sec-type="discussion" id="ece35880-sec-0010"><label>4</label><title>DISCUSSION</title><p>We provide one of few assessments of the C, N, and P body stoichiometry of a terrestrial vertebrate and investigate potential drivers of this fundamental ecological trait. Overall, we find considerable variation in the concentrations of C, N, and P, and in their ratios within our sample of snowshoe hares. However, age, sex, and body size or condition provide little or no explanation of this variation. Our models highlight a weak negative relationship between an individual's age and its N concentration and, symmetrically, a weak and positive trend of C:N and age. Likewise, we find weak support for a relationship between an individual's body size and condition and its P concentration. Together, these results provide some of the first evidence for intraspecific variability in the C, N, and P body stoichiometry of a terrestrial vertebrate but raise the need to consider a broader suite of potential drivers. As well, our data provide a starting point for comparisons of vertebrate species stoichiometry across ecological realms (e.g., aquatic&#x02010;terrestrial).</p><p>We found weak evidence in support of our prediction that age might drive variability in the C, N, and P body stoichiometry of snowshoe hares. In particular, contrary to our predictions, we find weak evidence of young individuals (0&#x02013;1&#x000a0;years old) having higher N concentrations than older ones&#x02014;with a more pronounced decrease among males than among females (Figure <xref rid="ece35880-fig-0004" ref-type="fig">4</xref>). As would be expected from this pattern, C:N values show an opposite, positive trend with age (Figure <xref rid="ece35880-fig-0004" ref-type="fig">4</xref>)&#x02014;reflecting the lower amounts of N compared with C in older hares and lending further support to this result. Younger individuals may show higher %N as a result of increased N allocation to muscle tissue production (Boros et al., <xref rid="ece35880-bib-0009" ref-type="ref">2015</xref>). Snowshoe hares experience strong predation pressure from a large cohort of predators, both land&#x02010;based and avian, from the earliest life stages (Krebs et al., <xref rid="ece35880-bib-0032" ref-type="ref">2018</xref>). A higher N content among young hares could be a sign of early&#x02010;life investments in production of N&#x02010;rich protein to develop the muscle mass necessary for their hide and run anti&#x02010;predator response. We also observed a qualitative pattern of increasing %P with age among males. While our models do not offer quantitative support for it (Table <xref rid="ece35880-tbl-0001" ref-type="table">1</xref>), similar patterns have been described for other vertebrate species. Boros et al. (<xref rid="ece35880-bib-0009" ref-type="ref">2015</xref>) found a similar trend between %P and age in two species of laboratory&#x02010;reared minnows. Similarly, Sterrett, Maerz, and Katz (<xref rid="ece35880-bib-0058" ref-type="ref">2015</xref>) found that older individuals had higher %P in four species of turtles. This pattern could result from bone tissue development as the individual ages (Sterner &#x00026; Elser, <xref rid="ece35880-bib-0057" ref-type="ref">2002</xref>). In turn, by actively sequestering P in their bones, vertebrates could influence nutrient ecosystem dynamics by acting as &#x0201c;walking&#x0201d; repositories of a limiting element (Pastor et al., <xref rid="ece35880-bib-0044" ref-type="ref">2006</xref>; Sterrett et al., <xref rid="ece35880-bib-0058" ref-type="ref">2015</xref>). Given the large number of young individuals in our sample, and the relative rarity of hares older than 3&#x000a0;years, it may be that access to P during a hare's aging process is fundamental for its survival. Future studies investigating the link between N and P availability and long&#x02010;term survival in wild herbivore populations may further our understand of both population dynamics and ecosystem impacts mediated by these consumers.</p><p>Contrary to our predictions, we find no evidence for a relationship between hare stoichiometry and sex. Male individuals did show larger variability in their N and P concentration than females (Figure <xref rid="ece35880-fig-0002" ref-type="fig">2</xref>) but our models provide no quantitative support for a relationship between sex and body stoichiometry. This may not be surprising given the low sexual dimorphism shown by our study species. Several studies that investigated the relationship between sex and organismal stoichiometry among more strongly sexually dimorphic species provide similarly contradictory evidence. Among guppies, for instance, sex had no relationship with stoichiometry when considered alone, yet it had significant interactions with the fish's stream of origin&#x02014;likely an indirect consequence of different predation levels experienced by males and females in different streams (El&#x02010;Sabaawi, Zandon&#x000e0;, et al., <xref rid="ece35880-bib-0018" ref-type="ref">2012</xref>). Conversely, among <italic>Hyalella</italic> amphipods, strong sexual dimorphism in the concentrations and patterns of variation of multiple elements underlays sexual dimorphism in traits as different as foraging behavior, nutritional physiology, and sex&#x02010;specific selection of genomic loci (Goos, Cothran, &#x00026; Jeyasingh, <xref rid="ece35880-bib-0026" ref-type="ref">2017</xref>). Among antler&#x02010;producing ungulates, males and females differ in both content and use of certain elements (e.g., calcium; Atwood &#x00026; Weeks, <xref rid="ece35880-bib-0004" ref-type="ref">2002</xref>). Finally, as hares undergo morpho&#x02010;physiological changes during their reproductive season, investigating the relationship between C, N, and P body stoichiometry and sex among actively reproducing hares might produce different results (Hood et al., <xref rid="ece35880-bib-0028" ref-type="ref">2006</xref>). These contrasting lines of evidence highlight the need of further research, involving a wider range of species from a variety of environments, to reduce the uncertainty around the role of sex as a driver of variation in organismal stoichiometry.</p><p>Consistent with our predictions, our results indicate body size and condition as potential drivers for variability in P concentration in our sample. The two top models for this element included relative body condition and average body length, and both variables had a positive relationship with %P. In particular, the observed body weight of snowshoe hares with higher %P matched or exceeded the predicted value obtained from the SMI formula (Equation <xref rid="ece35880-disp-0001" ref-type="disp-formula">1</xref>). Snowshoe hare body condition fluctuates throughout the year (Murray, <xref rid="ece35880-bib-0043" ref-type="ref">2002</xref>), with peaks in the months leading up to the boreal winter, during which hares remain active and face increased levels of stress due to both lack of optimal forage and increased predation (Krebs et al., <xref rid="ece35880-bib-0032" ref-type="ref">2018</xref>). As body condition declines over the winter months (Murray, <xref rid="ece35880-bib-0043" ref-type="ref">2002</xref>), one could test if the weak relationship we observe between P and body condition would vary in a similar way. Additionally, we observe a qualitatively larger variability in relative body condition among young hares in our sample than among older specimens (Figure <xref rid="ece35880-sup-0001" ref-type="supplementary-material">S5</xref>). Snowshoe hares produce multiple litters per year (up to four; Feldhamer et al., <xref rid="ece35880-bib-0022" ref-type="ref">2003</xref>), yet a large number of leverets does not survive the first winter (Krebs et al., <xref rid="ece35880-bib-0032" ref-type="ref">2018</xref>). While we do not find evidence for a relationship between age and P content, a potential question to ask is whether birth date within a year could explain part of this variability. Our results, albeit weakly supported by our statistical analyses, appear to confirm the potential role P plays within the internal chemical machinery of an animal, and its importance for its survival (Boersma et al., <xref rid="ece35880-bib-0007" ref-type="ref">2008</xref>; Elser et al., <xref rid="ece35880-bib-0019" ref-type="ref">2007</xref>).</p><p>A large amount of variability in our sample remains unexplained and, overall, we find only weak support for our initial hypothesis of variation in organismal stoichiometry among snowshoe hares. Indeed, other vertebrate species show much stronger patterns of intraspecific variation in elemental content. Ebel et al. (<xref rid="ece35880-bib-0014" ref-type="ref">2015</xref>), Ebel et al. (<xref rid="ece35880-bib-0015" ref-type="ref">2016</xref>), for instance, showed that migratory Atlantic salmon <italic>S.&#x000a0;salar</italic> at different ontogenic stages have distinct stoichiometric signatures, particularly before and after their first migration from their freshwater nurseries to the open ocean. The reason for these differences in the magnitude of the effects mediated by ontogeny could be found in the life history of snowshoe hares. Snowshoe hares do not undergo dramatic life events like migratory salmon, or the metamorphosis of certain insect species, which clearly separate different life stages. Rather, they are characterized by short gestation periods (&#x02243;30&#x02013;40&#x000a0;days) and quick maturation of leverets into adults (&#x02243;6&#x000a0;months; Feldhamer et al., <xref rid="ece35880-bib-0022" ref-type="ref">2003</xref>). It is possible, in this scenario, that we investigated the effects of age at a time in the life of snowshoe hares when most of the changes in chemical composition had already taken place. It is also interesting to note the larger proportion of young individuals in our sample, consistent with current knowledge about snowshoe hare survival beyond their first winter (Krebs et al., <xref rid="ece35880-bib-0032" ref-type="ref">2018</xref>) and likely representative of the age distribution of the particular wild population we used in this study. Thus, a potentially interesting and rewarding research avenue would be to further investigate differences in hare stoichiometry in earlier life stages.</p><p>Before homogenization, we removed fur, skin, and ears of our snowshoe hare specimens, as these tissues proved challenging to homogenize. While we consistently applied this protocol to all 50 hares included in our sample, excluding these tissues from analyses may have influenced the amount of stoichiometric variability we detected. Ears are made of cartilage, which consists mostly of polysaccharides and proteoglycans, thus being C&#x02010;rich. Additionally, on average, ears accounted for 0.74% of a hare's wet body weight in our sample. As for fur and skin, in humans and other mammalian species, hair is made of up to ~17% N (Block, Bolling, Brand, &#x00026; Schein, <xref rid="ece35880-bib-0006" ref-type="ref">1939</xref>). While we could not find accounts of the chemical composition of snowshoe hare hair, it is possible that the production, maintenance, and molting processes of this species' fur impose further stoichiometric requirements&#x02014;ultimately influencing the relative concentration of C, N, and P in a snowshoe hare body throughout its life. Finally, although our samples were collected from a small area, fine scale forage quality may also be a driver of the stoichiometric variability we observed. As well, snowshoe hare populations from different areas of Newfoundland and North America may differ in their elemental composition from the specimens investigated here (as is the case for some fish species; El&#x02010;Sabaawi, Zandon&#x000e0;, et al., <xref rid="ece35880-bib-0018" ref-type="ref">2012</xref>). Future work could investigate spatial variation in habitat and forage quality as a driver of consumer body elemental composition (Leroux et al., <xref rid="ece35880-bib-0036" ref-type="ref">2017</xref>), and interpopulation variability.</p><p>The variation in hare body composition we observe could have repercussions beyond the stoichiometry of this species and influence ecosystem processes such as nutrient cycling, transport, and primary productivity (Pastor et al., <xref rid="ece35880-bib-0044" ref-type="ref">2006</xref>). Snowshoe hares are a keystone herbivore in the boreal forest, a markedly nutrient&#x02010;limited environment (Pastor et al., <xref rid="ece35880-bib-0044" ref-type="ref">2006</xref>). They are characterized by strong, decade&#x02010;long fluctuations in their population abundance and serve as primary food source for multiple predator species (Krebs et al., <xref rid="ece35880-bib-0032" ref-type="ref">2018</xref>). Paucity of nutrients, and the well&#x02010;known stoichiometric mismatch between plants and herbivores (Elser, O'Brien, Dobberfuhl, &#x00026; Dowling, <xref rid="ece35880-bib-0020" ref-type="ref">2000</xref>; Sterner &#x00026; Elser, <xref rid="ece35880-bib-0057" ref-type="ref">2002</xref>), prompted boreal forest herbivores to evolve browsing strategies allowing them to extract as many nutrients as possible from their food (Pastor et al., <xref rid="ece35880-bib-0044" ref-type="ref">2006</xref>). Thus, the appearance of a large number of young snowshoe hares over the landscape during a population peak could have strong dampening effects on elemental cycling in the boreal forest&#x02014;as well as in adjacent ecosystems&#x02014;possibly reducing N or P availability to primary producers as they become locked within the herbivores' biomass. By infusing ongoing ecological research with stoichiometric data, future studies could address this potential interplay between a species' stoichiometry and the ecosystem processes it contributes to (Leal et al., <xref rid="ece35880-bib-0033" ref-type="ref">2017</xref>). In turn, this would allow for shedding light on fine&#x02010;grain mechanisms with far&#x02010;reaching consequences, such as cross&#x02010;ecosystem nutrient mobilization (Schmitz et al., <xref rid="ece35880-bib-0054" ref-type="ref">2018</xref>) and nutrient recycling (Schmitz et al., <xref rid="ece35880-bib-0053" ref-type="ref">2014</xref>), as well as on their influence on ecosystem services fundamental for humans.</p><p>Ecological stoichiometry has a long history in marine and freshwater ecosystems and has been shaped by detailed studies of algae, plants, and invertebrates. In recent years, researchers started investigating the stoichiometry of more complex organisms in aquatic ecosystems, particularly fish (Atkinson, Capps, Rugenski, &#x00026; Vanni, <xref rid="ece35880-bib-0003" ref-type="ref">2017</xref>). This expanded the reach of ecological stoichiometry in exciting new directions, integrating it with other subfields of ecology, such as metabolic ecology (Rivas&#x02010;Ubach et al., <xref rid="ece35880-bib-0051" ref-type="ref">2012</xref>), ecosystem ecology (Abbas et al., <xref rid="ece35880-bib-0001" ref-type="ref">2012</xref>), and landscape ecology (Leroux et al., <xref rid="ece35880-bib-0036" ref-type="ref">2017</xref>; Sardans et al., <xref rid="ece35880-bib-0052" ref-type="ref">2016</xref>). Yet, terrestrial species other than plants and insects remain relatively unexplored in terms of their stoichiometry. Our results suggest that a greater focus on terrestrial vertebrates and consumers could provide novel insights and potentially question well&#x02010;known concepts in this field.</p></sec><sec sec-type="COI-statement" id="ece35880-sec-0012"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35880-sec-0013"><title>AUTHOR CONTRIBUTIONS</title><p>MR, SJL, EVW, and YFW devised the study; MR, TRH, JBF, SJL, YFW, and EVW collected the data; MR and SJL analyzed the data; MR, TRH, JBF, SJL, YFW, and EVW interpreted the data; MR led the writing of the manuscript. All authors contributed critically to the drafts and gave final approval for publication.</p></sec><sec id="ece35880-sec-3064"><sec disp-level="2" id="ece35880-sec-2026"><title>Open Research Badges</title><p>This article has earned an <ext-link ext-link-type="uri" xlink:href="https://openscience.com">https://openscience.com</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://openscience.com">https://openscience.com</ext-link> Badges for making publicly available the components of the research methodology needed to reproduce the reported procedure and analysis. All materials are available at [<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.7884854.v2">https://doi.org/10.6084/m9.figshare.7884854.v2</ext-link>].</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35880-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14453-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35880-sec-0011"><title>ACKNOWLEDGMENTS</title><p>The authors would like to thank I. C. Richmond for thoughtful comments on earlier drafts of the manuscript. We would also like to acknowledge the help of S. Reid, M. Fitzgerald, B. Stratton, D. French, and N. Djan&#x02010;Ch&#x000e9;kar during data collection. We thank Prof. Edward &#x0201c;Ted&#x0201d; Miller for pointing out the method used to age snowshoe hare. This research was funded by the Government of Newfoundland and Labrador Centre for Forest Science and Innovation (to SJL, YW, and EVW), Government of Newfoundland and Labrador Innovate NL Leverage R&#x00026;D (to EVW &#x00026; SJL) and Ignite R&#x00026;D (to SJL) programs, Mitacs Accelerate Graduate Research Internship program (to YW, EVW, &#x00026; SJL), the Canada Foundation for Innovation John R. Evans Leaders Fund (to EVW &#x00026; SJL), and a Natural Science and Engineering Research Council Discovery Grant (to SJL). This research was approved by the Memorial University Animal Care Committee, permit number 18&#x02010;02&#x02010;EV.</p></ack><sec sec-type="data-availability" id="ece35880-sec-0016"><title>DATA AVAILABILITY STATEMENT</title><p>Data and code used in the analyses are available via the figshare online repository at: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.7884854.v2" specific-use="dataset is-supplemented-by">https://doi.org/10.6084/m9.figshare.7884854.v2</ext-link>
+</p></sec><ref-list content-type="cited-references" id="ece35880-bibl-0001"><title>REFERENCES</title><ref id="ece35880-bib-0001"><mixed-citation publication-type="journal" id="ece35880-cit-0001">
+<string-name>
+<surname>Abbas</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Merlet</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Morellet</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Verheyden</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hewison</surname>, <given-names>A. J. M.</given-names>
+</string-name>, <string-name>
+<surname>Cargnelutti</surname>, <given-names>B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Daufresne</surname>, <given-names>T.</given-names>
+</string-name> (<year>2012</year>). <article-title>Roe deer may markedly alter forest nitrogen and phosphorus budgets across Europe</article-title>. <source xml:lang="en">Oikos</source>, <volume>121</volume>(<issue>8</issue>), <fpage>1271</fpage>&#x02013;<lpage>1278</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0706.2011.20103.x</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0002"><mixed-citation publication-type="journal" id="ece35880-cit-0002">
+<string-name>
+<surname>&#x000c5;gren</surname>, <given-names>G. I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Weih</surname>, <given-names>M.</given-names>
+</string-name> (<year>2012</year>). <article-title>Plant stoichiometry at different scales: Element concentration patterns reflect environment more than genotype</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>194</volume>(<issue>4</issue>), <fpage>944</fpage>&#x02013;<lpage>952</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2012.04114.x</pub-id>
+<pub-id pub-id-type="pmid">22471439</pub-id></mixed-citation></ref><ref id="ece35880-bib-0003"><mixed-citation publication-type="journal" id="ece35880-cit-0003">
+<string-name>
+<surname>Atkinson</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Capps</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Rugenski</surname>, <given-names>A. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vanni</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Consumer&#x02010;driven nutrient dynamics in freshwater ecosystems: From individuals to ecosystems</article-title>. <source xml:lang="en">Biological Reviews</source>, <volume>92</volume>(<issue>4</issue>), <fpage>2003</fpage>&#x02013;<lpage>2023</lpage>. <pub-id pub-id-type="doi">10.1111/brv.12318</pub-id>
+<pub-id pub-id-type="pmid">28008706</pub-id></mixed-citation></ref><ref id="ece35880-bib-0004"><mixed-citation publication-type="journal" id="ece35880-cit-0004">
+<string-name>
+<surname>Atwood</surname>, <given-names>T. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Weeks</surname>, <given-names>H. P.</given-names>
+</string-name> (<year>2002</year>). <article-title>Sex&#x02010; and age&#x02010;specific patterns of mineral lick use by white&#x02010;tailed deer (<italic>Odocoileus virginianus</italic>)</article-title>. <source xml:lang="en">American Midland Naturalist</source>, <volume>148</volume>(<issue>2</issue>), <fpage>289</fpage>
+<pub-id pub-id-type="doi">10.1674/0003-0031(2002)148[0289:SAASPO]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0005"><mixed-citation publication-type="journal" id="ece35880-cit-0005">
+<string-name>
+<surname>Back</surname>, <given-names>J. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>King</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Sex and size matter: Ontogenetic patterns of nutrient content of aquatic insects</article-title>. <source xml:lang="en">Freshwater Science</source>, <volume>32</volume>(<issue>3</issue>), <fpage>837</fpage>&#x02013;<lpage>848</lpage>. <pub-id pub-id-type="doi">10.1899/12-181.1</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0006"><mixed-citation publication-type="journal" id="ece35880-cit-0006">
+<string-name>
+<surname>Block</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Bolling</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Brand</surname>, <given-names>F. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schein</surname>, <given-names>A.</given-names>
+</string-name> (<year>1939</year>). <article-title>The composition of keratins. The amino acid composition of hair, wool, horn, and other euketatins</article-title>. <source xml:lang="en">Journal of Biological Chemistry</source>, <volume>128</volume>, <fpage>181</fpage>&#x02013;<lpage>186</lpage>.</mixed-citation></ref><ref id="ece35880-bib-0007"><mixed-citation publication-type="journal" id="ece35880-cit-0007">
+<string-name>
+<surname>Boersma</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Aberle</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Hantzsche</surname>, <given-names>F. M.</given-names>
+</string-name>, <string-name>
+<surname>Schoo</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Wiltshire</surname>, <given-names>K. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Malzahn</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2008</year>). <article-title>Nutritional limitation travels up the food chain</article-title>. <source xml:lang="en">International Review of Hydrobiology</source>, <volume>93</volume>(<issue>4&#x02013;5</issue>), <fpage>479</fpage>&#x02013;<lpage>488</lpage>. <pub-id pub-id-type="doi">10.1002/iroh.200811066</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0008"><mixed-citation publication-type="journal" id="ece35880-cit-0008">
+<string-name>
+<surname>Borer</surname>, <given-names>E. T.</given-names>
+</string-name>, <string-name>
+<surname>Bracken</surname>, <given-names>M. E. S.</given-names>
+</string-name>, <string-name>
+<surname>Seabloom</surname>, <given-names>E. W.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Cebrian</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cleland</surname>, <given-names>E. E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ngai</surname>, <given-names>J. T.</given-names>
+</string-name> (<year>2013</year>). <article-title>Global biogeography of autotroph chemistry: Is insolation a driving force?</article-title>
+<source xml:lang="en">Oikos</source>, <volume>122</volume>(<issue>8</issue>), <fpage>1121</fpage>&#x02013;<lpage>1130</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0706.2013.00465.x</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0009"><mixed-citation publication-type="journal" id="ece35880-cit-0009">
+<string-name>
+<surname>Boros</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>S&#x000e1;ly</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vanni</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Ontogenetic variation in the body stoichiometry of two fish species</article-title>. <source xml:lang="en">Oecologia</source>, <volume>179</volume>(<issue>2</issue>), <fpage>329</fpage>&#x02013;<lpage>341</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-015-3349-8</pub-id>
+<pub-id pub-id-type="pmid">25999048</pub-id></mixed-citation></ref><ref id="ece35880-bib-0010"><mixed-citation publication-type="journal" id="ece35880-cit-0010">
+<string-name>
+<surname>Burnham</surname>, <given-names>K. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Anderson</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2002</year>). <source xml:lang="en">Model selection and multimodel inference: A practical information&#x02010;theoretic approach</source> (<edition designator="2">2nd ed.</edition>, Vol. <volume>172</volume>). Retrieved from <ext-link ext-link-type="uri" xlink:href="http://linkinghub.elsevier.com/retrieve/pii/S0304380003004526">http://linkinghub.elsevier.com/retrieve/pii/S0304380003004526</ext-link>
+</mixed-citation></ref><ref id="ece35880-bib-0011"><mixed-citation publication-type="journal" id="ece35880-cit-0011">
+<string-name>
+<surname>Dodds</surname>, <given-names>D. G.</given-names>
+</string-name> (<year>1960</year>). <article-title>Food competition and range relationships of moose and snowshoe hare in Newfoundland</article-title>. <source xml:lang="en">Journal of Wildlife Management</source>, <volume>24</volume>(<issue>1</issue>), <fpage>52</fpage>&#x02013;<lpage>60</lpage>. <pub-id pub-id-type="doi">10.2307/3797356</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0012"><mixed-citation publication-type="journal" id="ece35880-cit-0012">
+<string-name>
+<surname>Dodds</surname>, <given-names>D. G.</given-names>
+</string-name> (<year>1965</year>). <article-title>Reproduction and productivity of snowshoe hares in Newfoundland</article-title>. <source xml:lang="en">Journal of Wildlife Management</source>, <volume>29</volume>(<issue>2</issue>), <fpage>303</fpage>&#x02013;<lpage>315</lpage>. <pub-id pub-id-type="doi">10.2307/3798435</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0013"><mixed-citation publication-type="journal" id="ece35880-cit-0013">
+<string-name>
+<surname>Durston</surname>, <given-names>D. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>El&#x02010;Sabaawi</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>2017</year>). <article-title>Bony traits and genetics drive intraspecific variation in vertebrate elemental composition</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>31</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2435.12919</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0014"><mixed-citation publication-type="journal" id="ece35880-cit-0014">
+<string-name>
+<surname>Ebel</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Leroux</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Robertson</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dempson</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>2015</year>). <article-title>Ontogenetic differences in Atlantic salmon phosphorus concentration and its implications for cross ecosystem fluxes</article-title>. <source xml:lang="en">Ecosphere</source>, <volume>6</volume>(<issue>8</issue>), <fpage>1</fpage>&#x02013;<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1890/ES14-00516.1</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0015"><mixed-citation publication-type="journal" id="ece35880-cit-0015">
+<string-name>
+<surname>Ebel</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Leroux</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Robertson</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dempson</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Whole body&#x02010;element composition of Atlantic salmon <italic>Salmo salar</italic> influenced by migration direction and life stage in three distinct populations</article-title>. <source xml:lang="en">Journal of Fish Biology</source>, <volume>89</volume>(<issue>5</issue>), <fpage>1</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1111/jfb.13123</pub-id>
+<pub-id pub-id-type="pmid">27401479</pub-id></mixed-citation></ref><ref id="ece35880-bib-0016"><mixed-citation publication-type="journal" id="ece35880-cit-0016">
+<string-name>
+<surname>El&#x02010;Sabaawi</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Kohler</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name>
+<surname>Zandon&#x000e1;</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Travis</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Marshall</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>S. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Flecker</surname>, <given-names>A. S.</given-names>
+</string-name> (<year>2012</year>). <article-title>Environmental and organismal predictors of intraspecific variation in the stoichiometry of a neotropical freshwater fish</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>7</volume>(<issue>3</issue>), <elocation-id>e32713</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0032713</pub-id>
+<pub-id pub-id-type="pmid">22412911</pub-id></mixed-citation></ref><ref id="ece35880-bib-0017"><mixed-citation publication-type="journal" id="ece35880-cit-0017">
+<string-name>
+<surname>El&#x02010;Sabaawi</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Travis</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zandon&#x000e0;</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Mcintyre</surname>, <given-names>P. B.</given-names>
+</string-name>, <string-name>
+<surname>Reznick</surname>, <given-names>D. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Flecker</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Intraspecific variability modulates interspecific variability in animal organismal stoichiometry</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>4</volume>(<issue>9</issue>), <fpage>1505</fpage>&#x02013;<lpage>1515</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.981</pub-id>
+<pub-id pub-id-type="pmid">24967071</pub-id></mixed-citation></ref><ref id="ece35880-bib-0018"><mixed-citation publication-type="journal" id="ece35880-cit-0018">
+<string-name>
+<surname>El&#x02010;Sabaawi</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Zandon&#x000e0;</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kohler</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name>
+<surname>Marshall</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Moslemi</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Travis</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Flecker</surname>, <given-names>A. S.</given-names>
+</string-name> (<year>2012</year>). <article-title>Widespread intraspecific organismal stoichiometry among populations of the Trinidadian guppy</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>26</volume>(<issue>3</issue>), <fpage>666</fpage>&#x02013;<lpage>676</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2435.2012.01974.x</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0019"><mixed-citation publication-type="journal" id="ece35880-cit-0019">
+<string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Bracken</surname>, <given-names>M. E. S.</given-names>
+</string-name>, <string-name>
+<surname>Cleland</surname>, <given-names>E. E.</given-names>
+</string-name>, <string-name>
+<surname>Gruner</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<surname>Harpole</surname>, <given-names>W. S.</given-names>
+</string-name>, <string-name>
+<surname>Hillebrand</surname>, <given-names>H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Smith</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>2007</year>). <article-title>Global analysis of nitrogen and phosphorus limitation of primary producers in freshwater, marine and terrestrial ecosystems</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>10</volume>(<issue>12</issue>), <fpage>1135</fpage>&#x02013;<lpage>1142</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2007.01113.x</pub-id>
+<pub-id pub-id-type="pmid">17922835</pub-id></mixed-citation></ref><ref id="ece35880-bib-0020"><mixed-citation publication-type="journal" id="ece35880-cit-0020">
+<string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>O'brien</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Dobberfuhl</surname>, <given-names>D. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dowling</surname>, <given-names>T. E.</given-names>
+</string-name>(<year>2000</year>). <article-title>The evolution of ecosystem processes: Growth rate and elemental stoichiometry of a key herbivore in temperate and arctic habitats</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>13</volume>(<issue>5</issue>), <fpage>845</fpage>&#x02013;<lpage>853</lpage>. <pub-id pub-id-type="doi">10.1046/j.1420-9101.2000.00215.x</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0021"><mixed-citation publication-type="journal" id="ece35880-cit-0021">
+<string-name>
+<surname>Fagan</surname>, <given-names>W. F.</given-names>
+</string-name>, <string-name>
+<surname>Siemann</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Mitter</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Denno</surname>, <given-names>R. F.</given-names>
+</string-name>, <string-name>
+<surname>Huberty</surname>, <given-names>A. F.</given-names>
+</string-name>, <string-name>
+<surname>Woods</surname>, <given-names>H. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2002</year>). <article-title>Nitrogen in insects: Implications for trophic complexity and species diversification</article-title>. <source xml:lang="en">American Naturalist</source>, <volume>160</volume>(<issue>6</issue>), <fpage>784</fpage>&#x02013;<lpage>802</lpage>. <pub-id pub-id-type="doi">10.1086/343879</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0022"><mixed-citation publication-type="book" id="ece35880-cit-0022">
+<string-name>
+<surname>Feldhamer</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>, <given-names>B. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chapman</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2003</year>). <source xml:lang="en">Wild mammals of North America: Biology, management, and conservation</source>. <publisher-loc>Baltimore, MD</publisher-loc>: <publisher-name>JHU Press</publisher-name>.</mixed-citation></ref><ref id="ece35880-bib-0023"><mixed-citation publication-type="journal" id="ece35880-cit-0023">
+<string-name>
+<surname>Gillooly</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>del Rio</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Savage</surname>, <given-names>V. M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Woods</surname>, <given-names>H. A.</given-names>
+</string-name> (<year>2005</year>). <article-title>The metabolic basis of whole&#x02010;organism RNA and phosphorus content</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the USA</source>, <volume>102</volume>(<issue>33</issue>), <fpage>11923</fpage>&#x02013;<lpage>11927</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0504756102</pub-id>
+<pub-id pub-id-type="pmid">16091465</pub-id></mixed-citation></ref><ref id="ece35880-bib-1024"><mixed-citation publication-type="journal" id="ece35880-cit-1024">
+<string-name>
+<surname>Gonz&#x000e1;lez</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>C&#x000e9;r&#x000e9;ghino</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>D&#x000e9;zerald</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Farjalla</surname>, <given-names>V. F.</given-names>
+</string-name>, <string-name>
+<surname>Leroy</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>, <given-names>B. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Srivastava</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Ecological mechanisms and phylogeny shape invertebrate stoichiometry: A test using detritus-based communities across Central and South America</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>32</volume>(<issue>10</issue>), <fpage>2448</fpage>&#x02013;<lpage>2463</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2435.13197</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0024"><mixed-citation publication-type="journal" id="ece35880-cit-0024">
+<string-name>
+<surname>Gonz&#x000e1;lez</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>D&#x000e9;zerald</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Marquet</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Romero</surname>, <given-names>G. Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Srivastava</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>2017</year>). <article-title>The multidimensional stoichiometric niche</article-title>. <source xml:lang="en">Frontiers in Ecology and Evolution</source>, <volume>5</volume>, <fpage>1</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.3389/fevo.2017.00110</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0025"><mixed-citation publication-type="journal" id="ece35880-cit-0025">
+<string-name>
+<surname>Gonz&#x000e1;lez</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Fari&#x000f1;a</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Kay</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Pinto</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Marquet</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Exploring patterns and mechanisms of interspecific and intraspecific variation in body elemental composition of desert consumers</article-title>. <source xml:lang="en">Oikos</source>, <volume>120</volume>(<issue>8</issue>), <fpage>1247</fpage>&#x02013;<lpage>1255</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0706.2010.19151.x</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0026"><mixed-citation publication-type="journal" id="ece35880-cit-0026">
+<string-name>
+<surname>Goos</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Cothran</surname>, <given-names>R. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jeyasingh</surname>, <given-names>P. D.</given-names>
+</string-name> (<year>2017</year>). <article-title>Within&#x02010;population variation in the chemistry of life: The stoichiometry of sexual dimorphism in multiple dimensions</article-title>. <source xml:lang="en">Evolutionary Ecology</source>, <volume>31</volume>(<issue>5</issue>), <fpage>1</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1007/s10682-017-9900-9</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0027"><mixed-citation publication-type="journal" id="ece35880-cit-0027">
+<string-name>
+<surname>Hewison</surname>, <given-names>A. J. M.</given-names>
+</string-name>, <string-name>
+<surname>Angibault</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Boutin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bideau</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Vincent</surname>, <given-names>J. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Semp&#x000e9;r&#x000e9;</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>1996</year>). <article-title>Annual variation in body composition of roe deer (<italic>Capreolus capreolus</italic>) in moderate environmental conditions</article-title>. <source xml:lang="en">Canadian Journal of Zoology</source>, <volume>74</volume>(<issue>2</issue>), <fpage>245</fpage>&#x02013;<lpage>253</lpage>. <pub-id pub-id-type="doi">10.1139/z96-031</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0028"><mixed-citation publication-type="journal" id="ece35880-cit-0028">
+<string-name>
+<surname>Hood</surname>, <given-names>W. R.</given-names>
+</string-name>, <string-name>
+<surname>Oftedal</surname>, <given-names>O. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kunz</surname>, <given-names>T. H.</given-names>
+</string-name> (<year>2006</year>). <article-title>Variation in body composition of female big brown bats (<italic>Eptesicus fuscus</italic>) during lactation</article-title>. <source xml:lang="en">Journal of Comparative Physiology B</source>, <volume>176</volume>(<issue>8</issue>), <fpage>807</fpage>&#x02013;<lpage>819</lpage>. <pub-id pub-id-type="doi">10.1007/s00360-006-0102-y</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0029"><mixed-citation publication-type="journal" id="ece35880-cit-0029">
+<string-name>
+<surname>Iason</surname>, <given-names>G. R.</given-names>
+</string-name> (<year>1988</year>). <article-title>Age determination of mountain hares (<italic>Lepus timidus</italic>): A rapid method and when to use it</article-title>. <source xml:lang="en">Journal of Applied Ecology</source>, <volume>25</volume>, <fpage>389</fpage>&#x02013;<lpage>395</lpage>. <pub-id pub-id-type="doi">10.2307/2403831</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0030"><mixed-citation publication-type="journal" id="ece35880-cit-0030">
+<string-name>
+<surname>Jeyasingh</surname>, <given-names>P. D.</given-names>
+</string-name>, <string-name>
+<surname>Cothran</surname>, <given-names>R. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tobler</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Testing the ecological consequences of evolutionary change using elements</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>4</volume>(<issue>4</issue>), <fpage>528</fpage>&#x02013;<lpage>538</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.950</pub-id>
+<pub-id pub-id-type="pmid">24634736</pub-id></mixed-citation></ref><ref id="ece35880-bib-0031"><mixed-citation publication-type="journal" id="ece35880-cit-0031">
+<string-name>
+<surname>Kay</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Ashton</surname>, <given-names>I. W.</given-names>
+</string-name>, <string-name>
+<surname>Gorokhova</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kerkhoff</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Liess</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Litchman</surname>, <given-names>E.</given-names>
+</string-name> (<year>2005</year>). <article-title>Toward a stoichiometric framework for evolutionary biology</article-title>. <source xml:lang="en">Oikos</source>, <volume>1</volume>, <fpage>6</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1111/j.0030-1299.2005.14048.x</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0032"><mixed-citation publication-type="journal" id="ece35880-cit-0032">
+<string-name>
+<surname>Krebs</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Boonstra</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Boutin</surname>, <given-names>S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Using experimentation to understand the 10&#x02010;year snowshoe hare cycle in the boreal forest of North America</article-title>. <source xml:lang="en">Journal of Animal Ecology</source>, <volume>87</volume>(<issue>1</issue>), <fpage>87</fpage>&#x02013;<lpage>100</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2656.12720</pub-id>
+<pub-id pub-id-type="pmid">28636751</pub-id></mixed-citation></ref><ref id="ece35880-bib-0033"><mixed-citation publication-type="journal" id="ece35880-cit-0033">
+<string-name>
+<surname>Leal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Seehausen</surname>, <given-names>O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Matthews</surname>, <given-names>B.</given-names>
+</string-name> (<year>2017</year>). <article-title>The ecology and evolution of stoichiometric phenotypes</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>32</volume>(<issue>2</issue>), <fpage>108</fpage>&#x02013;<lpage>117</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2016.11.006</pub-id>
+<pub-id pub-id-type="pmid">28017452</pub-id></mixed-citation></ref><ref id="ece35880-bib-0034"><mixed-citation publication-type="journal" id="ece35880-cit-0034">
+<string-name>
+<surname>Leroux</surname>, <given-names>S. J.</given-names>
+</string-name> (<year>2019</year>). <article-title>On the prevalence of uninformative parameters in statistical models applying model selection in applied ecology</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>14</volume>(<issue>2</issue>), <fpage>1</fpage>&#x02013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0206711</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0035"><mixed-citation publication-type="journal" id="ece35880-cit-0035">
+<string-name>
+<surname>Leroux</surname>, <given-names>S. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schmitz</surname>, <given-names>O. J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Predator&#x02010;driven elemental cycling: The impact of predation and risk effects on ecosystem stoichiometry</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>5</volume>(<issue>21</issue>), <fpage>4976</fpage>&#x02013;<lpage>4988</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.1760</pub-id>
+<pub-id pub-id-type="pmid">26640675</pub-id></mixed-citation></ref><ref id="ece35880-bib-0036"><mixed-citation publication-type="journal" id="ece35880-cit-0036">
+<string-name>
+<surname>Leroux</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Wal</surname>, <given-names>E. V.</given-names>
+</string-name>, <string-name>
+<surname>Wiersma</surname>, <given-names>Y. F.</given-names>
+</string-name>, <string-name>
+<surname>Charron</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ebel</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Ellis</surname>, <given-names>N. M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Yalcin</surname>, <given-names>S.</given-names>
+</string-name> (<year>2017</year>). <article-title>Stoichiometric distribution models: Ecological stoichiometry at the landscape extent</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>20</volume>(<issue>12</issue>), <fpage>1495</fpage>&#x02013;<lpage>1506</lpage>. <pub-id pub-id-type="doi">10.1111/ele.12859</pub-id>
+<pub-id pub-id-type="pmid">29027338</pub-id></mixed-citation></ref><ref id="ece35880-bib-0037"><mixed-citation publication-type="journal" id="ece35880-cit-0037">
+<string-name>
+<surname>Litvaitis</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Sherburne</surname>, <given-names>J. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bissonette</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>1985</year>). <article-title>Influence of understorey characteristics on snowshoe hare habitat use and density</article-title>. <source xml:lang="en">Journal of Wildlife Management</source>, <volume>49</volume>(<issue>4</issue>), <fpage>866</fpage>&#x02013;<lpage>873</lpage>. <pub-id pub-id-type="doi">10.2307/3801359</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0038"><mixed-citation publication-type="journal" id="ece35880-cit-0038">
+<string-name>
+<surname>Main</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Dobberfuhl</surname>, <given-names>D. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>1997</year>). <article-title>N: P stoichiometry and ontogeny of crustacean zooplankton: A test of the growth rate hypothesis</article-title>. <source xml:lang="en">Limnology and Oceanography</source>, <volume>42</volume>(<issue>6</issue>), <fpage>1474</fpage>&#x02013;<lpage>1478</lpage>. <pub-id pub-id-type="doi">10.4319/lo.1997.42.6.1474</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0039"><mixed-citation publication-type="journal" id="ece35880-cit-0039">
+<string-name>
+<surname>Martiny</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>Pham</surname>, <given-names>C. T. A.</given-names>
+</string-name>, <string-name>
+<surname>Primeau</surname>, <given-names>F. W.</given-names>
+</string-name>, <string-name>
+<surname>Vrugt</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Levin</surname>, <given-names>S. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lomas</surname>, <given-names>M. W.</given-names>
+</string-name> (<year>2013</year>). <article-title>Strong latitudinal patterns in the elemental ratios of marine plankton and organic matter</article-title>. <source xml:lang="en">Nature Geoscience</source>, <volume>6</volume>(<issue>4</issue>), <fpage>279</fpage>&#x02013;<lpage>283</lpage>. <pub-id pub-id-type="doi">10.1038/ngeo1757</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0040"><mixed-citation publication-type="book" id="ece35880-cit-0040">
+<string-name>
+<surname>Mazerolle</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2019</year>). <source xml:lang="en">AICcmodavg: Model selection and multimodel inference based on (Q)AIC(c) (Version 2.2&#x02010;2)</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/package=AICcmodavg">https://cran.r-project.org/package=AICcmodavg</ext-link>
+</mixed-citation></ref><ref id="ece35880-bib-0041"><mixed-citation publication-type="journal" id="ece35880-cit-0041">
+<string-name>
+<surname>Morehouse</surname>, <given-names>N. I.</given-names>
+</string-name>, <string-name>
+<surname>Nakazawa</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Booher</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Jeyasingh</surname>, <given-names>P. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hall</surname>, <given-names>M. D.</given-names>
+</string-name> (<year>2010</year>). <article-title>Sex in a material world: Why the study of sexual reproduction and sex&#x02010;specific traits should become more nutritionally&#x02010;explicit</article-title>. <source xml:lang="en">Oikos</source>, <volume>119</volume>(<issue>5</issue>), <fpage>766</fpage>&#x02013;<lpage>778</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0706.2009.18569.x</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0042"><mixed-citation publication-type="journal" id="ece35880-cit-0042">
+<string-name>
+<surname>Morris</surname>, <given-names>P.</given-names>
+</string-name> (<year>1972</year>). <article-title>A review of mammalian age determination methods</article-title>. <source xml:lang="en">Mammal Review</source>, <volume>2</volume>(<issue>3</issue>), <fpage>69</fpage>&#x02013;<lpage>104</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2907.2012.00221.x</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0043"><mixed-citation publication-type="journal" id="ece35880-cit-0043">
+<string-name>
+<surname>Murray</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>2002</year>). <article-title>Differential body condition and vulnerability to predation in snowshoe hares</article-title>. <source xml:lang="en">Journal of Animal Ecology</source>, <volume>71</volume>(<issue>4</issue>), <fpage>614</fpage>&#x02013;<lpage>625</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2656.2002.00632.x</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0044"><mixed-citation publication-type="book" id="ece35880-cit-0044">
+<string-name>
+<surname>Pastor</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hobbs</surname>, <given-names>N. T.</given-names>
+</string-name> (<year>2006</year>). <chapter-title>The roles of large herbivores in ecosystem nutrient cycles</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Danell</surname><given-names>K.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Duncan</surname><given-names>P.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Bergstr&#x000f6;m</surname><given-names>R.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Pastor</surname><given-names>J.</given-names></name></person-group> (Eds.), <source xml:lang="en">Large herbivore ecology, ecosystem dynamics and conservation</source> (Vol. <volume>11</volume>, pp. <fpage>289</fpage>&#x02013;<lpage>318</lpage>). Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.cambridge.org/ca/academic/subjects/life-sciences/ecology-and-conservation/large-herbivore-ecology-ecosystem-dynamics-and-conservation?format=PB#tmAIESriLQCypt8Q.97">http://www.cambridge.org/ca/academic/subjects/life-sciences/ecology-and-conservation/large-herbivore-ecology-ecosystem-dynamics-and-conservation?format=PB#tmAIESriLQCypt8Q.97</ext-link>
+</mixed-citation></ref><ref id="ece35880-bib-0045"><mixed-citation publication-type="journal" id="ece35880-cit-0045">
+<string-name>
+<surname>Peig</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Green</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2009</year>). <article-title>New perspectives for estimating body condition from mass/length data: The scaled mass index as an alternative method</article-title>. <source xml:lang="en">Oikos</source>, <volume>118</volume>(<issue>12</issue>), <fpage>1883</fpage>&#x02013;<lpage>1891</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0706.2009.17643.x</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0046"><mixed-citation publication-type="journal" id="ece35880-cit-0046">
+<string-name>
+<surname>Peig</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Green</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>The paradigm of body condition: A critical reappraisal of current methods based on mass and length</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>24</volume>(<issue>6</issue>), <fpage>1323</fpage>&#x02013;<lpage>1332</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2435.2010.01751.x</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0047"><mixed-citation publication-type="journal" id="ece35880-cit-0047">
+<string-name>
+<surname>Pe&#x000f1;uelas</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Fern&#x000e1;ndez&#x02010;Mart&#x000ed;nez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ciais</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Jou</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Piao</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Obersteiner</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Sardans</surname>, <given-names>J.</given-names>
+</string-name> (<year>2019</year>). <article-title>The bioelements, the elementome, and the biogeochemical niche</article-title>. <source xml:lang="en">Ecology</source>, <volume>100</volume>(<issue>5</issue>), <elocation-id>e02652</elocation-id>
+<pub-id pub-id-type="doi">10.1002/ecy.2652</pub-id>
+<pub-id pub-id-type="pmid">30901088</pub-id></mixed-citation></ref><ref id="ece35880-bib-0048"><mixed-citation publication-type="journal" id="ece35880-cit-0048">
+<string-name>
+<surname>Pilati</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vanni</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2007</year>). <article-title>Ontogeny, diet shifts, and nutrient stoichiometry in fish</article-title>. <source xml:lang="en">Oikos</source>, <volume>116</volume>(<issue>10</issue>), <fpage>1663</fpage>&#x02013;<lpage>1674</lpage>. <pub-id pub-id-type="doi">10.1111/j.2007.0030-1299.15970.x</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0049"><mixed-citation publication-type="book" id="ece35880-cit-0049">
+<collab collab-type="authors">R Core Team</collab>
+(<year>2018</year>) <source xml:lang="en">R: A language and environment for statistical computing (version 3.4.4)</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.r-project.org/">https://www.r-project.org/</ext-link>
+</mixed-citation></ref><ref id="ece35880-bib-0050"><mixed-citation publication-type="journal" id="ece35880-cit-0050">
+<string-name>
+<surname>Reynolds</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Vander Wal</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>, <given-names>B. K.</given-names>
+</string-name>, <string-name>
+<surname>Curran</surname>, <given-names>R. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Doucet</surname>, <given-names>C. M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Does prey density predict characteristics of primiparity in a solitary and specialized predator, the Canada lynx (<italic>Lynx canadensis</italic>)?</article-title>
+<source xml:lang="en">Canadian Journal of Zoology</source>, <volume>95</volume>(<issue>10</issue>), <fpage>779</fpage>&#x02013;<lpage>785</lpage>. <pub-id pub-id-type="doi">10.1139/cjz-2016-0269</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0051"><mixed-citation publication-type="journal" id="ece35880-cit-0051">
+<string-name>
+<surname>Rivas&#x02010;Ubach</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sardans</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Perez&#x02010;Trujillo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Estiarte</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Penuelas</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Strong relationship between elemental stoichiometry and metabolome in plants</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the USA</source>, <volume>109</volume>(<issue>11</issue>), <fpage>4181</fpage>&#x02013;<lpage>4186</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1116092109</pub-id>
+<pub-id pub-id-type="pmid">22371578</pub-id></mixed-citation></ref><ref id="ece35880-bib-0052"><mixed-citation publication-type="journal" id="ece35880-cit-0052">
+<string-name>
+<surname>Sardans</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Alonso</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Janssens</surname>, <given-names>I. A.</given-names>
+</string-name>, <string-name>
+<surname>Carnicer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Vereseglou</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rillig</surname>, <given-names>M. C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Penuelas</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Foliar and soil concentrations and stoichiometry of nitrogen and phosphorous across European <italic>Pinus sylvestris</italic> forests: Relationships with climate, N deposition and tree growth</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>30</volume>, <fpage>676</fpage>&#x02013;<lpage>689</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2435.12541</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0053"><mixed-citation publication-type="journal" id="ece35880-cit-0053">
+<string-name>
+<surname>Schmitz</surname>, <given-names>O. J.</given-names>
+</string-name>, <string-name>
+<surname>Raymond</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Estes</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Kurz</surname>, <given-names>W. A.</given-names>
+</string-name>, <string-name>
+<surname>Holtgrieve</surname>, <given-names>G. W.</given-names>
+</string-name>, <string-name>
+<surname>Ritchie</surname>, <given-names>M. E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wilmers</surname>, <given-names>C. C.</given-names>
+</string-name> (<year>2014</year>). <article-title>Animating the carbon cycle</article-title>. <source xml:lang="en">Ecosystems</source>, <volume>17</volume>(<issue>2</issue>), <fpage>344</fpage>&#x02013;<lpage>359</lpage>. <pub-id pub-id-type="doi">10.1007/s10021-013-9715-7</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0054"><mixed-citation publication-type="journal" id="ece35880-cit-0054">
+<string-name>
+<surname>Schmitz</surname>, <given-names>O. J.</given-names>
+</string-name>, <string-name>
+<surname>Wilmers</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Leroux</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Doughty</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name>
+<surname>Atwood</surname>, <given-names>T. B.</given-names>
+</string-name>, <string-name>
+<surname>Galetti</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Goetz</surname>, <given-names>S. J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Animals and the zoogeochemistry of the carbon cycle</article-title>. <source xml:lang="en">Science</source>, <volume>362</volume>(<issue>6419</issue>), <fpage>eaar3213</fpage>
+<pub-id pub-id-type="doi">10.1126/science.aar3213</pub-id>
+<pub-id pub-id-type="pmid">30523083</pub-id></mixed-citation></ref><ref id="ece35880-bib-0055"><mixed-citation publication-type="journal" id="ece35880-cit-0055">
+<string-name>
+<surname>Shaw</surname>, <given-names>C. N.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>P. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>White</surname>, <given-names>B. N.</given-names>
+</string-name> (<year>2003</year>). <article-title>A reliable molecular method of gender determination for mammals</article-title>. <source xml:lang="en">Journal of Mammalogy</source>, <volume>84</volume>(<issue>1</issue>), <fpage>123</fpage>&#x02013;<lpage>128</lpage>. <pub-id pub-id-type="doi">10.1644/1545-1542(2003)084&#x0003c;0123:ARMMOG&#x0003e;2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0056"><mixed-citation publication-type="journal" id="ece35880-cit-0056">
+<string-name>
+<surname>Shurin</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name>
+<surname>Gruner</surname>, <given-names>D. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hillebrand</surname>, <given-names>H.</given-names>
+</string-name> (<year>2006</year>). <article-title>All wet or dried up? Real differences between aquatic and terrestrial food webs</article-title>. <source xml:lang="en">Proceedings of the Royal Society B&#x02010;Biological Sciences</source>, <volume>273</volume>(<issue>1582</issue>), <fpage>1</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2005.3377</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0057"><mixed-citation publication-type="book" id="ece35880-cit-0057">
+<string-name>
+<surname>Sterner</surname>, <given-names>R. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2002</year>). <source xml:lang="en">Ecological stoichiometry: The biology of elements from molecules to the biosphere</source>. <publisher-loc>Princeton, NJ</publisher-loc>: <publisher-name>Princeton University Press</publisher-name>.</mixed-citation></ref><ref id="ece35880-bib-0058"><mixed-citation publication-type="journal" id="ece35880-cit-0058">
+<string-name>
+<surname>Sterrett</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Maerz</surname>, <given-names>J. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Katz</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2015</year>). <article-title>What can turtles teach us about the theory of ecological stoichiometry?</article-title>
+<source xml:lang="en">Freshwater Biology</source>, <volume>60</volume>(<issue>3</issue>), <fpage>443</fpage>&#x02013;<lpage>455</lpage>. <pub-id pub-id-type="doi">10.1111/fwb.12516</pub-id>
+</mixed-citation></ref><ref id="ece35880-bib-0059"><mixed-citation publication-type="journal" id="ece35880-cit-0059">
+<string-name>
+<surname>Stevenson</surname>, <given-names>R. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Woods</surname>, <given-names>W. A.</given-names>
+</string-name> (<year>2006</year>). <article-title>Condition indices for conservation: New uses for evolving tools</article-title>. <source xml:lang="en">Integrative and Comparative Biology</source>, <volume>46</volume>(<issue>6</issue>), <fpage>1169</fpage>&#x02013;<lpage>1190</lpage>. <pub-id pub-id-type="doi">10.1093/icb/icl052</pub-id>
+<pub-id pub-id-type="pmid">21672816</pub-id></mixed-citation></ref><ref id="ece35880-bib-0060"><mixed-citation publication-type="journal" id="ece35880-cit-0060">
+<string-name>
+<surname>Strong</surname>, <given-names>J. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Leroux</surname>, <given-names>S. J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Impact of non&#x02010;native terrestrial mammals on the structure of the terrestrial mammal food web of Newfoundland, Canada</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>9</volume>(<issue>8</issue>), <elocation-id>e106264</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0106264</pub-id>
+<pub-id pub-id-type="pmid">25170923</pub-id></mixed-citation></ref></ref-list></back></article>

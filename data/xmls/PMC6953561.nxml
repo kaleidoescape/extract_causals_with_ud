@@ -1,0 +1,761 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938512</article-id><article-id pub-id-type="pmc">6953561</article-id><article-id pub-id-type="doi">10.1002/ece3.5853</article-id><article-id pub-id-type="publisher-id">ECE35853</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Burrowing behavior and burrowing energetics of a bioindicator under human disturbance</article-title><alt-title alt-title-type="left-running-head">G&#x000dc;L and GRIFFEN</alt-title></title-group><contrib-group><contrib id="ece35853-cr-0001" contrib-type="author" corresp="yes"><name><surname>G&#x000fc;l</surname><given-names>Mustafa R.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2864-273X</contrib-id><xref ref-type="aff" rid="ece35853-aff-0001">
+<sup>1</sup>
+</xref><address><email>mremzigul@gmail.com</email></address></contrib><contrib id="ece35853-cr-0002" contrib-type="author"><name><surname>Griffen</surname><given-names>Blaine D.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8126-6323</contrib-id><xref ref-type="aff" rid="ece35853-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="ece35853-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">School of the Earth, Ocean, and Environment</named-content>
+<institution>University of South Carolina</institution>
+<city>Columbia</city>
+<named-content content-type="country-part">SC</named-content>
+<country country="US">USA</country>
+</aff><aff id="ece35853-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<institution>Brigham Young University</institution>
+<city>Provo</city>
+<named-content content-type="country-part">UT</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Mustafa R. G&#x000fc;l, School of the Earth, Ocean, and Environment, University of South Carolina, Columbia, SC 29208, USA.<break/>
+Email: <email>mremzigul@gmail.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14205</fpage><lpage>14216</lpage><history><date date-type="received"><day>03</day><month>6</month><year>2019</year></date><date date-type="rev-recd"><day>31</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>01</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14205.pdf"/><abstract id="ece35853-abs-0001"><title>Abstract</title><p>
+<list list-type="order" id="ece35853-list-0001"><list-item><p>Bioindicator species are extensively used for rapid assessment of ecological changes. Their use commonly focuses on changes in population abundance and individual sizes in response to environmental change. These numerical and demographic shifts likely have behavioral and physiological mechanistic drivers that, if understood, could provide additional insights into the use of these species as bioindicators of habitat health.</p></list-item><list-item><p>The Atlantic ghost crab, <italic>Ocypode quadrata</italic>, is a global bioindicator species of human disturbance on sandy shores. Individual size and population abundance of <italic>O.&#x000a0;quadrata</italic> decline dramatically at sites with human disturbance, and the causes of this phenomenon remain unclear.</p></list-item><list-item><p>Here, we test the hypothesis that individual and population&#x02010;level changes at disturbed sites reflect changes in burrowing behavior and energetics. Specifically, we examine whether or not the burrowing behavior (e.g., burrow fidelity and longevity) of <italic>O.&#x000a0;quadrata</italic> changes because of human disturbance. We also examine energy required for burrowing by <italic>O.&#x000a0;quadrata</italic> across different levels of human disturbance.</p></list-item><list-item><p>We show that <italic>O.&#x000a0;quadrata</italic> have the highest burrow fidelity and longevity at sites with low level of human impact, and weakest burrow fidelity and longevity at pristine sites. <italic>O.&#x000a0;quadrata</italic> reduce the burrowing energy allocation by manipulating the burrow dimension and increasing the burrow longevity even under low levels of human disturbance.</p></list-item><list-item><p>Overall, this study shows that human disturbances not only change the behavior of organisms, but also shift energetic balance. Our results support the use of a bioenergetic approach to better understand how human disturbances influence natural populations, and the specific use of this approach with this bioindicator species.</p></list-item></list>
+</p></abstract><abstract abstract-type="graphical" id="ece35853-abs-0002"><p>Human disturbance alter the behavior and therefore shift the energetic balance of the organisms.<boxed-text position="anchor" content-type="graphic" id="ece35853-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14205-g005.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35853-kwd-0001">bioenergetics</kwd><kwd id="ece35853-kwd-0002">ghost crabs</kwd><kwd id="ece35853-kwd-0003">longevity</kwd><kwd id="ece35853-kwd-0004"><italic>Ocypode quadrata</italic></kwd><kwd id="ece35853-kwd-0005">sandy beach</kwd><kwd id="ece35853-kwd-0006">site fidelity</kwd><kwd id="ece35853-kwd-0007">South Carolina</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Ministry of National Education, Republic of Turkey.</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="12"/><word-count count="10188"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35853-cit-1001">
+<string-name>
+<surname>G&#x000fc;l</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Griffen</surname>
+<given-names>BD</given-names>
+</string-name>. <article-title>Burrowing behavior and burrowing energetics of a bioindicator under human disturbance</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14205</fpage>&#x02013;<lpage>14216</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5853</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35853-body-0001"><sec id="ece35853-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Bioindicator species are widely used to identify and measure human&#x02010;related ecological changes (McGeoch, <xref rid="ece35853-bib-0052" ref-type="ref">1998</xref>; Carignan &#x00026; Villard, <xref rid="ece35853-bib-0012" ref-type="ref">2002</xref>; Siddig, Ellison, Ochs, Villar&#x02010;Leeman, &#x00026; Lau, <xref rid="ece35853-bib-0069" ref-type="ref">2016</xref>; Spellerberg, <xref rid="ece35853-bib-0074" ref-type="ref">2005</xref>) in many different ecosystems from forests (Pearce &#x00026; Venier, <xref rid="ece35853-bib-0056" ref-type="ref">2006</xref>; Rainio &#x00026; Niemel&#x000e4;, <xref rid="ece35853-bib-0060" ref-type="ref">2003</xref>; Maleque, Maeto, &#x00026; Ishii, <xref rid="ece35853-bib-0051" ref-type="ref">2009</xref>) to coral reefs (Erdmann &#x00026; Caldwell, <xref rid="ece35853-bib-0026" ref-type="ref">1997</xref>; Hallock, Lidz, Cockey&#x02010;Burkhard, &#x00026; Donnelly, <xref rid="ece35853-bib-0038" ref-type="ref">2003</xref>). The main reason for using bioindicators is the reduced cost, time, and effort compared with examining all biota in a disturbed region (Carignan &#x00026; Villard, <xref rid="ece35853-bib-0012" ref-type="ref">2002</xref>; Cortes, Hughes, Pereira, &#x00026; Varandas, <xref rid="ece35853-bib-0017" ref-type="ref">2013</xref>; Spellerberg, <xref rid="ece35853-bib-0074" ref-type="ref">2005</xref>). Thus, the species that is selected as an indicator should represent the ecological changes in a given area (Carignan &#x00026; Villard, <xref rid="ece35853-bib-0012" ref-type="ref">2002</xref>; Siddig et al., <xref rid="ece35853-bib-0069" ref-type="ref">2016</xref>), which is particularly important in coastal regions due to the difficulty of assessing the impacts of human disturbances in marine environments (Vitousek, Mooney, Lubchenco, &#x00026; Melillo, <xref rid="ece35853-bib-0081" ref-type="ref">1997</xref>) because of their highly dynamic nature (Carr et al., <xref rid="ece35853-bib-0013" ref-type="ref">2003</xref>).</p><p>Bioindicator species usually signal changes in a given ecosystem via changes in their presence/absence, abundance, or age/size structure (Carignan &#x00026; Villard, <xref rid="ece35853-bib-0012" ref-type="ref">2002</xref>; Heink &#x00026; Kowarik, <xref rid="ece35853-bib-0040" ref-type="ref">2010</xref>; Siddig et al., <xref rid="ece35853-bib-0069" ref-type="ref">2016</xref>; Spellerberg, <xref rid="ece35853-bib-0074" ref-type="ref">2005</xref>). However, changes in behavior may also be used as a bioindicator, as species may change their behavior and daily activities under altered conditions due to direct and indirect human disturbances (Sih, Stamps, Yang, McElreath, &#x00026; Ramenofsky, <xref rid="ece35853-bib-0071" ref-type="ref">2011</xref>; Sih, <xref rid="ece35853-bib-0070" ref-type="ref">2013</xref>; Wong &#x00026; Candolin, <xref rid="ece35853-bib-0087" ref-type="ref">2015</xref>; Font&#x000fa;rbel, Candia, Malebr&#x000e1;n, Salazar, Gonz&#x000e1;lez&#x02010;Browne, &#x00026; Medel, <xref rid="ece35853-bib-0028" ref-type="ref">2015</xref>; Costa, Madureira, &#x00026; Zalmon, <xref rid="ece35853-bib-0018" ref-type="ref">2019</xref>). For example, population abundance of some crab species is commonly used as bioindicators of various human disturbances such as urbanization, mining, and contamination (Cannicci et al., <xref rid="ece35853-bib-0009" ref-type="ref">2009</xref>; Jonah, Agbo, Agbeti, Adjei&#x02010;Boateng, &#x00026; Shimba, <xref rid="ece35853-bib-0045" ref-type="ref">2015</xref>; Schlacher et al., <xref rid="ece35853-bib-0064" ref-type="ref">2016</xref>; Wildsmith et al., <xref rid="ece35853-bib-0083" ref-type="ref">2009</xref>), and some of these species additionally alter burrowing behaviors in disturbed sites (Weis &#x00026; Perlmutter, <xref rid="ece35853-bib-0082" ref-type="ref">1987</xref>; Bartolini, Penha&#x02010;Lopes, Limbu, Paula, &#x00026; Cannicci, <xref rid="ece35853-bib-0005" ref-type="ref">2009</xref>; Culbertson et al., <xref rid="ece35853-bib-0020" ref-type="ref">2007</xref>; G&#x000fc;l &#x00026; Griffen, <xref rid="ece35853-bib-0036" ref-type="ref">2018a</xref>). Species may also alter their feeding habits (Griffiths et al., <xref rid="ece35853-bib-0035" ref-type="ref">2017</xref>; Jokim&#x000e4;ki, Suhonen, Jokim&#x000e4;ki&#x02010;Kaisanlahti, &#x00026; Carb&#x000f3;&#x02010;Ram&#x000ed;rez, <xref rid="ece35853-bib-0044" ref-type="ref">2016</xref>) and trophic interactions (Costa, Tavares, Suciu, Rangel, &#x00026; Zalmon, <xref rid="ece35853-bib-0019" ref-type="ref">2017</xref>; Gray, Baldauf, Mayhew, &#x00026; Hill, <xref rid="ece35853-bib-0033" ref-type="ref">2007</xref>) in areas with human disturbance, and thus these changes in behavior and daily activities can result in changes to the energy balance and physiological state (Chandurvelan, Marsden, Glover, &#x00026; Gaw, <xref rid="ece35853-bib-0015" ref-type="ref">2015</xref>; Spellerberg, <xref rid="ece35853-bib-0074" ref-type="ref">2005</xref>). Therefore, despite the fact that studies on the energetic results of human disturbance in bioindicator species are limited to a few examples (Adams &#x00026; Ham, <xref rid="ece35853-bib-0001" ref-type="ref">2011</xref>; Toro, Navarro, &#x00026; Palma&#x02010;Fleming, <xref rid="ece35853-bib-0079" ref-type="ref">2003</xref>), there are several examples to show that alterations in the physiological/energetic conditions of nonbioindicator organisms are due to direct (Williams, Lusseau, &#x00026; Hammond, <xref rid="ece35853-bib-0084" ref-type="ref">2006</xref>; Symons, Pirotta, &#x00026; Lusseau, <xref rid="ece35853-bib-0077" ref-type="ref">2014</xref>; Villegas&#x02010;Amtmann, Schwarz, Sumich, &#x00026; Costa, <xref rid="ece35853-bib-0080" ref-type="ref">2015</xref>) and indirect human impacts (Griffen, <xref rid="ece35853-bib-0034" ref-type="ref">2018</xref>; Leo, Dahlke, Storch, P&#x000f6;rtner, &#x00026; Mark, <xref rid="ece35853-bib-0046" ref-type="ref">2018</xref>; Thomas et al., <xref rid="ece35853-bib-0078" ref-type="ref">2016</xref>).</p><p>Burrowing behavior is a common phenomenon in organisms (Reichman &#x00026; Smith, <xref rid="ece35853-bib-0061" ref-type="ref">1990</xref>; Lucrezi &#x00026; Schlacher, <xref rid="ece35853-bib-0049" ref-type="ref">2014</xref>; Nomura, Rossa&#x02010;Feres, &#x00026; Langeani, <xref rid="ece35853-bib-0054" ref-type="ref">2009</xref>). Despite its energetically expensive nature (Hunter &#x00026; Elder, <xref rid="ece35853-bib-0043" ref-type="ref">1989</xref>), burrowing behavior provides some advantages, including protection from predators and cannibals, from direct human disturbance, and from harsh environmental conditions (Soriguer &#x00026; Amat, <xref rid="ece35853-bib-0073" ref-type="ref">1980</xref>; Christoffers, <xref rid="ece35853-bib-0016" ref-type="ref">1986</xref>; Friend, <xref rid="ece35853-bib-0030" ref-type="ref">1993</xref>; G&#x000fc;l &#x00026; Griffen, <xref rid="ece35853-bib-0036" ref-type="ref">2018a</xref>; Lucrezi &#x00026; Schlacher, <xref rid="ece35853-bib-0049" ref-type="ref">2014</xref>). Burrowing species commonly use olfactory and visual cues to return to their burrows (Hughes, <xref rid="ece35853-bib-0042" ref-type="ref">1966</xref>; Bonadonna, Spaggiari, &#x00026; Weimerskirch, <xref rid="ece35853-bib-0006" ref-type="ref">2001</xref>; Ribeiro, Christy, Rissanen, &#x00026; Kim, <xref rid="ece35853-bib-0062" ref-type="ref">2006</xref>; Lucrezi &#x00026; Schlacher, <xref rid="ece35853-bib-0049" ref-type="ref">2014</xref>) and as a result, show high fidelity to individual burrows and sites.</p><p>Intensity of human disturbance on sandy beaches generally increases with human population size (Davenport &#x00026; Davenport, <xref rid="ece35853-bib-0021" ref-type="ref">2006</xref>; Defeo et al., <xref rid="ece35853-bib-0025" ref-type="ref">2009</xref>; Halpern et al., <xref rid="ece35853-bib-0039" ref-type="ref">2008</xref>). The ecological impacts of this disturbance are commonly assessed using the population abundance and size structures of common macroinvertebrates such as clams (Defeo &#x00026; de Alava, <xref rid="ece35853-bib-0024" ref-type="ref">1995</xref>; Schlacher, Thompson, &#x00026; Walker, <xref rid="ece35853-bib-0066" ref-type="ref">2008</xref>; Sheppard, Pitt, &#x00026; Schlacher, <xref rid="ece35853-bib-0068" ref-type="ref">2009</xref>), mole crabs and sand hoppers (Cardoso, Barboza, Skinner, &#x00026; Cabrini, <xref rid="ece35853-bib-0011" ref-type="ref">2016</xref>), beetles (Gonz&#x000e1;lez, Y&#x000e1;&#x000f1;ez&#x02010;Navea, &#x00026; Mu&#x000f1;oz, <xref rid="ece35853-bib-0032" ref-type="ref">2014</xref>), and ghost crabs (Aheto, Asare, Mensah, &#x00026; Aggrey&#x02010;Fynn, <xref rid="ece35853-bib-0002" ref-type="ref">2011</xref>; Barros, <xref rid="ece35853-bib-0004" ref-type="ref">2001</xref>; G&#x000fc;l &#x00026; Griffen, <xref rid="ece35853-bib-0036" ref-type="ref">2018a</xref>, <xref rid="ece35853-bib-0037" ref-type="ref">2018</xref>; Hobbs, Landry, &#x00026; Perry, <xref rid="ece35853-bib-0041" ref-type="ref">2008</xref>; Lucrezi, Schlacher, &#x00026; Robinson, <xref rid="ece35853-bib-0050" ref-type="ref">2009</xref>; Neves &#x00026; Bemvenuti, <xref rid="ece35853-bib-0053" ref-type="ref">2006</xref>; Schlacher et al., <xref rid="ece35853-bib-0064" ref-type="ref">2016</xref>; Steiner &#x00026; Leatherman, <xref rid="ece35853-bib-0075" ref-type="ref">1981</xref>; Wolcott &#x00026; Wolcott, <xref rid="ece35853-bib-0086" ref-type="ref">1984</xref>).</p><p>The most widespread responses of ghost crabs to human disturbances on sandy shores are decreases in population abundance and individual body sizes (Schlacher et al., <xref rid="ece35853-bib-0064" ref-type="ref">2016</xref> and citations therein; G&#x000fc;l &#x00026; Griffen, <xref rid="ece35853-bib-0036" ref-type="ref">2018a</xref>, <xref rid="ece35853-bib-0037" ref-type="ref">2018</xref>). These changes are often measured using burrow counts, a nondestructive and efficient technique for assessing both the abundance and size distribution of ghost crabs (Schlacher et al., <xref rid="ece35853-bib-0064" ref-type="ref">2016</xref>). Various mechanisms have been hypothesized for the reduced density and size of ghost crabs with human disturbance, including higher mortality rate for individuals with shallow burrows (Schlacher, Thompson, &#x00026; Price, <xref rid="ece35853-bib-0065" ref-type="ref">2007</xref>), direct crushing by vehicles (Wolcott &#x00026; Wolcott, <xref rid="ece35853-bib-0086" ref-type="ref">1984</xref>), lower organic material availability (Stelling&#x02010;Wood, Clark, &#x00026; Poore, <xref rid="ece35853-bib-0076" ref-type="ref">2016</xref>), and stress due to direct handling by people (G&#x000fc;l &#x00026; Griffen, <xref rid="ece35853-bib-0036" ref-type="ref">2018a</xref>). However, the precise mechanistic reason for observed demographic changes remains unclear. Besides these demographic changes, ghost crabs also alter their burrow architecture under human influence (G&#x000fc;l &#x00026; Griffen, <xref rid="ece35853-bib-0036" ref-type="ref">2018a</xref>; Lucrezi &#x00026; Schlacher, <xref rid="ece35853-bib-0048" ref-type="ref">2010</xref>; Schlacher &#x00026; Lucrezi, <xref rid="ece35853-bib-0063" ref-type="ref">2010</xref>), implying that there may be an energetic component to the response of ghost crabs to disturbance. Here, we investigate whether Atlantic ghost crabs, <italic>Ocypode quadrata</italic>, show any variation in the burrowing behavior (fidelity and longevity) and energy demand for burrowing activities between sites with different levels of human disturbance. We predicted that <italic>O.&#x000a0;quadrata</italic> will be forced to burrow more frequently on disturbed sites because their burrows would be destroyed by human activities more often compared with pristine sites. We further predicted that burrowing would represent an energetically expensive behavior and that this energetic cost should be influenced by changes in the frequency of burrows and the size of burrows across beaches with different levels of human disturbance.</p></sec><sec sec-type="materials-and-methods" id="ece35853-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35853-sec-0003"><label>2.1</label><title>Study system</title><p>We examined the burrowing behavior (e.g., burrow fidelity and longevity) of the Atlantic ghost crab, <italic>O.&#x000a0;quadrata</italic>, on twenty South Carolina sandy beaches with different levels of human disturbances between 15th May and 1st November 2017 (Table <xref rid="ece35853-tbl-0001" ref-type="table">1</xref>). We classified and grouped our study sites by using the urbanization index (UI) that was modified from Gonz&#x000e1;lez et al. (<xref rid="ece35853-bib-0032" ref-type="ref">2014</xref>). Specifically, we used the following six variables based on observations and counts during the summer of 2016 and 2017 to estimate urbanization levels: (1) proximity to urban centers, (2) building on the sand and dunes, (3) beach cleaning, (4) number of vehicles on the sand, (5) visitor frequency, and (6) infrastructure such as parking lots, restrooms, and other amenities. Variables 3, 4, and 5 were obtained by direct counts during our study. Since beach cleaning is performed during the nights, we observed whether the beach was mechanically cleaned and counted the number of vehicles on the beach during the night. For frequency of visitors, we counted all visitors for two hours in the morning between 09:00 and 11:00 as a proxy. On the other hand, levels 1, 2, and 6 were acquired by direct observations. We scored each level from &#x0201c;0&#x0201d; to &#x0201c;5&#x0201d; based on the level of estimated variables (Table <xref rid="ece35853-sup-0001" ref-type="supplementary-material">S1</xref>, Appendix <xref rid="ece35853-sup-0001" ref-type="supplementary-material">S1</xref>). We then summed these scores across the six variables described above and divided by 30, providing a UI score that ranged from 0 to 1. Finally, we grouped our study sites by using UI scores as pristine (P: from 0 to 0.25), moderately impacted by only visitors (MI: from 0.26 to 0.50), highly impacted by only visitors (HI: from 0.51 to 0.75), and highly impacted by human visitors and vehicles (HV: from 0.76 to 1). While this UI score is a continuous variable, we bin it as described here for ease of presentation and, more importantly, to avoid over representing the certainty of a specific level of human impact at each site. Ultimately, the UI scores were determined for each site at a single point in time and therefore only represent approximations of the level of human disturbance at each site.</p><table-wrap id="ece35853-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Levels of the urbanization indicators from absent (0) to extremely high (5) level and the urbanization index (UI) of the study sites</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">No</th><th align="left" valign="top" rowspan="1" colspan="1">Site</th><th align="left" valign="top" rowspan="1" colspan="1">Proximity to urban centers</th><th align="left" valign="top" rowspan="1" colspan="1">Building on the sand and dunes</th><th align="left" valign="top" rowspan="1" colspan="1">Beach cleaning</th><th align="left" valign="top" rowspan="1" colspan="1">Number of veh. on the sand</th><th align="left" valign="top" rowspan="1" colspan="1">Frequency of visitors</th><th align="left" valign="top" rowspan="1" colspan="1">Infrastructures</th><th align="left" valign="top" rowspan="1" colspan="1">UI</th></tr></thead><tbody><tr><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">Waties Island 1</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0.03</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Waties Island 2</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0.03</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Waties Island 3</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0.03</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">N. Myrtle Beach 1</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">0.93</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">N. Myrtle Beach 2</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">0.93</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">Myrtle Beach 1</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">0.96</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">Myrtle Beach 2</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">0.96</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">Garden City Beach</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">0.9</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">Pawley's Island 1</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">0.36</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">Pawley's Island 2</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">0.36</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">Debidue Island 1</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0.06</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">Debidue Island 2</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0.06</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">Isle of Palm 2&#x02013;1</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">0.7</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">Isle of Palm 2&#x02013;2</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">0.7</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">Isle of Palm 1&#x02013;1</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0.3</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">Isle of Palm 1&#x02013;2</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0.3</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1">Sullivan's Island 1</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">0.66</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">Sullivan's Island 2</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">0.66</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">Folly Beach</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">0.5</td></tr><tr><td align="char" char="." rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">Burkes Beach</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">0.66</td></tr></tbody></table><table-wrap-foot id="ece35853-ntgp-0001"><title>Note</title><fn id="ece35853-note-0001"><p>The sites were aligned based on their latitudes from north to south.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece35853-sec-0004"><label>2.2</label><title>Impact of marking procedure</title><p>We used a mark&#x02013;recapture study to examine burrow fidelity (described below). Prior to this, we used a preliminary study to determine whether our mark and recapture technique would likely alter burrow fidelity and longevity of ghost crabs. This preliminary experiment did not determine whether our procedure influenced the burrow fidelity of crabs. We therefore make the assumption that any impacts of our procedures on burrow fidelity did not differ across levels of human impact. We randomly selected one site for each of the four human disturbance levels. At each site, we selected newly created burrows in the upper zone (i.e., on the seaward side of the dune vegetation) and designated them as control or treatment burrows. Burrow was identified as &#x0201c;newly&#x02010;created&#x0201d; by initially marking existing burrows and selecting new burrows that appeared beginning the next day for the study as they were created by crabs. We examined a total of 84 burrows (i.e., 42 control, 42 treatment) across the four sites. Each burrow was marked using a marking flag. We were forced to burry our marking flags in the sand at about a 20&#x02010;cm depth in the sites with human presence because beachgoers removed unburied flags. The experimental controls consisted of a set of burrows used by crabs that had not been marked. For these control burrows, we used a set of burrows that were newly created over a 3&#x02010;day period and examined these until they collapsed to determine the burrowing behavior and to measure burrow longevity. The experimental treatment consisted of a set of burrows used by crabs that had been marked for identification. For these treatment burrows, we set up simple traps (approximately 45&#x000a0;cm deep buckets buried flush with the sand and with a piece of rotting fish meat to lure crabs into the buckets) before sunset to capture the crabs that newly created their burrows. We also surrounded burrows and traps together using approximately 30&#x000a0;cm high plastic mesh to guide crabs into the traps. We were careful not to destroy the sand mounds and not to remove any material (e.g., small stones) from around the burrows, as individuals use sand mounds (Hughes, <xref rid="ece35853-bib-0042" ref-type="ref">1966</xref>; Lucrezi &#x00026; Schlacher, <xref rid="ece35853-bib-0049" ref-type="ref">2014</xref>) and marine debris (Costa et al., <xref rid="ece35853-bib-0018" ref-type="ref">2019</xref>) as visual cues to recognize their own burrow. All captured crabs in the buckets were marked on the ventral side using nail polish, which is visible for up to 2&#x000a0;months in this species (Christoffers, <xref rid="ece35853-bib-0016" ref-type="ref">1986</xref>). After we completed our marking procedure, we removed the traps and mesh around the burrows. We applied the same marking procedure for all newly created burrows and crabs for the next 3&#x000a0;days. To ensure that an individual still owned the same burrow, we then applied the same trapping technique every 3&#x000a0;days until the burrow collapsed. It is possible that crabs escaped our capture techniques and were therefore present, but not sampled. Thus, or estimates of burrow fidelity here are conservative estimates (i.e., they could potentially overestimate the possible impacts of our marking procedures on burrow fidelity). We analyzed the results of this preliminary experiment using a generalized linear mixed&#x02010;effects model (GLMM) with a Poisson distribution to understand whether the number of days during which the burrows still existed (i.e., burrow longevity) varied between burrows in the control (unmarked crabs) and treatment (marked crabs) groups. We treated the experimental group (control vs. treatment) and the level of human impact as fixed factors, with site treated as a random factor to control for multiple samples at each site. We used the statistical software R version 3.5.1 (R Core Team, <xref rid="ece35853-bib-0059" ref-type="ref">2018</xref>) for this and all subsequent statistical analysis in this paper.</p></sec><sec id="ece35853-sec-0005"><label>2.3</label><title>Use of foreign burrows</title><p>We conducted a second preliminary experiment to determine whether crabs would use a burrow that they did not construct. If crabs will use a burrow that they did not construct, then they may avoid the energetic cost of burrow construction. During our study, we recognized that marked individuals returned to their own burrows immediately after we had released them. We also observed that foraging individuals run back to burrows from a certain distance (i.e., up to approximately 8&#x02013;10&#x000a0;m) when they encounter humans. Thus, to test whether <italic>O.&#x000a0;quadrata</italic> will enter any random burrow, we collected 10 individuals of various body sizes on Waties Island (one of our pristine sites). We kept these individuals in separate plastic containers for about 10&#x000a0;min, during which time we shook the containers gently to disturb them. We then chose random burrows that were matched to the size of individual crabs and released the individuals, one by one, next to the mouths of these burrows. We conducted this experiment at night when crabs are usually out of their burrows foraging, reducing the likelihood that these burrows were already occupied by their resident crab. When an individual did not immediately try to escape or enter the burrow, we pretended to catch them to elicit a response. We applied a Chi&#x02010;squared test to determine whether crabs entered random burrows. We only conducted this experiment at one of our pristine sites and therefore cannot be sure that the behavior does not differ with the level of human impact.</p></sec><sec id="ece35853-sec-0006"><label>2.4</label><title>Burrow fidelity</title><p>To understand whether the number of days during which an individual uses the same burrow (burrow fidelity) varies based on the level of human disturbances, we applied a mark and recapture technique as described above at one site for each disturbance level. For the burrow fidelity, we sampled the newly created burrows over a 1&#x02010;week period in three replicate rectangular quadrats (10&#x000a0;&#x000d7;&#x000a0;5&#x000a0;m) situated on the seaward side of the dune vegetation at each site. We established our quadrats near the dune vegetation because the persistence of ghost crab burrows is directly affected by the tides (Evans, Cram, Eaton, Torrance, &#x00026; Wood, <xref rid="ece35853-bib-0027" ref-type="ref">1976</xref>) and height on the beach (Campagnoli, Pombo, &#x00026; Turra, <xref rid="ece35853-bib-0010" ref-type="ref">2018</xref>). We first measured burrow size as the largest distance across the burrow openings, which is positively related to crab size (<italic>r</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.98, Wolcott, <xref rid="ece35853-bib-0085" ref-type="ref">1978</xref>; Silva &#x00026; Calado, <xref rid="ece35853-bib-0072" ref-type="ref">2013</xref>; de Oliveira, Souza, &#x00026; Soares&#x02010;Gomes, <xref rid="ece35853-bib-0022" ref-type="ref">2016</xref>; Souza, Oliveira, Tardem, &#x00026; Soares&#x02010;Gomes, <xref rid="ece35853-bib-0023" ref-type="ref">2017</xref>). Then, the same trapping procedure explained above was repeated every 3&#x000a0;days. During our investigation, we marked individual crabs and their burrows with the same numbers so that individual crabs and their burrows could be matched. Since some individuals destroyed their own burrows after they were disturbed, we observed the sampled burrows after a couple hours to see whether the burrows still existed. If not, we excluded that individual burrow and the crab from our data. We used a generalized linear mixed&#x02010;effects model (GLMM) with a Poisson distribution to test whether burrow fidelity (number of days a burrow was used) varied among the levels of human impacts and the size of the burrow (fixed factors). To control for latitudinal and temporal difference, sampling day (e.g., Julian days) and latitude were included as random factors in this, and all subsequent mixed models described below (Fox &#x00026; Weisberg, <xref rid="ece35853-bib-0029" ref-type="ref">2018</xref>; Galwey, <xref rid="ece35853-bib-0031" ref-type="ref">2014</xref>). Following this analysis, we applied a Tukey's HSD test to make multiple pairwise comparisons of burrow fidelity among the levels of human impact.</p></sec><sec id="ece35853-sec-0007"><label>2.5</label><title>Burrow longevity</title><p>To examine whether the persistence of the ghost crab burrows themselves was influenced by the level of human impact, we observed the longevity of <italic>O.&#x000a0;quadrata</italic> burrows (i.e., the number of days from creation until collapse) in three trial rectangular quadrats (20&#x000a0;&#x000d7;&#x000a0;10&#x000a0;m) in each site listed in Table <xref rid="ece35853-tbl-0001" ref-type="table">1</xref>. We established quadrats on the seaward side of the dune vegetation. We marked the burrows in each quadrat using orange marking flags. We then marked all subsequent newly created burrows in each site with blue or green flags for the following week. We observed the burrows marked with blue and green flags every day until they collapsed. To determine whether burrow longevity varied among the levels of human impact or burrow size (fixed factors), we ran a generalized mixed&#x02010;effects model (GLMM) with a Poisson distribution, followed by a Tukey's HSD test for multiple comparisons between levels of human impacts.</p><p>Geomorphological characteristics of sandy beaches and burrow densities at each site were determined as possible explanatory variables of the burrowing behavior (details in Appendix <xref rid="ece35853-sup-0001" ref-type="supplementary-material">S2</xref>). We ran two generalized linear mixed&#x02010;effects models (GLMM) with Poisson distributions to determine whether burrow fidelity and longevity were influenced by crab density, sand grain size, and sand compaction (fixed variables).</p></sec><sec id="ece35853-sec-0008"><label>2.6</label><title>Energy requirement of burrowing</title><p>We conducted an experiment to determine the energetic coast of digging for <italic>O.&#x000a0;quadrata</italic>. We collected 40 individuals of a range of sizes in both sexes from Isle of Palm in September 2017. These were transported to the University of South Carolina in Columbia, South Carolina where they were held in separate plastic containers (length 23.1&#x000a0;cm, width 16.2&#x000a0;cm, and height 13.9&#x000a0;cm) with ~5&#x000a0;cm moist sand. We weighed them and kept them without food for 3&#x000a0;days to standardize their hunger level, after which we fed them every other day with commercially purchased salmon for next 10&#x000a0;days. Each individual was offered 10% of its wet body weight at each feeding, and uneaten food was removed after 24&#x000a0;hr. All of this was done in an attempt to standardize the energetic conditions across crabs.</p><p>Following this holding period, we transported the crabs back to the Isle of Palm where they were collected. We created experimental chambers by excavating 20 pits in the sand at Isle of Palm on the beach berm. This was done at night to avoid changing the temperature of sand at depth via direct sunlight. Into each pit, we placed a 121&#x000a0;L plastic can (diameter 55.8&#x000a0;cm, height 81.2&#x000a0;cm) with approx. 50 small holes drilled into the sides and the bottom to allow moisture and temperature exchange between the inside of the chamber and the surrounding sediment. We then replaced the sand that had been removed into these experimental chambers. To mimic the sand compaction of the surrounding beach, we excavated another identical pit and measured the sand compaction every ~20&#x000a0;cm during excavation using a pocket penetrometer. Then, as the chambers were filled with sand, we measured the compaction inside the chambers at each 20&#x02010;cm interval and pressed the sand as necessary to achieve the same compaction level as was observed in the surrounding sediment. We surrounded the mouth of the chambers with a vertical cardboard barrier to keep the crabs from escaping and then allowed 4&#x000a0;hr for moister and oxygen levels in the chambers to equilibrate. We then released an individual treatment crab onto the sand surface in each chamber and allowed them to excavate burrows. During this time, we held the other 20 control crabs in their transport containers under the same ambient environmental conditions with the treatment crabs in the field. After about 2&#x000a0;hr, all experimental crabs had excavated a burrow. To force the individuals to leave their burrows, we used a smoke fumigator (Pombo &#x00026; Turra, <xref rid="ece35853-bib-0057" ref-type="ref">2013</xref>). Twelve of the crabs exited their burrows due to the smoke, while the others remained in their burrows until we poured plaster of Paris into the burrow. We determined the burrow volume using the burrow casts created with plaster (see Appendix <xref rid="ece35853-sup-0001" ref-type="supplementary-material">S3</xref>). We removed the second digging leg (i.e., the walking leg on the same side as the minor claw (Lucrezi &#x00026; Schlacher, <xref rid="ece35853-bib-0049" ref-type="ref">2014</xref>)) from each treatment and control crab and immediately placed these in individually labeled plastic bags on ice.</p><p>We used the glycogen content in the digging leg muscle tissue as a proxy of the energetic cost of digging. To determine the glycogen content, we used a Sigma&#x02010;Aldrich Glycogen Assay Kit MAK016. We used the instructions provided by the manufacturer of the kit to perform the glycogen analysis on a subsample (~10&#x000a0;mg) from each leg muscle removed from the experimental and control crabs. Finally, we measured absorbance of our samples under a spectrophotometer (Biotek Synergy H1 Hybrid Reader working with software Gen5). The glycogen content of the samples was calculated from a standard curve [glycogen content (&#x003bc;g/mg of muscle tissue)&#x000a0;=&#x000a0;1.9837&#x000a0;&#x000d7;&#x000a0;OD(570&#x000a0;nm)&#x000a0;&#x02212;&#x000a0;0.0269; R<sup>2</sup>&#x000a0;=&#x000a0;0.9978] that we constructed simultaneously with our glycogen samples. To determine the energy level in the muscle tissues, we converted the glycogen content to energy by multiplying by 17.2&#x000a0;kJ/g (Lucas, <xref rid="ece35853-bib-0047" ref-type="ref">1996</xref>). Our visual inspection of graphs suggested that glycogen content in the leg tissue of experimental crabs declined nonlinearly with burrow volume. We compared three models using AIC to determine the best model to explain this relationship (Burnham &#x00026; Anderson, <xref rid="ece35853-bib-0008" ref-type="ref">2002</xref>). Specifically, we fit a linear model, a negative exponential model, and a quadratic model. We also included crab size in each of these models, reasoning that it would require less energy for a larger crab than for a smaller crab to create a given size burrow. We also used a <italic>t</italic> test to compare the energy level in the muscle tissues between experimental crabs that burrowed and control crabs that did not.</p><p>Lastly, we estimated the annual energy demand required to support the burrowing behavior of <italic>O.&#x000a0;quadrata</italic>. We did this by combining our data on burrow longevity at each of our sites and the energy expended during the removal of 1&#x000a0;cm<sup>3</sup> of sand (calculated from the energetic costs described above), with overall burrow volume that we have previously measured at these same sites (G&#x000fc;l &#x00026; Griffen, <xref rid="ece35853-bib-0036" ref-type="ref">2018a</xref>), and with the portion of the year on the Atlantic coast when crabs actively burrow (known to extend from April to November on the Maryland coasts, Christoffers, <xref rid="ece35853-bib-0016" ref-type="ref">1986</xref>). This is admittedly a rough estimate, since it assumes that energetic costs do not change seasonally, and also does not include the costs of maintaining the burrow once it is dug. Because the burrow volume is correlated with the crab size (Chan, Chan, &#x00026; Leung, <xref rid="ece35853-bib-0014" ref-type="ref">2006</xref>), we removed the effects of crab size by regressing the log&#x02010;transformed calculated burrowing energy demand against log&#x02010;transformed burrow opening diameter (Packard &#x00026; Boardman, <xref rid="ece35853-bib-0055" ref-type="ref">1999</xref>). The standardized residuals obtained from this regression were used as a response variable for a 1&#x02010;way ANOVA to compare this estimated size&#x02010;independent annual energy demand for burrowing in ghost crabs on beaches with different levels of human disturbance. Before this statistical analysis, we conducted a Shapiro&#x02013;Wilk test of normality and Levene's test for the equality of variances to assess whether the data fit the assumptions of parametric tests. ANOVA was followed by a Tukey's HSD test for multiple comparisons among groups.</p></sec></sec><sec sec-type="results" id="ece35853-sec-0009"><label>3</label><title>RESULTS</title><sec id="ece35853-sec-0010"><label>3.1</label><title>Impact of marking procedure</title><p>The trapping and marking technique used here to determine the burrow fidelity did not seem to alter the longevity of the burrows. The burrow longevity in the treatment group was slightly lower than in the control group under each level of human impact; however, none of these differences were significant (GLMM, <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.5 for the overall comparison of burrow longevity for marked and unmarked crabs as well as for the interaction term between control/treatment and each level of human impact). Thus, we conclude that any artifact introduced by our capture and marking procedures was minimal.</p></sec><sec id="ece35853-sec-0011"><label>3.2</label><title>Use of foreign burrows</title><p>We did not find any instances of a foreign crab occupying one of our focal burrows during any part of our study. This is also consistent with <italic>O.&#x000a0;quadrata</italic> being reluctant to enter burrows that were not their own in our small experiment where we tried to elicit foreign burrow use (Chi&#x02010;squared test,<italic> X</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;6.4, <italic>df</italic>&#x000a0;=&#x000a0;2, <italic>p</italic>&#x000a0;=&#x000a0;.0011). Specifically, we observed that 9 out of 10 individuals did not enter the foreign burrow that they were released next to, even though that burrow was large enough for them. Only one individual entered shallowly into the foreign burrow, staying very close to the entrance, and when we disturbed it using a thin stick, it left the burrow immediately and ran away rather than receding further into the burrow.</p></sec><sec id="ece35853-sec-0012"><label>3.3</label><title>Burrow fidelity</title><p>The average burrow fidelity of <italic>O.&#x000a0;quadrata</italic> was significantly lower in pristine sites (average&#x000a0;=&#x000a0;2.31&#x000a0;&#x000b1;&#x000a0;0.38&#x000a0;day<sup>&#x02212;1</sup>, range: 1&#x02013;4&#x000a0;day<sup>&#x02212;1</sup>, <italic>n</italic>&#x000a0;=&#x000a0;16) compared with burrow fidelity in moderately impacted sites (average&#x000a0;=&#x000a0;5.38&#x000a0;&#x000b1;&#x000a0;0.87&#x000a0;day<sup>&#x02212;1</sup>, range: 1&#x02013;10&#x000a0;day<sup>&#x02212;1</sup>, <italic>n</italic>&#x000a0;=&#x000a0;13; GLMM, <italic>Z</italic>&#x000a0;=&#x000a0;5.18, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), highly impacted sites by people (average&#x000a0;=&#x000a0;3.1&#x000a0;&#x000b1;&#x000a0;0.9&#x000a0;day<sup>&#x02212;1</sup>, range: 1&#x02013;7&#x000a0;day<sup>&#x02212;1</sup>, <italic>n</italic>&#x000a0;=&#x000a0;10; GLMM, <italic>Z</italic>&#x000a0;=&#x000a0;2.8, <italic>p</italic>&#x000a0;=&#x000a0;.005), and highly impacted sites by people and vehicles (average&#x000a0;=&#x000a0;2.66&#x000a0;&#x000b1;&#x000a0;0.72&#x000a0;day<sup>&#x02212;1</sup>, range: 1&#x02013;7&#x000a0;day<sup>&#x02212;1</sup>, <italic>n</italic>&#x000a0;=&#x000a0;9; GLMM, <italic>Z</italic>&#x000a0;=&#x000a0;2.99, <italic>p</italic>&#x000a0;=&#x000a0;.002, Figure <xref rid="ece35853-fig-0001" ref-type="fig">1</xref>). We further found that larger individuals had a stronger burrow fidelity when impact levels were pooled (GLMM, <italic>Z</italic>&#x000a0;=&#x000a0;5.62, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001, Figure <xref rid="ece35853-fig-0001" ref-type="fig">1</xref>). Burrow fidelity in <italic>O.&#x000a0;quadrata</italic> was negatively impacted by burrow density (GLMM, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;4.419, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) and sand compaction (GLMM, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;3.152, <italic>p</italic>&#x000a0;=&#x000a0;.0016). No impact of sand grain size on burrow fidelity was detected (GLMM, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;1.556, <italic>p</italic>&#x000a0;=&#x000a0;.11). No significant impact of the interaction terms was detected.</p><fig fig-type="Figure" xml:lang="en" id="ece35853-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The relationship between the burrow fidelity and the burrow opening diameter at the sites with various levels of human disturbance. Burrow fidelities were observed in Waties Island (pristine site), Pawley's Island (moderately impacted site), Isle of Palm (highly impacted site by people), and Garden City Beach (highly impacted site by people and vehicles)</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14205-g001"/></fig></sec><sec id="ece35853-sec-0013"><label>3.4</label><title>Burrow longevity</title><p>Burrow longevity in pristine sites (average&#x000a0;=&#x000a0;2.77&#x000a0;&#x000b1;&#x000a0;0.08&#x000a0;day<sup>&#x02212;1</sup>, range&#x000a0;=&#x000a0;1&#x02013;6&#x000a0;day<sup>&#x02212;1</sup>, <italic>n</italic>&#x000a0;=&#x000a0;340) and in highly impacted sites by people and vehicles (average&#x000a0;=&#x000a0;3.49&#x000a0;&#x000b1;&#x000a0;0.19&#x000a0;day<sup>&#x02212;1</sup>, range&#x000a0;=&#x000a0;1&#x02013;8&#x000a0;day<sup>&#x02212;1</sup>, <italic>n</italic>&#x000a0;=&#x000a0;77) was similar (GLMM, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;0.26, <italic>p</italic>&#x000a0;=&#x000a0;.78). Contrary to this, a greater burrow longevity was observed in moderately impacted sites (average&#x000a0;=&#x000a0;6.71&#x000a0;&#x000b1;&#x000a0;0.26&#x000a0;day<sup>&#x02212;1</sup>, range&#x000a0;=&#x000a0;1&#x02013;13&#x000a0;day<sup>&#x02212;1</sup>, <italic>n</italic>&#x000a0;=&#x000a0;132; GLMM, <italic>Z</italic>&#x000a0;=&#x000a0;5.74, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) and in highly impacted sites by people (average&#x000a0;=&#x000a0;4.91&#x000a0;&#x000b1;&#x000a0;0.22&#x000a0;day<sup>&#x02212;1</sup>, range&#x000a0;=&#x000a0;1&#x02013;11&#x000a0;day<sup>&#x02212;1</sup>, <italic>n</italic>&#x000a0;=&#x000a0;105; GLMM, <italic>Z</italic>&#x000a0;=&#x000a0;3.66, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) compared with pristine sites (Figure <xref rid="ece35853-fig-0002" ref-type="fig">2</xref>). Also, larger burrows persisted longer than smaller ones (GLMM, <italic>Z</italic>&#x000a0;=&#x000a0;11.51, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001).</p><fig fig-type="Figure" xml:lang="en" id="ece35853-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>The relationship between the burrow longevity and the burrow opening diameter at sites with various levels of human disturbance. Burrow longevities were observed daily at all sites. Study sites the same as listed in Table <xref rid="ece35853-tbl-0001" ref-type="table">1</xref>
+</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14205-g002"/></fig><p>There were significant interactions between burrow density and sand grain size (LM, <italic>t</italic>&#x000a0;=&#x000a0;&#x02212;3.485, <italic>p</italic>&#x000a0;=&#x000a0;.0005), between burrow density and sand compaction rate (LM, <italic>t</italic>&#x000a0;=&#x000a0;&#x02212;11.63, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) and between sand compaction rate and the sand grain size (LM, <italic>t</italic>&#x000a0;=&#x000a0;4.288, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001). These interactions influenced burrow longevity (Table <xref rid="ece35853-tbl-0002" ref-type="table">2</xref>).</p><table-wrap id="ece35853-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Results of generalized linear mixed model (GLMM) testing the effects of fixed factors on the burrow longevity of <italic>Ocypode quadrata</italic>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Fixed factors</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>SE</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>Z</italic>&#x02010;value</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>p&#x02010;</italic>value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>A</italic> (burrow density)</td><td align="char" char="." rowspan="1" colspan="1">1.305</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;10.305</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001<xref ref-type="fn" rid="ece35853-note-0003">*</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>B</italic> (grain size)</td><td align="char" char="." rowspan="1" colspan="1">3.331</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;6.15</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001<xref ref-type="fn" rid="ece35853-note-0003">*</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>C</italic> (sand compaction)</td><td align="char" char="." rowspan="1" colspan="1">7.294</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;7.07</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001<xref ref-type="fn" rid="ece35853-note-0003">*</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>A</italic>&#x000a0;&#x000d7;&#x000a0;<italic>B</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">4.325</td><td align="char" char="." rowspan="1" colspan="1">9.076</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001<xref ref-type="fn" rid="ece35853-note-0003">*</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>B</italic>&#x000a0;&#x000d7;&#x000a0;<italic>C</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">14.262</td><td align="char" char="." rowspan="1" colspan="1">10.046</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>A</italic>&#x000a0;&#x000d7;&#x000a0;<italic>B</italic>&#x000a0;&#x000d7;&#x000a0;<italic>C</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">49.093</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;8.331</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001<xref ref-type="fn" rid="ece35853-note-0003">*</xref>
+</td></tr></tbody></table><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Random factors</th><th align="left" valign="top" rowspan="1" colspan="1">Variance component</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>SE</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Latitude</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;0.001</td><td align="char" char="." rowspan="1" colspan="1">0.00014</td></tr><tr><td align="left" rowspan="1" colspan="1">Julian days</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;0.001</td><td align="char" char="." rowspan="1" colspan="1">0.1412</td></tr></tbody></table><table-wrap-foot id="ece35853-ntgp-0002"><title>Note</title><fn id="ece35853-note-0002"><p>Latitudes of the study sites and sampling days (as Julian days) were included as random effects.</p></fn><fn id="ece35853-note-0003"><label>*</label><p>The significant values.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece35853-sec-0014"><label>3.5</label><title>Energy requirement of burrowing</title><p>We found that the linear model provided the best fit to explain the relationship between glycogen content in the leg tissue and the burrow volume, but that the fit of this model was statistically indistinguishable from the fit of the quadratic model (AIC value for linear model&#x000a0;=&#x000a0;40.79, AIC value for exponential model&#x000a0;=&#x000a0;46.21, and AIC value for quadratic model&#x000a0;=&#x000a0;41.92). The glycogen content in the digging leg tissues of the individuals in the treatment group increased with crab size by 0.123&#x000a0;&#x000b1;&#x000a0;0.031&#x000a0;&#x003bc;g for every mm increase in carapace width of the crab (<italic>t</italic>&#x000a0;=&#x000a0;3.96, <italic>p</italic>&#x000a0;=&#x000a0;.001, Figure <xref rid="ece35853-fig-0003" ref-type="fig">3</xref>a) and decreased by 0.007&#x000a0;&#x000b1;&#x000a0;0.001&#x000a0;&#x003bc;g with each additional cm<sup>3</sup> of burrow volume created (<italic>t</italic>&#x000a0;=&#x000a0;&#x02212;4.91, <italic>p</italic>&#x000a0;=&#x000a0;.0001, Figure <xref rid="ece35853-fig-0003" ref-type="fig">3</xref>a). Consequently, the glycogen content in the digging leg tissues of the individuals in the treatment group declined by 78% on average compared the individuals in the control group (<italic>t</italic> test, <italic>t</italic>&#x000a0;=&#x000a0;2.96, <italic>df</italic>&#x000a0;=&#x000a0;28.625, <italic>p</italic>&#x000a0;=&#x000a0;.0062, Figure <xref rid="ece35853-fig-0003" ref-type="fig">3</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="ece35853-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>The relationship between the burrow volume and the glycogen content in the second digging leg tissue of treatment crabs (<italic>n</italic>&#x000a0;=&#x000a0;20), <italic>Ocypode quadrata</italic>. <italic>Relative circle size indicates crab carapace width</italic> (a). Variation in the glycogen content in the second digging leg tissue of the treatment and the experiment crabs, error bars indicate standard errors (b). Burrowing experiment was conducted on Isle of Palm in 2017</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14205-g003"/></fig><p>Ghost crabs spend 85.525&#x000a0;J of energy to remove 1&#x000a0;cm<sup>3</sup> of sand during our experiment. Using this value as described in Section <xref rid="ece35853-sec-0003" ref-type="sec">2</xref>, we found that the calculated (conservative) annual energy demand of burrowing in ghost crabs was significantly lower for all levels of human disturbance compared with pristine sites (ANOVA, <italic>F</italic>&#x000a0;=&#x000a0;116.8, <italic>df</italic>&#x000a0;=&#x000a0;3, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001, Figure <xref rid="ece35853-fig-0004" ref-type="fig">4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35853-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Variation in residual calculated annual burrowing energy demand (mean&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>) of <italic>Ocypode quadrata</italic> under various levels of human disturbance. Letters within graph represent significant differences</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-14205-g004"/></fig></sec></sec><sec sec-type="discussion" id="ece35853-sec-0015"><label>4</label><title>DISCUSSION</title><p>We have shown that <italic>O.&#x000a0;quadrata</italic> alter their burrowing behavior (e.g., burrow fidelity and longevity) under the influence of various levels of human disturbances. We have also demonstrated that <italic>O.&#x000a0;quadrata</italic> spend a much higher amount of energy in pristine sites for their burrowing behavior compared with the sites disturbed by people. We have also shown that larger individuals generally return to the same burrow for a longer period of time compared with smaller individuals. Since burrows protect crabs from predators, cannibals, and environmental influences such as strong winds, cold, and hot weather (Christoffers, <xref rid="ece35853-bib-0016" ref-type="ref">1986</xref>; Lucrezi &#x00026; Schlacher, <xref rid="ece35853-bib-0049" ref-type="ref">2014</xref>) and desiccation (Antia, <xref rid="ece35853-bib-0003" ref-type="ref">1989</xref>; G&#x000fc;l &#x00026; Griffen, <xref rid="ece35853-bib-0036" ref-type="ref">2018a</xref>), changing the energetics of this behavior is likely to shift the ecology, physiology, and demographics of <italic>O.&#x000a0;quadrata</italic>. These results have important implications for this system and for our understanding of ecological changes due to human disturbance more broadly.</p><sec id="ece35853-sec-0016"><label>4.1</label><title>Implications for this system</title><p>Burrow fidelity and longevity increased at sites with moderate human disturbance compared with heavily disturbed and pristine sites. Specifically, individuals used the same burrows for up to 10&#x000a0;days at sites with moderate human disturbance. Pristine sites on the coast of South Carolina have the highest ghost crab abundance and the lowest sand compaction rates (G&#x000fc;l &#x00026; Griffen, <xref rid="ece35853-bib-0036" ref-type="ref">2018a</xref>, <xref rid="ece35853-bib-0037" ref-type="ref">2018</xref>; Table <xref rid="ece35853-sup-0001" ref-type="supplementary-material">S4</xref>). However, while an inverse relationship between population density and the duration of burrow use has been reported (Hughes, <xref rid="ece35853-bib-0042" ref-type="ref">1966</xref>), the sand compaction rate may be the main mechanism that determines the length of the burrow persistence, as suggested by the positive relationship between sand compaction and burrow longevity reported here.</p><p>The positive relationship between the size of the individuals and the length of time during which a burrow is used likely reflects the location of burrows of different sizes on the shore. Larger burrows are found much closer to the back shore on South Carolina beaches, while smaller crabs are outcompeted on the upper shore and are relegated to digging their burrows lower down on the shore (G&#x000fc;l &#x00026; Griffen, <xref rid="ece35853-bib-0037" ref-type="ref">2018</xref>). An inverse correlation between tidal height and burrow persistence exists (Costa et al., <xref rid="ece35853-bib-0018" ref-type="ref">2019</xref>; Evans et al., <xref rid="ece35853-bib-0027" ref-type="ref">1976</xref>; Hughes, <xref rid="ece35853-bib-0042" ref-type="ref">1966</xref>), likely due simply to increased frequency of inundation by waves lower down on the shore. We attempted to control for effects of tidal influence by examining only burrows at the same relative tidal height at all sites; however, our transects were wide enough (e.g., 10&#x000a0;m) to contain small burrows at the lower edges of the transects. Alternatively, the visual cues such as mounds and debris, which are used by <italic>O.&#x000a0;quadrata</italic> to recognize their burrows (Costa et al., <xref rid="ece35853-bib-0018" ref-type="ref">2019</xref>; Hughes, <xref rid="ece35853-bib-0042" ref-type="ref">1966</xref>; Lucrezi &#x00026; Schlacher, <xref rid="ece35853-bib-0049" ref-type="ref">2014</xref>), may be removed more frequently around the smaller burrows due to their relative lower location on the shore.</p><p>We found that the glycogen level in the leg tissues dropped by almost 50% after 2&#x000a0;hr of burrowing. Assuming that this energy required to initially dig a burrow is greater than the energy required to maintain a burrow, the longevity of burrow use and the energy allocated for digging annually should be inversely related to each other, and this relationship is influenced by human disturbance in <italic>O.&#x000a0;quadrata</italic> populations. Specifically, we calculated that ghost crab living in pristine sites has the highest burrowing energy demand, while individuals living under human disturbance decrease the amount of annual energy requirements for burrowing by creating smaller and simpler burrows (G&#x000fc;l &#x00026; Griffen, <xref rid="ece35853-bib-0036" ref-type="ref">2018a</xref>; Lucrezi &#x00026; Schlacher, <xref rid="ece35853-bib-0048" ref-type="ref">2010</xref>; Schlacher &#x00026; Lucrezi, <xref rid="ece35853-bib-0063" ref-type="ref">2010</xref>) and by increasing their burrow fidelity and longevity. These reductions in energy allocation to burrowing may be required if <italic>O.&#x000a0;quadrata</italic> gain less energy through foraging on beaches that are more highly disturbed, as human activities also negatively impact common ghost crab prey such as bean clams (<italic>Donax</italic> spp.), mole crabs (<italic>Emerita</italic> spp.), and sandy beach coleoptera (<italic>Phaleria</italic> spp.) (Cardoso et al., <xref rid="ece35853-bib-0011" ref-type="ref">2016</xref>; Gonz&#x000e1;lez et al., <xref rid="ece35853-bib-0032" ref-type="ref">2014</xref>; Schlacher et al., <xref rid="ece35853-bib-0066" ref-type="ref">2008</xref>; Sheppard et al., <xref rid="ece35853-bib-0068" ref-type="ref">2009</xref>).</p><p>Finally, we examined only the amount of energy that is allocated by individuals based on their initial burrowing behaviors. However, crabs will also need to expend energy to maintain their burrows, and these daily maintenance costs should also differ across beaches based on human impacts because of the influence of humans on sand compaction. However, our findings that burrow longevity only slightly exceed burrow fidelity (i.e., burrows collapse after they are left vacant for ~1&#x000a0;day) suggests that burrow maintenance is considerable. Further research is needed to examine the relative costs of initial burrow creation and burrow maintenance, as well as seasonal variation since crabs will demand more energy during the reproduction period.</p></sec><sec id="ece35853-sec-0017"><label>4.2</label><title>Broader implications for ecology</title><p>Our study has at least two broader implications for the population ecology of species used as bioindicators of human disturbances. First, in agreement with countless other studies, our study shows that species alter their behaviors and daily activities, and therefore their energetic balance, in the presence of human disturbance. Despite the fact that lower population density and smaller individual sizes are widely used as common responses of bioindicator species to human disturbances (Carignan &#x00026; Villard, <xref rid="ece35853-bib-0012" ref-type="ref">2002</xref>; Heink &#x00026; Kowarik, <xref rid="ece35853-bib-0040" ref-type="ref">2010</xref>; Siddig et al., <xref rid="ece35853-bib-0069" ref-type="ref">2016</xref>; Spellerberg, <xref rid="ece35853-bib-0074" ref-type="ref">2005</xref>), the mechanistic reasons for those demographic changes are often not well understood. Further, while many studies have examined the behavioral and energetic impacts of indirect human disturbances including climate change and contamination (Bonnard, Romeo, &#x00026; Amiard&#x02010;Triquet, <xref rid="ece35853-bib-0007" ref-type="ref">2009</xref>; Griffen, <xref rid="ece35853-bib-0034" ref-type="ref">2018</xref>; Schmidt et al., <xref rid="ece35853-bib-0067" ref-type="ref">2017</xref>; Williams et al., <xref rid="ece35853-bib-0084" ref-type="ref">2006</xref>), relatively few studies have focused on the energetic consequences of direct human impacts (e.g., tourism, coastal reclamation etc.) on bioindicator species (but see Adams &#x00026; Ham, <xref rid="ece35853-bib-0001" ref-type="ref">2011</xref>; Toro et al., <xref rid="ece35853-bib-0079" ref-type="ref">2003</xref>). Our results highlight that focusing on behavioral changes and their energetic consequences may elucidate the mechanistic reasons behind the declines in individual sizes, because species may exhibit tradeoffs between their growth rate and daily activities that are crucial for their survival.</p><p>Second, the link between the levels of human disturbance and energy allocation suggests that this mechanistic link may improve the power to predict the impacts of human disturbances. While examining changes in abundance and individual body sizes within populations is a quick and cost&#x02010;effective technique for assessing the extent of human disturbance (Carignan &#x00026; Villard, <xref rid="ece35853-bib-0012" ref-type="ref">2002</xref>; Cortes et al., <xref rid="ece35853-bib-0017" ref-type="ref">2013</xref>; Spellerberg, <xref rid="ece35853-bib-0074" ref-type="ref">2005</xref>), documenting these demographic changes does not provide any understanding regarding the mechanism(s) behind these responses. To go beyond documenting existing trends and to make predictions about responses to future conditions, ecologists need mechanistic approaches that are applicable to various species under a variety of disturbance types and in different systems. This is especially urgent given the increasing frequency and strength of anthropogenic disturbance as human population sizes increase (Davenport &#x00026; Davenport, <xref rid="ece35853-bib-0021" ref-type="ref">2006</xref>; Halpern et al., <xref rid="ece35853-bib-0039" ref-type="ref">2008</xref>; Vitousek et al., <xref rid="ece35853-bib-0081" ref-type="ref">1997</xref>). Previous work has argued that understanding the physiological and energetic state of organisms can provide a level of mechanistic predictive power for forecasting future conditions (P&#x000f6;rtner &#x00026; Farrell, <xref rid="ece35853-bib-0058" ref-type="ref">2008</xref>). Our study supports this idea and demonstrates how a bioenergetics approach may be used to explore the consequences of behavioral changes that accompany habitat disturbance by humans.</p></sec></sec><sec sec-type="COI-statement" id="ece35853-sec-0018"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35853-sec-0019"><title>AUTHORS CONTRIBUTIONS</title><p>MRG and BDG conceived and designed the experiments. MRG performed the experiments. MRG and BDG analyzed the data and wrote the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35853-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14205-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35853-sec-0022"><title>ACKNOWLEDGMENT</title><p>We thank Esra Erdil G&#x000fc;l for assistance in field observations on burrow longevity, and Ahmet Postaa&#x0011f;asi for his assistance in burrowing energy requirement experiment in the field. We thank Zachary Cannizzo and Crystal Conaway for their assistance in glycogen analysis. We thank the Baruch Institute, Coastal Carolina University, and DeBordieu Colony management for permission to access their facilities. This research was funded by the Ministry of National Education, Republic of Turkey (awarded to MRG).</p></ack><sec sec-type="data-availability" id="ece35853-sec-0021"><title>DATA AVAILABILITY STATEMENT</title><p>All data used in this study are available from the Dryad Digital Repository: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.4b8gtht7z" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.4b8gtht7z</ext-link>
+</p></sec><ref-list content-type="cited-references" id="ece35853-bibl-0001"><title>REFERENCES</title><ref id="ece35853-bib-0001"><mixed-citation publication-type="journal" id="ece35853-cit-0001">
+<string-name>
+<surname>Adams</surname>, <given-names>S. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ham</surname>, <given-names>K. D.</given-names>
+</string-name> (<year>2011</year>). <article-title>Application of biochemical and physiological indicators for assessing recovery of fish populations in a disturbed stream</article-title>. <source xml:lang="en">Environmental Management</source>, <volume>47</volume>(<issue>6</issue>), <fpage>1047</fpage>&#x02013;<lpage>1063</lpage>. <pub-id pub-id-type="doi">10.1007/s00267-010-9599-7</pub-id>
+<pub-id pub-id-type="pmid">21221580</pub-id></mixed-citation></ref><ref id="ece35853-bib-0002"><mixed-citation publication-type="journal" id="ece35853-cit-0002">
+<string-name>
+<surname>Aheto</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Asare</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Mensah</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Aggrey&#x02010;Fynn</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>). <article-title>Rapid assessment of anthropogenic impacts on exposed sandy beaches in Ghana using ghost crabs (<italic>Ocypode</italic> spp.) as ecological indicators</article-title>. <source xml:lang="en">Momona Ethiopian Journal of Science</source>, <volume>3</volume>(<issue>2</issue>), <fpage>93</fpage>&#x02013;<lpage>103</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0003"><mixed-citation publication-type="journal" id="ece35853-cit-0003">
+<string-name>
+<surname>Antia</surname>, <given-names>E. E.</given-names>
+</string-name> (<year>1989</year>). <article-title>Beach cusps and burrowing activity of crabs on a fine&#x02010;grained sandy beach, southeastern Nigeria</article-title>. <source xml:lang="en">Journal of Coastal Research</source>, <volume>5</volume>, <fpage>263</fpage>&#x02013;<lpage>270</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0004"><mixed-citation publication-type="journal" id="ece35853-cit-0004">
+<string-name>
+<surname>Barros</surname>, <given-names>F.</given-names>
+</string-name> (<year>2001</year>). <article-title>Ghost crabs as a tool for rapid assessment of human impacts on exposed sandy beaches</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>97</volume>, <fpage>399</fpage>&#x02013;<lpage>404</lpage>. <pub-id pub-id-type="doi">10.1016/S0006-3207(00)00116-6</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0005"><mixed-citation publication-type="journal" id="ece35853-cit-0005">
+<string-name>
+<surname>Bartolini</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Penha&#x02010;Lopes</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Limbu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Paula</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cannicci</surname>, <given-names>S.</given-names>
+</string-name> (<year>2009</year>). <article-title>Behavioural responses of mangrove fiddler crabs (<italic>Uca</italic> spp.) to urban sewage loadings: Results of a mesocosm approach</article-title>. <source xml:lang="en">Marine Pollution Bulletin</source>, <volume>58</volume>, <fpage>1860</fpage>&#x02013;<lpage>1867</lpage>. <pub-id pub-id-type="doi">10.1016/j.marpolbul.2009.07.019</pub-id>
+<pub-id pub-id-type="pmid">19683314</pub-id></mixed-citation></ref><ref id="ece35853-bib-0006"><mixed-citation publication-type="journal" id="ece35853-cit-0006">
+<string-name>
+<surname>Bonadonna</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Spaggiari</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Weimerskirch</surname>, <given-names>H.</given-names>
+</string-name> (<year>2001</year>). <article-title>Could osmotaxis explain the ability of blue petrels to return to their burrows at night?</article-title>
+<source xml:lang="en">Journal of Experimental Biology</source>, <volume>204</volume>, <fpage>1485</fpage>&#x02013;<lpage>1489</lpage>.<pub-id pub-id-type="pmid">11273809</pub-id></mixed-citation></ref><ref id="ece35853-bib-0007"><mixed-citation publication-type="journal" id="ece35853-cit-0007">
+<string-name>
+<surname>Bonnard</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Romeo</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Amiard&#x02010;Triquet</surname>, <given-names>C.</given-names>
+</string-name> (<year>2009</year>). <article-title>Effects of copper on the burrowing behavior of estuarine and coastal invertebrates, the polychaete <italic>Nereis diversicolor</italic> and the bivalve <italic>Scrobicularia plana</italic>
+</article-title>. <source xml:lang="en">Human and Ecological Risk Assessment</source>, <volume>15</volume>, <fpage>11</fpage>&#x02013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1080/10807030802614934</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0008"><mixed-citation publication-type="book" id="ece35853-cit-0008">
+<string-name>
+<surname>Burnham</surname>, <given-names>K. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Anderson</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2002</year>). <source xml:lang="en">Model selection and multimodel inference: A practical information&#x02010;theoretic approach</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer&#x02010;Verlag</publisher-name>.</mixed-citation></ref><ref id="ece35853-bib-0009"><mixed-citation publication-type="journal" id="ece35853-cit-0009">
+<string-name>
+<surname>Cannicci</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bartolini</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Dahdouh-Guebas</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Fratini</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Litulo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Macia</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Paula</surname>, <given-names>J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Effects of urban wastewater on crab and mollusc assemblages in equatorial and subtropical mangroves of East Africa</article-title>. <source xml:lang="en">Estuarine, Coastal and Shelf Science</source>, <volume>84</volume>, <fpage>305</fpage>&#x02013;<lpage>317</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecss.2009.04.021</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0010"><mixed-citation publication-type="journal" id="ece35853-cit-0010">
+<string-name>
+<surname>Campagnoli</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Pombo</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Turra</surname>, <given-names>A.</given-names>
+</string-name> (<year>2018</year>). <article-title>Ghost crab burrows simulation shows differential across&#x02010;shore persistence</article-title>. <source xml:lang="en">Crustaceana</source>, <volume>91</volume>(<issue>7</issue>), <fpage>821</fpage>&#x02013;<lpage>830</lpage>. <pub-id pub-id-type="doi">10.1163/15685403-00003802</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0011"><mixed-citation publication-type="journal" id="ece35853-cit-0011">
+<string-name>
+<surname>Cardoso</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Barboza</surname>, <given-names>C. A. M.</given-names>
+</string-name>, <string-name>
+<surname>Skinner</surname>, <given-names>V. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cabrini</surname>, <given-names>T. M. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Crustaceans as ecological indicators of metropolitan sandy beach health</article-title>. <source xml:lang="en">Ecological Indicators</source>, <volume>62</volume>, <fpage>154</fpage>&#x02013;<lpage>162</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolind.2015.11.039</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0012"><mixed-citation publication-type="journal" id="ece35853-cit-0012">
+<string-name>
+<surname>Carignan</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Villard</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2002</year>). <article-title>Selecting indicator species to monitor ecological integrity: A review</article-title>. <source xml:lang="en">Environmental Monitoring and Assessment</source>, <volume>78</volume>(<issue>1</issue>), <fpage>45</fpage>&#x02013;<lpage>61</lpage>. PMID: 12197640.<pub-id pub-id-type="pmid">12197640</pub-id></mixed-citation></ref><ref id="ece35853-bib-0013"><mixed-citation publication-type="journal" id="ece35853-cit-0013">
+<string-name>
+<surname>Carr</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name>
+<surname>Neigel</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Estes</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Andelman</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Warner</surname>, <given-names>R. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Largier</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2003</year>). <article-title>Comparing marine and terrestrial ecosystems: Implications for the design of coastal marine reserves</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>13</volume>, <fpage>S90</fpage>&#x02013;<lpage>S107</lpage>. <pub-id pub-id-type="doi">10.1890/1051-0761(2003)013[0090:CMATEI]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0014"><mixed-citation publication-type="journal" id="ece35853-cit-0014">
+<string-name>
+<surname>Chan</surname>, <given-names>B. K. K.</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>, <given-names>K. K. Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Leung</surname>, <given-names>P. C. M.</given-names>
+</string-name> (<year>2006</year>). <article-title>Burrow architecture of ghost crab <italic>Ocypode ceratophthalma</italic> on a sandy shore in Hong Kong</article-title>. <source xml:lang="en">Hydrobiologia</source>, <volume>560</volume>(<issue>1</issue>), <fpage>43</fpage>&#x02013;<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1007/s10750-005-1088-2</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0015"><mixed-citation publication-type="journal" id="ece35853-cit-0015">
+<string-name>
+<surname>Chandurvelan</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Marsden</surname>, <given-names>I. D.</given-names>
+</string-name>, <string-name>
+<surname>Glover</surname>, <given-names>C. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gaw</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Assessment of a mussel as a metal bioindicator of coastal contamination: Relationships between metal bioaccumulation and multiple biomarker responses</article-title>. <source xml:lang="en">The Science of the Total Environment</source>, <volume>511</volume>, <fpage>663</fpage>&#x02013;<lpage>675</lpage>. <pub-id pub-id-type="doi">10.1016/j.scitotenv.2014.12.064</pub-id>
+<pub-id pub-id-type="pmid">25596351</pub-id></mixed-citation></ref><ref id="ece35853-bib-0016"><mixed-citation publication-type="book" id="ece35853-cit-0016">
+<string-name>
+<surname>Christoffers</surname>, <given-names>E. W.</given-names>
+</string-name> (<year>1986</year>). <source xml:lang="en">Ecology of the ghost crab <italic toggle="yes">Ocypode quadrata</italic> (Fabricius) on Assateague Island, Maryland and the impacts of various human uses of the beach on their distribution and abundance</source>. PhD thesis, <publisher-name>Michigan State University</publisher-name>, <publisher-loc>Lansing, MI, USA</publisher-loc>.</mixed-citation></ref><ref id="ece35853-bib-0017"><mixed-citation publication-type="journal" id="ece35853-cit-0017">
+<string-name>
+<surname>Cortes</surname>, <given-names>R. M. V.</given-names>
+</string-name>, <string-name>
+<surname>Hughes</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Pereira</surname>, <given-names>V. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Varandas</surname>, <given-names>S. D. P.</given-names>
+</string-name> (<year>2013</year>). <article-title>Tools for bioindicator assessment in rivers: The importance of spatial scale, land use patterns and biotic integration</article-title>. <source xml:lang="en">Ecological Indicators</source>, <volume>34</volume>, <fpage>460</fpage>&#x02013;<lpage>477</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolind.2013.06.004</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0018"><mixed-citation publication-type="journal" id="ece35853-cit-0018">
+<string-name>
+<surname>Costa</surname>, <given-names>L. L.</given-names>
+</string-name>, <string-name>
+<surname>Madureira</surname>, <given-names>J. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zalmon</surname>, <given-names>I. R.</given-names>
+</string-name> (<year>2019</year>). <article-title>Changes in the behaviour of <italic>Ocypode quadrata</italic> (Fabricius, 1787) after experimental trampling</article-title>. <source xml:lang="en">Journal of Marine Biological Association of the United Kingdom</source>, <volume>99</volume>, <fpage>1135</fpage>&#x02013;<lpage>1140</lpage>. <pub-id pub-id-type="doi">10.1017/S0025315418001030</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0019"><mixed-citation publication-type="journal" id="ece35853-cit-0019">
+<string-name>
+<surname>Costa</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Tavares</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name>
+<surname>Suciu</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Rangel</surname>, <given-names>D. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zalmon</surname>, <given-names>I. R.</given-names>
+</string-name> (<year>2017</year>). <article-title>Human&#x02010;induced changes in the trophic functioning of sandy beaches</article-title>. <source xml:lang="en">Ecological Indicators</source>, <volume>82</volume>, <fpage>304</fpage>&#x02013;<lpage>315</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolind.2017.07.016</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0020"><mixed-citation publication-type="journal" id="ece35853-cit-0020">
+<string-name>
+<surname>Culbertson</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name>
+<surname>Valiela</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Peacock</surname>, <given-names>E. E.</given-names>
+</string-name>, <string-name>
+<surname>Reddy</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vanderkruik</surname>, <given-names>R.</given-names>
+</string-name> (<year>2007</year>). <article-title>Long&#x02010;term biological effects of petroleum residues on fiddler crabs in salt marshes</article-title>. <source xml:lang="en">Marine Pollution Bulletin</source>, <volume>54</volume>(<issue>7</issue>), <fpage>955</fpage>&#x02013;<lpage>962</lpage>. <pub-id pub-id-type="doi">10.1016/j.marpolbul.2007.02.015</pub-id>
+<pub-id pub-id-type="pmid">17448504</pub-id></mixed-citation></ref><ref id="ece35853-bib-0021"><mixed-citation publication-type="journal" id="ece35853-cit-0021">
+<string-name>
+<surname>Davenport</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Davenport</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2006</year>). <article-title>The impact of tourism and personal leisure transport on coastal environments: A review</article-title>. <source xml:lang="en">Estuarine, Coastal and Shelf Science</source>, <volume>67</volume>(<issue>1&#x02013;2</issue>), <fpage>280</fpage>&#x02013;<lpage>292</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecss.2005.11.026</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0022"><mixed-citation publication-type="journal" id="ece35853-cit-0022">
+<string-name>
+<surname>de Oliveira</surname>, <given-names>C. A. G.</given-names>
+</string-name>, <string-name>
+<surname>Souza</surname>, <given-names>G. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Soares&#x02010;Gomes</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Measuring burrows as a feasible non&#x02010;destructive method for studying the population dynamics of ghost crabs</article-title>. <source xml:lang="en">Marine Biodiversity</source>, <volume>46</volume>, <fpage>809</fpage>&#x02013;<lpage>817</lpage>. <pub-id pub-id-type="doi">10.1007/s12526-015-0436-3</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0023"><mixed-citation publication-type="journal" id="ece35853-cit-0023">
+<string-name>
+<surname>de Souza</surname>, <given-names>G. N.</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>, <given-names>C. A. G.</given-names>
+</string-name>, <string-name>
+<surname>Tardem</surname>, <given-names>A. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Soares&#x02010;Gomes</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Counting and measuring ghost crab burrows as a way to assess the environmental quality of beaches</article-title>. <source xml:lang="en">Ocean and Coastal Management</source>, <volume>140</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1016/j.ocecoaman.2017.02.007</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0024"><mixed-citation publication-type="journal" id="ece35853-cit-0024">
+<string-name>
+<surname>Defeo</surname>, <given-names>O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>de Alava</surname>, <given-names>A.</given-names>
+</string-name> (<year>1995</year>). <article-title>Effects of human activities on long-term trends in sandy beach populations: the wedge clam Donax hanleyanus in Uruguay</article-title>. <source xml:lang="en">Marine Ecology Progress Series</source>, <volume>123</volume>, <fpage>73</fpage>&#x02013;<lpage>82</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0025"><mixed-citation publication-type="journal" id="ece35853-cit-0025">
+<string-name>
+<surname>Defeo</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>McLachlan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schoeman</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<surname>Schlacher</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Dugan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Scapini</surname>, <given-names>F.</given-names>
+</string-name> (<year>2009</year>). <article-title>Threats to sandy beach ecosystems: A review</article-title>. <source xml:lang="en">Estuarine, Coastal and Shelf Science</source>, <volume>81</volume>(<issue>1</issue>), <fpage>1</fpage>&#x02013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecss.2008.09.022</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0026"><mixed-citation publication-type="journal" id="ece35853-cit-0026">
+<string-name>
+<surname>Erdmann</surname>, <given-names>M. V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Caldwell</surname>, <given-names>R. L.</given-names>
+</string-name> (<year>1997</year>). <article-title>Stomatopod crustaceans as bioindicators of marine pollution stress on coral reefs</article-title>. <source xml:lang="en">Proceedings of the Eighth International Coral Reef Symposium</source>, <volume>2</volume>, <fpage>1165</fpage>&#x02013;<lpage>1170</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0027"><mixed-citation publication-type="journal" id="ece35853-cit-0027">
+<string-name>
+<surname>Evans</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Cram</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Eaton</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Torrance</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wood</surname>, <given-names>V.</given-names>
+</string-name> (<year>1976</year>). <article-title>Foraging and agonistic behaviour in the ghost crab <italic>Ocypode kuhlii</italic> de Haan</article-title>. <source xml:lang="en">Marine and Freshwater Behaviour and Physiology</source>, <volume>4</volume>, <fpage>121</fpage>&#x02013;<lpage>135</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0028"><mixed-citation publication-type="journal" id="ece35853-cit-0028">
+<string-name>
+<surname>Font&#x000fa;rbel</surname>, <given-names>F. E.</given-names>
+</string-name>, <string-name>
+<surname>Candia</surname>, <given-names>A. B.</given-names>
+</string-name>, <string-name>
+<surname>Malebr&#x000e1;n</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Salazar</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez-Browne</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Medel</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Meta-analysis of anthropogenic habitat disturbance effects on animal-mediated seed dispersal</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>21</volume>(<issue>11</issue>), <fpage>3951</fpage>&#x02013;<lpage>3960</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.13025</pub-id>
+<pub-id pub-id-type="pmid">26149368</pub-id></mixed-citation></ref><ref id="ece35853-bib-0029"><mixed-citation publication-type="book" id="ece35853-cit-0029">
+<string-name>
+<surname>Fox</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Weisberg</surname>, <given-names>S.</given-names>
+</string-name> (<year>2018</year>). <source xml:lang="en">An R companion to applied regression</source> (<edition designator="3">3rd ed.</edition>). <publisher-loc>Thousand Oaks, CA</publisher-loc>: <publisher-name>SAGE</publisher-name>.</mixed-citation></ref><ref id="ece35853-bib-0030"><mixed-citation publication-type="journal" id="ece35853-cit-0030">
+<string-name>
+<surname>Friend</surname>, <given-names>G. R.</given-names>
+</string-name> (<year>1993</year>). <article-title>Impact of fire on small vertebrates in mallee woodlands and heathlands of temperate Australia: A review</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>65</volume>, <fpage>99</fpage>&#x02013;<lpage>114</lpage>. <pub-id pub-id-type="doi">10.1016/0006-3207(93)90439-8</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0031"><mixed-citation publication-type="book" id="ece35853-cit-0031">
+<string-name>
+<surname>Galwey</surname>, <given-names>N. W.</given-names>
+</string-name> (<year>2014</year>). <source xml:lang="en">Introduction to mixed modelling: Beyond regression and analysis of variance</source> (<edition designator="2">2nd ed.</edition>). <publisher-loc>Chichester, UK</publisher-loc>: <publisher-name>Wiley</publisher-name>.</mixed-citation></ref><ref id="ece35853-bib-0032"><mixed-citation publication-type="journal" id="ece35853-cit-0032">
+<string-name>
+<surname>Gonz&#x000e1;lez</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Y&#x000e1;&#x000f1;ez&#x02010;Navea</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mu&#x000f1;oz</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Effect of coastal urbanization on sandy beach coleoptera <italic>Phaleria maculate</italic> (Kulzer, 1959) in northern Chile</article-title>. <source xml:lang="en">Marine Pollution Bulletin</source>, <volume>83</volume>(<issue>1</issue>), <fpage>265</fpage>&#x02013;<lpage>274</lpage>. <pub-id pub-id-type="doi">10.1016/j.marpolbul.2014.03.042</pub-id>
+<pub-id pub-id-type="pmid">24768173</pub-id></mixed-citation></ref><ref id="ece35853-bib-0033"><mixed-citation publication-type="journal" id="ece35853-cit-0033">
+<string-name>
+<surname>Gray</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Baldauf</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>Mayhew</surname>, <given-names>P. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hill</surname>, <given-names>J. K.</given-names>
+</string-name> (<year>2007</year>). <article-title>The response of avian feeding guilds to tropical forest disturbance</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>21</volume>(<issue>1</issue>), <fpage>133</fpage>&#x02013;<lpage>141</lpage>. <pub-id pub-id-type="doi">10.1111/j.1523-1739.2006.00557.x</pub-id>
+<pub-id pub-id-type="pmid">17298519</pub-id></mixed-citation></ref><ref id="ece35853-bib-0034"><mixed-citation publication-type="journal" id="ece35853-cit-0034">
+<string-name>
+<surname>Griffen</surname>, <given-names>B. D.</given-names>
+</string-name> (<year>2018</year>). <article-title>Modeling the metabolic costs of swimming in polar bears (<italic>Ursus maritimus</italic>)</article-title>. <source xml:lang="en">Polar Biology</source>, <volume>41</volume>(<issue>3</issue>), <fpage>491</fpage>&#x02013;<lpage>503</lpage>. <pub-id pub-id-type="doi">10.1007/s00300-017-2209-x</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0035"><mixed-citation publication-type="journal" id="ece35853-cit-0035">
+<string-name>
+<surname>Griffiths</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Kadin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nascimento</surname>, <given-names>F. J. A.</given-names>
+</string-name>, <string-name>
+<surname>Tamelander</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>T&#x000f6;rnroos</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bonaglia</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Winder</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>The importance of benthic&#x02013;pelagic coupling for marine ecosystem functioning in a changing world</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>23</volume>, <fpage>2179</fpage>&#x02013;<lpage>2196</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.13642</pub-id>
+<pub-id pub-id-type="pmid">28132408</pub-id></mixed-citation></ref><ref id="ece35853-bib-0036"><mixed-citation publication-type="journal" id="ece35853-cit-0036">
+<string-name>
+<surname>G&#x000fc;l</surname>, <given-names>M. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Griffen</surname>, <given-names>B. D.</given-names>
+</string-name> (<year>2018a</year>). <article-title>Impacts of human disturbance on ghost crab burrow morphology and distribution on sandy shores</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>13</volume>(<issue>12</issue>), <elocation-id>e0209977</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0209977</pub-id>
+<pub-id pub-id-type="pmid">30596743</pub-id></mixed-citation></ref><ref id="ece35853-bib-0037"><mixed-citation publication-type="journal" id="ece35853-cit-0037">
+<string-name>
+<surname>G&#x000fc;l</surname>, <given-names>M. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Griffen</surname>, <given-names>B. D.</given-names>
+</string-name> (<year>2018</year>). <article-title>A reliable bioindicator of anthropogenic impact on the coast of South Carolina</article-title>. <source xml:lang="en">Southeastern Naturalist</source>, <volume>17</volume>(<issue>2</issue>), <fpage>357</fpage>&#x02013;<lpage>364</lpage>. <pub-id pub-id-type="doi">10.1656/058.017.0217</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0038"><mixed-citation publication-type="journal" id="ece35853-cit-0038">
+<string-name>
+<surname>Hallock</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Lidz</surname>, <given-names>B. H.</given-names>
+</string-name>, <string-name>
+<surname>Cockey&#x02010;Burkhard</surname>, <given-names>E. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Donnelly</surname>, <given-names>K. B.</given-names>
+</string-name> (<year>2003</year>). <article-title>Foraminifera as bioindicators in coral reef assessment and monitoring: The FORAM Index</article-title>. <source xml:lang="en">Environmental Monitoring and Assessment</source>, <volume>81</volume>, <fpage>221</fpage>&#x02013;<lpage>238</lpage>.<pub-id pub-id-type="pmid">12620018</pub-id></mixed-citation></ref><ref id="ece35853-bib-0039"><mixed-citation publication-type="journal" id="ece35853-cit-0039">
+<string-name>
+<surname>Halpern</surname>, <given-names>B. S.</given-names>
+</string-name>, <string-name>
+<surname>Walbridge</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Selkoe</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Kappel</surname>, <given-names>C. V.</given-names>
+</string-name>, <string-name>
+<surname>Micheli</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>D'Agrosa</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Watson</surname>, <given-names>R.</given-names>
+</string-name> (<year>2008</year>). <article-title>A global map of human impact on marine ecosystems</article-title>. <source xml:lang="en">Science</source>, <volume>319</volume>, <fpage>948</fpage>&#x02013;<lpage>952</lpage>. <pub-id pub-id-type="doi">10.1126/science.1149345</pub-id>
+<pub-id pub-id-type="pmid">18276889</pub-id></mixed-citation></ref><ref id="ece35853-bib-0040"><mixed-citation publication-type="journal" id="ece35853-cit-0040">
+<string-name>
+<surname>Heink</surname>, <given-names>U.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kowarik</surname>, <given-names>I.</given-names>
+</string-name> (<year>2010</year>). <article-title>What are indicators? On the definition of indicators in ecology and environmental planning</article-title>. <source xml:lang="en">Ecological Indicators</source>, <volume>10</volume>(<issue>3</issue>), <fpage>584</fpage>&#x02013;<lpage>593</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolind.2009.09.009</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0041"><mixed-citation publication-type="journal" id="ece35853-cit-0041">
+<string-name>
+<surname>Hobbs</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Landry</surname>, <given-names>C. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Perry</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>2008</year>). <article-title>Assessing anthropogenic and natural impacts on ghost crabs (<italic>Ocypode quadrata</italic>) at Cape Hatteras National Seashore, North Carolina</article-title>. <source xml:lang="en">Journal of Coastal Research</source>, <volume>24</volume>, <fpage>1450</fpage>&#x02013;<lpage>1458</lpage>. <pub-id pub-id-type="doi">10.2112/07-0856.1</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0042"><mixed-citation publication-type="journal" id="ece35853-cit-0042">
+<string-name>
+<surname>Hughes</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>1966</year>). <article-title>Behavioural and ecological investigations of the crab <italic>Ocypode ceratophthalmus</italic> (Crustacea: Ocypodidae)</article-title>. <source xml:lang="en">Journal of Zoology</source>, <volume>150</volume>, <fpage>129</fpage>&#x02013;<lpage>143</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-7998.1966.tb03000.x</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0043"><mixed-citation publication-type="journal" id="ece35853-cit-0043">
+<string-name>
+<surname>Hunter</surname>, <given-names>R. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Elder</surname>, <given-names>H. Y.</given-names>
+</string-name> (<year>1989</year>). <article-title>Burrowing dynamics and energy cost of transport in the soft&#x02010;bodied marine invertebrates <italic>Polyphysia crassa</italic> and <italic>Priapulus caudatus</italic>
+</article-title>. <source xml:lang="en">Journal of Zoology</source>, <volume>218</volume>(<issue>2</issue>), <fpage>209</fpage>&#x02013;<lpage>222</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0044"><mixed-citation publication-type="journal" id="ece35853-cit-0044">
+<string-name>
+<surname>Jokim&#x000e4;ki</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Suhonen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jokim&#x000e4;ki&#x02010;Kaisanlahti</surname>, <given-names>M. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Carb&#x000f3;&#x02010;Ram&#x000ed;rez</surname>, <given-names>P.</given-names>
+</string-name> (<year>2016</year>). <article-title>Effects of urbanization on breeding birds in European towns: Impacts of species traits</article-title>. <source xml:lang="en">Urban Ecosystems</source>, <volume>19</volume>(<issue>4</issue>), <fpage>1565</fpage>&#x02013;<lpage>1577</lpage>. <pub-id pub-id-type="doi">10.1007/s11252-014-0423-7</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0045"><mixed-citation publication-type="journal" id="ece35853-cit-0045">
+<string-name>
+<surname>Jonah</surname>, <given-names>F. E.</given-names>
+</string-name>, <string-name>
+<surname>Agbo</surname>, <given-names>N. W.</given-names>
+</string-name>, <string-name>
+<surname>Agbeti</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Adjei&#x02010;Boateng</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shimba</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2015</year>). <article-title>The ecological effects of beach sand mining in Ghana using ghost crabs (<italic>Ocypode</italic> species) as biological indicators</article-title>. <source xml:lang="en">Ocean Coastal Management</source>, <volume>112</volume>, <fpage>18</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1016/j.ocecoaman.2015.05.001</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0046"><mixed-citation publication-type="journal" id="ece35853-cit-0046">
+<string-name>
+<surname>Leo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Dahlke</surname>, <given-names>F. T.</given-names>
+</string-name>, <string-name>
+<surname>Storch</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>P&#x000f6;rtner</surname>, <given-names>H. O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mark</surname>, <given-names>F. C.</given-names>
+</string-name> (<year>2018</year>). <article-title>Impact of ocean acidification and warming on the bioenergetics of developing eggs of Atlantic herring <italic>Clupea harengus</italic>. Conservation</article-title>. <source xml:lang="en">Physiology</source>, <volume>6</volume>(<issue>1</issue>), <fpage>coy050</fpage>
+<pub-id pub-id-type="doi">10.1093/conphys/coy050</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0047"><mixed-citation publication-type="book" id="ece35853-cit-0047">
+<string-name>
+<surname>Lucas</surname>, <given-names>A.</given-names>
+</string-name> (<year>1996</year>). <source xml:lang="en">Bioenergetics of aquatic animals</source>. <publisher-loc>London, UK</publisher-loc>: <publisher-name>Taylor &#x00026; Francis</publisher-name>.</mixed-citation></ref><ref id="ece35853-bib-0048"><mixed-citation publication-type="journal" id="ece35853-cit-0048">
+<string-name>
+<surname>Lucrezi</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schlacher</surname>, <given-names>T. A.</given-names>
+</string-name> (<year>2010</year>). <article-title>Impacts of off&#x02010;road vehicles (ORVs) on burrow architecture of ghost crabs (Genus Ocypode) on sandy beaches</article-title>. <source xml:lang="en">Environmental Management</source>, <volume>45</volume>(<issue>6</issue>), <fpage>1352</fpage>&#x02013;<lpage>1362</lpage>. <pub-id pub-id-type="doi">10.1007/s00267-010-9491-5</pub-id>
+<pub-id pub-id-type="pmid">20411260</pub-id></mixed-citation></ref><ref id="ece35853-bib-0049"><mixed-citation publication-type="journal" id="ece35853-cit-0049">
+<string-name>
+<surname>Lucrezi</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schlacher</surname>, <given-names>T. A.</given-names>
+</string-name> (<year>2014</year>). <article-title>The ecology o ghost crabs&#x02010;a review</article-title>. <source xml:lang="en">Oceanography and Marine Biology &#x02013; Annual Review</source>, <volume>52</volume>, <fpage>201</fpage>&#x02013;<lpage>256</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0050"><mixed-citation publication-type="journal" id="ece35853-cit-0050">
+<string-name>
+<surname>Lucrezi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schlacher</surname>, <given-names>T. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Robinson</surname>, <given-names>W.</given-names>
+</string-name> (<year>2009</year>). <article-title>Human disturbance as a cause of bias in ecological indicators for sandy beaches: Experimental evidence for the effects of human trampling on ghost crabs (<italic>Ocypode</italic> spp.)</article-title>. <source xml:lang="en">Ecological Indicators</source>, <volume>9</volume>(<issue>5</issue>), <fpage>913</fpage>&#x02013;<lpage>921</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolind.2008.10.013</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0051"><mixed-citation publication-type="journal" id="ece35853-cit-0051">
+<string-name>
+<surname>Maleque</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Maeto</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ishii</surname>, <given-names>H. T.</given-names>
+</string-name> (<year>2009</year>). <article-title>Arthropods as bioindicators of sustainable forest management, with a focus on plantation forests</article-title>. <source xml:lang="en">Applied Entomology &#x00026; Zoology</source>, <volume>44</volume>, <fpage>1</fpage>&#x02013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1303/aez.2009.1</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0052"><mixed-citation publication-type="journal" id="ece35853-cit-0052">
+<string-name>
+<surname>McGeoch</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>1998</year>). <article-title>The selection, testing and application of terrestial insects as bioindicators</article-title>. <source xml:lang="en">Biological Reviews.</source>, <volume>73</volume>, <fpage>181</fpage>&#x02013;<lpage>201</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0053"><mixed-citation publication-type="journal" id="ece35853-cit-0053">
+<string-name>
+<surname>Neves</surname>, <given-names>F. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bemvenuti</surname>, <given-names>C. E.</given-names>
+</string-name> (<year>2006</year>). <article-title>The ghost crab <italic>Ocypode quadrata</italic> (Fabricius, 1787) as a potential indicator of anthropic impact along the Rio Grande do Sul coast, Brazil</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>133</volume>, <fpage>431</fpage>&#x02013;<lpage>435</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2006.04.041</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0054"><mixed-citation publication-type="journal" id="ece35853-cit-0054">
+<string-name>
+<surname>Nomura</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Rossa&#x02010;Feres</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Langeani</surname>, <given-names>F.</given-names>
+</string-name> (<year>2009</year>). <article-title>Burrowing behavior of <italic>Dermatonotus muelleri</italic> (Anura, Microhylidae) with reference to the origin of the burrowing behavior of Anura</article-title>. <source xml:lang="en">Journal of Ethology</source>, <volume>27</volume>, <fpage>195</fpage>&#x02013;<lpage>201</lpage>. <pub-id pub-id-type="doi">10.1007/s10164-008-0112-1</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0055"><mixed-citation publication-type="journal" id="ece35853-cit-0055">
+<string-name>
+<surname>Packard</surname>, <given-names>G. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Boardman</surname>, <given-names>T. J.</given-names>
+</string-name> (<year>1999</year>). <article-title>The use of percentages and size&#x02010;specific indices to normalize physiological data for variation in body size: Wasted time, wasted effort?</article-title>
+<source xml:lang="en">Comparative Biochemistry and Physiology B</source>, <volume>122</volume>, <fpage>37</fpage>&#x02013;<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1016/S1095-6433(98)10170-8</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0056"><mixed-citation publication-type="journal" id="ece35853-cit-0056">
+<string-name>
+<surname>Pearce</surname>, <given-names>J. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Venier</surname>, <given-names>L. A.</given-names>
+</string-name> (<year>2006</year>). <article-title>The use of ground beetles (Coleoptera: Carabidae) and spiders (Araneae) as bioindicators of sustainable forest management: A review</article-title>. <source xml:lang="en">Ecological Indicators</source>, <volume>6</volume>(<issue>4</issue>), <fpage>780</fpage>&#x02013;<lpage>793</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolind.2005.03.005</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0057"><mixed-citation publication-type="journal" id="ece35853-cit-0057">
+<string-name>
+<surname>Pombo</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Turra</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Issues to be considered in counting burrows as a measure of Atlantic ghost crab populations, an important bioindicator of sandy beaches</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>(<issue>12</issue>), <elocation-id>e83792</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0083792</pub-id>
+<pub-id pub-id-type="pmid">24376748</pub-id></mixed-citation></ref><ref id="ece35853-bib-0058"><mixed-citation publication-type="journal" id="ece35853-cit-0058">
+<string-name>
+<surname>P&#x000f6;rtner</surname>, <given-names>H. O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Farrell</surname>, <given-names>A. P.</given-names>
+</string-name> (<year>2008</year>). <article-title>Physiology and climate change</article-title>. <source xml:lang="en">Science</source>, <volume>322</volume>, <fpage>690</fpage>&#x02013;<lpage>692</lpage>. <pub-id pub-id-type="doi">10.1126/science.1163156</pub-id>
+<pub-id pub-id-type="pmid">18974339</pub-id></mixed-citation></ref><ref id="ece35853-bib-0059"><mixed-citation publication-type="book" id="ece35853-cit-0059">
+<collab collab-type="authors">R Core Team</collab>
+(<year>2018</year>). <source xml:lang="en">A language and environment for statistical computing</source>. <publisher-loc>Vienna, Austria</publisher-loc>: <publisher-name>R Foundation for Statistical Computing</publisher-name>.</mixed-citation></ref><ref id="ece35853-bib-0060"><mixed-citation publication-type="journal" id="ece35853-cit-0060">
+<string-name>
+<surname>Rainio</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Niemel&#x000e4;</surname>, <given-names>J.</given-names>
+</string-name> (<year>2003</year>). <article-title>Ground beetles (Coleoptera: Carabidae) as bioindicators</article-title>. <source xml:lang="en">Biodiversity &#x00026; Conservation</source>, <volume>12</volume>, <fpage>487</fpage>&#x02013;<lpage>506</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0061"><mixed-citation publication-type="journal" id="ece35853-cit-0061">
+<string-name>
+<surname>Reichman</surname>, <given-names>O. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>S. C.</given-names>
+</string-name> (<year>1990</year>). <article-title>Burrows and burrowing behavior by mammals</article-title>. <source xml:lang="en">Current Mammology</source>, <volume>2</volume>, <fpage>197</fpage>&#x02013;<lpage>244</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0062"><mixed-citation publication-type="journal" id="ece35853-cit-0062">
+<string-name>
+<surname>Ribeiro</surname>, <given-names>P. D.</given-names>
+</string-name>, <string-name>
+<surname>Christy</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Rissanen</surname>, <given-names>R. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kim</surname>, <given-names>T. W.</given-names>
+</string-name> (<year>2006</year>). <article-title>Males are attracted by their own courtship signals</article-title>. <source xml:lang="en">Behavioral Ecology and Sociobiology</source>, <volume>61</volume>, <fpage>81</fpage>&#x02013;<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1007/s00265-006-0238-5</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0063"><mixed-citation publication-type="journal" id="ece35853-cit-0063">
+<string-name>
+<surname>Schlacher</surname>, <given-names>T. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lucrezi</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>). <article-title>Experimental evidence that vehicle traffic changes burrow architecture and reduces population density of ghost crabs on sandy beaches</article-title>. <source xml:lang="en">Vie Milieu&#x02010;Life Environment</source>, <volume>60</volume>, <fpage>313</fpage>&#x02013;<lpage>320</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0064"><mixed-citation publication-type="journal" id="ece35853-cit-0064">
+<string-name>
+<surname>Schlacher</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Lucrezi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Connolly</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Gilby</surname>, <given-names>B. L.</given-names>
+</string-name>, <string-name>
+<surname>Maslo</surname>, <given-names>B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Schoeman</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>2016</year>). <article-title>Human threats to sandy beaches: A meta&#x02010;analysis of ghost crabs illustrates global anthropogenic impacts</article-title>. <source xml:lang="en">Estuarine, Coastal and Shelf Science</source>, <volume>169</volume>, <fpage>56</fpage>&#x02013;<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecss.2015.11.025</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0065"><mixed-citation publication-type="journal" id="ece35853-cit-0065">
+<string-name>
+<surname>Schlacher</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>, <given-names>L. M. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Price</surname>, <given-names>S.</given-names>
+</string-name> (<year>2007</year>). <article-title>Vehicles versus conservation of invertebrates on sandy beaches: Quantifying direct mortalities inflicted by off&#x02010;road vehicles (ORVs) on ghost crabs</article-title>. <source xml:lang="en">Marine Ecology</source>, <volume>28</volume>, <fpage>354</fpage>&#x02013;<lpage>367</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0066"><mixed-citation publication-type="journal" id="ece35853-cit-0066">
+<string-name>
+<surname>Schlacher</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>, <given-names>L. M. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Walker</surname>, <given-names>S. J.</given-names>
+</string-name> (<year>2008</year>). <article-title>Mortalities caused by off&#x02010;road vehicles (ORVs) to a key member of sandy beach assemblages, the surf clam <italic>Donax deltoides</italic>
+</article-title>. <source xml:lang="en">Hydrobiology</source>, <volume>610</volume>, <fpage>345</fpage>&#x02013;<lpage>350</lpage>. <pub-id pub-id-type="doi">10.1007/s10750-008-9426-9</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0067"><mixed-citation publication-type="journal" id="ece35853-cit-0067">
+<string-name>
+<surname>Schmidt</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gerlach</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Leo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kunz</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Swoboda</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>P&#x000f6;rtner</surname>, <given-names>H. O.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Storch</surname>, <given-names>D.</given-names>
+</string-name> (<year>2017</year>). <article-title>Impact of ocean warming and acidification on the behaviour of two co&#x02010;occurring gadid species, <italic>Boreogadus saida</italic> and <italic>Gadus morhua</italic>, from Svalbard</article-title>. <source xml:lang="en">Marine Ecology Progress Series</source>, <volume>571</volume>, <fpage>183</fpage>&#x02013;<lpage>191</lpage>. <pub-id pub-id-type="doi">10.3354/meps12130</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0068"><mixed-citation publication-type="journal" id="ece35853-cit-0068">
+<string-name>
+<surname>Sheppard</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Pitt</surname>, <given-names>K. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schlacher</surname>, <given-names>T. A.</given-names>
+</string-name> (<year>2009</year>). <article-title>Sub&#x02010;lethal effects of off&#x02010;road vehicles (ORVs) on surf clams on sandy beaches</article-title>. <source xml:lang="en">Journal of Experimental Marine Biology and Ecology</source>, <volume>380</volume>, <fpage>113</fpage>&#x02013;<lpage>118</lpage>. <pub-id pub-id-type="doi">10.1016/j.jembe.2009.09.009</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0069"><mixed-citation publication-type="journal" id="ece35853-cit-0069">
+<string-name>
+<surname>Siddig</surname>, <given-names>A. A. H.</given-names>
+</string-name>, <string-name>
+<surname>Ellison</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Ochs</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Villar&#x02010;Leeman</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lau</surname>, <given-names>M. K.</given-names>
+</string-name> (<year>2016</year>). <article-title>How do ecologists select and use indicator species to monitor ecological change? Insights from 14&#x000a0;years of publication in ecological indicators</article-title>. <source xml:lang="en">Ecological Indicators</source>, <volume>60</volume>, <fpage>223</fpage>&#x02013;<lpage>230</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolind.2015.06.036</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0070"><mixed-citation publication-type="journal" id="ece35853-cit-0070">
+<string-name>
+<surname>Sih</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Understanding variation in behavioural responses to human&#x02010;induced rapid environmental change: A conceptual overview</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>85</volume>(<issue>5</issue>), <fpage>1077</fpage>&#x02013;<lpage>1088</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2013.02.017</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0071"><mixed-citation publication-type="journal" id="ece35853-cit-0071">
+<string-name>
+<surname>Sih</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Stamps</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>L. H.</given-names>
+</string-name>, <string-name>
+<surname>McElreath</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ramenofsky</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>). <article-title>Behavior as a key component of integrative biology in a human-altered world</article-title>. <source xml:lang="en">Integrative and Comparative Biology</source>, <volume>50</volume>, <fpage>934</fpage>&#x02013;<lpage>944</lpage>. <pub-id pub-id-type="doi">10.1093/icb/icq148</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0072"><mixed-citation publication-type="journal" id="ece35853-cit-0072">
+<string-name>
+<surname>Silva</surname>, <given-names>W. T. A. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Calado</surname>, <given-names>T. C. S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Number of ghost crab burrows does not correspond to population size</article-title>. <source xml:lang="en">Central European Journal of Biology</source>, <volume>8</volume>(<issue>9</issue>), <fpage>843</fpage>&#x02013;<lpage>847</lpage>. <pub-id pub-id-type="doi">10.2478/s11535-013-0208-7</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0073"><mixed-citation publication-type="journal" id="ece35853-cit-0073">
+<string-name>
+<surname>Soriguer</surname>, <given-names>R. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Amat</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>1980</year>). <article-title>On the structure and function of the burrows of the Mediterranean vole (<italic>Pitymys duodecimcostatus</italic>)</article-title>. <source xml:lang="en">Acta Theriologica</source>, <volume>25</volume>, <fpage>268</fpage>&#x02013;<lpage>270</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0074"><mixed-citation publication-type="book" id="ece35853-cit-0074">
+<string-name>
+<surname>Spellerberg</surname>, <given-names>I.</given-names>
+</string-name> (<year>2005</year>). <source xml:lang="en">Monitoring ecological change</source> (<edition designator="2">2nd ed.</edition>). <publisher-loc>Cambridge, UK</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>.</mixed-citation></ref><ref id="ece35853-bib-0075"><mixed-citation publication-type="journal" id="ece35853-cit-0075">
+<string-name>
+<surname>Steiner</surname>, <given-names>A. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Leatherman</surname>, <given-names>S. P.</given-names>
+</string-name> (<year>1981</year>). <article-title>Recreational impacts on the distribution of ghost crab <italic>Ocypode quadrata</italic> Fab</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>20</volume>, <fpage>111</fpage>&#x02013;<lpage>122</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0076"><mixed-citation publication-type="journal" id="ece35853-cit-0076">
+<string-name>
+<surname>Stelling&#x02010;Wood</surname>, <given-names>T. P.</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>, <given-names>G. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Poore</surname>, <given-names>A. G. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Responses of ghost crabs to habitat modification of urban sandy beaches</article-title>. <source xml:lang="en">Marine Environmental Research</source>, <volume>116</volume>, <fpage>32</fpage>&#x02013;<lpage>40</lpage>. <pub-id pub-id-type="doi">10.1016/j.marenvres.2016.02.009</pub-id>
+<pub-id pub-id-type="pmid">26970686</pub-id></mixed-citation></ref><ref id="ece35853-bib-0077"><mixed-citation publication-type="journal" id="ece35853-cit-0077">
+<string-name>
+<surname>Symons</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pirotta</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lusseau</surname>, <given-names>D.</given-names>
+</string-name> (<year>2014</year>). <article-title>Sex differences in risk perception in deep-diving bottlenose dolphins leads to decreased foraging efficiency when exposed to human disturbance</article-title>. <source xml:lang="en">Journal of Applied Ecology</source>, <volume>51</volume>, <fpage>1584</fpage>&#x02013;<lpage>1592</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2664.12337</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0078"><mixed-citation publication-type="journal" id="ece35853-cit-0078">
+<string-name>
+<surname>Thomas</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Pouvreau</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Alunno&#x02010;Bruscia</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Barill&#x000e9;</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bry&#x000e8;re</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gernez</surname>, <given-names>P.</given-names>
+</string-name> (<year>2016</year>). <article-title>Global change and climate&#x02010;driven invasion of the Pacific oyster (<italic>Crassostrea gigas</italic>) along European coasts: A bioenergetics modelling approach</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>43</volume>(<issue>3</issue>), <fpage>568</fpage>&#x02013;<lpage>579</lpage>. <pub-id pub-id-type="doi">10.1111/jbi.12665</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0079"><mixed-citation publication-type="journal" id="ece35853-cit-0079">
+<string-name>
+<surname>Toro</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Navarro</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Palma&#x02010;Fleming</surname>, <given-names>H.</given-names>
+</string-name> (<year>2003</year>). <article-title>Relationship between bioenergetics responses and organic pollutants in the giant mussel, <italic>Choromytilus chorus</italic> (Mollusca: Mytilidae)</article-title>. <source xml:lang="en">Aquatic Toxicology</source>, <volume>63</volume>(<issue>3</issue>), <fpage>257</fpage>&#x02013;<lpage>269</lpage>. <pub-id pub-id-type="doi">10.1016/S0166-445X(02)00181-9</pub-id>
+<pub-id pub-id-type="pmid">12711415</pub-id></mixed-citation></ref><ref id="ece35853-bib-0080"><mixed-citation publication-type="journal" id="ece35853-cit-0080">
+<string-name>
+<surname>Villegas&#x02010;Amtmann</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schwarz</surname>, <given-names>L. K.</given-names>
+</string-name>, <string-name>
+<surname>Sumich</surname>, <given-names>J. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Costa</surname>, <given-names>D. P.</given-names>
+</string-name> (<year>2015</year>). <article-title>A bioenergetics model to evaluate demographic consequences of disturbance in marine mammals applied to gray whales</article-title>. <source xml:lang="en">Ecosphere</source>, <volume>6</volume>(<issue>10</issue>), <fpage>art183</fpage>
+<pub-id pub-id-type="doi">10.1890/ES15-00146.1</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0081"><mixed-citation publication-type="journal" id="ece35853-cit-0081">
+<string-name>
+<surname>Vitousek</surname>, <given-names>P. M.</given-names>
+</string-name>, <string-name>
+<surname>Mooney</surname>, <given-names>H. A.</given-names>
+</string-name>, <string-name>
+<surname>Lubchenco</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Melillo</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>1997</year>). <article-title>Human domination of the Earth's ecosystems</article-title>. <source xml:lang="en">Science</source>, <volume>277</volume>, <fpage>494</fpage>&#x02013;<lpage>499</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0082"><mixed-citation publication-type="journal" id="ece35853-cit-0082">
+<string-name>
+<surname>Weis</surname>, <given-names>J. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Perlmutter</surname>, <given-names>J.</given-names>
+</string-name> (<year>1987</year>). <article-title>Burrowing behavior by the fiddler crab Uca pugilator: inhibition by the insecticide diflubenzuron</article-title>. <source xml:lang="en">Marine Ecology Progress Series</source>, <volume>38</volume>(<issue>2</issue>), <fpage>109</fpage>&#x02013;<lpage>113</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0083"><mixed-citation publication-type="journal" id="ece35853-cit-0083">
+<string-name>
+<surname>Wildsmith</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Rose</surname>, <given-names>T. H.</given-names>
+</string-name>, <string-name>
+<surname>Potter</surname>, <given-names>I. C.</given-names>
+</string-name>, <string-name>
+<surname>Warwick</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>, <given-names>K. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Valesini</surname>, <given-names>F. J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Changes in the benthic macroinvertebrate fauna of a large microtidal estuary following extreme modifications aimed at reducing eutrophication</article-title>. <source xml:lang="en">Marine Pollution Bulletin</source>, <volume>58</volume>(<issue>9</issue>), <fpage>1250</fpage>&#x02013;<lpage>1262</lpage>. <pub-id pub-id-type="doi">10.1016/j.marpolbul.2009.06.008</pub-id>
+<pub-id pub-id-type="pmid">19616265</pub-id></mixed-citation></ref><ref id="ece35853-bib-0084"><mixed-citation publication-type="journal" id="ece35853-cit-0084">
+<string-name>
+<surname>Williams</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lusseau</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hammond</surname>, <given-names>P. S.</given-names>
+</string-name> (<year>2006</year>). <article-title>Estimating relative energetic costs of human disturbance to killer whales (<italic>Orcinus orca</italic>)</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>133</volume>(<issue>3</issue>), <fpage>301</fpage>&#x02013;<lpage>311</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2006.06.010</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0085"><mixed-citation publication-type="journal" id="ece35853-cit-0085">
+<string-name>
+<surname>Wolcott</surname>, <given-names>T. G.</given-names>
+</string-name> (<year>1978</year>). <article-title>Ecological role of ghost crabs, <italic>Ocypode quadrata</italic> (Fab.) on an ocean beach: Scavengers or predators?</article-title>
+<source xml:lang="en">Journal of Experimental Marine Biology and Ecology</source>, <volume>31</volume>, <fpage>67</fpage>&#x02013;<lpage>82</lpage>.</mixed-citation></ref><ref id="ece35853-bib-0086"><mixed-citation publication-type="journal" id="ece35853-cit-0086">
+<string-name>
+<surname>Wolcott</surname>, <given-names>T. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolcott</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>1984</year>). <article-title>Impact of off&#x02010;road vehicles on macroinvertebrates of a mid&#x02010;atlantic beach</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>29</volume>(<issue>3</issue>), <fpage>217</fpage>&#x02013;<lpage>240</lpage>. <pub-id pub-id-type="doi">10.1016/0006-3207(84)90100-9</pub-id>
+</mixed-citation></ref><ref id="ece35853-bib-0087"><mixed-citation publication-type="journal" id="ece35853-cit-0087">
+<string-name>
+<surname>Wong</surname>, <given-names>B. B. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Candolin</surname>, <given-names>U.</given-names>
+</string-name> (<year>2015</year>). <article-title>Behavioral responses to changing environments</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>26</volume>(<issue>3</issue>), <fpage>665</fpage>&#x02013;<lpage>673</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/aru183</pub-id>
+</mixed-citation></ref></ref-list></back></article>

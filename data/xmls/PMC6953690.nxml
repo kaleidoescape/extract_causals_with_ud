@@ -1,0 +1,626 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938517</article-id><article-id pub-id-type="pmc">6953690</article-id><article-id pub-id-type="doi">10.1002/ece3.5861</article-id><article-id pub-id-type="publisher-id">ECE35861</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Intrinsic biotic factors and microsite conditions drive seedling survival in a species with masting reproduction</article-title><alt-title alt-title-type="left-running-head">MARTINI et al.</alt-title></title-group><contrib-group><contrib id="ece35861-cr-0001" contrib-type="author"><name><surname>Martini</surname><given-names>Francesco</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0806-3930</contrib-id><xref ref-type="aff" rid="ece35861-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35861-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35861-cr-0002" contrib-type="author"><name><surname>Zou</surname><given-names>Chaobo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3971-5586</contrib-id><xref ref-type="aff" rid="ece35861-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35861-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35861-cr-0003" contrib-type="author" corresp="yes"><name><surname>Goodale</surname><given-names>Uromi Manage</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3111-8899</contrib-id><xref ref-type="aff" rid="ece35861-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35861-aff-0002">
+<sup>2</sup>
+</xref><address><email>uromigoodale@gxu.edu.cn</email><email>uromi.goodale@aya.yale.edu</email></address></contrib></contrib-group><aff id="ece35861-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Guangxi Key Laboratory of Forest Ecology and Conservation</named-content>
+<named-content content-type="organisation-division">College of Forestry</named-content>
+<institution>Guangxi University</institution>
+<city>Nanning</city>
+<country country="CN">China</country>
+</aff><aff id="ece35861-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory of Conservation and Utilization of Subtropical Agro&#x02010;bioresources</named-content>
+<named-content content-type="organisation-division">College of Forestry</named-content>
+<institution>Guangxi University</institution>
+<city>Nanning</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Uromi Manage Goodale, Guangxi Key Laboratory of Forest Ecology and Conservation, College of Forestry, Guangxi University, Daxuedonglu 100, Nanning, Guangxi 530004, China.<break/>
+Emails: <email>uromigoodale@gxu.edu.cn</email>; <email>uromi.goodale@aya.yale.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>12</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14261</fpage><lpage>14272</lpage><history><date date-type="received"><day>14</day><month>8</month><year>2019</year></date><date date-type="rev-recd"><day>23</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>04</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14261.pdf"/><abstract id="ece35861-abs-0001"><title>Abstract</title><p>
+<list list-type="order" id="ece35861-list-0001"><list-item><p>Seedling recruitment following a masting event, where more fruits are produced in synchrony and intermittently compared with other species, plays a crucial role in determining species diversity and community structure. Such seedling recruitment can be superabundant, but followed by high mortality shortly thereafter. Differences in biotic factors such as seedling characteristics, competition, and herbivory, and microsite&#x02010;specific abiotic factors could determine seedling fate in space and time.</p></list-item><list-item><p>In a subtropical forest in south China, for 2&#x000a0;years using censuses conducted every 1&#x02013;2&#x000a0;months, we monitored 40 seed traps and 120, 1&#x000a0;m<sup>2</sup> quadrats in five 1&#x02010;ha plots located from 1,400 to 1,850&#x000a0;m&#x000a0;asl for the masting maple species, <italic>Acer campbellii</italic> subsp. <italic>sinense</italic> (Pax) P.C.DeJong. We measured biotic&#x02014;conspecific and heterospecific seedling density, species richness, herbivory, seedling height, and leaf number&#x02014;and abiotic&#x02014;canopy openness, slope, and aspect&#x02014;factors to assess drivers of seedling survival and evaluated <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic> presence in the soil seed bank (SSB).</p></list-item><list-item><p>The masting seed dispersal peak and seedling emergence peak occurred between October 2017 and January 2018, and May 2018, respectively. Of 688 selected seedlings, mortality was 92.7% within one year. No seeds were observed in the SSB. Seedling height and leaf number positively affected seedling survival, while seed placement as measured by aspect also showed effects on survival. Conspecific and heterospecific density and herbivory did not show any clear effect. Higher probabilities of seedling survival were found in areas with larger canopy openness (&#x02265;12% canopy gap size) and in steeper microsites (&#x02265;35&#x000b0;).</p></list-item><list-item><p>
+<italic>Synthesis</italic>. Masting is mainly studied as a population&#x02010;level phenomenon from the fruiting tree perspective. Our study of individual seedling fate revealed that intrinsic biotic factors and seed placement were key drivers of survival. Although biotic determinants such as competition from conspecifics or heterospecifics or herbivory did not determine survival, their ubiquitous presence may be an underlying equalizer in community dynamics where seedlings that overcome biotic pressures, if placed at the right microsite, are at better odds at being recruited to the next life history stages.</p></list-item></list>
+</p></abstract><abstract abstract-type="graphical" id="ece35861-abs-0002"><p>We monitored seed rain, soil seed bank, and seedling recruitment and survival for the masting maple species, <italic>Acer campbellii</italic> subsp., in a subtropical forest in South China. The masting seed dispersal peak and seedling emergence peak occurred between October 2017 and January 2018, and May 2018, respectively. Seedling mortality was 92.7% within 1&#x000a0;year, and we found no seeds in the SSB. Our study of individual seedling fate revealed that intrinsic biotic factors&#x02014;seedling height and leaf number&#x02014;and seed placement&#x02014;aspect&#x02014;were key drivers of survival.<boxed-text position="anchor" content-type="graphic" id="ece35861-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14261-g005.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35861-kwd-0001">aspect</kwd><kwd id="ece35861-kwd-0002">initial seedling height</kwd><kwd id="ece35861-kwd-0003">maple</kwd><kwd id="ece35861-kwd-0004">Mast seeding</kwd><kwd id="ece35861-kwd-0005">plant population and community dynamics</kwd><kwd id="ece35861-kwd-0006">seedling mortality</kwd><kwd id="ece35861-kwd-0007">soil seed bank</kwd><kwd id="ece35861-kwd-0008">subtropical forest</kwd><kwd id="ece35861-kwd-0009">survival analysis</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>31660125</award-id></award-group><award-group id="funding-0002"><funding-source>Guangxi Overseas High&#x02010;level Talent &#x0201c;Hundred People Program"</funding-source></award-group><award-group id="funding-0003"><funding-source>Guangxi Science and Technology Program</funding-source><award-id>Guike AB16380254</award-id></award-group><award-group id="funding-0004"><funding-source>Bagui Scholarship</funding-source><award-id>C33600992001</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="12"/><word-count count="8507"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35861-cit-1001">
+<string-name>
+<surname>Martini</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zou</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Goodale</surname>
+<given-names>UM</given-names>
+</string-name>. <article-title>Intrinsic biotic factors and microsite conditions drive seedling survival in a species with masting reproduction</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14261</fpage>&#x02013;<lpage>14272</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5861</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35861-body-0001"><sec id="ece35861-sec-0001"><label>1</label><title>INTRODUCTION</title><p>The seedling stage represents a crucial bottleneck in plant establishment, where most individuals do not survive to the next ontogenetic stage (Harms, Wright, Calder&#x000f3;n, Hern&#x000e1;ndez, &#x00026; Herre, <xref rid="ece35861-bib-0026" ref-type="ref">2000</xref>; Queenborough, Burslem, Garwood, &#x00026; Valencia, <xref rid="ece35861-bib-0046" ref-type="ref">2007</xref>). In some species, seedlings can be superabundant following an interannual and synchronous reproductive episode of high seed production (masting) (Kelly &#x00026; Sork, <xref rid="ece35861-bib-0033" ref-type="ref">2002</xref>). This evolutionary strategy influences forest regeneration and affects animal populations (Curran &#x00026; Leighton, <xref rid="ece35861-bib-0017" ref-type="ref">2000</xref>; Zwolak, Witczuk, Bogdziewicz, Rychlik, &#x00026; Pagacz, <xref rid="ece35861-bib-0061" ref-type="ref">2018</xref>) with cascading effect on species diversity and composition. The recruitment potential of a species is not only characterized by its ability to succeed in seed production, but also in seed persistence in the soil seed bank (SSB) after reaching the forest floor and the seedlings&#x02019; ability to survive and wait as advanced regeneration (Clark et al., <xref rid="ece35861-bib-0011" ref-type="ref">1999</xref>). The SSBs represent biodiversity reservoirs allowing seed dispersal not only in space, but also in time, and temporally uncouple seed fate from masting following recruitment events (Vandvik, Klanderud, Meineri, M&#x000e5;ren, &#x00026; T&#x000f6;pper, <xref rid="ece35861-bib-0055" ref-type="ref">2016</xref>). Masting has been especially investigated from the seed or fruit production, seed dispersal, and seed survival perspectives focusing on its evolutionary significance (Kelly &#x00026; Sork, <xref rid="ece35861-bib-0033" ref-type="ref">2002</xref>; Pearse, Koenig, &#x00026; Kelly, <xref rid="ece35861-bib-0044" ref-type="ref">2016</xref>). Studies that investigated the drivers of seedling survival following a masting event coupled with the assessment of advanced regeneration and persistence in the SSB are limited (Cleavitt, Battles, Fahey, &#x00026; Blum, <xref rid="ece35861-bib-0012" ref-type="ref">2014</xref>; Oshima, Tokumoto, &#x00026; Nakagawa, <xref rid="ece35861-bib-0043" ref-type="ref">2015</xref>).</p><p>While it is hypothesized that masting could provide an evolutionary advantage through predator satiation and dispersal efficiency (Kelly &#x00026; Sork, <xref rid="ece35861-bib-0033" ref-type="ref">2002</xref>), high seedling mortality is usually recorded shortly after germination, limiting recruitment (Abrams &#x00026; Johnson, <xref rid="ece35861-bib-0001" ref-type="ref">2013</xref>; Green &#x00026; Newbery, <xref rid="ece35861-bib-0025" ref-type="ref">2002</xref>). For both masting and nonmasting species, factors that determine recruitment can be complex, species&#x02010;specific, and change along both temporal and spatial axes (Fricke, Tewksbury, &#x00026; Rogers, <xref rid="ece35861-bib-0022" ref-type="ref">2014</xref>; Oshima et al., <xref rid="ece35861-bib-0043" ref-type="ref">2015</xref>; Zhu et al., <xref rid="ece35861-bib-0060" ref-type="ref">2018</xref>). Biotic factors that influence seedling survival can be intrinsic depending on the seed's resources, seedling vigor, or extrinsic such as conspecific or heterospecific competition and seed predation or seedling herbivory (Comita et al., <xref rid="ece35861-bib-0014" ref-type="ref">2014</xref>; Downey, Lewis, Bonsall, Fernandez, &#x00026; Gripenberg, <xref rid="ece35861-bib-0018" ref-type="ref">2018</xref>; Khan, <xref rid="ece35861-bib-0034" ref-type="ref">2004</xref>; Lu et al., <xref rid="ece35861-bib-0039" ref-type="ref">2015</xref>). Larger seeded species are known to have a greater advantage in survival over smaller seeded species (Moles &#x00026; Westoby, <xref rid="ece35861-bib-0041" ref-type="ref">2004</xref>). In a masting cohort, larger seeds that can give rise to larger seedlings could provide an advantage in securing growing space over comparatively smaller members. Host&#x02010;specific herbivores and pathogens can act in a density&#x02010; and/or distance&#x02010;dependent manner to reduce seedlings and juvenile plant survival, when seedlings are found close to conspecific adult trees or in areas of high conspecific density (conspecific negative density dependence&#x02014;CNDD, Janzen, <xref rid="ece35861-bib-0028" ref-type="ref">1970</xref>; Connell, <xref rid="ece35861-bib-0016" ref-type="ref">1971</xref>). This hypothesis has received support in some studies (Johnson et al., <xref rid="ece35861-bib-0030" ref-type="ref">2014</xref>; Terborgh, <xref rid="ece35861-bib-0053" ref-type="ref">2012</xref>) but has found mixed support in seedling populations following a mast seedling episode (Norghauer &#x00026; Newbery, <xref rid="ece35861-bib-0042" ref-type="ref">2016</xref>; Oshima et al., <xref rid="ece35861-bib-0043" ref-type="ref">2015</xref>).</p><p>Abiotic conditions can be as equally important as biotic elements in securing recruitment success. Light&#x02014;often measured as canopy openness&#x02014;is one of the most important abiotic factors that affects seedling survival (Beckage &#x00026; Clark, <xref rid="ece35861-bib-0007" ref-type="ref">2003</xref>; Lu, Wang, Yu, Zhang, &#x00026; Zhu, <xref rid="ece35861-bib-0038" ref-type="ref">2018</xref>). In masting species, the mosaic distribution of light in the forest floor due to canopy gaps may create a clumped distribution of surviving seedlings. For example, it has been shown that larger canopy gaps favor seedling survival in the first year after germination in masting in dipterocarp species in Borneo (Oshima et al., <xref rid="ece35861-bib-0043" ref-type="ref">2015</xref>) and a beech species in North America (Cleavitt, Fairbairn, &#x00026; Fahey, <xref rid="ece35861-bib-0013" ref-type="ref">2008</xref>), indicating that the first year following a masting event is a crucial time in the recruitment of the new cohort.</p><p>Other microsite conditions, such as topographical features of the location where seeds fall, can also influence germination and seedling recruitment success in space and time by modulating what resource are available and the duration of resources availability. For example, Frey, Ashton, McKenna, Ellum, and Finkral (<xref rid="ece35861-bib-0021" ref-type="ref">2007</xref>) found that slope position had clear effects on tree seedling survival in five different species in North America. Ma et al. (<xref rid="ece35861-bib-0040" ref-type="ref">2014</xref>) also reported a significant slope effect on tree survival. Yet, other studies that assessed seedling survival did not detect any effect of slope on mortality risk (Lin, Comita, Johnson, Chen, &#x00026; Wu, <xref rid="ece35861-bib-0037" ref-type="ref">2017</xref>). Another topographical site characteristic, aspect, has been shown to influence plant association (Badano, Cavieres, Molina&#x02010;Montenegro, &#x00026; Quiroz, <xref rid="ece35861-bib-0002" ref-type="ref">2005</xref>; Warren, <xref rid="ece35861-bib-0057" ref-type="ref">2008</xref>), but not adult tree survival (Wang et al., <xref rid="ece35861-bib-0056" ref-type="ref">2012</xref>) or mortality (Wu, Franklin, Liu, &#x00026; Lu, <xref rid="ece35861-bib-0059" ref-type="ref">2017</xref>). Recruitment following a masting event is commonly assessed as a percentage of seedlings that survive at a given point in time (for example, Frey et al., <xref rid="ece35861-bib-0021" ref-type="ref">2007</xref>; Green &#x00026; Newbery, <xref rid="ece35861-bib-0025" ref-type="ref">2002</xref>). Studies that assess several predictors&#x02014;both abiotic and biotic&#x02014;to explain what is driving survival of a masting species along a temporal axis are rare (but see Cleavitt et al., <xref rid="ece35861-bib-0012" ref-type="ref">2014</xref>; Norghauer &#x00026; Newbery, <xref rid="ece35861-bib-0042" ref-type="ref">2016</xref>; Oshima et al., <xref rid="ece35861-bib-0043" ref-type="ref">2015</xref>).</p><p>Our objective was to investigate the regeneration process, through the assessment of seed rain, SSB, and seedlings, of a species with masting behavior and to determine the drivers of regeneration. We used <italic>Acer campbellii</italic> subsp. <italic>sinense</italic> (Pax) P.C.DeJong, an endemic maple species in a subtropical forest in south China, as our model system. We evaluated the importance of the masting event in comparison with seeds that may be persistent in the SSB and advanced regeneration present on the forest floor as a remnant seedling cohort from previous regeneration events. We monitored seed rain and seedling recruitment for 2&#x000a0;years that included a masting event in 2017. We then followed seedling survival of the newly germinated cohort over a 1&#x02010;year period to assess which biotic or abiotic factors influence seedling population dynamics. We tested the following hypotheses:</p><p>
+<statement content-type="H" id="ece35861-mthst-0001"><label>H 1</label><p>After a masting event, once seeds have germinated, intrinsic biotic factors, for example, seedling height and number of developed leaves, act as key predictors of survival success and may be more important than extrinsic biotic factors, such as conspecific and heterospecific competition or herbivory.</p></statement>
+</p><p>
+<statement content-type="H" id="ece35861-mthst-0002"><label>H 2</label><p>Abiotic factors in the microsite position where seeds fall and germinate, measured as microhabitat topographical features of slope and aspect and canopy openness, can further determine their recruitment success.</p></statement>
+</p></sec><sec sec-type="materials-and-methods" id="ece35861-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35861-sec-0003"><label>2.1</label><title>Study area</title><p>This study was conducted in the subtropical forest of Cenwanglaoshan National Nature Reserve (24&#x000b0;21&#x02032; &#x02013; 24&#x000b0;32&#x02032;N, 106&#x000b0;15&#x02032; &#x02013; 106&#x000b0;27&#x02032;E), Guangxi Zhuang Autonomous Region, in south China. The reserve spans across a mountainous area of almost 300&#x000a0;km<sup>2</sup>, with elevation ranging from 400 to 2,062&#x000a0;m asl. The average annual rainfall ranges from 1,190&#x000a0;mm at lower elevations to 1,857&#x000a0;mm above 1,500&#x000a0;m asl. Average annual temperature varies from 20&#x000b0;C at low elevations to 14&#x000b0;C at high elevations. During our seedling survival assessment period (May 2018 &#x02013; May 2019), mean temperature (T) was 16.4&#x000b0;C (&#x02212;2.5 to 30.7&#x000b0;C), and total rainfall was 2,207&#x000a0;mm (HOBO U30 Weather Station, Onset Computer Corporation). The vegetation presents differences with increasing elevation, ranging from subtropical deciduous broad&#x02010;leaved forest at low elevations to subtropical evergreen forest in the midelevations and deciduous broad&#x02010;leaf mixed forests at the high elevations. However, most low elevation forest have been commercially exploited (BirdLife International, <xref rid="ece35861-bib-0008" ref-type="ref">2009</xref>). This study was conducted at elevations from 1,400&#x000a0;m up to 1,850&#x000a0;m&#x000a0;asl, in the deciduous broad&#x02010;leaf mixed forests. <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic> (Figure <xref rid="ece35861-fig-0001" ref-type="fig">1</xref>) is found at elevations between 500 and 2,500&#x000a0;m&#x000a0;asl in the deciduous broad&#x02010;leaf mixed forests (eFloras, <xref rid="ece35861-bib-0020" ref-type="ref">2008</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35861-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Study species, <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic> (a) samara and seed, (b) newly germinated seedling with samara still attached, (c) seedling with two cotyledons, and (d) seedlings with fully developed leaves</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14261-g001"/></fig></sec><sec id="ece35861-sec-0004"><label>2.2</label><title>Data collection</title><p>Our experimental design was implemented taking advantage of a series of 1&#x02010;ha permanent monitoring plots that have been recently established as part of a long&#x02010;term monitoring project on forest regeneration mechanisms in Guangxi Province. The 5&#x02010;ha plots studied here had 20,649 individuals above 1&#x000a0;cm&#x000a0;dbh, belonging to 310 tree species out of which 36 individuals were <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic>, with higher abundance in the lowest plot. We constructed 40 seed traps and 120 seedling quadrats, in five 1&#x02010;ha plots found at 1,400, 1,500, 1,550, 1,750, and 1,850&#x000a0;m&#x000a0;asl, following the standardized design employed by the Center for Tropical Forest Science seed rain and regeneration monitoring stations (Harms et al., <xref rid="ece35861-bib-0026" ref-type="ref">2000</xref>). Each seed trap, built using PVC frames and using a nylon net of 1&#x000a0;mm mesh size, and measuring 0.5&#x000a0;m<sup>2</sup>, was positioned approximately 0.7&#x000a0;m from the forest floor, and three seedling quadrats, measuring 1&#x000a0;m<sup>2</sup>, were set up secured to the forest floor, in three perpendicular directions and 2&#x000a0;m far from the seed trap (the seed trap and three seedling quadrat are referred to as census station). At each elevation, eight census stations were placed at the corner and in the middle of each side of the 1&#x02010;ha plot and 2&#x000a0;m away from the plot perimeter. Seed traps and seedling quadrats were monitored for a total of 18 censuses starting from May 2017 until May 2019, at 1&#x02010; to 2&#x02010;month census intervals. At each census, seed traps were emptied into labeled bags and transferred to the laboratory of Guangxi University. There, <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic> samaras were counted and separated into samaras with or without a full seed inside. In each seedling quadrat, all woody seedlings (shrubs and trees) of &#x0003c;50&#x000a0;cm height from soil surface were tagged and measured. Each seedling was scored as alive if it contained green leaves or buds and was identified using a tag containing a unique identification number, and seedling height was measured as the distance from soil surface to the top of the plant. At each census, height and leaf number assessments were continued and each new recruit was added to the census data scored as &#x0201c;1,&#x0201d; with dead individuals scored as &#x0201c;0.&#x0201d; Following species or morpho&#x02010;species identification, species&#x02019; seedling counts were used to calculate conspecific density, heterospecific density, and species richness at the 1&#x02010;m<sup>2</sup> level.</p><p>We calculated topographical data as slope and aspect at the seedling quadrat level using a clinometer and a compass, respectively. Above each seedling quadrat, we measured canopy openness using a spherical densitometer (Lemmon, <xref rid="ece35861-bib-0036" ref-type="ref">1956</xref>) two times, in January and August 2018.</p><p>In August 2018, at the fourth census, once the majority of seed germination from the masting event was completed, we measured herbivory damage by insects. This allowed us to test the effect of herbivores in already established individuals which survived the initial critical bottleneck. Leaf damage was visually estimated for all seedlings leaves following six, a priori defined percentage classes (0%, &#x0003c;5%, &#x0003c;25%, &#x0003c;50%, &#x0003c;75%, &#x02265;75%; Schuldt et al., <xref rid="ece35861-bib-0050" ref-type="ref">2015</xref>), accounting for a wide variety of damage types from different insect feeding guilds. This assessment may underestimate damage types that do not remove significant amounts of photosynthetic tissue (e.g., from leaf sap&#x02010;sucking insects such as aphids). Mean herbivory values per individual were calculated and used in the leaf level assessments. The herbivory assessment was conducted by a single observer (F. Martini), to exclude observer bias, and visual images were used to correlate observer values with actual percentage damage during the initial training period. In total, 466 leaves from 157 individuals were measured. A summary of explanatory variables is presented in Table <xref rid="ece35861-tbl-0001" ref-type="table">1</xref>.</p><table-wrap id="ece35861-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Predictor variables used in the generalized linear mixed model with mean values&#x000a0;&#x000b1;&#x000a0;standard error (<italic>SE</italic>) per 1&#x02010;ha plot. The data presented are calculated for the 1&#x02010;m<sup>2</sup> seedling quadrats that included the studied species only. Therefore, values come from 20 seedling quadrats in the 1&#x02010;ha plot at 1,550&#x000a0;m, 21 for the plot at 1,750&#x000a0;m, and 20 for the 1&#x02010;ha plot at 1,850&#x000a0;m. For canopy openness and slope, presented in the survival analysis, we show the mean values&#x000a0;&#x000b1;&#x000a0;<italic>SE</italic> of each category by 1&#x02010;ha plot. The seedlings sample size is presented in parenthesis for the seedling traits</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="left" valign="top" rowspan="1" colspan="1">1,550&#x000a0;m</th><th align="left" valign="top" rowspan="1" colspan="1">1,750&#x000a0;m</th><th align="left" valign="top" rowspan="1" colspan="1">1,850&#x000a0;m</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Canopy openness (%)</td><td align="char" char="." rowspan="1" colspan="1">14.53&#x000a0;&#x000b1;&#x000a0;0.61</td><td align="char" char="." rowspan="1" colspan="1">12.95&#x000a0;&#x000b1;&#x000a0;0.50</td><td align="char" char="." rowspan="1" colspan="1">13.84&#x000a0;&#x000b1;&#x000a0;0.59</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Small</td><td align="char" char="." rowspan="1" colspan="1">10.34&#x000a0;&#x000b1;&#x000a0;0.84</td><td align="char" char="." rowspan="1" colspan="1">10.60&#x000a0;&#x000b1;&#x000a0;0.46</td><td align="char" char="." rowspan="1" colspan="1">10.85&#x000a0;&#x000b1;&#x000a0;0.25</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Large</td><td align="char" char="." rowspan="1" colspan="1">14.99&#x000a0;&#x000b1;&#x000a0;0.58</td><td align="char" char="." rowspan="1" colspan="1">14.12&#x000a0;&#x000b1;&#x000a0;0.0.45</td><td align="char" char="." rowspan="1" colspan="1">15.45&#x000a0;&#x000b1;&#x000a0;0.46</td></tr><tr><td align="left" rowspan="1" colspan="1">Slope (&#x000b0;)</td><td align="char" char="." rowspan="1" colspan="1">33.91&#x000a0;&#x000b1;&#x000a0;1.82</td><td align="char" char="." rowspan="1" colspan="1">27.13&#x000a0;&#x000b1;&#x000a0;1.66</td><td align="char" char="." rowspan="1" colspan="1">24.24&#x000a0;&#x000b1;&#x000a0;2.52</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Flat</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="char" char="." rowspan="1" colspan="1">9</td><td align="char" char="." rowspan="1" colspan="1">4.27&#x000a0;&#x000b1;&#x000a0;1.47</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Medium</td><td align="char" char="." rowspan="1" colspan="1">15.2</td><td align="char" char="." rowspan="1" colspan="1">16.6</td><td align="char" char="." rowspan="1" colspan="1">14.47&#x000a0;&#x000b1;&#x000a0;2.18</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Steep</td><td align="char" char="." rowspan="1" colspan="1">29.5&#x000a0;&#x000b1;&#x000a0;0.94</td><td align="char" char="." rowspan="1" colspan="1">27.16&#x000a0;&#x000b1;&#x000a0;1.03</td><td align="char" char="." rowspan="1" colspan="1">29&#x000a0;&#x000b1;&#x000a0;1.30</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Ridge</td><td align="char" char="." rowspan="1" colspan="1">40.89&#x000a0;&#x000b1;&#x000a0;1.64</td><td align="char" char="." rowspan="1" colspan="1">41.20&#x000a0;&#x000b1;&#x000a0;3.60</td><td align="char" char="." rowspan="1" colspan="1">36.53&#x000a0;&#x000b1;&#x000a0;0.37</td></tr><tr><td align="left" rowspan="1" colspan="1">Northness (<italic>N</italic>&#x000a0;=&#x000a0;1)</td><td align="char" char="." rowspan="1" colspan="1">0.04&#x000a0;&#x000b1;&#x000a0;0.16</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.05&#x000a0;&#x000b1;&#x000a0;0.18</td><td align="char" char="." rowspan="1" colspan="1">0.32&#x000a0;&#x000b1;&#x000a0;0.16</td></tr><tr><td align="left" rowspan="1" colspan="1">Eastness (<italic>E</italic>&#x000a0;=&#x000a0;1)</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.40&#x000a0;&#x000b1;&#x000a0;0.13</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.29&#x000a0;&#x000b1;&#x000a0;0.11</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.28&#x000a0;&#x000b1;&#x000a0;0.16</td></tr><tr><td align="left" rowspan="1" colspan="1">Seedling conspecific density (<italic>n</italic>/m<sup>2</sup>)</td><td align="char" char="." rowspan="1" colspan="1">10.80&#x000a0;&#x000b1;&#x000a0;2.31</td><td align="char" char="." rowspan="1" colspan="1">6.71&#x000a0;&#x000b1;&#x000a0;1.14</td><td align="char" char="." rowspan="1" colspan="1">17.80&#x000a0;&#x000b1;&#x000a0;3.6</td></tr><tr><td align="left" rowspan="1" colspan="1">Seedling heterospecific density (<italic>n</italic>/m<sup>2</sup>)</td><td align="char" char="." rowspan="1" colspan="1">13.5&#x000a0;&#x000b1;&#x000a0;6.49</td><td align="char" char="." rowspan="1" colspan="1">9.33&#x000a0;&#x000b1;&#x000a0;4.59</td><td align="char" char="." rowspan="1" colspan="1">2.85&#x000a0;&#x000b1;&#x000a0;0.58</td></tr><tr><td align="left" rowspan="1" colspan="1">Species richness (<italic>n</italic>/m<sup>2</sup>)</td><td align="char" char="." rowspan="1" colspan="1">1.85&#x000a0;&#x000b1;&#x000a0;0.21</td><td align="char" char="." rowspan="1" colspan="1">3.10&#x000a0;&#x000b1;&#x000a0;0.34</td><td align="char" char="." rowspan="1" colspan="1">1.75&#x000a0;&#x000b1;&#x000a0;0.32</td></tr><tr><td align="left" rowspan="1" colspan="1">Seedling height (cm)</td><td align="char" char="." rowspan="1" colspan="1">6.74&#x000a0;&#x000b1;&#x000a0;0.11 (212)</td><td align="char" char="." rowspan="1" colspan="1">5.75&#x000a0;&#x000b1;&#x000a0;0.12 (128)</td><td align="char" char="." rowspan="1" colspan="1">5.98&#x000a0;&#x000b1;&#x000a0;0.09 (348)</td></tr><tr><td align="left" rowspan="1" colspan="1">Seedling leaf (<italic>n</italic>)</td><td align="char" char="." rowspan="1" colspan="1">3.01&#x000a0;&#x000b1;&#x000a0;0.09 (212)</td><td align="char" char="." rowspan="1" colspan="1">3.48&#x000a0;&#x000b1;&#x000a0;0.10 (128)</td><td align="char" char="." rowspan="1" colspan="1">3.34&#x000a0;&#x000b1;&#x000a0;0.06 (348)</td></tr><tr><td align="left" rowspan="1" colspan="1">Herbivory (%)</td><td align="char" char="." rowspan="1" colspan="1">17.7&#x000a0;&#x000b1;&#x000a0;2.28 (48)</td><td align="char" char="." rowspan="1" colspan="1">14.41&#x000a0;&#x000b1;&#x000a0;1.49 (40)</td><td align="char" char="." rowspan="1" colspan="1">23.61&#x000a0;&#x000b1;&#x000a0;2.17 (76)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>For the analysis of persistence of seeds in the SSB following the masting event, we collected soil samples in October 2017, May 2018, and November 2018 from the four corners surrounding each seedling quadrat. Soil cores were obtained using a 10&#x02010;cm depth soil probe with a 5&#x000a0;cm diameter. Each sample was individually tagged and collected in sealed plastic bag and transported to Guangxi University where they were sieved with a 2&#x02010;mm mesh sieve to remove stones, twigs, or roots and then spread in 10&#x000a0;&#x000d7;&#x000a0;15&#x000a0;&#x000d7;&#x000a0;5&#x000a0;cm plastic trays filled with sterilized potting soil and gross sand (Ter Heerdt, Verweij, Bekker, &#x00026; Bakker, <xref rid="ece35861-bib-0052" ref-type="ref">1996</xref>). The samples were allowed to germinate in greenhouse shelves and watered regularly. Seedling emergence was scored for 5&#x000a0;months at weekly intervals for the first month and biweekly for the following 4&#x000a0;months. Then, the soil samples were dried for a few days, remixed, and watered and assessed for germination for another month (Ter Heerdt et al., <xref rid="ece35861-bib-0052" ref-type="ref">1996</xref>). At the end, the soil was searched again for any remaining seeds to complete germination assessment, before samples were discarded.</p></sec><sec id="ece35861-sec-0005"><label>2.3</label><title>Statistical analyses</title><p>All statistical analyses were conducted in R (version 3.6.1, R Core T, <xref rid="ece35861-bib-0047" ref-type="ref">2019</xref>). We used generalized linear mixed models (GLMM) with a binomial distribution and a log&#x02010;link function to assess the relative importance of biotic versus abiotic factors on seedling survival using the <italic>lme4</italic> R package (Bates et al., <xref rid="ece35861-bib-0006" ref-type="ref">2019</xref>). Seedling survival was modeled as a binary response variable (1&#x000a0;=&#x000a0;survived, 0&#x000a0;=&#x000a0;dead) using initial seedling height, initial leaf number, conspecific density, heterospecific density, species richness, canopy openness, slope, and aspect as predictors. All predictors were used as continuous variables in the GLMM. Aspect was transformed to eastness and northness following Schwarz, Fahey, and McCulloch (<xref rid="ece35861-bib-0051" ref-type="ref">2003</xref>), with sin(aspect), bounded between 1 for due east to &#x02013;1 for due west, as a measure of eastness, and cos(aspect), bounded between 1 for due north to &#x02013;1 for due south, as a measure of northness. All predictors were centered and scaled prior to data analysis. We used data only from the seedlings germinated in May 2018 following the masting event, and we further restricted the analysis on three of the five one&#x02010;hectare plots (1,550, 1,750, and 1,850&#x000a0;m&#x000a0;asl, which contained 688 seedlings from 61 quadrats) because the two lowest plots presented only six (at 1,400&#x000a0;m) and four (at 1,500&#x000a0;m) <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic> individuals, respectively. We used Moran's I test to assess the presence of spatial autocorrelation, and given the low <italic>p</italic>&#x02010;value, we accounted for it using a seedling quadrat as random factor in the models. We first used a random intercept model with seedling quadrat nested into census station, following Chen et al. (<xref rid="ece35861-bib-0010" ref-type="ref">2010</xref>). However, to remove singularity and convergence issues we finally kept only seedling quadrat as a random factor, which also provided a better model fit. We did not include 1&#x02010;ha plot as a random factor as we only had three &#x0201c;blocks&#x0201d; in the model, and it has been suggested a minimum of five levels to accurately estimate the variance among blocks (Harrison, <xref rid="ece35861-bib-0027" ref-type="ref">2015</xref>). The <italic>p</italic>&#x02010;values of the Moran's I test after the addition of the random factor were higher indicating that the model now correctly accounted for the hierarchical experimental design and assured spatial independence. We modeled survival for the full year period (Model A). Then, because herbivory was measured once seedlings were established, we included herbivory as an explanatory variable together with all other factors for modeling seedling survival using census data from the fourth census in August 2018, when herbivory was measured, to the last measured census in May 2019 (Model B).</p><p>For both models, we followed a model selection approach using the Akaike's information criterion (AIC) to retain the best&#x02010;fit model. To confirm our selection and to test the effects of our explanatory variables, we used the model averaging method (Burnham &#x00026; Anderson, <xref rid="ece35861-bib-0009" ref-type="ref">2002</xref>) with the R package <italic>MuMIn</italic> (Barton, <xref rid="ece35861-bib-0005" ref-type="ref">2019</xref>). The global model, with all explanatory variables and all possible combinations of variables were set as candidates for model selection. Coefficients that had 95% confidence intervals that do not include zero were considered as representing strong relationships. We retained the more conservative model within &#x00394;AIC values &#x0003c;2 that included variables having &#x0003e;0.8 model&#x02010;averaged importance of terms. However, models within two AIC units of the minimum may also be considered to show strong support.</p><p>Seedling survival probability was analyzed using the R package <italic>survival</italic> (Therneau, <xref rid="ece35861-bib-0054" ref-type="ref">2019</xref>), using the nonparametric Kaplan&#x02013;Meier method, for the full year period. For this analysis, we transformed the assessed environmental predictors&#x02014;canopy openness and slope&#x02014;into categorical variables. We divided slope as flat (&#x0003c;10&#x000b0;), medium (10&#x02013;19&#x000b0;), steep (20&#x02013;35&#x000b0;), and ridge (&#x02265;35&#x000b0;), and we classified canopy openness into two groups as small gaps (&#x0003c;12%) and larger gaps (&#x02265;12%). We decided on this threshold because we considered it to be a meaningful separation between more close and open gaps, and because it allowed us to have a more balanced sample size for each gap class.</p><p>Figures were produced through the packages <italic>ggplot2</italic> (Wickham, <xref rid="ece35861-bib-0058" ref-type="ref">2009</xref>) and <italic>survminer</italic> (Kassambara &#x00026; Kosinski, <xref rid="ece35861-bib-0032" ref-type="ref">2018</xref>).</p></sec></sec><sec sec-type="results" id="ece35861-sec-0006"><label>3</label><title>RESULTS</title><p>During the monitoring period, we found 5,820 seeds from 97 morpho&#x02010;species that emerged in the SSB assessment, but we did not find any seeds of <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic>. The number of seedlings detected in the seedling quadrats prior to the masting event remained very low with only six individual seedlings recorded in all 120 quadrats during the first year prior to seedling emergence from masting. Five of the six survived until the end of the experiment. During the mast seeding, 31 out of 40 seed traps contained a total of 1,612 <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic> seeds (mean 9.54, range 1&#x02013;74, per seed trap per sampling time; 79.65% of the samaras contained a fully developed seed, while 20.35% were classified as undeveloped), with the highest number of seeds collected in October and November 2017 (Figure <xref rid="ece35861-fig-0002" ref-type="fig">2</xref>). The peak in seed dispersal was followed by a unimodal seedling emergence peak in May 2018 with a total of 698 <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic> individual seedlings recorded as new recruits following the masting event (Figure <xref rid="ece35861-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35861-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Seed rain and seedling density (n/m<sup>2</sup>) recorded at each census during the study period (May 2017 &#x02013; May 2019). Seed line shows the <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic> seeds (&#x0201c;developed&#x0201d;) collected at each field visit, while the seedling line represents all individual seedlings from all five, 1&#x02010;ha plots. Therefore, the seedlings in 1&#x000a0;month can include the same individuals in another month. Points represent censused months. Results are shown for each of the 1&#x02010;ha plots</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14261-g002"/></fig><p>After June 2018, only four new seedlings were recorded, one of them during the last census (May 2019). For the analyzed seedling cohort, mortality was higher in the first 6&#x000a0;months with 83.4% of the newly recruited seedlings not surviving, and at the end of the first year, mortality of seedlings increased to 92.7% (Figure <xref rid="ece35861-fig-0003" ref-type="fig">3</xref>). The highest mortality occurred during the first month after the peak germination (43%, May&#x02013;June 2018).</p><fig fig-type="Figure" xml:lang="en" id="ece35861-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Seedling survival of <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic> seedlings from May 2018 to May 2019 in Cenwanglaoshan Nature Reserve, for the three one&#x02010;hectare plots separately and combined. Points represent censused months</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14261-g003"/></fig><p>The most parsimonious models that we selected using the model selection were consistent to the models selected using the model averaging method (model&#x02010;averaged results are reported in Tables <xref rid="ece35861-sup-0001" ref-type="supplementary-material">S1&#x02013;S4</xref>). We found evidence to support <xref rid="ece35861-mthst-0001" ref-type="statement">H1</xref> in our full year analysis, in that the intrinsic biotic factors were more strongly associated with seedling survival compared with the extrinsic biotic factors evaluated here (AIC&#x000a0;=&#x000a0;311.2; Tables <xref rid="ece35861-tbl-0002" ref-type="table">2</xref> and <xref rid="ece35861-tbl-0003" ref-type="table">3</xref>; model A). Seedling height and number of leaves were included in the final model for the first year (<italic>n</italic>&#x000a0;=&#x000a0;688), while neither conspecific density nor heterospecific density or species richness were supported in the final model (Tables <xref rid="ece35861-tbl-0002" ref-type="table">2</xref> and <xref rid="ece35861-tbl-0003" ref-type="table">3</xref>, model A). Initial seedling height was the most important factor, with taller individuals having higher survival (&#x003b2;&#x000a0;=&#x000a0;0.64&#x000a0;&#x000b1;&#x000a0;0.19, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001). The number of leaves also affected survival positively (&#x003b2;&#x000a0;=&#x000a0;0.51&#x000a0;&#x000b1;&#x000a0;0.19, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01). Among abiotic predictors, only cos(aspect), which represents northness, was moderately supported and presented a negative slope in the best model containing it (<xref rid="ece35861-mthst-0002" ref-type="statement">H2</xref>; &#x003b2;&#x000a0;=&#x000a0;&#x02212;0.54&#x000a0;&#x000b1;&#x000a0;0.31, <italic>p</italic>&#x000a0;=&#x000a0;.08).</p><table-wrap id="ece35861-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Model selection approach for generalized linear mixed model with binomial distribution for seedling survival. Response variable: seedling survival (Surv). Predictors: heterospecific density (HD), seedling initial height (Height<italic><sub>i</sub></italic>), seedling height at the time herbivory was measured (Height<italic><sub>h</sub></italic>), species richness (S), conspecific density (CD), canopy openness (CO), slope (Sl), aspect (Asp), seedling initial leaf number (L<italic><sub>i</sub></italic>), seedling leaf number at the time herbivory was measured (L<italic><sub>h</sub></italic>), and herbivory (Herb). Seedling quadrat was used as random factor. All predictors were centered and scaled before analysis. The most parsimonious model within a &#x00394;AIC &#x0003c;2 selected is presented in bold font</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Models evaluated for selection</th><th align="left" valign="top" rowspan="1" colspan="1">AIC</th></tr></thead><tbody><tr><td align="left" colspan="2" rowspan="1">Model (A) Full year model selection (<italic>N</italic>&#x000a0;=&#x000a0;688)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;HD&#x000a0;+&#x000a0;Height<italic><sub>i</sub></italic>&#x000a0;+&#x000a0;S&#x000a0;+&#x000a0;CD&#x000a0;+&#x000a0;CO&#x000a0;+&#x000a0;Sl&#x000a0;+&#x000a0;sin(Asp)&#x000a0;+&#x000a0;cos(Asp)&#x000a0;+&#x000a0;L<italic><sub>i</sub></italic>
+</td><td align="char" char="." rowspan="1" colspan="1">316.3</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;HD&#x000a0;+&#x000a0;Height<italic><sub>i</sub></italic>&#x000a0;+&#x000a0;S&#x000a0;+&#x000a0;CD&#x000a0;+&#x000a0;Sl&#x000a0;+&#x000a0;sin(Asp)&#x000a0;+&#x000a0;cos(Asp)&#x000a0;+&#x000a0;L<italic><sub>i</sub></italic>
+</td><td align="char" char="." rowspan="1" colspan="1">314.5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;HD&#x000a0;+&#x000a0;Height<italic><sub>i</sub></italic>&#x000a0;+&#x000a0;S&#x000a0;+&#x000a0;CD&#x000a0;+&#x000a0;Sl&#x000a0;+&#x000a0;cos(Asp)&#x000a0;+&#x000a0;L<italic><sub>i</sub></italic>
+</td><td align="char" char="." rowspan="1" colspan="1">312.9</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>i</sub></italic>&#x000a0;+&#x000a0;S&#x000a0;+&#x000a0;CD&#x000a0;+&#x000a0;Sl&#x000a0;+&#x000a0;cos(Asp)&#x000a0;+&#x000a0;L<italic><sub>i</sub></italic>
+</td><td align="char" char="." rowspan="1" colspan="1">311.6</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>i</sub></italic>&#x000a0;+&#x000a0;S&#x000a0;+&#x000a0;Sl&#x000a0;+&#x000a0;cos(Asp)&#x000a0;+&#x000a0;L<bold><italic><sub>i</sub></italic></bold>
+</td><td align="char" char="." rowspan="1" colspan="1">311.4</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>i</sub></italic>&#x000a0;+&#x000a0;Sl&#x000a0;+&#x000a0;cos(Asp)&#x000a0;+&#x000a0;L<italic><sub>i</sub></italic>
+</td><td align="char" char="." rowspan="1" colspan="1">310.8</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>i</sub></italic>&#x000a0;+&#x000a0;cos(Asp)&#x000a0;+&#x000a0;L<italic><sub>i</sub></italic>
+</td><td align="char" char="." rowspan="1" colspan="1">310.1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold>Surv&#x000a0;~&#x000a0;Height<italic><sub>i</sub></italic>&#x000a0;+&#x000a0;L<italic><sub>i</sub></italic></bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>311.2</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>i</sub></italic>
+</td><td align="char" char="." rowspan="1" colspan="1">316.9</td></tr><tr><td align="left" colspan="2" rowspan="1">Model (B) With herbivory: August 2018 &#x02013; May 2019 (<italic>N</italic>&#x000a0;=&#x000a0;157)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;HD&#x000a0;+&#x000a0;Height<italic><sub>h</sub></italic>&#x000a0;+&#x000a0;S&#x000a0;+&#x000a0;CD&#x000a0;+&#x000a0;CO +Sl&#x000a0;+&#x000a0;cos(Asp)&#x000a0;+&#x000a0;sin(Asp)&#x000a0;+&#x000a0;L<italic><sub>h</sub></italic>&#x000a0;+&#x000a0;Herb</td><td align="char" char="." rowspan="1" colspan="1">183.4</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>h</sub></italic>&#x000a0;+&#x000a0;S&#x000a0;+&#x000a0;CD&#x000a0;+&#x000a0;CO&#x000a0;+&#x000a0;Sl&#x000a0;+&#x000a0;cos(Asp)&#x000a0;+&#x000a0;sin(Asp)&#x000a0;+&#x000a0;L<italic><sub>h</sub></italic>&#x000a0;+&#x000a0;Herb</td><td align="char" char="." rowspan="1" colspan="1">181.4</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>h</sub></italic>&#x000a0;+&#x000a0;S&#x000a0;+&#x000a0;CD&#x000a0;+&#x000a0;CO&#x000a0;+&#x000a0;Sl&#x000a0;+&#x000a0;cos(Asp)&#x000a0;+&#x000a0;sin(Asp)&#x000a0;+&#x000a0;Herb</td><td align="char" char="." rowspan="1" colspan="1">179.6</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>h</sub></italic>&#x000a0;+&#x000a0;S&#x000a0;+&#x000a0;CD&#x000a0;+&#x000a0;CO&#x000a0;+&#x000a0;Sl&#x000a0;+&#x000a0;cos(Asp)&#x000a0;+&#x000a0;sin(Asp)</td><td align="char" char="." rowspan="1" colspan="1">178.0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>h</sub></italic>&#x000a0;+&#x000a0;S&#x000a0;+&#x000a0;CD&#x000a0;+&#x000a0;CO&#x000a0;+&#x000a0;Sl&#x000a0;+&#x000a0;cos(Asp)</td><td align="char" char="." rowspan="1" colspan="1">176.5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>h</sub></italic>&#x000a0;+&#x000a0;S&#x000a0;+&#x000a0;CD&#x000a0;+&#x000a0;Sl&#x000a0;+&#x000a0;cos(Asp)</td><td align="char" char="." rowspan="1" colspan="1">175.0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>h</sub></italic>&#x000a0;+&#x000a0;S&#x000a0;+&#x000a0;Sl&#x000a0;+&#x000a0;cos(Asp)</td><td align="char" char="." rowspan="1" colspan="1">175.3</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>h</sub></italic>&#x000a0;+&#x000a0;Sl&#x000a0;+&#x000a0;cos(Asp)</td><td align="char" char="." rowspan="1" colspan="1">174.1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold>Surv&#x000a0;~&#x000a0;Height<italic><sub>h</sub></italic>&#x000a0;+&#x000a0;cos(Asp)</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>174.6</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>h</sub></italic>
+</td><td align="char" char="." rowspan="1" colspan="1">177.3</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="ece35861-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Coefficients of the best&#x02010;fit generalized linear mixed model explaining seedling survival from (A) the full analyzed year, from May 2018 to May 2019 and (B) August 2018 to May 2019, including herbivory. Response variable: seedling survival (Surv). Predictors: seedling initial height (Height<italic><sub>i</sub></italic>), seedling height at the time herbivory was measured (Height<italic><sub>h</sub></italic>), aspect (Asp), and seedling initial leaf number (L<italic><sub>i</sub></italic>)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Time interval</th><th align="left" valign="top" rowspan="1" colspan="1">Model</th><th align="left" valign="top" rowspan="1" colspan="1">Estimate</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>SE</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>z</italic>&#x02010;value</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>p</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Model (A) Full year</td><td align="left" colspan="5" rowspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>i</sub></italic>&#x000a0;+&#x000a0;L<italic><sub>i</sub></italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">Intercept</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;3.7922</td><td align="char" char="." rowspan="1" colspan="1">0.5051</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;7.507</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">Height<italic><sub>i</sub></italic>
+</td><td align="char" char="." rowspan="1" colspan="1">0.6373</td><td align="char" char="." rowspan="1" colspan="1">0.1950</td><td align="char" char="." rowspan="1" colspan="1">3.268</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">L<italic><sub>i</sub></italic>
+</td><td align="char" char="." rowspan="1" colspan="1">0.5086</td><td align="char" char="." rowspan="1" colspan="1">0.1863</td><td align="char" char="." rowspan="1" colspan="1">2.731</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.006</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Model (B) Herbivory</td><td align="left" colspan="5" rowspan="1">Surv&#x000a0;~&#x000a0;Height<italic><sub>h</sub></italic>&#x000a0;+&#x000a0;cos(Asp)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">Intercept</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;1.4970</td><td align="char" char="." rowspan="1" colspan="1">0.4263</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;3.512</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">Height<italic><sub>h</sub></italic>
+</td><td align="char" char="." rowspan="1" colspan="1">0.7262</td><td align="char" char="." rowspan="1" colspan="1">0.2607</td><td align="char" char="." rowspan="1" colspan="1">2.786</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.005</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">cos(Asp)</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.7335</td><td align="char" char="." rowspan="1" colspan="1">0.3640</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;2.015</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.04</bold>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>In our model including herbivory as an explanatory variable with all other measured variables, seedling height at the time herbivory was measured and cos(aspect) had the strongest support to determine seedling survival (AIC&#x000a0;=&#x000a0;174.6; Tables <xref rid="ece35861-tbl-0002" ref-type="table">2</xref> and <xref rid="ece35861-tbl-0003" ref-type="table">3</xref>; model B). Height and aspect effects (&#x003b2;&#x000a0;=&#x000a0;0.73&#x000a0;&#x000b1;&#x000a0;0.26, <italic>p</italic>&#x000a0;=&#x000a0;.005 and &#x003b2;&#x000a0;=&#x000a0;&#x02212;0.73&#x000a0;&#x000b1;&#x000a0;0.36, <italic>p</italic>&#x000a0;=&#x000a0;.04, respectively) were similar to the full year model results. In addition, slope showed some modest positive influence in the best model containing it (&#x003b2;&#x000a0;=&#x000a0;0.50&#x000a0;&#x000b1;&#x000a0;0.32, <italic>p</italic>&#x000a0;=&#x000a0;.12), meaning higher survival in steeper sites.</p><p>Although slope and canopy openness did not get selected in the best&#x02010;fit model for the full year analysis, our survival analysis using the Kaplan&#x02013;Maier method for the full year data showed clear patterns. Survival probability differed across slope values (<italic>p</italic>&#x000a0;=&#x000a0;.018; Figure <xref rid="ece35861-fig-0004" ref-type="fig">4</xref>a), with increasing probability of survival in steeper slopes. Seedlings emerging in more open areas, as measured by canopy openness, had greater survival probability compared with smaller gaps (<italic>p</italic>&#x000a0;=&#x000a0;.0014; Figure <xref rid="ece35861-fig-0004" ref-type="fig">4</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="ece35861-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Seedling survival probabilities for <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic> seedlings in different conditions of (a) slope and (b) canopy openness. The survival functions were calculated using the nonparametric Kaplan&#x02013;Meier method. Note that the graph lines end when the survival probability does not change for a future census event</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-14261-g004"/></fig></sec><sec sec-type="discussion" id="ece35861-sec-0007"><label>4</label><title>DISCUSSION</title><p>Our study provides comprehensive information on the regeneration ecology of a masting species, assessing advanced regeneration from previous recruitment events, the persistence in the SSB and seedling survival success following a mast seeding event. Most of the seeds fell in a time span of two months, and almost no seeds were produced the following year, indicating an asynchronous reproduction for <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic>. Given that we did not find any seeds in the SSB before or after masting event, this could indicate that this species does not have the potential to persist in time (Saatkamp, Poschlod, &#x00026; Venable, <xref rid="ece35861-bib-0049" ref-type="ref">2014</xref>), therefore having limited possibilities of regeneration outside of the limited masting time and subsequent seedling emergence. Although SSB has been evaluated in several studies, very rarely has it been specifically investigated in species with masting reproduction (but see Du, Guo, Gao, &#x00026; Ma, <xref rid="ece35861-bib-0019" ref-type="ref">2007</xref>). Only 7.3% of the seedlings that emerged after the masting event survived after 1&#x000a0;year, a much lower number compared to other studies that reported on seedling survival following a masting event. For example, survival of <italic>A.&#x000a0;saccharum</italic> has been reported to be as high as 87% in one study (Gardescu, <xref rid="ece35861-bib-0023" ref-type="ref">2003</xref>), while it was 30% in another (Cleavitt et al., <xref rid="ece35861-bib-0012" ref-type="ref">2014</xref>). In one of the few investigations on masting across temporal scales conducted in Asia, Oshima et al. (<xref rid="ece35861-bib-0043" ref-type="ref">2015</xref>) observed seedling survival of 12 dipterocarp species, 1.5&#x000a0;years after mast fruiting in Borneo, to be between 12% and 60%. Similar to other reported studies (Frey et al., <xref rid="ece35861-bib-0021" ref-type="ref">2007</xref>; Oshima et al., <xref rid="ece35861-bib-0043" ref-type="ref">2015</xref>), we also found that seedling mortality was higher during the first few months following masting. This high mortality may be also driven by variables that were not measured in our study. For instance, fungi or other pathogens are known to play a significant role in seedling mortality (Fricke et al., <xref rid="ece35861-bib-0022" ref-type="ref">2014</xref>), but this was not assessed in this study. We recorded some damage on the seedling leaves that was not caused by insects (personal observation), but we did not measure it and was minor compared to damage from insect herbivory. Leaf damage by insects, even though it was not retained in the best&#x02010;fit models, was high (19.68%&#x000a0;&#x000b1;&#x000a0;1.31 <italic>SE</italic>) compared to other studies. For example, Schuldt et al. (<xref rid="ece35861-bib-0050" ref-type="ref">2015</xref>) recorded a maximum of 17.8% damage in the most attacked trees of their species pool. Alternatively, the high mortality, which was likely consistent also with the previous masting event (only six individuals were found at the beginning of the experiment), might be due to an inherent maternal effect (Roach &#x00026; Wulff, <xref rid="ece35861-bib-0048" ref-type="ref">1987</xref>), with adult trees consistently producing abundant, yet &#x0201c;weak,&#x0201d; seeds.</p><p>Our results supported <xref rid="ece35861-mthst-0001" ref-type="statement">H1</xref>, because intrinsic biotic factors, that is, seedling initial height and leaf number, explained seedling survival while the extrinsic factors, competition and predator pressure, did not find support when added to our global model. Initial height has been reported in previous studies as an important variable influencing seedling survival, both in species that undergo mast seeding/fruiting (Cleavitt et al., <xref rid="ece35861-bib-0012" ref-type="ref">2014</xref>; Oshima et al., <xref rid="ece35861-bib-0043" ref-type="ref">2015</xref>) and in species with other regeneration strategies (Comita et al., <xref rid="ece35861-bib-0015" ref-type="ref">2009</xref>; Lin et al., <xref rid="ece35861-bib-0037" ref-type="ref">2017</xref>; Pu, Zhu, &#x00026; Jin, <xref rid="ece35861-bib-0045" ref-type="ref">2017</xref>). Initial number of leaves was an important factor in our best supported models for the full year period. Notably, while many studies reported seedling height as a relevant driver of seedling survival (Cleavitt et al., <xref rid="ece35861-bib-0012" ref-type="ref">2014</xref>; Lin et al., <xref rid="ece35861-bib-0037" ref-type="ref">2017</xref>), the effect of leaf number has been rarely tested on seedling survival. In our study, the two variables were not correlated (<italic>r</italic>&#x000a0;=&#x000a0;.08), which favors the idea of considering these factors separately. Because of the synchronous germination and the variability found in seed developmental stage of the seed rain assessment observed in our study, we assume that initial height and leaf production might be mainly explained by seed characteristics such as seed mass (Khan, <xref rid="ece35861-bib-0034" ref-type="ref">2004</xref>) or seed maturity. Indeed, seedling initial height and leaf number are considered as proxies of seedling vigor, derived from seed size and nutrition (Baraloto, Forget, &#x00026; Goldberg, <xref rid="ece35861-bib-0004" ref-type="ref">2005</xref>). Yet, we lack experimental data to support this hypothesis, and we hope that future studies may further investigate this relationship.</p><p>Among biotic factors assessed in our study, neither conspecific density nor heterospecific density significantly affected masting seedling survival. The idea that greater conspecific density will result in greater mortality has received wide support in several ecosystems around the globe (Comita et al., <xref rid="ece35861-bib-0014" ref-type="ref">2014</xref>), and for some masting species (Oshima et al., <xref rid="ece35861-bib-0043" ref-type="ref">2015</xref>), though not in others (Gardescu, <xref rid="ece35861-bib-0023" ref-type="ref">2003</xref>; Norghauer &#x00026; Newbery, <xref rid="ece35861-bib-0042" ref-type="ref">2016</xref>; Oshima et al., <xref rid="ece35861-bib-0043" ref-type="ref">2015</xref>). This may indicate that conspecific density only has a weak effect on determining seedling recruitment of a masting species. Similarly, heterospecific seedling density has also been reported to play an important role in tree seedling survival in some species (Bai et al., <xref rid="ece35861-bib-0003" ref-type="ref">2012</xref>), but its effect was not found to be ubiquitous (Johnson, Condit, Hubbell, Comita, &#x00026; Johnson, <xref rid="ece35861-bib-0031" ref-type="ref">2017</xref>) and was not supported in our study.</p><p>Leaf damage by herbivores and pathogens has been described as a key driver of seedling survival in nonmasting species (Moles &#x00026; Westoby, <xref rid="ece35861-bib-0041" ref-type="ref">2004</xref>; Terborgh, <xref rid="ece35861-bib-0053" ref-type="ref">2012</xref>). In our study, insect herbivory, measured on seedlings that had already survived the most significant regeneration bottleneck, did not show an effect on seedling survival. Nonetheless, we cannot exclude it as an important driver during the first months after germination because in every seedling we measured we found herbivore damage from at least one type of insect feeding guild.</p><p>The second most important factor having a relevant role on survival, aspect, was retained in both best&#x02010;fit models, confirming our hypothesis on the importance of local abiotic predictors in determining seedling survival (<xref rid="ece35861-mthst-0002" ref-type="statement">H2</xref>). Compared to other abiotic variables, aspect has not received much attention. Nonetheless, it has been shown to influence plant association (Badano et al., <xref rid="ece35861-bib-0002" ref-type="ref">2005</xref>; Warren, <xref rid="ece35861-bib-0057" ref-type="ref">2008</xref>), though not adult tree mortality (Wu et al., <xref rid="ece35861-bib-0059" ref-type="ref">2017</xref>) or survival (Wang et al., <xref rid="ece35861-bib-0056" ref-type="ref">2012</xref>). A weak effect of aspect was also detected affecting seedling survival in the masting sugar maple by Cleavitt et al. (<xref rid="ece35861-bib-0012" ref-type="ref">2014</xref>), but the effect was stronger in our case. Slope and canopy openness were not retained in the full year model, while slope was included in the model including herbivory. Slope has been shown to affect the survival of five masting species in North America (Frey et al., <xref rid="ece35861-bib-0021" ref-type="ref">2007</xref>) but did not have clear effects on seedling survival in karst forest species in Taiwan (Lin et al., <xref rid="ece35861-bib-0037" ref-type="ref">2017</xref>). Light, here measured as canopy openness, was not included in our best&#x02010;fit models, contrary to our expectation as well as several other studies of seedling survival (Goodale, Berlyn, Gregoire, Tennakoon, &#x00026; Ashton, <xref rid="ece35861-bib-0024" ref-type="ref">2014</xref>; Kobe &#x00026; Vriesendorp, <xref rid="ece35861-bib-0035" ref-type="ref">2011</xref>), including in seedlings germinating after mast seeding episodes (Cleavitt et al., <xref rid="ece35861-bib-0013" ref-type="ref">2008</xref>).</p><p>Even though slope and canopy openness were not supported as predictors of seedling survival, further investigation of different levels of these two categorical variables provided some interesting insights. Survival probability was higher in steeper seedling quadrats compared with flatter ones. This result may indicate that <italic>A.&#x000a0;campbellii</italic> subsp. <italic>sinense</italic> grows preferentially in ridges and steep areas. This effect is similar to what was found at the community level in a deciduous subtropical forest in China (Jin, Russo, &#x00026; Yu, <xref rid="ece35861-bib-0029" ref-type="ref">2018</xref>), but differ from what was described for two maple species&#x02014;<italic>A.&#x000a0;saccharum</italic> Marsh. and <italic>A.&#x000a0;rubrum</italic> L.&#x02014;in Frey et al. (<xref rid="ece35861-bib-0021" ref-type="ref">2007</xref>), which presented higher survival in flatter locations. There were also clear differences between smaller and larger canopy gaps, with higher probability of survival in areas with more open canopies (Lu et al., <xref rid="ece35861-bib-0038" ref-type="ref">2018</xref>). This result gives some indication that canopy openness actually plays an important role in the survival, but it is not as influential as other factors. Still, because we did not target specific locations based on openness, additional studies with a stronger focus on this variable may provide a more in depth understanding of how light availability may affect a masting species&#x02019; survival.</p></sec><sec sec-type="conclusions" id="ece35861-sec-0008"><label>5</label><title>CONCLUSION</title><p>Our study demonstrates that intrinsic biotic factors play a greater role in determining the fate of seedlings in a masting species compared with extrinsic biotic factors or abiotic factors. Given that this species seeds were not seen to persist in the soil seed bank and only a few number of seedlings across the landscape as advanced regeneration, and because it registered high seedling mortality after 1&#x000a0;year, the masting event and the factors that operate on seedling survival have a profound effect on the species&#x02019; distribution.</p></sec><sec sec-type="COI-statement" id="ece35861-sec-0010"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35861-sec-0011"><title>AUTHOR CONTRIBUTIONS</title><p>FM and UMG designed the study. FM and CZ collected the data. FM and UMG performed data analyses. FM wrote the first draft of the manuscript, and all authors contributed to revisions.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35861-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14261-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35861-sec-0009"><title>AKNOWLEDGMENTS</title><p>We thank Jiaolong Yan and several other students for assistance in the field, and Huiping Chen for help with the seed work. We are also grateful to the Department of Forestry of Guangxi Zhuang Autonomous Region and to the Head Quarters of Cenwanglaoshan National Nature Reserve for giving permissions to access the site. We acknowledge the Guilin Institute of Botany and Lei Wang for helping with species identification, and Christos Mammides for statistical advice. We finally thank the associate editor and three anonymous reviewers for their valuable comments. This work was supported by National Natural Science Foundation of China (31660125) and Guangxi Overseas High&#x02010;level Talent &#x0201c;Hundred People Program&#x0201d; to U.M.G.; Guangxi Science and Technology Program (Guike AB16380254) and Bagui Scholarship (C33600992001) to Kunfang Cao , Forestry College Guangxi University.</p></ack><sec sec-type="data-availability" id="ece35861-sec-0013"><title>DATA AVAILABILITY STATEMENT</title><p>Data used for the analyses of this study are available in Dryad Digital Repository: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.r7sqv9s7n" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.r7sqv9s7n</ext-link>.</p></sec><ref-list content-type="cited-references" id="ece35861-bibl-0001"><title>REFERENCES</title><ref id="ece35861-bib-0001"><mixed-citation publication-type="journal" id="ece35861-cit-0001">
+<string-name>
+<surname>Abrams</surname>, <given-names>M. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Johnson</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>2013</year>). <article-title>The impacts of mast year and prescribed fires on tree regeneration in Oak forests at the Mohonk Preserve, Southeastern New York, USA</article-title>. <source xml:lang="en">Natural Areas Journal</source>, <volume>33</volume>(<issue>4</issue>), <fpage>427</fpage>&#x02013;<lpage>434</lpage>. <pub-id pub-id-type="doi">10.3375/043.033.0405</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0002"><mixed-citation publication-type="journal" id="ece35861-cit-0002">
+<string-name>
+<surname>Badano</surname>, <given-names>E. I.</given-names>
+</string-name>, <string-name>
+<surname>Cavieres</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Molina&#x02010;Montenegro</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Quiroz</surname>, <given-names>C. L.</given-names>
+</string-name> (<year>2005</year>). <article-title>Slope aspect influences plant association patterns in the Mediterranean matorral of central Chile</article-title>. <source xml:lang="en">Journal of Arid Environments</source>, <volume>62</volume>, <fpage>93</fpage>&#x02013;<lpage>108</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaridenv.2004.10.012</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0003"><mixed-citation publication-type="journal" id="ece35861-cit-0003">
+<string-name>
+<surname>Bai</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Queenborough</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>Z.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bai</surname>, <given-names>X.</given-names>
+</string-name> (<year>2012</year>). <article-title>Effects of local biotic neighbors and habitat heterogeneity on tree and shrub seedling survival in an old&#x02010;growth temperate forest</article-title>. <source xml:lang="en">Oecologia</source>, <volume>170</volume>(<issue>3</issue>), <fpage>755</fpage>&#x02013;<lpage>765</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-0</pub-id>
+<pub-id pub-id-type="pmid">22644047</pub-id></mixed-citation></ref><ref id="ece35861-bib-0004"><mixed-citation publication-type="journal" id="ece35861-cit-0004">
+<string-name>
+<surname>Baraloto</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Forget</surname>, <given-names>P. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Goldberg</surname>, <given-names>D. E.</given-names>
+</string-name> (<year>2005</year>). <article-title>Seed mass, seedling size and neotropical tree seedling establishment</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>93</volume>(<issue>6</issue>), <fpage>1156</fpage>&#x02013;<lpage>1166</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2745.2005.01041.x</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0005"><mixed-citation publication-type="book" id="ece35861-cit-0005">
+<string-name>
+<surname>Barton</surname>, <given-names>K.</given-names>
+</string-name> (<year>2019</year>). <source xml:lang="en">MuMIn: Multi&#x02010;Model Inference. R package version 1.43.6</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/package=MuMIn">https://cran.r-project.org/package=MuMIn</ext-link>
+</mixed-citation></ref><ref id="ece35861-bib-0006"><mixed-citation publication-type="miscellaneous" id="ece35861-cit-0006">
+<string-name>
+<surname>Bates</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Maechler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bolker</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Christensen</surname>, <given-names>R. H. B.</given-names>
+</string-name>, <string-name>
+<surname>Singmann</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fox</surname>, <given-names>J.</given-names>
+</string-name> (<year>2019</year>). Package &#x02018;lme4&#x02019;. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/lme4/index.html">https://cran.r-project.org/web/packages/lme4/index.html</ext-link>
+</mixed-citation></ref><ref id="ece35861-bib-0007"><mixed-citation publication-type="journal" id="ece35861-cit-0007">
+<string-name>
+<surname>Beckage</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Clark</surname>, <given-names>S.</given-names>
+</string-name> (<year>2003</year>). <article-title>Seedling survival and growth of three forest tree species: The role of spatial heterogeneity</article-title>. <source xml:lang="en">Ecology</source>, <volume>84</volume>(<issue>7</issue>), <fpage>1849</fpage>&#x02013;<lpage>1861</lpage>. <pub-id pub-id-type="doi">10.1890/0012-9658(2003)084[1849:SSAGOT]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0008"><mixed-citation publication-type="book" id="ece35861-cit-0008">
+<collab collab-type="authors">BirdLife International</collab>
+(<year>2009</year>). <source xml:lang="en">Directory of important bird areas in China (Mainland): Key sites for conservation</source>. <publisher-loc>Cambridge, UK</publisher-loc>: <publisher-name>BirdLife International (English language edition)</publisher-name>.</mixed-citation></ref><ref id="ece35861-bib-0009"><mixed-citation publication-type="journal" id="ece35861-cit-0009">
+<string-name>
+<surname>Burnham</surname>, <given-names>K. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Anderson</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2002</year>). <article-title>Model selection and multimodel inference</article-title>. <source xml:lang="en">Ecological Modelling</source>, <volume>172</volume>, <fpage>96</fpage>&#x02013;<lpage>97</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolmodel.2003.11.004</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0010"><mixed-citation publication-type="journal" id="ece35861-cit-0010">
+<string-name>
+<surname>Chen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Mi</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Comita</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ma</surname>, <given-names>K.</given-names>
+</string-name> (<year>2010</year>). <article-title>Community&#x02010;level consequences of density dependence and habitat association in a subtropical broad&#x02010;leaved forest</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>13</volume>(<issue>6</issue>), <fpage>695</fpage>&#x02013;<lpage>704</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2010.01468.x</pub-id>
+<pub-id pub-id-type="pmid">20412278</pub-id></mixed-citation></ref><ref id="ece35861-bib-0011"><mixed-citation publication-type="journal" id="ece35861-cit-0011">
+<string-name>
+<surname>Clark</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Beckage</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Camill</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Cleveland</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>HilleRisLambers</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lichter</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wyckoff</surname>, <given-names>P.</given-names>
+</string-name> (<year>1999</year>). <article-title>Interpreting recruitment limitation in forests</article-title>. <source xml:lang="en">American Journal of Botany</source>, <volume>86</volume>(<issue>1</issue>), <fpage>1</fpage>&#x02013;<lpage>16</lpage>. <pub-id pub-id-type="doi">10.2307/2656950</pub-id>
+<pub-id pub-id-type="pmid">21680341</pub-id></mixed-citation></ref><ref id="ece35861-bib-0012"><mixed-citation publication-type="journal" id="ece35861-cit-0012">
+<string-name>
+<surname>Cleavitt</surname>, <given-names>N. L.</given-names>
+</string-name>, <string-name>
+<surname>Battles</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Fahey</surname>, <given-names>T. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blum</surname>, <given-names>J. D.</given-names>
+</string-name> (<year>2014</year>). <article-title>Determinants of survival over 7 years for a natural cohort of sugar maple seedlings in a northern hardwood forest</article-title>. <source xml:lang="en">Canadian Journal of Forest Research</source>, <volume>44</volume>(<issue>9</issue>), <fpage>1112</fpage>&#x02013;<lpage>1121</lpage>. <pub-id pub-id-type="doi">10.1139/cjfr-2014-0177</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0013"><mixed-citation publication-type="journal" id="ece35861-cit-0013">
+<string-name>
+<surname>Cleavitt</surname>, <given-names>N. L.</given-names>
+</string-name>, <string-name>
+<surname>Fairbairn</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fahey</surname>, <given-names>T. J.</given-names>
+</string-name> (<year>2008</year>). <article-title>Growth and survivorship of American beech (<italic>Fagus grandifolia</italic> Ehrh.) seedlings in a Northern hardwood forest following a mast event</article-title>. <source xml:lang="en">The Journal of the Torrey Botanical Society</source>, <volume>135</volume>(<issue>3</issue>), <fpage>328</fpage>&#x02013;<lpage>345</lpage>. <pub-id pub-id-type="doi">10.3159/08-RA-025.1</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0014"><mixed-citation publication-type="journal" id="ece35861-cit-0014">
+<string-name>
+<surname>Comita</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>Queenborough</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Eck</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Krishnadas</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zhu</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2014</year>). <article-title>Testing predictions of the Janzen&#x02010;Connell hypothesis: A meta&#x02010;analysis of experimental evidence for distance&#x02010; and density&#x02010;dependent seed and seedling survival</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>102</volume>, <fpage>845</fpage>&#x02013;<lpage>856</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2745.12232</pub-id>
+<pub-id pub-id-type="pmid">25253908</pub-id></mixed-citation></ref><ref id="ece35861-bib-0015"><mixed-citation publication-type="journal" id="ece35861-cit-0015">
+<string-name>
+<surname>Comita</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>Uriarte</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jonckheere</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Canham</surname>, <given-names>C. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zimmerman</surname>, <given-names>J. K.</given-names>
+</string-name> (<year>2009</year>). <article-title>Abiotic and biotic drivers of seedling survival in a hurricane&#x02010;impacted tropical forest</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>97</volume>(<issue>6</issue>), <fpage>1346</fpage>&#x02013;<lpage>1359</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2745.2009.01551.x</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0016"><mixed-citation publication-type="book" id="ece35861-cit-0016">
+<string-name>
+<surname>Connell</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>1971</year>). <chapter-title>On the role of natural enemies in preventing com&#x02010;petitive exclusion in some marine animals and rainforest trees</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Den Boer</surname><given-names>G.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Gradwell</surname><given-names>P.</given-names></name></person-group> (Eds.), <source xml:lang="en">Dynamics of populations</source> (pp. <fpage>298</fpage>&#x02013;<lpage>312</lpage>). <publisher-loc>Wageningen, The Netherlands</publisher-loc>: <publisher-name>PUDOC</publisher-name>.</mixed-citation></ref><ref id="ece35861-bib-0017"><mixed-citation publication-type="journal" id="ece35861-cit-0017">
+<string-name>
+<surname>Curran</surname>, <given-names>L. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Leighton</surname>, <given-names>M.</given-names>
+</string-name> (<year>2000</year>). <article-title>Vertebrate responses to spatiotemporal variation in seed production of mast&#x02010;fruiting Dipterocarpaceae</article-title>. <source xml:lang="en">Ecological Monographs</source>, <volume>70</volume>(<issue>1</issue>), <fpage>101</fpage>&#x02013;<lpage>128</lpage>. <pub-id pub-id-type="doi">10.2307/2657169</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0018"><mixed-citation publication-type="journal" id="ece35861-cit-0018">
+<string-name>
+<surname>Downey</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>O. T.</given-names>
+</string-name>, <string-name>
+<surname>Bonsall</surname>, <given-names>M. B.</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>, <given-names>D. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gripenberg</surname>, <given-names>S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Insect herbivory on seedlings of rainforest trees: Effects of density and distance of conspecific and heterospecific neighbors</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>8</volume>, <fpage>12702</fpage>&#x02013;<lpage>12711</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.4698</pub-id>
+<pub-id pub-id-type="pmid">30619575</pub-id></mixed-citation></ref><ref id="ece35861-bib-0019"><mixed-citation publication-type="journal" id="ece35861-cit-0019">
+<string-name>
+<surname>Du</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>X.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ma</surname>, <given-names>K.</given-names>
+</string-name> (<year>2007</year>). <article-title>Seed rain, soil seed bank, seed loss and regeneration of <italic>Castanopsis fargesii</italic> (Fagaceae) in a subtropical evergreen broad&#x02010;leaved forest</article-title>. <source xml:lang="en">Forest Ecology and Management</source>, <volume>238</volume>(<issue>1&#x02013;3</issue>), <fpage>212</fpage>&#x02013;<lpage>219</lpage>. <pub-id pub-id-type="doi">10.1016/j.foreco.2006.10.018</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0020"><mixed-citation publication-type="miscellaneous" id="ece35861-cit-0020">
+<collab collab-type="authors">eFloras</collab>
+(<year>2008</year>). Missouri Botanical Garden, St. Louis, Missouri, USA, and Harvard University Herbaria, Cambridge, Massachusetts, USA. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.efloras.org">http://www.efloras.org</ext-link>
+</mixed-citation></ref><ref id="ece35861-bib-0021"><mixed-citation publication-type="journal" id="ece35861-cit-0021">
+<string-name>
+<surname>Frey</surname>, <given-names>B. R.</given-names>
+</string-name>, <string-name>
+<surname>Ashton</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>McKenna</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Ellum</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Finkral</surname>, <given-names>A.</given-names>
+</string-name> (<year>2007</year>). <article-title>Topographic and temporal patterns in tree seedling establishment, growth, and survival among masting species of southern New England mixed&#x02010;deciduous forests</article-title>. <source xml:lang="en">Forest Ecology and Management</source>, <volume>245</volume>(<issue>1&#x02013;3</issue>), <fpage>54</fpage>&#x02013;<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1016/j.foreco.2007.03.069</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0022"><mixed-citation publication-type="journal" id="ece35861-cit-0022">
+<string-name>
+<surname>Fricke</surname>, <given-names>E. C.</given-names>
+</string-name>, <string-name>
+<surname>Tewksbury</surname>, <given-names>J. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rogers</surname>, <given-names>H. S.</given-names>
+</string-name> (<year>2014</year>). <article-title>Multiple natural enemies cause distance&#x02010;dependent mortality at the seed&#x02010;to&#x02010;seedling transition</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>17</volume>, <fpage>593</fpage>&#x02013;<lpage>598</lpage>. <pub-id pub-id-type="doi">10.1111/ele.12261</pub-id>
+<pub-id pub-id-type="pmid">24589220</pub-id></mixed-citation></ref><ref id="ece35861-bib-0023"><mixed-citation publication-type="journal" id="ece35861-cit-0023">
+<string-name>
+<surname>Gardescu</surname>, <given-names>S.</given-names>
+</string-name> (<year>2003</year>). <article-title>Herbivory, disease, and mortality of sugar maple seedlings</article-title>. <source xml:lang="en">Northeastern Naturalist</source>, <volume>10</volume>(<issue>3</issue>), <fpage>253</fpage>&#x02013;<lpage>268</lpage>. <pub-id pub-id-type="doi">10.1656/1092-6194(2003)010[0253:HDAMOS]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0024"><mixed-citation publication-type="journal" id="ece35861-cit-0024">
+<string-name>
+<surname>Goodale</surname>, <given-names>U. M.</given-names>
+</string-name>, <string-name>
+<surname>Berlyn</surname>, <given-names>G. P.</given-names>
+</string-name>, <string-name>
+<surname>Gregoire</surname>, <given-names>T. G.</given-names>
+</string-name>, <string-name>
+<surname>Tennakoon</surname>, <given-names>K. U.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ashton</surname>, <given-names>M. S.</given-names>
+</string-name> (<year>2014</year>). <article-title>Differences in survival and growth among tropical rain forest pioneer tree seedlings in relation to canopy openness and herbivory</article-title>. <source xml:lang="en">Biotropica</source>, <volume>46</volume>(<issue>2</issue>), <fpage>183</fpage>&#x02013;<lpage>193</lpage>. <pub-id pub-id-type="doi">10.1111/btp.12088</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0025"><mixed-citation publication-type="journal" id="ece35861-cit-0025">
+<string-name>
+<surname>Green</surname>, <given-names>J. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Newbery</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2002</year>). <article-title>Reproductive investment and seedling survival of the mast&#x02010;fruiting rain forest tree, <italic>Microberlinia bisulcata</italic> A. chev</article-title>. <source xml:lang="en">Plant Ecology</source>, <volume>162</volume>(<issue>2</issue>), <fpage>169</fpage>&#x02013;<lpage>183</lpage>. <pub-id pub-id-type="doi">10.1023/A:1020304212118</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0026"><mixed-citation publication-type="journal" id="ece35861-cit-0026">
+<string-name>
+<surname>Harms</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Calder&#x000f3;n</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Hern&#x000e1;ndez</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Herre</surname>, <given-names>E. A.</given-names>
+</string-name> (<year>2000</year>). <article-title>Pervasive density&#x02010;dependent recruitment enhances seedling diversity in a tropical forest</article-title>. <source xml:lang="en">Nature</source>, <volume>404</volume>(<issue>6777</issue>), <fpage>493</fpage>&#x02013;<lpage>495</lpage>. <pub-id pub-id-type="doi">10.1038/35006630</pub-id>
+<pub-id pub-id-type="pmid">10761916</pub-id></mixed-citation></ref><ref id="ece35861-bib-0027"><mixed-citation publication-type="journal" id="ece35861-cit-0027">
+<string-name>
+<surname>Harrison</surname>, <given-names>X. A.</given-names>
+</string-name> (<year>2015</year>). <article-title>A comparison of observation&#x02010;level random effect and Beta&#x02010;Binomial models for modelling overdispersion in Binomial data in ecology &#x00026; evolution</article-title>. <source xml:lang="en">PeerJ</source>, <volume>3</volume>, <elocation-id>e1114</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.1114</pub-id>
+<pub-id pub-id-type="pmid">26244118</pub-id></mixed-citation></ref><ref id="ece35861-bib-0028"><mixed-citation publication-type="journal" id="ece35861-cit-0028">
+<string-name>
+<surname>Janzen</surname>, <given-names>D. H.</given-names>
+</string-name> (<year>1970</year>). <article-title>Herbivores and the number of tree species in tropical forests</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>140</volume>(<issue>940</issue>), <fpage>501</fpage>&#x02013;<lpage>528</lpage>. <pub-id pub-id-type="doi">10.1086/282687</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0029"><mixed-citation publication-type="journal" id="ece35861-cit-0029">
+<string-name>
+<surname>Jin</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Russo</surname>, <given-names>S. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yu</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Effects of light and topography on regeneration and coexistence of evergreen and deciduous tree species in a Chinese subtropical forest</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>106</volume>, <fpage>1634</fpage>&#x02013;<lpage>1645</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2745.12911</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0030"><mixed-citation publication-type="journal" id="ece35861-cit-0030">
+<string-name>
+<surname>Johnson</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Bourg</surname>, <given-names>N. A.</given-names>
+</string-name>, <string-name>
+<surname>Howe</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>McShea</surname>, <given-names>W. I. J.</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Clay</surname>, <given-names>K.</given-names>
+</string-name> (<year>2014</year>). <article-title>Conspecific negative density&#x02010;dependent mortality and the structure of temperate forests</article-title>. <source xml:lang="en">Ecology</source>, <volume>95</volume>(<issue>9</issue>), <fpage>2493</fpage>&#x02013;<lpage>2503</lpage>. <pub-id pub-id-type="doi">10.1890/13-2098.1</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0031"><mixed-citation publication-type="journal" id="ece35861-cit-0031">
+<string-name>
+<surname>Johnson</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Condit</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hubbell</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Comita</surname>, <given-names>L. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Johnson</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Abiotic niche partitioning and negative density dependence drive tree seedling survival in a tropical forest</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>284</volume>, <fpage>20172210</fpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2017.2210</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0032"><mixed-citation publication-type="book" id="ece35861-cit-0032">
+<string-name>
+<surname>Kassambara</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kosinski</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <source xml:lang="en">survminer: Drawing Survival Curves using &#x0201c;ggplot2&#x0201d;</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/package=survminer">https://cran.r-project.org/package=survminer</ext-link>
+</mixed-citation></ref><ref id="ece35861-bib-0033"><mixed-citation publication-type="journal" id="ece35861-cit-0033">
+<string-name>
+<surname>Kelly</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sork</surname>, <given-names>V. L.</given-names>
+</string-name> (<year>2002</year>). <article-title>Mast seeding in perennial plants: Why, how, where?</article-title>
+<source xml:lang="en">Annual Review of Ecology and Systematics</source>, <volume>33</volume>(<issue>1</issue>), <fpage>427</fpage>&#x02013;<lpage>447</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.33.020602.095433</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0034"><mixed-citation publication-type="journal" id="ece35861-cit-0034">
+<string-name>
+<surname>Khan</surname>, <given-names>M. L.</given-names>
+</string-name> (<year>2004</year>). <article-title>Effects of seed mass on seedling success in <italic>Artocarpus heterophyllus</italic> L., a tropical tree species of north&#x02010;east India</article-title>. <source xml:lang="en">Acta Oecologica</source>, <volume>25</volume>, <fpage>103</fpage>&#x02013;<lpage>110</lpage>. <pub-id pub-id-type="doi">10.1016/j.actao.2003.11.007</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0035"><mixed-citation publication-type="journal" id="ece35861-cit-0035">
+<string-name>
+<surname>Kobe</surname>, <given-names>R. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vriesendorp</surname>, <given-names>C. F.</given-names>
+</string-name> (<year>2011</year>). <article-title>Conspecific density dependence in seedlings varies with species shade tolerance in a wet tropical forest</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>14</volume>(<issue>5</issue>), <fpage>503</fpage>&#x02013;<lpage>510</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2011.01612.x</pub-id>
+<pub-id pub-id-type="pmid">21429063</pub-id></mixed-citation></ref><ref id="ece35861-bib-0036"><mixed-citation publication-type="journal" id="ece35861-cit-0036">
+<string-name>
+<surname>Lemmon</surname>, <given-names>P. E.</given-names>
+</string-name> (<year>1956</year>). <article-title>A spherical densiometer for estimating forest overstory density</article-title>. <source xml:lang="en">Forest Science</source>, <volume>2</volume>(<issue>1</issue>), <fpage>314</fpage>&#x02013;<lpage>320</lpage>. <pub-id pub-id-type="doi">10.1093/forestscience/2.4.314</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0037"><mixed-citation publication-type="journal" id="ece35861-cit-0037">
+<string-name>
+<surname>Lin</surname>, <given-names>Y. C.</given-names>
+</string-name>, <string-name>
+<surname>Comita</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>M. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wu</surname>, <given-names>S. H.</given-names>
+</string-name> (<year>2017</year>). <article-title>Biotic vs abiotic drivers of seedling persistence in a tropical karst forest</article-title>. <source xml:lang="en">Journal of Vegetation Science</source>, <volume>28</volume>(<issue>1</issue>), <fpage>206</fpage>&#x02013;<lpage>217</lpage>. <pub-id pub-id-type="doi">10.1111/jvs.12479</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0038"><mixed-citation publication-type="journal" id="ece35861-cit-0038">
+<string-name>
+<surname>Lu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>G. G.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhu</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Seedling survival within forest gaps: The effects of gap size, within&#x02010;gap position and forest type on species of contrasting shade&#x02010;tolerance in Northeast China</article-title>. <source xml:lang="en">Forestry: an International Journal of Forest Research</source>, <volume>91</volume>, <fpage>470</fpage>&#x02013;<lpage>479</lpage>. <pub-id pub-id-type="doi">10.1093/forestry/cpy007</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0039"><mixed-citation publication-type="journal" id="ece35861-cit-0039">
+<string-name>
+<surname>Lu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Qiao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jiang</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>). <article-title>Density dependence and habitat preference shape seedling survival in a subtropical forest in central China</article-title>. <source xml:lang="en">Journal of Plant Ecology</source>, <volume>8</volume>(<issue>6</issue>), <fpage>568</fpage>&#x02013;<lpage>577</lpage>. <pub-id pub-id-type="doi">10.1093/jpe/rtv006</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0040"><mixed-citation publication-type="journal" id="ece35861-cit-0040">
+<string-name>
+<surname>Ma</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>L.&#x02010;F.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>Z.&#x02010;L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cao</surname>, <given-names>H.&#x02010;L.</given-names>
+</string-name> (<year>2014</year>). <article-title>Determinants of tree survival at local scale in a sub&#x02010;tropical forest</article-title>. <source xml:lang="en">Ecological Research</source>, <volume>29</volume>, <fpage>69</fpage>&#x02013;<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1007/s11284-013-1100-7</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0041"><mixed-citation publication-type="journal" id="ece35861-cit-0041">
+<string-name>
+<surname>Moles</surname>, <given-names>A. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Westoby</surname>, <given-names>M.</given-names>
+</string-name> (<year>2004</year>). <article-title>What do seedlings die from and what are the implications for evolution of seed size?</article-title>
+<source xml:lang="en">Oikos</source>, <volume>106</volume>, <fpage>193</fpage>&#x02013;<lpage>199</lpage>. <pub-id pub-id-type="doi">10.1111/j.0030-1299.2004.13101.x</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0042"><mixed-citation publication-type="journal" id="ece35861-cit-0042">
+<string-name>
+<surname>Norghauer</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Newbery</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Density&#x02010;dependent dynamics of a dominant rain forest tree change with juvenile stage and time of masting</article-title>. <source xml:lang="en">Oecologia</source>, <volume>181</volume>(<issue>1</issue>), <fpage>207</fpage>&#x02013;<lpage>223</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-015-3534-9</pub-id>
+<pub-id pub-id-type="pmid">26792661</pub-id></mixed-citation></ref><ref id="ece35861-bib-0043"><mixed-citation publication-type="journal" id="ece35861-cit-0043">
+<string-name>
+<surname>Oshima</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Tokumoto</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nakagawa</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>). <article-title>Biotic and abiotic drivers of dipterocarp seedling survival following mast fruiting in Malaysian Borneo</article-title>. <source xml:lang="en">Journal of Tropical Ecology</source>, <volume>31</volume>(<issue>2</issue>), <fpage>129</fpage>&#x02013;<lpage>137</lpage>. <pub-id pub-id-type="doi">10.1017/S026646741400073X</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0044"><mixed-citation publication-type="journal" id="ece35861-cit-0044">
+<string-name>
+<surname>Pearse</surname>, <given-names>I. S.</given-names>
+</string-name>, <string-name>
+<surname>Koenig</surname>, <given-names>W. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kelly</surname>, <given-names>D.</given-names>
+</string-name> (<year>2016</year>). <article-title>Mechanisms of mast seeding: Resources, weather, cues, and selection</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>212</volume>, <fpage>546</fpage>&#x02013;<lpage>562</lpage>. <pub-id pub-id-type="doi">10.1111/nph.14114</pub-id>
+<pub-id pub-id-type="pmid">27477130</pub-id></mixed-citation></ref><ref id="ece35861-bib-0045"><mixed-citation publication-type="journal" id="ece35861-cit-0045">
+<string-name>
+<surname>Pu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jin</surname>, <given-names>G.</given-names>
+</string-name> (<year>2017</year>). <article-title>Effects of local biotic neighbors and habitat heterogeneity on seedling survival in a spruce&#x02010;fir valley forest, northeastern China</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>7</volume>(<issue>13</issue>), <fpage>4582</fpage>&#x02013;<lpage>4591</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.3030</pub-id>
+<pub-id pub-id-type="pmid">28690788</pub-id></mixed-citation></ref><ref id="ece35861-bib-0046"><mixed-citation publication-type="journal" id="ece35861-cit-0046">
+<string-name>
+<surname>Queenborough</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Burslem</surname>, <given-names>D. F. R. P.</given-names>
+</string-name>, <string-name>
+<surname>Garwood</surname>, <given-names>N. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Valencia</surname>, <given-names>R.</given-names>
+</string-name> (<year>2007</year>). <article-title>Neighbourhood and community interactions determine the spatial pattern of tropical tree seedling survival</article-title>. <source xml:lang="en">Ecology</source>, <volume>88</volume>(<issue>9</issue>), <fpage>2248</fpage>&#x02013;<lpage>2258</lpage>. <pub-id pub-id-type="doi">10.1890/06-0737.1</pub-id>
+<pub-id pub-id-type="pmid">17918403</pub-id></mixed-citation></ref><ref id="ece35861-bib-0047"><mixed-citation publication-type="book" id="ece35861-cit-0047">
+<collab collab-type="authors">R Core T</collab>
+(<year>2019</year>). <source xml:lang="en">R: A language and environment for statistical computing</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.r-project.org">http://www.r-project.org</ext-link>
+</mixed-citation></ref><ref id="ece35861-bib-0048"><mixed-citation publication-type="journal" id="ece35861-cit-0048">
+<string-name>
+<surname>Roach</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wulff</surname>, <given-names>R. D.</given-names>
+</string-name> (<year>1987</year>). <article-title>Maternal effects in plants</article-title>. <source xml:lang="en">Annual Review of Ecology and Systematics</source>, <volume>18</volume>, <fpage>209</fpage>&#x02013;<lpage>235</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.es.18.110187.001233</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0049"><mixed-citation publication-type="book" id="ece35861-cit-0049">
+<string-name>
+<surname>Saatkamp</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Poschlod</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Venable</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>2014</year>). <chapter-title>The functional role of soil seed banks in natural communities</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Gallagher</surname><given-names>R. S.</given-names></name></person-group> (Ed.), <source xml:lang="en">Seeds: the ecology of regeneration in plant communities</source> (pp. <fpage>263</fpage>&#x02013;<lpage>295</lpage>). <publisher-loc>Wallingford, UK</publisher-loc>: <publisher-name>CAB International</publisher-name>.</mixed-citation></ref><ref id="ece35861-bib-0050"><mixed-citation publication-type="journal" id="ece35861-cit-0050">
+<string-name>
+<surname>Schuldt</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bruelheide</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>H&#x000e4;rdtle</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Assmann</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Early positive effects of tree species richness on herbivory in a large&#x02010;scale forest biodiversity experiment influence tree growth</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>103</volume>(<issue>3</issue>), <fpage>563</fpage>&#x02013;<lpage>571</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2745.12396</pub-id>
+<pub-id pub-id-type="pmid">26690688</pub-id></mixed-citation></ref><ref id="ece35861-bib-0051"><mixed-citation publication-type="journal" id="ece35861-cit-0051">
+<string-name>
+<surname>Schwarz</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Fahey</surname>, <given-names>T. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McCulloch</surname>, <given-names>C. E.</given-names>
+</string-name> (<year>2003</year>). <article-title>Factors controlling spatial variation of tree species abundance in a forested landscape</article-title>. <source xml:lang="en">Ecology</source>, <volume>84</volume>(<issue>7</issue>), <fpage>1862</fpage>&#x02013;<lpage>1878</lpage>. <pub-id pub-id-type="doi">10.1890/0012-9658(2003)084[1862:FCSVOT]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0052"><mixed-citation publication-type="journal" id="ece35861-cit-0052">
+<string-name>
+<surname>Ter Heerdt</surname>, <given-names>G. N. J.</given-names>
+</string-name>, <string-name>
+<surname>Verweij</surname>, <given-names>G. L.</given-names>
+</string-name>, <string-name>
+<surname>Bekker</surname>, <given-names>R. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bakker</surname>, <given-names>J. P.</given-names>
+</string-name> (<year>1996</year>). <article-title>An improved method for seed&#x02010;bank analysis: Seedling emergence after removing the soil by sieving</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>10</volume>(<issue>1</issue>), <fpage>144</fpage>&#x02013;<lpage>151</lpage>. <pub-id pub-id-type="doi">10.2307/2390273</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0053"><mixed-citation publication-type="journal" id="ece35861-cit-0053">
+<string-name>
+<surname>Terborgh</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Enemies maintain hyperdiverse tropical forests</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>179</volume>(<issue>3</issue>), <fpage>303</fpage>&#x02013;<lpage>314</lpage>. <pub-id pub-id-type="doi">10.1086/664183</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0054"><mixed-citation publication-type="miscellaneous" id="ece35861-cit-0054">
+<string-name>
+<surname>Therneau</surname>, <given-names>T. M.</given-names>
+</string-name> (<year>2019</year>). <source xml:lang="en">Package &#x02018;survival&#x02019;</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/survival/index.html">https://cran.r-project.org/web/packages/survival/index.html</ext-link>
+</mixed-citation></ref><ref id="ece35861-bib-0055"><mixed-citation publication-type="journal" id="ece35861-cit-0055">
+<string-name>
+<surname>Vandvik</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Klanderud</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Meineri</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000e5;ren</surname>, <given-names>I. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>T&#x000f6;pper</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Seed banks are biodiversity reservoirs: Species&#x02010;area relationships above versus below ground</article-title>. <source xml:lang="en">Oikos</source>, <volume>125</volume>(<issue>2</issue>), <fpage>218</fpage>&#x02013;<lpage>228</lpage>. <pub-id pub-id-type="doi">10.1111/oik.02022</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0056"><mixed-citation publication-type="journal" id="ece35861-cit-0056">
+<string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Comita</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yuan</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2012</year>). <article-title>Local&#x02010;scale drivers of tree survival in a temperate forest</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>7</volume>(<issue>2</issue>), <fpage>22</fpage>&#x02013;<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0029469</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0057"><mixed-citation publication-type="journal" id="ece35861-cit-0057">
+<string-name>
+<surname>Warren</surname>, <given-names>R. J.</given-names>
+<suffix>II</suffix>
+</string-name> (<year>2008</year>). <article-title>Mechanisms driving understory evergreen herb distributions across slope aspects: As derived from landscape position</article-title>. <source xml:lang="en">Plant Ecology</source>, <volume>198</volume>(<issue>2</issue>), <fpage>297</fpage>&#x02013;<lpage>308</lpage>. <pub-id pub-id-type="doi">10.1007/s11258-008-9406-1</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0058"><mixed-citation publication-type="book" id="ece35861-cit-0058">
+<string-name>
+<surname>Wickham</surname>, <given-names>H.</given-names>
+</string-name> (<year>2009</year>). <source xml:lang="en">ggplot2: Elegant graphics for data analysis</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer&#x02010;Verlag</publisher-name>.</mixed-citation></ref><ref id="ece35861-bib-0059"><mixed-citation publication-type="journal" id="ece35861-cit-0059">
+<string-name>
+<surname>Wu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Franklin</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lu</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2017</year>). <article-title>Relative importance of density dependence and topography on tree mortality in a subtropical mountain forest</article-title>. <source xml:lang="en">Forest Ecology and Management</source>, <volume>384</volume>, <fpage>169</fpage>&#x02013;<lpage>179</lpage>. <pub-id pub-id-type="doi">10.1016/j.foreco.2016.10.049</pub-id>
+</mixed-citation></ref><ref id="ece35861-bib-0060"><mixed-citation publication-type="journal" id="ece35861-cit-0060">
+<string-name>
+<surname>Zhu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Queenborough</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Condit</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hubbell</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Comita</surname>, <given-names>L. S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Density&#x02010;dependent survival varies with species life&#x02010;history strategy in a tropical forest</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>21</volume>, <fpage>506</fpage>&#x02013;<lpage>515</lpage>. <pub-id pub-id-type="doi">10.1111/ele.12915</pub-id>
+<pub-id pub-id-type="pmid">29446220</pub-id></mixed-citation></ref><ref id="ece35861-bib-0061"><mixed-citation publication-type="journal" id="ece35861-cit-0061">
+<string-name>
+<surname>Zwolak</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Witczuk</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bogdziewicz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rychlik</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pagacz</surname>, <given-names>S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Simultaneous population fluctuations of rodents in montane forests and alpine meadows suggest indirect effects of tree masting</article-title>. <source xml:lang="en">Journal of Mammalogy</source>, <volume>99</volume>(<issue>3</issue>), <fpage>586</fpage>&#x02013;<lpage>595</lpage>. <pub-id pub-id-type="doi">10.1093/jmammal/gyy034</pub-id>
+</mixed-citation></ref></ref-list></back></article>

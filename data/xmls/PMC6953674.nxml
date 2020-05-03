@@ -1,0 +1,1648 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938507</article-id><article-id pub-id-type="pmc">6953674</article-id><article-id pub-id-type="doi">10.1002/ece3.5847</article-id><article-id pub-id-type="publisher-id">ECE35847</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Mitogenomic phylogenetic analyses of <italic>Leptogorgia virgulata</italic> and <italic>Leptogorgia hebes</italic> (Anthozoa: Octocorallia) from the Gulf of Mexico provides insight on Gorgoniidae divergence between Pacific and Atlantic lineages</article-title><alt-title alt-title-type="left-running-head">SILVESTRI et al.</alt-title></title-group><contrib-group><contrib id="ece35847-cr-0001" contrib-type="author"><name><surname>Silvestri</surname><given-names>Samantha</given-names></name><xref ref-type="aff" rid="ece35847-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35847-cr-0002" contrib-type="author" corresp="yes"><name><surname>Figueroa</surname><given-names>Diego F.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0220-2912</contrib-id><xref ref-type="aff" rid="ece35847-aff-0001">
+<sup>1</sup>
+</xref><address><email>diego.figueroa@utrgv.edu</email></address></contrib><contrib id="ece35847-cr-0003" contrib-type="author"><name><surname>Hicks</surname><given-names>David</given-names></name><xref ref-type="aff" rid="ece35847-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35847-cr-0004" contrib-type="author"><name><surname>Figueroa</surname><given-names>Nicole J.</given-names></name><xref ref-type="aff" rid="ece35847-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ece35847-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">School of Earth, Environmental, and Marine Sciences</named-content>
+<institution>University of Texas Rio Grande Valley</institution>
+<city>Brownsville</city>
+<named-content content-type="country-part">TX</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Diego F. Figueroa, School of Earth, Environmental, and Marine Sciences, University of Texas Rio Grande Valley, One West University Boulevard, Brownsville, TX 78520, USA.<break/>
+Email: <email>diego.figueroa@utrgv.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14114</fpage><lpage>14129</lpage><history><date date-type="received"><day>22</day><month>7</month><year>2019</year></date><date date-type="rev-recd"><day>25</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>28</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14114.pdf"/><abstract id="ece35847-abs-0001"><title>Abstract</title><p>The use of genetics in recent years has brought to light the need to reevaluate the classification of many gorgonian octocorals. This study focuses on two <italic>Leptogorgia</italic> species&#x02014;<italic>Leptogorgia virgulata</italic> and <italic>Leptogorgia hebes</italic>&#x02014;from the northwestern Gulf of Mexico (GOM). We target complete mitochondrial genomes and <italic>mtMutS</italic> sequences, and integrate this data with previous genetic research of gorgonian corals to resolve phylogenetic relationships and estimate divergence times. This study contributes the first complete mitochondrial genomes for <italic>L.&#x000a0;ptogorgia virgulata</italic> and <italic>L.&#x000a0;hebes</italic>. Our resulting phylogenies stress the need to redefine the taxonomy of the genus <italic>Leptogorgia</italic> in its entirety. The fossil&#x02010;calibrated divergence times for Eastern Pacific and Western Atlantic <italic>Leptogorgia</italic> species based on complete mitochondrial genomes shows that the use of multiple genes results in estimates of more recent speciation events than previous research based on single genes. These more recent divergence times are in agreement with geologic data pertaining to the formation of the Isthmus of Panama.</p></abstract><abstract abstract-type="graphical" id="ece35847-abs-0002"><p>This study contributes the first complete mitochondrial genomes for <italic>Leptogorgia virgulata</italic> and <italic>Leptogorgia hebes</italic>. The fossil&#x02010;calibrated divergence times based on complete mitochondrial genomes shows that the use of multiple genes, as opposed to a single gene, results in estimates of more recent speciation events than previously published for Eastern Pacific and Western Atlantic <italic>Leptogorgia</italic> species. These more recent divergence times are in agreement with geologic data pertaining to the formation of the Isthmus of Panama.<boxed-text position="anchor" content-type="graphic" id="ece35847-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14114-g005.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35847-kwd-0001">divergence</kwd><kwd id="ece35847-kwd-0002">evolution</kwd><kwd id="ece35847-kwd-0003">mitochondrial genome</kwd><kwd id="ece35847-kwd-0004">MutS</kwd><kwd id="ece35847-kwd-0005">octocoral</kwd><kwd id="ece35847-kwd-0006">phylogeography</kwd><kwd id="ece35847-kwd-0007">sea whip</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>TPWD&#x02010;ARP</funding-source><award-id>475342</award-id></award-group><award-group id="funding-0002"><funding-source>University of Texas Rio Grande Valley</funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Gulf Research Program of the National Academies of Sciences, Engineering, and Medicine </institution><institution-id institution-id-type="open-funder-registry">10.13039/100009646</institution-id></institution-wrap></funding-source><award-id>2000007266</award-id></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>National Sea Grant Office, National Oceanic and Atmospheric Administration, U.S. Department of Commerce </institution><institution-id institution-id-type="open-funder-registry">10.13039/100000190</institution-id></institution-wrap></funding-source><award-id>NA14OAR4170102</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="5"/><page-count count="16"/><word-count count="11942"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35847-cit-1001">
+<string-name>
+<surname>Silvestri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Figueroa</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name>
+<surname>Hicks</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Figueroa</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>Mitogenomic phylogenetic analyses of <italic>Leptogorgia virgulata</italic> and <italic>Leptogorgia hebes</italic> (Anthozoa: Octocorallia) from the Gulf of Mexico provides insight on Gorgoniidae divergence between Pacific and Atlantic lineages</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14114</fpage>&#x02013;<lpage>14129</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5847</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35847-body-0001"><sec id="ece35847-sec-0001"><label>1</label><title>INTRODUCTION</title><p>There are 54 valid species in the genus <italic>Leptogorgia</italic> belonging to the family Gorgoniidae (Milne&#x02010;Edwards &#x00026; Haime, <xref rid="ece35847-bib-0037" ref-type="ref">1857</xref>). They are classified as soft corals due to their lack of a protective calcium carbonate exoskeleton. Instead, for support and protection, they rely on small, calcitic structures called sclerites (O'Neal &#x00026; Pawlik, <xref rid="ece35847-bib-0041" ref-type="ref">2002</xref>), from which their white, translucent polyps protrude, and they range in color from yellow to orange to red to purple (White &#x00026; Strychar, <xref rid="ece35847-bib-0059" ref-type="ref">2010</xref>). <italic>Leptogorgia</italic> and other octocorals provide habitat heterogeneity and therefore allow for large aggregations of diverse fauna (Quattrini et al., <xref rid="ece35847-bib-0047" ref-type="ref">2014</xref>). Greater habitat complexity has been shown to be significantly correlated with higher red snapper abundance, an economically important fish species in the Gulf of Mexico and Western Atlantic Ocean (Szedlmayer, <xref rid="ece35847-bib-0053" ref-type="ref">2007</xref>). There are nine species of <italic>Leptogorgia</italic> in the Gulf of Mexico, including <italic>Leptogorgia hebes</italic> and <italic>Leptogorgia virgulata</italic> (Cairns &#x00026; Bayer, <xref rid="ece35847-bib-0010" ref-type="ref">2009</xref>). They are found at depths ranging from 2 to 309&#x000a0;m, with the depth range of <italic>L.&#x000a0;hebes</italic> ranging from 9 to 37&#x000a0;m and that of <italic>L.&#x000a0;virgulata</italic> from 3 to 82&#x000a0;m (Cairns &#x00026; Bayer, <xref rid="ece35847-bib-0010" ref-type="ref">2009</xref>; Williamson, Strychar, &#x00026; Withers, <xref rid="ece35847-bib-0062" ref-type="ref">2011</xref>). <italic>Leptogorgia hebes</italic> and <italic>L.&#x000a0;virgulata</italic> reach reproductive maturity within 2&#x000a0;years, and both are broadcast spawners, releasing eggs, and sperm into the water column (Beasley, Dardeau, &#x00026; Schroeder, <xref rid="ece35847-bib-0006" ref-type="ref">2003</xref>; Gotelli, <xref rid="ece35847-bib-0021" ref-type="ref">1991</xref>). The larvae in <italic>L.&#x000a0;virgulata</italic> can spend 3&#x02013;20&#x000a0;days in the water column before settlement (Gotelli, <xref rid="ece35847-bib-0021" ref-type="ref">1991</xref>). The duration of the larval stage for <italic>L.&#x000a0;hebes</italic> is unknown. Both <italic>L.&#x000a0;hebes</italic> and <italic>L.&#x000a0;virgulata</italic> have been successful at colonizing artificial structures in the Gulf of Mexico, including jetties within the subtidal zone (Williamson et al., <xref rid="ece35847-bib-0062" ref-type="ref">2011</xref>). A strong holdfast and a rigid, yet flexible skeleton, allows these two species to colonize habitats with swift currents and wave action such as that found in jetties (Williamson et al., <xref rid="ece35847-bib-0062" ref-type="ref">2011</xref>). These life history characteristics of <italic>L.&#x000a0;hebes</italic> and <italic>L.&#x000a0;virgulata</italic>, which include relatively fast maturation, broadcast spawning, long survival of larval stages, and adaptations for successful establishment in high energy environments, demonstrate the high potential for dispersal and colonization of new regions of these species.</p><p>Old, incomplete, or damaged records in addition to a lack of easily identifiable morphological traits among species make gorgonians particularly difficult to classify (S&#x000e1;nchez, <xref rid="ece35847-bib-0050" ref-type="ref">2007</xref>). For example, the genus <italic>Leptogorgia</italic> was initially split into two genera&#x02014;<italic>Leptogorgia</italic> and <italic>Lophogorgia</italic>&#x02014;by Milne&#x02010;Edwards and Haime (<xref rid="ece35847-bib-0037" ref-type="ref">1857</xref>). Species in the <italic>Leptogorgia</italic> genus are described as having disk&#x02010;spindles in the outer coenenchyme, while <italic>Lophogorgia</italic> species have spindles more closely resembling flat rods and were described mostly in the Eastern Pacific, Western Atlantic, Caribbean, and along the eastern and southern coasts of Africa (Bayer, <xref rid="ece35847-bib-0004" ref-type="ref">1961</xref>). However, in 1988 these morphological distinctions were questioned and the two genera were united into one as <italic>Leptogorgia</italic> (Grasshoff, <xref rid="ece35847-bib-0022" ref-type="ref">1988</xref>). In 2017, Poliseno et al. conducted a phylogenetic study of <italic>Leptogorgia</italic>, using specimens from a wide geographical area, including the eastern and Western Atlantic, the Eastern Pacific, and the Mediterranean. They reconstructed two phylogenies, one based on complete mitochondrial genomes and the other based on a partial fragment of the mitochondrial <italic>MutS</italic> gene (<italic>mtMutS</italic>). While their phylogeny based on complete mitochondrial genomes only has eleven species of the family Gorgoniidae, including six species of <italic>Leptogorgia</italic>, the one based on the single <italic>mtMutS</italic> gene includes 109 species, providing greater taxonomic resolution. In their study, Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) also estimate divergence times with a fossil calibration based on the oldest known fossil of <italic>Eunicella</italic>, dating back to 28.4&#x000a0;Ma (Kocurko &#x00026; Kocurko, <xref rid="ece35847-bib-0030" ref-type="ref">1992</xref>) using the partial <italic>mtMutS</italic> gene. Based on their results, Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) call for a global taxonomic revision of the present&#x02010;day <italic>Leptogorgia</italic> genus. They conclude from the <italic>mtMutS</italic> phylogeny that the genus <italic>Lophogorgia</italic> should be resurrected for all South African <italic>Leptogorgia</italic> species, which form an old clade within the Gorgoniidae, sister to <italic>Leptogorgia</italic> species from the eastern coast of Africa and the Mediterranean. They show that these Eastern Atlantic <italic>Leptogorgia</italic> species diverged from Western Atlantic species in the late Cretaceous, about 65&#x000a0;Ma, while the divergence between the Western Atlantic and Eastern Pacific species occurs more recently, between 28 and 23&#x000a0;Ma. These observations not only raise the question of taxonomic placement and nomenclature for Eastern Pacific and Western Atlantic species, but also suggest a divergence time between these lineages that dates back to the very early stages of emergence of the Isthmus of Panama (Bacon et al., <xref rid="ece35847-bib-0003" ref-type="ref">2015</xref>). This scenario is unexpected since <italic>Leptogorgia</italic> are shallow water species and significant exchange of seawater between the two basins likely occurred until ~10&#x02013;15&#x000a0;Ma when the final stages of the closure of the Central American Seaway (CAS) started, with shallow water still connecting these two oceans until 3.5&#x02013;4.2&#x000a0;Ma with the final rise of the Isthmus of Panama (e.g., Bacon et al., <xref rid="ece35847-bib-0003" ref-type="ref">2015</xref>; Montes et al., <xref rid="ece35847-bib-0038" ref-type="ref">2015</xref>; O'Dea et al., <xref rid="ece35847-bib-0040" ref-type="ref">2016</xref>).</p><p>Our study focuses on two species of <italic>Leptogorgia</italic> from the Gulf of Mexico, <italic>L.&#x000a0;hebes</italic> and <italic>L.&#x000a0;virgulata</italic>. We have two main goals. The first is to determine the taxonomic position of <italic>L.&#x000a0;hebes</italic> (formerly classified in the genus <italic>Lophogorgia</italic> by Bayer, <xref rid="ece35847-bib-0004" ref-type="ref">1961</xref>) and of <italic>L.&#x000a0;virgulata</italic>. The analyses by Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) did not include complete mitochondrial genomes for these two species and their phylogeny based on the partial <italic>mtMutS</italic> gene leaves the phylogenetic position of both <italic>L.&#x000a0;hebes</italic> and <italic>L.&#x000a0;virgulata</italic> weakly supported. Therefore, in our study, we analyze both complete mitochondrial genomes and the <italic>mtMutS</italic> gene. Although mitochondrial genomes have been shown to be problematic for phylogenetic reconstruction of scleractinian corals due to the presence of substitution saturation and long branch attraction (i.e., Kitahara et al., <xref rid="ece35847-bib-0028" ref-type="ref">2014</xref>), it is only an issue within the Hexacorallia and it does not affect the Octocorallia, such as the gorgonian corals in our study (Figueroa &#x00026; Baco, <xref rid="ece35847-bib-0017" ref-type="ref">2015</xref>). Complete mitochondrial genomes have been demonstrated to provide robust and well&#x02010;supported phylogenies for Octocorallia (e.g., Figueroa &#x00026; Baco, <xref rid="ece35847-bib-0016" ref-type="ref">2014</xref>; Figueroa &#x00026; Baco, <xref rid="ece35847-bib-0017" ref-type="ref">2015</xref>; Kayal, Roure, Philippe, Collins, &#x00026; Lavrov, <xref rid="ece35847-bib-0027" ref-type="ref">2013</xref>; Poliseno et al., <xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>), while the use of single mitochondrial genes has been demonstrated to result in incongruent largely unresolved trees across a wide range of taxa (Havird &#x00026; Santos, <xref rid="ece35847-bib-0023" ref-type="ref">2014</xref>; Knaus, Cronn, Liston, Pilgrim, &#x00026; Schwartz, <xref rid="ece35847-bib-0029" ref-type="ref">2011</xref>; Luo et al., <xref rid="ece35847-bib-0033" ref-type="ref">2011</xref>; Nadimi, Daubois, &#x00026; Hijri, <xref rid="ece35847-bib-0039" ref-type="ref">2016</xref>; Pacheco et al., <xref rid="ece35847-bib-0042" ref-type="ref">2011</xref>; Rohland et al., <xref rid="ece35847-bib-0048" ref-type="ref">2007</xref>; Urantowka, Kroczak, &#x00026; Mackiewicz, <xref rid="ece35847-bib-0057" ref-type="ref">2017</xref>; Wang et al., <xref rid="ece35847-bib-0058" ref-type="ref">2017</xref>; Willerslev et al., <xref rid="ece35847-bib-0060" ref-type="ref">2009</xref>). Therefore, we expect that the taxonomic position of <italic>L.&#x000a0;hebes</italic> and <italic>L.&#x000a0;virgulata</italic> will be fully resolved by reconstructing their phylogeny using mitochondrial genomes.</p><p>Our second goal is to estimate divergence times of Eastern Pacific and Western Atlantic <italic>Leptogorgia</italic> species. Since previous research has shown that fossil&#x02010;calibrated phylogenetic reconstruction based on single mitochondrial genes results in an overestimation of divergence times (Duch&#x000ea;ne, Archer, Vilstrup, Caballero, &#x00026; Morin, <xref rid="ece35847-bib-0014" ref-type="ref">2011</xref>; McCormack, Heled, Delaney, Peterson, &#x00026; Knowles, <xref rid="ece35847-bib-0034" ref-type="ref">2011</xref>), we will base our estimates of diversification times between Eastern Pacific and Western Atlantic lineages of <italic>Leptogorgia</italic> by targeting complete mitochondrial genomes. We reconstruct a fossil&#x02010;calibrated phylogenetic tree for <italic>Leptogorgia</italic> species based con complete mitochondrial genomes and using <italic>Eunicella</italic> as an outgroup. We use a fossil calibration point of 28.4&#x000a0;Ma based on the stratigraphy and dating of the Red Bluff Formation in Mississippi where the oldest fossils of <italic>Eunicella</italic> have been recovered (Cushing, Boswell, &#x00026; Hosman, <xref rid="ece35847-bib-0012" ref-type="ref">1964</xref>; Demchuk &#x00026; Gary, <xref rid="ece35847-bib-0013" ref-type="ref">2009</xref>; Kocurko &#x00026; Kocurko, <xref rid="ece35847-bib-0030" ref-type="ref">1992</xref>; Prothero, Ivany, &#x00026; Nesbitt, <xref rid="ece35847-bib-0046" ref-type="ref">2003</xref>; Tew, <xref rid="ece35847-bib-0054" ref-type="ref">1992</xref>). Among Octocorallia, skeletal diversity, such as morphology of sclerites, is a key character for taxonomic identification (Goffredo &#x00026; Dubinsky, <xref rid="ece35847-bib-0019" ref-type="ref">2016</xref>). Sclerites with a balloon club shape are a distinguishing characteristic that is unique to the genus <italic>Eunicella</italic> (Goffredo &#x00026; Dubinsky, <xref rid="ece35847-bib-0019" ref-type="ref">2016</xref>; Kocurko &#x00026; Kocurko, <xref rid="ece35847-bib-0030" ref-type="ref">1992</xref>). Fossil sclerites with balloon club shape have been found in the Red Bluff Formation in Mississippi and have been clearly attributed to <italic>Eunicella</italic> (Kocurko &#x00026; Kocurko, <xref rid="ece35847-bib-0030" ref-type="ref">1992</xref>). Stratigraphy of the Red Bluff Formation and dating of this layer within the Oligocene (23&#x02013;34&#x000a0;Ma) has been intensely studied (i.e., Cushing et al., <xref rid="ece35847-bib-0012" ref-type="ref">1964</xref>; Demchuk &#x00026; Gary, <xref rid="ece35847-bib-0013" ref-type="ref">2009</xref>; Hosman, <xref rid="ece35847-bib-0025" ref-type="ref">1996</xref>; Prothero et al., <xref rid="ece35847-bib-0046" ref-type="ref">2003</xref>; Tew, <xref rid="ece35847-bib-0054" ref-type="ref">1992</xref>).</p><p>The timeline proposed by Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) for the divergence between Eastern Pacific and Western Atlantic <italic>Leptogorgia</italic> species coincides with evidence that a land bridge between North and South America began to emerge between 23 and 25&#x000a0;Ma when the Panama Arc collided with South America (Bacon et al., <xref rid="ece35847-bib-0003" ref-type="ref">2015</xref>). However, despite this initial emergence and given the life history characteristics of shallow water <italic>Leptogorgia</italic> species such as <italic>L.&#x000a0;hebes</italic> and <italic>L.&#x000a0;virgulata</italic> that enhance dispersal and colonization (Beasley et al., <xref rid="ece35847-bib-0006" ref-type="ref">2003</xref>; Cairns &#x00026; Bayer, <xref rid="ece35847-bib-0010" ref-type="ref">2009</xref>; Gotelli, <xref rid="ece35847-bib-0020" ref-type="ref">1988</xref>, <xref rid="ece35847-bib-0021" ref-type="ref">1991</xref>; Williamson et al., <xref rid="ece35847-bib-0062" ref-type="ref">2011</xref>), gene flow is likely to have continued between the Western Atlantic and Eastern Pacific until full closure of the Central American Seaway (Bacon et al., <xref rid="ece35847-bib-0003" ref-type="ref">2015</xref>; Cowman &#x00026; Bellwood, <xref rid="ece35847-bib-0011" ref-type="ref">2013</xref>; Lessios, <xref rid="ece35847-bib-0032" ref-type="ref">2008</xref>; Thacker, <xref rid="ece35847-bib-0055" ref-type="ref">2017</xref>).. Therefore, we hypothesize that the divergence times of Eastern Pacific and Western Atlantic <italic>Leptogorgia</italic> lineages to be younger than previously suggested (Poliseno et al., <xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) with the majority of speciation events occurring after 10&#x000a0;Ma when significant seawater exchange between the Pacific and Atlantic Ocean ceased (i.e., Bacon et al., <xref rid="ece35847-bib-0003" ref-type="ref">2015</xref>; Montes et al., <xref rid="ece35847-bib-0038" ref-type="ref">2015</xref>; O'Dea et al., <xref rid="ece35847-bib-0040" ref-type="ref">2016</xref>).</p></sec><sec sec-type="materials-and-methods" id="ece35847-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35847-sec-0003"><label>2.1</label><title>Study sites and sample collection</title><p>Six sites in the Gulf of Mexico off the coast of the United States in South Padre Island, Texas, were sampled for 24 <italic>Leptogorgia</italic> specimens (seven <italic>L.&#x000a0;hebes</italic> and 17 <italic>L.&#x000a0;virgulata</italic>) by divers collecting coral fragments between June 2014 and July 2017 (Table <xref rid="ece35847-tbl-0001" ref-type="table">1</xref>). Once collected, samples were preserved in ethanol and stored at 0&#x000b0;C. Voucher specimens are deposited and curated at the University of Texas Rio Grande Valley's Coastal Studies Laboratory and are available upon request under GenBank accession numbers MK0301586&#x02013;MK0301592 for specimens of <italic>L.&#x000a0;virgulata</italic> and MN052675&#x02013;MN052677 for specimens of <italic>L.&#x000a0;hebes</italic>.</p><table-wrap id="ece35847-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>
+<italic>Leptogorgia</italic> sp. found at all sites and site types with respective dates, coordinates, and depths</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Location</th><th align="left" valign="top" rowspan="1" colspan="1">Date</th><th align="left" valign="top" rowspan="1" colspan="1">Lat</th><th align="left" valign="top" rowspan="1" colspan="1">Lon</th><th align="left" valign="top" rowspan="1" colspan="1">Depth (m)</th><th align="left" valign="top" rowspan="1" colspan="1"># of samples/species collected</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Port Isabel Reef</td><td align="left" rowspan="1" colspan="1">6/3/2014</td><td align="char" char="." rowspan="1" colspan="1">25.9684</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;97.0669</td><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">
+<p>1 <italic>L.&#x000a0;hebes;</italic>
+</p>
+<p>1 <italic>L.&#x000a0;virgulata</italic>
+</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Port Mansfield Liberty Ship</td><td align="left" rowspan="1" colspan="1">12/12/2014</td><td align="char" char="." rowspan="1" colspan="1">26.4296</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;97.0241</td><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">
+<p>1 <italic>L.&#x000a0;hebes;</italic>
+</p>
+<p>1 <italic>L.&#x000a0;virgulata</italic>
+</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Jack up Rigs/East Bank</td><td align="left" rowspan="1" colspan="1">7/7/2016</td><td align="char" char="." rowspan="1" colspan="1">26.1021</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;96.9377</td><td align="left" rowspan="1" colspan="1">32</td><td align="left" rowspan="1" colspan="1">1 <italic>L.&#x000a0;virgulata</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Port Mansfield Liberty Ship</td><td align="left" rowspan="1" colspan="1">9/2/2016</td><td align="char" char="." rowspan="1" colspan="1">26.4296</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;97.0241</td><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">1 <italic>L.&#x000a0;virgulata</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Port Isabel Reef</td><td align="left" rowspan="1" colspan="1">9/15/2016</td><td align="char" char="." rowspan="1" colspan="1">25.9684</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;97.0669</td><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">
+<p>
+<italic>1 L.&#x000a0;hebes;</italic>
+</p>
+<p>
+<italic>1 L.&#x000a0;virgulata</italic>
+</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Port Mansfield Liberty Ship</td><td align="left" rowspan="1" colspan="1">3/20/2017</td><td align="char" char="." rowspan="1" colspan="1">26.4296</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;97.0241</td><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">1 <italic>L.&#x000a0;hebes</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">MU 726 A</td><td align="left" rowspan="1" colspan="1">6/8/2017</td><td align="char" char="." rowspan="1" colspan="1">27.8146</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;96.7622</td><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">4 <italic>L.&#x000a0;virgulata</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Texas Clipper</td><td align="left" rowspan="1" colspan="1">7/8/2017</td><td align="char" char="." rowspan="1" colspan="1">26.1903</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;96.8614</td><td align="left" rowspan="1" colspan="1">15&#x02013;41</td><td align="left" rowspan="1" colspan="1">2 <italic>L.&#x000a0;virgulata</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">SPI Jetty</td><td align="left" rowspan="1" colspan="1">7/30/2017</td><td align="char" char="." rowspan="1" colspan="1">26.0674</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;97.1504</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">
+<p>3 <italic>L.&#x000a0;hebes;</italic>
+</p>
+<p>6 <italic>L.&#x000a0;virgulata</italic>
+</p>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece35847-sec-0004"><label>2.2</label><title>DNA Extraction and PCR</title><p>Three to five individual polyps were picked off from each coral sample, depending on the size and quality of preservation of the coral fragment. Polyps were visually inspected under a stereo microscope and picked off the coral stalk using forceps. Forceps were sterilized in between each sample using 100% bleach and 100% ethanol. If individual polyps were difficult to distinguish, an ~0.5&#x000a0;cm long piece was broken off of the coral fragment. The PureLink Genomic DNA Mini Kit (Thermo Fisher Scientific) was used to extract DNA from each sample following the manufacturer's standard protocol. Prior to extraction, coral polyps were rehydrated for 1&#x02013;2&#x000a0;hr in molecular grade water and then digested for at least 5&#x000a0;hr. The final DNA product was eluted two times for maximum yield. The elution buffer was heated to 55&#x000b0;C prior to use, and 60&#x000a0;&#x000b5;l of were used for both elutions. The concentration of the extracted DNA was measured using a Qubit fluorometer (Life Technologies Inc.).</p><p>Polymerase Chain Reaction (PCR) amplification was performed on 0.1&#x02013;5.0&#x000a0;ng template DNA from 24 samples in order to target the mtMutS gene with forward primer ND42599F (GCCATTATGGTTAACTATTAC; France &#x00026; Hoover, <xref rid="ece35847-bib-0018" ref-type="ref">2002</xref>) and reverse primer Mut3458R (TSGAGCAAAAGCCACTCC; Sanchez, McFadden, France, &#x00026; Lasker, <xref rid="ece35847-bib-0051" ref-type="ref">2003</xref>). The PCR mix consisted of the following in 25&#x000a0;&#x003bc;l total volume: 16.05&#x000a0;&#x000b5;l nuclease free water, 2.5 Invitrogen's 10X PCR Rxn Buffer, 1.25&#x000a0;&#x000b5;l Invitrogen's 50&#x000a0;mM MgCl, 2.0&#x000a0;&#x000b5;l of 10&#x000a0;mM dNTP, 1.0&#x000a0;&#x000b5;l of 10&#x000a0;mM forward primer (ND42599F), 1.0&#x000a0;&#x000b5;l of 10&#x000a0;mM reverse primer (Mut3458R), 0.2&#x000a0;&#x000b5;l Thermo Fisher's Invitrogen Platinum TAQ DNA Polymerase, and 1.0&#x000a0;&#x000b5;l DNA. Samples were then amplified in an Eppendorf Mastercycler pro thermocycler using the following parameters: 94&#x000b0;C for 2&#x000a0;min, 35 cycles at 94&#x000b0;C for 1&#x000a0;min, 50&#x000b0;C for 1&#x000a0;min, 72&#x000b0;C for 1&#x000a0;min, and a final step at 72&#x000b0;C for 5&#x000a0;min. The resulting product was visualized by gel electrophoresis on an ultraviolet light transilluminator to assess DNA length and quality. Once all samples yielded successful amplification, the final PCR product was then purified with the Invitrogen PureLink PCR Purification Kit, following the manufacturer's procedure. The primers and purified PCR products were then sent to Eurofins Genomics for sequencing of forward and reverse strands.</p><p>The genomic DNA extraction from each specimen was visualized after gel electrophoresis with an ultraviolet light transilluminator. Genomic DNA of high molecular weight with minimal degradation was identified by looking for high concentrations above 5,000&#x000a0;bp, with minimal streaking below this size. Based on these observations, the mitochondrial genome of ten specimens with the highest quality of genomic DNA was targeted using next generation sequencing technology. The genomic DNA extraction of these ten specimens was used to prepare an indexed library following standard procedures with the Nextera X2 kit. These 10 libraries, along with 86 libraries from other projects, were multiplexed and sequenced on a 100&#x000a0;bp paired&#x02010;end lane of Illumina HiSeq 2500 at Harvard's Biopolymers facility. The sequences were de&#x02010;multiplexed according to their indices.</p></sec><sec id="ece35847-sec-0005"><label>2.3</label><title>Sequence assembly and alignment</title><p>For each specimen, the sequences for the forward and reverse strands were assembled with the software CLC Workbench 7.9.1 (CLC Bio) using the settings: minimum aligned read length&#x000a0;=&#x000a0;500&#x000a0;bp, alignment stringency&#x000a0;=&#x000a0;high, conflicts&#x000a0;=&#x000a0;ambiguity nucleotides, trim sequence ends and trim using quality scores limit&#x000a0;=&#x000a0;0.05. A cutoff was used were only bases with Phred scores of 20 or more were kept. A consensus sequence was generated from each assembly. Qiagen's CLC Workbench 7.9.1 was used to align the <italic>mtMutS</italic> sequences. The <italic>mtMutS</italic> sequences were aligned using Qiagen's CLC Main Workbench 7 software and include 24 sequences from this study, the 114 sequences examined in Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) and 43 novel sequences available in GenBank for a total of 182 sequences (Table <xref rid="ece35847-tbl-0002" ref-type="table">2</xref>). The alignment was visually inspected for errors and inconsistencies. The final <italic>mtMutS</italic> alignment was 766&#x000a0;bp in length.</p><table-wrap id="ece35847-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>All 182 <italic>Leptogorgia mtMutS</italic> sequences incorporated into the <italic>mtMutS</italic> phylogeny with corresponding GenBank accession numbers</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Species</th><th align="left" valign="top" rowspan="1" colspan="1">Accession #</th><th align="left" valign="top" rowspan="1" colspan="1">Species</th><th align="left" valign="top" rowspan="1" colspan="1">Accession #</th><th align="left" valign="top" rowspan="1" colspan="1">Species</th><th align="left" valign="top" rowspan="1" colspan="1">Accession #</th><th align="left" valign="top" rowspan="1" colspan="1">Species</th><th align="left" valign="top" rowspan="1" colspan="1">Accession #</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159153
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721205
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia obscura</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721210
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia taboguilla</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221102
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159154
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721203
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia piccola</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268444
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia tricorata</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221111
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159155
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721202
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia pulcherrima</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY683795
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia tricorata</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221109
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159156
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721201
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia pulcherrima</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY683794
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia viminalis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY683797
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159157
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721195
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia pulcherrima</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY683793
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia viminalis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY683796
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159158
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY559410
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia pulcherrima</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268443
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia violacea</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268448
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159159
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767314
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia pumila</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767312
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia violetta</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268446
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159160
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917036
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia pumila</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221116
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268458
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159161
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917035
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia punicea</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268449
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY126418
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159162
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917034
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia ramulus</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268451
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia bayeri</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917044
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159163
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268452
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia ramulus</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767322
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia cairnsi</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY559409
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159164
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221108
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia regis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221101
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia cairnsi</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917041
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159165
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221113
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia regis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221100
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia catedralensis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917019
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159166
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia barnardi</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236043
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia regis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221099
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia cf. cairnsi</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917046
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159167
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia capverdensis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY553145
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia regis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221098
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia cf. cairnsi</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917021
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159168
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia cf.palma</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY559406
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia rigida</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+GQ342496
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia exilis</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX351871
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159169
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia cf. gilchristi</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236042
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia rubra</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767323
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia firma</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX351872
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia hebes</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159170
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia cf. palma</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236030
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia sarmentosa</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY559411
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia firma</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917022
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia hebes</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159171
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia cf. palma</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236031
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp.<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767315
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia irene</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX351873
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia hebes</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159172
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia chilensis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268460
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp.<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721204
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia irene</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917024
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia hebes</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159173
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia chilensis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+JN866554
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp.<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY559412
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia machalilla</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX351876
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia hebes</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159174
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia cofrini</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917037
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp. <italic>2</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236033
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia machalilla</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX351874
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia hebes</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159175
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia cofrini</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917040
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp. <italic>2</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236032
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia machalilla</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX351875
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia hebes</italic>
+<xref ref-type="fn" rid="ece35847-note-0001">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+MN159176
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia cofrini</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917039
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp.<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY683791
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia media</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+GQ342497
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Acanthogorgia</italic> sp<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268461
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia cofrini</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917038
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp.<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221114
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia rubicunda</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917027
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Antillogorgia acerosa</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+JX152763
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia cortesi</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221105
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp.<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221115
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia sculpta</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX351877
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Antillogorgia sp. 1</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+JX152764
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia cuspidata</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767318
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp.<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221106
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia senta</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221107
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Antillogorgia sp. 2</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+JX152765
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia cuspidata</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268450
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp. <italic>3</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236035
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia smithsoniana</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917023
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eugorgia ampla</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767316
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia cuspidata</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917047
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp. <italic>3</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236034
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia stenobrochis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917018
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eugorgia daniana</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+HG917048
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia dichotoma</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268445
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp. <italic>4</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236037
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia stenobrochis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY126420
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eugorgia daniana</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221110
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia diffusa</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767319
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp. <italic>4</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236036
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Phyllogorgia dilatata</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY126428
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eugorgia multifida</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+GQ342494
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia diffusa</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721209
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp. <italic>5</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236039
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pseudopterogorgia acerosa</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY126421
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eugorgia mutabilis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY559405
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia flexilis</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767326
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp. <italic>5</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236038
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pseudopterogorgia americana</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY126423
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eugorgia mutabilis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221112
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia flexilis</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767329
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp. <italic>6</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236041
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pseudopterogorgia australiensis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268442
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eugorgia rubens</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+JN866557
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia flexilis</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767328
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp. <italic>6</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY236040
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pseudopterogorgia bipinnata</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+DQ640646
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eugorgia siedenburgae</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221097
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia flexilis</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767327
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp.<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721200
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pseudopterogorgia elisabethae</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY126422
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eugorgia siedenburgae</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221096
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia flexilis</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767325
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp.<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721199
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pseudopterogorgia fredericki</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+JX152766
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eugorgia siedenburgae</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221094
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia flexilis</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767473
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp.<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721197
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Pseudopterogorgia rubrotincta</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+JX152768
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eunicea mammosa</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+JX152767
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia flexilis</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767474
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp.<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721196
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Eunicella cavolinii</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+JQ397290
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eunicella albicans</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY559407
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia gaini</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY559404
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp.<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721198
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Eunicella singularis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+JQ397296
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eunicella cavolinii</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY559408
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia gracilis</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268454
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia styx</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268453
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Eunicella</italic> sp.<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+JQ397310
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Gorgonia flabellum</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY126427
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia hebes</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268459
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia sylvanae</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY683792
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Eunicella verrucosa</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+JQ397300
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Gorgonia mariae</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY126426
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia labiata</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY268447
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia sylvanae</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KY683798
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Gorgonia ventalina</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+AY126425
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia mariarosae</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721193
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia taboguilla</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221103
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767324
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia obscura</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767321
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia taboguilla</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221093
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX721206
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia obscura</italic>
+<xref ref-type="fn" rid="ece35847-note-0002">b</xref>
+</td><td align="left" rowspan="1" colspan="1">
+KX767320
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia taboguilla</italic>
+<xref ref-type="fn" rid="ece35847-note-0003">c</xref>
+</td><td align="left" rowspan="1" colspan="1">
+LT221104
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr></tbody></table><table-wrap-foot id="ece35847-ntgp-0001"><fn id="ece35847-note-0001"><label>a</label><p>Sequences from this study.</p></fn><fn id="ece35847-note-0002"><label>b</label><p>New sequences from GenBank.</p></fn><fn id="ece35847-note-0003"><label>c</label><p>Sequences used by Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The Illumina sequence reads were assembled using the software CLC Genomics Workbench 11. Default settings were used with reads mapped back to contigs (mismatch cost&#x000a0;=&#x000a0;2, insertion cost&#x000a0;=&#x000a0;3, deletion cost&#x000a0;=&#x000a0;3, length fraction&#x000a0;=&#x000a0;0.5, similarity fraction&#x000a0;=&#x000a0;0.8). The sequences obtained from the assemblies included the full mitochondrial genome for each specimen with an average read coverage of over 100 and a minimum coverage of 35. The assembled genomes were annotated using Qiagen CLC Genomics Workbench 11 software using previously published <italic>Leptogorgia mt</italic> genomes as references (Table <xref rid="ece35847-tbl-0003" ref-type="table">3</xref>). The ten mitochondrial genomes obtained were analyzed along with eleven mitochondrial genomes available in GenBank (Table <xref rid="ece35847-tbl-0003" ref-type="table">3</xref>). Individual genes and RNAs were extracted and aligned separately using MUSCLE v3.8 (Edgar, <xref rid="ece35847-bib-0015" ref-type="ref">2004</xref>) with default parameters. The alignments were visually inspected for consistency. The resulting alignments were then concatenated for phylogenetic analyses and deposited in the online database <ext-link ext-link-type="uri" xlink:href="http://figshare.com">http://figshare.com</ext-link> under <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.10052030">https://doi.org/10.6084/m9.figshare.10052030</ext-link>.</p><table-wrap id="ece35847-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>All 21 gorgonian mitochondrial genomes and their corresponding GenBank accession number</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Species</th><th align="left" valign="top" rowspan="1" colspan="1">Size (bp)</th><th align="left" valign="top" rowspan="1" colspan="1">GenBank Accession #</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">18,845</td><td align="left" rowspan="1" colspan="1">
+MK301586
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">18,845</td><td align="left" rowspan="1" colspan="1">
+MK301587
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">18,824</td><td align="left" rowspan="1" colspan="1">
+MK301588
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">18,845</td><td align="left" rowspan="1" colspan="1">
+MK301589
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">18,845</td><td align="left" rowspan="1" colspan="1">
+MK301590
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">18,824</td><td align="left" rowspan="1" colspan="1">
+MK301591
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia virgulata</italic>
+<xref ref-type="fn" rid="ece35847-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">18,845</td><td align="left" rowspan="1" colspan="1">
+MK301592
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia hebes</italic>
+<xref ref-type="fn" rid="ece35847-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">19,247</td><td align="left" rowspan="1" colspan="1">
+MN052675
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia hebes</italic>
+<xref ref-type="fn" rid="ece35847-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">19,247</td><td align="left" rowspan="1" colspan="1">
+MN052676
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia hebes</italic>
+<xref ref-type="fn" rid="ece35847-note-0004">a</xref>
+</td><td align="left" rowspan="1" colspan="1">19,247</td><td align="left" rowspan="1" colspan="1">
+MN052677
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Pseudopterogorgia bipinnata</italic>
+</td><td align="left" rowspan="1" colspan="1">18,733</td><td align="left" rowspan="1" colspan="1">
+DQ640646
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia capverdensis</italic>
+</td><td align="left" rowspan="1" colspan="1">18,722</td><td align="left" rowspan="1" colspan="1">
+KY553145
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia gaini</italic>
+</td><td align="left" rowspan="1" colspan="1">19,682</td><td align="left" rowspan="1" colspan="1">
+KY559404
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eugorgia mutabilis</italic>
+</td><td align="left" rowspan="1" colspan="1">19,157</td><td align="left" rowspan="1" colspan="1">
+KY559405
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia cf. palma</italic>
+</td><td align="left" rowspan="1" colspan="1">18,731</td><td align="left" rowspan="1" colspan="1">
+KY559406
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eunicella albicans</italic>
+</td><td align="left" rowspan="1" colspan="1">19,175</td><td align="left" rowspan="1" colspan="1">
+KY559407
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Eunicella cavolinii</italic>
+</td><td align="left" rowspan="1" colspan="1">19,316</td><td align="left" rowspan="1" colspan="1">
+KY559408
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Pacifigorgia cairnsi</italic>
+</td><td align="left" rowspan="1" colspan="1">19,156</td><td align="left" rowspan="1" colspan="1">
+KY559409
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia alba</italic>
+</td><td align="left" rowspan="1" colspan="1">18,848</td><td align="left" rowspan="1" colspan="1">
+KY559410
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia sarmentosa</italic>
+</td><td align="left" rowspan="1" colspan="1">18,722</td><td align="left" rowspan="1" colspan="1">
+KY559411
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Leptogorgia</italic> sp.</td><td align="left" rowspan="1" colspan="1">18,849</td><td align="left" rowspan="1" colspan="1">
+KY559412
+</td></tr></tbody></table><table-wrap-foot id="ece35847-ntgp-0002"><fn id="ece35847-note-0004"><label>a</label><p>The 10 novel <italic>mt</italic> genomes sequenced in this study.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece35847-sec-0006"><label>2.4</label><title>Phylogenetic analyses</title><p>Both <italic>mtMutS</italic> and complete <italic>mt</italic> genome alignments were used in phylogenetic analyses using maximum likelihood (ML) and Bayesian methods. The model of evolution and partitioning scheme was determined by PartitionFinder v1.1.1 (Lanfear, Calcott, Kainer, Mayer, &#x00026; Stamatakis, <xref rid="ece35847-bib-0031" ref-type="ref">2014</xref>) using linked branches and the Akaike information criterion (AIC). The RAxML v8.0.0 program (Stamatakis, <xref rid="ece35847-bib-0052" ref-type="ref">2017</xref>) was used to conduct the ML analyses and Mr. Bayes 3.1 (Ronquist &#x00026; Huelsenbeck, <xref rid="ece35847-bib-0049" ref-type="ref">2003</xref>) was used for the Bayesian analyses. Data blocks were created for <italic>mtMutS</italic> based on codon position (Table <xref rid="ece35847-tbl-0004" ref-type="table">4</xref>). PartitionFinder selected GTR&#x000a0;+&#x000a0;G as the best evolutionary model for three partitions: (a) mtMutS<sup>1</sup>; (b) mtMutS<sup>2</sup>; and (c) mtMutS<sup>3</sup>.</p><table-wrap id="ece35847-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Data block definitions for partition analysis</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Region</th><th align="left" colspan="3" valign="bottom" rowspan="1">Codon positions</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">1</th><th align="left" valign="bottom" rowspan="1" colspan="1">2</th><th align="left" valign="bottom" rowspan="1" colspan="1">3</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">(A)</td></tr><tr><td align="left" rowspan="1" colspan="1">Atp6</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">1&#x02013;708</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">2&#x02013;708</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">3&#x02013;708</td></tr><tr><td align="left" rowspan="1" colspan="1">Atp8</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">709&#x02013;924</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">710&#x02013;924</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">711&#x02013;924</td></tr><tr><td align="left" rowspan="1" colspan="1">Cox1</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">925&#x02013;2,550</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">926&#x02013;2,550</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">927&#x02013;2,550</td></tr><tr><td align="left" rowspan="1" colspan="1">Cox2</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">2,551&#x02013;3,312</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">2,552&#x02013;3,312</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">2,553&#x02013;3,312</td></tr><tr><td align="left" rowspan="1" colspan="1">Cox3</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">3,313&#x02013;4,098</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">3,314&#x02013;4,098</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">3,315&#x02013;4,098</td></tr><tr><td align="left" rowspan="1" colspan="1">Cytb</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">4,099&#x02013;5,273</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">4,100&#x02013;5,273</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">4,101&#x02013;5,273</td></tr><tr><td align="left" rowspan="1" colspan="1">MutS</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">5,274&#x02013;8,231</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">5,275&#x02013;8,231</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">5,276&#x02013;8,231</td></tr><tr><td align="left" rowspan="1" colspan="1">Nad1</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">8,232&#x02013;9,203</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">8,233&#x02013;9,203</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">8,234&#x02013;9,203</td></tr><tr><td align="left" rowspan="1" colspan="1">Nad2</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">9,204&#x02013;10,361</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">9,205&#x02013;10,361</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">9,206&#x02013;10,361</td></tr><tr><td align="left" rowspan="1" colspan="1">Nad3</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">10,362&#x02013;10,734</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">10,363&#x02013;10,734</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">10,364&#x02013;10,734</td></tr><tr><td align="left" rowspan="1" colspan="1">Nad4</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">10,735&#x02013;12,183</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">10,736&#x02013;12,183</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">10,737&#x02013;12,183</td></tr><tr><td align="left" rowspan="1" colspan="1">Nad4L</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">12,184&#x02013;12,477</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">12,185&#x02013;12,477</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">12,186&#x02013;12,477</td></tr><tr><td align="left" rowspan="1" colspan="1">Nad5</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">12,478&#x02013;14,320</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">12,479&#x02013;14,320</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">12,480&#x02013;14,320</td></tr><tr><td align="left" rowspan="1" colspan="1">Nad6</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">14,321&#x02013;14,878</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">14,322&#x02013;14,878</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">14,323&#x02013;14,878</td></tr><tr><td align="left" rowspan="1" colspan="1">rRNA (12s)</td><td align="char" char="&#x02013;" colspan="3" rowspan="1">14,879&#x02013;15,807</td></tr><tr><td align="left" rowspan="1" colspan="1">rRNA (16s)</td><td align="char" char="&#x02013;" colspan="3" rowspan="1">15,808&#x02013;17,999</td></tr><tr><td align="left" colspan="4" rowspan="1">(B)</td></tr><tr><td align="left" rowspan="1" colspan="1">MutS</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">1&#x02013;766</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">2&#x02013;766</td><td align="char" char="&#x02013;" rowspan="1" colspan="1">3&#x02013;766</td></tr></tbody></table><table-wrap-foot id="ece35847-ntgp-0003"><title>Note</title><fn id="ece35847-note-0005"><p>(A) Mitochondrial genome concatenated alignment including 14 protein&#x02010;coding genes and 2 RNAS. (B) <italic>mtMutS</italic> alignment.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>For the mitochondrial genome analyses, data blocks were created based on codon positions for all 14 protein&#x02010;coding genes (<italic>Cox1, Nad1, CytB, Nad6, Nad3, Nad4L,mtMutS, Nad2, Nad5, Nad4, Cox3, Atp6, Atp8,</italic> and <italic>Cox2</italic>) and two ribosomal RNAs (Table <xref rid="ece35847-tbl-0004" ref-type="table">4</xref>). For the ML analysis, PartitionFinder selected General Time Reversible plus Gamma (GTR&#x000a0;+&#x000a0;G) as the best evolutionary model for 11 partition subsets and GTR&#x000a0;+&#x000a0;I+G for three subsets (Table <xref rid="ece35847-tbl-0005" ref-type="table">5</xref>). For the Bayesian analysis, the data were partitioned into 16 subsets. PartitionFinder selected GTR&#x000a0;+&#x000a0;I as the best model for two subsets, F81 for one subset, GTR&#x000a0;+&#x000a0;G for four subsets, GTR&#x000a0;+&#x000a0;I+G for two subsets, GTR for one subset, HKY for two subsets, HKY&#x000a0;+&#x000a0;G for two subsets, and HKY&#x000a0;+&#x000a0;I+G for one subset (Table <xref rid="ece35847-tbl-0005" ref-type="table">5</xref>).</p><table-wrap id="ece35847-tbl-0005" xml:lang="en" orientation="portrait" position="float"><label>Table 5</label><caption><p>Partition scheme for the concatenated mitochondrial genome alignment for ML and Bayesian analyses</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Subset</th><th align="left" valign="top" rowspan="1" colspan="1">Best model</th><th align="left" valign="top" rowspan="1" colspan="1"># of Sites</th><th align="left" valign="top" rowspan="1" colspan="1">Maximum likelihood partitions</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">808</td><td align="left" rowspan="1" colspan="1">Nad2<sup>1</sup>, Atp6<sup>1</sup>, Nad6<sup>1</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;I+G</td><td align="char" char="." rowspan="1" colspan="1">2,333</td><td align="left" rowspan="1" colspan="1">Nad6<sup>2</sup>, Nad4<sup>2</sup>, Cytb<sup>2</sup>, Nad5<sup>2</sup>, Atp6<sup>2</sup>, Nad4L<sup>2</sup>, Nad12</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">1,423</td><td align="left" rowspan="1" colspan="1">Cox1<sup>3</sup>, Cytb<sup>3</sup>, Cox2<sup>3</sup>, Atp6<sup>3</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;I+G</td><td align="char" char="." rowspan="1" colspan="1">3,193</td><td align="left" rowspan="1" colspan="1">Atp8<sup>1</sup>, 16s rRNA, 12s rRNA</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">582</td><td align="left" rowspan="1" colspan="1">Nad2<sup>2</sup>, Atp8<sup>2</sup>, Nad3<sup>2</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">782</td><td align="left" rowspan="1" colspan="1">Nad2<sup>3</sup>, Nad1<sup>3</sup>, Atp8<sup>3</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">1,605</td><td align="left" rowspan="1" colspan="1">Cox2<sup>1</sup>, Nad4L<sup>1</sup>, Nad3<sup>1</sup>, Cox3<sup>1</sup>, Cox1<sup>1</sup>, Nad1<sup>1</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">1,058</td><td align="left" rowspan="1" colspan="1">Cox2<sup>2</sup>, Cox3<sup>2</sup>, Cox1<sup>2</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">546</td><td align="left" rowspan="1" colspan="1">Nad6<sup>3</sup>, Nad4L<sup>3</sup>, Cox3<sup>3</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;I+G</td><td align="char" char="." rowspan="1" colspan="1">1,490</td><td align="left" rowspan="1" colspan="1">Nad5<sup>1</sup>, Cytb<sup>1</sup>, Nad4<sup>1</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">1,110</td><td align="left" rowspan="1" colspan="1">MutS<sup>1</sup>, Nad3<sup>3</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">986</td><td align="left" rowspan="1" colspan="1">MutS<sup>2</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">1,600</td><td align="left" rowspan="1" colspan="1">Nad5<sup>3</sup>, MutS<sup>3</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">483</td><td align="left" rowspan="1" colspan="1">Nad4<sup>3</sup>
+</td></tr></tbody></table><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Subset</th><th align="left" valign="top" rowspan="1" colspan="1">Best model</th><th align="left" valign="top" rowspan="1" colspan="1"># of Sites</th><th align="left" valign="top" rowspan="1" colspan="1">Bayesian partitions</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;I</td><td align="char" char="." rowspan="1" colspan="1">808</td><td align="left" rowspan="1" colspan="1">Nad6<sup>1</sup>, Atp6<sup>1</sup>, Nad2<sup>1</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">F81</td><td align="char" char="." rowspan="1" colspan="1">720</td><td align="left" rowspan="1" colspan="1">Nad2<sup>2</sup>, Nad4L<sup>2</sup>, Atp6<sup>2</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">1,788</td><td align="left" rowspan="1" colspan="1">Atp8<sup>3</sup>, Cox1<sup>3</sup>, Cox2<sup>3</sup>, Atp6<sup>3</sup>, Nad1<sup>3</sup>, Nad4L<sup>3</sup>, Cox3<sup>3</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">HKY&#x000a0;+&#x000a0;I+G</td><td align="char" char="." rowspan="1" colspan="1">3,193</td><td align="left" rowspan="1" colspan="1">Atp8<sup>1</sup>, 16s rRNA, 12s rRNA</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">HKY</td><td align="char" char="." rowspan="1" colspan="1">196</td><td align="left" rowspan="1" colspan="1">Nad3<sup>2</sup>, Atp8<sup>2</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;I</td><td align="char" char="." rowspan="1" colspan="1">1,351</td><td align="left" rowspan="1" colspan="1">Cox1<sup>1</sup>, Nad1<sup>1</sup>, Cox3<sup>1</sup>, Nad4L<sup>1</sup>, Nad3<sup>1</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;I</td><td align="char" char="." rowspan="1" colspan="1">1,382</td><td align="left" rowspan="1" colspan="1">Cox1<sup>2</sup>, Nad1<sup>2</sup>, Cox3<sup>2</sup>, Cox2<sup>2</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">HKY</td><td align="char" char="." rowspan="1" colspan="1">254</td><td align="left" rowspan="1" colspan="1">Cox2<sup>1</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;I+G</td><td align="char" char="." rowspan="1" colspan="1">1,490</td><td align="left" rowspan="1" colspan="1">Cytb<sup>1</sup>, Nad4<sup>1</sup>, Nad5<sup>1</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;I+G</td><td align="char" char="." rowspan="1" colspan="1">1,675</td><td align="left" rowspan="1" colspan="1">Cytb<sup>2</sup>, Nad5<sup>2</sup>, Nad4<sup>2</sup>, Nad6<sup>2</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">HKY&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">1,563</td><td align="left" rowspan="1" colspan="1">Nad6<sup>3</sup>, MutS<sup>3</sup>, Cytb<sup>3</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">HKY&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">1,110</td><td align="left" rowspan="1" colspan="1">MutS<sup>1</sup>, Nad3<sup>3</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">986</td><td align="left" rowspan="1" colspan="1">MutS<sup>2</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">GTR</td><td align="char" char="." rowspan="1" colspan="1">386</td><td align="left" rowspan="1" colspan="1">Nad2<sup>3</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">483</td><td align="left" rowspan="1" colspan="1">Nad4<sup>3</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">GTR&#x000a0;+&#x000a0;G</td><td align="char" char="." rowspan="1" colspan="1">614</td><td align="left" rowspan="1" colspan="1">Nad5<sup>3</sup>
+</td></tr></tbody></table><table-wrap-foot id="ece35847-ntgp-0004"><title>Note</title><fn id="ece35847-note-0006"><p>Superscript numbers indicate codon position 1, 2, or 3.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The best maximum likelihood tree was reconstructed with RAxML for both, the <italic>mtMutS</italic> alignment and the <italic>mt</italic> genome alignment, using bootstrap values from 10,000 replicates. Note that in RAxML partitions cannot be analyzed with different evolutionary models and one model must be used for all partitions. Therefore, the mt genome alignment was analyzed under a GTR&#x000a0;+&#x000a0;G model given that PartitionFinder selected this as the best model for 11 of the 14 partitions. Phylogenetic trees were also reconstructed for both by Bayesian methods. Using Mr. Bayes, four chains were carried out for 1,100,000 generations, sampling every 200th generation. After inspecting the trace files generated by the Bayesian Markov Chain Monte Carlo (MCMC) runs, the initial 100,000 of sampled generations were omitted prior to building the consensus tree. Both ML and Bayesian phylogenies were rooted with sequences of species of Eunicella downloaded from Genbank (Tables <xref rid="ece35847-tbl-0002" ref-type="table">2</xref> and <xref rid="ece35847-tbl-0003" ref-type="table">3</xref>).</p><p>Divergence time estimates were performed by Bayesian analyses using full mitochondrial genomes only, with the software BEAST 2.3.2 (Bouckaert et al., <xref rid="ece35847-bib-0007" ref-type="ref">2019</xref>). The alignment was partitioned as specified above for the Bayesian phylogenetic reconstruction (Table <xref rid="ece35847-tbl-0003" ref-type="table">3</xref>). An uncorrelated log&#x02010;normal relaxed clock model was used along with the calibrated yule speciation model. The tree was calibrated based on the earliest fossil evidence for <italic>Eunicella</italic> (Kocurko &#x00026; Kocurko, <xref rid="ece35847-bib-0030" ref-type="ref">1992</xref>) with a date of origination set to 28.4&#x000a0;Ma (mean&#x000a0;=&#x000a0;1 and standard deviation&#x000a0;=&#x000a0;1). One chain was carried out for 10,000,000 generations, sampling every 1,000th generation. After inspecting the trace files generated by the Bayesian Markov Chain Monte Carlo (MCMC) runs, the initial 25% of sampled generations were omitted prior to building the tree. Mean divergence times were summarized with TreeAnnotator.</p></sec></sec><sec sec-type="results" id="ece35847-sec-0007"><label>3</label><title>RESULTS</title><sec id="ece35847-sec-0008"><label>3.1</label><title>Mitochondrial <italic>MutS</italic> phylogeny</title><p>The 17 sequences of <italic>mtMutS</italic> of <italic>L.&#x000a0;virgulata</italic> are identical, while the seven sequences of <italic>L.&#x000a0;hebes</italic> range from 99.74% to 100% identity. The phylogenetic reconstruction based on <italic>mtMutS</italic> included the 17 sequences of <italic>L.&#x000a0;virgulata</italic> and the seven sequences of <italic>L.&#x000a0;hebes</italic> generated by this study (Figure <xref rid="ece35847-fig-0001" ref-type="fig">1</xref>). These 24 sequences were combined with 158 additional <italic>Leptogorgia mtMutS</italic> sequences and two of <italic>Eunicella</italic> (outgroup), downloaded from GenBank. The topology between the Bayesian and maximum likelihood analyses is relatively similar. There are nine major clades (A&#x02013;I) that are strongly supported (&#x0003e;70 bootstrap and &#x0003e;95 posterior probability) except for Clade <italic>F</italic> (&#x0003c;50 bootstrap and &#x0003c;50 posterior probability), each corresponding to taxa from a particular geographic region (Figure <xref rid="ece35847-fig-0001" ref-type="fig">1</xref>). Clade A corresponds to species found in the Eastern Atlantic and Mediterranean. Clade A is sister to Clade B, which corresponds to species found in South Africa. Clade A and B, along with <italic>Pseudopterogorgia fredericki</italic> and <italic>Pseudopterogorgia australiensis</italic> form a clade that is weakly supported (51 bootstrap and 85 posterior probability) and sister to all other species (Figure <xref rid="ece35847-fig-0001" ref-type="fig">1</xref>). This sister clade with the remaining species is moderately supported (77 bootstrap and 86 posterior probability) and contains clades C&#x02013;I. Clade C (100 bootstrap and posterior probability) consists of 11 different species representing multiple genera (<italic>Pseudopterogorgia, Antillogorgia, Gorgonia,</italic> and <italic>Phyllogorgia</italic>). All species in Clade C are found in the Caribbean (Figure <xref rid="ece35847-fig-0001" ref-type="fig">1</xref>). Clade C is sister to the remaining species which form a strongly supported group (97 bootstrap and 86 posterior probability) containing clades D&#x02013;I. Clade D (100 bootstrap and posterior probability) is made up of species of <italic>Pacifigorgia</italic> along with a few species of <italic>Leptogorgia</italic>, all of which are from the Eastern Pacific (Figure <xref rid="ece35847-fig-0001" ref-type="fig">1</xref>). Clade D is sister to a strongly supported clade (100 bootstrap and 100 posterior probability) that consist of the remaining species within clades E&#x02013;I. Clade E (89 bootstrap and 100 posterior probability) consists of several species of <italic>Leptogorgia</italic> and <italic>Eugorgia</italic> all from the Eastern Pacific (Figure <xref rid="ece35847-fig-0001" ref-type="fig">1</xref>). Clade E is sister to a strongly supported group (91 bootstrap and 100 posterior probability) containing clades F&#x02013;I. Clade F does not have statistical support (&#x0003c;50 bootstrap and &#x0003c;50 posterior probability). Within clade F are <italic>Leptogorgia violacea</italic>, <italic>L.&#x000a0;punicea</italic>, and <italic>L.&#x000a0;rubra</italic> along with a well&#x02010;supported clade (90 bootstrap and 99 posterior probability) containing all specimens of <italic>L.&#x000a0;hebes</italic> (Figure <xref rid="ece35847-fig-0001" ref-type="fig">1</xref>). All species in clade F are from the Western Atlantic and Gulf of Mexico. Clade F is sister to a clade with no statistical support (&#x0003c;50 bootstrap and &#x0003c;50 posterior probability) containing the remaining species within clades G&#x02010;I. Clade G (100 bootstrap and posterior probability) contains several species of <italic>Eugorgia</italic> along with <italic>Leptogorgia pumila</italic>, all from the Eastern Pacific (Figure <xref rid="ece35847-fig-0001" ref-type="fig">1</xref>). Clade G is sister to a group that is not statistically supported (&#x0003c;50 bootstrap and &#x0003c;50 posterior probability) and contains clades H and I. Clade H (100 bootstrap and posterior probability) consists of species from the Western Atlantic and Gulf of Mexico, <italic>Leptogorgia gracilis</italic> and <italic>L.&#x000a0;virgulata</italic> (Figure <xref rid="ece35847-fig-0001" ref-type="fig">1</xref>). Specimens of <italic>L.&#x000a0;virgulata</italic> form a clade that is moderately supported in the ML tree (64 bootstrap) and strongly supported in the Bayesian tree (100 posterior probability). This <italic>L.&#x000a0;virgulata</italic> clade is sister to <italic>L.&#x000a0;gracilis</italic>. Clade H is sister to Clade I (100 bootstrap and posterior probability) which contains numerous species of <italic>Leptogorgia</italic> from the Eastern Pacific (Figure <xref rid="ece35847-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35847-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Maximum likelihood phylogenetic reconstruction of the genus <italic>Leptogorgia</italic> based on <italic>mtMutS</italic>. Major clades by geographic regions labeled A&#x02013;I. Support values shown only for clades A&#x02013;I and denoted by an * on branch, indicating strong support (&#x0003e;70 bootstrap/&#x0003e;95 posterior probability)</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14114-g001"/></fig></sec><sec id="ece35847-sec-0009"><label>3.2</label><title>Mitochondrial genomes</title><p>A total of ten new <italic>Leptogorgia</italic> mitochondrial genomes were obtained&#x02014;seven <italic>L.&#x000a0;virgulata mt</italic> genomes and three <italic>L.&#x000a0;hebes mt</italic> genomes. The <italic>L.&#x000a0;virgulata mt</italic> genomes range in length from 18,824 to 18,845, and all <italic>L.&#x000a0;hebes mt</italic> genomes are 19,247&#x000a0;bp. The <italic>L.&#x000a0;virgulata mt</italic> genomes range from 99.87% to 100% identity while those for <italic>L.&#x000a0;hebes</italic> range from 99.5% to 99.98% identity. All ten <italic>mt</italic> genomes consist of 14 protein&#x02010;coding genes (<italic>Cox1, Nad1, CytB, Nad6, Nad3, Nad4L, mtMutS, Nad2, Nad5, Nad4, Cox3, Atp6, Atp8,</italic> and <italic>Cox2</italic>, in respective order) and two ribosomal RNAs (Figure <xref rid="ece35847-fig-0002" ref-type="fig">2</xref>). Both species have what is presumed to be the ancestral gene order found in octocorals (Brugler &#x00026; France, <xref rid="ece35847-bib-0009" ref-type="ref">2008</xref>; Figueroa &#x00026; Baco, <xref rid="ece35847-bib-0016" ref-type="ref">2014</xref>, <xref rid="ece35847-bib-0017" ref-type="ref">2015</xref>; Medina, Collins, Takaoka, Kuehl, &#x00026; Boore, <xref rid="ece35847-bib-0036" ref-type="ref">2006</xref>; Park et al., <xref rid="ece35847-bib-0043" ref-type="ref">2012</xref>; Uda et al., <xref rid="ece35847-bib-0056" ref-type="ref">2011</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35847-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Complete mitochondrial genomes for <italic>Leptogorgia virgulata</italic> and <italic>Leptogorgia hebes</italic> including all 14 protein&#x02010;coding genes, shown in blue, and rRNAs, shown in red</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14114-g002"/></fig></sec><sec id="ece35847-sec-0010"><label>3.3</label><title>Mitogenomic phylogeny</title><p>The phylogenetic reconstruction based on full mitochondrial genomes included 7 <italic>mt</italic> genomes of <italic>L.&#x000a0;virgulata</italic> and 3 <italic>mt</italic> genomes of <italic>L.&#x000a0;hebes</italic> generated by this study. These <italic>mt</italic> genomes were combined with 11 additional <italic>mt</italic> genomes from the family Gorgoniidae and two <italic>mt</italic> genomes of <italic>Eunicella</italic> (outgroup), downloaded from GenBank (Table <xref rid="ece35847-tbl-0003" ref-type="table">3</xref>). Maximum likelihood and Bayesian analyses resulted in similar topology (Figure <xref rid="ece35847-fig-0003" ref-type="fig">3</xref>). There are nine well&#x02010;supported clades (clades I&#x02013;IX) that roughly match those identified in the <italic>mtMuS</italic> phylogeny (Figure <xref rid="ece35847-fig-0003" ref-type="fig">3</xref>). Clade I (96 bootstrap and 100 posterior probability) is made up of <italic>Leptogorgia palma</italic> (<italic>mtMuS</italic> clade B) as sister to clade II (100 bootstrap and posterior probability, <italic>mtMuS</italic> clade A) which contains <italic>Leptogorgia capverdensis</italic> and <italic>Leptogorgia sarmentosa</italic>. Clade I is sister to all other <italic>Leptogorgia</italic>, but this sister clade is weakly supported (61 bootstrap and 85 posterior probability) and contains <italic>Pseudopterogorgia bipinnata</italic> (<italic>mtMuS</italic> clade C) as sister to clade III. Clade III (100 bootstrap and posterior probability) contains <italic>Pacifigorgia cairnsi</italic> (<italic>mtMuS</italic> clade D) as sister to clade IV (100 bootstrap and posterior probability). Clade IV contains <italic>Leptogorgia</italic> sp. (KY559412) as sister to clade V (89 bootstrap and 100 posterior probability). Clade V consists of clade VI (90 bootstrap and 100 posterior probability) as sister to clade VII (65 bootstrap and 100 posterior probability). Clade VI has <italic>Leptogorgia alba</italic> (<italic>mtMuS</italic> clade I) as sister to <italic>Eugorgia mutabilis</italic> (<italic>mtMuS</italic> clade E). Clade VII contains clade VIII (<italic>mtMuS</italic> clade F) as sister to clade IX (<italic>mtMuS</italic> clade H). Clade VIII (100 bootstrap and 100 posterior probability) consists of three specimens of <italic>L.&#x000a0;hebes</italic>. Clade IX (100 bootstrap and posterior probability) consists of seven specimens of <italic>L.&#x000a0;virgulata</italic>. Within the <italic>L.&#x000a0;hebes</italic> clade, two individuals (accession #s MN052676 and MN052675) form a strongly supported clade (97 bootstrap and 81 posterior probability). The <italic>L.&#x000a0;virgulata</italic> clade also has two individuals (accession #s MK0301589 and MK0301591) forming an internal clade, strongly supported by maximum likelihood only (96 bootstrap).</p><fig fig-type="Figure" xml:lang="en" id="ece35847-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Maximum likelihood phylogenetic reconstruction of the family Gorgoniidae using complete mitogenomes. Major clades labeled I&#x02013;IX. Branch labels show support values (bootstrap/posterior probability). * on species names indicates mitochondrial genomes generated by this study. Branches labeled A&#x02013;H correspond to clades defined in the phylogeny based on <italic>mtMutS</italic>
+</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14114-g003"/></fig></sec><sec id="ece35847-sec-0011"><label>3.4</label><title>Mitogenomic divergence time estimation</title><p>The phylogenetic reconstruction based on mitochondrial genomes using fossil&#x02010;calibrated coalescent methods as implemented by Bayesian analyses in BEAST (Figure <xref rid="ece35847-fig-0004" ref-type="fig">4</xref>) resulted in topology similar to the maximum likelihood (ML) and Bayesian analysis with RaxML and Mr. Bayes, with some key differences. The tree is rooted with two <italic>Eunicella</italic> sp. (outgroup). Emerging from the root are two main clades which diverged from one another 25.96&#x000a0;Ma. Within the first main clade, there are two branches containing a single species each&#x02014;<italic>P.&#x000a0;bipinnata</italic> and <italic>Leptogorgia</italic> cf. <italic>palma</italic> which diverged 25.01 and 21.95&#x000a0;Ma, respectively. Following these two branches is a branch containing <italic>Leptogorgia gaini</italic>, which diverged 12.75&#x000a0;Ma from a sister subclade consisting of <italic>L.&#x000a0;sarmentosa</italic> and <italic>L.&#x000a0;capverdensis</italic>. <italic>Leptogorgia sarmentosa</italic> and <italic>L.&#x000a0;capverdensis</italic> diverged from one another 0.46&#x000a0;Ma. However, this subclade is weakly supported. The grouping of the five aforementioned species is consistent between all three mitogenomic trees, with the exception of <italic>P.&#x000a0;bipinnata</italic>. On the ML and Mr. Bayes' Bayesian trees, <italic>P.&#x000a0;bipinnata</italic> does not emerge until after the 4 other species&#x02014;<italic>L</italic>.&#x000a0;<italic>cf</italic>.&#x000a0;<italic>palma</italic>, <italic>L</italic>.&#x000a0;<italic>gaini</italic>, <italic>L.&#x000a0;sarmentosa</italic>, and <italic>L.&#x000a0;capverdensis</italic>&#x02014;and it forms a basal branch.</p><fig fig-type="Figure" xml:lang="en" id="ece35847-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Fossil&#x02010;calibrated phylogenetic reconstruction using Bayesian methods, showing divergence times in millions of years ago, indicated by values to the right of the nodes. The scale below the tree is millions of years, and the scale bar is 3.0&#x000a0;million years. Bar labels indicate posterior probability. Color indicates geographic region of species. Branches labeled I&#x02013;IX as defined by the noncalibrated phylogenetic reconstruction using mitochondrial genomes and those labeled A&#x02013;I correspond to clades as defined in the phylogenetic reconstruction based on <italic>mtMutS</italic>
+</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-14114-g004"/></fig><p>In the second main clade, <italic>P.&#x000a0;cairnsi</italic> diverges at 20.38&#x000a0;Ma and forms a basal branch to a subclade containing <italic>L.&#x000a0;hebes</italic>, <italic>E.&#x000a0;mutabilis</italic>, <italic>Leptogorgia</italic> sp. (KY559412), <italic>L.&#x000a0;alba</italic>, and <italic>L.&#x000a0;virgulata</italic>. <italic>Leptogorgia hebes</italic> is the first species to diverge from this subclade at 10.89&#x000a0;Ma. Following the <italic>L.&#x000a0;hebes</italic> group are two branches containing <italic>E.&#x000a0;mutabilis</italic> and <italic>Leptogorgia</italic> sp. (KY559412), diverging at 9.88 and 6.75&#x000a0;Ma, respectively. <italic>Leptogorgia alba</italic> and <italic>L.&#x000a0;virgulata</italic> then diverged from one another at 5.82&#x000a0;Ma. In the ML and Mr. Bayes' Bayesian trees, <italic>E.&#x000a0;mutabilis</italic> and <italic>L.&#x000a0;alba</italic> are sister to one another, but on the BEAST tree <italic>L.&#x000a0;alba</italic> is sister to <italic>L.&#x000a0;virgulata</italic>.</p></sec></sec><sec sec-type="discussion" id="ece35847-sec-0012"><label>4</label><title>DISCUSSION</title><sec id="ece35847-sec-0013"><label>4.1</label><title>Mitochondrial MutS phylogeny</title><p>The reconstructed <italic>mtMutS</italic> phylogeny uses 68 new <italic>mtMutS</italic> sequences (24 from this study and 44 from GenBank) added to the sequences used in the phylogenetic tree by Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>). This new <italic>mtMutS</italic> phylogeny agrees with the phylogeny presented by Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>). The <italic>Leptogorgia</italic> species from South Africa form a sister clade to species from the Eastern Atlantic and Mediterranean (Figure <xref rid="ece35847-fig-0001" ref-type="fig">1</xref>). The Caribbean clade from Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) is also recovered (clade C, Figure <xref rid="ece35847-fig-0001" ref-type="fig">1</xref>). There are several clades with species exclusively from the Eastern Pacific. Most notably, Eastern Pacific clade I is sister to the Western Atlantic and Gulf of Mexico clade H that contains <italic>L.&#x000a0;virgulata</italic> and <italic>L.&#x000a0;gracilis</italic>. As in Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>), the major clades identified (A&#x02013;I) have species that are exclusive to a particular geographic region. And while all of these clades are strongly supported (except for clade F), relationships between several of these clades is not clear due to low or no statistical support. The South African clade (clade B, Figure <xref rid="ece35847-fig-0001" ref-type="fig">1</xref>) contains <italic>L.&#x000a0;palma</italic>, formerly known as <italic>Lophogorgia crista</italic>, which is the type species for the <italic>Lophogorgia</italic> genus (Poliseno et al., <xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>). Because this South African group is monophyletic and strongly supported, Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) recommend that the genus <italic>Lophogorgia</italic> be resurrected and assigned to this clade. This complicates matters when it comes to other species formerly classified as <italic>Lophogorgia</italic> by Bayer (<xref rid="ece35847-bib-0004" ref-type="ref">1961</xref>) which are not in the South African clade&#x02010;specifically, <italic>L.&#x000a0;dichotoma</italic>, <italic>L.&#x000a0;capverdensis, L.&#x000a0;gaini, Lophogorgia viminalis</italic>, <italic>L.&#x000a0;hebes</italic>, <italic>L.&#x000a0;punicea</italic>, and <italic>L.&#x000a0;violacea</italic>. The former four all belong to the eastern Atlantic clade, while the latter three are Western Atlantic species. Further morphological and genetic analyses of these species in particular will be necessary in order to more accurately classify them and determine whether resurrecting the genus <italic>Lophogorgia</italic> would be appropriate. If the South African clade is recognized as its own genus, whether through the resurrection of <italic>Lophogorgia</italic> or by a new name, it would complicate the taxonomy of the remaining <italic>Leptogorgia</italic> species. The issue is that the type species for the genus <italic>Leptogorgia</italic> is <italic>L.&#x000a0;viminalis</italic>, formerly known as <italic>Gorgonia viminalis</italic> (Breedy &#x00026; Guzman, <xref rid="ece35847-bib-0008" ref-type="ref">2007</xref>) is within a monophyletic group with eastern Atlantic&#x02010;Mediterranean species, sister to the South African group. Therefore, if the South African group is granted species status, then any species that are not in the sister clade with <italic>L.&#x000a0;viminalis</italic> (which are the majority of <italic>Leptogorgia</italic> species) could not be classified as <italic>Leptogorgia</italic> and would have to be renamed. This supports Poliseno et al.'s (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) call to reclassify almost all <italic>Leptogorgia</italic> species and revise the genus in its entirety, which leaves the case of <italic>L.&#x000a0;hebes</italic> all the more ambiguous, as it does not fit in either <italic>Leptogorgia</italic> or <italic>Lophogorgia</italic>. It is likely that new genera need to be defined within this group to resolve these taxonomic issues.</p></sec><sec id="ece35847-sec-0014"><label>4.2</label><title>Mitogenomic phylogeny</title><p>The complete mitochondrial genomes of 21 gorgonian specimens were examined to elucidate phylogenetic relationships and to test the efficacy of using complete <italic>mt</italic> genome over the single <italic>mtMutS</italic> gene. This is the first study to sequence complete mitochondrial genomes for <italic>L.&#x000a0;virgulata</italic> and <italic>L.&#x000a0;hebes,</italic> and the resulting mitogenomic phylogeny is in agreement with our <italic>mtMutS</italic> phylogeny and with that of Poliseno et al.'s (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>), albeit with stronger branch support. The tree topology also matches that of the mitogenomic phylogeny presented by Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) while adding <italic>L.&#x000a0;hebes</italic> and <italic>L.&#x000a0;virgulata</italic> from the Gulf of Mexico as a sister clade to <italic>E.&#x000a0;mutabilis</italic> and <italic>L.&#x000a0;alba</italic> from the Eastern Pacific. These observations support Poliseno et al.'s conclusions that Western Atlantic gorgonians are more closely related to Eastern Pacific gorgonians than to eastern Atlantic gorgonians (<italic>L.&#x000a0;cf.&#x000a0;palma</italic>, <italic>L.&#x000a0;gaini, L.&#x000a0;sarmentosa</italic> and <italic>L.&#x000a0;capverdensis</italic>).</p></sec><sec id="ece35847-sec-0015"><label>4.3</label><title>Divergence time estimation</title><p>This is the first study to place divergence time estimates on complete mitochondrial genomes of <italic>Leptogorgia</italic> species. Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) suggested the first divergence event between Eastern Pacific and Western Atlantic species occurred about 28&#x000a0;Ma (with error bars ranging from 12 to 45&#x000a0;Ma). However, the fossil&#x02010;calibrated mitogenomic phylogeny presented in this study suggests that this first split between Eastern Pacific and western Atlantic species occurred later between 11 and 20&#x000a0;Ma (Figure <xref rid="ece35847-fig-0004" ref-type="fig">4</xref>), which is within Poliseno et al.'s (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) lower error range. According to O'Dea et al. (<xref rid="ece35847-bib-0040" ref-type="ref">2016</xref>), the formation of the Isthmus of Panama was not a singular event, but rather a series of geological events that took place over the course of the last 30&#x000a0;million years. Between 20 and 10&#x000a0;Ma, the Panama Arc island chain began to rise, based on O'Dea et al.'s (<xref rid="ece35847-bib-0040" ref-type="ref">2016</xref>) estimated rates of Arc uplift. Gene flow by the exchange of gametes and larvae through the CAS was likely high up to10&#x000a0;Ma, while there was still significant seawater exchange between the Atlantic and Pacific oceans (O'Dea et al., <xref rid="ece35847-bib-0040" ref-type="ref">2016</xref>). Both, <italic>L.&#x000a0;hebes</italic> and <italic>L.&#x000a0;virgulata</italic> are adapted to shallow water habitat ranging from 3 to 82&#x000a0;m (Cairns &#x00026; Bayer, <xref rid="ece35847-bib-0010" ref-type="ref">2009</xref>; Williamson et al., <xref rid="ece35847-bib-0062" ref-type="ref">2011</xref>). They mature rapidly (&#x0003c;2&#x000a0;years) and are broadcasts spawners, releasing eggs and sperm into the water column (Beasley et al., <xref rid="ece35847-bib-0006" ref-type="ref">2003</xref>; Gotelli, <xref rid="ece35847-bib-0021" ref-type="ref">1991</xref>). While larval duration in <italic>L.&#x000a0;hebes</italic> is not known, it can last up to 20&#x000a0;days in <italic>L.&#x000a0;virgulata</italic> (Gotelli, <xref rid="ece35847-bib-0021" ref-type="ref">1991</xref>). These characteristics indicate a potential for high dispersal and suggest that gametic and larval connectivity likely occurred between the Pacific and Atlantic oceans through a shallow CAS. Divergence of <italic>Leptogorgia</italic> between these basins likely increased after 10&#x000a0;Ma as seawater exchange became more constricted. Our data suggests that the <italic>L.&#x000a0;hebes</italic> speciated at about 11&#x000a0;Ma and it forms the first Western Atlantic clade on the mitogenomic tree. This divergence time coincides with the timing of more restricted water flow between the two basins.</p><p>O'Dea et al.'s (<xref rid="ece35847-bib-0040" ref-type="ref">2016</xref>) uplift data show that after this uplifting period between 20 and 10&#x000a0;Ma, a deepening event occurred between 10 and 6&#x000a0;Ma, in which the Panama Arc began to drop, resulting in greater connectivity between the ocean basins. This span of time is also characterized by shifts in migration rates of both terrestrial and marine fauna, referred to as migration pulses, by Bacon et al. (<xref rid="ece35847-bib-0003" ref-type="ref">2015</xref>). They specifically highlight a migration shift among marine organisms at around 7.96&#x000a0;Ma, based on their free model migration estimate. The synchrony of submergence of the Panama Arc and a migration event in marine organisms suggest that gene flow could have increased between the Eastern Pacific and Western Atlantic during this time. Following this period of subsidence, at around 6&#x000a0;Ma the Panama Arc began to emerge again and has continued to rise until the present day (O'Dea et al., <xref rid="ece35847-bib-0040" ref-type="ref">2016</xref>). Divergences of marine organisms begin to increase at this time, peaking at about 4&#x000a0;million years ago (O'Dea et al., <xref rid="ece35847-bib-0040" ref-type="ref">2016</xref>). This timing of events supports the divergence estimate of the Western Atlantic <italic>Leptogorgia</italic> sp. (KY559412) at 6.75&#x000a0;Ma and the divergence of the Western Atlantic <italic>L.&#x000a0;virgulata</italic> clade at 5.82&#x000a0;Ma, both diverging from sister clades in the Eastern Pacific. The estimated times of <italic>Leptogorgia</italic> species divergence obtained from this study are concordant with geologic data and historic migration data (Bacon et al., <xref rid="ece35847-bib-0003" ref-type="ref">2015</xref>; O'Dea et al., <xref rid="ece35847-bib-0040" ref-type="ref">2016</xref>), supporting an initial divergence between Eastern Pacific and Western Atlantic species at about 20&#x02013;11&#x000a0;Ma with extant lineages arising in each basin in an alternating pattern at 11 (Western Atlantic), 10 (Eastern Pacific), 7 (Western Atlantic), and 6 (Eastern Pacific) Ma (Figure <xref rid="ece35847-fig-0004" ref-type="fig">4</xref>).</p><p>The divergence times obtained from this study are more recent than those presented by Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) and with lower error estimates (2&#x02013;4&#x000a0;million&#x02010;year range as opposed to a 12&#x02013;40&#x000a0;million&#x02010;year range). This discrepancy is most likely attributed to our use of complete mitochondrial genomes that include fourteen protein&#x02010;coding genes and two RNAs instead of a single, partial gene (<italic>mtMutS</italic>). There are numerous studies of multiple taxa showing a pattern of incongruent tree topology between single mitochondrial markers and complete mitochondrial genomes despite the fact that they are the same locus and therefore share the same phylogenetic history (Havird &#x00026; Santos, <xref rid="ece35847-bib-0023" ref-type="ref">2014</xref>; Knaus et al., <xref rid="ece35847-bib-0029" ref-type="ref">2011</xref>; Luo et al., <xref rid="ece35847-bib-0033" ref-type="ref">2011</xref>; Nadimi et al., <xref rid="ece35847-bib-0039" ref-type="ref">2016</xref>; Pacheco et al., <xref rid="ece35847-bib-0042" ref-type="ref">2011</xref>; Rohland et al., <xref rid="ece35847-bib-0048" ref-type="ref">2007</xref>; Urantowka et al., <xref rid="ece35847-bib-0057" ref-type="ref">2017</xref>; Wang et al., <xref rid="ece35847-bib-0058" ref-type="ref">2017</xref>; Willerslev et al., <xref rid="ece35847-bib-0060" ref-type="ref">2009</xref>). For example, Havird, Santos Scott, and Schierwater, (<xref rid="ece35847-bib-0024" ref-type="ref">2014</xref>) analyze the performance of single and concatenated sets of mitochondrial genes relative to complete mitochondrial genomes for phylogenetic reconstruction of metazoans. Their findings show that single genes are not able to reproduce the topology of a mitogenomic phylogeny (Havird &#x00026; Santos, <xref rid="ece35847-bib-0023" ref-type="ref">2014</xref>). A similar study, but focusing on birds, showed that single mitochondrial genes resulted in incorrect and contradictory phylogenetic relationships, while the use of complete mitochondrial genomes accurately reflected the species tree (Urantowka et al., <xref rid="ece35847-bib-0057" ref-type="ref">2017</xref>). The same pattern has been observed in insects, where individual mitochondrial genes can result in different and contradicting tree topologies, while using the complete mitochondrial genome performs well at various taxonomic levels (Wang et al., <xref rid="ece35847-bib-0058" ref-type="ref">2017</xref>). In fungi, the phylogenetic signal differs between single mitochondrial genes, subsets of concatenated mitochondrial genes, and complete mitochondrial genomes, despite all being the same locus (Nadimi et al., <xref rid="ece35847-bib-0039" ref-type="ref">2016</xref>). In addition to potentially generating different and contradicting tree topologies, there are numerous examples across widespread taxa on how single mitochondrial genes oftentimes result in poorly supported phylogenetic trees that become fully resolved and well supported when using complete mitochondrial genomes (i.e., Arquez, Colgan, &#x00026; Castro, <xref rid="ece35847-bib-0001" ref-type="ref">2014</xref>; Justice, Weese, &#x00026; Santos, <xref rid="ece35847-bib-0026" ref-type="ref">2016</xref>; Perseke, Golombek, Schlegel, &#x00026; Struck, <xref rid="ece35847-bib-0044" ref-type="ref">2013</xref>; Williams, Foster, &#x00026; Littlewood, <xref rid="ece35847-bib-0061" ref-type="ref">2014</xref>; Yu, Li, Ryder, &#x00026; Zhang, <xref rid="ece35847-bib-0063" ref-type="ref">2007</xref>). Phylogenies in Octocorals present a similar issue; previous research shows that it is difficult to distinguish between species when using the single gene <italic>mtMutS</italic> and that even using a concatenated set of 2&#x02013;3 different mitochondrial regions only allows to distinguish 70%&#x02013;80% of morphological species (i.e., Baco &#x00026; Cairns, <xref rid="ece35847-bib-0002" ref-type="ref">2012</xref>; McFadden et al., <xref rid="ece35847-bib-0035" ref-type="ref">2011</xref>). The low resolution provided by the use of a single mitochondrial region explains the low support for many clades in the <italic>mtMutS</italic> phylogeny presented in this study and that of Poliseno et al. (<xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>). Greater resolution and strong support of clades within the Octocorallia is achieved by using complete mitochondrial genomes, as demonstrated in our present study and in previous research (i.e., Figueroa &#x00026; Baco, <xref rid="ece35847-bib-0017" ref-type="ref">2015</xref>, <xref rid="ece35847-bib-0016" ref-type="ref">2014</xref>; Kayal et al., <xref rid="ece35847-bib-0027" ref-type="ref">2013</xref>; Poliseno et al., <xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>).</p><p>In addition to incongruent topologies and weakly supported clades, the use of single genes can result in overestimation of calibrated divergence times (Duch&#x000ea;ne et al., <xref rid="ece35847-bib-0014" ref-type="ref">2011</xref>; McCormack et al., <xref rid="ece35847-bib-0034" ref-type="ref">2011</xref>). McCormack et al. (<xref rid="ece35847-bib-0034" ref-type="ref">2011</xref>) demonstrates that divergence estimation from single mitochondrial genes results in earlier divergence times when compared to the use several markers from the mitochondrial and nuclear genome. They show that the gene tree reconstructed from single mitochondrial markers is not as robust and differs from the species tree reconstructed by using multiple markers from various loci (McCormack et al., <xref rid="ece35847-bib-0034" ref-type="ref">2011</xref>). While McCormack et al. (<xref rid="ece35847-bib-0034" ref-type="ref">2011</xref>) did not examine if complete mitochondrial genomes alone would yield better results, similar to those obtained when using several mitochondrial and nuclear markers, the research by Duch&#x000ea;ne et al. (<xref rid="ece35847-bib-0014" ref-type="ref">2011</xref>) suggests that this might be the case. In their study, Duch&#x000ea;ne et al. (<xref rid="ece35847-bib-0014" ref-type="ref">2011</xref>) compare phylogenetic divergence estimates for cetaceans based on single mitochondrial genes, different combinations of concatenated genes, and complete mitochondrial genomes. Their results show that tree topology from single genes can differ from each other due to different substitution rates and that single gene divergence time estimates consistently resulted in overestimation of divergence times when compared to the use of complete mitochondrial genomes (Duch&#x000ea;ne et al., <xref rid="ece35847-bib-0014" ref-type="ref">2011</xref>). These results from previous research are congruent with our observations that in octocorals, such as the gorgonians analyzed in our study, the use of complete mitochondrial genomes as opposed to single mitochondrial genes, results in better resolved, well supported, trees that have earlier and more precise divergence time estimates. Since our divergence time estimates are concordant with regional geological events and divergence patterns of other organisms, it supports our hypothesis that the divergence times of Eastern Pacific and Western Atlantic <italic>Leptogorgia</italic> lineages is younger than previously suggested (Poliseno et al., <xref rid="ece35847-bib-0045" ref-type="ref">2017</xref>) with the majority of speciation events occurring after 10&#x000a0;Ma when significant seawater exchange between the Pacific and Atlantic Ocean ceased (e.g., Bacon et al., <xref rid="ece35847-bib-0003" ref-type="ref">2015</xref>; Montes et al., 2015; O'Dea et al., <xref rid="ece35847-bib-0040" ref-type="ref">2016</xref>). However, future work that includes multiple nuclear markers in addition to mitochondrial genomes is necessary to fully test this hypothesis.</p></sec></sec><sec sec-type="COI-statement" id="ece35847-sec-0016"><title>CONFLICT OF INTEREST</title><p>The authors declare they have no conflicts of interest.</p></sec><sec id="ece35847-sec-0017"><title>AUTHOR CONTRIBUTIONS</title><p>DFF conceived the ideas and designed methodology; DH collected the specimens; SS, NJF, and DFF generated the genetic data; SS and NJF analyzed the data; DFF and DH supervised research and analyses; SS and DFF wrote the manuscript; SS, DFF, NJF, and DH contributed to the interpretation of data. All authors contributed critically to the drafts and gave final approval for publication.</p></sec><sec id="ece35847-sec-0018"><sec disp-level="2" id="ece35847-sec-0019"><title>OPEN RESEARCH BADGES</title><p>This article has earned an <ext-link ext-link-type="uri" xlink:href="https://openscience.com">https://openscience.com</ext-link> for making publicly available the digitally&#x02010;shareable data necessary to reproduce the reported results. The data is available at <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/genbank/">https://www.ncbi.nlm.nih.gov/genbank/</ext-link>.</p></sec></sec></body><back><ack id="ece35847-sec-0021"><title>ACKNOWLEDGMENTS</title><p>We would like to thank the various UTRGV divers that collected coral specimens and the anonymous reviewers whose suggestions helped improve and clarify this manuscript. Specimen collections of the south Texas coast were supported by TPWD&#x02010;ARP (Grant No. 475342, 2016&#x02013;2018) to David Hicks. Research reported in this publication was supported in part by startup funds from the University of Texas Rio Grande Valley to Diego Figueroa, by the Gulf Research Program of the National Academies of Sciences, Engineering, and Medicine under the Grant Agreement number 2000007266 to Diego Figueroa, and by an Institutional Grant (NA14OAR4170102 to Diego Figueroa and David Hicks) to the Texas Sea Grant College Program from the National Sea Grant Office, National Oceanic and Atmospheric Administration, U.S. Department of Commerce. The content is solely the responsibility of the authors and does not necessarily represent the official views of the Gulf Research Program or the National Academies of Sciences, Engineering, and Medicine.</p></ack><sec sec-type="data-availability" id="ece35847-sec-0020"><title>DATA AVAILABILITY STATEMENT</title><p>Mitochondrial genome and <italic>mtMutS</italic> sequences can be accessed online through GenBank (accession numbers listed in Table <xref rid="ece35847-tbl-0004" ref-type="table">4</xref>).</p></sec><ref-list content-type="cited-references" id="ece35847-bibl-0001"><title>REFERENCES</title><ref id="ece35847-bib-0001"><mixed-citation publication-type="journal" id="ece35847-cit-0001">
+<string-name>
+<surname>Arquez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Colgan</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Castro</surname>, <given-names>L. R.</given-names>
+</string-name> (<year>2014</year>). <article-title>Sequence and comparison of mitochondrial genomes in the genus Nerita (Gastropoda: Neritimorpha: Neritidae) and phylogenetic considerations among gastropods</article-title>. <source xml:lang="en">Marine Genomics</source>, <volume>15</volume>, <fpage>45</fpage>&#x02013;<lpage>54</lpage>. <pub-id pub-id-type="doi">10.1016/j.margen.2014.04.007</pub-id>
+<pub-id pub-id-type="pmid">24798873</pub-id></mixed-citation></ref><ref id="ece35847-bib-0002"><mixed-citation publication-type="journal" id="ece35847-cit-0002">
+<string-name>
+<surname>Baco</surname>, <given-names>A. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cairns</surname>, <given-names>S. D.</given-names>
+</string-name> (<year>2012</year>). <article-title>Comparing molecular variation to morphological species designations in the deep&#x02010;sea coral Narella reveals new insights into seamount coral ranges</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>7</volume>, <elocation-id>e45555</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0045555</pub-id>
+<pub-id pub-id-type="pmid">23029093</pub-id></mixed-citation></ref><ref id="ece35847-bib-0003"><mixed-citation publication-type="journal" id="ece35847-cit-0003">
+<string-name>
+<surname>Bacon</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Silvestro</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Jaramillo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>B. T.</given-names>
+</string-name>, <string-name>
+<surname>Chakrabarty</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Antonelli</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Biological evidence supports an early and complex emergence of the Isthmus of Panama</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>112</volume>, <fpage>6110</fpage>&#x02013;<lpage>6115</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1423853112</pub-id>
+<pub-id pub-id-type="pmid">25918375</pub-id></mixed-citation></ref><ref id="ece35847-bib-0004"><mixed-citation publication-type="book" id="ece35847-cit-0004">
+<string-name>
+<surname>Bayer</surname>, <given-names>F. M.</given-names>
+</string-name> (<year>1961</year>). <source xml:lang="en">The shallow&#x02010;water Octocorallia of the West Indian region: A manual for marine biologists</source>. <publisher-loc>The Hague, The Netherlands</publisher-loc>: <publisher-name>M. Nijhoff</publisher-name>.</mixed-citation></ref><ref id="ece35847-bib-0006"><mixed-citation publication-type="book" id="ece35847-cit-0006">
+<string-name>
+<surname>Beasley</surname>
+<given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Dardeau</surname>
+<given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Schroeder</surname>
+<given-names>W. W.</given-names>
+</string-name> (<year>2003</year>). <source xml:lang="en">Reproductive biology of the gorgonian <italic toggle="yes">Leptoprgia hebes</italic> (verrill)</source>. American Academy of Underwater Sciences. <ext-link ext-link-type="uri" xlink:href="http://archive.rubiconfoundation.org/xmlui/handle/123456789/4735">http://archive.rubiconfoundation.org/xmlui/handle/123456789/4735</ext-link>
+</mixed-citation></ref><ref id="ece35847-bib-0007"><mixed-citation publication-type="journal" id="ece35847-cit-0007">
+<string-name>
+<surname>Bouckaert</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Vaughan</surname>, <given-names>T. G.</given-names>
+</string-name>, <string-name>
+<surname>Barido&#x02010;Sottani</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Duch&#x000ea;ne</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Fourment</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gavryushkina</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Drummond</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2019</year>). <article-title>BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis</article-title>. <source xml:lang="en">PLoS Computational Biology</source>, <volume>15</volume>, <elocation-id>e1006650</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pcbi.1006650</pub-id>
+<pub-id pub-id-type="pmid">30958812</pub-id></mixed-citation></ref><ref id="ece35847-bib-0008"><mixed-citation publication-type="journal" id="ece35847-cit-0008">
+<string-name>
+<surname>Breedy</surname>, <given-names>O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Guzman</surname>, <given-names>H. M.</given-names>
+</string-name> (<year>2007</year>). <article-title>A revision of the genus Leptogorgia Milne Edwards &#x00026; Haime, 1857 (Coelenterata: Octocorallia: Gorgoniidae) in the eastern Pacific</article-title>. <source xml:lang="en">Zootaxa</source>, <volume>1419</volume>, <fpage>1</fpage>&#x02013;<lpage>90</lpage>. <pub-id pub-id-type="doi">10.11646/zootaxa.1419.1.1</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0009"><mixed-citation publication-type="journal" id="ece35847-cit-0009">
+<string-name>
+<surname>Brugler</surname>, <given-names>M. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>France</surname>, <given-names>S. C.</given-names>
+</string-name> (<year>2008</year>). <article-title>The mitochondrial genome of a deep&#x02010;sea bamboo coral (Cnidaria, Anthozoa, Octocorallia, Isididae): Genome structure and putative origins of replication are not conserved among octocorals</article-title>. <source xml:lang="en">Journal of Molecular Evolution</source>, <volume>67</volume>, <fpage>125</fpage>&#x02013;<lpage>136</lpage>. <pub-id pub-id-type="doi">10.1007/s00239-008-9116-2</pub-id>
+<pub-id pub-id-type="pmid">18506498</pub-id></mixed-citation></ref><ref id="ece35847-bib-0010"><mixed-citation publication-type="book" id="ece35847-cit-0010">
+<string-name>
+<surname>Cairns</surname>, <given-names>S. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bayer</surname>, <given-names>F. M.</given-names>
+</string-name> (<year>2009</year>). <chapter-title>Chapter 13. Octocorallia (Cnidaria) of the Gulf of Mexico</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Felder</surname><given-names>D. L.</given-names></name></person-group>, and <person-group person-group-type="editor"><name name-style="western"><surname>Camp</surname><given-names>D. K.</given-names></name></person-group> (Eds), <source xml:lang="en">Gulf of Mexico-Origins, Waters, and Biota. Volume 1. Biodiversity</source>, <publisher-loc>College Station, Texas</publisher-loc>: <publisher-name>Texas A&#x00026;M Press</publisher-name>
+<fpage>321</fpage>&#x02013;<lpage>331</lpage>.</mixed-citation></ref><ref id="ece35847-bib-0011"><mixed-citation publication-type="journal" id="ece35847-cit-0011">
+<string-name>
+<surname>Cowman</surname>, <given-names>P. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bellwood</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2013</year>). <article-title>Vicariance across major marine biogeographic barriers: Temporal concordance and the relative intensity of hard versus soft barriers</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>280</volume>, <elocation-id>20131541</elocation-id>
+<pub-id pub-id-type="doi">10.1098/rspb.2013.1541</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0012"><mixed-citation publication-type="book" id="ece35847-cit-0012">
+<string-name>
+<surname>Cushing</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Boswell</surname>, <given-names>E. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hosman</surname>, <given-names>R. L.</given-names>
+</string-name> (<year>1964</year>). <source xml:lang="en">General geology of the Mississippi embayment</source>. (Report No. 448B), Professional Paper. <pub-id pub-id-type="doi">10.3133/pp448B</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0013"><mixed-citation publication-type="book" id="ece35847-cit-0013">
+<string-name>
+<surname>Demchuk</surname>, <given-names>T. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gary</surname>, <given-names>A. C.</given-names>
+</string-name> (<year>2009</year>). <source xml:lang="en">Geologic Problem solving with microfossils: A volume in honor of Garry D. Jones</source>. <publisher-loc>Tulsa, OK</publisher-loc>: <publisher-name>SEPM Society for Sedimentary Geology</publisher-name>.</mixed-citation></ref><ref id="ece35847-bib-0014"><mixed-citation publication-type="journal" id="ece35847-cit-0014">
+<string-name>
+<surname>Duch&#x000ea;ne</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Archer</surname>, <given-names>F. I.</given-names>
+</string-name>, <string-name>
+<surname>Vilstrup</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Caballero</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Morin</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Mitogenome phylogenetics: The impact of using single regions and partitioning schemes on topology, substitution rate and divergence time estimation</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>6</volume>, <elocation-id>e27138</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0027138</pub-id>
+<pub-id pub-id-type="pmid">22073275</pub-id></mixed-citation></ref><ref id="ece35847-bib-0015"><mixed-citation publication-type="journal" id="ece35847-cit-0015">
+<string-name>
+<surname>Edgar</surname>, <given-names>R. C.</given-names>
+</string-name> (<year>2004</year>). <article-title>MUSCLE: Multiple sequence alignment with high accuracy and high throughput</article-title>. <source xml:lang="en">Nucleic Acids Research</source>, <volume>32</volume>, <fpage>1792</fpage>&#x02013;<lpage>1797</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkh340</pub-id>
+<pub-id pub-id-type="pmid">15034147</pub-id></mixed-citation></ref><ref id="ece35847-bib-0016"><mixed-citation publication-type="journal" id="ece35847-cit-0016">
+<string-name>
+<surname>Figueroa</surname>, <given-names>D. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baco</surname>, <given-names>A. R.</given-names>
+</string-name> (<year>2014</year>). <article-title>Complete mitochondrial genomes elucidate phylogenetic relationships of the deep&#x02010;sea octocoral families Coralliidae and Paragorgiidae</article-title>. <source xml:lang="en">Deep Sea Research Part II: Topical Studies in Oceanography</source>, <volume>99</volume>, <fpage>83</fpage>&#x02013;<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1016/j.dsr2.2013.06.001</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0017"><mixed-citation publication-type="journal" id="ece35847-cit-0017">
+<string-name>
+<surname>Figueroa</surname>, <given-names>D. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baco</surname>, <given-names>A. R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Octocoral mitochondrial genomes provide insights into the phylogenetic history of gene order rearrangements, order reversals, and cnidarian phylogenetics</article-title>. <source xml:lang="en">Genome Biology and Evolution</source>, <volume>7</volume>, <fpage>391</fpage>&#x02013;<lpage>409</lpage>. <pub-id pub-id-type="doi">10.1093/gbe/evu286</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0018"><mixed-citation publication-type="journal" id="ece35847-cit-0018">
+<string-name>
+<surname>France</surname>, <given-names>S. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hoover</surname>, <given-names>L. L.</given-names>
+</string-name> (<year>2002</year>). <article-title>DNA sequences of the mitochondrial COI gene have low levels of divergence among deep&#x02010;sea octocorals (Cnidaria: Anthozoa)</article-title>. <source xml:lang="en">Hydrobiologia</source>, <volume>471</volume>, <fpage>149</fpage>&#x02013;<lpage>155</lpage>. <pub-id pub-id-type="doi">10.1023/A:1016517724749</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0019"><mixed-citation publication-type="book" id="ece35847-cit-0019">
+<string-name>
+<surname>Goffredo</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dubinsky</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2016</year>). <source xml:lang="en">The Cnidaria. Past, Present and Future: The world of Medusa and her sisters</source>. Springer. <pub-id pub-id-type="doi">10.1007/978-3-319-31305-4</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0020"><mixed-citation publication-type="journal" id="ece35847-cit-0020">
+<string-name>
+<surname>Gotelli</surname>, <given-names>N. J.</given-names>
+</string-name> (<year>1988</year>). <article-title>Determinants of recruitment, juvenile growth, and spatial distribution of a shallow&#x02010;water gorgonian</article-title>. <source xml:lang="en">Ecology</source>, <volume>69</volume>, <fpage>157</fpage>&#x02013;<lpage>166</lpage>. <pub-id pub-id-type="doi">10.2307/1943170</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0021"><mixed-citation publication-type="journal" id="ece35847-cit-0021">
+<string-name>
+<surname>Gotelli</surname>, <given-names>N. J.</given-names>
+</string-name> (<year>1991</year>). <article-title>Demographic models for <italic>Leptogorgia virgulata</italic>, a shallow&#x02010;water gorgonian</article-title>. <source xml:lang="en">Ecology</source>, <volume>72</volume>, <fpage>457</fpage>&#x02013;<lpage>467</lpage>. <pub-id pub-id-type="doi">10.2307/2937187</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0022"><mixed-citation publication-type="book" id="ece35847-cit-0022">
+<string-name>
+<surname>Grasshoff</surname>, <given-names>M.</given-names>
+</string-name> (<year>1988</year>). <source xml:lang="en">The genus leptogorgia octocorallia gorgoniidae in West Africa</source>. In: Atlantide report. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://eurekamag.com/research/007/903/007903490.php">https://eurekamag.com/research/007/903/007903490.php</ext-link>
+</mixed-citation></ref><ref id="ece35847-bib-0023"><mixed-citation publication-type="journal" id="ece35847-cit-0023">
+<string-name>
+<surname>Havird</surname>, <given-names>J. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Santos</surname>, <given-names>S. R.</given-names>
+</string-name> (<year>2014</year>). <article-title>Performance of single and concatenated sets of mitochondrial genes at inferring metazoan relationships relative to full mitogenome data</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>9</volume>, <elocation-id>e84080</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0084080</pub-id>
+<pub-id pub-id-type="pmid">24454717</pub-id></mixed-citation></ref><ref id="ece35847-bib-0024"><mixed-citation publication-type="journal" id="ece35847-cit-0024">
+<string-name>
+<surname>Havird</surname>, <given-names>Justin C.</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>, <given-names>Scott R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schierwater</surname>, <given-names>B.</given-names>
+</string-name> (<year>2014</year>). <article-title>Performance of Single and Concatenated Sets of Mitochondrial Genes at Inferring Metazoan Relationships Relative to Full Mitogenome Data</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>9</volume>(<issue>1</issue>), <elocation-id>e84080</elocation-id>.<pub-id pub-id-type="pmid">24454717</pub-id></mixed-citation></ref><ref id="ece35847-bib-0025"><mixed-citation publication-type="book" id="ece35847-cit-0025">
+<string-name>
+<surname>Hosman</surname>, <given-names>R. L.</given-names>
+</string-name> (<year>1996</year>). <source xml:lang="en">Regional stratigraphy and subsurface geology of Cenozoic deposits, Gulf Coastal Plain, south&#x02010;central United States</source>. USGS Professional Paper 1416- G. <pub-id pub-id-type="doi">10.3133/pp1416G</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0026"><mixed-citation publication-type="journal" id="ece35847-cit-0026">
+<string-name>
+<surname>Justice</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Weese</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Santos</surname>, <given-names>S. R.</given-names>
+</string-name> (<year>2016</year>). <article-title>Phylogenetic utility, and variability in structure and content, of complete mitochondrial genomes among genetic lineages of the Hawaiian anchialine shrimp <italic>Halocaridina rubra</italic> Holthuis 1963 (Atyidae:Decapoda)</article-title>. <source xml:lang="en">Mitochondrial DNA Part A</source>, <volume>27</volume>, <fpage>2710</fpage>&#x02013;<lpage>2718</lpage>. <pub-id pub-id-type="doi">10.3109/19401736.2015.1046161</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0027"><mixed-citation publication-type="journal" id="ece35847-cit-0027">
+<string-name>
+<surname>Kayal</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Roure</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Philippe</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>A. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lavrov</surname>, <given-names>D. V.</given-names>
+</string-name> (<year>2013</year>). <article-title>Cnidarian phylogenetic relationships as revealed by mitogenomics</article-title>. <source xml:lang="en">BMC Evolutionary Biology</source>, <volume>13</volume>, <fpage>5</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2148-13-5</pub-id>
+<pub-id pub-id-type="pmid">23302374</pub-id></mixed-citation></ref><ref id="ece35847-bib-0028"><mixed-citation publication-type="journal" id="ece35847-cit-0028">
+<string-name>
+<surname>Kitahara</surname>, <given-names>M. V.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>M.&#x02010;F.</given-names>
+</string-name>, <string-name>
+<surname>For&#x000ea;t</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Huttley</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>D. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chen</surname>, <given-names>C. A.</given-names>
+</string-name> (<year>2014</year>). <article-title>The &#x0201c;Naked Coral&#x0201d; hypothesis revisited &#x02013; Evidence for and against scleractinian monophyly</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>9</volume>, <elocation-id>e94774</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0094774</pub-id>
+<pub-id pub-id-type="pmid">24740380</pub-id></mixed-citation></ref><ref id="ece35847-bib-0029"><mixed-citation publication-type="journal" id="ece35847-cit-0029">
+<string-name>
+<surname>Knaus</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Cronn</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Liston</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pilgrim</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schwartz</surname>, <given-names>M. K.</given-names>
+</string-name> (<year>2011</year>). <article-title>Mitochondrial genome sequences illuminate maternal lineages of conservation concern in a rare carnivore</article-title>. <source xml:lang="en">BMC Ecology</source>, <volume>11</volume>, <fpage>10</fpage>
+<pub-id pub-id-type="doi">10.1186/1472-6785-11-10</pub-id>
+<pub-id pub-id-type="pmid">21507265</pub-id></mixed-citation></ref><ref id="ece35847-bib-0030"><mixed-citation publication-type="journal" id="ece35847-cit-0030">
+<string-name>
+<surname>Kocurko</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kocurko</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>1992</year>). <article-title>Fossil Octocorallia of the Red Bluff Formation, Lower Oligocene, Mississippi</article-title>. <source xml:lang="en">Journal of Paleontology</source>, <volume>66</volume>, <fpage>594</fpage>&#x02013;<lpage>602</lpage>. <pub-id pub-id-type="doi">10.1017/S0022336000024458</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0031"><mixed-citation publication-type="journal" id="ece35847-cit-0031">
+<string-name>
+<surname>Lanfear</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Calcott</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Kainer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Mayer</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stamatakis</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Selecting optimal partitioning schemes for phylogenomic datasets</article-title>. <source xml:lang="en">BMC Evolutionary Biology</source>, <volume>14</volume>, <fpage>14</fpage>&#x02013;<lpage>82</lpage>. <pub-id pub-id-type="doi">10.1186/1471-2148-14-82</pub-id>
+<pub-id pub-id-type="pmid">24450606</pub-id></mixed-citation></ref><ref id="ece35847-bib-0032"><mixed-citation publication-type="journal" id="ece35847-cit-0032">
+<string-name>
+<surname>Lessios</surname>, <given-names>H. A.</given-names>
+</string-name> (<year>2008</year>). <article-title>The great American schism: Divergence of marine organisms after the rise of the Central American Isthmus</article-title>. <source xml:lang="en">Annual Review of Ecology, Evolution, and Systematics</source>, <volume>39</volume>(<issue>1</issue>), <fpage>63</fpage>&#x02013;<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.38.091206.095815</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0033"><mixed-citation publication-type="journal" id="ece35847-cit-0033">
+<string-name>
+<surname>Luo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>, <given-names>S. Y. W.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>W.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zhu</surname>, <given-names>C.</given-names>
+</string-name> (<year>2011</year>). <article-title>Potential efficacy of mitochondrial genes for animal DNA barcoding: A case study using eutherian mammals</article-title>. <source xml:lang="en">BMC Genomics</source>, <volume>12</volume>, <fpage>84</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2164-12-84</pub-id>
+<pub-id pub-id-type="pmid">21276253</pub-id></mixed-citation></ref><ref id="ece35847-bib-0034"><mixed-citation publication-type="journal" id="ece35847-cit-0034">
+<string-name>
+<surname>McCormack</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Heled</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Delaney</surname>, <given-names>K. S.</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>, <given-names>A. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Knowles</surname>, <given-names>L. L.</given-names>
+</string-name> (<year>2011</year>). <article-title>Calibrating divergence times on species trees versus gene trees: Implications for speciation history of aphelocoma jays</article-title>. <source xml:lang="en">Evolution</source>, <volume>65</volume>, <fpage>184</fpage>&#x02013;<lpage>202</lpage>. <pub-id pub-id-type="doi">10.1111/j.1558-5646.2010.01097.x</pub-id>
+<pub-id pub-id-type="pmid">20681982</pub-id></mixed-citation></ref><ref id="ece35847-bib-0035"><mixed-citation publication-type="journal" id="ece35847-cit-0035">
+<string-name>
+<surname>McFADDEN</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name>
+<surname>Benayahu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Pante</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Thoma</surname>, <given-names>J. N.</given-names>
+</string-name>, <string-name>
+<surname>Nevarez</surname>, <given-names>P. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>France</surname>, <given-names>S. C.</given-names>
+</string-name> (<year>2011</year>). <article-title>Limitations of mitochondrial gene barcoding in Octocorallia</article-title>. <source xml:lang="en">Molecular Ecology Resources</source>, <volume>11</volume>, <fpage>19</fpage>&#x02013;<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1111/j.1755-0998.2010.02875.x</pub-id>
+<pub-id pub-id-type="pmid">21429097</pub-id></mixed-citation></ref><ref id="ece35847-bib-0036"><mixed-citation publication-type="journal" id="ece35847-cit-0036">
+<string-name>
+<surname>Medina</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>A. G.</given-names>
+</string-name>, <string-name>
+<surname>Takaoka</surname>, <given-names>T. L.</given-names>
+</string-name>, <string-name>
+<surname>Kuehl</surname>, <given-names>J. V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Boore</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2006</year>). <article-title>Naked corals: Skeleton loss in Scleractinia</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>103</volume>, <fpage>9096</fpage>&#x02013;<lpage>9100</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0602444103</pub-id>
+<pub-id pub-id-type="pmid">16754865</pub-id></mixed-citation></ref><ref id="ece35847-bib-0037"><mixed-citation publication-type="book" id="ece35847-cit-0037">
+<string-name>
+<surname>Milne&#x02010;Edwards</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Haime</surname>, <given-names>J.</given-names>
+</string-name> (<year>1857</year>). <source xml:lang="en">Histoire naturelle des coralliaires, ou polypes proprement dits</source>. <publisher-loc>Paris, France</publisher-loc>: <publisher-name>Roret</publisher-name>.</mixed-citation></ref><ref id="ece35847-bib-0038"><mixed-citation publication-type="journal" id="ece35847-cit-0038">
+<string-name>
+<surname>Montes</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cardona</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jaramillo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pardo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Silva</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Valencia</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Ayala</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e9;rez&#x02010;Angel</surname>, <given-names>L. C.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez&#x02010;Parra</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Ramirez</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ni&#x000f1;o</surname>, <given-names>H.</given-names>
+</string-name> (<year>2015</year>). <article-title>Middle Miocene closure of the Central American Seaway</article-title>. <source xml:lang="en">Science</source>, <volume>348</volume>, <fpage>226</fpage>
+<pub-id pub-id-type="doi">10.1126/science.aaa2815</pub-id>
+<pub-id pub-id-type="pmid">25859042</pub-id></mixed-citation></ref><ref id="ece35847-bib-0039"><mixed-citation publication-type="journal" id="ece35847-cit-0039">
+<string-name>
+<surname>Nadimi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Daubois</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hijri</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Mitochondrial comparative genomics and phylogenetic signal assessment of mtDNA among arbuscular mycorrhizal fungi</article-title>. <source xml:lang="en">Molecular Phylogenetics and Evolution</source>, <volume>98</volume>, <fpage>74</fpage>&#x02013;<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1016/j.ympev.2016.01.009</pub-id>
+<pub-id pub-id-type="pmid">26868331</pub-id></mixed-citation></ref><ref id="ece35847-bib-0040"><mixed-citation publication-type="journal" id="ece35847-cit-0040">
+<string-name>
+<surname>O'Dea</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lessios</surname>, <given-names>H. A.</given-names>
+</string-name>, <string-name>
+<surname>Coates</surname>, <given-names>A. G.</given-names>
+</string-name>, <string-name>
+<surname>Eytan</surname>, <given-names>R. I.</given-names>
+</string-name>, <string-name>
+<surname>Restrepo&#x02010;Moreno</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Cione</surname>, <given-names>A. L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Jackson</surname>, <given-names>J. B. C.</given-names>
+</string-name> (<year>2016</year>). <article-title>Formation of the Isthmus of Panama</article-title>. <source xml:lang="en">Science Advances</source>, <volume>2</volume>, <elocation-id>e1600883</elocation-id>
+<pub-id pub-id-type="doi">10.1126/sciadv.1600883</pub-id>
+<pub-id pub-id-type="pmid">27540590</pub-id></mixed-citation></ref><ref id="ece35847-bib-0041"><mixed-citation publication-type="journal" id="ece35847-cit-0041">
+<string-name>
+<surname>O'Neal</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pawlik</surname>, <given-names>J.</given-names>
+</string-name> (<year>2002</year>). <article-title>A reappraisal of the chemical and physical defenses of Caribbean gorgonian corals against predatory fishes</article-title>. <source xml:lang="en">Marine Ecology Progress Series</source>, <volume>240</volume>, <fpage>117</fpage>&#x02013;<lpage>126</lpage>. <pub-id pub-id-type="doi">10.3354/meps240117</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0042"><mixed-citation publication-type="journal" id="ece35847-cit-0042">
+<string-name>
+<surname>Pacheco</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Battistuzzi</surname>, <given-names>F. U.</given-names>
+</string-name>, <string-name>
+<surname>Lentino</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Aguilar</surname>, <given-names>R. F.</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Escalante</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Evolution of modern birds revealed by mitogenomics: Timing the radiation and origin of major orders</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>28</volume>, <fpage>1927</fpage>&#x02013;<lpage>1942</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/msr014</pub-id>
+<pub-id pub-id-type="pmid">21242529</pub-id></mixed-citation></ref><ref id="ece35847-bib-0043"><mixed-citation publication-type="journal" id="ece35847-cit-0043">
+<string-name>
+<surname>Park</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>, <given-names>D.&#x02010;S.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>J.&#x02010;S.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>J.&#x02010;I.</given-names>
+</string-name>, <string-name>
+<surname>Seo</surname>, <given-names>T.&#x02010;K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Won</surname>, <given-names>Y.&#x02010;J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Estimation of divergence times in cnidarian evolution based on mitochondrial protein&#x02010;coding genes and the fossil record</article-title>. <source xml:lang="en">Molecular Phylogenetics and Evolution</source>, <volume>62</volume>, <fpage>329</fpage>&#x02013;<lpage>345</lpage>. <pub-id pub-id-type="doi">10.1016/j.ympev.2011.10.008</pub-id>
+<pub-id pub-id-type="pmid">22040765</pub-id></mixed-citation></ref><ref id="ece35847-bib-0044"><mixed-citation publication-type="journal" id="ece35847-cit-0044">
+<string-name>
+<surname>Perseke</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Golombek</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schlegel</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Struck</surname>, <given-names>T. H.</given-names>
+</string-name> (<year>2013</year>). <article-title>The impact of mitochondrial genome analyses on the understanding of deuterostome phylogeny</article-title>. <source xml:lang="en">Molecular Phylogenetics and Evolution</source>, <volume>66</volume>, <fpage>898</fpage>&#x02013;<lpage>905</lpage>. <pub-id pub-id-type="doi">10.1016/j.ympev.2012.11.019</pub-id>
+<pub-id pub-id-type="pmid">23228546</pub-id></mixed-citation></ref><ref id="ece35847-bib-0045"><mixed-citation publication-type="journal" id="ece35847-cit-0045">
+<string-name>
+<surname>Poliseno</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Feregrino</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Sartoretto</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Aurelle</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>W&#x000f6;rheide</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>McFadden</surname>, <given-names>C. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vargas</surname>, <given-names>S.</given-names>
+</string-name> (<year>2017</year>). <article-title>Comparative mitogenomics, phylogeny and evolutionary history of Leptogorgia (Gorgoniidae)</article-title>. <source xml:lang="en">Molecular Phylogenetics and Evolution</source>, <volume>115</volume>, <fpage>181</fpage>&#x02013;<lpage>189</lpage>. <pub-id pub-id-type="doi">10.1016/j.ympev.2017.08.001</pub-id>
+<pub-id pub-id-type="pmid">28782594</pub-id></mixed-citation></ref><ref id="ece35847-bib-0046"><mixed-citation publication-type="book" id="ece35847-cit-0046">
+<string-name>
+<surname>Prothero</surname>, <given-names>D. R.</given-names>
+</string-name>, <string-name>
+<surname>Ivany</surname>, <given-names>L. C.</given-names>
+</string-name>, <string-name>
+<surname>Nesbitt</surname>, <given-names>E.</given-names>
+</string-name> (<year>2003</year>). <source xml:lang="en">From greenhouse to icehouse: The marine Eocene&#x02010;Oligocene transition</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Columbia University Press</publisher-name>.</mixed-citation></ref><ref id="ece35847-bib-0047"><mixed-citation publication-type="journal" id="ece35847-cit-0047">
+<string-name>
+<surname>Quattrini</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Etnoyer</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Doughty</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>English</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Falco</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Remon</surname>, <given-names>N.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Cordes</surname>, <given-names>E. E.</given-names>
+</string-name> (<year>2014</year>). <article-title>A phylogenetic approach to octocoral community structure in the deep Gulf of Mexico</article-title>. <source xml:lang="en">Deep Sea Research Part II: Topical Studies in Oceanography</source>, <volume>99</volume>, <fpage>92</fpage>&#x02013;<lpage>102</lpage>. <pub-id pub-id-type="doi">10.1016/j.dsr2.2013.05.027</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0048"><mixed-citation publication-type="journal" id="ece35847-cit-0048">
+<string-name>
+<surname>Rohland</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Malaspinas</surname>, <given-names>A.&#x02010;S.</given-names>
+</string-name>, <string-name>
+<surname>Pollack</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Slatkin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Matheus</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hofreiter</surname>, <given-names>M.</given-names>
+</string-name> (<year>2007</year>). <article-title>Proboscidean mitogenomics: Chronology and mode of elephant evolution using mastodon as outgroup</article-title>. <source xml:lang="en">PLoS Biology</source>, <volume>5</volume>, <elocation-id>e207</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pbio.0050207</pub-id>
+<pub-id pub-id-type="pmid">17676977</pub-id></mixed-citation></ref><ref id="ece35847-bib-0049"><mixed-citation publication-type="journal" id="ece35847-cit-0049">
+<string-name>
+<surname>Ronquist</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Huelsenbeck</surname>, <given-names>J. P.</given-names>
+</string-name> (<year>2003</year>). <article-title>MrBayes 3: Bayesian phylogenetic inference under mixed models</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>19</volume>, <fpage>1572</fpage>&#x02013;<lpage>1574</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btg180</pub-id>
+<pub-id pub-id-type="pmid">12912839</pub-id></mixed-citation></ref><ref id="ece35847-bib-0050"><mixed-citation publication-type="journal" id="ece35847-cit-0050">
+<string-name>
+<surname>S&#x000e1;nchez</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2007</year>). <article-title>A new genus of Atlantic octocorals (Octocorallia: Gorgoniidae): Systematics of gorgoniids with asymmetric sclerites</article-title>. <source xml:lang="en">Journal of Natural History</source>, <volume>41</volume>, <fpage>493</fpage>&#x02013;<lpage>509</lpage>. <pub-id pub-id-type="doi">10.1080/00222930701237315</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0051"><mixed-citation publication-type="journal" id="ece35847-cit-0051">
+<string-name>
+<surname>Sanchez</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>McFadden</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name>
+<surname>France</surname>, <given-names>S. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lasker</surname>, <given-names>H. R.</given-names>
+</string-name> (<year>2003</year>). <article-title>Molecular phylogenetic analyses of shallow&#x02010;water Caribbean octocorals</article-title>. <source xml:lang="en">Marine Biology</source>, <volume>142</volume>, <fpage>975</fpage>&#x02013;<lpage>987</lpage>. <pub-id pub-id-type="doi">10.1007/s00227-003-1018-7</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0052"><mixed-citation publication-type="journal" id="ece35847-cit-0052">
+<string-name>
+<surname>Stamatakis</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>). <article-title>RAxML version 8: A tool for phylogenetic analysis and post&#x02010;analysis of large phylogenies</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>30</volume>(<issue>9</issue>), <fpage>1312</fpage>&#x02013;<lpage>1313</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btu033</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0053"><mixed-citation publication-type="journal" id="ece35847-cit-0053">
+<string-name>
+<surname>Szedlmayer</surname>, <given-names>S. T.</given-names>
+</string-name> (<year>2007</year>). <source xml:lang="en">An Evaluation of the Benefits of Artificial Habitats for Red Snapper, <italic toggle="yes">Lutjanus campechanus</italic>, in the Northeast Gulf of Mexico</source>. Proceedings of the Gulf of Mexico and Caribbean Fisheries institute. <volume>59</volume>:<fpage>223</fpage>&#x02013;<lpage>230</lpage>.</mixed-citation></ref><ref id="ece35847-bib-0054"><mixed-citation publication-type="book" id="ece35847-cit-0054">
+<string-name>
+<surname>Tew</surname>, <given-names>B. H.</given-names>
+</string-name> (<year>1992</year>). <source xml:lang="en">Sequence stratigraphy, lithofacies relationships, and paleogeography of oligocene strata in southeastern Mississippi and southwestern Alabama</source>. <publisher-loc>Tuscaloosa, AL</publisher-loc>: <publisher-name>Geological Survey of Alabama, Stratigraphy and Paleontology Division</publisher-name>.</mixed-citation></ref><ref id="ece35847-bib-0055"><mixed-citation publication-type="journal" id="ece35847-cit-0055">
+<string-name>
+<surname>Thacker</surname>, <given-names>C. E.</given-names>
+</string-name> (<year>2017</year>). <article-title>Patterns of divergence in fish species separated by the Isthmus of Panama</article-title>. <source xml:lang="en">BMC Evolutionary Biology</source>, <volume>17</volume>:<fpage>1</fpage>&#x02013;<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1186/s12862-017-0957-4</pub-id>
+<pub-id pub-id-type="pmid">28049419</pub-id></mixed-citation></ref><ref id="ece35847-bib-0056"><mixed-citation publication-type="journal" id="ece35847-cit-0056">
+<string-name>
+<surname>Uda</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Komeda</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Koyama</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Koga</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Fujita</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Iwasaki</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Suzuki</surname>, <given-names>T.</given-names>
+</string-name> (<year>2011</year>). <article-title>Complete mitochondrial genomes of two Japanese precious corals, <italic>Paracorallium japonicum</italic> and <italic>Corallium konojoi</italic> (Cnidaria, Octocorallia, Coralliidae): Notable differences in gene arrangement</article-title>. <source xml:lang="en">Gene</source>, <volume>476</volume>, <fpage>27</fpage>&#x02013;<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1016/j.gene.2011.01.019</pub-id>
+<pub-id pub-id-type="pmid">21310221</pub-id></mixed-citation></ref><ref id="ece35847-bib-0057"><mixed-citation publication-type="journal" id="ece35847-cit-0057">
+<string-name>
+<surname>Urantowka</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Kroczak</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mackiewicz</surname>, <given-names>P.</given-names>
+</string-name> (<year>2017</year>). <article-title>The influence of molecular markers and methods on inferring the phylogenetic relationships between the representatives of the Arini (parrots, Psittaciformes), determined on the basis of their complete mitochondrial genomes</article-title>. <source xml:lang="en">BMC Evolutionary Biology</source>, <volume>17</volume>, <fpage>166</fpage>
+<pub-id pub-id-type="doi">10.1186/s12862-017-1012-1</pub-id>
+<pub-id pub-id-type="pmid">28705202</pub-id></mixed-citation></ref><ref id="ece35847-bib-0058"><mixed-citation publication-type="journal" id="ece35847-cit-0058">
+<string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L. I.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Q.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>M.&#x02010;Q.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.&#x02010;T.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>X.&#x02010;Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yuan</surname>, <given-names>M.&#x02010;L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Comparative mitogenomic analysis of mirid bugs (Hemiptera: Miridae) and evaluation of potential DNA barcoding markers</article-title>. <source xml:lang="en">PeerJ</source>, <volume>5</volume>, <elocation-id>e3661</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.3661</pub-id>
+<pub-id pub-id-type="pmid">28791201</pub-id></mixed-citation></ref><ref id="ece35847-bib-0059"><mixed-citation publication-type="journal" id="ece35847-cit-0059">
+<string-name>
+<surname>White</surname>, <given-names>M. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Strychar</surname>, <given-names>K. B.</given-names>
+</string-name> (<year>2010</year>). <article-title>Coral as environmental bioindicators: Ecological and morphological effects of gasoline on Gorgonian corals, <italic>Leptogorgia virgulata</italic>
+</article-title>. <source xml:lang="en">International Journal of Biology</source>, <volume>3</volume>, <pub-id pub-id-type="doi">10.5539/ijb.v3n1p63</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0060"><mixed-citation publication-type="journal" id="ece35847-cit-0060">
+<string-name>
+<surname>Willerslev</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Gilbert</surname>, <given-names>M. T. P.</given-names>
+</string-name>, <string-name>
+<surname>Binladen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>, <given-names>S. Y. W.</given-names>
+</string-name>, <string-name>
+<surname>Campos</surname>, <given-names>P. F.</given-names>
+</string-name>, <string-name>
+<surname>Ratan</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Schuster</surname>, <given-names>S. C.</given-names>
+</string-name> (<year>2009</year>). <article-title>Analysis of complete mitochondrial genomes from extinct and extant rhinoceroses reveals lack of phylogenetic resolution</article-title>. <source xml:lang="en">BMC Evolutionary Biology</source>, <volume>9</volume>, <fpage>95</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2148-9-95</pub-id>
+<pub-id pub-id-type="pmid">19432984</pub-id></mixed-citation></ref><ref id="ece35847-bib-0061"><mixed-citation publication-type="journal" id="ece35847-cit-0061">
+<string-name>
+<surname>Williams</surname>, <given-names>S. T.</given-names>
+</string-name>, <string-name>
+<surname>Foster</surname>, <given-names>P. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Littlewood</surname>, <given-names>D. T. J.</given-names>
+</string-name> (<year>2014</year>). <article-title>The complete mitochondrial genome of a turbinid vetigastropod from MiSeq Illumina sequencing of genomic DNA and steps towards a resolved gastropod phylogeny</article-title>. <source xml:lang="en">Gene</source>, <volume>533</volume>, <fpage>38</fpage>&#x02013;<lpage>47</lpage>. <pub-id pub-id-type="doi">10.1016/j.gene.2013.10.005</pub-id>
+<pub-id pub-id-type="pmid">24120625</pub-id></mixed-citation></ref><ref id="ece35847-bib-0062"><mixed-citation publication-type="journal" id="ece35847-cit-0062">
+<string-name>
+<surname>Williamson</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Strychar</surname>, <given-names>K. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Withers</surname>, <given-names>K.</given-names>
+</string-name> (<year>2011</year>). <article-title>Populations of the Gorgonian genus Leptogorgia at two jetties in the Northwestern Gulf of Mexico</article-title>. <source xml:lang="en">Gulf of Mexico Science</source>, <volume>29</volume>(<issue>2</issue>):<fpage>1</fpage>&#x02013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.18785/goms.2902.06</pub-id>
+</mixed-citation></ref><ref id="ece35847-bib-0063"><mixed-citation publication-type="journal" id="ece35847-cit-0063">
+<string-name>
+<surname>Yu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.&#x02010;W.</given-names>
+</string-name>, <string-name>
+<surname>Ryder</surname>, <given-names>O. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhang</surname>, <given-names>Y.&#x02010;P.</given-names>
+</string-name> (<year>2007</year>). <article-title>Analysis of complete mitochondrial genome sequences increases phylogenetic resolution of bears (Ursidae), a mammalian family that experienced rapid speciation</article-title>. <source xml:lang="en">BMC Evolutionary Biology</source>, <volume>7</volume>, <fpage>198</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2148-7-198</pub-id>
+<pub-id pub-id-type="pmid">17956639</pub-id></mixed-citation></ref></ref-list></back></article>

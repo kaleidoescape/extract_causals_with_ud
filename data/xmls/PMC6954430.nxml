@@ -1,0 +1,1627 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Brief Bioinform</journal-id><journal-id journal-id-type="iso-abbrev">Brief. Bioinformatics</journal-id><journal-id journal-id-type="publisher-id">bib</journal-id><journal-title-group><journal-title>Briefings in Bioinformatics</journal-title></journal-title-group><issn pub-type="ppub">1467-5463</issn><issn pub-type="epub">1477-4054</issn><publisher><publisher-name>Oxford University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">30099485</article-id><article-id pub-id-type="pmc">6954430</article-id><article-id pub-id-type="doi">10.1093/bib/bby066</article-id><article-id pub-id-type="publisher-id">bby066</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>Recent advances and prospects of computational methods for metabolite identification: a review with emphasis on machine learning approaches</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Nguyen</surname><given-names>Dai Hai</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref rid="cor1" ref-type="corresp"/><!--<email>hai@kuicr.kyoto-u.ac.jp</email>--></contrib><contrib contrib-type="author"><name><surname>Nguyen</surname><given-names>Canh Hao</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Mamitsuka</surname><given-names>Hiroshi</given-names></name><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="aff" rid="aff3">3</xref></contrib></contrib-group><aff id="aff1"><label>1</label>
+<institution>Department of machine learning and bioinformatics</institution>, Bioinformatics Center, Kyoto University, Uji, <country country="JP">Japan</country></aff><aff id="aff2"><label>2</label>
+<institution>Bioinformatics Center</institution>, Institute for Chemical Research, Kyoto University, Uji, <country country="JP">Japan</country></aff><aff id="aff3"><label>3</label>
+<institution>Department of Computer Science</institution>, Aalto University, Otakaari, FI, <country country="FI">Finland</country></aff><author-notes><corresp id="cor1">Corresponding author: Dai Hai Nguyen, Bioinformatics Center, Institute for Chemical Research, Kyoto University, Uji 611-0011, Japan. Email: <email>hai@kuicr.kyoto-u.ac.jp</email></corresp></author-notes><pub-date pub-type="collection"><month>11</month><year>2019</year></pub-date><pub-date pub-type="epub" iso-8601-date="2018-08-06"><day>06</day><month>8</month><year>2018</year></pub-date><pub-date pub-type="pmc-release"><day>06</day><month>8</month><year>2018</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>20</volume><issue>6</issue><fpage>2028</fpage><lpage>2043</lpage><history><date date-type="received"><day>30</day><month>4</month><year>2018</year></date><date date-type="rev-recd"><day>14</day><month>6</month><year>2018</year></date><date date-type="accepted"><day>3</day><month>7</month><year>2018</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2018. Published by Oxford University Press.</copyright-statement><copyright-year>2018</copyright-year><license license-type="cc-by-nc" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/"><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com</license-p></license></permissions><self-uri xlink:href="bby066.pdf"/><abstract><title>Abstract</title><p>Motivation: Metabolomics involves studies of a great number of metabolites, which are small molecules present in biological systems. They play a lot of important functions such as energy transport, signaling, building block of cells and inhibition/catalysis. Understanding biochemical characteristics of the metabolites is an essential and significant part of metabolomics to enlarge the knowledge of biological systems. It is also the key to the development of many applications and areas such as biotechnology, biomedicine or pharmaceuticals. However, the identification of the metabolites remains a challenging task in metabolomics with a huge number of potentially interesting but unknown metabolites. The standard method for identifying metabolites is based on the mass spectrometry (MS) preceded by a separation technique. Over many decades, many techniques with different approaches have been proposed for MS-based metabolite identification task, which can be divided into the following four groups: mass spectra database, <italic>in silico</italic> fragmentation, fragmentation tree and machine learning. In this review paper, we thoroughly survey currently available tools for metabolite identification with the focus on <italic>in silico</italic> fragmentation, and machine learning-based approaches. We also give an intensive discussion on advanced machine learning methods, which can lead to further improvement on this task.</p></abstract><kwd-group><kwd>mass spectrometry</kwd><kwd>machine learning</kwd><kwd>substructure prediction</kwd><kwd>substructure annotation</kwd></kwd-group><funding-group><award-group award-type="grant"><funding-source><named-content content-type="funder-name">MEXT KAKENHI</named-content><named-content content-type="funder-identifier">10.13039/501100001700</named-content></funding-source><award-id>16H02868</award-id></award-group><award-group award-type="grant"><funding-source><named-content content-type="funder-name">ACCEL JST</named-content><named-content content-type="funder-identifier">10.13039/501100009025</named-content></funding-source><award-id>JPMJAC1503</award-id></award-group><award-group award-type="grant"><funding-source><named-content content-type="funder-name">FiDiPro Tekes</named-content><named-content content-type="funder-identifier">10.13039/501100003406</named-content></funding-source></award-group><award-group award-type="grant"><funding-source><named-content content-type="funder-name">AIPSE Academy of Finland</named-content><named-content content-type="funder-identifier">10.13039/501100002341</named-content></funding-source></award-group></funding-group><counts><page-count count="16"/></counts></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Metabolites are small molecules, which are used in, or created by, the chemical reactions occurring in every cell of living organisms [<xref rid="C64" ref-type="bibr">64</xref>]. They play lots of important roles including signaling, building block of cells, energy transport, etc. Interpreting biochemical characteristics of the metabolites is an essential part of the metabolomics to extend the knowledge of biological systems. It is also the key to the development of many applications in areas such as biotechnology, biomedicine or pharmaceuticals.</p><p>In order to better understand metabolites, various techniques, most commonly used Mass Spectrometry (MS) and Nuclear Magnetic Resonance (NMR), have been employed to measure them in a high-throughput manner with different approaches [<xref rid="C65" ref-type="bibr">65</xref>]. Both are quite complementary and promising in the area, but neither has been shown to be clearly preferred over the other, because different techniques might also be used, depending on various factors such as the type and quality of sample to be analyzed, as well as the concentration and molecular properties of the metabolites. In general, NMR allows for a detailed characterization of the chemical structure of the compound, and it is opted for unambiguous identification of a chemical structure. However, a disadvantage of NMR is that it requires abundant and pure samples, yielding low sensitivity. By contrast, MS is more sensitive and specific, requiring fewer amount of samples, but providing less information regarding the chemical structures, namely its elemental composition and some structural fragments. We focus on the use of MS rather than NMR throughout the rest of this paper.</p><p>MS is a commonly used technique in analytical chemistry [<xref rid="C14" ref-type="bibr">14</xref>, <xref rid="C22" ref-type="bibr">22</xref>, <xref rid="C37" ref-type="bibr">37</xref>]. A mass spectrometer analyzes a chemical sample to determine the mass-to-charge ratios (m/z) of its substructures. The resulting mass spectrum is represented by a graph with m/z on the <italic>x</italic>-axis and the relative abundance of ions with m/z values on the <italic>y</italic>-axis (<xref ref-type="fig" rid="f1">Figure 1</xref>). Another way to represent a mass spectrum is as a list of peaks, each of which is defined by its m/z and intensity value (top-right corner of <xref ref-type="fig" rid="f1">Figure 1</xref>). The intensity values are often normalized such that the highest peak has a relative intensity of 100 for the subsequent processing stages.</p><fig id="f1" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Example MS spectrum from the public Human Metabolome Database for 1-Methylhistidine (HMBD00001) [<xref rid="C66" ref-type="bibr">66</xref>], with its corresponding chemical structure (top left) and peak list (top right).</p></caption><graphic xlink:href="bby066f1"/></fig><p>The main components of a mass spectrometer are as follows: an ionization source, a mass analyzer and a detector (<xref ref-type="fig" rid="f2">Figure
+2</xref>). The ion source is to make the input molecules become charged ions. The mass analyzer is to physically separate ions according to their m/z (mass). Once the ions have been separated according to their m/z, they are subsequently detected and quantified by the detector. Two usual forms of ionization are Electron Ionization (EI) and Electrospray Ionization (ESI), while the commonly used mass analyzer types include quadrupole, time-of-flight and orbitrap devices. The details of these devices can be found in [<xref rid="C13" ref-type="bibr">13</xref>, <xref rid="C14" ref-type="bibr">14</xref>, <xref rid="C36" ref-type="bibr">36</xref>]. As a preprocessing step, complex biological mixtures are often separated by a chromatographic step to provide pure or near pure compounds to the mass spectrometer [<xref rid="C14" ref-type="bibr">14</xref>,
+<xref rid="C37" ref-type="bibr">37</xref>]. There are two common forms of chromatography: gas chromatography (GC) and liquid chromatography (LC). While GC, often coupled with EI method (known as GC-EI-MS), requires the input to be in the gaseous phase, LC, often coupled with ESI (known as LC-ESI-MS), uses liquid mobile phase.</p><fig id="f2" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Main components of a mass spectrometer: ionization source, mass analyzer and detector.</p></caption><graphic xlink:href="bby066f2"/></fig><p>In practice, tandem mass spectrometry (or MS/MS) is widely used to provide more information about the chemical structures of compounds. Once samples are ionized (by ESI, EI, etc.) to generate a mixture of ions, precursor ions of a specific m/z are chosen (namely MS1) and then fragmented to generate product ions for detection (MS2). This selection&#x02013;fragmentation&#x02013;detection process can be further extended. For example, selected product ions in MS2 can be further fragmented to produce another group of product ions (MS3) and so on. Finally, all mass spectra with different levels are collected to make a mass spectral tree as illustrated in <xref ref-type="fig" rid="f3">Figure 3</xref>.</p><fig id="f3" orientation="portrait" position="float"><label>Figure 3</label><caption><p>A mass spectral tree with nodes corresponding to individual mass spectra with different levels. Mass spectral trees are characterized by depth (<inline-formula><tex-math id="M7">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\textrm{MS}^{n}$\end{document}</tex-math></inline-formula> level) and breadth (the number of product ions chosen for the subsequent fragmentation). The figure is adapted from [<xref rid="C61" ref-type="bibr">61</xref>].</p></caption><graphic xlink:href="bby066f3"/></fig><p>Identification of metabolites from MS or MS/MS spectra is an important step for further chemic-biological interpretation of metabolomics samples and modeling. In practice, this process is presumed to be one challenging and also the most time-consuming task in metabolomics experiments. Different from peptides and protein where the fragmentation is generally simple due to the repetition of their structures, the fragmentation process of metabolites under varying fragmentation energies is a more complicated stochastic process. Therefore, the interpretation of mass spectra is cumbersome and requires expert knowledge. There have been lots of computational techniques/software proposed and developed to deal with the task of metabolite identification. The primary purpose of this survey is not only to summarize the proposed techniques in the literature, but also to systematically organize them into groups according to their methodology and approaches. It would be beneficial in making researchers comprehend the key differences between techniques as well as the rationale behind their groupings. In general, we grouped computational techniques for the task into the following categories: (1) mass spectra library; (2) <italic>in silico</italic> fragmentation; (3) fragmentation tree and (4) machine learning. Given a query MS/MS spectrum of an unknown compound, mass spectral library is to compare the query spectrum against a database of MS/MS spectra of reference compounds and rank the candidates based on their similarity to the query spectrum. In contrast, <italic>in silico</italic> fragmentation attempts to generate simulated spectra from the chemical structures of reference compounds in a database and compare them to the query MS/MS spectrum. Fragmentation trees are constructed from MS/MS spectra by optimization techniques and can be used to cluster compounds into groups. Machine Learning (ML) is to learn and predict an intermediate representation between spectra and compound structures and then use such representation for matching or retrieval. The details these approaches and their difference will be presented in the following sections.</p><p>In this paper, we focus on the above (2) and (4), which are <italic>in silico</italic> fragmentation and machine learning for metabolite identification. The structure of the paper is organized as follows: mass spectra library will be briefly introduced in <xref ref-type="sec" rid="sec2">section
+2</xref>; in <xref ref-type="sec" rid="sec3">section 3</xref>, we present methods to generate <italic>in silico</italic> fragments from chemical structures of compounds, which can be further divided into three subgroups including rule-, combinatorial- and machine learning-based. Prior to the focus of approaches using machine learning for identifying metabolites in <xref ref-type="sec" rid="sec8">section 5</xref>, algorithms to construct fragmentation trees directly from MS/MS spectrum as well as its benefits for the metabolite identification task will be briefly described in <xref ref-type="sec" rid="sec7">section 4</xref>. Finally, a thorough discussion about using advanced machine learning approaches will be given in <xref ref-type="sec" rid="sec11">section 6</xref>.</p><fig id="f4" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The overview of approaches for metabolite identification. The numbers show the corresponding (sub)sections for each category.</p></caption><graphic xlink:href="bby066f4"/></fig></sec><sec id="sec2"><title>Mass spectra library</title><p>A traditional approach to identifying metabolites is to compare a given unknown MS or MS/MS spectrum (query spectrum) of an unknown compound against a database of a number of reference MS or MS/MS spectra [<xref rid="C16" ref-type="bibr">16</xref>, <xref rid="C51" ref-type="bibr">51</xref>, <xref rid="C58" ref-type="bibr">58</xref>]. The candidate molecules from the database are ranked based on the similarity of their spectra and the query spectrum and the best matching candidates are returned. In order to do that, various similarity or distance function have been proposed, from simple weighted counts of matching peaks [<xref rid="C57" ref-type="bibr">57</xref>], to more complicated probability-based measures [<xref rid="C42" ref-type="bibr">42</xref>].</p><p>However, the main disadvantage of these methods is that, the reference database is often incomplete and represents merely a small fraction of molecules in reality, leading to unreliable matching results if the reference spectrum of the targeted compound is not contained in the database. For example, the public Human Metabolome Database [<xref rid="C66" ref-type="bibr">66</xref>] consists of MS/MS spectrum for only approximately 2000 compounds, compared to more than 40 000 known human metabolites. The Metlin database [<xref rid="C54" ref-type="bibr">54</xref>] contains MS/MS spectra for more than 13 000, compared to over 240 000 endogenous and exogenous metabolites. The Global Natural Products Social Networking Library [<xref rid="C62" ref-type="bibr">62</xref>] contains MS/MS spectra for around 4000 compounds. As a result, alternative approaches for identifying metabolites have been devised to deal with the unavailability of measured reference spectra.</p></sec><sec id="sec3"><title>
+<italic>In silico</italic> fragmentation tools to aid metabolite identification</title><p>Due to the lack of MS/MS data of compounds in mass spectral databases, the ability to identify unknown compounds through search in these databases is limited as mentioned in the previous section. Therefore, the advent of software tools for predicting fragments and their abundance from the molecular structures of compounds can fill the gap between spectral and structural databases. This strategy has been successfully applied in protein studies to construct databases containing data on trypsin-associated cleavage and MS/MS spectra of peptides, such as MASCOT [<xref rid="C12" ref-type="bibr">12</xref>] and SEQUEST [<xref rid="C17" ref-type="bibr">17</xref>]. It is noted that the prediction of the fragmentation mechanism for peptides and protein is pretty simple due to the repetition in their structures. In contrast, the fragmentation of product ions of metabolites in a tandem mass spectrometer is a much more complicated stochastic process and depends on various factors including the detailed 3D structures of metabolites, the amount of energy to break several certain bonds to obtain the product ion, the probabilities of different dissociation reactions and so on. Nowadays, many <italic>in silico</italic> fragmentation software tools have been developed and used to identify MS/MS spectra when the reference spectrum is not available. In this section we survey different tools/methods using various algorithms for <italic>in silico</italic> fragmentation. The algorithms differ in the way that they deploy different strategies to generate <italic>in silico</italic> fragments from the chemical &#x02018;structures/graphs&#x02019; of the candidate compounds. We can divide them into three subgroups, which are as follows: rule-, combinatorial- and machine learning-based fragmentation tools (<xref ref-type="fig" rid="f4">Figure 4</xref>).</p><sec id="sec4"><title>Rule-based methods</title><p>The rule-based <italic>in silico</italic> fragmentation tools are used to predict/generate theoretical spectra from chemical structures/graphs of compounds in the database using a set of rules. This set of rules is a collection of general and heuristic rules of fragmentation processes extracted from data sets of elucidated MS/MS spectra. The predicted spectra of candidate compounds from the database will be compared with the queried spectrum [<xref rid="C25" ref-type="bibr">25</xref>, <xref rid="C32" ref-type="bibr">32</xref>].</p><p>A typical commercial software tool, Mass Frontier [<xref rid="C40" ref-type="bibr">40</xref>], developed by HighChem, can generate fragments according to general rules or to specific rule libraries. The libraries can be defined by users or provided by HighChem or combination of both. ACD/MS Fragmenter (available at: http://www.acdlabs.com), another commercial tool, also uses a comparable set of rules to generate fragments. MOLGEN-MSF [<xref rid="C52" ref-type="bibr">52</xref>], developed by the University of Bayreuth, uses general fragmentation rules and also is able to accept additional rules as an optional input file when calculating fragments. Besides, non-commercial rule-based software tools, like MASSIS [<xref rid="C9" ref-type="bibr">9</xref>] and MASSIMO [<xref rid="C18" ref-type="bibr">18</xref>] adopted different ways. In particular, structure-specific cleavage rules contained in MASSIS are divided into 26 different molecular classes. A molecule is classified into one or some of these classes and the corresponding fragmentation rules are applied to obtain a set of fragments. MASSIMO uses a small set of general fragmentation reactions parameterized with reaction probabilities drawn from a collection of determined fragmentations.</p><p>In fact, these rule-based methods are not preferred in practice due to several disadvantages, which are as follows: (1) the fragmentation process can significantly be variant due to small changes in the structure of a molecule. Hence, a fragmentation rule collected from a known fragmentation of a molecule may not be applied to another, even though they have very similar chemical structures; (2) It is empirically shown that a set of general rules is insufficient to identify some observed fragments with reasonably high accuracy. Although specific rules are constantly added to rule databases, they do not need to be applied to a new undiscovered compound in many cases and (3) The product ions of generated spectra have the same intensities because the bond cleavage rates are ignored. In reality, different molecules can generate the same product ions and the relative intensities can play a meaningful role in distinguishing these molecules.</p></sec><sec id="sec5"><title>Combinatorial-based methods</title><p>Different from the above software tools, which rely on fragmentation rule databases, combinatorial-based methods are to generate a graph of substructures from the chemical structure of a candidate compound in the database (<xref ref-type="fig" rid="f5">Figure 5</xref>), then find the most likely subset of the substructures or the so-called fragmentation trees that best matches the query spectrum by solving optimization problems. An advantage offered by this approach is in situations where MS/MS spectra of compounds with less known fragmentation rules are queried. Some typical methods are reviewed in this subsection. In general, methods belonging to this subsection differ in the way of how they find the fragmentation tree best matches to the query spectra to produce a similarity score.</p><fig id="f5" orientation="portrait" position="float"><label>Figure 5</label><caption><p>An illustration of generating all connected subgraphs of the precursor graph.</p></caption><graphic xlink:href="bby066f5"/></fig><p>FiD (Fragment iDentificator, [<xref rid="C23" ref-type="bibr">23</xref>]) performs a search over all potential fragmentation paths and outputs a ranked list of alternative structures. More specifically, given a graph structure of a precursor ion and its MS/MS spectrum, FiD first generates all potential connected subgraphs by a depth-first graph traversal (<xref ref-type="fig" rid="f5">Figure 5</xref>), then computing the masses of productions corresponding to the generated subgraphs to match with observed peak masses in the spectrum. After that, a list of candidate fragments is obtained then each of which is assigned a cost, namely, the standard bond energy required to cleave bonds from the precursor ion. Obviously, the candidate fragment with smaller cost will be preferred. Finally, a combinatorial optimization method, such as mix integer linear programming (MILP) is used to assign candidate fragments to measured peaks with minimal cost. Their experimental results show that, the product ions predicted by FiD agree better with the manual identification produced by domain experts than those of the rule-based fragment identification tools mentioned in the previous section. However, the main drawback of FiD is the computational expensiveness due to the following reasons: (1) rapid increase in the number of connected subgraphs; (2) the computational complexity of MILP to explain peaks with most likely candidate fragments. For these reasons, FiD can be applied to only small-sized molecules.</p><p>Another combinatorial based method is MetFrag [<xref rid="C67" ref-type="bibr">67</xref>] using heuristic strategies, such as the breadth-first search algorithm with a maximum tree depth parameter or removing duplicated subgraphs, to limit the search space of candidate fragments, overcoming the computational difficulty of FiD which employs depth-first graph traversal to generate subgraphs, as illustrated in <xref ref-type="fig" rid="f5">Figure 5</xref>. Hence, it is much faster than FiD and can be applied to a full structure database to find the compound that explains best the spectrum. MetFrag uses bond dissociation energies for the cost of cleaving bonds. The candidate fragments are then used to rank the candidate molecules in the database without finding the most likely fragments corresponding to the spectrum. In the same vein, MAGMA, introduced in [<xref rid="C49" ref-type="bibr">49</xref>], is an extended version to multistage spectral trees <inline-formula><tex-math id="M8">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\text {MS}^{n}$\end{document}</tex-math></inline-formula>. Different from MetFrag, when a substructure is considered to explain an <inline-formula><tex-math id="M9">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\text {MS}^{2}$\end{document}</tex-math></inline-formula> product ion which is the precursor ion of <inline-formula><tex-math id="M10">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\text {MS}^{3}$\end{document}</tex-math></inline-formula> spectrum, in addition to its substructure score, the resulting <inline-formula><tex-math id="M11">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\text {MS}^{3}$\end{document}</tex-math></inline-formula> spectrum is also taken into account. This spectrum is temporarily annotated with a subset of the substructures, similarly to <inline-formula><tex-math id="M12">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\text {MS}^{2}$\end{document}</tex-math></inline-formula> level fragmentation spectrum. Then, the substructure scores obtained at level 3 are added to the sore at level 2 and this total core is for ranking substructure candidates for MS/MS peak and its fragmentation spectrum. This procedure is applied recursively to handle <inline-formula><tex-math id="M13">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\text {MS}^{n}$\end{document}</tex-math></inline-formula> with any level, as illustrated in <xref ref-type="fig" rid="f6">Figure 6</xref>.</p><fig id="f6" orientation="portrait" position="float"><label>Figure 6</label><caption><p>An illustration of MAGMA to recursively rank structure candidates with multiple levels.</p></caption><graphic xlink:href="bby066f6"/></fig><fig id="f7" orientation="portrait" position="float"><label>Figure 7</label><caption><p>The flowchart of MetFusion: MassBank and MetFrag process the query spectrum and return two individually ranked list of compound candidates. The lists are then combined into a single integrated list of re-ranked candidates by calculating the similarity between candidate structures.</p></caption><graphic xlink:href="bby066f7"/></fig><p>Gerlich and Neumann [<xref rid="C19" ref-type="bibr">19</xref>] presented a system, namely MetFusion, to combine the results from MassBank (search in the spectral database) and MetFrag as illustrated in <xref ref-type="fig" rid="f7">Figure 7</xref>. The aim of this combination is to take advantage of complementary approaches to improve the compound identification. That is, the vast coverage of the structural databases queried by MetFrag and reliable matching results achieved by search in spectral libraries if similar spectra are available. The experimental results [<xref rid="C19" ref-type="bibr">19</xref>] show that a combination of an <italic>in silico</italic> fragmentation based method with curated reference measurements can improve compound identification and achieve the best of two approaches.</p><p>A drawback of this approach is that the above methods are mainly based on a bond disconnection approach to generate fragments from molecules, e.g., standard bond energy and bond dissociation energy used by FiD and MetFrag, respectively. However, these are solely approximate estimates and bond dissociation energies are much more complicated in reality. These limitations have been tackled with some methods based on learning models, which are presented the following subsections.</p></sec><sec id="sec6"><title>Machine learning-based methods</title><p>Besides the above approaches to generate <italic>in silico</italic> fragments from graph structure of compounds, there are a few works proposed to use machine learning models to learn the fragmentation process from the training data and have shown great promise in generating <italic>in silico</italic> spectra for the structural identification purpose. To avoid the confusion of the content in <xref ref-type="sec" rid="sec8">section 5</xref>, we clarify here that machine learning methods are used to learn and predict the presence of certain fragments (e.g., whether a bond between two atoms is broken or not) to generate <italic>in silico</italic> spectra from chemical structures. In a different sense, methods in <xref ref-type="sec" rid="sec8">section
+5</xref> are to learn and perform classification or clustering from spectra (<xref ref-type="fig" rid="f8">Figure 8</xref> for illustration).</p><fig id="f8" orientation="portrait" position="float"><label>Figure 8</label><caption><p>An illustration to clarify the difference between ML-based methods for learning and predicting <italic>in silico</italic> spectra from 2D structures of compounds (a) and ML based methods for learning and predicting substructures or chemical properties from MS/MS spectra (b). The numbers indicate the (sub)sections for each category.</p></caption><graphic xlink:href="bby066f8"/></fig><p>The previously mentioned methods to generate <italic>in silico</italic> fragments from the chemical structures of compounds are based on either chemical reaction equations or approximate bond strength. None of them have shown sufficient accuracy in generating <italic>in silico</italic> spectra for enabling automated and correct identification of metabolites. To overcome the difficulty, [<xref rid="C29" ref-type="bibr">29</xref>] presented a method, named ISIS, using machine learning to generate <italic>in silico</italic> MS/MS spectra for lipids solely from chemical structures of compounds without fragmentation rules and no need to define bond dissociation energy. The main idea is that, for every bond in the molecular structure, one artificial neural network (ANN) is designed to predict bond cleavage energy from which bond cleavage rates can be calculated to determine the relative intensities; another is to predict which side of the bond is charged and captured by the detector in the mass spectrometer. These ANNs are iterated over all bonds within a molecule to find bond cleavage energies and charged ions. For the leaning process, the weights of the former ANN are trained by genetic algorithm to better predict the bond cleavage energies that produce ions and their corresponding intensities in the <italic>in silico</italic> spectra. The objective of GA is to have the <italic>in silico</italic> spectra match those in the experimental spectra using a Pearson <inline-formula><tex-math id="M14">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\text {R}^2$\end{document}</tex-math></inline-formula> correlation. The latter ANN is trained by backpropagation algorithm in which the labels can be found by comparing the fragment masses to the experimental spectra.</p><p>Allen, Greiner and Wishart [<xref rid="C1" ref-type="bibr">1</xref>] proposed a probabilistic generative model, namely competitive fragmentation mode (CFM), for the fragmentation process. They assume that each peak in the spectrum is generated by a fixed length sequence of random fragment states. It consists of the following two models: transition model to define the probability of each fragment leads to another at one step in the process and an observation model to map the final intermediate fragment state to the given peak. The parameter estimation for the transition and observation models is performed by an Expectation Maximization-like algorithm. The trained CFM can be used to predict peaks in the spectrum and for metabolite identification. The results showed that, CFM obtained substantially better ranking for the correct candidate than MetFrag and FingerID. However, like other above methods, this method is limited to small molecules due to the combinatorial enumeration of fragmentation possibilities. It is noteworthy that, while ISIS is based on supervised machine learning, CFM is based on unsupervised learning to predict spectra.</p></sec></sec><sec id="sec7"><title>Fragmentation tree</title><p>Fragmentation tree (FT) plays an important role in interpreting the structure of molecules since it is usually assumed that only MS/MS spectra are not sufficient to describe the fragmentation process. It is noteworthy that these FTs are constructed from spectra while the trees mentioned in <xref ref-type="sec" rid="sec5">subsection 3.2</xref> are generated from chemical structures of candidate compounds. This section is devoted to review the benefits of the use of FTs for metabolite identification and summarize methods to construct them directly from the MS/MS spectra.</p><p>Unlike proteins and glycans, where molecules are only fragmented at specific chemical bonds and thus the fragmentation process can be well understood, this process for small metabolites can happen at almost any bonds, hence, being difficult to predict and interpret MS/MS data. B&#x000f6;cker and Rasche
+[<xref rid="C5" ref-type="bibr">5</xref>] proposed using FTs for interpretation of MS/MS spectra. The FT as shown in <xref ref-type="fig" rid="f9">Figure 9</xref> can bring several benefits such as: they can be used to identify the molecular formula of a molecule, also to interpret the fragmentation process of a precursor ion by MS/MS spectrum (see [<xref rid="C46" ref-type="bibr">46</xref>]). Because of this reason, there are some efforts [<xref rid="C6" ref-type="bibr">6</xref>, <xref rid="C53" ref-type="bibr">53</xref>] to use FTs combined with MS/MS spectra in identifying metabolites, which will be discussed later. Moreover, we can align FTs of two unknown compounds to compare them based on their corresponding trees, by which, useful information about unknown compounds that cannot be identified also can be derived such as a clustering (see [<xref rid="C47" ref-type="bibr">47</xref>, <xref rid="C50" ref-type="bibr">50</xref>] for more details).</p><fig id="f9" orientation="portrait" position="float"><label>Figure 9</label><caption><p>Noscapine and the corresponding hypothetical fragmentation tree computed by the method introduced in [<xref rid="C46" ref-type="bibr">46</xref>].</p></caption><graphic xlink:href="bby066f9"/></fig><p>The FT is represented by a set of vertexes, each of which corresponds to a fragment or precursor ion, and is annotated with its molecular formula. Edges connecting pairs of vertexes represent fragmentation reactions and are annotated with the molecular formulas of neutral loss. Briefly, FT computation is performed in the following two main steps: (1) Construction of weighted fragmentation graph containing all possible trees corresponding to the given MS/MS data; (2) Searching for the highest-score tree inside the graph. More specifically, the fragmentation graph is constructed as follows: each peak in the MS/MS spectra is assigned to one or more molecular formulas with mass sufficiently close to the peak mass. These resulting molecular formulas are vertexes of a directed acyclic graph (DAG). Two vertexes <inline-formula><tex-math id="M15">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$u$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math id="M16">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$v$\end{document}</tex-math></inline-formula> are connected by an edge <inline-formula><tex-math id="M17">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$(u, v)$\end{document}</tex-math></inline-formula> if the molecular formula of <inline-formula><tex-math id="M18">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$u$\end{document}</tex-math></inline-formula> is sub-formula of the formula of <inline-formula><tex-math id="M19">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$v$\end{document}</tex-math></inline-formula> and that edge is assigned a score using the annotated neutral loss (i.e. the fragment not being captured by the device) and/or other properties such as peak intensities, mass deviation, representing how likely the neutral loss is. Also, vertexes in the graph are colored so that two vertices with the same color correspond to the same peak. To avoid the case that, there are two vertexes in the FT to represent the same peak, another constraint is added, that is, any two vertexes in the tree have different colors, (or so-called colorful tree) must be imposed, leading to &#x02018;the Maximum Colorful Subtree problem&#x02019; (<bold>MCS</bold>).</p><p>
+<bold>MCS problem:</bold> Given a vertex-colored DAG <inline-formula><tex-math id="M20">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$G=(V,E)$\end{document}</tex-math></inline-formula> with a set of colors <inline-formula><tex-math id="M21">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C$\end{document}</tex-math></inline-formula> and weights <inline-formula><tex-math id="M22">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$w: E \to \mathbb {R}$\end{document}</tex-math></inline-formula>. Find the induced colorful subtree <inline-formula><tex-math id="M23">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$T=(V_{T}, E_{T})$\end{document}</tex-math></inline-formula> of <inline-formula><tex-math id="M24">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$G$\end{document}</tex-math></inline-formula> of maximum weight <inline-formula><tex-math id="M25">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$w(T)=\sum _{e \in E_{T}}w(e)$\end{document}</tex-math></inline-formula>.</p><p>Despite the fact that finding <bold>MCS</bold> is an NP-hard problem, proved in [<xref rid="C47" ref-type="bibr">47</xref>], many algorithms have been proposed to solve this, being categorized into the following two main groups: exact algorithms and heuristics. While a dynamic programming algorithm solving the <bold>MSC</bold> problem is an exact algorithm, a simple greedy heuristic is to consider the edges in descending order of their weights [<xref rid="C5" ref-type="bibr">5</xref>]. Besides, [<xref rid="C5" ref-type="bibr">5</xref>] presented a hybrid method that constructs a preliminary subtree (or backbone) with a small number of vertices by the dynamic programming and completes the subtree by the greedy approach.</p><p>It has been shown that for small molecules, exact algorithms (e.g. dynamic programming) can quickly find the optimal solution [<xref rid="C5" ref-type="bibr">5</xref>]. Especially, for tasks requiring the construction of accurate FTs, such as tree-alignment for MS/MS spectra [<xref rid="C50" ref-type="bibr">50</xref>], it is advised that exact algorithms should be used. In the case of dealing with a huge number of molecules, to decrease the running time, a heuristic in combination with an exact algorithm (e.g. tree completion heuristic, [<xref rid="C48" ref-type="bibr">48</xref>]) may be preferred.</p></sec><sec id="sec8"><title>Machine learning-based metabolite identification</title><p>Recently, several machine learning frameworks have been introduced to deal with the task of metabolite identification. Besides identifying chemical compounds by searching in structural databases as presented in the previous sections, there are some methods proposed to predict structural substructures or general chemical properties, e.g. [<xref rid="C6" ref-type="bibr">6</xref>, <xref rid="C15" ref-type="bibr">15</xref>, <xref rid="C24" ref-type="bibr">24</xref>]. Another direction is to automatically discover substructures from a set of MS/MS spectra from which we can identify the candidate compounds from the database based on their substructures, e.g. [<xref rid="C41" ref-type="bibr">41</xref>, <xref rid="C60" ref-type="bibr">60</xref>]. In this section, we cover machine learning frameworks for this task, which can be divided into the following two subgroups: supervised learning for substructure prediction and unsupervised learning for substructure annotation. The difference between the two subgroups can be intuitively illustrated asin <xref ref-type="fig" rid="f10">Figure 10</xref>.</p><fig id="f10" orientation="portrait" position="float"><label>Figure 10</label><caption><p>An illustration to clarify the difference between supervised and unsupervised learning for metabolite identification: (a) substructure prediction using supervised learning to map a given MS/MS spectrum to an intermediate representation (e.g. fingerprints), which is subsequently used to retrieve candidate metabolites in the database. (b) substructure annotation using unsupervised learning to extract biochemically relevant substructures with certain confidence from the given spectrum. Then, the similarity between the MS/MS spectrum and a chemical structure of a metabolite is estimated according to their common substructures. Note that the output of supervised learning (e.g. fingerprints) may indicate the presence/absence of all &#x02018;predefined&#x02019; substructures whereas that of unsupervised learning may be a list of substructures frequently occurring in the database.</p></caption><graphic xlink:href="bby066f10"/></fig><sec id="sec9"><title>Supervised learning for substructure prediction</title><p>The task of supervised learning for metabolite identification is that, given a set of MS/MS spectra, one may want to learn a map from a MS/MS spectrum to a molecule. Instead of learning this mapping directly, fingerprint-based approach has been used in many systems. This can be called a two-step approach in many publications. A molecular fingerprint is a feature vector, which is used to encode the structure of a molecule. In general, the values of this vector are binary indicating the presence or absence of certain substructures or more general chemical properties. Methods using fingerprint prediction for metabolite identification generally consist of two main steps, which are as follows: (1) from a set of MS/MS spectra of known molecules, learn a model to predict the corresponding fingerprints with supervised ML; (2) use the predicted fingerprints to retrieve candidate molecules from the database with retrieval techniques (<xref ref-type="fig" rid="f11">Figure 11</xref>). The 1st step can be dealt with by classification tools such as linear discriminative analysis (LDA), partial least squares discriminative analysis [<xref rid="C70" ref-type="bibr">70</xref>] or decision tree [<xref rid="C26" ref-type="bibr">26</xref>]. A notable method is FingerID [<xref rid="C24" ref-type="bibr">24</xref>], which uses support vector machine (SVM, [<xref rid="C8" ref-type="bibr">8</xref>]) with kernels to predict fingerprint. The kernels for pairs of mass spectra were defined, including integral mass kernel and probability product kernel (PPK, [<xref rid="C27" ref-type="bibr">27</xref>]). It is noteworthy that the above methods are mainly based on the information from individual peaks present in the spectra while ignoring their interactions. In fact, such information is proved to be useful in predicting fingerprint.</p><fig id="f11" orientation="portrait" position="float"><label>Figure 11</label><caption><p>A general scheme to identify unknown metabolites based on the molecular fingerprint vectors. There are two main stages, which are as follows: (1) learning a mapping from a molecule to the corresponding binary molecular fingerprint vector by classification methods, given a set of MS/MS spectra and fingerprints; (2) using the predicted fingerprints to retrieve candidate molecules from the databases of known metabolites.</p></caption><graphic xlink:href="bby066f11"/></fig><p>CSI:FingerID [<xref rid="C15" ref-type="bibr">15</xref>, <xref rid="C53" ref-type="bibr">53</xref>], an extended version of FingerID, jointly takes MS/MS spectra and corresponding FTs as input to improve the predictive performance since FTs, reviewed in the previous section, can be used to provide prior knowledge about the structure of compounds (i.e. dependencies between peaks in spectra), which was ignored in the previous system. For this purpose, kernels for FTs have to be defined, which range from simple ones for nodes including node binary and node intensity; for edges including loss binary, loss count, loss intensity to more complicated ones like common paths counting, common subtree counting, etc. Subsequently, multiple kernel learning (MKL, [<xref rid="C20" ref-type="bibr">20</xref>]) is used to combine these kernels using several methods including centered alignment (ALIGNF, [<xref rid="C11" ref-type="bibr">11</xref>]), quadratic combination [<xref rid="C33" ref-type="bibr">33</xref>] and <inline-formula><tex-math id="M26">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$l_{p}$\end{document}</tex-math></inline-formula>-norm regularized combination [<xref rid="C31" ref-type="bibr">31</xref>]. The combined kernel is then used in learning the final model for fingerprint prediction. CSI:FingerID presented improved scores against other benchmarked tools but has the current limitation of processing MS/MS spectra one at a time due to the need of computationally heavy conversion of spectra into FTs. Additionally, in spite of accurate prediction, kernel-based methods are often not desirable to deal with sparse data and lack of interpretation, especially, for MS/MS spectra where each spectrum is composed of a number of few peaks and each fingerprint value (or chemical property in general) is mainly determined by a sparse subset of peaks.</p><p>To alleviate those limitations, [<xref rid="C44" ref-type="bibr">44</xref>] recently proposed two learning models that are able to explicitly incorporate peak interactions to improve the performance of fingerprint prediction without FTs in prediction stage. The 1st is also based on kernel learning in which kernels are defined for not only individual peaks but also interactions between them, and then combine the kernels through MKL. The 2nd one, named SIMPLE, is more computationally efficient and interpretable for this problem. More specifically, given an MS/MS spectrum, represented by a feature vector, <inline-formula><tex-math id="M27">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\textbf {x} = (x_{1}, x_{2}, ..., x_{d})^{T} \in \mathbb {R}^{d}$\end{document}</tex-math></inline-formula>, SIMPLE is to predict a fingerprint value by computing the prediction function
+<disp-formula id="M1"><label>(1)</label><tex-math id="M28">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$$ f(\textbf{x}; w, W) = b + \sum_{i=1}^{d}w_{i}x_{i} + \sum_{i=1}^{d} \sum_{1}^{d} W_{ij} x_{i} x_{j} $$\end{document}</tex-math></disp-formula><disp-formula id="M2"><label>(2)</label><tex-math id="M29">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$$ = b + w^{T}\textbf{x} + \textbf{x}^{T} W \textbf{x} $$\end{document}</tex-math></disp-formula>where <inline-formula><tex-math id="M30">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$b \in \mathbb {R}$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math id="M31">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$w \in \mathbb {R}^{d}$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math id="M32">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$W \in \mathbb {R}^{dxd}$\end{document}</tex-math></inline-formula> correspond to the fingerprint value (note that fingerprint values are separately trained). The prediction function consists of a bias <inline-formula><tex-math id="M33">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$b$\end{document}</tex-math></inline-formula> and two terms, which are as follows: main effect term parameterized by the weight vector <inline-formula><tex-math id="M34">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$w$\end{document}</tex-math></inline-formula> and interaction term parameterized by the weight matrix <inline-formula><tex-math id="M35">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$W$\end{document}</tex-math></inline-formula>. The former capture information about the peaks, while the latter captures information about peak interactions. Since the task is classification, which predicts the presence or absence of properties in fingerprint vector, the output of the model can be computed by <inline-formula><tex-math id="M36">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$y(\textbf {x}) = \textrm {sign}(f(\textbf {x}; w, W)) \in \{-1, 1\}$\end{document}</tex-math></inline-formula>. For the purpose of interpretation, they impose <inline-formula><tex-math id="M37">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\text {L}_{1}$\end{document}</tex-math></inline-formula>-norm [<xref rid="C59" ref-type="bibr">59</xref>] and nuclear norm [<xref rid="C56" ref-type="bibr">56</xref>] regularizations on main effect and interaction terms to induce sparsity in <inline-formula><tex-math id="M38">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$w$\end{document}</tex-math></inline-formula> and low-rankness in <inline-formula><tex-math id="M39">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$W$\end{document}</tex-math></inline-formula> after training. The training stage is performed by minimizing a convex objective function, guaranteeing that the obtained solution is globally optimal. In addition, an obvious advantage of SIMPLE in comparison with kernel-based methods is prediction speed. Indeed, the prediction of SIMPLE is proportional to the number of peaks in the testing spectrum while the prediction of kernel methods depends definitely on the number of training examples.</p><p>Different from fingerprint prediction based approaches, Input Output Kernel Regression (IOKR, [<xref rid="C6" ref-type="bibr">6</xref>]) is used to learn mappings between MS/MS spectra (as a structured input set <inline-formula><tex-math id="M40">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathcal {X}$\end{document}</tex-math></inline-formula>) and molecular structures (as a structured output set <inline-formula><tex-math id="M41">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathcal {Y}$\end{document}</tex-math></inline-formula>). The idea behind this method is the definitions of two kernels <inline-formula><tex-math id="M42">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$k_{\mathcal {X}}:{\mathcal {X}} \times {\mathcal {X}} \mapsto \mathbb {R}$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math id="M43">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$k_{\mathcal {Y}}:{\mathcal {Y}} \times {\mathcal {Y}} \mapsto \mathbb {R}$\end{document}</tex-math></inline-formula> to encode similarities in input space (e.g., spectra and/or FT ) and output space (e.g. molecular fingerprint or graph structure), respectively. The following two novel points can be observed: (1) unlike previous methods, it can handle the structured output space such as the fingerprint or molecular structure space; (2) two steps are combined into one, that is more efficient in running time.</p><p>In brief, this spectra-metabolite mapping problem can be decomposed into the following two tasks:
+<list list-type="order"><list-item><p><italic>Estimation of the output feature map</italic>, involving approximating the feature map <inline-formula><tex-math id="M44">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\,\phi _{y}$\end{document}</tex-math></inline-formula> associated with the kernel <inline-formula><tex-math id="M45">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$k_{\mathcal {Y}}$\end{document}</tex-math></inline-formula> by learning the function <inline-formula><tex-math id="M46">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$h$\end{document}</tex-math></inline-formula> between the input set <inline-formula><tex-math id="M47">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathcal {X}$\end{document}</tex-math></inline-formula> and the Hilbert output space <inline-formula><tex-math id="M48">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathcal {F}_{y}$\end{document}</tex-math></inline-formula>. More specifically, given a set S of <inline-formula><tex-math id="M49">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$l$\end{document}</tex-math></inline-formula> training examples<inline-formula><tex-math id="M50">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\{ (x_{1}, \phi _{y}(y_{1})),\ldots ,(x_{l}, \phi _{y}(y_{l}))\}$\end{document}</tex-math></inline-formula>, where <inline-formula><tex-math id="M51">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$x_{i}$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math id="M52">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\phi _{y}(y_{i})$\end{document}</tex-math></inline-formula> denote spectrum and the corresponding fingerprint vector of the <inline-formula><tex-math id="M53">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$i^{th}$\end{document}</tex-math></inline-formula> example in the task of metabolite identification, the goal is to learn a function <inline-formula><tex-math id="M54">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$h$\end{document}</tex-math></inline-formula> that minimize the following regression objective function:
+<disp-formula id="M3"><label>(3)</label><tex-math id="M55">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$$ h = \underset{h \in \mathcal{H}}{\operatorname{argmin}} \sum_{i=1}^{l} \left\Vert h(x_{i}) - \phi_{y}(y_{i})\right\Vert^2_{\mathcal{F}_{y}} + \lambda\Vert h\Vert^2_{\mathcal{H}}, $$\end{document}</tex-math></disp-formula>where <inline-formula><tex-math id="M56">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\lambda $\end{document}</tex-math></inline-formula> is the regularization parameter. IOKR uses the representer theorem [<xref rid="C38" ref-type="bibr">38</xref>] devoted to vector-valued function to obtain the closed-form solution of (<xref rid="M3" ref-type="disp-formula">3</xref>).</p></list-item><list-item><p><italic>Computation of the pre-image problem</italic>, involving mapping back the predicted feature vector <inline-formula><tex-math id="M57">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$h(x)$\end{document}</tex-math></inline-formula> to the output space <inline-formula><tex-math id="M58">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathcal {Y}$\end{document}</tex-math></inline-formula> by solving the following pre-image problem: given the predicted feature vector <inline-formula><tex-math id="M59">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$h(x)$\end{document}</tex-math></inline-formula>, the goal is to find the molecules in databases (structured output) with minimal distances to <inline-formula><tex-math id="M60">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$h(x)$\end{document}</tex-math></inline-formula>, that is,
+<disp-formula id="M4"><label>(4)</label><tex-math id="M61">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$$ \hat{g}(x) = \underset{y \in \mathcal{Y}^{*}}{\operatorname{argmin}} \big\|\hat{h}(x) - \phi_{y}(y)\big\|^2_{\mathcal{F}_{y}}. $$\end{document}</tex-math></disp-formula>By using the representer theorem for vector-output space and replacing <inline-formula><tex-math id="M62">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\hat {h}$\end{document}</tex-math></inline-formula> of the solution in (<xref rid="M3" ref-type="disp-formula">3</xref>), the following solution for (<xref rid="M4" ref-type="disp-formula">4</xref>) can be obtained:
+<disp-formula id="M5"><label>(5)</label><tex-math id="M63">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$$ \hat{g}(x) = \underset{y \in \mathcal{Y}^{*}}{\operatorname{argmax}} \big(\textbf{k}^{y}_{Y_{l}}\big)^{T}( \textit{K}_{X_{l}} + \lambda \textit{I}_{l} )^{-1} \textbf{k}^{x}_{X_{l}} $$\end{document}</tex-math></disp-formula>where <inline-formula><tex-math id="M64">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$ \textit {K}_{X_{l}}$\end{document}</tex-math></inline-formula> is the operator-valued kernel of the following form: <inline-formula><tex-math id="M65">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$ \textit {K}_{X_{l}}(x_{i}, x_{j}) = k_{\mathcal {X}}(x_{i}, x_{j}) \textit {I}_{d}$\end{document}</tex-math></inline-formula>. <inline-formula><tex-math id="M66">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\textbf {k}^{y}_{Y_{l}} = (k_{\mathcal {Y}}(y, y_{1}),\ldots ,k_{\mathcal {Y}}(y, y_{l}))^{T}$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math id="M67">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\textbf {k}^{x}_{X_{l}} = (k_{\mathcal {X}}(x, x_{1}),\ldots ,k_{\mathcal {X}}(x, x_{l}))^{T}$\end{document}</tex-math></inline-formula>.</p></list-item></list>The overview of this method can be seen in <xref ref-type="fig" rid="f12">Figure 12</xref>. Some advantages of this method over fingerprint prediction -based methods can be observed as follows: (1) the kernel trick in the output space <inline-formula><tex-math id="M68">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathcal {Y}$\end{document}</tex-math></inline-formula> allows us to evaluate the function <inline-formula><tex-math id="M69">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\hat {g}(x)$\end{document}</tex-math></inline-formula> in (<xref rid="M5" ref-type="disp-formula">5</xref>) through kernels even in the case that the output feature map <inline-formula><tex-math id="M70">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\phi (y)$\end{document}</tex-math></inline-formula> is not explicitly defined, suggesting that there is no need to predict fingerprint vectors as the intermediate step. That is why it is called one-step method for metabolite identification. (2) the closed form solution in (<xref rid="M3" ref-type="disp-formula">3</xref>) make the training process much more efficient in terms of the training time and testing time.</p><fig id="f12" orientation="portrait" position="float"><label>Figure 12</label><caption><p>The overview of IOKR. The figure is adapted from [<xref rid="C6" ref-type="bibr">6</xref>].</p></caption><graphic xlink:href="bby066f12"/></fig><p>In above IOKR approach, the pre-image problem reduces to the ranking problem, in which the candidate molecules are ordered according to their distances to the predicted output feature vectors. However, the ranking problem was not taken into consideration in the learning phase. In the training set, each input sample or MS/MS spectrum is associated with a list of candidate molecules (candidate set). Magnitude-preserving IOKR (MP-IOKR, [<xref rid="C7" ref-type="bibr">7</xref>]), a variant of IOKR, is recently proposed so that the information on the candidate ranking of the candidate sets can be incorporated in the learning phase, instead of the prediction phase only. The main idea behind this method is to preserve the discrepancy between the training output and candidates in the output space. This extends the magnitude-preserving ranking approach proposed by [<xref rid="C10" ref-type="bibr">10</xref>] for learning to rank. That is, the considered targets are vectors in the output space rather than scalar values, e.g. ratings, and the magnitude are considered between a training sample and each of its candidates. The details of this method can be summarized as follows: given a set of <inline-formula><tex-math id="M71">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$l$\end{document}</tex-math></inline-formula> training examples <inline-formula><tex-math id="M72">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\{x_{i}\}_{i=1}^{l}$\end{document}</tex-math></inline-formula>, each of which <inline-formula><tex-math id="M73">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$x_{i}$\end{document}</tex-math></inline-formula> is associated with a candidate set <inline-formula><tex-math id="M74">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C_{i}$\end{document}</tex-math></inline-formula>, the objective function (<xref rid="M6" ref-type="disp-formula">6</xref>) is considered to be minimized;
+<disp-formula id="M6"><label>(6)</label><tex-math id="M75">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$$\begin{align*} \mathcal{J}(h) = &#x00026;\ \sum_{i=1}^{l} \frac{1}{n_{i}} \sum_{j \in C_{i}} \left\|\left(h(x_{i}) - h(x_{j}) \right) - \left(\phi_{y}(y_{i}) - \phi_{y}(y_{j}) \right)\right\|^2_{\mathcal{F}_{y}}\\ &#x00026; + \lambda\|h\|^2_{\mathcal{H}}\end{align*}$$\end{document}</tex-math></disp-formula>where <inline-formula><tex-math id="M76">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\lambda $\end{document}</tex-math></inline-formula> is the regularization parameter to prevent overfitting. <inline-formula><tex-math id="M77">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$n_{i} = |C_{i}|$\end{document}</tex-math></inline-formula> corresponds to the number of candidates for <inline-formula><tex-math id="M78">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$i^{th}$\end{document}</tex-math></inline-formula>-training example. The 1st term is to minimize discrepancy between the pairwise differences of the predicted output vectors <inline-formula><tex-math id="M79">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$h(x_{i}) - h(x_{j})$\end{document}</tex-math></inline-formula> and the pairwise differences of the ground truth <inline-formula><tex-math id="M80">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\phi _{y}(y_{i}) - \phi _{y}(y_{j})$\end{document}</tex-math></inline-formula>, while the 2nd term is for regularization. Similarly, minimization of this objective function can be done by applying the representer theorem. It is empirically shown that MP-IOKR consistently obtains better top-k accuracies compared to IOKR on the tasks of metabolite identification and document retrieval as well [<xref rid="C7" ref-type="bibr">7</xref>].</p></sec><sec id="sec10"><title>Unsupervised learning for substructure annotation</title><p>Metabolites may have common substructures, yielding similar product ions in their MS/MS spectra. Many substructures among them contain information pertaining to the biochemical processes present. Therefore, extraction of such biochemically relevant substructures allows metabolites to be grouped based on their shared substructures regardless of classical spectral similarity. Also, this can be used to improve the accuracy of metabolite identification.</p><p>One of the typical software tools for chemical substructure exploration is MS2Analyzer [<xref rid="C35" ref-type="bibr">35</xref>], which is a library-independent tool, allowing to exploit the potential structure information contained in MS spectra. It was developed to elucidate substructures of small molecules from accurate MS/MS spectra. The main function of this tool is to search mass spectral features including neutral loss, precursor, fragment ions mass and mass differences in a large number of mass spectra. By combining the searching results and substructures/compound class relationship knowledge, compounds can be identified. However, MS2Analyzer can find all molecules sharing a specific set of mass spectral features provided by users and sample-specific features are likely to be ignored. Another technique, namely molecular networking [<xref rid="C62" ref-type="bibr">62</xref>, <xref rid="C63" ref-type="bibr">63</xref>, <xref rid="C69" ref-type="bibr">69</xref>], groups parent ions i.e. MS1 peaks, based on their MS2 spectral similarity, e.g. cosine score, such that metabolites which are structurally annotated in a cluster can be used to annotate their neighbors. However, a drawback of molecular networks is that only MS1 peaks with high similarity are grouped and spectral features specifying the clusters have to be manually extracted. Thus, it may fail to cluster molecules sharing small substructures with low MS2 spectral similarity.</p><p>MS2LDA, presented in [<xref rid="C60" ref-type="bibr">60</xref>], is a software tool offering benefits of both methods while overcoming their disadvantages. It can automatically extract relevant substructures in molecules based on their co-occurrence of mass fragments and neutral losses, and cluster the molecules accordingly. Based on the assumption that, each observed MS/MS spectrum is composed of one or more substructures, MS2LDA adopts Latent Dirichlet Allocation (LDA, [<xref rid="C4" ref-type="bibr">4</xref>]) initially developed for text mining for extracting such substructures. LDA is a Bayesian version of probabilistic latent semantic analysis. In standard setting for text mining, LDA models each of <inline-formula><tex-math id="M81">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$D$\end{document}</tex-math></inline-formula> documents as a discrete distribution over <inline-formula><tex-math id="M82">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$T$\end{document}</tex-math></inline-formula> latent topics, each of which is a discrete distribution over a vocabulary of <inline-formula><tex-math id="M83">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$V$\end{document}</tex-math></inline-formula> words. For document <inline-formula><tex-math id="M84">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$d$\end{document}</tex-math></inline-formula>, the distribution over topics, denoted by <inline-formula><tex-math id="M85">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\theta _{d}$\end{document}</tex-math></inline-formula>, is drawn from a Dirichlet distribution <inline-formula><tex-math id="M86">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$Dir(\alpha )$\end{document}</tex-math></inline-formula>, and for each topic <inline-formula><tex-math id="M87">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$t$\end{document}</tex-math></inline-formula>, the distribution over words, denoted by <inline-formula><tex-math id="M88">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\phi _{t}$\end{document}</tex-math></inline-formula>, is drawn from a Dirichlet distribution <inline-formula><tex-math id="M89">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$Dir(\beta )$\end{document}</tex-math></inline-formula>. A generative process in LDA is defined on document <inline-formula><tex-math id="M90">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$d$\end{document}</tex-math></inline-formula> as follows (note that the index <inline-formula><tex-math id="M91">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$d$\end{document}</tex-math></inline-formula> for document <inline-formula><tex-math id="M92">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$d$\end{document}</tex-math></inline-formula> is omitted for simplification):
+<list list-type="order"><list-item><p>Choose <inline-formula><tex-math id="M93">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\theta \sim Dir(\alpha )$\end{document}</tex-math></inline-formula>.</p></list-item><list-item><p>For each word <inline-formula><tex-math id="M94">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$w_{i}$\end{document}</tex-math></inline-formula> in document <inline-formula><tex-math id="M95">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$d$\end{document}</tex-math></inline-formula>:</p><list list-type="simple"><list-item><p>(a) Choose a topic <inline-formula><tex-math id="M96">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{i} \sim \text {Multinomial}(\theta )$\end{document}</tex-math></inline-formula>.</p></list-item><list-item><p>(b) Choose a word <inline-formula><tex-math id="M97">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$w_{i} \sim \text {Multinomial}(\phi _{z_{i}}),$\end{document}</tex-math></inline-formula></p></list-item></list></list-item></list>where latent variable <inline-formula><tex-math id="M98">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{di}$\end{document}</tex-math></inline-formula> is a topic assignment for <inline-formula><tex-math id="M99">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$i^{th}$\end{document}</tex-math></inline-formula> word <inline-formula><tex-math id="M100">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$w_{di}$\end{document}</tex-math></inline-formula> in the document <inline-formula><tex-math id="M101">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$d$\end{document}</tex-math></inline-formula>. The parameters to be learned include <inline-formula><tex-math id="M102">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\alpha $\end{document}</tex-math></inline-formula> and <inline-formula><tex-math id="M103">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\beta $\end{document}</tex-math></inline-formula>. The graphical representation of this process is illustrated in <xref ref-type="fig" rid="f13">Figure 13</xref>.</p><fig id="f13" orientation="portrait" position="float"><label>Figure 13</label><caption><p>Simplified graphical representation of LDA.</p></caption><graphic xlink:href="bby066f13"/></fig><p>The correspondence between text documents and fragmentation spectra can be obviously observed from machine learning perspective. LDA decomposes a document into topics based on the co-occurring words, while MS2LDA decomposes MS/MS spectra into patterns of co-occurring fragments and losses. Learning LDA (MS2LDA) is to extract these topics (patterns or so-called (Mass2) Motifs) as illustrated in <xref ref-type="fig" rid="f12">Figure 12</xref>. For reference, either collapsed Gibb sampling [<xref rid="C21" ref-type="bibr">21</xref>] or Variational Bayes [<xref rid="C4" ref-type="bibr">4</xref>] can be used to assign topics (Mass2Motifs) to words (peaks). This step applied to mass spectra is called substructure annotation. By MS2LDA, each metabolite can be explained by one or more Mass2Motifs by which we can partly identify unknown metabolites via their spectra. Also, It can be used to quickly classify metabolites into functional classes without knowing the complete structures.</p><table-wrap id="TB1" orientation="portrait" position="float"><label>Table 1</label><caption><p>Comparison of main representative methods for supervised and unsupervised learning approaches. The performance of supervised methods is evaluated by the accuracy of the returned list of candidates, whereas that of unsupervised methods is evaluated by their capability of substructure annotation</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1" align="left"/><col span="2" align="left"/><col span="3" align="left"/><col span="4" align="left"/><col span="5" align="left"/><col span="6" align="left"/><col span="7" align="left"/><col span="8" align="left"/><col span="9" align="left"/><col span="10" align="left"/><col span="11" align="left"/></colgroup><thead><tr valign="bottom"><th rowspan="1" colspan="1">
+<bold>Approaches</bold>
+</th><th rowspan="1" colspan="1">
+<bold>Methods</bold>
+</th><th rowspan="1" colspan="1">
+<bold>Info. type for learning</bold>
+</th><th rowspan="1" colspan="1">
+<bold>Performance</bold>
+</th><th rowspan="1" colspan="1">
+<bold>Training cost</bold>
+</th><th rowspan="1" colspan="1">
+<bold>Prediction cost</bold>
+</th></tr></thead><tbody><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Supervised</bold>
+</td><td rowspan="1" colspan="1">FingerID [<xref rid="C24" ref-type="bibr">24</xref>]</td><td rowspan="1" colspan="1">spectra</td><td rowspan="1" colspan="1">low</td><td rowspan="1" colspan="1">low</td><td rowspan="1" colspan="1">low</td></tr><tr valign="top"><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">CSI:FingerID [<xref rid="C15" ref-type="bibr">15</xref>]</td><td rowspan="1" colspan="1">spectra + trees</td><td rowspan="1" colspan="1">high</td><td rowspan="1" colspan="1">high</td><td rowspan="1" colspan="1">high</td></tr><tr valign="top"><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">SIMPLE [<xref rid="C44" ref-type="bibr">44</xref>]</td><td rowspan="1" colspan="1">spectra</td><td rowspan="1" colspan="1">high</td><td rowspan="1" colspan="1">low</td><td rowspan="1" colspan="1">low</td></tr><tr valign="top"><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">IOKR [<xref rid="C6" ref-type="bibr">6</xref>]</td><td rowspan="1" colspan="1">spectra + trees</td><td rowspan="1" colspan="1">high</td><td rowspan="1" colspan="1">medium</td><td rowspan="1" colspan="1">medium</td></tr><tr valign="top"><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MP-IOKR [<xref rid="C7" ref-type="bibr">7</xref>]</td><td rowspan="1" colspan="1">spectra + trees + ranking</td><td rowspan="1" colspan="1">high</td><td rowspan="1" colspan="1">medium</td><td rowspan="1" colspan="1">medium</td></tr><tr valign="top"><td rowspan="1" colspan="1">
+<bold>Unsupervised</bold>
+</td><td rowspan="1" colspan="1">MS2Analysis [<xref rid="C35" ref-type="bibr">35</xref>]</td><td rowspan="1" colspan="1">user-specific features</td><td rowspan="1" colspan="1">low</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td></tr><tr valign="top"><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MolecularNetwork [<xref rid="C69" ref-type="bibr">69</xref>]</td><td rowspan="1" colspan="1">spectra</td><td rowspan="1" colspan="1">low</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td></tr><tr valign="top"><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MS2LDA [<xref rid="C60" ref-type="bibr">60</xref>]</td><td rowspan="1" colspan="1">spectra</td><td rowspan="1" colspan="1">high</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td></tr><tr valign="top"><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">(expert-driven)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr valign="top"><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MESSAR [<xref rid="C41" ref-type="bibr">41</xref>]</td><td rowspan="1" colspan="1">spectra + molecular graph</td><td rowspan="1" colspan="1">high</td><td rowspan="1" colspan="1">N/A</td><td rowspan="1" colspan="1">N/A</td></tr><tr valign="top"><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">(automation)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr></tbody></table></table-wrap><p>A drawback of the aforementioned MS2LDA is that, the extracted motifs still need to be structurally annotated based on expert knowledge, which is a complex process and time-consuming. To overcome this difficulty, [<xref rid="C41" ref-type="bibr">41</xref>] introduced an automated method named MESSAR for substructure recommendation from mass spectra, motivated by frequent set mining. Similarly to MS2LDA, this method is also capable of capturing recurring patterns from mass spectra. In brief, molecular substructures are first generated from chemical structures/graphs of metabolites in a database, which consists of both MS/MS spectra and corresponding molecular structures of known metabolites. Then, they are associated with fragment ions (i.e. peaks) and mass differences between peaks to construct a single data set in the transactional format. Subsequently, frequent set mining techniques are applied to this set to extract rules of the following format: peaks <inline-formula><tex-math id="M104">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$p$\end{document}</tex-math></inline-formula> (or mass difference <inline-formula><tex-math id="M105">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$md$\end{document}</tex-math></inline-formula>) can be associated with substructure <inline-formula><tex-math id="M106">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$s$\end{document}</tex-math></inline-formula> with support <inline-formula><tex-math id="M107">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$f$\end{document}</tex-math></inline-formula> and confidence <inline-formula><tex-math id="M108">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$c$\end{document}</tex-math></inline-formula>. Such rules can be used to annotate substructures with calculated scores of support and confidence for mass spectra in which, the given peaks and mass differences are observed. Moreover, the recommended substructures can also be used to rank candidate metabolites retrieved from a database by the similarity between recommended substructures and candidate molecular structures. Metabolites with a high number of substructures with high confidence are assigned a higher rank.</p><p>It is noteworthy that the aim of the aforementioned methods are similar, i.e. substructure annotation. While MS2LDA only needs a set of unlabeled MS/MS spectra for learning without prior information about the molecular structures, MESSAR utilizes both experimental spectra and the corresponding structures, hence, providing an automated substructure recommendation as opposed to expert-driven substructure annotation by MS2LDA. To end this section, we give a brief comparison of methods in both supervised and unsupervised approaches for substructure prediction and substructure annotation in <xref rid="TB1" ref-type="table">Table 1</xref>.</p></sec></sec><sec id="sec11"><title>Discussion</title><p>It is obvious that machine learning techniques are key to recent progress in metabolite identification such as [<xref rid="C1" ref-type="bibr">1</xref>, <xref rid="C6" ref-type="bibr">6</xref>, <xref rid="C15" ref-type="bibr">15</xref>, <xref rid="C60" ref-type="bibr">60</xref>]. However, emerging developments of advanced learning models in both supervised and unsupervised approaches have not been taken into consideration in the existing frameworks for this task. Our aim in this section is to raise some key drawbacks of ML methods for metabolite identification and discuss possible solutions to deal with them.</p><p>In supervised learning-based frameworks for prediction of molecular substructures, there are some points to be considered, which are as follows: (1) high-dimensional feature vector of mass spectra due to the need of fine-grained discretization of the m/z range. (2) The existence of high-order interactions of subset of peaks due to probably consecutive fragmentation processes from product ions and precursor ions (fragments). (3) Introduction of sparsity into learning models because each fingerprint representing a chemical property may be determined by a subset of few peaks (features). These have been partially taken into account in several research work (see [<xref rid="C53" ref-type="bibr">53</xref>], [<xref rid="C6" ref-type="bibr">6</xref>], [<xref rid="C44" ref-type="bibr">44</xref>]).</p><p>The standard data preprocessing converts spectra into high-dimensional feature vectors by dividing m/z range into bins and taking accumulated intensity within each bin as a feature value. However, the width of bins is hard to determine. While wide bins can cause noise, too narrow bins can induce alignment errors due to mass error. This can be circumvented by using the kernel, say PPK, as previously mentioned. Although machine learning-based frameworks [<xref rid="C15" ref-type="bibr">15</xref>, <xref rid="C53" ref-type="bibr">53</xref>] used SVMs with kernel functions as the main component achieved significant improvement in metabolite identification task, feature selection was not considered for MS/MS spectra. It is due to the fact that SVMs produce sparse solutions in only dual space, not primal space as known as <italic>support vectors</italic> in the literature [<xref rid="C8" ref-type="bibr">8</xref>], leading to lack of the interpretability in these kernel-based methods. A popular approach in supervised learning problem to deal with high-dimensional data is to use regularization, such as adding an additional penalty term of the form <inline-formula><tex-math id="M109">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\lambda ||\beta ||^{2}_{2}$\end{document}</tex-math></inline-formula> (Ridge) or <inline-formula><tex-math id="M110">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\lambda ||\beta ||_{1}$\end{document}</tex-math></inline-formula> (LASSO, [<xref rid="C59" ref-type="bibr">59</xref>]) to the loss function, where <inline-formula><tex-math id="M111">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\beta $\end{document}</tex-math></inline-formula> is a coefficient vector to be learned and <inline-formula><tex-math id="M112">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\lambda $\end{document}</tex-math></inline-formula> is the hyperparameter controlling the amount of regularization, with larger values implying more regularization. The latter type of penalty, called LASSO, has attracted a lot of attention in both machine learning and statistics. One reason for its popularity is that it does feature selection; it sets some coefficients <inline-formula><tex-math id="M113">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\beta _{j}$\end{document}</tex-math></inline-formula> exactly to zero, meaning that the corresponding features are excluded from the model. The merit of this feature selection is to stabilize the parameter estimates with sparsity while leading to interpretable models (e.g. ability to explain which peaks determine a certain property of the metabolite).</p><fig id="f14" orientation="portrait" position="float"><label>Figure 14</label><caption><p>The correspondence between LDA for text and MS2LDA for mass spectra: LDA finds topics based on the co-occurrence of words while MS2LDA finds substructures based on the co-occurrence of mass fragments and neutral losses. This figure is adapted from [<xref rid="C60" ref-type="bibr">60</xref>].</p></caption><graphic xlink:href="bby066f14"/></fig><p>It is also noted that sparsity alone may not be sufficient to achieve a stable estimate due to the high-order interaction of peaks in the spectra. From a biological point of view, it can be explained that, a number of groups of peaks (or substructures) define some certain properties of molecules. Additionally, peaks in a mass spectra have a hierarchical relationship due to probably consecutive fragmentation processes from product ions and precursor ions, e.g. in multistage MS or tandem mass spectrum where a product ion can be further fragmented into new ions. Exploiting interactions among features is an area of active research. For example, methods in [<xref rid="C28" ref-type="bibr">28</xref>, <xref rid="C71" ref-type="bibr">71</xref>, <xref rid="C72" ref-type="bibr">72</xref>] produce structured sparsity. These made use of the group lasso penalty, given pre-determined groups of coefficients, inducing the whole groups of coefficients to be set to zero. In particular, given a set of groups of variables, <inline-formula><tex-math id="M114">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$G$\end{document}</tex-math></inline-formula>, group-lasso [<xref rid="C71" ref-type="bibr">71</xref>] generalizes the lasso by adding <inline-formula><tex-math id="M115">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\sum _{g \in G} d_{g}||\beta _{g}||_{\gamma _{g}}$\end{document}</tex-math></inline-formula> to the loss function, where <inline-formula><tex-math id="M116">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\gamma _{g}&#x0003e; 1$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math id="M117">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\beta _{g}$\end{document}</tex-math></inline-formula> is <inline-formula><tex-math id="M118">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\beta $\end{document}</tex-math></inline-formula> projected onto the coordinates in <inline-formula><tex-math id="M119">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$g$\end{document}</tex-math></inline-formula>, and <inline-formula><tex-math id="M120">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$d_{g}$\end{document}</tex-math></inline-formula> is a nonnegative weight (e.g. size of group <inline-formula><tex-math id="M121">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$g$\end{document}</tex-math></inline-formula>). This penalty induces a very few number of groups of coefficients to be selected (or so-called group selection). Composite absolute penalties (CAP, [<xref rid="C72" ref-type="bibr">72</xref>]) express both group and hierarchical selection. The CAP penalty assumes a known hierarchical structure on the feature (such as fragmentation process of mass spectra where a peak is generated from its precursor ion). The hierarchical structured sparsity is obtained by considering the penalty: <inline-formula><tex-math id="M122">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\sum _{j \neq k}{|\theta _{jk}|+||(\beta _{j}, \beta _{k}, \theta _{jk})||_{\gamma _{jk}}}$\end{document}</tex-math></inline-formula>, where <inline-formula><tex-math id="M123">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\theta _{jk}$\end{document}</tex-math></inline-formula> is the coefficient for the interaction between <inline-formula><tex-math id="M124">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$j^{th}$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math id="M125">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$k^{th}$\end{document}</tex-math></inline-formula> features. Different from the above penalties, where pre-determined groups and hierarchical structures are needed (e.g. FT constructed from mass spectra), methods introduced in [<xref rid="C3" ref-type="bibr">3</xref>, <xref rid="C34" ref-type="bibr">34</xref>] are to learn 1st order interactions of features without knowing the group or hierarchical structures in advance. Likewise, these methods use versions of group lasso to select interactions and enforce hierarchy via regularizations. The interested readers can refer to the paper and references therein. To incorporate high-order interactions between peaks into the learning model, the use of FTs along with mass spectra through MKL to combine kernels corresponding to these data types may be a reasonable choice, see [<xref rid="C6" ref-type="bibr">6</xref>, <xref rid="C15" ref-type="bibr">15</xref>]. As earlier mentioned, using FTs might be similar to considering peak interactions. However, if FTs are used as input features, spectra must be converted to such trees not only in training but also in prediction, which needs a heavy computation. In fact, the number of such interaction is very few, compared to a possible number of interactions among peaks. Again, advanced sparse models for learning such interactions should be considered.</p><p>Similarly, for unsupervised learning methods for substructure annotation, a key limitation of the existing probabilistic topic models including LDA in <xref ref-type="sec" rid="sec10">subsection</xref>, is that, words (peaks) are assumed to be uncorrelated or so-called bag-of-word assumption, meaning that the topic assignment for each word (peak) is irrelevant to all other words (peaks). This assumption results in losing rich information about the word (peak) dependencies and incoherent learned topics (motifs). Some methods have been proposed to incorporate external knowledge regarding the word correlation, such as WordNet [<xref rid="C39" ref-type="bibr">39</xref>], which can be considered to learn more coherent topics. Andrzejewski, Zhu and Craven [<xref rid="C2" ref-type="bibr">2</xref>] proposed an approach to incorporate such knowledge into LDA by imposing Dirichlet Forest Prior, replacing the Dirichlet prior over topic-word multinomial to encode the Must-links and Cannot-links between words. Words having Must-links are imposed to have similar probabilities within all topics while those with Cannot-links are not allowed to have high probabilities in any topics simultaneously. In a similar fashion, [<xref rid="C43" ref-type="bibr">43</xref>] proposed a quadratic regularizer and a convolved Dirichlet over the topic-word distribution to incorporate the dependencies between words. One point is that these methods ignored the fact that there are some words correlated depending on the topic they appear in. Xie, Yang and Xing [<xref rid="C68" ref-type="bibr">68</xref>] proposed to use a Markov random field for regularization of LDA to encourage words similarly labeled to share the same topic label (<xref ref-type="fig" rid="f14">Figure 14</xref>). Under this model, the topic assignment of each word is not independent, but depends on the topic labels of its correlated words. This model can be represented as in <xref ref-type="fig" rid="f15">Figure
+15</xref>. Motivated by these advanced learning models designed for text applications, FTs constructed directly from mass spectra can be used as a source of external knowledge to provide rich information about peak correlations, making the learned motifs more coherent.</p><fig id="f15" orientation="portrait" position="float"><label>Figure 15</label><caption><p>Graphical representation of Markov random field regularized LDA; if two words are correlated according to the external knowledge, an undirected edge between their topic labels is created. Finally, a graph in which nodes are latent topic labels and edges connect topic labels of semantically related words. In this example, the graph contains five nodes <inline-formula><tex-math id="M126">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{1}$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math id="M127">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{2}$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math id="M128">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{3}$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math id="M129">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{4}$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math id="M130">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{5}$\end{document}</tex-math></inline-formula> and four edges (<inline-formula><tex-math id="M131">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{2}$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math id="M132">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{3}$\end{document}</tex-math></inline-formula>), (<inline-formula><tex-math id="M133">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{2}$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math id="M134">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{4}$\end{document}</tex-math></inline-formula>), (<inline-formula><tex-math id="M135">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{3}$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math id="M136">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{5}$\end{document}</tex-math></inline-formula>) and (<inline-formula><tex-math id="M137">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{4}$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math id="M138">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{5}$\end{document}</tex-math></inline-formula>).</p></caption><graphic xlink:href="bby066f15"/></fig><p>One step approach has been shown promising supervised machine learning methods for the task, without predicting fingerprints as the intermediate step. The main scheme is to map the structured input to images in the output feature vector space and rank the candidate compounds by calculating their distances to the predicted image in the output space. Both IOKR and MP-IOKR use fingerprints as the output feature vectors and consider equally the present substructures in the fingerprints. It would be more reasonable to take the importance of substructures into account in calculating the distance between two feature vectors for ranking. Indeed, considering a compound <inline-formula><tex-math id="M139">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C_{q}$\end{document}</tex-math></inline-formula> and its two candidates <inline-formula><tex-math id="M140">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C_{1}$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math id="M141">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C_{2}$\end{document}</tex-math></inline-formula>. While <inline-formula><tex-math id="M142">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C_{q}$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math id="M143">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C_{1}$\end{document}</tex-math></inline-formula> have very few common substructures but biochemically important, <inline-formula><tex-math id="M144">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C_{q}$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math id="M145">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C_{2}$\end{document}</tex-math></inline-formula> have many common ones but less important. In many cases, <inline-formula><tex-math id="M146">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C_{1}$\end{document}</tex-math></inline-formula> should be ranked higher than <inline-formula><tex-math id="M147">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C_{c}$\end{document}</tex-math></inline-formula> with respect to <inline-formula><tex-math id="M148">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym} 
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C_{q}$\end{document}</tex-math></inline-formula>. The above argument encourages that the distance between two output feature vectors should be adaptable to the importance of substructures present in the compound, suggesting learning distance directly from the data, e.g. Mahalanobis-based metric learning.</p><p>Besides fingerprints, the other information on compounds is not taken into account in the learning phase. For example, in the training data set used by [<xref rid="C6" ref-type="bibr">6</xref>, <xref rid="C7" ref-type="bibr">7</xref>], graph structures of the compounds are available along with their corresponding fingerprints. We argue that the structures can be useful to provide extra information about metabolites in both the learning and prediction phases. In the literature, a lot of kernels have been proposed to define similarity between two compounds from their corresponding graph structures, e.g. labeled-pair graph kernels [<xref rid="C45" ref-type="bibr">45</xref>], Marginalized Graph Kernels [<xref rid="C30" ref-type="bibr">30</xref>] and Tree kernels [<xref rid="C55" ref-type="bibr">55</xref>], to name a few. Incorporation of the kernels for the output space by learning to combine them into a single one has not been addressed in the existing methods. It might improve the performance of the task and will be considered in our future work.</p><p>It is suggested in this survey that statistical machine learning-based methods should be a reasonable choice for the task of metabolite identification. Especially, when the amount of spectra and molecular structure data is increasing over time, the ability of machine learning algorithms to learn and predict relationships inherent in the data will be more enhanced. For example, (MP-)IOKR (<xref rid="TB1" ref-type="table">Table 1</xref>) are currently best kernel-based tools/methods for automatic candidate molecule ranking in competitions (e.g. CASMI 2016, 2017). Additionally, we also emphasize that the combination of different approaches should be also taken into account, by which we can take advantages of them for significant improvement. For example, (MP-)IOKR and CSI:FingerID are using <italic>machine learning</italic> and <italic>fragmentation trees</italic>. Another is MetFusion, mentioned in <xref ref-type="sec" rid="sec5">subsection 3.2</xref>, combines the results from MassBank (<italic>mass spectral library</italic>) and MetFrag (<italic>in silico fragmentation</italic>) to take advantages of complementary approaches.</p><p>
+<boxed-text id="box01" position="float" orientation="portrait"><sec id="sec12"><title>Key Points</title><p>
+<list list-type="bullet"><list-item><p>Metabolite identification is an essential and important part in metabolomics to enlarge the knowledge of biological systems. However, it is still a challenging task with a huge number of potentially interesting but unknown metabolites.</p></list-item><list-item><p>We review many techniques/software with different approaches to deal with the task of metabolite identification, which can be divided into the following four groups: mass spectra library,
+<italic>in silico</italic> fragmentation, fragmentation tree and machine learning. We mainly focus on machine learning-based methods (used in <italic>in&#x02002;silico</italic> fragmentation and machine learning approaches) for the task, which are the key to the recent progress in metabolite identification.</p></list-item><list-item><p>We conclude by discussing on advanced machine learning methods, which can lead to further improvement on this task.</p></list-item></list>
+</p></sec></boxed-text>
+</p></sec></body><back><sec><title>Funding</title><p>This work was partially supported by MEXT KAKENHI Grant Number 16H02868, Grant Number JPMJAC1503 ACCEL JST, FiDiPro Tekes (currently Business Finland) and AIPSE Academy of Finland.</p></sec><notes id="bio3"><sec sec-type="author-bio" id="sec19a"><title/><p>
+<bold>Dai Hai Nguyen</bold> is currently a PhD student at the
+Bioinformatics Center in Kyoto University. His current
+research interest focus on machine learning and bioinformatics.</p></sec><sec sec-type="author-bio" id="sec19b"><title/><p>
+<bold>Canh Hao Nguyen</bold> is an assistant professor at the
+Bioinformatics Center, Institute for Chemical Research, Kyoto
+University, working on machine learning for graph data, with
+applications to biological networks.</p></sec><sec sec-type="author-bio" id="sec19c"><title/><p>
+<bold>Hiroshi Mamitsuka</bold> is a professor at the Bioinformatics Center, Institute for Chemical Research, Kyoto University, and a FiDiPro professor at the Department of Computer Science, Aalto University,
+working on machine learning, data mining and application to
+biology and chemistry.</p></sec></notes><ref-list id="ref1a"><title>References</title><ref id="C1"><label>[1]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Allen</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Greiner</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Wishart</surname><given-names>D</given-names></name></person-group>
+<article-title>Competitive fragmentation modeling of ESI-MS/MS spectra for putative metabolite identification</article-title>. <source><italic toggle="yes">Metabolomics</italic></source><year>2015</year>;<volume>11</volume>(<issue>1</issue>):<fpage>98</fpage>&#x02013;<lpage>110</lpage>.</mixed-citation></ref><ref id="C2"><label>[2]</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Andrzejewski</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Zhu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Craven</surname><given-names>M.</given-names></name></person-group>
+<article-title>Incorporating domain knowledge into topic modeling via dirichlet forest priors</article-title>. <source>In: <italic toggle="yes">Proceedings of the 26th Annual International Conference on Machine Learning</italic></source>, <year>2009</year> pp. <fpage>25</fpage>&#x02013;<lpage>32</lpage>.
+<publisher-loc>Montreal, QC, Canada</publisher-loc>: <publisher-name>ACM</publisher-name>.</mixed-citation></ref><ref id="C3"><label>[3]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Bien</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Taylor</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Tibshirani</surname><given-names>R</given-names></name></person-group>
+<article-title>A lasso for hierarchical interactions</article-title>. <source><italic toggle="yes">Ann Statist</italic></source><year>2013</year>;<volume>41</volume>(<issue>3</issue>):<fpage>1111</fpage>.</mixed-citation></ref><ref id="C4"><label>[4]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Blei</surname><given-names>DM</given-names></name>, <name name-style="western"><surname>Ng</surname><given-names>AY</given-names></name>, <name name-style="western"><surname>Jordan</surname><given-names>MI</given-names></name></person-group>
+<article-title>Latent dirichlet allocation</article-title>. <source><italic toggle="yes">J Mach Learn Res</italic></source><year>2003</year>;<volume>3</volume>(<issue>Jan</issue>):<fpage>993</fpage>&#x02013;<lpage>1022</lpage>.</mixed-citation></ref><ref id="C5"><label>[5]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>B&#x000f6;cker</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Rasche</surname><given-names>F</given-names></name></person-group>
+<article-title>Towards de novo identification of metabolites by analyzing tandem mass spectra</article-title>. <source><italic toggle="yes">Bioinformatics</italic></source><year>2008</year>;<volume>24</volume>(<issue>16</issue>):<fpage>i49</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">18689839</pub-id></mixed-citation></ref><ref id="C6"><label>[6]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Brouard</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Shen</surname><given-names>H</given-names></name>, <name name-style="western"><surname>D&#x000fc;hrkop</surname><given-names>K</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Fast metabolite identification with input output kernel regression</article-title>. <source><italic toggle="yes">Bioinformatics</italic></source><year>2016</year>;<volume>32</volume>(<issue>12</issue>):<fpage>i28</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">27307628</pub-id></mixed-citation></ref><ref id="C7"><label>[7]</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Brouard</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Bach</surname><given-names>E</given-names></name>, <name name-style="western"><surname>B&#x000f6;cker</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Rousu</surname><given-names>J</given-names></name></person-group>
+<article-title>Magnitude-preserving ranking for structured outputs</article-title>. In: <source><italic toggle="yes">Asian Conference on Machine Learning</italic></source>, <year>2017</year> pp. <fpage>407</fpage>&#x02013;<lpage>22</lpage>. <publisher-loc>Seoul, South Korea</publisher-loc>: <publisher-name>ACM</publisher-name>.</mixed-citation></ref><ref id="C8"><label>[8]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Burges</surname><given-names>CJ</given-names></name></person-group>
+<article-title>A tutorial on support vector machines for pattern recognition</article-title>. <source><italic toggle="yes">Data Min Knowl Discov</italic></source><year>1998</year>;<volume>2</volume>(<issue>2</issue>):<fpage>121</fpage>&#x02013;<lpage>67</lpage>.</mixed-citation></ref><ref id="C9"><label>[9]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Fan</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Xia</surname><given-names>H</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Massis: a mass spectrum simulation system. 1. principle and method</article-title>. <source><italic toggle="yes">Eur J Mass Spectrom</italic></source><year>2003</year>;<volume>9</volume>(<issue>3</issue>):<fpage>175</fpage>&#x02013;<lpage>86</lpage>.</mixed-citation></ref><ref id="C10"><label>[10]</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Cortes</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Mohri</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Rastogi</surname><given-names>A</given-names></name></person-group>
+<article-title>Magnitude-preserving ranking algorithms</article-title>. <source><roman toggle="no">In:</roman><italic toggle="yes">Proceedings of the 24th International Conference on Machine Learning</italic></source>, <year>2007</year> pp. <fpage>169</fpage>&#x02013;<lpage>76</lpage>. <publisher-loc>Corvallis, OR, USA</publisher-loc>: <publisher-name>ACM</publisher-name>.</mixed-citation></ref><ref id="C11"><label>[11]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Cortes</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Mohri</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Rostamizadeh</surname><given-names>A.</given-names></name></person-group>
+<article-title>Algorithms for learning kernels based on centered alignment</article-title>. <source><italic toggle="yes">J Mach Learn Res</italic></source><year>2012</year>; <volume>13</volume>(<issue>Mar</issue>):<fpage>795</fpage>&#x02013;<lpage>828</lpage>.</mixed-citation></ref><ref id="C12"><label>[12]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Cottrell</surname><given-names>JS</given-names></name>, <name name-style="western"><surname>London</surname><given-names>U</given-names></name></person-group>
+<article-title>Probability-based protein identification by searching sequence databases using mass spectrometry data</article-title>. <source><italic toggle="yes">Electrophoresis</italic></source><year>1999</year>;<volume>20</volume>(<issue>18</issue>):<fpage>3551</fpage>&#x02013;<lpage>67</lpage>.<pub-id pub-id-type="pmid">10612281</pub-id></mixed-citation></ref><ref id="C13"><label>[13]</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Dass</surname><given-names>C</given-names></name></person-group>
+<source><italic toggle="yes">Fundamentals of Contemporary Mass Spectrometry</italic></source>, Vol. <comment>16</comment>
+<publisher-loc>Hoboken, New Jersey, USA</publisher-loc>: <publisher-name>John Wiley &#x00026; Sons</publisher-name>, <year>2007</year>.</mixed-citation></ref><ref id="C14"><label>[14]</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>De Hoffmann</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Stroobant</surname><given-names>V</given-names></name></person-group>
+<source><italic toggle="yes">Mass Spectrometry: Principles and Applications</italic></source>.
+<publisher-name>John Wiley &#x00026; Sons</publisher-name>, <year>2007</year>.</mixed-citation></ref><ref id="C15"><label>[15]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>D&#x000fc;hrkop</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Shen</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Meusel</surname><given-names>M</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Searching molecular structure databases with tandem mass spectra using CSI: FingerID</article-title>. <source><italic toggle="yes">Proc Natl Acad Sci</italic></source><year>2015</year>;<volume>112</volume>(<issue>41</issue>):<fpage>12580</fpage>&#x02013;<lpage>5</lpage>.<pub-id pub-id-type="pmid">26392543</pub-id></mixed-citation></ref><ref id="C16"><label>[16]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Dunn</surname><given-names>WB</given-names></name>, <name name-style="western"><surname>Ellis</surname><given-names>DI</given-names></name></person-group>
+<article-title>Metabolomics: current analytical platforms and methodologies</article-title>. <source><italic toggle="yes">TrAC Trends Analytic Chem</italic></source><year>2005</year>; <volume>24</volume>(<issue>4</issue>):<fpage>285</fpage>&#x02013;<lpage>94</lpage>.</mixed-citation></ref><ref id="C17"><label>[17]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Eng</surname><given-names>JK</given-names></name>, <name name-style="western"><surname>McCormack</surname><given-names>AL</given-names></name>, <name name-style="western"><surname>Yates</surname><given-names>JR</given-names></name></person-group>
+<article-title>An approach to correlate tandem mass spectral data of peptides with amino acid sequences in a protein database</article-title>. <source><italic toggle="yes">J Amer Soc Mass Spectrom</italic></source><year>1994</year>;<volume>5</volume>(<issue>11</issue>):<fpage>976</fpage>&#x02013;<lpage>89</lpage>.<pub-id pub-id-type="pmid">24226387</pub-id></mixed-citation></ref><ref id="C18"><label>[18]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gasteiger</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Hanebeck</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Schulz</surname><given-names>K-P</given-names></name></person-group>
+<article-title>Prediction of mass spectra from structural information</article-title>. <source><italic toggle="yes">J Chem Inf Comput Sci</italic></source><year>1992</year>;<volume>32</volume>(<issue>4</issue>):<fpage>264</fpage>&#x02013;<lpage>71</lpage>.</mixed-citation></ref><ref id="C19"><label>[19]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gerlich</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Neumann</surname><given-names>S</given-names></name></person-group>
+<article-title>Metfusion: integration of compound identification strategies</article-title>. <source><italic toggle="yes">J Mass Spectrom</italic></source><year>2013</year>;<volume>48</volume>(<issue>3</issue>):<fpage>291</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">23494783</pub-id></mixed-citation></ref><ref id="C20"><label>[20]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>G&#x000f6;nen</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Alpayd&#x00131;n</surname><given-names>E</given-names></name></person-group>
+<article-title>Multiple kernel learning algorithms</article-title>. <source><italic toggle="yes">J Mach Learn Res</italic></source><year>2013</year>;<volume>12</volume>(<issue>Jul</issue>):<fpage>2211</fpage>&#x02013;<lpage>68</lpage>.</mixed-citation></ref><ref id="C21"><label>[21]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Griffiths</surname><given-names>TL</given-names></name>, <name name-style="western"><surname>Steyvers</surname><given-names>M</given-names></name></person-group>
+<article-title>Finding scientific topics</article-title>. <source><italic toggle="yes">Proc Natl Acad Sci</italic></source><year>2004</year>;<volume>101</volume>(<issue>suppl 1</issue>):<fpage>5228</fpage>&#x02013;<lpage>35</lpage>.<pub-id pub-id-type="pmid">14872004</pub-id></mixed-citation></ref><ref id="C22"><label>[22]</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Gross</surname><given-names>JH</given-names></name></person-group>
+<source><italic toggle="yes">Mass Spectrometry: A Textbook</italic></source>, <year>2006</year>
+<publisher-loc>Berlin/Heidelberg, Germany</publisher-loc>: <publisher-name>Springer Science &#x00026; Business Media</publisher-name>.</mixed-citation></ref><ref id="C23"><label>[23]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Heinonen</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Rantanen</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Mielik&#x000e4;inen</surname><given-names>T</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Fid: a software for ab initio structural identification of productions from tandem mass spectrometric data</article-title>. <source><italic toggle="yes">Rapid Commun Mass Spectrom</italic></source><year>2008</year>;<volume>22</volume>(<issue>19</issue>):<fpage>3043</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">18763276</pub-id></mixed-citation></ref><ref id="C24"><label>[24]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Heinonen</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Shen</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Zamboni</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Rousu</surname><given-names>J</given-names></name></person-group>
+<article-title>Metabolite identification and molecular fingerprint prediction through machine learning</article-title>. <source><italic toggle="yes">Bioinformatics</italic></source><year>2012</year>;<volume>28</volume>(<issue>18</issue>):<fpage>2333</fpage>&#x02013;<lpage>41</lpage>.<pub-id pub-id-type="pmid">22815355</pub-id></mixed-citation></ref><ref id="C25"><label>[25]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hill</surname><given-names>DW</given-names></name>, <name name-style="western"><surname>Kertesz</surname><given-names>TM</given-names></name>, <name name-style="western"><surname>Fontaine</surname><given-names>D</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Mass spectral metabonomics beyond elemental formula: chemical database querying by matching experimental with computational fragmentation spectra</article-title>. <source><italic toggle="yes">Analyt Chem</italic></source><year>2008</year>;<volume>80</volume>(<issue>14</issue>):<fpage>5574</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">18547062</pub-id></mixed-citation></ref><ref id="C26"><label>[26]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hummel</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Strehmel</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Selbig</surname><given-names>J</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Decision tree supported substructure prediction of metabolites from GC-MS profiles</article-title>. <source><italic toggle="yes">Metabolomics</italic></source><year>2010</year>;<volume>6</volume>(<issue>2</issue>):<fpage>322</fpage>&#x02013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">20526350</pub-id></mixed-citation></ref><ref id="C27"><label>[27]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Jebara</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Kondor</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Howard</surname><given-names>A.</given-names></name></person-group>
+<article-title>Probability product kernels</article-title>. <source><italic toggle="yes">J Mach Learn Res</italic></source><year>2004</year>;<volume>5</volume>(<issue>Jul</issue>):<fpage>819</fpage>&#x02013;<lpage>44</lpage>.</mixed-citation></ref><ref id="C28"><label>[28]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Jenatton</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Audibert</surname><given-names>J-Y</given-names></name>, <name name-style="western"><surname>Bach</surname><given-names>F.</given-names></name></person-group>
+<article-title>Structured variable selection with sparsity-inducing norms</article-title>. <source><italic toggle="yes">J Mach Learn Res</italic></source><year>2011</year>;<volume>12</volume>(<issue>Oct</issue>): <fpage>2777</fpage>&#x02013;<lpage>824</lpage>.</mixed-citation></ref><ref id="C29"><label>[29]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kangas</surname><given-names>LJ</given-names></name>, <name name-style="western"><surname>Metz</surname><given-names>TO</given-names></name>, <name name-style="western"><surname>Isaac</surname><given-names>G</given-names></name></person-group>, <italic>et al</italic>
+<article-title>In silico identification software (ISIS): a machine learning approach to tandem mass spectral identification of lipids</article-title>. <source><italic toggle="yes">Bioinformatics</italic></source><year>2012</year>;<volume>28</volume>(<issue>13</issue>): <fpage>1705</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">22592377</pub-id></mixed-citation></ref><ref id="C30"><label>[30]</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Kashima</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Tsuda</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Inokuchi</surname><given-names>A.</given-names></name></person-group>
+<article-title>Marginalized kernels between labeled graphs</article-title>. <source>In: <italic toggle="yes">Proceedings of the 20th International Conference on Machine Learning (ICML-03)</italic></source>, <year>2003</year> pp. <fpage>321</fpage>&#x02013;<lpage>28</lpage>.
+<publisher-loc>Atlanta, GA, USA</publisher-loc>: <publisher-name>ACM</publisher-name>.</mixed-citation></ref><ref id="C31"><label>[31]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kloft</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Brefeld</surname><given-names>U</given-names></name>, <name name-style="western"><surname>Sonnenburg</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Zien</surname><given-names>A.</given-names></name></person-group>
+<article-title>Lp-norm multiple kernel learning</article-title>. <source><italic toggle="yes">J Mach Learn Res</italic></source><year>2011</year>;<volume>12</volume>(<issue>Mar</issue>):<fpage>953</fpage>&#x02013;<lpage>97</lpage>.</mixed-citation></ref><ref id="C32"><label>[32]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Kumari</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Stevens</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Kind</surname><given-names>T</given-names></name></person-group> , <italic>et al</italic>
+<article-title>Applying in-silico retention index and mass spectra matching for identification of unknown metabolites in accurate mass GC-TOF mass spectrometry</article-title>. <source><italic toggle="yes">Analyt Chem</italic></source><year>2011</year>;<volume>83</volume>(<issue>15</issue>):<fpage>5895</fpage>&#x02013;<lpage>902</lpage>.<pub-id pub-id-type="pmid">21678983</pub-id></mixed-citation></ref><ref id="C33"><label>[33]</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Sun</surname><given-names>S</given-names></name></person-group>
+<article-title>Nonlinear combination of multiple kernels for support vector machines</article-title>. <source>In <italic toggle="yes">20th International Conference on Pattern Recognition (ICPR),</italic> 2010</source>. pp. <fpage>2889</fpage>&#x02013;<lpage>92</lpage>. <publisher-loc>Istanbul, Turkey</publisher-loc>: <publisher-name>IEEE</publisher-name>.</mixed-citation></ref><ref id="C34"><label>[34]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lim</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Hastie</surname><given-names>T.</given-names></name></person-group>
+<article-title>Learning interactions via hierarchical group-lasso regularization</article-title>. <source><italic toggle="yes">J Comput Graph Stat</italic></source><year>2015</year>;<volume>24</volume>(<issue>3</issue>): <fpage>627</fpage>&#x02013;<lpage>54</lpage>.<pub-id pub-id-type="pmid">26759522</pub-id></mixed-citation></ref><ref id="C35"><label>[35]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ma</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Kind</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Yang</surname><given-names>D</given-names></name></person-group> , <italic>et al</italic>
+<article-title>MS2Analyzer: a software for small molecule substructure annotations from accurate tandem mass spectra</article-title>. <source><italic toggle="yes">Analyt Chem</italic></source><year>2014</year>;<volume>86</volume>(<issue>21</issue>): <fpage>10724</fpage>&#x02013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">25263576</pub-id></mixed-citation></ref><ref id="C36"><label>[36]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Makarov</surname><given-names>A</given-names></name></person-group>
+<article-title>Electrostatic axially harmonic orbital trapping: a high-performance technique of mass analysis</article-title>. <source><italic toggle="yes">Analyt Chem</italic></source><year>2000</year>; <volume>72</volume>(<issue>6</issue>):<fpage>1156</fpage>&#x02013;<lpage>62</lpage>.<pub-id pub-id-type="pmid">10740853</pub-id></mixed-citation></ref><ref id="C37"><label>[37]</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>McLafferty</surname><given-names>FW</given-names></name>, <name name-style="western"><surname>Turecek</surname><given-names>F</given-names></name></person-group>
+<source><italic toggle="yes">Interpretation of Mass Spectra</italic></source>, <comment>3rd edn</comment>
+<publisher-loc>Mill Valley, CA</publisher-loc>: <publisher-name>University Science Books</publisher-name>, <year>1993</year>.</mixed-citation></ref><ref id="C38"><label>[38]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Micchelli</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>Pontil</surname><given-names>M.</given-names></name></person-group>
+<article-title>On learning vector-valued functions</article-title>. <source><italic toggle="yes">Neural Comput</italic></source><year>2005</year>;<volume>17</volume>(<issue>1</issue>):<fpage>177</fpage>&#x02013;<lpage>204</lpage>.<pub-id pub-id-type="pmid">15563752</pub-id></mixed-citation></ref><ref id="C39"><label>[39]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Miller</surname><given-names>GA.</given-names></name></person-group>
+<article-title>Wordnet: a lexical database for English</article-title>. <source><italic toggle="yes">Commun ACM</italic></source><year>1995</year>;<volume>38</volume>(<issue>11</issue>):<fpage>39</fpage>&#x02013;<lpage>41</lpage>.</mixed-citation></ref><ref id="C40"><label>[40]</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Mistrik</surname><given-names>R.</given-names></name></person-group>
+<article-title>A new concept for the interpretation of mass spectra based on a combination of a fragmentation mechanism database and a computer expert system</article-title>. In: <source>Ashcroft AE, Brenton G, Monaghan JJ (eds). <italic toggle="yes">Advances in Mass Spectrometry</italic></source>. <publisher-loc>Amsterdam</publisher-loc>:
+<publisher-name>Elsevier</publisher-name>.</mixed-citation></ref><ref id="C41"><label>[41]</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Mrzic</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Meysman</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Bittremieux</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Laukens</surname><given-names>K</given-names></name></person-group>
+<article-title>Automated recommendation of metabolite substructures from mass spectra using frequent pattern mining</article-title>. <year>2017</year>
+<source><italic toggle="yes">bioRxiv</italic></source>, p. <fpage>134189</fpage>.</mixed-citation></ref><ref id="C42"><label>[42]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Mylonas</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Mauron</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Masselot</surname><given-names>A</given-names></name></person-group> , <italic>et al</italic>
+<article-title>X-rank: a robust algorithm for small molecule identification using tandem mass spectrometry</article-title>. <source><italic toggle="yes">Analyt Chem</italic></source><year>2009;</year><volume>81</volume>(<issue>18</issue>):<fpage>7604</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">19702277</pub-id></mixed-citation></ref><ref id="C43"><label>[43]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Newman</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Bonilla</surname><given-names>EV</given-names></name>, <name name-style="western"><surname>Buntine</surname><given-names>W.</given-names></name></person-group>
+<article-title>Improving topic coherence with regularized topic models</article-title>. <source>In: <italic toggle="yes">Advances in Neural Information Processing Systems</italic></source>, <year>2011</year> pp. <fpage>496</fpage>&#x02013;<lpage>504</lpage>.</mixed-citation></ref><ref id="C44"><label>[44]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Nguyen</surname><given-names>DH</given-names></name>, <name name-style="western"><surname>Nguyen</surname><given-names>CH</given-names></name>, <name name-style="western"><surname>Mamitsuka</surname><given-names>H.</given-names></name></person-group>
+<article-title>Simple: sparse interaction model over peaks of molecules for fast, interpretable metabolite identification from tandem mass spectra</article-title>. <source><italic toggle="yes">Bioinformatics</italic></source><year>2018</year>;<volume>34</volume>(<issue>13</issue>):<fpage>i323</fpage>&#x02013;<lpage>i332</lpage>.<pub-id pub-id-type="pmid">29950009</pub-id></mixed-citation></ref><ref id="C45"><label>[45]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ralaivola</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Swamidass</surname><given-names>SJ</given-names></name>, <name name-style="western"><surname>Saigo</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Baldi</surname><given-names>P.</given-names></name></person-group>
+<article-title>Graph kernels for chemical informatics</article-title>. <source><italic toggle="yes">Neural Netw</italic></source><year>2005</year>;<volume>18</volume>(<issue>8</issue>):<fpage>1093</fpage>&#x02013;<lpage>110</lpage>.<pub-id pub-id-type="pmid">16157471</pub-id></mixed-citation></ref><ref id="C46"><label>[46]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Rasche</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Svato&#x00161;</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Maddula</surname><given-names>RK</given-names></name></person-group> , <italic>et al</italic>
+<article-title>Computing fragmentation trees from tandem mass spectrometry data</article-title>. <source><italic toggle="yes">Anal Chem</italic></source><year>2010</year>;<volume>83</volume>(<issue>4</issue>):<fpage>1243</fpage>&#x02013;<lpage>51</lpage>.<pub-id pub-id-type="pmid">21182243</pub-id></mixed-citation></ref><ref id="C47"><label>[47]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Rasche</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Scheubert</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Hufsky</surname><given-names>F</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Identifying the unknowns by aligning fragmentation trees</article-title>. <source><italic toggle="yes">Anal Chem</italic></source><year>2012</year>; <volume>84</volume>(<issue>7</issue>):<fpage>3417</fpage>&#x02013;<lpage>26</lpage>.<pub-id pub-id-type="pmid">22390817</pub-id></mixed-citation></ref><ref id="C48"><label>[48]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Rauf</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Rasche</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Nicolas</surname><given-names>F</given-names></name>, <name name-style="western"><surname>B&#x000f6;cker</surname><given-names>S.</given-names></name></person-group>
+<article-title>Finding maximum colorful subtrees in practice</article-title>. <source><italic toggle="yes">J Comput Biol</italic></source><year>2013</year>;<volume>20</volume>(<issue>4</issue>):<fpage>311</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">23509858</pub-id></mixed-citation></ref><ref id="C49"><label>[49]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ridder</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Hooft</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>Verhoeven</surname><given-names>S</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Substructure-based annotation of high-resolution multistage MSn spectral trees</article-title>. <source><italic toggle="yes">Rapid Commun Mass Spectrom</italic></source><year>2012</year>;<volume>26</volume>(<issue>20</issue>):<fpage>2461</fpage>&#x02013;<lpage>71</lpage>.<pub-id pub-id-type="pmid">22976213</pub-id></mixed-citation></ref><ref id="C50"><label>[50]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Rojas-Cherto</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Peironcely</surname><given-names>JE</given-names></name>, <name name-style="western"><surname>Kasper</surname><given-names>PT</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Metabolite identification using automated comparison of high-resolution multistage mass spectral trees</article-title>. <source><italic toggle="yes">Anal Chem</italic></source><year>2012</year>; <volume>84</volume>(<issue>13</issue>):<fpage>5524</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">22612383</pub-id></mixed-citation></ref><ref id="C51"><label>[51]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Scheubert</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Hufsky</surname><given-names>F</given-names></name>, <name name-style="western"><surname>B&#x000f6;cker</surname><given-names>S.</given-names></name></person-group>
+<article-title>Computational mass spectrometry for small molecules</article-title>. <source><italic toggle="yes">J Cheminform</italic></source><year>2013</year>;<volume>5</volume>(<issue>1</issue>):<fpage>12</fpage>.<pub-id pub-id-type="pmid">23453222</pub-id></mixed-citation></ref><ref id="C52"><label>[52]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Schymanski</surname><given-names>EL</given-names></name>, <name name-style="western"><surname>Meringer</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Brack</surname><given-names>W.</given-names></name></person-group>
+<article-title>Matching structures to mass spectra using fragmentation patterns: are the results as good as they look?</article-title>
+<source><italic toggle="yes">Anal Chemistry</italic></source>
+<year>2009</year>;<volume>81</volume>(<issue>9</issue>):<fpage>3608</fpage>&#x02013;<lpage>17</lpage>.</mixed-citation></ref><ref id="C53"><label>[53]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Shen</surname><given-names>H</given-names></name>, <name name-style="western"><surname>D&#x000fc;hrkop</surname><given-names>K</given-names></name>, <name name-style="western"><surname>B&#x000f6;cker</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Rousu</surname><given-names>J.</given-names></name></person-group>
+<article-title>Metabolite identification through multiple kernel learning on fragmentation trees</article-title>. <source><italic toggle="yes">Bioinformatics</italic></source><year>2014</year>;<volume>30</volume>(<issue>12</issue>):<fpage>i157</fpage>&#x02013;<lpage>164</lpage>.<pub-id pub-id-type="pmid">24931979</pub-id></mixed-citation></ref><ref id="C54"><label>[54]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Smith</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>O&#x02019;Maille</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Want</surname><given-names>EJ</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Metlin: a metabolite mass spectral database</article-title>. <source><italic toggle="yes">Ther Drug Monit</italic></source><year>2005</year>;<volume>27</volume>(<issue>6</issue>): <fpage>747</fpage>&#x02013;<lpage>51</lpage>.<pub-id pub-id-type="pmid">16404815</pub-id></mixed-citation></ref><ref id="C55"><label>[55]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Smola</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Vishwanathan</surname><given-names>S.</given-names></name></person-group>
+<article-title>Fast kernels for string and tree matching</article-title>. <source>In: <italic toggle="yes">Advances in Neural Information Processing Systems</italic></source>, <year>2003</year> pp. <fpage>585</fpage>&#x02013;<lpage>92</lpage>.</mixed-citation></ref><ref id="C56"><label>[56]</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Srebro</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Shraibman</surname><given-names>A.</given-names></name></person-group>
+<article-title>Rank, trace-norm and max-norm</article-title>. <source>In: <italic toggle="yes">International Conference on Computational Learning Theory</italic></source>, <year>2005</year> pp. <fpage>545</fpage>&#x02013;<lpage>60</lpage>. <publisher-loc>Bertinoro, Italy</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="C57"><label>[57]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Stein</surname><given-names>SE</given-names></name>, <name name-style="western"><surname>Scott</surname><given-names>DR.</given-names></name></person-group>
+<article-title>Optimization and testing of mass spectral library search algorithms for compound identification</article-title>. <source><italic toggle="yes">J Amer Soc Mass Spectrom</italic></source><year>1994</year>;<volume>5</volume>(<issue>9</issue>):<fpage>859</fpage>&#x02013;<lpage>66</lpage>.<pub-id pub-id-type="pmid">24222034</pub-id></mixed-citation></ref><ref id="C58"><label>[58]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Tautenhahn</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Cho</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Uritboonthai</surname><given-names>W</given-names></name></person-group>, <italic>et al</italic>
+<article-title>An accelerated workflow for untargeted metabolomics using the metlin database</article-title>. <source><italic toggle="yes">Nat Biotechnol</italic></source><year>2012</year>;<volume>30</volume>(<issue>9</issue>):<fpage>826</fpage>.</mixed-citation></ref><ref id="C59"><label>[59]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Tibshirani</surname><given-names>R</given-names></name></person-group>
+<article-title>Regression shrinkage and selection via the lasso</article-title>. <source><italic toggle="yes">J R Stat Soc Series B Methodol</italic></source><year>1996</year>;<volume>58</volume>(<issue>1</issue>):<fpage>267</fpage>&#x02013;<lpage>288</lpage>.</mixed-citation></ref><ref id="C60"><label>[60]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>van Der Hooft</surname><given-names>JJJ</given-names></name>, <name name-style="western"><surname>Wandy</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Barrett</surname><given-names>MP</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Topic modeling for untargeted substructure exploration in metabolomics</article-title>. <source><italic toggle="yes">Proc Natl Acad Sci</italic></source><year>2016</year>;<volume>113</volume>(<issue>48</issue>):<fpage>13738</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">27856765</pub-id></mixed-citation></ref><ref id="C61"><label>[61]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Vaniya</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Fiehn</surname><given-names>O.</given-names></name></person-group>
+<article-title>Using fragmentation trees and mass spectral trees for identifying unknown compounds in metabolomics</article-title>. <source><italic toggle="yes">TrAC Trends Analyt Chem</italic></source><year>2015</year>;<volume>69</volume>:<fpage>52</fpage>&#x02013;<lpage>61</lpage>.</mixed-citation></ref><ref id="C62"><label>[62]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Carver</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>Phelan</surname><given-names>VV</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Sharing and community curation of mass spectrometry data with global natural products social molecular networking</article-title>. <source><italic toggle="yes">Nat Biotech</italic></source><year>2016</year>;<volume>34</volume>(<issue>8</issue>):<fpage>828</fpage>.</mixed-citation></ref><ref id="C63"><label>[63]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Watrous</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Roach</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Alexandrov</surname><given-names>T</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Mass spectral molecular networking of living microbial colonies</article-title>. <source><italic toggle="yes">Proc Natl Acad Sci</italic></source><year>2012</year>;<volume>109</volume>(<issue>26</issue>):<fpage>E1743</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">22586093</pub-id></mixed-citation></ref><ref id="C64"><label>[64]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wishart</surname><given-names>DS.</given-names></name></person-group>
+<article-title>Current progress in computational metabolomics</article-title>. <source><italic toggle="yes">Brief Bioinformatics</italic></source><year>2007</year>;<volume>8</volume>(<issue>5</issue>):<fpage>279</fpage>&#x02013;<lpage>93</lpage>.<pub-id pub-id-type="pmid">17626065</pub-id></mixed-citation></ref><ref id="C65"><label>[65]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wishart</surname><given-names>DS.</given-names></name></person-group>
+<article-title>Computational strategies for metabolite identification in metabolomics</article-title>. <source><italic toggle="yes">Bioanalysis</italic></source><year>2009</year>;<volume>1</volume>(<issue>9</issue>):<fpage>1579</fpage>&#x02013;<lpage>96</lpage>.<pub-id pub-id-type="pmid">21083105</pub-id></mixed-citation></ref><ref id="C66"><label>[66]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wishart</surname><given-names>DS</given-names></name>, <name name-style="western"><surname>Feunang</surname><given-names>YD</given-names></name>, <name name-style="western"><surname>Marcu</surname><given-names>A</given-names></name></person-group>, <italic>et al</italic>
+<article-title>HMDB 4.0: the human metabolome database for 2018</article-title>. <source><italic toggle="yes">Nucleic Acids Res</italic></source><year>2017</year>;<volume>46</volume>(<issue>D1</issue>):<fpage>D608</fpage>&#x02013;<lpage>17</lpage>.</mixed-citation></ref><ref id="C67"><label>[67]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wolf</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Schmidt</surname><given-names>S</given-names></name>, <name name-style="western"><surname>M&#x000fc;ller-Hannemann</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Neumann</surname><given-names>S.</given-names></name></person-group>
+<article-title>In silico fragmentation for computer assisted identification of metabolite mass spectra</article-title>. <source><italic toggle="yes">BMC Bioinformatics</italic></source>, <year>2017</year>; <volume>11</volume>(<issue>1</issue>):<fpage>148</fpage>.</mixed-citation></ref><ref id="C68"><label>[68]</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name name-style="western"><surname>Xie</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Yang</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Xing</surname><given-names>E.</given-names></name></person-group>
+<article-title>Incorporating word correlation knowledge into topic modeling</article-title>. <source><roman toggle="no">In</roman><italic toggle="yes">Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</italic></source>, <year>2015</year> pp. <fpage>725</fpage>&#x02013;<lpage>34</lpage>.
+<publisher-loc>Denver, Colorado, USA</publisher-loc>.</mixed-citation></ref><ref id="C69"><label>[69]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yang</surname><given-names>JY</given-names></name>, <name name-style="western"><surname>Sanchez</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Rath</surname><given-names>CM</given-names></name></person-group>, <italic>et al</italic>
+<article-title>Molecular networking as a dereplication strategy</article-title>. <source><italic toggle="yes">J Nat Products</italic></source><year>2013</year>;<volume>76</volume>(<issue>9</issue>): <fpage>1686</fpage>&#x02013;<lpage>99</lpage>.</mixed-citation></ref><ref id="C70"><label>[70]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yoshida</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Leardi</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Funatsu</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Varmuza</surname><given-names>K</given-names></name></person-group>
+<article-title>Feature selection by genetic algorithms for mass spectral classifiers</article-title>. <source><italic toggle="yes">Anal Chim Acta</italic></source><year>2001</year>;<volume>446</volume>(<issue>1&#x02013;2</issue>):<fpage>483</fpage>&#x02013;<lpage>92</lpage>.</mixed-citation></ref><ref id="C71"><label>[71]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yuan</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Lin</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Model selection and estimation in regression with grouped variables</article-title>. <source><italic toggle="yes">J R Stat Soc Series B Stat Method</italic></source><year>2006</year>; <volume>68</volume>(<issue>1</issue>):<fpage>49</fpage>&#x02013;<lpage>67</lpage>.</mixed-citation></ref><ref id="C72"><label>[72]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Zhao</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Rocha</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Yu</surname><given-names>B.</given-names></name></person-group>
+<article-title>The composite absolute penalties family for grouped and hierarchical variable selection</article-title>. <source><italic toggle="yes">Ann Stat</italic></source>, <year>2009</year>;<fpage>3468</fpage>&#x02013;<lpage>97</lpage>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,855 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Physiol Rep</journal-id><journal-id journal-id-type="iso-abbrev">Physiol Rep</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2051-817X</journal-id><journal-id journal-id-type="publisher-id">PHY2</journal-id><journal-id journal-id-type="hwp">physreports</journal-id><journal-title-group><journal-title>Physiological Reports</journal-title></journal-title-group><issn pub-type="epub">2051-817X</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31925944</article-id><article-id pub-id-type="pmc">6954122</article-id><article-id pub-id-type="doi">10.14814/phy2.14343</article-id><article-id pub-id-type="publisher-id">PHY214343</article-id><article-categories><subj-group subj-group-type="article-subject-classification"><subject>Respiratory Physiology</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Cellular Physiology</subject></subj-group><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Hypoxia and transforming growth factor &#x003b2;1 regulation of long non&#x02010;coding RNA transcriptomes in human pulmonary fibroblasts</article-title><alt-title alt-title-type="left-running-head">SENAVIRATHNA et al.</alt-title></title-group><contrib-group><contrib id="phy214343-cr-0001" contrib-type="author"><name><surname>Senavirathna</surname><given-names>Lakmini K.</given-names></name><xref ref-type="aff" rid="phy214343-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="phy214343-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="phy214343-cr-0002" contrib-type="author"><name><surname>Huang</surname><given-names>Chaoqun</given-names></name><xref ref-type="aff" rid="phy214343-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="phy214343-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="phy214343-cr-0003" contrib-type="author"><name><surname>Pushparaj</surname><given-names>Samuel</given-names></name><xref ref-type="aff" rid="phy214343-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="phy214343-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="phy214343-cr-0004" contrib-type="author"><name><surname>Xu</surname><given-names>Dao</given-names></name><xref ref-type="aff" rid="phy214343-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="phy214343-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="phy214343-cr-0005" contrib-type="author" corresp="yes"><name><surname>Liu</surname><given-names>Lin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4811-4897</contrib-id><xref ref-type="aff" rid="phy214343-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="phy214343-aff-0002">
+<sup>2</sup>
+</xref><address><email>lin.liu@okstate.edu</email></address></contrib></contrib-group><aff id="phy214343-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Oklahoma Center for Respiratory and Infectious Diseases</named-content>
+<institution>Oklahoma State University</institution>
+<city>Stillwater</city>
+<named-content content-type="country-part">OK</named-content>
+<country country="US">USA</country>
+</aff><aff id="phy214343-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Lundberg&#x02010;Kienlen Lung Biology and Toxicology Laboratory</named-content>
+<named-content content-type="organisation-division">Department of Physiological Sciences</named-content>
+<institution>Oklahoma State University</institution>
+<city>Stillwater</city>
+<named-content content-type="country-part">OK</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Lin Liu, Department of Physiological Sciences, Oklahoma State University Stillwater, 264 McElroy Hall, OK 74078, USA.<break/>
+Email: <email>lin.liu@okstate.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>8</volume><issue>1</issue><issue-id pub-id-type="doi">10.14814/phy2.v8.1</issue-id><elocation-id>e14343</elocation-id><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 Published by the Physiological Society and the American Physiological Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>Physiological Reports</italic> published by Wiley Periodicals, Inc. on behalf of The Physiological Society and the American Physiological Society.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:PHY2-8-e14343.pdf"/><abstract id="phy214343-abs-0001"><title>Abstract</title><p>One of the key characteristics of idiopathic pulmonary fibrosis (IPF) is accumulation of excess fibrous tissue in the lung, which leads to hypoxic conditions. Transforming growth factor (TGF) &#x003b2; is a major mediator that promotes the differentiation of fibroblasts to myofibroblasts. However, how hypoxia and TGF&#x003b2; together contribute the pathogenesis of IPF is poorly understood. Long non&#x02010;coding RNAs (lncRNAs) have regulatory effects on certain genes and are involved in many diseases. In this study, we determined the effects of hypoxia and/or TGF&#x003b2; on mRNA and lncRNA transcriptomes in pulmonary fibroblasts. Hypoxia and TGF&#x003b2;1 synergistically increased myofibroblast marker expression. RNA sequencing revealed that hypoxia and TGF&#x003b2;1 treatment resulted in significant changes in 669 lncRNAs and 2,676 mRNAs compared to 150 lncRNAs and 858 mRNAs in TGF&#x003b2;1 alone group and 222 lncRNAs and 785 mRNAs in hypoxia alone group. TGF&#x003b2;1 induced the protein expression of HIF&#x02010;1&#x003b1;, but not HIF&#x02010;2&#x003b1;. On the other hand, hypoxia enhanced the TGF&#x003b2;1&#x02010;induced phosphorylation of Smad3, suggesting a cross&#x02010;talk between these two signaling pathways. In all, 10 selected lncRNAs (five&#x02010;up and five&#x02010;down) in RNA sequencing data were validated using real&#x02010;time PCR. Two lncRNAs were primarily located in cytoplasm, three in nuclei and five in both nuclei and cytoplasm. The silencing of HIF&#x02010;1&#x003b1; and Smad3, but not Smad2 and HIF&#x02010;2&#x003b1; rescued the downregulation of FENDRR by hypoxia and TGF&#x003b2;1. In conclusion, hypoxia and TGF&#x003b2;1 synergistically regulate mRNAs and lncRNAs involved in several cellular processes, which may contribute to the pathogenesis of IPF.</p></abstract><abstract abstract-type="graphical" id="phy214343-abs-0002"><p>One of the key characteristics of Idiopathic pulmonary fibrosis (IPF) is accumulation of excess fibrous tissue in the lung, which leads to hypoxic conditions. Transforming growth factor (TGF) &#x003b2; is a major mediator that promotes the differentiation of fibroblasts to myofibroblasts. Hypoxia and TGF&#x003b2;1 synergistically regulate mRNAs and lncRNAs involved in several cellular processes, which may contribute to the pathogenesis of IPF.<boxed-text position="anchor" content-type="graphic" id="phy214343-blkfxd-0001" orientation="portrait"><graphic xlink:href="PHY2-8-e14343-g010.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group><kwd id="phy214343-kwd-0001">hypoxia</kwd><kwd id="phy214343-kwd-0002">lncRNA</kwd><kwd id="phy214343-kwd-0003">TGF&#x003b2;</kwd><kwd id="phy214343-kwd-0004">transcriptome</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Institutes of Health </institution><institution-id institution-id-type="open-funder-registry">10.13039/100000002</institution-id></institution-wrap></funding-source><award-id>P20GM103648</award-id><award-id>R01HL135152</award-id></award-group><award-group id="funding-0002"><funding-source>Oklahoma Center for Adult Stem Cell Research</funding-source></award-group><award-group id="funding-0003"><funding-source>Lundberg&#x02010;Kienlen Endowment fund</funding-source></award-group></funding-group><counts><fig-count count="9"/><table-count count="0"/><page-count count="16"/><word-count count="21227"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="phy214343-cit-1001">
+<string-name>
+<surname>Senavirathna</surname>
+<given-names>LK</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pushparaj</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Hypoxia and transforming growth factor &#x003b2;1 regulation of long non&#x02010;coding RNA transcriptomes in human pulmonary fibroblasts</article-title>. <source xml:lang="en">Physiol Rep</source>. <year>2020</year>;<volume>8</volume>:<elocation-id>e14343</elocation-id>
+<pub-id pub-id-type="doi">10.14814/phy2.14343</pub-id>
+</mixed-citation>
+</p><fn-group id="phy214343-ntgp-0001"><fn fn-type="funding" id="phy214343-note-0001"><p>
+<bold>Funding information</bold>
+</p><p>This work was supported by National Institutes of Health (R01HL135152 and P20GM103648), the Oklahoma Center for Adult Stem Cell Research, and the Lundberg&#x02010;Kienlen Endowment fund (to L.L.).</p></fn></fn-group></notes></front><body id="phy214343-body-0001"><sec id="phy214343-sec-0001"><label>1</label><title>INTRODUCTION</title><p>The International Human Genome Sequencing Consortium has revealed that only&#x000a0;&#x0003c;2% of human genome is encoded for proteins (Elgar &#x00026; Vavouri, <xref rid="phy214343-bib-0010" ref-type="ref">2008</xref>; Wilusz, Sunwoo, &#x00026; Spector, <xref rid="phy214343-bib-0057" ref-type="ref">2009</xref>). However, a majority of human genome is transcribed into non&#x02010;coding RNAs that do not have protein&#x02010;coding potential (Beermann, Piccoli, Viereck, &#x00026; Thum, <xref rid="phy214343-bib-0005" ref-type="ref">2016</xref>). Based on their sizes, non&#x02010;coding RNAs are categorized into small non&#x02010;coding RNAs (20&#x02013;30 nucleotides [nt]) and long non&#x02010;coding RNAs (lncRNAs) (&#x0003e;200&#x000a0;nt). Small non&#x02010;coding RNAs are further divided into several groups based on their origin and functions, including small nucleolar RNAs (snoRNAs), microRNAs (miRNAs), small interfering RNAs (siRNAs), and PIWI interacting RNA (piRNAs) (Beermann et al., <xref rid="phy214343-bib-0005" ref-type="ref">2016</xref>; H&#x000fc;ttenhofer, Schattner, &#x00026; Polacek, <xref rid="phy214343-bib-0020" ref-type="ref">2005</xref>). snoRNAs are involved in gene regulation and chemical modification of other RNAs. miRNAs function as post&#x02010;transcriptional regulation of genes. siRNAs interfere with gene expression by degrading mRNAs. piRNAs bind PIWI proteins and represses the transposons (Beermann et al., <xref rid="phy214343-bib-0005" ref-type="ref">2016</xref>).</p><p>Nucleotide sequences of lncRNAs are poorly conserved among species. However, they may form the same three&#x02010;dimensional structures and thus perform the similar functions (Beermann et al., <xref rid="phy214343-bib-0005" ref-type="ref">2016</xref>). Unlike miRNA and other small non&#x02010;coding RNAs, the functions of lncRNAs are not well studied. Recent genome&#x02010;wide analysis conducted on lncRNAs offers an opportunity to uncover their functions at cellular levels (Baker, <xref rid="phy214343-bib-0004" ref-type="ref">2011</xref>; Liu et al., <xref rid="phy214343-bib-0032" ref-type="ref">2018</xref>; Ren, Fan, Liu, Wang, &#x00026; Zhao, <xref rid="phy214343-bib-0041" ref-type="ref">2018</xref>; Song et al., <xref rid="phy214343-bib-0047" ref-type="ref">2014</xref>). Molecular mechanisms of lncRNA action vary from epigenetic regulation, RNA decoy, RNA scaffolds, and guide for proteins to cis&#x02010; and trans&#x02010;regulators (Mercer &#x00026; Mattick, <xref rid="phy214343-bib-0033" ref-type="ref">2013</xref>). LncRNAs are involved in the pathogenesis of many diseases including pulmonary fibrosis, acute respiratory distress syndrome, infectious diseases, and cancer (Huang, Yang, &#x00026; Liu, <xref rid="phy214343-bib-0018" ref-type="ref">2015</xref>; Huarte, <xref rid="phy214343-bib-0019" ref-type="ref">2015</xref>; Imam, Bano, Patel, Holla, &#x00026; Jameel, <xref rid="phy214343-bib-0021" ref-type="ref">2015</xref>; More et al., <xref rid="phy214343-bib-0036" ref-type="ref">2019</xref>; Winterling et al., <xref rid="phy214343-bib-0058" ref-type="ref">2014</xref>; Zhou, Wang, Shao, &#x00026; Wang, <xref rid="phy214343-bib-0066" ref-type="ref">2016</xref>).</p><p>Idiopathic pulmonary fibrosis (IPF) is a fibrotic lung disease, belonging to idiopathic interstitial pneumonia. The term &#x0201c;idiopathic&#x0201d; is given for its unknown etiology, but it has several risk factors associated with it (King, Pardo, &#x00026; Selman, <xref rid="phy214343-bib-0024" ref-type="ref">2011</xref>; Lee, Mira&#x02010;Avendano, Ryu, &#x00026; Daniels, <xref rid="phy214343-bib-0029" ref-type="ref">2014</xref>). Cigarette smoke, genetics, and exposure to industrial dusts are main risk factors associated with IPF. Apart from them, some comorbid conditions such as obesity, diabetes, coronary heart disease, pulmonary hypertension, emphysema, and gastroesophageal reflux also contribute to the development of this disease. The main pathological feature of IPF is accumulation of extracellular matrix proteins, especially collagens, which cause the scarring of lung tissues. IPF is believed to be an epithelium&#x02010;driven disease. Repeated epithelial micro&#x02010;injuries result in the abnormal activation of lung epithelial cells, which secrete growth factors to activate many cellular pathways in fibroblasts (King et al., <xref rid="phy214343-bib-0024" ref-type="ref">2011</xref>). Transforming growth factor beta (TGF&#x003b2;) is the key factor to activate fibroblasts to secrete excessive amount of extracellular matrix proteins (King et al., <xref rid="phy214343-bib-0024" ref-type="ref">2011</xref>; Leask &#x00026; Abraham, <xref rid="phy214343-bib-0028" ref-type="ref">2004</xref>; Lee et al., <xref rid="phy214343-bib-0029" ref-type="ref">2014</xref>). Hypoxia is another feature in IPF (Kawakami, Mimura, Shoji, Tanaka, &#x00026; Nangaku, <xref rid="phy214343-bib-0022" ref-type="ref">2014</xref>; Tzouvelekis et al., <xref rid="phy214343-bib-0053" ref-type="ref">2007</xref>). We and others have shown that hypoxia stimulates lung fibroblast proliferation (Bodempudi et al., <xref rid="phy214343-bib-0006" ref-type="ref">2014</xref>; Mizuno et al., <xref rid="phy214343-bib-0035" ref-type="ref">2009</xref>; Senavirathna et al., <xref rid="phy214343-bib-0046" ref-type="ref">2018</xref>). There is evidence that hypoxia and TGF&#x003b2; signaling cross&#x02010;talk to promote fibrosis (Abdul&#x02010;Hafez, Shu, &#x00026; Uhal, <xref rid="phy214343-bib-0001" ref-type="ref">2009</xref>; Qian et al., <xref rid="phy214343-bib-0040" ref-type="ref">2015</xref>; Ueno et al., <xref rid="phy214343-bib-0054" ref-type="ref">2011</xref>).</p><p>To understand the roles of lncRNAs in IPF, we performed RNA sequencing analysis to reveal genome&#x02010;wide changes of lncRNAs in hypoxia and/or TGF&#x003b2;1&#x02010;treated human lung fibroblasts and further investigated the regulatory mechanisms of one of the identified lncRNAs, FENDRR by hypoxia and TGF&#x003b2;1.</p></sec><sec sec-type="materials-and-methods" id="phy214343-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="phy214343-sec-0003"><label>2.1</label><title>Cell culture</title><p>Primary human pulmonary fibroblasts (HPFs) isolated from a 74&#x02010;year&#x02010;old&#x02010;male Caucasian person were purchased from PromoCell (Heidelberg, Germany, Cat. No: C&#x02010;12361). HPFs were cultured in fibroblast medium (PromoCell, Cat. No: C&#x02010;23220) with its supplements (PromoCell, Cat. No: C&#x02010;39320) containing fetal calf serum (0.2&#x000a0;ml/ml), basic fibroblast growth factor (1&#x000a0;ng/ml), and insulin (5&#x000a0;&#x000b5;g/ml), otherwise indicated. Additional human lung fibroblasts, LL29, LL97A, CCD&#x02010;13Lu, and CCD&#x02010;19Lu, were purchased from American Type Culture Collection (ATCC). LL29 and LL97A cells were isolated from 26&#x02010;year&#x02010;old female and 48&#x02010;year&#x02010;old male Caucasian IPF patients, respectively. Human normal lung fibroblasts, CCD&#x02010;13Lu and CCD&#x02010;19Lu, were isolated from a 71&#x02010;year&#x02010;old male black patient with carcinoma and a 20&#x02010;year&#x02010;old Caucasian female, respectively. Human normal lung fibroblasts, HLF153 and HLF154, and IPF fibroblasts, IPF12 and IPF14, were kindly provided by Dr. Craig Henke (University of Minnesota) (Bodempudi et al., <xref rid="phy214343-bib-0006" ref-type="ref">2014</xref>). Human lung fibroblasts from ATCC and isolated according to the previous report (Bodempudi et al., <xref rid="phy214343-bib-0006" ref-type="ref">2014</xref>) were cultured in F12K medium with 10% fetal bovine serum and 1% penicillin&#x02013;streptomycin. Human embryonic kidney (HEK) epithelial 293T cells (ATCC) were cultured in DMEM with 10% fetal bovine serum and 1% penicillin&#x02013;streptomycin.</p></sec><sec id="phy214343-sec-0004"><label>2.2</label><title>TGF&#x003b2; and hypoxia treatment</title><p>Cells were seeded at a density of 35,000 cells in 35&#x000a0;mm&#x000a0;&#x000d7;&#x000a0;10&#x000a0;mm cell culture dishes. Following day, cells were exposed to normoxia (21% O<sub>2</sub>) and hypoxia (1% O<sub>2</sub>) with or without TGF&#x003b2;1 (5&#x000a0;ng/ml, R &#x00026; D Systems, Cat. No: 240&#x02010;B&#x02010;010) for 6&#x000a0;days as previously described (Senavirathna et al., <xref rid="phy214343-bib-0046" ref-type="ref">2018</xref>).</p></sec><sec id="phy214343-sec-0005"><label>2.3</label><title>RNA isolation and quantitative real&#x02010;time PCR</title><p>Total RNAs were extracted with TRI Reagent (Molecular Research Institute) according to the manufacturer's instructions. After DNase (Thermofisher Scientific) digestion, cDNAs were synthesized. Then, diluted cDNAs (1:100) were used for real&#x02010;time PCR with SYBR green (Eurogentec). Relative gene expression was calculated using 2<sup>&#x02212;&#x00394;Ct</sup> = 2<sup>&#x02212;( target Ct&#x02010;reference Ct)</sup>. &#x003b2;&#x02010;actin was used as the reference gene.</p><p>Forward and reverse primers are listed in Table <xref rid="phy214343-sup-0007" ref-type="supplementary-material">S1</xref>. These primers were designed using Prime 3 software (<ext-link ext-link-type="uri" xlink:href="https://www.prime3software.com">https://www.prime3software.com</ext-link>) and synthesized by Sigma Aldrich. If an lncRNA has more than one transcript, the transcript having the highest lung expression according to the NONCODE (NONCODE2016 version) online database (<ext-link ext-link-type="uri" xlink:href="http://www.noncode.org/">http://www.noncode.org/</ext-link>) was selected for primer design. Thus, MIR100HG:29 (NONHSAT024781), VCAN&#x02010;AS1:6 (NONHSAT102521), TBX2&#x02010;AS1:1 (NONHSAT055126) and MRGPRF&#x02010;AS1:2 (NONHSAT022561) transcripts were used for primer design. The primers for MIR100HG detect variants 17, 18, 25 and 29. The primers for VCAN&#x02010;AS1 detect variant 6. The primers for TBX2&#x02010;AS1 detect variant 1. The primers for MRGPRF&#x02010;AS1 detect variant 2. For FENDRR, variant 2 was used for primer designing. The primers for FENDRR detect variants 2 and 3.</p></sec><sec id="phy214343-sec-0006"><label>2.4</label><title>RNA sequencing analysis</title><p>Next&#x02010;generation RNA sequencing was performed in three biological replicates on the samples of HPFs treated for 6&#x000a0;days with hypoxia (1% O<sub>2</sub>) and/or TGF&#x003b2;1 (5&#x000a0;ng/ml) as previously described (More et al., <xref rid="phy214343-bib-0036" ref-type="ref">2019</xref>). The RNA sequencing datasets were submitted to GEO (access number: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139963">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139963</ext-link>). Briefly, the quality of RNA samples was determined using the Agilent 2100 bioanalyzer. All samples were subjected to polyA enrichment, selection of polyA RNAs using oligo&#x02010;dT beads, fragmentation, cDNA synthesis, adaptor ligation, and sequencing using Illumina NextSeq 500 system. Sequencing was completed with one run. Bcl files were converted to FastaQ data after the run. Up to 20 million paired&#x02010;end reads for all samples were generated. RNA reads were mapped to genome (GRCh37/hg19) by TopHat2 alignment tool. Differentially expressed mRNAs and lncRNAs were identified using Cuffdiff analysis. mRNAs and lncRNAs having a fold change of&#x000a0;&#x02265;2 and a false discovery rate (FDR) value of&#x000a0;&#x0003c;0.05 were considered as de&#x02010;regulated mRNA and lncRNAs. Gene ontology (GO), disease ontology (DO), and Kyto encyclopedia of genes and genomes (KEGG) pathway analyses were performed by STRING (<ext-link ext-link-type="uri" xlink:href="http://string-db.org/">http://string-db.org/</ext-link>).</p></sec><sec id="phy214343-sec-0007"><label>2.5</label><title>Western blot</title><p>Whole cell lysates were extracted using a 1X SDS sample buffer containing 0.06&#x000a0;M Tris (pH 6.8), 2.1% (w/v) SDS, 5% (v/v) glycerol, and 1% (v/v) 2&#x02010;mercapto&#x02010;ethanol. Protein concentration was determined using a D<sub>C</sub> protein assay kit (Bio&#x02010;Rad, Hercules, CA). Proteins were separated on 10% SDS&#x02010;PAGE gels. In all, 15&#x000a0;&#x000b5;g and 30&#x000a0;&#x000b5;g of proteins were loaded to detect pSmad2 and pSmad3, and Smad2/3, respectively. Sixty micrograms of proteins were separated on 8% SDS&#x02010;PAGE gels for detecting HIF&#x02010;1&#x003b1; and 2&#x003b1; proteins. After proteins were transferred to the nitrocellulose membranes, the membranes were blocked with 5% non&#x02010;fat milk in Tris&#x02010;Buffered Saline with Tween 20 (TBST) buffer and then incubated with primary antibodies at 4&#x000b0;C overnight on a shaker. The following primary antibodies were used: monoclonal mouse anti&#x02010;&#x003b1;SMA (1:10,000 dilution, Sigma&#x02010;Aldrich Cat. No: SAB1403519), monoclonal mouse anti&#x02010;HIF&#x02010;1&#x003b1; (1:300 dilution, BD biosciences, Cat. No: 610958), polyclonal anti&#x02010;human HIF&#x02010;2&#x003b1; (1:500 dilution, Novus biologicals, Cat, No: 10&#x02010;122), monoclonal rabbit anti&#x02010;pSmad2 (1:500 dilution, Cell signaling, Cat. No: 3108), monoclonal rabbit anti&#x02010;pSmad3 (1:500 dilution, Cell Signaling, Cat. No: 9520), monoclonal rabbit anti&#x02010;Smad2/3 (1:500 dilution, Cell signaling, Cat. No:8685), and monoclonal mouse anti&#x02010;&#x003b2;&#x02010;actin (1:3000 dilution, ThermoFisher Scientific, Cat. No: MA5&#x02010;15739). The membranes were incubated with horseradish peroxidase&#x02010;conjugated goat anti&#x02010;rabbit or anti&#x02010;mouse secondary antibodies (1:2000&#x02013;1:3000 dilutions, Jackson Immunoresearch) at room temperature for 1&#x000a0;hr. Then blots were developed using the super signal chemiluminescent substrate (ThermoFisher Scientific) and imaged with an Amersham Imager 600 (GE Healthcare).</p></sec><sec id="phy214343-sec-0008"><label>2.6</label><title>lncRNA quantification in cytoplasmic and nuclear fractions</title><p>Cytoplasmic and nuclear fractions were separated and isolated using a cytoplasmic and nuclear RNA purification kit (NORGEN Biotek corp.). cDNA was synthesized using random primers from the RNAs isolated from each fraction and diluted 1:20&#x02013;1:25. Real&#x02010;time PCR was performed to detect the expression of lncRNAs. Actin or GAPDH and RNU2 (U2snRNA) were used as positive controls for cytosolic and nuclear RNA, respectively. RNA expression in nucleus and cytosol fractions was calculated using 2<sup>&#x02212;ct</sup> and expressed as a percentage value of total (nucleus&#x000a0;+&#x000a0;cytosol) RNAs.</p></sec><sec id="phy214343-sec-0009"><label>2.7</label><title>shRNA lentivirus construction</title><p>Human HIF&#x02010;1&#x003b1;, HIF&#x02010;2&#x003b1;, Smad2, and Smad3 shRNA vectors and lentiviruses were constructed as previously described (Senavirathna et al., <xref rid="phy214343-bib-0046" ref-type="ref">2018</xref>). The shRNA sequences for HIF&#x02010;1&#x003b1; and HIF&#x02010;2&#x003b1; are given in our previous publication (Senavirathna et al., <xref rid="phy214343-bib-0046" ref-type="ref">2018</xref>). The shRNA sequences for Smad2 and Smad3 are as follows: Smad2 (NM_001003652.3), GCCTGATCTTCACAGTCATCA (position in coding DNA sequence [CDS], 802&#x02013;822); and Smad3 (NM_001145102.1), GCAACCTGAAGATCTTCAACA (position in CDS, 1076&#x02010;1096).</p></sec><sec id="phy214343-sec-0010"><label>2.8</label><title>Gene silencing</title><p>HPF cells were seeded at a density of 35,000 cells/well in six&#x02010;well plates and then infected with a lentivirus containing a shRNA (Senavirathna et al., <xref rid="phy214343-bib-0046" ref-type="ref">2018</xref>) at a multiplicity of infection (MOI) of 100 for 24&#x000a0;hr. Following day, medium was replaced with fresh growth medium and cells were incubated for 6&#x000a0;days at normoxia or hypoxia (1% O<sub>2</sub>) with or without TGF&#x003b2;1 (5&#x000a0;ng/ml) treatment.</p></sec><sec id="phy214343-sec-0011"><label>2.9</label><title>Statistical analysis</title><p>Values were presented as the means&#x000a0;&#x000b1;&#x000a0;SE. Statistical analysis was performed using GraphPad Prism 7. One&#x02010;way or two&#x02010;way ANOVA was performed for multiple groups (equal or more than 3), followed by Tukey's multiple comparisons or Fisher's LSD test. The statistical test used in each experiment was given in figure legends. A <italic>p</italic> value &#x0003c;.05 was considered as statistically significant.</p></sec></sec><sec sec-type="results" id="phy214343-sec-0012"><label>3</label><title>RESULTS</title><sec id="phy214343-sec-0013"><label>3.1</label><title>Hypoxia and TGF&#x003b2; synergistically increase myofibroblast marker expression</title><p>To determine the effects of hypoxia and TGF&#x003b2; on myofibroblast marker expression, HPF cells were exposed to normoxia (21% O<sub>2</sub>), normoxia and TGF&#x003b2;1, hypoxia (1% O<sub>2</sub>), or hypoxia and TGF&#x003b2;1 for 6&#x000a0;days. The oxygen concentration in the normal lung tissue is estimated to be 14% and the oxygen level in IPF lung tissue is unknown. However, oxygen levels can reach 0.1% in the severely hypoxic tissue (Bodempudi et al., <xref rid="phy214343-bib-0006" ref-type="ref">2014</xref>). The expression of myofibroblast markers including &#x003b1;&#x02010;SMA, collagen 1A1, collagen 3A1, collagen 4A1, fibronectin, and CTGF was determined using real&#x02010;time PCR. TGF&#x003b2;1 significantly upregulated the mRNA expression of all the myofibroblast markers in HPFs under the normoxic condition (Figure <xref rid="phy214343-fig-0001" ref-type="fig">1</xref>). Hypoxia only significantly increased the mRNA level of CTGF. The combination of hypoxia and TGF&#x003b2; treatment further upregulated mRNA expression of all the myofibroblast markers except collagen 3A1.</p><fig fig-type="Figure" xml:lang="en" id="phy214343-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Hypoxia and TGF&#x003b2; synergistically upregulate myofibroblast marker expression. HPFs were treated with normoxia (21% O<sub>2</sub>), TGF&#x003b2;1 (5&#x000a0;ng/ml), hypoxia (1% O<sub>2</sub>) or hypoxia (1% O<sub>2</sub>), and TGF&#x003b2;1 (5&#x000a0;ng/ml) for 6&#x000a0;days. mRNA expression levels of myofibroblast markers were determined by real&#x02010;time PCR and normalized to &#x003b2;&#x02010;actin. Data were expressed as a fold change to normoxia. Values represent means&#x000a0;&#x000b1;&#x000a0;<italic>SE</italic>. <italic>n</italic>&#x000a0;=&#x000a0;3 independent experiments. One&#x02010;way ANOVA and Tukey's multiple comparison for each gene was performed for statistical analysis. *<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01, ***<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001, ****<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus normoxia. <sup>##</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01, <sup>###</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001, <sup>####</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus hypoxia. <sup>$</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05, <sup>$$</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01, <sup>$$$</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001, <sup>$$$$</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus TGF&#x003b2;1. &#x003b1;SMA, &#x003b1;&#x02010;smooth muscle actin; COL, collagen; CTGF, connective tissue growth factor; FN, fibronectin</p></caption><graphic id="nlm-graphic-3" xlink:href="PHY2-8-e14343-g001"/></fig></sec><sec id="phy214343-sec-0014"><label>3.2</label><title>mRNA transcriptome analysis of hypoxia and TGF&#x003b2;1&#x02010;treated human lung fibroblasts</title><p>To identify mRNAs that were regulated by hypoxia and TGF&#x003b2;1, we performed RNA sequencing analysis on HPFs treated with hypoxia and/or TGF&#x003b2;1 for 6&#x000a0;days with three biological replicates. A total of 3,173 mRNAs were de&#x02010;regulated by TGF&#x003b2;1, hypoxia, and hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 treatments. The numbers of de&#x02010;regulated RNAs with a different fold change are listed in the Table <xref rid="phy214343-sup-0007" ref-type="supplementary-material">S2</xref>. The total cumulative number of genes are more than 3,173 in the table because some of the genes are altered by more than one treatment conditions. Of them, 785 (416&#x02010;up and 369&#x02010;down) mRNAs, 858 (386&#x02010;up and 472&#x02010;down) mRNAs, and 2,676 (1,304&#x02010;up and 1,372&#x02010;down) mRNAs were de&#x02010;regulated significantly by hypoxia, TGF&#x003b2;1, and hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 treatments, respectively, with a fold change of equal or above 2 (Figure <xref rid="phy214343-fig-0002" ref-type="fig">2</xref>a&#x02013;c). Uniquely, there were 260, 180, and 1,742 genes that were de&#x02010;regulated only by hypoxia, TGF&#x003b2;1, and hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 treatments. In other words, the expression of these genes changed by one treatment was not affected by other two treatments (Figure <xref rid="phy214343-fig-0002" ref-type="fig">2</xref>a). It was noted that the number of altered genes in the hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 group is 6&#x02013;10 times more than that in hypoxia or TGF&#x003b2;1 alone group. De&#x02010;regulated mRNAs in each treatment group were also represented in volcano plots (Figure <xref rid="phy214343-fig-0002" ref-type="fig">2</xref>d&#x02013;f). Red and green dots indicate upregulated and downregulated mRNAs and black dots represents no changes based on FDR&#x000a0;&#x0003c;0.05 and fold change&#x000a0;&#x02265;2.</p><fig fig-type="Figure" xml:lang="en" id="phy214343-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Hypoxia and TGF&#x003b2; de&#x02010;regulate more mRNAs than hypoxia or TGF&#x003b2; alone in HPF cells. (a&#x02013;c) Venn diagrams showing the number of significantly de&#x02010;regulated mRNAs in HPFs treated with hypoxia, TGF&#x003b2;1 and hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 compared to normoxia. (a) All de&#x02010;regulated mRNAs. (b) Upregulated mRNAs. (c) Downregulated mRNAs. (d&#x02013;f) Volcano plots showing the distribution of de&#x02010;regulated mRNAs of HPF treated with hypoxia (d), TGF&#x003b2;1 (e), and hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 (f). Red and green dots indicate significantly upregulated and downregulated transcripts, respectively (FDR&#x000a0;&#x0003c;0.05 and fold change&#x000a0;&#x02265;2). Black dots indicate unchanged (fold change below 2) and non&#x02010;significant transcripts (FDR&#x000a0;&#x02265;0.05). Con: control</p></caption><graphic id="nlm-graphic-5" xlink:href="PHY2-8-e14343-g002"/></fig><p>The trend for myofibroblast marker expression including &#x003b1;&#x02010;SMA, COL1A1, COL3A1, FN, and CTGF from RNA&#x02010;seq data was consistent with the real&#x02010;time PCR data (Table <xref rid="phy214343-sup-0007" ref-type="supplementary-material">S3</xref> and Figure <xref rid="phy214343-sup-0001" ref-type="supplementary-material">S1</xref>), indicating the reliability of RNA&#x02010;seq data.</p></sec><sec id="phy214343-sec-0015"><label>3.3</label><title>GO analysis shows diverse cellular functions associated with de&#x02010;regulated mRNA by hypoxia and TGF&#x003b2;</title><p>GO analysis was performed to associate biological processes, cellular components, and molecular functions with upregulated (Figure <xref rid="phy214343-sup-0001" ref-type="supplementary-material">S1</xref>) and downregulated (Figure <xref rid="phy214343-sup-0002" ref-type="supplementary-material">S2</xref>) mRNAs caused by hypoxia and TGF&#x003b2;1. Biological processes associated with upregulated mRNAs include cell differentiation, proliferation, signal transduction, and extracellular matrix. Cellular components associated with the upregulated mRNAs are extracellular matrix. Molecular functions of the upregulated mRNAs are mainly involved in protein, iron and kinase binding, indicating the involvement of cellular signaling.</p><p>Biological processes of downregulated mRNAs caused by hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 treatment are cell responses to stimuli, cell communication, regulation of transport, and regulation of cell proliferation. Cellular components associated with the downregulated mRNAs are extracellular region and matrix, extracellular space, and cell projection. Downregulated mRNAs have molecular functions such as protein binding, receptor binding, catalytic activity, co&#x02010;factor binding, and transcription factor activity.</p><p>Using KEGG pathway analysis, we further analyzed signaling pathways regulated by hypoxia, TGF&#x003b2;1, or their combination (Figure <xref rid="phy214343-sup-0003" ref-type="supplementary-material">S3</xref>). The TGF&#x003b2;1&#x02010;upregulated mRNAs were involved in HIF signaling pathway (<italic>p</italic> value .00281) and the hypoxia&#x02010;upregulated mRNAs were involved in TGF&#x003b2; signaling pathway (<italic>p</italic> value .00392). Upregulated mRNAs by the combinative treatment of hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 were involved both in HIF signaling (<italic>p</italic> value .0005) and TGF&#x003b2; signaling (<italic>p</italic> value .00236). These results indicate a cross&#x02010;talk between TGF&#x003b2; and HIF signaling. These genes involved in HIF signaling and TGF&#x003b2; signaling are represented in a heat map (Figure <xref rid="phy214343-fig-0003" ref-type="fig">3</xref>). Hypoxia and TGF&#x003b2;1 combination treatment upregulated the HIF and TGF&#x003b2; signaling molecules greater than these treatments alone.</p><fig fig-type="Figure" xml:lang="en" id="phy214343-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Heat map showing the genes involved in HIF signaling and TGF&#x003b2; signaling. The color codes from blue to red represent their expression levels from low to high</p></caption><graphic id="nlm-graphic-7" xlink:href="PHY2-8-e14343-g003"/></fig><p>The functions of the genes involved in HIF signaling that are upregulated by TGF&#x003b2;1 and TGF&#x003b2;1&#x000a0;+&#x000a0;hypoxia are documented in Tables <xref rid="phy214343-sup-0007" ref-type="supplementary-material">S4</xref> and <xref rid="phy214343-sup-0007" ref-type="supplementary-material">S5</xref>. Most of the TGF&#x003b2;1&#x02010;upregulated genes in HIF signaling are involved in vascular development, angiogenesis, glycolysis, and glucose transport. The hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1&#x02010;upregulated genes in HIF signaling have diverse functions ranging from vascular development, glucose transport, and insulin regulation to kinase&#x02010;associated phosphorylation.</p><p>The functions of the genes involved in TGF&#x003b2; signaling that were upregulated by hypoxia and hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 are listed in Tables <xref rid="phy214343-sup-0007" ref-type="supplementary-material">S6</xref> and <xref rid="phy214343-sup-0007" ref-type="supplementary-material">S7</xref>. Genes involved in TGF&#x003b2; signaling that were upregulated by hypoxia encode proteins in TGF&#x003b2; superfamily and adhesive glycoproteins. Genes involved in TGF&#x003b2; signaling that are upregulated by hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 encode member proteins in TGF&#x003b2; superfamily, regulate TGF&#x003b2; signaling, inhibit cell cycle, or encode transcriptional factors and transcription activators.</p></sec><sec id="phy214343-sec-0016"><label>3.4</label><title>Cross&#x02010;talk between HIF and TGF&#x003b2; signaling in human pulmonary fibroblasts</title><p>To confirm the cross&#x02010;talk between HIF and TGF&#x003b2; signaling, we examined the effects of hypoxia and TGF&#x003b2;1 on HIF&#x02010;1&#x003b1; and HIF&#x02010;2&#x003b1; protein expression and phosphorylated Smad2 and 3. HPFs were exposed to hypoxia or normoxia for 3&#x000a0;days and then treated with TGF&#x003b2;1 and hypoxia for up to 24&#x000a0;hr. HIF&#x02010;1&#x003b1; protein expression was markedly upregulated by TGF&#x003b2;1 at 6&#x000a0;hr and 24&#x000a0;hr under normoxic conditions and further enhanced by a combination of hypoxia and TGF&#x003b2;1 at 24&#x000a0;hr (Figure <xref rid="phy214343-fig-0004" ref-type="fig">4</xref>a,b). However, TGF&#x003b2;1 had no effects on HIF&#x02010;2&#x003b1; protein levels under normoxic or hypoxic conditions. The absence of hypoxia&#x02010;induced HIF1&#x003b1; expression in the cells previously exposed to normoxia is likely due to the short exposure of hypoxia (24&#x000a0;hr or less). Phosphorylated Smad 2 and 3 were increased by TGF&#x003b2;1 starting at 15&#x000a0;min and the signal was faded after 6&#x000a0;hr (Figure <xref rid="phy214343-fig-0004" ref-type="fig">4</xref>a,d,e). Hypoxia did not affect phosphorylated Smad 2 or 3 level in the presence or absence of TGF&#x003b2;1 except that a combination of hypoxia and TGF&#x003b2;1 increased phosphorylated Smad 3 level at 45&#x000a0;min compared to TGF&#x003b2;1 alone (Figure <xref rid="phy214343-fig-0004" ref-type="fig">4</xref>a,e).</p><fig fig-type="Figure" xml:lang="en" id="phy214343-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>TGF&#x003b2;1 induces the HIF&#x02010;1&#x003b1; expression. Western blots were performed in whole cell lysates of HPFs exposed to normoxia/hypoxia for 3&#x000a0;days, followed by treatment with TGF&#x003b2;1 and/or hypoxia for 15&#x000a0;min to 24&#x000a0;hr. (a) Western blots. Due to a limited number of wells in SDS gels, two blots, as indicated by two separate borders, for each protein were generated by running two gels at the same time with the same conditions for transfer, antibody incubation and exposure. (b&#x02013;e) Quantitation of protein expression. Quantification was performed using Image J software. The protein levels of HIF&#x02010;&#x003b1; (b) and HIF&#x02010;2&#x003b1; (c) were first normalized to &#x003b2;&#x02010;actin and then expressed as a ratio to 0&#x000a0;hr. pSmad2 (d) and pSamd3 (e) levels were represented as a ratio of pSmad2 or 3 to total Smad2 or 3. Values represent means&#x000a0;&#x000b1;&#x000a0;SE. <italic>n</italic>&#x000a0;=&#x000a0;3 independent experiments. Two&#x02010;way ANOVA and Fisher's LSD test was performed for statistical analysis. *<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01, ****<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus normoxia. <sup>##</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001 versus normoxia&#x000a0;+&#x000a0;TGF&#x003b2;1. N: Normoxia (21% O<sub>2</sub>), T: TGF&#x003b2;1 (5&#x000a0;ng/ml), H: Hypoxia (1% O<sub>2</sub>), H&#x000a0;+&#x000a0;T: hypoxia (1% O<sub>2</sub>) + TGF&#x003b2;1 (5&#x000a0;ng/ml)</p></caption><graphic id="nlm-graphic-9" xlink:href="PHY2-8-e14343-g004"/></fig></sec><sec id="phy214343-sec-0017"><label>3.5</label><title>LncRNA transcriptome analysis of hypoxia and TGF&#x003b2;&#x02010;treated human pulmonary fibroblasts</title><p>We further analyzed RNA sequencing data of HPFs treated with hypoxia (1% O<sub>2</sub>) and/or TGF&#x003b2;1 for 6&#x000a0;days as these used for mRNA transcriptome analysis to identify hypoxia/TGF&#x003b2;1&#x02010;regulated lncRNAs. A total of 825 lncRNAs were significantly de&#x02010;regulated with a fold change of&#x000a0;&#x02265;2 by TGF&#x003b2;1, hypoxia, and/or hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 (Figure <xref rid="phy214343-fig-0005" ref-type="fig">5</xref>a). Among them, the de&#x02010;regulated lncRNAs were 222 (105&#x02010;up and 117&#x02010;down) in the hypoxia group, 150 (83&#x02010;up and 67&#x02010;down) in the TGF&#x003b2;1 group, and 669 (395&#x02010;up and 274&#x02010;down) in the hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 group (Figure <xref rid="phy214343-fig-0005" ref-type="fig">5</xref>b,c). The expression of 100, 48, and 481 lncRNAs was altered by only one treatment condition, hypoxia, TGF&#x003b2;1, and hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1, respectively. Hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 treatment shows a larger number of upregulated and downregulated lncRNAs compared to each treatment alone, which is consistent with the de&#x02010;regulated mRNAs. The numbers of lncRNAs with a different fold change are listed in Table <xref rid="phy214343-sup-0007" ref-type="supplementary-material">S8</xref>. De&#x02010;regulated lncRNAs in each treatment group are also represented in volcano plots (Figure <xref rid="phy214343-fig-0005" ref-type="fig">5</xref>d&#x02013;f). The red and green dots indicate significantly upregulated and downregulated lncRNAs (FDR&#x000a0;&#x0003c;0.05 and fold change&#x000a0;&#x02265;2) and the black dots represent the lncRNAs having a fold change&#x000a0;&#x0003c;2 and FDR&#x000a0;&#x02265;0.05.</p><fig fig-type="Figure" xml:lang="en" id="phy214343-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>LncRNAs are de&#x02010;regulated in HPF cells treated with hypoxia and TGF&#x003b2;1. (a&#x02013;c) Venn diagram showing the number of significantly de&#x02010;regulated lncRNAs with a fold change of&#x000a0;&#x02265;2 of HPFs treated with hypoxia (1% O<sub>2</sub>), TGF&#x003b2;1 and hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 compared to normoxia control. (a) De&#x02010;regulated all lncRNAs (both upregulated and downregulated). (b) Upregulated lncRNAs. (c) Downregulated lncRNAs. (d&#x02013;f) Volcano plots showing the distribution of de&#x02010;regulated lncRNAs of HPFs treated with hypoxia (d), TGF&#x003b2;1 (e), and hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 (f) compared to the control. Red and green dots indicate significantly upregulated and downregulated transcripts, respectively (FDR&#x000a0;&#x0003c;0.05 and fold change&#x000a0;&#x02265;2). Black dots indicate unchanged (fold change below 2) and non&#x02010;significant transcripts (FDR&#x000a0;&#x02265;0.05). CON, control</p></caption><graphic id="nlm-graphic-11" xlink:href="PHY2-8-e14343-g005"/></fig></sec><sec id="phy214343-sec-0018"><label>3.6</label><title>GO analysis shows diverse cellular functions associated with the neighboring genes of de&#x02010;regulated lncRNAs</title><p>As the functions of most lncRNAs are unknown and lncRNAs are predicted to regulate their neighboring genes (Vance &#x00026; Ponting, <xref rid="phy214343-bib-0055" ref-type="ref">2014</xref>), we selected neighboring genes within 1,000&#x000a0;kb distance from the de&#x02010;regulated lncRNAs and performed GO analysis. Biological processes associated with neighboring genes of upregulated lncRNAs by TGF&#x003b2;1 and hypoxia are extracellular matrix organization, regulation of protein kinase activity, and protein phosphorylation (Figure <xref rid="phy214343-sup-0004" ref-type="supplementary-material">S4</xref>a). Cellular components of neighboring genes of upregulated lncRNAs are collagen and extracellular matrix (Figure <xref rid="phy214343-sup-0004" ref-type="supplementary-material">S4</xref>b). Molecular functions of neighboring genes of upregulated lncRNAs are involved in fibroblast growth factor, collagen, and fibronectin binding (Figure <xref rid="phy214343-sup-0004" ref-type="supplementary-material">S4</xref>c). Biological processes associated with neighboring genes of downregulated lncRNAs by TGF&#x003b2;1 and hypoxia were mainly associated with immunity including innate and adaptive immune responses (Figure <xref rid="phy214343-sup-0005" ref-type="supplementary-material">S5</xref>a). Cellular components of neighboring genes of downregulated lncRNAs were mostly involved in intracellular organelles such as phagocytic vesicle and lysosomal membrane, endosome, and nucleus (Figure <xref rid="phy214343-sup-0005" ref-type="supplementary-material">S5</xref>b). Molecular functions of downregulated lncRNAs are protease and DNA binding (Figure <xref rid="phy214343-sup-0005" ref-type="supplementary-material">S5</xref>c).</p><p>Disease ontology (DO) analysis showed that TGF&#x003b2;1 and hypoxia&#x02010;de&#x02010;regulated lncRNAs were associated with many diseases including IPF and pneumonia. Among them, IPF ranked on the top with a <italic>p</italic> value of .0001 (Figure <xref rid="phy214343-sup-0006" ref-type="supplementary-material">S6</xref>).</p></sec><sec id="phy214343-sec-0019"><label>3.7</label><title>Selection and validation of the identified lncRNAs</title><p>We selected five upregulated and five downregulated lncRNAs in the hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 group for further studies using the following selection criteria: (a) a fold change of&#x000a0;&#x0003e;5. In all, 127 upregulated and 77 downregulated lncRNAs met this criterion. (b) The basal expression level of fragments per kilobase of exon per million fragments mapped (FPKM) value of above 10 for the upregulated lncRNAs and above 50 for the downregulated lncRNAs. In all, 36 upregulated and 34 downregulated lncRNAs met this criterion. (c) The lncRNAs expression levels in the lungs obtained from NONCODE (NONCODE2016 version) online database (<ext-link ext-link-type="uri" xlink:href="http://www.noncode.org/">http://www.noncode.org/</ext-link>). lncRNAs having NONCODE expression above 1 were selected and 14 and 15 lncRNAs in upregulated and downregulated groups met this criterion. (d) Finally, five upregulated and five downregulated lncRNAs having the highest basal expression level (FPKM) were selected for validation. The number of transcripts, size, locus, FPKM expression, fold change with hypoxia and TGF&#x003b2;1 treatment and NONCODE database lung expression of those selected lncRNAs were listed in Table <xref rid="phy214343-sup-0007" ref-type="supplementary-material">S9</xref>.</p><p>The selected lncRNAs were validated by real&#x02010;time PCR (Figure <xref rid="phy214343-fig-0006" ref-type="fig">6</xref>). The trend in changes from RNA sequencing and real&#x02010;time PCR data were similar except VCAN&#x02010;AS1 although there were some variations in fold changes (e.g., MIR100HG and lnc&#x02010;RPS27L&#x02010;1).</p><fig fig-type="Figure" xml:lang="en" id="phy214343-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Real&#x02010;time PCR validation of RNA sequencing data of upregulated and downregulated lncRNAs in hypoxia and/or TGF&#x003b2;1 treatment. HPF cells were treated with hypoxia (1% O<sub>2</sub>) and/or TGF&#x003b2;1 (5&#x000a0;ng/ml) for 6&#x000a0;days. Real&#x02010;time PCR was conducted to detect lncRNA expression. Data were normalized to &#x003b2;&#x02010;actin and then normalized to 21% O<sub>2</sub> normoxia control. RNA&#x02010;seq data were represented as fold change compared to normoxia group. Values represent means&#x000a0;&#x000b1;&#x000a0;<italic>SE</italic>. <italic>n</italic>&#x000a0;=&#x000a0;3 independent experiments. One&#x02010;way ANOVA and Tukey's multiple comparison was performed for statistical analysis. *<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05, ***<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001, ****<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus normoxia.<sup> #</sup>
+<italic>p</italic> &#x0003c; .05, <sup>##</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01, <sup>###</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001, <sup>####</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus hypoxia, <sup>$</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05, <sup>$$</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01, <sup>$$$</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.00, <sup>$$$$</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus TGF&#x003b2;1. (N: Normoxia, T: TGF&#x003b2;, H: Hypoxia, H&#x000a0;+&#x000a0;T: Hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1)</p></caption><graphic id="nlm-graphic-13" xlink:href="PHY2-8-e14343-g006"/></fig></sec><sec id="phy214343-sec-0020"><label>3.8</label><title>Subcellular localization of lncRNAs</title><p>We determined the subcellular localization of the validated lncRNAs by extracting RNAs from cytoplasm and nuclear fractions of HPFs and performing real&#x02010;time PCR analysis. Actin/GAPDH and U2 were used as positive controls for cytoplasm and nucleus, respectively. FENDRR, and lnc&#x02010;NFAT5&#x02010;1 were enriched in cytosol and lnc&#x02010;RPS27L&#x02010;1, lnc&#x02010;DLD&#x02010;1, and MRGPRF&#x02010;AS1 were enriched in nucleus (Figure <xref rid="phy214343-fig-0007" ref-type="fig">7</xref>). MIR100HG, DDIT4&#x02010;AS1, lnc&#x02010;DKK3&#x02010;1, VCAN&#x02010;AS1, and TBX2&#x02010;AS1 were distributed in both cytoplasm and nucleus.</p><fig fig-type="Figure" xml:lang="en" id="phy214343-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Cytosolic and nuclear levels of selected lncRNAs. Nuclear and cytosolic fractions were isolated from HPFs and real&#x02010;time PCR was performed to detect the lncRNA expression. Data were represented as a percentage of the total expression. Values represent means&#x000a0;&#x000b1;&#x000a0;<italic>SE</italic>. <italic>n</italic>&#x000a0;=&#x000a0;3 independent experiments</p></caption><graphic id="nlm-graphic-15" xlink:href="PHY2-8-e14343-g007"/></fig></sec><sec id="phy214343-sec-0021"><label>3.9</label><title>FENDRR is downregulated by hypoxia and TGF&#x003b2;1</title><p>FENDRR is chosen for further studies due to its importance in development (Grote &#x00026; Herrmann, <xref rid="phy214343-bib-0015" ref-type="ref">2013</xref>; Grote et al., <xref rid="phy214343-bib-0016" ref-type="ref">2013</xref>). We examined the effects of culture media and multiple fibroblast lines on hypoxia and TGF&#x003b2;1&#x02010;mediated regulation of FENDRR expression. We cultured HPFs in fibroblast medium (PromoCell) with the supplements in the all of the experiments performed so far. To determine the culture medium effects, we cultured HPFs in F12K medium plus 10% FBS, which are used for most of lung fibroblast culture. TGF&#x003b2;1 and/or hypoxia downregulated FENDRR expression in the F12K medium more than the cells grown in PromoCell commercial medium (Figure <xref rid="phy214343-fig-0008" ref-type="fig">8</xref>).</p><fig fig-type="Figure" xml:lang="en" id="phy214343-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Effects of hypoxia and TGF&#x003b2;1 on FENDRR expression in different human pulmonary fibroblasts. Pulmonary fibroblasts isolated from the lungs of normal subjects (a) and IPF patients (b) were cultured F12K medium containing 10% FBS and were treated with normoxia (21% O<sub>2</sub>), hypoxia (1% O<sub>2</sub>), normoxia&#x000a0;+&#x000a0;TGF&#x003b2;1 (5&#x000a0;ng/ml), and hypoxia (1% O<sub>2</sub>) + TGF&#x003b2;1 (5&#x000a0;ng/ml) for 6&#x000a0;days. FENDRR expression was determined by real&#x02010;time PCR and normalized to &#x003b2;&#x02010;actin. Data were expressed as a ratio to normoxia. Values represent means&#x000a0;&#x000b1;&#x000a0;<italic>SE</italic>. <italic>n</italic>&#x000a0;=&#x000a0;3 independent experiments. One&#x02010;way ANOVA and Tukey's multiple comparison were performed for statistical analysis. ****<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus normoxia. <sup>####</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus hypoxia. N: normoxia, H: hypoxia, N&#x000a0;+&#x000a0;T: normoxia&#x000a0;+&#x000a0;TGF&#x003b2;1, H&#x000a0;+&#x000a0;T: hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1</p></caption><graphic id="nlm-graphic-17" xlink:href="PHY2-8-e14343-g008"/></fig><p>The downregulation of FENDRR by TGF&#x003b2;1 was consistently observed in other four normal human fibroblast lines (CCD13&#x02010;Lu, CCD19&#x02010;Lu, HLF153, and HLF154) and four IPF lung fibroblast lines (LL29, LL97A, IPF12, and IPF14), all cultured in F12K medium. However, hypoxia did not cause further reduction of FENDRR expression, probably because TGF&#x003b2;1 already reduces the FENDRR expression to the lowest level. The effects of hypoxia on FENDRR expression in human lung fibroblasts cultured on F12K medium were variable and hypoxia only reduced the FENDRR expression in three of nine fibroblast lines (HLF154, LL29, and IPF 14).</p></sec><sec id="phy214343-sec-0022"><label>3.10</label><title>Silencing of HIF&#x02010;1&#x003b1; and Smad3 rescues the downregulation of FENDRR by hypoxia and TGF&#x003b2;1</title><p>To determine which HIF and Smad isoforms may participate in hypoxia and TGF&#x003b2;1&#x02010;mediated downregulation of FENDRR, we silenced HIF&#x02010;1&#x003b1;, HIF&#x02010;2&#x003b1;, Smad2, or Smad3 using shRNA lentiviral constructs as previously described (Senavirathna et al., <xref rid="phy214343-bib-0046" ref-type="ref">2018</xref>). The silencing efficiencies of HIF&#x02010;1&#x003b1; and HIF&#x02010;2&#x003b1; were given in the previous publication under the same conditions and the same type of HPF cells (Senavirathna et al., <xref rid="phy214343-bib-0046" ref-type="ref">2018</xref>). The silencing efficiencies of Smad2 and Smad3 are shown in Figure <xref rid="phy214343-fig-0009" ref-type="fig">9</xref>a,b. Silencing of Smad3 and HIF&#x02010;1&#x003b1; resulted a higher FENDRR expression than vector control or blank control under all of the treatment conditions (normoxia, TGF&#x003b2;1, hypoxia, or TGF&#x003b2;1&#x000a0;+&#x000a0;hypoxia) (Figure <xref rid="phy214343-fig-0009" ref-type="fig">9</xref>c). However, the observed effect was much greater in Smad3 silencing than HIF&#x02010;1&#x003b1; silencing. Silencing of Samd2 or HIF&#x02010;2&#x003b1; had no effects on FENDRR expression. These results indicate that Smad3 and HIF&#x02010;1&#x003b1; could be involved in the FENDRR downregulation by TGF&#x003b2;1 and hypoxia.</p><fig fig-type="Figure" xml:lang="en" id="phy214343-fig-0009" orientation="portrait" position="float"><label>Figure 9</label><caption><p>HIF&#x02010;1&#x003b1; and Smad3 silencing rescues the hypoxia and TGF&#x003b2;1&#x02010;mediated FENDRR downregulation. HPFs were infected with shRNA lentiviral constructs and treated with TGF&#x003b2;1 and hypoxia for 6&#x000a0;days. (a) Western blot showing Smad2 and Smad3 silencing. (b) Quantification of protein expression as performed with image J software. Data were normalized to &#x003b2;&#x02010;actin and then normalized to blank control (BC). Values represents means&#x000a0;&#x000b1;&#x000a0;<italic>SE</italic>. <italic>n</italic>&#x000a0;=&#x000a0;3 independent experiments. Two&#x02010;way ANOVA and Tukey's test was performed for statistical analysis. ****<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus VC. (c) FENDRR expression was determined by real&#x02010;time PCR and normalized to &#x003b2;&#x02010;actin. Data were expressed as a fold change to blank control (BC) at normoxia. Values represent means&#x000a0;&#x000b1;&#x000a0;SE. <italic>n</italic>&#x000a0;=&#x000a0;3 independent experiments. Two&#x02010;way ANOVA and Fisher's LSD test were performed for statistical analysis. ****<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus VC&#x02010;Normoxia. <sup>#</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05, <sup>####</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus VC&#x02010;Hypoxia. <sup>$</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05 <sup>$$$$</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus VC&#x02010;TGF&#x003b2;1. <sup>&#x00026;&#x00026;</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01, <sup>&#x00026;&#x00026;&#x00026;&#x00026;</sup>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001 versus VC&#x02010;Hypoxia&#x000a0;+&#x000a0;TGF&#x003b2;1. VC, vector control</p></caption><graphic id="nlm-graphic-19" xlink:href="PHY2-8-e14343-g009"/></fig></sec></sec><sec sec-type="discussion" id="phy214343-sec-0023"><label>4</label><title>DISCUSSION</title><p>Fibroblast proliferation and differentiation are the major contributors to excess extracellular matrix production, a prominent feature of IPF. While hypoxia is one of the key factors for rapid fibroblast proliferation, TGF&#x003b2; signaling promotes the differentiation of fibroblasts to myofibroblasts. In this study, we found that TGF&#x003b2;1 and hypoxia synergistically increased the mRNA expression of myofibroblast markers in HPFs. RNA&#x02010;seq analyses further revealed that the combination of hypoxia and TGF&#x003b2;1 treatment caused much more changes in mRNA and lncRNA expression in HPFs than hypoxia or TGF&#x003b2;1 treatment alone.</p><p>It is known that TGF&#x003b2; is a key regulator in fibroblast differentiation in fibrotic disorders in kidney, lung, heart, liver, and other organs (Bondi et al., <xref rid="phy214343-bib-0007" ref-type="ref">2010</xref>; Khalil et al., <xref rid="phy214343-bib-0023" ref-type="ref">2017</xref>; Pohlers et al., <xref rid="phy214343-bib-0039" ref-type="ref">2009</xref>; Thannickal et al., <xref rid="phy214343-bib-0051" ref-type="ref">2003</xref>; Webber, Jenkins, Meran, Phillips, &#x00026; Steadman, <xref rid="phy214343-bib-0056" ref-type="ref">2009</xref>; Yi et al., <xref rid="phy214343-bib-0060" ref-type="ref">2014</xref>). Upon TGF&#x003b2; stimulation, fibroblasts differentiate into myofibroblasts, which express myofibroblast markers such as collagen 1, &#x003b1;&#x02010;SMA, fibronectin, and connective tissue growth factor (CTGF) (Klingberg, Hinz, &#x00026; White, <xref rid="phy214343-bib-0025" ref-type="ref">2013</xref>). Our current finding that hypoxia increased TGF&#x003b2;1&#x02010;mediated myofibroblast marker expression suggests that hypoxia may enhance TGF&#x003b2;1&#x02010;mediated fibroblast differentiation. This conclusion is supported by several previous studies. It is reported that a 2&#x02010;day hypoxia exposure enhances TGF&#x003b2;&#x02010;induced collagen I expression and secretion in human lung fibroblasts (Papakonstantinou, Aletras, Roth, Tamm, &#x00026; Karakiulakis, <xref rid="phy214343-bib-0037" ref-type="ref">2003</xref>). Another study shows that a 2&#x02010;day hypoxia exposure increases the expression of &#x003b1;&#x02010;SMA in cardiac fibroblasts (Gao, Chu, Hong, Shang, &#x00026; Xu, <xref rid="phy214343-bib-0014" ref-type="ref">2014</xref>). Furthermore, the exposure of pulmonary fibroblasts to hypoxia for 8&#x000a0;days results in an increase in &#x003b1;&#x02010;SMA, collagens I and III expression (Robinson, Neary, Levendale, Watson, &#x00026; Baugh, <xref rid="phy214343-bib-0042" ref-type="ref">2012</xref>).</p><p>A large number of mRNAs and lncRNAs were de&#x02010;regulated by a combination of hypoxia and TGF&#x003b2;1 treatment compared to hypoxia or TGF&#x003b2;1 alone, suggesting an interaction between these two signaling pathways. Our KEGG pathway analysis showed that hypoxia upregulated the genes in TGF&#x003b2; signaling and vice versa. Several previous studies support cross&#x02010;talk between hypoxia and TGF&#x003b2; signaling pathways in lung fibroblasts and other cells. The inhibition of HIF&#x02010;1 reduces the TGF&#x003b2; expression in human fetal lung fibroblasts (Qian et al., <xref rid="phy214343-bib-0040" ref-type="ref">2015</xref>). Hypoxia stimulates the TGF&#x003b2; secretion in lung fibroblasts and endothelial cells (Papakonstantinou et al., <xref rid="phy214343-bib-0038" ref-type="ref">2002</xref>; Zhang et al., <xref rid="phy214343-bib-0063" ref-type="ref">2003</xref>). These results are consistent with our RNA&#x02010;seq data showing that hypoxia increases the expression of several members of the TGF&#x003b2; family such as TGF&#x003b2;1, BMP4, and BMP5. Thrombospondin 1 is also upregulated by hypoxia treatment in our RNA&#x02010;seq data set and this gene is implicated in the activation of latent TGF&#x003b2; and promotes tissue fibrosis (Sakai et al., <xref rid="phy214343-bib-0043" ref-type="ref">2003</xref>; Sweetwyne &#x00026; Murphy&#x02010;Ullrich, <xref rid="phy214343-bib-0050" ref-type="ref">2012</xref>).</p><p>Our current studies indicated that TGF&#x003b2;1 enhanced the hypoxia&#x02010;induced HIF&#x02010;1 protein expression in human adult lung fibroblasts. It is reported that TGF&#x003b2; induces the HIF&#x02010;1&#x003b1; protein in human embryonic lung fibroblasts and increases hypoxia responsive element&#x02013;luciferase reporter activity (Abdul&#x02010;Hafez et al., <xref rid="phy214343-bib-0001" ref-type="ref">2009</xref>). TGF&#x003b2; also stimulates HIF&#x02010;1&#x003b1; accumulation in mouse alveolar macrophages (Ueno et al., <xref rid="phy214343-bib-0054" ref-type="ref">2011</xref>).</p><p>Our RNA&#x02010;seq data showed that TGF&#x003b2;1 and hypoxia upregulated the genes involved in the HIF signaling, including SLC2A1 (GLUT&#x02010;1), SERPINE1 (PAI&#x02010;1), phosphofructokinase&#x02010;(L), IGF1, EIF4EBP1, endothelin 1, and angiopoietin 1. Some genes such as GLUT&#x02010;1, phosphofructokinase&#x02010;(L), PAI&#x02010;1, and angiopoietin&#x02010;1 are reported to be upregulated by hypoxia (Liu, Moller, Flugel, &#x00026; Kietzmann, <xref rid="phy214343-bib-0031" ref-type="ref">2004</xref>; Minchenko, Opentanova, &#x00026; Caro, <xref rid="phy214343-bib-0034" ref-type="ref">2003</xref>; Semenza, <xref rid="phy214343-bib-0045" ref-type="ref">2012</xref>; Zhang, Behrooz, &#x00026; Ismail&#x02010;Beigi, <xref rid="phy214343-bib-0064" ref-type="ref">1999</xref>). GLUT&#x02010;1 and phosphofructokinase&#x02010;(L) are involved in glucose transport (Minchenko et al., <xref rid="phy214343-bib-0034" ref-type="ref">2003</xref>; Zhang et al., <xref rid="phy214343-bib-0064" ref-type="ref">1999</xref>) while PAI&#x02010;1 and angiopoietin&#x02010;1 are involved in angiogenesis (Liu et al., <xref rid="phy214343-bib-0031" ref-type="ref">2004</xref>; Semenza, <xref rid="phy214343-bib-0045" ref-type="ref">2012</xref>). GLUT&#x02010;1 and phosphofructokinase are known to be induced in fibrotic lungs as metabolic dysregulation is a common feature in IPF (Andrianifahanana et al., <xref rid="phy214343-bib-0003" ref-type="ref">2016</xref>; Zank, Bueno, Mora, &#x00026; Rojas, <xref rid="phy214343-bib-0061" ref-type="ref">2018</xref>). TGF&#x003b2; also induces angiogenesis in IPF which is evident in pulmonary hypertension associated with IPF (Farkas, Gauldie, Voelkel, &#x00026; Kolb, <xref rid="phy214343-bib-0012" ref-type="ref">2011</xref>). IGF&#x02010;1 and endothelin&#x02010;1 induce HIF&#x02010;1 protein expression (Fukuda et al., <xref rid="phy214343-bib-0013" ref-type="ref">2002</xref>; Li et al., <xref rid="phy214343-bib-0030" ref-type="ref">2012</xref>; Zelzer et al., <xref rid="phy214343-bib-0062" ref-type="ref">1998</xref>). IGF&#x02010;1 and endothelin&#x02010;1 are growth factors which are mainly involved in fibroblast proliferation in IPF (Allen &#x00026; Spiteri, <xref rid="phy214343-bib-0002" ref-type="ref">2002</xref>). EIF4EBP1 is the inhibitory regulator of translation initiation factor EIF4E. Hypoxia induces the expression of EIF4RBP1 to shut&#x02010;off cellular protein synthesis (Tinton &#x00026; Buc&#x02010;Calderon, <xref rid="phy214343-bib-0052" ref-type="ref">1999</xref>).</p><p>In this study, we identified 825 lncRNAs that were de&#x02010;regulated by hypoxia and TGF&#x003b2;1. Based on gene ontology analyses, the neighboring genes of these altered lncRNAs have functions associated with extracellular matrix structure, collagen production, and collagen and fibronectin binding, suggesting that these lncRNAs likely play important roles in the pathogenesis of IPF. There are very limited studies on the roles of lncRNAs in lung fibrosis. We have reported that silencing of lncRNA CD99 molecule pseudogene 1 (CD99P1) inhibits cell proliferation and &#x003b1;&#x02010;SMA expression in lung fibroblasts while silencing of lncRNA n341773 reduces collagen expression in these cells (Huang et al., <xref rid="phy214343-bib-0018" ref-type="ref">2015</xref>). LncRNAs AJ005396 and S69206 are upregulated in the lungs of a rat model of bleomycin&#x02010;induced fibrosis and located in the cytoplasm of interstitial lung cells (Cao et al., <xref rid="phy214343-bib-0008" ref-type="ref">2013</xref>). LncRNAs uc.77 and 2700086A05Rik are found to be important regulators in epithelial mesenchymal transition (EMT) in paraquet induced&#x02010;lung fibrosis in mice. Overexpression of these lncRNAs in epithelial cells induces the mesenchymal marker expression (Sun et al., <xref rid="phy214343-bib-0048" ref-type="ref">2016</xref>).</p><p>The subcellular localization of an lncRNA may provide information as regards to how an lncRNA functions in cells. We observed that FENDRR was mainly located in the cytoplasm of normal lung fibroblasts, which is consistent with its cytoplasmic location in MG63 and KH&#x02010;OS human osteosarcoma cells (Kun&#x02010;Peng &#x00026; Xiao&#x02010;Long, <xref rid="phy214343-bib-0027" ref-type="ref">2017</xref>). While we found that MIR100HG was equally distributed in cytoplasm and nucleus in normal lung fibroblasts, MIR100HG is predominantly located in the nucleus of human megakaryotic leukemia cells (CMK) (Emmrich et al., <xref rid="phy214343-bib-0011" ref-type="ref">2014</xref>) and osteosarcoma (U2OS) cells (Sun et al., <xref rid="phy214343-bib-0049" ref-type="ref">2018</xref>). Thus, an lncRNA may have a different cellular location in different types of cells. Our data show an equal distribution of DDIT4&#x02010;AS1, Lnc&#x02010;DKK3&#x02010;1, VCAN&#x02010;AS1 in cytoplasm and nucleus, nuclear localization of lnc&#x02010;RPS27L&#x02010;1, lnc&#x02010;DLD&#x02010;1, MRGPRF&#x02010;AS1 and cytosol localization of lnc&#x02010;NFAT5&#x02010;1, TBX2&#x02010;AS1 in normal lung fibroblasts. There are no reports of subcellular localization of these lncRNAs. It remains to be determined whether subcellular location of above&#x02010;mentioned lncRNAs alter in IPF lungs compared to normal lungs.</p><p>Among the downregulated lncRNAs by hypoxia and TGF&#x003b2;1, FENDRR was most potently and consistently regulated by TGF&#x003b2;1 in all of the human lung fibroblasts tested. However, the downregulation of FENDRR by hypoxia was only observed in three of nine lung fibroblasts. The regulation of FENDRR expression appears to be dependent on culture medium, likely due to the factors present in the different medium. The mechanisms for the FENDRR regulation by hypoxia and TGF&#x003b2;1 may involve HIF&#x02010;1&#x003b1; and Smad3.</p><p>FENDRR is named FOXF1 adjacent non&#x02010;coding developmental regulatory RNA because its importance in gene regulatory network in mammalian embryogenesis (Dey, Mueller, &#x00026; Dutta, <xref rid="phy214343-bib-0009" ref-type="ref">2014</xref>). FENDRR is located at chromosome 16 and transcribed in an antisense manner as its neighboring gene, FOXF1 (<xref rid="phy214343-bib-0017" ref-type="ref">Herrera et al.,</xref>). It causes the methylation of the promoter sites of target genes, and represses their expression via binding polycomb repressive complex 2 (PRC2) and Trithorax group/MLL complex (TRxG/MLL) (Grote &#x00026; Herrmann, <xref rid="phy214343-bib-0015" ref-type="ref">2013</xref>). FENDRR is specifically expressed in nascent lateral phase mesoderm. It is important for heart and body wall development. Loss of fendrr in mice impairs the differentiation of tissue in lateral mesoderm, resulting in defective development of heart and body wall (Grote &#x00026; Herrmann, <xref rid="phy214343-bib-0015" ref-type="ref">2013</xref>; Grote et al., <xref rid="phy214343-bib-0016" ref-type="ref">2013</xref>; Sauvageau et al., <xref rid="phy214343-bib-0044" ref-type="ref">2013</xref>).</p><p>FENDRR is also associated with cancers (<xref rid="phy214343-bib-0017" ref-type="ref">Herrera et al.,</xref>; Kun&#x02010;Peng, Chun&#x02010;Lin, &#x00026; Xiao&#x02010;Long, <xref rid="phy214343-bib-0026" ref-type="ref">2017</xref>; Xu et al., <xref rid="phy214343-bib-0059" ref-type="ref">2014</xref>; Zheng, Krishnan, Zou, &#x00026; Ongkeko, <xref rid="phy214343-bib-0065" ref-type="ref">2016</xref>). The expression of FENDRR is lower in gastric cancer cell lines than that in normal gastric epithelial cells. FENDRR overexpression in gastric cancer cells inhibits cell invasion and migration with a reduced expression of fibronectin 1, metalloproteinase 2 and 9 (Xu et al., <xref rid="phy214343-bib-0059" ref-type="ref">2014</xref>). As FENDRR is regulated by hypoxia and TGF&#x003b2;, two key factors for IPF pathologies, FENDRR likely plays a role in IPF.</p><p>In summary, hypoxia and TGF&#x003b2; treatment synergistically activate myofibroblast markers and de&#x02010;regulate a larger number of mRNAs and lncRNAs than hypoxia or TGF&#x003b2;1 alone. FENDRR is likely regulated via Smad3 and HIF&#x02010;1&#x003b1;.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"/><supplementary-material content-type="local-data" id="phy214343-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="PHY2-8-e14343-s001.TIF"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="phy214343-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="PHY2-8-e14343-s002.TIF"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="phy214343-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="PHY2-8-e14343-s003.TIF"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="phy214343-sup-0004"><caption><p>&#x000a0;</p></caption><media xlink:href="PHY2-8-e14343-s004.TIF"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="phy214343-sup-0005"><caption><p>&#x000a0;</p></caption><media xlink:href="PHY2-8-e14343-s005.TIF"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="phy214343-sup-0006"><caption><p>&#x000a0;</p></caption><media xlink:href="PHY2-8-e14343-s006.TIF"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="phy214343-sup-0007"><caption><p>&#x000a0;</p></caption><media xlink:href="PHY2-8-e14343-s007.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="phy214343-sec-0024"><title>ACKNOWLEDGMENTS</title><p>We thank Dr. Craig Henke (University of Minnesota) for kindly providing human lung fibroblasts (HLF153, HLF154, IPF12, and IPF14).</p></ack><ref-list content-type="cited-references" id="phy214343-bibl-0001"><title>REFERENCES</title><ref id="phy214343-bib-0001"><mixed-citation publication-type="journal" id="phy214343-cit-0001">
+<string-name>
+<surname>Abdul&#x02010;Hafez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Shu</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Uhal</surname>, <given-names>B. D.</given-names>
+</string-name> (<year>2009</year>). <article-title>JunD and HIF&#x02010;1alpha mediate transcriptional activation of angiotensinogen by TGF&#x02010;beta1 in human lung fibroblasts</article-title>. <source xml:lang="en">FASEB Journal: Official Publication of the Federation of American Societies for Experimental Biology</source>, <volume>23</volume>, <fpage>1655</fpage>&#x02013;<lpage>1662</lpage>. <pub-id pub-id-type="doi">10.1096/fj.08-114611</pub-id>
+<pub-id pub-id-type="pmid">19211927</pub-id></mixed-citation></ref><ref id="phy214343-bib-0002"><mixed-citation publication-type="journal" id="phy214343-cit-0002">
+<string-name>
+<surname>Allen</surname>, <given-names>J. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Spiteri</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2002</year>). <article-title>Growth factors in idiopathic pulmonary fibrosis: Relative roles</article-title>. <source xml:lang="en">Respiratory Research</source>, <volume>3</volume>, <fpage>13</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">11806848</pub-id></mixed-citation></ref><ref id="phy214343-bib-0003"><mixed-citation publication-type="journal" id="phy214343-cit-0003">
+<string-name>
+<surname>Andrianifahanana</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>J.&#x02010;H.</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>, <given-names>M.&#x02010;Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Leof</surname>, <given-names>E. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Profibrotic up&#x02010;regulation of glucose transporter 1 by TGF&#x02010;&#x003b2; involves activation of MEK and mammalian target of rapamycin complex 2 pathways</article-title>. <source xml:lang="en">FASEB Journal: Official Publication of the Federation of American Societies for Experimental Biology</source>, <volume>30</volume>, <fpage>3733</fpage>&#x02013;<lpage>3744</lpage>. <pub-id pub-id-type="doi">10.1096/fj.201600428R</pub-id>
+<pub-id pub-id-type="pmid">27480571</pub-id></mixed-citation></ref><ref id="phy214343-bib-0004"><mixed-citation publication-type="journal" id="phy214343-cit-0004">
+<string-name>
+<surname>Baker</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>). <article-title>Long noncoding RNAs: The search for function</article-title>. <source xml:lang="en">Nature Methods</source>, <volume>8</volume>, <fpage>379</fpage>&#x02013;<lpage>383</lpage>. <pub-id pub-id-type="doi">10.1038/nmeth0511-379</pub-id>
+</mixed-citation></ref><ref id="phy214343-bib-0005"><mixed-citation publication-type="journal" id="phy214343-cit-0005">
+<string-name>
+<surname>Beermann</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Piccoli</surname>, <given-names>M.&#x02010;T.</given-names>
+</string-name>, <string-name>
+<surname>Viereck</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thum</surname>, <given-names>T.</given-names>
+</string-name> (<year>2016</year>). <article-title>Non&#x02010;coding RNAs in development and disease: Background, mechanisms, and therapeutic approaches</article-title>. <source xml:lang="en">Physiological Reviews</source>, <volume>96</volume>, <fpage>1297</fpage>&#x02013;<lpage>1325</lpage>. <pub-id pub-id-type="doi">10.1152/physrev.00041.2015</pub-id>
+<pub-id pub-id-type="pmid">27535639</pub-id></mixed-citation></ref><ref id="phy214343-bib-0006"><mixed-citation publication-type="journal" id="phy214343-cit-0006">
+<string-name>
+<surname>Bodempudi</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Hergert</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Herrera</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Henke</surname>, <given-names>C. A.</given-names>
+</string-name> (<year>2014</year>). <article-title>miR&#x02010;210 promotes IPF fibroblast proliferation in response to hypoxia</article-title>. <source xml:lang="en">American Journal of Physiology&#x02010;Lung Cellular and Molecular Physiology</source>, <volume>307</volume>, <fpage>1283</fpage>&#x02013;<lpage>1294</lpage>. <pub-id pub-id-type="doi">10.1152/ajplung.00069.2014</pub-id>
+</mixed-citation></ref><ref id="phy214343-bib-0007"><mixed-citation publication-type="journal" id="phy214343-cit-0007">
+<string-name>
+<surname>Bondi</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Manickam</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>D. Y.</given-names>
+</string-name>, <string-name>
+<surname>Block</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gorin</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Abboud</surname>, <given-names>H. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barnes</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2010</year>). <article-title>NAD(P)H Oxidase Mediates TGF&#x02010;&#x003b2;1&#x02013;Induced Activation of Kidney Myofibroblasts</article-title>. <source xml:lang="en">Journal of the American Society of Nephrology</source>, <volume>21</volume>, <fpage>93</fpage>
+<pub-id pub-id-type="doi">10.1681/ASN.2009020146</pub-id>
+<pub-id pub-id-type="pmid">19926889</pub-id></mixed-citation></ref><ref id="phy214343-bib-0008"><mixed-citation publication-type="journal" id="phy214343-cit-0008">
+<string-name>
+<surname>Cao</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lv</surname>, <given-names>C.</given-names>
+</string-name> (<year>2013</year>). <article-title>Differential expression of long non&#x02010;coding RNAs in bleomycin&#x02010;induced lung fibrosis</article-title>. <source xml:lang="en">International Journal of Molecular Medicine</source>, <volume>32</volume>, <fpage>355</fpage>&#x02013;<lpage>364</lpage>. <pub-id pub-id-type="doi">10.3892/ijmm.2013.1404</pub-id>
+<pub-id pub-id-type="pmid">23732278</pub-id></mixed-citation></ref><ref id="phy214343-bib-0009"><mixed-citation publication-type="journal" id="phy214343-cit-0009">
+<string-name>
+<surname>Dey</surname>, <given-names>B. K.</given-names>
+</string-name>, <string-name>
+<surname>Mueller</surname>, <given-names>A. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dutta</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Long non&#x02010;coding RNAs as emerging regulators of differentiation, development, and disease</article-title>. <source xml:lang="en">Transcription</source>, <volume>5</volume>, <elocation-id>e944014</elocation-id>.<pub-id pub-id-type="pmid">25483404</pub-id></mixed-citation></ref><ref id="phy214343-bib-0010"><mixed-citation publication-type="journal" id="phy214343-cit-0010">
+<string-name>
+<surname>Elgar</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vavouri</surname>, <given-names>T.</given-names>
+</string-name> (<year>2008</year>). <article-title>Tuning in to the signals: Noncoding sequence conservation in vertebrate genomes</article-title>. <source xml:lang="en">Trends in Genetics</source>, <volume>24</volume>, <fpage>344</fpage>&#x02013;<lpage>352</lpage>.<pub-id pub-id-type="pmid">18514361</pub-id></mixed-citation></ref><ref id="phy214343-bib-0011"><mixed-citation publication-type="journal" id="phy214343-cit-0011">
+<string-name>
+<surname>Emmrich</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Streltsov</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Thangapandi</surname>, <given-names>V. R.</given-names>
+</string-name>, <string-name>
+<surname>Reinhardt</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Klusmann</surname>, <given-names>J.&#x02010;H.</given-names>
+</string-name> (<year>2014</year>). <article-title>LincRNAs MONC and MIR100HG act as oncogenes in acute megakaryoblastic leukemia</article-title>. <source xml:lang="en">Molecular Cancer</source>, <volume>13</volume>, <fpage>171</fpage>
+<pub-id pub-id-type="doi">10.1186/1476-4598-13-171</pub-id>
+<pub-id pub-id-type="pmid">25027842</pub-id></mixed-citation></ref><ref id="phy214343-bib-0012"><mixed-citation publication-type="journal" id="phy214343-cit-0012">
+<string-name>
+<surname>Farkas</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gauldie</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Voelkel</surname>, <given-names>N. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kolb</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>). <article-title>Pulmonary hypertension and idiopathic pulmonary fibrosis</article-title>. <source xml:lang="en">American Journal of Respiratory Cell and Molecular Biology</source>, <volume>45</volume>, <fpage>1</fpage>&#x02013;<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1165/rcmb.2010-0365TR</pub-id>
+<pub-id pub-id-type="pmid">21057104</pub-id></mixed-citation></ref><ref id="phy214343-bib-0013"><mixed-citation publication-type="journal" id="phy214343-cit-0013">
+<string-name>
+<surname>Fukuda</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hirota</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>, <given-names>Y. D.</given-names>
+</string-name>, <string-name>
+<surname>Ellis</surname>, <given-names>L. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Semenza</surname>, <given-names>G. L.</given-names>
+</string-name> (<year>2002</year>). <article-title>Insulin&#x02010;like growth factor 1 induces hypoxia&#x02010;inducible factor 1&#x02010;mediated vascular endothelial growth factor expression, which is dependent on MAP kinase and phosphatidylinositol 3&#x02010;kinase signaling in colon cancer cells</article-title>. <source xml:lang="en">The Journal of Biological Chemistry</source>, <volume>277</volume>, <fpage>38205</fpage>&#x02013;<lpage>38211</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.M203781200</pub-id>
+<pub-id pub-id-type="pmid">12149254</pub-id></mixed-citation></ref><ref id="phy214343-bib-0014"><mixed-citation publication-type="journal" id="phy214343-cit-0014">
+<string-name>
+<surname>Gao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Chu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Shang</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Xu</surname>, <given-names>D.</given-names>
+</string-name> (<year>2014</year>). <article-title>Hypoxia induces cardiac fibroblast proliferation and phenotypic switch: A role for caveolae and caveolin&#x02010;1/PTEN mediated pathway</article-title>. <source xml:lang="en">Journal of Thoracic Disease</source>, <volume>6</volume>, <fpage>1458</fpage>.<pub-id pub-id-type="pmid">25364523</pub-id></mixed-citation></ref><ref id="phy214343-bib-0015"><mixed-citation publication-type="journal" id="phy214343-cit-0015">
+<string-name>
+<surname>Grote</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Herrmann</surname>, <given-names>B. G.</given-names>
+</string-name> (<year>2013</year>). <article-title>The long non&#x02010;coding RNA Fendrr links epigenetic control mechanisms to gene regulatory networks in mammalian embryogenesis</article-title>. <source xml:lang="en">RNA Biology</source>, <volume>10</volume>, <fpage>1579</fpage>&#x02013;<lpage>1585</lpage>. <pub-id pub-id-type="doi">10.4161/rna.26165</pub-id>
+<pub-id pub-id-type="pmid">24036695</pub-id></mixed-citation></ref><ref id="phy214343-bib-0016"><mixed-citation publication-type="journal" id="phy214343-cit-0016">
+<string-name>
+<surname>Grote</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Wittler</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Hendrix</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Koch</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Wahrisch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Beisaw</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Herrmann</surname>, <given-names>B. G.</given-names>
+</string-name> (<year>2013</year>). <article-title>The tissue&#x02010;specific lncRNA Fendrr is an essential regulator of heart and body wall development in the mouse</article-title>. <source xml:lang="en">Developmental Cell</source>, <volume>24</volume>, <fpage>206</fpage>&#x02013;<lpage>214</lpage>. <pub-id pub-id-type="doi">10.1016/j.devcel.2012.12.012</pub-id>
+<pub-id pub-id-type="pmid">23369715</pub-id></mixed-citation></ref><ref id="phy214343-bib-0017"><mixed-citation publication-type="journal" id="phy214343-cit-0017">
+<string-name>
+<surname>Herrera</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cuadros</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>, <given-names>M. I.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Torres</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Estecio</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Carmona&#x02010;Saez</surname>, <given-names>P.</given-names>
+</string-name> (<year>2017</year>). <article-title>The value of lncRNA FENDRR and FOXF1 as a prognostic factor for survival of lung adenocarcinoma</article-title>. <source xml:lang="en">Oncotarget</source>, <volume>5</volume>
+<pub-id pub-id-type="doi">10.18632/oncotarget.22154</pub-id>
+</mixed-citation></ref><ref id="phy214343-bib-0018"><mixed-citation publication-type="journal" id="phy214343-cit-0018">
+<string-name>
+<surname>Huang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>L.</given-names>
+</string-name> (<year>2015</year>). <article-title>Interaction of long noncoding RNAs and microRNAs in the pathogenesis of idiopathic pulmonary fibrosis</article-title>. <source xml:lang="en">Physiological Genomics</source>, <volume>47</volume>, <fpage>463</fpage>&#x02013;<lpage>469</lpage>. <pub-id pub-id-type="doi">10.1152/physiolgenomics.00064.2015</pub-id>
+<pub-id pub-id-type="pmid">26269497</pub-id></mixed-citation></ref><ref id="phy214343-bib-0019"><mixed-citation publication-type="journal" id="phy214343-cit-0019">
+<string-name>
+<surname>Huarte</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>). <article-title>The emerging role of lncRNAs in cancer</article-title>. <source xml:lang="en">Nature Medicine</source>, <volume>21</volume>, <fpage>1253</fpage>&#x02013;<lpage>1261</lpage>. <pub-id pub-id-type="doi">10.1038/nm.3981</pub-id>
+</mixed-citation></ref><ref id="phy214343-bib-0020"><mixed-citation publication-type="journal" id="phy214343-cit-0020">
+<string-name>
+<surname>H&#x000fc;ttenhofer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schattner</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Polacek</surname>, <given-names>N.</given-names>
+</string-name> (<year>2005</year>). <article-title>Non&#x02010;coding RNAs: Hope or hype?</article-title>
+<source xml:lang="en">Trends in Genetics</source>, <volume>21</volume>, <fpage>289</fpage>&#x02013;<lpage>297</lpage>. <pub-id pub-id-type="doi">10.1016/j.tig.2005.03.007</pub-id>
+<pub-id pub-id-type="pmid">15851066</pub-id></mixed-citation></ref><ref id="phy214343-bib-0021"><mixed-citation publication-type="journal" id="phy214343-cit-0021">
+<string-name>
+<surname>Imam</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Bano</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Holla</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jameel</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <article-title>The lncRNA NRON modulates HIV&#x02010;1 replication in a NFAT&#x02010;dependent manner and is differentially regulated by early and late viral proteins</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>5</volume>, <fpage>8639</fpage>
+<pub-id pub-id-type="doi">10.1038/srep08639</pub-id>
+<pub-id pub-id-type="pmid">25728138</pub-id></mixed-citation></ref><ref id="phy214343-bib-0022"><mixed-citation publication-type="journal" id="phy214343-cit-0022">
+<string-name>
+<surname>Kawakami</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Mimura</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Shoji</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tanaka</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nangaku</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Hypoxia and fibrosis in chronic kidney disease: Crossing at pericytes</article-title>. <source xml:lang="en">Kidney International Supplement</source>, <volume>4</volume>, <fpage>107</fpage>&#x02013;<lpage>112</lpage>. <pub-id pub-id-type="doi">10.1038/kisup.2014.20</pub-id>
+</mixed-citation></ref><ref id="phy214343-bib-0023"><mixed-citation publication-type="journal" id="phy214343-cit-0023">
+<string-name>
+<surname>Khalil</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kanisicak</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Prasad</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Correll</surname>, <given-names>R. N.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Schips</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Molkentin</surname>, <given-names>J. D.</given-names>
+</string-name> (<year>2017</year>). <article-title>Fibroblast&#x02010;specific TGF&#x02010;&#x003b2;&#x02010;Smad2/3 signaling underlies cardiac fibrosis</article-title>. <source xml:lang="en">The Journal of Clinical Investigation</source>, <volume>127</volume>, <fpage>3770</fpage>&#x02013;<lpage>3783</lpage>. <pub-id pub-id-type="doi">10.1172/JCI94753</pub-id>
+<pub-id pub-id-type="pmid">28891814</pub-id></mixed-citation></ref><ref id="phy214343-bib-0024"><mixed-citation publication-type="journal" id="phy214343-cit-0024">
+<string-name>
+<surname>King</surname>, <given-names>T. E.</given-names>
+</string-name>, <string-name>
+<surname>Pardo</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Selman</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>). <article-title>Idiopathic pulmonary fibrosis</article-title>. <source xml:lang="en">The Lancet</source>, <volume>378</volume>, <fpage>1949</fpage>&#x02013;<lpage>1961</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(11)60052-4</pub-id>
+</mixed-citation></ref><ref id="phy214343-bib-0025"><mixed-citation publication-type="journal" id="phy214343-cit-0025">
+<string-name>
+<surname>Klingberg</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Hinz</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>White</surname>, <given-names>E. S.</given-names>
+</string-name> (<year>2013</year>). <article-title>The myofibroblast matrix: Implications for tissue repair and fibrosis</article-title>. <source xml:lang="en">The Journal of Pathology</source>, <volume>229</volume>, <fpage>298</fpage>&#x02013;<lpage>309</lpage>.<pub-id pub-id-type="pmid">22996908</pub-id></mixed-citation></ref><ref id="phy214343-bib-0026"><mixed-citation publication-type="journal" id="phy214343-cit-0026">
+<string-name>
+<surname>Kun&#x02010;Peng</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Chun&#x02010;Lin</surname>, <given-names>Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Xiao&#x02010;Long</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Antisense lncRNA FOXF1&#x02010;AS1 promotes migration and invasion of osteosarcoma cells through the FOXF1/MMP&#x02010;2/&#x02010;9 pathway</article-title>. <source xml:lang="en">International Journal of Biological Sciences</source>, <volume>13</volume>, <fpage>1180</fpage>&#x02013;<lpage>1191</lpage>. <pub-id pub-id-type="doi">10.7150/ijbs.21722</pub-id>
+<pub-id pub-id-type="pmid">29104509</pub-id></mixed-citation></ref><ref id="phy214343-bib-0027"><mixed-citation publication-type="journal" id="phy214343-cit-0027">
+<string-name>
+<surname>Kun&#x02010;Peng</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Xiao&#x02010;Long</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chun&#x02010;Lin</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2017</year>). <article-title>LncRNA FENDRR sensitizes doxorubicin&#x02010;resistance of osteosarcoma cells through down&#x02010;regulating ABCB1 and ABCC1</article-title>. <source xml:lang="en">Oncotarget</source>, <volume>8</volume>(<issue>42</issue>), <pub-id pub-id-type="doi">10.18632/oncotarget.17985</pub-id>
+</mixed-citation></ref><ref id="phy214343-bib-0028"><mixed-citation publication-type="journal" id="phy214343-cit-0028">
+<string-name>
+<surname>Leask</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Abraham</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2004</year>). <article-title>TGF&#x02010;beta signaling and the fibrotic response</article-title>. <source xml:lang="en">FASEB Journal: Official Publication of the Federation of American Societies for Experimental Biology</source>, <volume>18</volume>, <fpage>816</fpage>&#x02013;<lpage>827</lpage>.<pub-id pub-id-type="pmid">15117886</pub-id></mixed-citation></ref><ref id="phy214343-bib-0029"><mixed-citation publication-type="journal" id="phy214343-cit-0029">
+<string-name>
+<surname>Lee</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name>
+<surname>Mira&#x02010;Avendano</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Ryu</surname>, <given-names>J. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Daniels</surname>, <given-names>C. E.</given-names>
+</string-name> (<year>2014</year>). <article-title>The burden of idiopathic pulmonary fibrosis: An unmet public health need</article-title>. <source xml:lang="en">Respiratory Medicine</source>, <volume>108</volume>, <fpage>955</fpage>&#x02013;<lpage>967</lpage>. <pub-id pub-id-type="doi">10.1016/j.rmed.2014.03.015</pub-id>
+<pub-id pub-id-type="pmid">24780718</pub-id></mixed-citation></ref><ref id="phy214343-bib-0030"><mixed-citation publication-type="journal" id="phy214343-cit-0030">
+<string-name>
+<surname>Li</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Jiang</surname>, <given-names>X.</given-names>
+</string-name> (<year>2012</year>). <article-title>Endothelin&#x02010;1 induces hypoxia inducible factor 1&#x003b1; expression in pulmonary artery smooth muscle cells</article-title>. <source xml:lang="en">FEBS Letters</source>, <volume>586</volume>, <fpage>3888</fpage>&#x02013;<lpage>3893</lpage>. <pub-id pub-id-type="doi">10.1016/j.febslet.2012.08.036</pub-id>
+<pub-id pub-id-type="pmid">23041290</pub-id></mixed-citation></ref><ref id="phy214343-bib-0031"><mixed-citation publication-type="journal" id="phy214343-cit-0031">
+<string-name>
+<surname>Liu</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Moller</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Flugel</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kietzmann</surname>, <given-names>T.</given-names>
+</string-name> (<year>2004</year>). <article-title>Induction of plasminogen activator inhibitor I gene expression by intracellular calcium via hypoxia&#x02010;inducible factor&#x02010;1</article-title>. <source xml:lang="en">Blood</source>, <volume>104</volume>, <fpage>3993</fpage>&#x02013;<lpage>4001</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2004-03-1017</pub-id>
+<pub-id pub-id-type="pmid">15328163</pub-id></mixed-citation></ref><ref id="phy214343-bib-0032"><mixed-citation publication-type="journal" id="phy214343-cit-0032">
+<string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zou</surname>, <given-names>X.</given-names>
+</string-name> (<year>2018</year>). <article-title>A genome&#x02010;wide analysis of long noncoding RNA profile identifies differentially expressed lncRNAs associated with Esophageal cancer</article-title>. <source xml:lang="en">Cancer Medicine</source>, <volume>7</volume>, <fpage>4181</fpage>&#x02013;<lpage>4189</lpage>. <pub-id pub-id-type="doi">10.1002/cam4.1536</pub-id>
+<pub-id pub-id-type="pmid">29926523</pub-id></mixed-citation></ref><ref id="phy214343-bib-0033"><mixed-citation publication-type="journal" id="phy214343-cit-0033">
+<string-name>
+<surname>Mercer</surname>, <given-names>T. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mattick</surname>, <given-names>J. S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Structure and function of long noncoding RNAs in epigenetic regulation</article-title>. <source xml:lang="en">Nature Structural and Molecular Biology</source>, <volume>20</volume>, <fpage>300</fpage>&#x02013;<lpage>307</lpage>. <pub-id pub-id-type="doi">10.1038/nsmb.2480</pub-id>
+</mixed-citation></ref><ref id="phy214343-bib-0034"><mixed-citation publication-type="journal" id="phy214343-cit-0034">
+<string-name>
+<surname>Minchenko</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Opentanova</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Caro</surname>, <given-names>J.</given-names>
+</string-name> (<year>2003</year>). <article-title>Hypoxic regulation of the 6&#x02010;phosphofructo&#x02010;2&#x02010;kinase/fructose&#x02010;2,6&#x02010;bisphosphatase gene family (PFKFB&#x02010;1&#x02013;4) expression in vivo</article-title>. <source xml:lang="en">FEBS Letters</source>, <volume>554</volume>, <fpage>264</fpage>&#x02013;<lpage>270</lpage>. <pub-id pub-id-type="doi">10.1016/S0014-5793(03)01179-7</pub-id>
+<pub-id pub-id-type="pmid">14623077</pub-id></mixed-citation></ref><ref id="phy214343-bib-0035"><mixed-citation publication-type="journal" id="phy214343-cit-0035">
+<string-name>
+<surname>Mizuno</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bogaard</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name>
+<surname>Voelkel</surname>, <given-names>N. F.</given-names>
+</string-name>, <string-name>
+<surname>Umeda</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kadowaki</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ameshima</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ishizaki</surname>, <given-names>T.</given-names>
+</string-name> (<year>2009</year>). <article-title>Hypoxia regulates human lung fibroblast proliferation via p53&#x02010;dependent and&#x02010;independent pathways</article-title>. <source xml:lang="en">Respiratory Research</source>, <volume>10</volume>, <fpage>17</fpage>
+<pub-id pub-id-type="doi">10.1186/1465-9921-10-17</pub-id>
+<pub-id pub-id-type="pmid">19267931</pub-id></mixed-citation></ref><ref id="phy214343-bib-0036"><mixed-citation publication-type="journal" id="phy214343-cit-0036">
+<string-name>
+<surname>More</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pushparaj</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>Y.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Liu</surname>, <given-names>L.</given-names>
+</string-name> (<year>2019</year>). <article-title>Long non&#x02010;coding RNA PSMB8&#x02010;AS1 regulates influenza virus replication</article-title>. <source xml:lang="en">RNA Biology</source>, <volume>16</volume>, <fpage>340</fpage>&#x02013;<lpage>353</lpage>. <pub-id pub-id-type="doi">10.1080/15476286.2019.1572448</pub-id>
+<pub-id pub-id-type="pmid">30669933</pub-id></mixed-citation></ref><ref id="phy214343-bib-0037"><mixed-citation publication-type="journal" id="phy214343-cit-0037">
+<string-name>
+<surname>Papakonstantinou</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Aletras</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Roth</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tamm</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Karakiulakis</surname>, <given-names>G.</given-names>
+</string-name> (<year>2003</year>). <article-title>Hypoxia modulates the effects of transforming growth factor&#x02010;&#x003b2; isoforms on matrix&#x02010;formation by primary human lung fibroblasts</article-title>. <source xml:lang="en">Cytokine</source>, <volume>24</volume>, <fpage>25</fpage>&#x02013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1016/S1043-4666(03)00253-9</pub-id>
+<pub-id pub-id-type="pmid">14561488</pub-id></mixed-citation></ref><ref id="phy214343-bib-0038"><mixed-citation publication-type="journal" id="phy214343-cit-0038">
+<string-name>
+<surname>Papakonstantinou</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Roth</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tamm</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Eickelberg</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Perruchoud</surname>, <given-names>A. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Karakiulakis</surname>, <given-names>G.</given-names>
+</string-name> (<year>2002</year>). <article-title>Hypoxia differentially enhances the effects of transforming growth factor&#x02010;&#x003b2; isoforms on the synthesis and secretion of glycosaminoglycans by human lung fibroblasts</article-title>. <source xml:lang="en">Journal of Pharmacology and Experimental Therapeutics</source>, <volume>301</volume>, <fpage>830</fpage>&#x02013;<lpage>837</lpage>. <pub-id pub-id-type="doi">10.1124/jpet.301.3.830</pub-id>
+<pub-id pub-id-type="pmid">12023510</pub-id></mixed-citation></ref><ref id="phy214343-bib-0039"><mixed-citation publication-type="journal" id="phy214343-cit-0039">
+<string-name>
+<surname>Pohlers</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Brenmoehl</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f6;ffler</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>C. K.</given-names>
+</string-name>, <string-name>
+<surname>Leipner</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Schultze&#x02010;Mosgau</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wolf</surname>, <given-names>G.</given-names>
+</string-name> (<year>2009</year>). <article-title>TGF&#x02010;&#x003b2; and fibrosis in different organs&#x02014;molecular pathway imprints</article-title>. <source xml:lang="en">Biochimica Et Biophysica Acta (BBA) &#x02010; Molecular Basis of Disease</source>, <volume>1792</volume>, <fpage>746</fpage>&#x02013;<lpage>756</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbadis.2009.06.004</pub-id>
+<pub-id pub-id-type="pmid">19539753</pub-id></mixed-citation></ref><ref id="phy214343-bib-0040"><mixed-citation publication-type="journal" id="phy214343-cit-0040">
+<string-name>
+<surname>Qian</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Duan</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>Z.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2015</year>). <article-title>Cross regulation between hypoxia&#x02010;inducible transcription factor&#x02010;1&#x003b1; (HIF&#x02010;1&#x003b1;) and transforming growth factor (TGF)&#x02010;&#x000df;1 mediates nickel oxide nanoparticles (NiONPs)&#x02010;induced pulmonary fibrosis</article-title>. <source xml:lang="en">American Journal of Translational Research</source>, <volume>7</volume>, <fpage>2364</fpage>.<pub-id pub-id-type="pmid">26807184</pub-id></mixed-citation></ref><ref id="phy214343-bib-0041"><mixed-citation publication-type="journal" id="phy214343-cit-0041">
+<string-name>
+<surname>Ren</surname>, <given-names>G.&#x02010;J.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>X.&#x02010;C.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>T.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S.&#x02010;S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhao</surname>, <given-names>G.&#x02010;H.</given-names>
+</string-name> (<year>2018</year>). <article-title>Genome&#x02010;wide analysis of differentially expressed profiles of mRNAs, lncRNAs and circRNAs during Cryptosporidium baileyi infection</article-title>. <source xml:lang="en">BMC Genomics</source>, <volume>19</volume>, <fpage>356</fpage>
+<pub-id pub-id-type="doi">10.1186/s12864-018-4754-2</pub-id>
+<pub-id pub-id-type="pmid">29747577</pub-id></mixed-citation></ref><ref id="phy214343-bib-0042"><mixed-citation publication-type="journal" id="phy214343-cit-0042">
+<string-name>
+<surname>Robinson</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Neary</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Levendale</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Watson</surname>, <given-names>C. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baugh</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Hypoxia&#x02010;induced DNA hypermethylation in human pulmonary fibroblasts is associated with Thy&#x02010;1 promoter methylation and the development of a pro&#x02010;fibrotic phenotype</article-title>. <source xml:lang="en">Respiratory Research</source>, <volume>13</volume>, <fpage>74</fpage>
+<pub-id pub-id-type="doi">10.1186/1465-9921-13-74</pub-id>
+<pub-id pub-id-type="pmid">22938014</pub-id></mixed-citation></ref><ref id="phy214343-bib-0043"><mixed-citation publication-type="journal" id="phy214343-cit-0043">
+<string-name>
+<surname>Sakai</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Sumi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Muramatsu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hata</surname>, <given-names>K.&#x02010;I.</given-names>
+</string-name>, <string-name>
+<surname>Muramatsu</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ueda</surname>, <given-names>M.</given-names>
+</string-name> (<year>2003</year>). <article-title>Thrombospondin&#x02010;1 promotes fibroblast&#x02010;mediated collagen gel contraction caused by activation of latent transforming growth factor &#x003b2;&#x02010;1</article-title>. <source xml:lang="en">Journal of Dermatological Science</source>, <volume>31</volume>, <fpage>99</fpage>&#x02013;<lpage>109</lpage>. <pub-id pub-id-type="doi">10.1016/S0923-1811(02)00150-0</pub-id>
+<pub-id pub-id-type="pmid">12670720</pub-id></mixed-citation></ref><ref id="phy214343-bib-0044"><mixed-citation publication-type="journal" id="phy214343-cit-0044">
+<string-name>
+<surname>Sauvageau</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Goff</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Lodato</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bonev</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Groff</surname>, <given-names>A. F.</given-names>
+</string-name>, <string-name>
+<surname>Gerhardinger</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Rinn</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2013</year>). <article-title>Multiple knockout mouse models reveal lincRNAs are required for life and brain development</article-title>. <source xml:lang="en">eLife</source>, <volume>2</volume>, <elocation-id>e01749</elocation-id>
+<pub-id pub-id-type="doi">10.7554/eLife.01749</pub-id>
+<pub-id pub-id-type="pmid">24381249</pub-id></mixed-citation></ref><ref id="phy214343-bib-0045"><mixed-citation publication-type="journal" id="phy214343-cit-0045">
+<string-name>
+<surname>Semenza</surname>, <given-names>G. L.</given-names>
+</string-name> (<year>2012</year>). <article-title>Hypoxia&#x02010;inducible factors: Mediators of cancer progression and targets for cancer therapy</article-title>. <source xml:lang="en">Trends in Pharmacological Sciences</source>, <volume>33</volume>, <fpage>207</fpage>&#x02013;<lpage>214</lpage>.<pub-id pub-id-type="pmid">22398146</pub-id></mixed-citation></ref><ref id="phy214343-bib-0046"><mixed-citation publication-type="journal" id="phy214343-cit-0046">
+<string-name>
+<surname>Senavirathna</surname>, <given-names>L. K.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Munteanu</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Sathiaseelan</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Liu</surname>, <given-names>L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Hypoxia induces pulmonary fibroblast proliferation through NFAT signaling</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>8</volume>, <fpage>2709</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-018-21073-x</pub-id>
+<pub-id pub-id-type="pmid">29426911</pub-id></mixed-citation></ref><ref id="phy214343-bib-0047"><mixed-citation publication-type="journal" id="phy214343-cit-0047">
+<string-name>
+<surname>Song</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Jing</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Lv</surname>, <given-names>C.</given-names>
+</string-name> (<year>2014</year>). <article-title>Analysing the relationship between lncRNA and protein&#x02010;coding gene and the role of lncRNA as ceRNA in pulmonary fibrosis</article-title>. <source xml:lang="en">Journal of Cellular and Molecular Medicine</source>, <volume>18</volume>, <fpage>991</fpage>&#x02013;<lpage>1003</lpage>. <pub-id pub-id-type="doi">10.1111/jcmm.12243</pub-id>
+<pub-id pub-id-type="pmid">24702795</pub-id></mixed-citation></ref><ref id="phy214343-bib-0048"><mixed-citation publication-type="journal" id="phy214343-cit-0048">
+<string-name>
+<surname>Sun</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Integrated long non&#x02010;coding RNA analyses identify novel regulators of epithelial&#x02010;mesenchymal transition in the mouse model of pulmonary fibrosis</article-title>. <source xml:lang="en">Journal of Cellular and Molecular Medicine</source>, <volume>20</volume>(<issue>7</issue>), <fpage>1234</fpage>&#x02013;<lpage>1246</lpage>. <pub-id pub-id-type="doi">10.1111/jcmm.12783</pub-id>
+<pub-id pub-id-type="pmid">26824344</pub-id></mixed-citation></ref><ref id="phy214343-bib-0049"><mixed-citation publication-type="journal" id="phy214343-cit-0049">
+<string-name>
+<surname>Sun</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Tripathi</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Yoon</surname>, <given-names>J.&#x02010;H.</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>, <given-names>D. K.</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Min</surname>, <given-names>K.&#x02010;W.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Prasanth</surname>, <given-names>K. V.</given-names>
+</string-name> (<year>2018</year>). <article-title>MIR100 host gene&#x02010;encoded lncRNAs regulate cell cycle by modulating the interaction between HuR and its target mRNAs</article-title>. <source xml:lang="en">Nucleic Acids Research</source>, <volume>46</volume>, <fpage>10405</fpage>&#x02013;<lpage>10416</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gky696</pub-id>
+<pub-id pub-id-type="pmid">30102375</pub-id></mixed-citation></ref><ref id="phy214343-bib-0050"><mixed-citation publication-type="journal" id="phy214343-cit-0050">
+<string-name>
+<surname>Sweetwyne</surname>, <given-names>M. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Murphy&#x02010;Ullrich</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>2012</year>). <article-title>Thrombospondin1 in tissue repair and fibrosis: TGF&#x02010;&#x003b2;&#x02010;dependent and independent mechanisms</article-title>. <source xml:lang="en">Matrix Biology</source>, <volume>31</volume>, <fpage>178</fpage>&#x02013;<lpage>186</lpage>.<pub-id pub-id-type="pmid">22266026</pub-id></mixed-citation></ref><ref id="phy214343-bib-0051"><mixed-citation publication-type="journal" id="phy214343-cit-0051">
+<string-name>
+<surname>Thannickal</surname>, <given-names>V. J.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>D. Y.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>E. S.</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Larios</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Chacon</surname>, <given-names>R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Thomas</surname>, <given-names>P. E.</given-names>
+</string-name> (<year>2003</year>). <article-title>Myofibroblast differentiation by transforming growth factor&#x02010;&#x003b2;1 is dependent on cell adhesion and integrin signaling via focal adhesion kinase</article-title>. <source xml:lang="en">Journal of Biological Chemistry</source>, <volume>278</volume>, <fpage>12384</fpage>&#x02013;<lpage>12389</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.M208544200</pub-id>
+<pub-id pub-id-type="pmid">12531888</pub-id></mixed-citation></ref><ref id="phy214343-bib-0052"><mixed-citation publication-type="journal" id="phy214343-cit-0052">
+<string-name>
+<surname>Tinton</surname>, <given-names>S. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Buc&#x02010;Calderon</surname>, <given-names>P. M.</given-names>
+</string-name> (<year>1999</year>). <article-title>Hypoxia increases the association of 4E&#x02010;binding protein 1 with the initiation factor 4E in isolated rat hepatocytes</article-title>. <source xml:lang="en">FEBS Letters</source>, <volume>446</volume>, <fpage>55</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1016/S0014-5793(99)00185-4</pub-id>
+<pub-id pub-id-type="pmid">10100614</pub-id></mixed-citation></ref><ref id="phy214343-bib-0053"><mixed-citation publication-type="journal" id="phy214343-cit-0053">
+<string-name>
+<surname>Tzouvelekis</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Harokopos</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Paparountas</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Oikonomou</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Chatziioannou</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vilaras</surname>, <given-names>G.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Aidinis</surname>, <given-names>V.</given-names>
+</string-name> (<year>2007</year>). <article-title>Comparative expression profiling in pulmonary fibrosis suggests a role of hypoxia&#x02010;inducible factor&#x02010;1alpha in disease pathogenesis</article-title>. <source xml:lang="en">American Journal of Respiratory and Critical Care Medicine</source>, <volume>176</volume>, <fpage>1108</fpage>&#x02013;<lpage>1119</lpage>. <pub-id pub-id-type="doi">10.1164/rccm.200705-683oc</pub-id>
+<pub-id pub-id-type="pmid">17761615</pub-id></mixed-citation></ref><ref id="phy214343-bib-0054"><mixed-citation publication-type="journal" id="phy214343-cit-0054">
+<string-name>
+<surname>Ueno</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Maeno</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nomura</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Aoyagi&#x02010;Ikeda</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Matsui</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hara</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Kurabayashi</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>). <article-title>Hypoxia&#x02010;inducible factor&#x02010;1alpha mediates TGF&#x02010;beta&#x02010;induced PAI&#x02010;1 production in alveolar macrophages in pulmonary fibrosis</article-title>. <source xml:lang="en">American Journal of Physiology Lung Cellular and Molecular Physiology</source>, <volume>300</volume>, <fpage>L740</fpage>&#x02013;<lpage>L752</lpage>. <pub-id pub-id-type="doi">10.1152/ajplung.00146.2010</pub-id>
+<pub-id pub-id-type="pmid">21239537</pub-id></mixed-citation></ref><ref id="phy214343-bib-0055"><mixed-citation publication-type="journal" id="phy214343-cit-0055">
+<string-name>
+<surname>Vance</surname>, <given-names>K. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ponting</surname>, <given-names>C. P.</given-names>
+</string-name> (<year>2014</year>). <article-title>Transcriptional regulatory functions of nuclear long noncoding RNAs</article-title>. <source xml:lang="en">Trends in Genetics</source>, <volume>30</volume>, <fpage>348</fpage>&#x02013;<lpage>355</lpage>. <pub-id pub-id-type="doi">10.1016/j.tig.2014.06.001</pub-id>
+<pub-id pub-id-type="pmid">24974018</pub-id></mixed-citation></ref><ref id="phy214343-bib-0056"><mixed-citation publication-type="journal" id="phy214343-cit-0056">
+<string-name>
+<surname>Webber</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jenkins</surname>, <given-names>R. H.</given-names>
+</string-name>, <string-name>
+<surname>Meran</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Steadman</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>). <article-title>Modulation of TGFbeta1&#x02010;dependent myofibroblast differentiation by hyaluronan</article-title>. <source xml:lang="en">The American Journal of Pathology</source>, <volume>175</volume>, <fpage>148</fpage>&#x02013;<lpage>160</lpage>. <pub-id pub-id-type="doi">10.2353/ajpath.2009.080837</pub-id>
+<pub-id pub-id-type="pmid">19541937</pub-id></mixed-citation></ref><ref id="phy214343-bib-0057"><mixed-citation publication-type="journal" id="phy214343-cit-0057">
+<string-name>
+<surname>Wilusz</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Sunwoo</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Spector</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>2009</year>). <article-title>Long noncoding RNAs: Functional surprises from the RNA world</article-title>. <source xml:lang="en">Genes and Development</source>, <volume>23</volume>, <fpage>1494</fpage>&#x02013;<lpage>1504</lpage>. <pub-id pub-id-type="doi">10.1101/gad.1800909</pub-id>
+<pub-id pub-id-type="pmid">19571179</pub-id></mixed-citation></ref><ref id="phy214343-bib-0058"><mixed-citation publication-type="journal" id="phy214343-cit-0058">
+<string-name>
+<surname>Winterling</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Koch</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Koeppel</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Alcalde</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Karlas</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Meyer</surname>, <given-names>T. F.</given-names>
+</string-name> (<year>2014</year>). <article-title>Evidence for a crucial role of a host non&#x02010;coding RNA in influenza A virus replication</article-title>. <source xml:lang="en">RNA Biology</source>, <volume>11</volume>, <fpage>66</fpage>&#x02013;<lpage>75</lpage>. <pub-id pub-id-type="doi">10.4161/rna.27504</pub-id>
+<pub-id pub-id-type="pmid">24440876</pub-id></mixed-citation></ref><ref id="phy214343-bib-0059"><mixed-citation publication-type="journal" id="phy214343-cit-0059">
+<string-name>
+<surname>Xu</surname>, <given-names>T.&#x02010;P.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>M.&#x02010;D.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>X.&#x02010;X.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>De</surname>, <given-names>W.</given-names>
+</string-name> (<year>2014</year>). <article-title>and Shu Y&#x02010;q. Decreased expression of the long non&#x02010;coding RNA FENDRR is associated with poor prognosis in gastric cancer and FENDRR regulates gastric cancer cell metastasis by affecting fibronectin1 expression</article-title>. <source xml:lang="en">Journal of Hematology and Oncology</source>, <volume>7</volume>, <fpage>63</fpage>
+<pub-id pub-id-type="doi">10.1186/s13045-014-0063-7</pub-id>
+<pub-id pub-id-type="pmid">25167886</pub-id></mixed-citation></ref><ref id="phy214343-bib-0060"><mixed-citation publication-type="journal" id="phy214343-cit-0060">
+<string-name>
+<surname>Yi</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jiang</surname>, <given-names>X.</given-names>
+</string-name> (<year>2014</year>). <article-title>Hepatocyte growth factor regulates the TGF&#x02010;&#x003b2;1&#x02010;induced proliferation, differentiation and secretory function of cardiac fibroblasts</article-title>. <source xml:lang="en">International Journal of Molecular Medicine</source>, <volume>34</volume>, <fpage>381</fpage>&#x02013;<lpage>390</lpage>. <pub-id pub-id-type="doi">10.3892/ijmm.2014.1782</pub-id>
+<pub-id pub-id-type="pmid">24840640</pub-id></mixed-citation></ref><ref id="phy214343-bib-0061"><mixed-citation publication-type="journal" id="phy214343-cit-0061">
+<string-name>
+<surname>Zank</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name>
+<surname>Bueno</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mora</surname>, <given-names>A. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rojas</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Idiopathic pulmonary fibrosis: aging, mitochondrial dysfunction, and cellular bioenergetics</article-title>. <source xml:lang="en">Frontiers in Medicine</source>, <volume>5</volume>, <fpage>10</fpage>
+<pub-id pub-id-type="doi">10.3389/fmed.2018.00010</pub-id>
+<pub-id pub-id-type="pmid">29459894</pub-id></mixed-citation></ref><ref id="phy214343-bib-0062"><mixed-citation publication-type="journal" id="phy214343-cit-0062">
+<string-name>
+<surname>Zelzer</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kahana</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Shilo</surname>, <given-names>B. Z.</given-names>
+</string-name>, <string-name>
+<surname>Rubinstein</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cohen</surname>, <given-names>B.</given-names>
+</string-name> (<year>1998</year>). <article-title>Insulin induces transcription of target genes through the hypoxia&#x02010;inducible factor HIF&#x02010;1alpha/ARNT</article-title>. <source xml:lang="en">The EMBO Journal</source>, <volume>17</volume>, <fpage>5085</fpage>&#x02013;<lpage>5094</lpage>. <pub-id pub-id-type="doi">10.1093/emboj/17.17.5085</pub-id>
+<pub-id pub-id-type="pmid">9724644</pub-id></mixed-citation></ref><ref id="phy214343-bib-0063"><mixed-citation publication-type="journal" id="phy214343-cit-0063">
+<string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Akman</surname>, <given-names>H. O.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>E. L.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Murphy&#x02010;Ullrich</surname>, <given-names>J. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Batuman</surname>, <given-names>O. A.</given-names>
+</string-name> (<year>2003</year>). <article-title>Cellular response to hypoxia involves signaling via Smad proteins</article-title>. <source xml:lang="en">Blood</source>, <volume>101</volume>, <fpage>2253</fpage>&#x02013;<lpage>2260</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2002-02-0629</pub-id>
+<pub-id pub-id-type="pmid">12411310</pub-id></mixed-citation></ref><ref id="phy214343-bib-0064"><mixed-citation publication-type="journal" id="phy214343-cit-0064">
+<string-name>
+<surname>Zhang</surname>, <given-names>J.&#x02010;Z.</given-names>
+</string-name>, <string-name>
+<surname>Behrooz</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ismail&#x02010;Beigi</surname>, <given-names>F.</given-names>
+</string-name> (<year>1999</year>). <article-title>Regulation of glucose transport by hypoxia</article-title>. <source xml:lang="en">American Journal of Kidney Diseases</source>, <volume>34</volume>, <fpage>189</fpage>&#x02013;<lpage>202</lpage>. <pub-id pub-id-type="doi">10.1016/S0272-6386(99)70131-9</pub-id>
+<pub-id pub-id-type="pmid">10401038</pub-id></mixed-citation></ref><ref id="phy214343-bib-0065"><mixed-citation publication-type="journal" id="phy214343-cit-0065">
+<string-name>
+<surname>Zheng</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Krishnan</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Zou</surname>, <given-names>A. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ongkeko</surname>, <given-names>W. M.</given-names>
+</string-name> (<year>2016</year>). <article-title>The role of long noncoding RNA FOXF1&#x02010;AS1 as a tumor suppressor in non&#x02010;small cell lung cancer</article-title>. <source xml:lang="en">Translational Cancer Research</source>, <volume>5</volume>, <fpage>S1440</fpage>&#x02013;<lpage>S1442</lpage>. <pub-id pub-id-type="doi">10.21037/tcr.2016.12.46</pub-id>
+</mixed-citation></ref><ref id="phy214343-bib-0066"><mixed-citation publication-type="journal" id="phy214343-cit-0066">
+<string-name>
+<surname>Zhou</surname>, <given-names>W.&#x02010;Q.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>, <given-names>Q.&#x02010;P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Lipopolysaccharide promotes pulmonary fibrosis in acute respiratory distress syndrome (ARDS) via lincRNA&#x02010;p21 induced inhibition of Thy&#x02010;1 expression</article-title>. <source xml:lang="en">Molecular and Cellular Biochemistry</source>, <volume>419</volume>, <fpage>19</fpage>&#x02013;<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1007/s11010-016-2745-7</pub-id>
+<pub-id pub-id-type="pmid">27392907</pub-id></mixed-citation></ref></ref-list></back></article>

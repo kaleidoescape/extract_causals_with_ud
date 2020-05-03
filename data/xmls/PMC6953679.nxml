@@ -1,0 +1,1053 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938489</article-id><article-id pub-id-type="pmc">6953679</article-id><article-id pub-id-type="doi">10.1002/ece3.5825</article-id><article-id pub-id-type="publisher-id">ECE35825</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Seminal fluid&#x02010;mediated fitness effects in the simultaneously hermaphroditic flatworm <italic>Macrostomum lignano</italic>
+</article-title><alt-title alt-title-type="left-running-head">WEBER et al.</alt-title></title-group><contrib-group><contrib id="ece35825-cr-0001" contrib-type="author" corresp="yes"><name><surname>Weber</surname><given-names>Michael</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2545-4370</contrib-id><xref ref-type="aff" rid="ece35825-aff-0001">
+<sup>1</sup>
+</xref><address><email>michael.weber1@uni-bielefeld.de</email></address></contrib><contrib id="ece35825-cr-0002" contrib-type="author"><name><surname>Giannakara</surname><given-names>Athina</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4132-6643</contrib-id><xref ref-type="aff" rid="ece35825-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35825-cr-0003" contrib-type="author"><name><surname>Ramm</surname><given-names>Steven A.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7786-7364</contrib-id><xref ref-type="aff" rid="ece35825-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ece35825-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Evolutionary Biology</named-content>
+<institution>Bielefeld University</institution>
+<city>Bielefeld</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Michael Weber, Department of Evolutionary Biology, Bielefeld University, Konsequenz 45, 33615 Bielefeld, Germany.<break/>
+Email: <email>michael.weber1@uni-bielefeld.de</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>13889</fpage><lpage>13901</lpage><history><date date-type="received"><day>04</day><month>10</month><year>2019</year></date><date date-type="rev-recd"><day>17</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>18</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-13889.pdf"/><abstract id="ece35825-abs-0001"><title>Abstract</title><p>As a class, seminal fluid proteins are expected to exert strong effects on mating partners due to the selection pressures of sperm competition and sexual conflict. But because of the complexity of this secretion, linking specific proteins to downstream effects on own fitness&#x02014;via manipulating the reproductive behavior, physiology, and ultimately the sperm utilization of mating partners&#x02014;is not straightforward. Here, we adopted a systematic gene knockdown approach to screen for seminal fluid&#x02010;mediated fitness effects in the simultaneously hermaphroditic flatworm <italic>Macrostomum lignano</italic>. We focused on 18 transcripts in <italic>M.&#x000a0;lignano</italic> seminal fluid, testing how their RNA interference&#x02010;induced knockdown impacted on three aspects of donor (male) reproductive success: (a) fertility (offspring production of the partner); (b) defensive sperm competitive ability, <italic>P</italic>
+<sub>1</sub>; and (c) offensive sperm competitive ability, <italic>P</italic>
+<sub>2</sub>. In general, the knockdown of most individual transcripts appeared to have only a minor impact on male reproductive success, though we found evidence that the knockdown of up to five different transcripts impacted on fertility; the knockdown of two other transcripts resulted in reduced <italic>P</italic>
+<sub>2</sub>; and knockdown of a further transcript actually increased <italic>P</italic>
+<sub>2</sub>. We thus identify a number of candidate seminal fluid transcripts that appear to modulate offspring production and sperm competitiveness in <italic>M.&#x000a0;lignano</italic>. That only a minority of transcripts exhibit such a pattern likely reflects both the difficulty of accurately estimating sperm competitiveness and the functional redundancy of seminal fluid.</p></abstract><abstract abstract-type="graphical" id="ece35825-abs-0002"><p>We identify a number of candidate seminal fluid transcripts that appear to modulate offspring production and sperm competitiveness in the simultaneously hermaphroditic flatworm <italic>Macrostomum lignano</italic>. That only a minority of transcripts exhibit such a pattern likely reflects both the difficulty of accurately estimating sperm competitiveness and the functional redundancy of seminal fluid.<boxed-text position="anchor" content-type="graphic" id="ece35825-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-13889-g003.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35825-kwd-0001">male&#x02013;male competition</kwd><kwd id="ece35825-kwd-0002">multiple mating</kwd><kwd id="ece35825-kwd-0003">seminal fluid</kwd><kwd id="ece35825-kwd-0004">sexual selection</kwd><kwd id="ece35825-kwd-0005">sperm competition</kwd><kwd id="ece35825-kwd-0006">sperm precedence</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Deutsche Forschungsgemeinschaft </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001659</institution-id></institution-wrap></funding-source><award-id>RA 2468/1&#x02010;1</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="1"/><page-count count="13"/><word-count count="11472"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35825-cit-1001">
+<string-name>
+<surname>Weber</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Giannakara</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ramm</surname>
+<given-names>SA</given-names>
+</string-name>. <article-title>Seminal fluid&#x02010;mediated fitness effects in the simultaneously hermaphroditic flatworm <italic>Macrostomum lignano</italic>
+</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>13889</fpage>&#x02013;<lpage>13901</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5825</pub-id>
+</mixed-citation>
+</p><fn-group id="ece35825-ntgp-0001"><fn fn-type="funding" id="ece35825-note-0001"><p>
+<bold>Funding information</bold>
+</p><p>This work was supported by the German Research Foundation (DFG) grant RA 2468/1&#x02010;1 to SAR.</p></fn></fn-group></notes></front><body id="ece35825-body-0001"><sec id="ece35825-sec-0001"><label>1</label><title>INTRODUCTION</title><p>In animals with internal fertilization, not only sperm but also a complex mixture of additional male&#x02010;derived substances&#x02014;known collectively as seminal fluid&#x02014;is transferred to the female reproductive tract during insemination (Poiani, <xref rid="ece35825-bib-0065" ref-type="ref">2006</xref>). The seminal fluid proteins (SFPs; also referred to as accessory gland proteins (ACPs) or male accessory gland (MAG) proteins in other species) found in this secretion play a crucial role in reproduction and can affect the behavior and/or physiology of a partner who receives them, thereby influencing both male and female reproductive success (reviewed in: Avila, Sirot, Laflamme, Rubinstein, &#x00026; Wolfner, <xref rid="ece35825-bib-0005" ref-type="ref">2011</xref>; Chapman, <xref rid="ece35825-bib-0010" ref-type="ref">2001</xref>; Hopkins, Sepil, &#x00026; Wigby, <xref rid="ece35825-bib-0037" ref-type="ref">2017</xref>; Sirot, Wong, Chapman, &#x00026; Wolfner, <xref rid="ece35825-bib-0087" ref-type="ref">2015</xref>). From a male perspective, SFPs likely affect both the ability of an individual's ejaculate to resist displacement by a second male's ejaculate (defensive sperm competitive ability, usually measured as paternity share as the first to mate, <italic>P</italic>
+<sub>1</sub>) and/or to induce displacement of a previous male's ejaculate (offensive sperm competitive ability, measured as paternity share as the second to mate, <italic>P</italic>
+<sub>2</sub>; Boorman &#x00026; Parker, <xref rid="ece35825-bib-0008" ref-type="ref">1976</xref>; Clark, Begun, &#x00026; Prout, <xref rid="ece35825-bib-0017" ref-type="ref">1999</xref>; Parker, <xref rid="ece35825-bib-0062" ref-type="ref">1970</xref>).</p><p>Seminal fluid could mediate sperm competitive ability through multiple mechanisms. Some SFPs play important roles in nourishing and activating the sperm themselves (Mann &#x00026; Lutwak&#x02010;Mann, <xref rid="ece35825-bib-0052" ref-type="ref">1982</xref>). Other SFPs influence&#x02014;either independently of, or in association with, sperm (Peng et al., <xref rid="ece35825-bib-0063" ref-type="ref">2005</xref>)&#x02014;subsequent female physiology and behavior in various ways (reviewed in: Avila et al., <xref rid="ece35825-bib-0005" ref-type="ref">2011</xref>; Hopkins et al., <xref rid="ece35825-bib-0037" ref-type="ref">2017</xref>; Poiani, <xref rid="ece35825-bib-0065" ref-type="ref">2006</xref>; Sirot et al., <xref rid="ece35825-bib-0087" ref-type="ref">2015</xref>). A frequent effect of SFPs reported among female insects is, for example, an increase in egg production, ovulation, and/or egg&#x02010;laying rates (Avila et al., <xref rid="ece35825-bib-0005" ref-type="ref">2011</xref>; Gillott, <xref rid="ece35825-bib-0027" ref-type="ref">2003</xref>; Poiani, <xref rid="ece35825-bib-0065" ref-type="ref">2006</xref>; Ram &#x00026; Wolfner, <xref rid="ece35825-bib-0070" ref-type="ref">2007a</xref>). Other SFPs exert their effects via modulating sperm storage. For example, in <italic>Drosophila</italic>, Acp36DE is required for efficient storage of sperm (Neubaum &#x00026; Wolfner, <xref rid="ece35825-bib-0060" ref-type="ref">1999</xref>; Qazi, <xref rid="ece35825-bib-0067" ref-type="ref">2003</xref>) and because females mated to males lacking Acp36DE store fewer sperm than mates of normal males, Acp36DE&#x02010;null males achieve significantly fewer fertilizations as second males following double matings (Chapman, Neubaum, Wolfner, &#x00026; Partridge, <xref rid="ece35825-bib-0013" ref-type="ref">2000</xref>). Also in <italic>Drosophila melanogaster</italic>, ejaculate receipt changes female behavior such that mated females actively reject courting males; the SFP sex peptide plays a central role in inducing this change (Chapman et al., <xref rid="ece35825-bib-0011" ref-type="ref">2003</xref>; H&#x000e4;semeyer, Yapici, Heberlein, &#x00026; Dickson, <xref rid="ece35825-bib-0033" ref-type="ref">2009</xref>; Liu &#x00026; Kubli, <xref rid="ece35825-bib-0050" ref-type="ref">2003</xref>; Ram &#x00026; Wolfner, <xref rid="ece35825-bib-0072" ref-type="ref">2009</xref>; Yang et al., <xref rid="ece35825-bib-0102" ref-type="ref">2009</xref>; Yapici, Kim, Ribeiro, &#x00026; Dickson, <xref rid="ece35825-bib-0103" ref-type="ref">2008</xref>).</p><p>Because SFPs and other molecules in seminal fluid can profoundly affect the behavior and/or physiology of the female who receives them, ultimately influencing male reproductive success through differential sperm competitive ability, SFPs are important targets of sexual selection (Cameron, Day, &#x00026; Rowe, <xref rid="ece35825-bib-0009" ref-type="ref">2007</xref>; Chapman, <xref rid="ece35825-bib-0010" ref-type="ref">2001</xref>; Hodgson &#x00026; Hosken, <xref rid="ece35825-bib-0035" ref-type="ref">2006</xref>; Poiani, <xref rid="ece35825-bib-0065" ref-type="ref">2006</xref>; Ram &#x00026; Wolfner, <xref rid="ece35825-bib-0070" ref-type="ref">2007a</xref>) and mediators of sexual conflict (Arnqvist &#x00026; Rowe, <xref rid="ece35825-bib-0003" ref-type="ref">2005</xref>; Chapman et al., <xref rid="ece35825-bib-0012" ref-type="ref">1995</xref>; Sirot et al., <xref rid="ece35825-bib-0087" ref-type="ref">2015</xref>). This likely also explains their often rapid adaptive evolution (Andr&#x000e9;s et al., <xref rid="ece35825-bib-0001" ref-type="ref">2006</xref>; Clark, Aguade, Prout, Harshman, &#x00026; Langley, <xref rid="ece35825-bib-0015" ref-type="ref">1995</xref>; Clark, Aagaard, &#x00026; Swanson, <xref rid="ece35825-bib-0018" ref-type="ref">2006</xref>; Clark &#x00026; Swanson, <xref rid="ece35825-bib-0019" ref-type="ref">2005</xref>; Haerty et al., <xref rid="ece35825-bib-0031" ref-type="ref">2007</xref>; Ramm, Oliver, Ponting, Stockley, &#x00026; Emes, <xref rid="ece35825-bib-0074" ref-type="ref">2008</xref>; Swanson, Clark, Waldrip&#x02010;Dail, Wolfner, &#x00026; Aquadro, <xref rid="ece35825-bib-0089" ref-type="ref">2001</xref>). One consequence of this is that it can be difficult to identify SFP homology between species and there are likely to be many lineage&#x02010;specific functions (Clark et al., <xref rid="ece35825-bib-0018" ref-type="ref">2006</xref>; Clark &#x00026; Swanson, <xref rid="ece35825-bib-0019" ref-type="ref">2005</xref>; Haerty et al., <xref rid="ece35825-bib-0031" ref-type="ref">2007</xref>; Swanson et al., <xref rid="ece35825-bib-0089" ref-type="ref">2001</xref>; Swanson &#x00026; Vacquier, <xref rid="ece35825-bib-0090" ref-type="ref">2002</xref>), although the major protein classes found in SFPs are conserved between taxa as distantly related as insects and mammals (Mueller, Ripoll, Aquadro, &#x00026; Wolfner, <xref rid="ece35825-bib-0058" ref-type="ref">2004</xref>).</p><p>In order to functionally characterize seminal fluid, previous studies have often sought either to artificially inject and monitor female responses to specific proteins (e.g., Kingan, Thomas&#x02010;Laemont, &#x00026; Raina, <xref rid="ece35825-bib-0042" ref-type="ref">1993</xref>; Koene et al., <xref rid="ece35825-bib-0043" ref-type="ref">2010</xref>; Nakadera et al., <xref rid="ece35825-bib-0059" ref-type="ref">2014</xref>; Shutt, Stables, Aboagye&#x02010;Antwi, Moran, &#x00026; Tripet, <xref rid="ece35825-bib-0085" ref-type="ref">2010</xref>; Takami, Sasabe, Nagata, &#x00026; Sota, <xref rid="ece35825-bib-0091" ref-type="ref">2008</xref>; Wigby &#x00026; Chapman, <xref rid="ece35825-bib-0097" ref-type="ref">2005</xref>; Yamane, Miyatake, &#x00026; Kimura, <xref rid="ece35825-bib-0101" ref-type="ref">2008</xref>) or else to genetically modify males such that naturally transferred ejaculates are missing specific SFPs (e.g., Chapman et al., <xref rid="ece35825-bib-0013" ref-type="ref">2000</xref>; Herndon &#x00026; Wolfner, <xref rid="ece35825-bib-0034" ref-type="ref">1995</xref>; Liu &#x00026; Kubli, <xref rid="ece35825-bib-0050" ref-type="ref">2003</xref>; Mueller, Linklater, Ram, Chapman, &#x00026; Wolfner, <xref rid="ece35825-bib-0057" ref-type="ref">2008</xref>; Neubaum &#x00026; Wolfner, <xref rid="ece35825-bib-0060" ref-type="ref">1999</xref>; Peng et al., <xref rid="ece35825-bib-0063" ref-type="ref">2005</xref>; Qazi, <xref rid="ece35825-bib-0067" ref-type="ref">2003</xref>; Wong et al., <xref rid="ece35825-bib-0098" ref-type="ref">2008</xref>). Unfortunately, it is not always possible to collect or manipulate whole ejaculates, or to create transgenic animals missing specific SFPs, especially in nonmodel organisms. These constraints can, however, largely be overcome with the use of RNA interference (RNAi) technology to induce targeted suppression of gene expression. RNAi has enabled researchers to identify the mechanisms underlying a range of SFP&#x02010;mediated physiological traits, including egg production, sexual receptivity to remating and sperm storage in, for example, <italic>Drosophila</italic> (Chapman et al., <xref rid="ece35825-bib-0011" ref-type="ref">2003</xref>; Ram &#x00026; Wolfner, <xref rid="ece35825-bib-0071" ref-type="ref">2007b</xref>; Sirot et al., <xref rid="ece35825-bib-0086" ref-type="ref">2009</xref>; Sitnik, Gligorov, Maeda, Karch, &#x00026; Wolfner, <xref rid="ece35825-bib-0088" ref-type="ref">2016</xref>), crickets (Marshall et al., <xref rid="ece35825-bib-0056" ref-type="ref">2009</xref>), and beetles (Xu, Baulding, &#x00026; Palli, <xref rid="ece35825-bib-0100" ref-type="ref">2013</xref>). <italic>Drosophila melanogaster</italic> females mated to sex peptide knockdown males were significantly more receptive and laid and ovulated significantly fewer eggs than did mates of control males (Chapman et al., <xref rid="ece35825-bib-0011" ref-type="ref">2003</xref>). Females mated to CG10586 knockdown males showed a lower level of egg laying and higher rates of sexual receptivity to subsequent males (LaFlamme, Ravi Ram, &#x00026; Wolfner, <xref rid="ece35825-bib-0046" ref-type="ref">2012</xref>). In the cricket <italic>Allonemobius socius</italic>, EJAC&#x02010;SP knockdown males had a reduced ability to induce a female to lay eggs (Marshall et al., <xref rid="ece35825-bib-0056" ref-type="ref">2009</xref>), and in the red flour beetle, <italic>Tribolium castaneum</italic>, knockdown of an angiotensin&#x02010;converting enzyme in seminal fluid reduced egg production by mated females (Xu et al., <xref rid="ece35825-bib-0100" ref-type="ref">2013</xref>).</p><p>In this study, we sought to use RNAi to test for SFP&#x02010;mediated effects on reproduction in the simultaneously hermaphroditic flatworm <italic>Macrostomum lignano</italic> (Figure <xref rid="ece35825-fig-0001" ref-type="fig">1</xref>). This species is a promising model organism in which to extend the taxonomic range of seminal fluid studies both because it is a simultaneous hermaphrodite&#x02014;which might create unique targets of seminal fluid action (Charnov, <xref rid="ece35825-bib-0014" ref-type="ref">1979</xref>; Sch&#x000e4;rer, Janicke, &#x00026; Ramm, <xref rid="ece35825-bib-0078" ref-type="ref">2015</xref>; Sch&#x000e4;rer &#x00026; Ramm, <xref rid="ece35825-bib-0082" ref-type="ref">2016</xref>) such as change of partners resource allocation to the male and female sex functions or the amount of sperm a recipient transfers in its next mating (Nakadera et al., <xref rid="ece35825-bib-0059" ref-type="ref">2014</xref>)&#x02014;and due to useful biological features such as its transparency, which enables the in vivo observation of relevant reproductive traits such as gonad size or the quantification of received sperm (Marie&#x02010;Orleach, Janicke, Vizoso, David, &#x00026; Sch&#x000e4;rer, <xref rid="ece35825-bib-0054" ref-type="ref">2016</xref>; Marie&#x02010;Orleach, Janicke, Vizoso, Eichmann, &#x00026; Sch&#x000e4;rer, <xref rid="ece35825-bib-0055" ref-type="ref">2014</xref>; Sch&#x000e4;rer &#x00026; Ladurner, <xref rid="ece35825-bib-0080" ref-type="ref">2003</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35825-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Simultaneously hermaphroditic flatworm <italic>Macrostomum lignano</italic>
+</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-13889-g001"/></fig><p>Although the complement of seminal fluid proteins in <italic>M.&#x000a0;lignano</italic> has only just been characterized (Weber et al., <xref rid="ece35825-bib-0096" ref-type="ref">2018</xref>), there are already some indications for potential effects of SFPs. Specifically, previous work indicates that individuals mated to virgin partners (which presumably transfer bigger ejaculates containing more sperm and/or SFPs than do recently mated &#x0201c;SFP&#x02010;depleted&#x0201d; individuals due to having larger seminal vesicles and more stored seminal fluid than recently mated individuals) exhibited a lower frequency of the so&#x02010;called suck behavior (Marie&#x02010;Orleach, Janicke, &#x00026; Sch&#x000e4;rer, <xref rid="ece35825-bib-0053" ref-type="ref">2013</xref>). A similar reduction in postmating responses was shown for <italic>Drosophila</italic> females which were mated to SFP&#x02010;depleted males (Linklater, Wertheim, Wigby, &#x00026; Chapman, <xref rid="ece35825-bib-0049" ref-type="ref">2007</xref>; Sirot et al., <xref rid="ece35825-bib-0086" ref-type="ref">2009</xref>). The postmating&#x000a0;&#x0201c;suck&#x0201d; response of worms to ejaculate receipt&#x02014;during which the individual places its pharynx over its own female genital opening and appears to attempt to suck out its contents&#x02014;is proposed to function to remove either the sperm or SFPs previously received during copulation (Sch&#x000e4;rer, Joss, &#x00026; Sandner, <xref rid="ece35825-bib-0079" ref-type="ref">2004</xref>; Scharer, Littlewood, Waeschenbach, Yoshida, &#x00026; Vizoso, <xref rid="ece35825-bib-0081" ref-type="ref">2011</xref>; Vizoso, Rieger, &#x00026; Sch&#x000e4;rer, <xref rid="ece35825-bib-0095" ref-type="ref">2010</xref>). Another recent study showed that individuals with a higher testis investment sire a higher proportion of offspring under sperm competition than do individuals with lower testis investment (Vellnow, Marie&#x02010;Orleach, Zadesenets, &#x00026; Sch&#x000e4;rer, <xref rid="ece35825-bib-0094" ref-type="ref">2018</xref>). Because increased testis investment in high mating environments is accompanied also by an increase in SFP transcript expression (Ramm et al., <xref rid="ece35825-bib-0073" ref-type="ref">2019</xref>), this effect could be partially mediated through seminal fluid though of course it may be largely explained by differences in sperm numbers (Sekii et al., <xref rid="ece35825-bib-0084" ref-type="ref">2013</xref>; Vellnow et al., <xref rid="ece35825-bib-0094" ref-type="ref">2018</xref>) in this competitive scenario. We here aimed to provide a more direct test for seminal fluid&#x02010;mediated fitness effects in <italic>M.&#x000a0;lignano</italic>, by screening 18 putative SFPs, identified by in situ hybridization screening for prostate&#x02010;limited expression (Weber et al., <xref rid="ece35825-bib-0096" ref-type="ref">2018</xref>), for the effects of RNAi&#x02010;induced knockdown on both fertility (measured as the offspring production of mating partners) and defensive and offensive aspects of sperm competitive ability.</p></sec><sec sec-type="methods" id="ece35825-sec-0002"><label>2</label><title>METHODS</title><sec id="ece35825-sec-0003"><label>2.1</label><title>Study organism and experimental subjects</title><p>The free&#x02010;living flatworm <italic>M.&#x000a0;lignano</italic> is an outcrossing simultaneous hermaphrodite found in the Northern Adriatic Sea and Eastern Mediterranean (Ladurner, Sch&#x000e4;rer, Salvenmoser, &#x00026; Rieger, <xref rid="ece35825-bib-0045" ref-type="ref">2005</xref>; Zadesenets et al., <xref rid="ece35825-bib-0104" ref-type="ref">2016</xref>). As adults, the worms reach ca. 1.5&#x000a0;mm in body length and the paired male and female gonads lay along the body axis on either side of a central gut. The male and female genital organs are located in the posterior part of the worms, and the former includes the prostate gland cells where seminal fluid is produced (Hyman, <xref rid="ece35825-bib-0038" ref-type="ref">1951</xref>; Weber et al., <xref rid="ece35825-bib-0096" ref-type="ref">2018</xref>). The worms are kept in cultures in glass petri dishes filled with artificial seawater (ASW, 32&#x02030;) or nutrient&#x02010;enriched artificial seawater (Guillard's f/2 medium; Guillard &#x00026; Ryther, <xref rid="ece35825-bib-0030" ref-type="ref">1962</xref>) and fed with diatoms (<italic>Nitzschia curvilineata</italic>). They are kept under standard conditions on a 14:10 light:dark cycle at 60% relative humidity and a constant temperature of 20&#x000b0;C. All the animals used in this experiment as knockdown/control donors and as recipients (see below) belonged to the highly inbred DV1 line (Janicke et al., <xref rid="ece35825-bib-0039" ref-type="ref">2013</xref>) that was previously used to identify putative seminal fluid candidates (Weber et al., <xref rid="ece35825-bib-0096" ref-type="ref">2018</xref>).</p><p>In this study, we needed to assign paternity to offspring of competing ejaculate donors (i.e., what would be competing males in separate&#x02010;sexed animals). To do so, we used as sperm competitors individuals from an outbred transgenic BAS1 line of <italic>M.&#x000a0;lignano</italic> that expresses GFP ubiquitously (Marie&#x02010;Orleach et al., <xref rid="ece35825-bib-0054" ref-type="ref">2016</xref>; Vellnow et al., <xref rid="ece35825-bib-0094" ref-type="ref">2018</xref>), such that in double&#x02010;mating trials, the resulting offspring could be unambiguously assigned as being sired by either the DV1 (GFP<sup>&#x02212;</sup>) or BAS1 (GFP<sup>+</sup>) worm (see also Janicke et al., <xref rid="ece35825-bib-0039" ref-type="ref">2013</xref>; Marie&#x02010;Orleach et al., <xref rid="ece35825-bib-0055" ref-type="ref">2014</xref>, which employed a GFP&#x02010;expressing inbred line [HUB1] for the same purpose). Offspring production, mating rate, and morphology were previously found not to differ significantly between GFP<sup>+</sup> and GFP<sup>&#x02212;</sup> individuals (Marie&#x02010;Orleach et al., <xref rid="ece35825-bib-0055" ref-type="ref">2014</xref>).</p><p>To reduce among&#x02010;individual variation due to age, we used closely age&#x02010;matched individuals in all experiments. For this, we transferred well&#x02010;fed adult individuals into glass petri dishes with ASW and ad libitum algae, and allowed individuals to lay eggs for 2&#x000a0;days before removing them again, ensuring the resulting hatchlings that we allocated as experimental subjects did not differ in age by more than 2&#x000a0;days. All animals used in the experiment were, at the day of their first mating trial, 60&#x000a0;&#x000b1;&#x000a0;1&#x000a0;days old.</p></sec><sec id="ece35825-sec-0004"><label>2.2</label><title>Selection of candidates and experimental design</title><p>Our study represents a &#x0201c;na&#x000ef;ve&#x0201d; screen for seminal fluid&#x02010;mediated fitness effects in a species for which we have no prior functional information on specific SFPs. There are also no sequence similarities to already known SFPs or other substances in better investigated species. Therefore, to prioritize SFP candidates for screening, we first selected them based on their phenotypic plasticity in gene expression investigated in a recent RNA&#x02010;Seq study (Ramm et al., <xref rid="ece35825-bib-0073" ref-type="ref">2019</xref>). We selected transcripts with prostate&#x02010;limited expression that exhibited markedly higher expression in an environment with a high sperm competition level (compared to isolated worms), on the basis that these might be more likely to play important roles in sperm competition. Second, the candidate list was refined based on the confirmed efficacy of RNAi knockdown verified by performing whole&#x02010;mount in situ hybridization (ISH) in preliminary experiments (data not shown). We thus investigated RNAi knockdown effects for Mlig&#x02010;pro4, 5, 7, 8, 10, 11, 13, 23, 28, 34, 35, 38, 46, 49, 54, 60, 63, and 69 (see Weber et al., <xref rid="ece35825-bib-0096" ref-type="ref">2018</xref> for details about nomenclature, but note that lower numbers represent transcripts with higher levels of overall expression in octets). All the SFPs investigated in this study exhibit bioinformatic evidence of being secreted and therefore of being transferred (Weber et al., <xref rid="ece35825-bib-0096" ref-type="ref">2018</xref>), though direct experimental confirmation of this is currently lacking.</p><p>For each RNAi/control treatment, we then conducted three separate assays with three separate batches of donor, competitor, and recipient worms, to measure (a) fertility, (b) defensive sperm competitive ability (<italic>P</italic>
+<sub>1</sub>), and (c) offensive sperm competitive ability (<italic>P</italic>
+<sub>2</sub>), respectively. Initially, worms in all three assays were treated identically, as described in the following three subsections. After the assays, the proper efficiency of transcript knockdowns in the RNAi donor worms was confirmed by ISH (see Figure <xref rid="ece35825-sup-0001" ref-type="supplementary-material">[Link]</xref>, <xref rid="ece35825-sup-0003" ref-type="supplementary-material">[Link]</xref>). ISH was performed according to Lengerer et al. (<xref rid="ece35825-bib-0047" ref-type="ref">2014</xref>). We could confirm for all 18 individual knockdowns a drastic decrease in expression (Figure <xref rid="ece35825-sup-0001" ref-type="supplementary-material">[Link]</xref>, <xref rid="ece35825-sup-0003" ref-type="supplementary-material">[Link]</xref>) but ISH does not permit us to quantify this precisely. We therefore cannot rule out the possibility that still a small amount of the respective SFP was produced and transferred.</p></sec><sec id="ece35825-sec-0005"><label>2.3</label><title>Raising conditions</title><p>Six to eight days posthatching, a batch of same&#x02010;age hatchlings was collected and distributed individually in wells of 24&#x02010;well tissue culture plates (TPP, Trasadingen, Switzerland) each filled with 1&#x000a0;ml of ASW and fed ad libitum with algae. Individuals were fed once per week with new algae. Recipient worms remained in the 24&#x02010;well tissue culture plates until they were used for the experiment (day 60). Donor worms (GFP<sup>+</sup> and GFP<sup>&#x02212;</sup>) remained in the 24&#x02010;well tissue culture plates until they underwent tail amputation (day 50, see below).</p></sec><sec id="ece35825-sec-0006"><label>2.4</label><title>RNA interference</title><p>RNAi was performed as previously described (Kuales et al., <xref rid="ece35825-bib-0044" ref-type="ref">2011</xref>). Briefly, for each of the 18 seminal fluid candidates, a double&#x02010;stranded RNA (dsRNA) probe was generated by an in vitro transcription system using primer pairs with T7 and SP6 promoter regions (T7 and SP6 Ribomax&#x02122; large&#x02010;scale RNA kit, Promega; see Table <xref rid="ece35825-sup-0002" ref-type="supplementary-material">[Link]</xref>, <xref rid="ece35825-sup-0003" ref-type="supplementary-material">[Link]</xref> for a list of primers). In addition, we used two control treatments (to control for dsRNA treatment effects) with either dsRNA for firefly luciferase (Arbore et al., <xref rid="ece35825-bib-0002" ref-type="ref">2015</xref>; Pfister et al., <xref rid="ece35825-bib-0064" ref-type="ref">2008</xref>; Sekii, Salvenmoser, Mulder, Scharer, &#x00026; Ladurner, <xref rid="ece35825-bib-0083" ref-type="ref">2009</xref>) or water; control individuals were otherwise treated identically to the knockdown individuals.</p><p>Taking advantage of the regenerative capacity of <italic>M.&#x000a0;lignano</italic> (Egger, Ladurner, Nimeth, Gschwentner, &#x00026; Rieger, <xref rid="ece35825-bib-0023" ref-type="ref">2006</xref>), before beginning the RNAi (or control) treatment, adult virgin GFP<sup>&#x02212;</sup> donor animals were tail&#x02010;amputated between the antrum and ovaries to remove (a) the antrum, with all potential previously received ejaculate in it; (b) the seminal vesicle, with potential (own) stored sperm; as well as (c) the SFP&#x02010;producing prostate gland cells. This procedure ensured that seminal fluid production was &#x0201c;reset&#x0201d; prior to the RNAi/control treatment, which would have tended to equalize the amount and age of stored sperm and seminal fluid reserves and further meant that donor individuals also contained no received sperm or seminal fluid at the beginning of the mating trials (see below). After amputation, individuals were treated with dsRNA during the entire regeneration process and kept individually in a well of a 60&#x02010;well microtest plate (Greiner Bio&#x02010;One&#x02122; 60&#x02010;well HLA Terasaki Plates). Each worm was placed in 10&#x000a0;&#x000b5;l dsRNA solution (~25&#x000a0;ng/&#x000b5;l dsRNA for the specific transcript in ASW&#x02010;algae mix). Throughout the whole experiment, animals were fed ad libitum with algae and were maintained under standard culture conditions. On days 2, 4, 6, 8, and 10 postamputation, 2&#x000a0;&#x000b5;l of dsRNA solution was added to each well, and on days 3, 5, 7, and 9, the worms were transferred to a new well containing 10&#x000a0;&#x000b5;l of new dsRNA solution to ensure a constant exposure to dsRNA. The first mating trial was conducted on day 11 postamputation, which is sufficient for complete regeneration (Egger et al., <xref rid="ece35825-bib-0023" ref-type="ref">2006</xref>; Lengerer et al., <xref rid="ece35825-bib-0048" ref-type="ref">2018</xref>).</p><p>The GFP<sup>+</sup> donor worms used in the experiment as sperm competitors to the experimental subjects were also 60&#x000a0;&#x000b1;&#x000a0;1&#x02010;day&#x02010;old adult virgin worms, and were also tail&#x02010;amputated on the same day as the knockdown/control worms. Thereafter, they were also each kept individually in one well of a 60&#x02010;well microtest plate in 10&#x000a0;&#x000b5;l ASW with ad libitum algae. GFP<sup>+</sup> worms were transferred to a new well containing 10&#x000a0;&#x000b5;l ASW with ad libitum algae once on day 5 postamputation.</p></sec><sec id="ece35825-sec-0007"><label>2.5</label><title>Mating trials for noncompetitive (fertility) and competitive (<italic>P</italic>
+<sub>1</sub> and <italic>P</italic>
+<sub>2</sub>) assays</title><p>Mating trials were conducted on days 11, 12, and 13 postamputation. Each treatment/control donor worm was paired with a new recipient worm in a 60&#x02010;well microtest plate in 8&#x000a0;&#x000b5;l ASW on each of these three consecutive days, with the recipient treated differently according to the type of assay (fertility, <italic>P</italic>
+<sub>1</sub> or <italic>P</italic>
+<sub>2</sub>&#x02014;see below). The mating pairs stayed together throughout the whole period (6 or 3&#x000a0;hr, depending on the type of assay); <italic>Macrostomum</italic> shows an average mating rate of about 6&#x02013;15 copulations per hour (Janicke &#x00026; Sch&#x000e4;rer, <xref rid="ece35825-bib-0040" ref-type="ref">2009</xref>; Marie&#x02010;Orleach et al., <xref rid="ece35825-bib-0053" ref-type="ref">2013</xref>; Sch&#x000e4;rer et al., <xref rid="ece35825-bib-0079" ref-type="ref">2004</xref>) and so we also expected multiple matings to have occurred among all mating pairs in all three assays we conducted. This design involving all donors being paired with three recipients was adopted to reduce measurement error, because of the expected relatively low offspring production per recipient. Irrespective of the assay type, to be able to distinguish individual worms under normal light during the mating trial, we colored all the recipient worms 24&#x000a0;hr beforehand using the food coloring dye Grand Bleu [E131 and E151] (Les Artistes&#x02014;Paris), diluted to a concentration of 0.25&#x000a0;mg/ml in ASW. Such a 24&#x02010;hr exposure enables us to easily distinguish colored from noncolored worms and has previously been shown not to affect the mating rate (Marie&#x02010;Orleach et al., <xref rid="ece35825-bib-0053" ref-type="ref">2013</xref>). Between the three mating trials, the donor worms were kept overnight in new dsRNA solution or the respective control treatment. Recipients (used only once) were kept after their mating trial in 60&#x02010;well plates in ASW with ad libitum algae, and offspring production was monitored (the number of unhatched offspring was negligible and therefore ignored). They were transferred to a new well every second day until day 11 (6 wells in total), where they remained until day 21 (after which no further offspring were detected in any of the three assays).</p></sec><sec id="ece35825-sec-0008"><label>2.6</label><title>Fertility assay</title><p>On each of the three consecutive mating trial days, focal worms (knockdown or control) were paired together for 6&#x000a0;hr with a randomly selected virgin recipient worm. After the 6&#x02010;hr mating period each day, the donors and recipients were processed as described above. Each treatment group began with 48 donor worms at the start of the RNAi treatment, but some individuals were lost either during the RNAi treatment or the mating trials due to pipetting mistakes, incomplete regeneration, sickness, or death. The final sample size for each treatment group therefore ranged from 44 to 48 donors (and correspondingly from 127 to 142 recipients); in total, we scored the paternity of 13,490 hatchlings.</p></sec><sec id="ece35825-sec-0009"><label>2.7</label><title>Sperm competitive ability assays (<italic>P</italic>
+<sub>1</sub> and <italic>P</italic>
+<sub>2</sub>)</title><p>To estimate defensive sperm competitive ability (<italic>P</italic>
+<sub>1</sub>), either knockdown or control worms were mated for three hours with a randomly selected virgin recipient worm. After three hours, the donor worms were removed and (on days 1 and 2) put back into their respective treatments as described above. One hour after removing the knockdown/control worm, a randomly selected GFP<sup>+</sup> sperm competitor worm was added to the well containing the already&#x02010;mated recipient worm, and the pair were allowed to mate for a further 3&#x000a0;hr. Again, each donor worm (and its same competitor) was mated consecutively with three recipient worms on three consecutive days, and recipients were subsequently processed as described above. The resulting offspring were counted and categorized to either GFP<sup>&#x02212;</sup> (sired by first knockdown or control donor) or GFP<sup>+</sup> (sired by the competitor donor) until day 21, based on expression of GFP assessed at age 7&#x02013;10&#x000a0;days using a Nikon SMZ&#x02010;18 stereomicroscope with a C&#x02010;HGFI Intensilight fluorescence light source and GFP filter cube (Nikon GmbH, D&#x000fc;sseldorf, Germany). Each treatment group started with 24 donor worms at the beginning of the RNAi treatment. With some loss as described for the fertility assay, the final realized sample sizes for each treatment group ranged from 18 to 23 donors (and correspondingly from 34 to 52 recipients), and in total, we scored the paternity of 3,139 hatchlings.</p><p>To estimate offensive sperm competitive ability (<italic>P</italic>
+<sub>2</sub>), the sperm competition assay was carried out exactly like the <italic>P</italic>
+<sub>1</sub> assay, except that the GFP<sup>+</sup> worm was paired with the recipient first and the knockdown/control worm second. The final sample size for each treatment group ranged from 18 to 23 donors (and correspondingly from 34 to 50 recipients), and in total, we scored the paternity of 3,053 hatchlings.</p></sec><sec id="ece35825-sec-0010"><label>2.8</label><title>Statistical analysis</title><p>For the analysis of the fertility assay, the offspring number of all three recipients mated with the same donor worm was first summed up and then divided by the number of recipients (usually three, but sometimes less due to unsuccessful mating or death) to obtain an average offspring number per recipient. This procedure was followed because of a high number of recipients which did not produce any offspring. We therefore would have ended up with a zero&#x02010;inflated dataset which would have been more complicated to analyze and interpret. These &#x0201c;per capita&#x0201d; fertility measures for each donor were then compared across treatments using a linear model. For the analysis of the <italic>P</italic>
+<sub>1</sub> and <italic>P</italic>
+<sub>2</sub> assays, we compared the paternity share of knockdown and control individuals (GFP<sup>&#x02212;</sup>) against the GFP competitor using a generalized linear model with a quasibinomial distribution, treatment as main factor, recipient order (1/2/3) as fixed effect, and donor ID as random effect (Engqvist, <xref rid="ece35825-bib-0024" ref-type="ref">2013</xref>). Because there was no significant difference between the two control treatments in any of the three assays (water vs. dsRNA for firefly luciferase; fertility: <italic>t</italic>&#x000a0;=&#x000a0;1.191, <italic>p</italic>&#x000a0;=&#x000a0;.24; <italic>P</italic>
+<sub>1</sub>: <italic>z</italic>&#x000a0;=&#x000a0;1.417, <italic>p</italic>&#x000a0;=&#x000a0;.16; <italic>P</italic>
+<sub>2</sub>: <italic>z</italic>&#x000a0;=&#x000a0;0.694, <italic>p</italic>&#x000a0;=&#x000a0;.49), they were combined and treated as a single control group for subsequent analysis for simplicity. Analyses were conducted using the lme4 package for R (R version 3.1.3., <xref rid="ece35825-bib-0068" ref-type="ref">2015</xref>). All <italic>p</italic>&#x02010;values are reported both unadjusted and additionally adjusted for the false discovery rate (FDR) to control for multiple testing according to the method of Benjamini and Hochberg (<xref rid="ece35825-bib-0006" ref-type="ref">1995</xref>).</p></sec></sec><sec sec-type="results" id="ece35825-sec-0011"><label>3</label><title>RESULTS</title><sec id="ece35825-sec-0012"><label>3.1</label><title>SFP knockdown effects on fertility</title><p>When we compared recipient worms mated with SFP knockdown donors to those mated to the control donors, five knockdowns (Mlig&#x02010;pro8, 10, 28, 34, and 35) showed a significant increase in offspring production before FDR correction, as measured by total offspring production per recipient worms in the first 21&#x000a0;days following the trial. However, none of these individual knockdowns had a significant impact on offspring production after FDR correction to control for multiple testing (all <italic>p</italic>
+<sub>adjusted</sub>&#x000a0;&#x02265;&#x000a0;.1, Figure <xref rid="ece35825-fig-0002" ref-type="fig">2</xref>a; for full statistical details for each knockdown, see Table <xref rid="ece35825-tbl-0001" ref-type="table">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35825-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>The effect of RNAi knockdown of 18 different seminal fluid transcripts (Mlig&#x02010;pro4, 5, 7, 8, 10, 11, 13, 23, 28, 34, 35, 38, 46, 49, 54, 60, 63, and 69) on offspring production in noncompetitive and paternity share in competitive fitness assays. The transcripts are labeled according to their Mlig&#x02010;pro[number] identifier assigned in Weber et al. (<xref rid="ece35825-bib-0096" ref-type="ref">2018</xref>). Sample sizes (number of donors) are given in italics above each <italic>x</italic>&#x02010;axis. (a) Mean offspring produced per partner&#x000a0;&#x000b1;&#x000a0;<italic>SE</italic> by knockdown (kept in dsRNA for the corresponding transcript) versus controls (either kept in ASW or in dsRNA for firefly luciferase) when individuals were mated with three virgin partners on three consecutive days. (b) Mean paternity share (<italic>P</italic>
+<sub>1</sub>) &#x000b1;<italic>SE</italic> of knockdown versus control individuals mated with three virgin partners on three consecutive days when the RNAi/control worm mated first and the GFP&#x02010;expressing competitor second. (c) Mean paternity share (<italic>P</italic>
+<sub>2</sub>) &#x000b1;<italic>SE</italic> of knockdown versus control individuals mated with three virgin partners on three consecutive days when the GFP&#x02010;expressing competitor mated first and the RNAi/control worm second</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-13889-g002"/></fig><table-wrap id="ece35825-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Descriptive statistics and tests for treatment effects on fertility and sperm competitive ability following RNAi knockdown of 18 seminal fluid transcripts. (a) Fertility assay. (b) Competitive assay with treatment individuals as first mating partner (<italic>P</italic>
+<sub>1</sub>). (c) Competitive assay with treatment individuals as second mating partner (<italic>P</italic>
+<sub>2</sub>)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Treatment</th><th align="left" colspan="6" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Fertility</th><th align="left" colspan="6" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<italic>P</italic>
+<sub>1</sub>
+</th><th align="left" colspan="6" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<italic>P</italic>
+<sub>2</sub>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Mean offspring/recipient</th><th align="left" valign="bottom" rowspan="1" colspan="1">Std. error</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>df</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>t</italic>&#x02010;Value</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>&#x02010;Value (unadjusted)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>&#x02010;Value (adjusted)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mean paternity share (<italic>P</italic>
+<sub>1</sub>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Std. error</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>df</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>z</italic>&#x02010;Value</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>&#x02010;Value (unadjusted)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>&#x02010;Value (adjusted)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mean paternity share (<italic>P</italic>
+<sub>2</sub>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Std. error</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>df</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>z</italic>&#x02010;Value</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>&#x02010;Value (unadjusted)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>&#x02010;Value (adjusted)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Control</td><td align="char" char="." rowspan="1" colspan="1">4.54</td><td align="char" char="." rowspan="1" colspan="1">0.23</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">0.49</td><td align="char" char="." rowspan="1" colspan="1">0.06</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">0.67</td><td align="char" char="." rowspan="1" colspan="1">0.06</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro4</td><td align="char" char="." rowspan="1" colspan="1">5.00</td><td align="char" char="." rowspan="1" colspan="1">0.28</td><td align="char" char="." rowspan="1" colspan="1">137</td><td align="char" char="." rowspan="1" colspan="1">1.21</td><td align="char" char="." rowspan="1" colspan="1">.23</td><td align="char" char="." rowspan="1" colspan="1">.41</td><td align="char" char="." rowspan="1" colspan="1">0.49</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">139</td><td align="char" char="." rowspan="1" colspan="1">1.29</td><td align="char" char="." rowspan="1" colspan="1">.20</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.65</td><td align="char" char="." rowspan="1" colspan="1">0.08</td><td align="char" char="." rowspan="1" colspan="1">136</td><td align="char" char="." rowspan="1" colspan="1">0.25</td><td align="char" char="." rowspan="1" colspan="1">.81</td><td align="char" char="." rowspan="1" colspan="1">.90</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro5</td><td align="char" char="." rowspan="1" colspan="1">4.94</td><td align="char" char="." rowspan="1" colspan="1">0.31</td><td align="char" char="." rowspan="1" colspan="1">135</td><td align="char" char="." rowspan="1" colspan="1">1.01</td><td align="char" char="." rowspan="1" colspan="1">.31</td><td align="char" char="." rowspan="1" colspan="1">.51</td><td align="char" char="." rowspan="1" colspan="1">0.59</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">129</td><td align="char" char="." rowspan="1" colspan="1">1.73</td><td align="char" char="." rowspan="1" colspan="1">.09</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.85</td><td align="char" char="." rowspan="1" colspan="1">0.06</td><td align="char" char="." rowspan="1" colspan="1">137</td><td align="char" char="." rowspan="1" colspan="1">2.18</td><td align="char" char="." rowspan="1" colspan="1">.03</td><td align="char" char="." rowspan="1" colspan="1">.24</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro7</td><td align="char" char="." rowspan="1" colspan="1">5.20</td><td align="char" char="." rowspan="1" colspan="1">0.29</td><td align="char" char="." rowspan="1" colspan="1">136</td><td align="char" char="." rowspan="1" colspan="1">1.70</td><td align="char" char="." rowspan="1" colspan="1">.09</td><td align="char" char="." rowspan="1" colspan="1">.23</td><td align="char" char="." rowspan="1" colspan="1">0.52</td><td align="char" char="." rowspan="1" colspan="1">0.10</td><td align="char" char="." rowspan="1" colspan="1">125</td><td align="char" char="." rowspan="1" colspan="1">0.65</td><td align="char" char="." rowspan="1" colspan="1">.51</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.66</td><td align="char" char="." rowspan="1" colspan="1">0.08</td><td align="char" char="." rowspan="1" colspan="1">136</td><td align="char" char="." rowspan="1" colspan="1">0.37</td><td align="char" char="." rowspan="1" colspan="1">.72</td><td align="char" char="." rowspan="1" colspan="1">.90</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro8</td><td align="char" char="." rowspan="1" colspan="1">5.43</td><td align="char" char="." rowspan="1" colspan="1">0.31</td><td align="char" char="." rowspan="1" colspan="1">136</td><td align="char" char="." rowspan="1" colspan="1">2.26</td><td align="char" char="." rowspan="1" colspan="1">.025</td><td align="char" char="." rowspan="1" colspan="1">.11</td><td align="char" char="." rowspan="1" colspan="1">0.49</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">133</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.34</td><td align="char" char="." rowspan="1" colspan="1">.73</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.68</td><td align="char" char="." rowspan="1" colspan="1">0.08</td><td align="char" char="." rowspan="1" colspan="1">133</td><td align="char" char="." rowspan="1" colspan="1">0.67</td><td align="char" char="." rowspan="1" colspan="1">.50</td><td align="char" char="." rowspan="1" colspan="1">.90</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro10</td><td align="char" char="." rowspan="1" colspan="1">5.50</td><td align="char" char="." rowspan="1" colspan="1">0.33</td><td align="char" char="." rowspan="1" colspan="1">138</td><td align="char" char="." rowspan="1" colspan="1">2.41</td><td align="char" char="." rowspan="1" colspan="1">.017</td><td align="char" char="." rowspan="1" colspan="1">.10</td><td align="char" char="." rowspan="1" colspan="1">0.58</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">127</td><td align="char" char="." rowspan="1" colspan="1">0.50</td><td align="char" char="." rowspan="1" colspan="1">.62</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.58</td><td align="char" char="." rowspan="1" colspan="1">0.08</td><td align="char" char="." rowspan="1" colspan="1">130</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;1.30</td><td align="char" char="." rowspan="1" colspan="1">.20</td><td align="char" char="." rowspan="1" colspan="1">.58</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro11</td><td align="char" char="." rowspan="1" colspan="1">5.05</td><td align="char" char="." rowspan="1" colspan="1">0.37</td><td align="char" char="." rowspan="1" colspan="1">138</td><td align="char" char="." rowspan="1" colspan="1">1.21</td><td align="char" char="." rowspan="1" colspan="1">.23</td><td align="char" char="." rowspan="1" colspan="1">.41</td><td align="char" char="." rowspan="1" colspan="1">0.52</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">130</td><td align="char" char="." rowspan="1" colspan="1">0.29</td><td align="char" char="." rowspan="1" colspan="1">.77</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.63</td><td align="char" char="." rowspan="1" colspan="1">0.07</td><td align="char" char="." rowspan="1" colspan="1">137</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.52</td><td align="char" char="." rowspan="1" colspan="1">.61</td><td align="char" char="." rowspan="1" colspan="1">.90</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro13</td><td align="char" char="." rowspan="1" colspan="1">4.85</td><td align="char" char="." rowspan="1" colspan="1">0.30</td><td align="char" char="." rowspan="1" colspan="1">138</td><td align="char" char="." rowspan="1" colspan="1">0.81</td><td align="char" char="." rowspan="1" colspan="1">.42</td><td align="char" char="." rowspan="1" colspan="1">.54</td><td align="char" char="." rowspan="1" colspan="1">0.51</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">134</td><td align="char" char="." rowspan="1" colspan="1">0.82</td><td align="char" char="." rowspan="1" colspan="1">.41</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.66</td><td align="char" char="." rowspan="1" colspan="1">0.08</td><td align="char" char="." rowspan="1" colspan="1">137</td><td align="char" char="." rowspan="1" colspan="1">0.20</td><td align="char" char="." rowspan="1" colspan="1">.84</td><td align="char" char="." rowspan="1" colspan="1">.90</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro23</td><td align="char" char="." rowspan="1" colspan="1">5.27</td><td align="char" char="." rowspan="1" colspan="1">0.39</td><td align="char" char="." rowspan="1" colspan="1">137</td><td align="char" char="." rowspan="1" colspan="1">1.71</td><td align="char" char="." rowspan="1" colspan="1">.09</td><td align="char" char="." rowspan="1" colspan="1">.23</td><td align="char" char="." rowspan="1" colspan="1">0.59</td><td align="char" char="." rowspan="1" colspan="1">0.10</td><td align="char" char="." rowspan="1" colspan="1">129</td><td align="char" char="." rowspan="1" colspan="1">1.57</td><td align="char" char="." rowspan="1" colspan="1">.12</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.62</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">127</td><td align="char" char="." rowspan="1" colspan="1">0.19</td><td align="char" char="." rowspan="1" colspan="1">.85</td><td align="char" char="." rowspan="1" colspan="1">.90</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro28</td><td align="char" char="." rowspan="1" colspan="1">5.50</td><td align="char" char="." rowspan="1" colspan="1">0.31</td><td align="char" char="." rowspan="1" colspan="1">134</td><td align="char" char="." rowspan="1" colspan="1">2.41</td><td align="char" char="." rowspan="1" colspan="1">.017</td><td align="char" char="." rowspan="1" colspan="1">.10</td><td align="char" char="." rowspan="1" colspan="1">0.52</td><td align="char" char="." rowspan="1" colspan="1">0.10</td><td align="char" char="." rowspan="1" colspan="1">131</td><td align="char" char="." rowspan="1" colspan="1">1.07</td><td align="char" char="." rowspan="1" colspan="1">.29</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.67</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">133</td><td align="char" char="." rowspan="1" colspan="1">0.37</td><td align="char" char="." rowspan="1" colspan="1">.72</td><td align="char" char="." rowspan="1" colspan="1">.90</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro34</td><td align="char" char="." rowspan="1" colspan="1">5.61</td><td align="char" char="." rowspan="1" colspan="1">0.30</td><td align="char" char="." rowspan="1" colspan="1">135</td><td align="char" char="." rowspan="1" colspan="1">2.75</td><td align="char" char="." rowspan="1" colspan="1">.007</td><td align="char" char="." rowspan="1" colspan="1">.10</td><td align="char" char="." rowspan="1" colspan="1">0.61</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">133</td><td align="char" char="." rowspan="1" colspan="1">0.51</td><td align="char" char="." rowspan="1" colspan="1">.61</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.62</td><td align="char" char="." rowspan="1" colspan="1">0.08</td><td align="char" char="." rowspan="1" colspan="1">130</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;1.22</td><td align="char" char="." rowspan="1" colspan="1">.23</td><td align="char" char="." rowspan="1" colspan="1">.58</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro35</td><td align="char" char="." rowspan="1" colspan="1">5.28</td><td align="char" char="." rowspan="1" colspan="1">0.24</td><td align="char" char="." rowspan="1" colspan="1">137</td><td align="char" char="." rowspan="1" colspan="1">2.00</td><td align="char" char="." rowspan="1" colspan="1">.047</td><td align="char" char="." rowspan="1" colspan="1">.17</td><td align="char" char="." rowspan="1" colspan="1">0.47</td><td align="char" char="." rowspan="1" colspan="1">0.11</td><td align="char" char="." rowspan="1" colspan="1">126</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.88</td><td align="char" char="." rowspan="1" colspan="1">.38</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.55</td><td align="char" char="." rowspan="1" colspan="1">0.10</td><td align="char" char="." rowspan="1" colspan="1">122</td><td align="char" char="." rowspan="1" colspan="1">0.37</td><td align="char" char="." rowspan="1" colspan="1">.71</td><td align="char" char="." rowspan="1" colspan="1">.90</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro38</td><td align="char" char="." rowspan="1" colspan="1">4.58</td><td align="char" char="." rowspan="1" colspan="1">0.39</td><td align="char" char="." rowspan="1" colspan="1">138</td><td align="char" char="." rowspan="1" colspan="1">0.10</td><td align="char" char="." rowspan="1" colspan="1">.92</td><td align="char" char="." rowspan="1" colspan="1">.92</td><td align="char" char="." rowspan="1" colspan="1">0.53</td><td align="char" char="." rowspan="1" colspan="1">0.10</td><td align="char" char="." rowspan="1" colspan="1">121</td><td align="char" char="." rowspan="1" colspan="1">1.01</td><td align="char" char="." rowspan="1" colspan="1">.31</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.74</td><td align="char" char="." rowspan="1" colspan="1">0.08</td><td align="char" char="." rowspan="1" colspan="1">132</td><td align="char" char="." rowspan="1" colspan="1">1.43</td><td align="char" char="." rowspan="1" colspan="1">.16</td><td align="char" char="." rowspan="1" colspan="1">.58</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro46</td><td align="char" char="." rowspan="1" colspan="1">5.21</td><td align="char" char="." rowspan="1" colspan="1">0.33</td><td align="char" char="." rowspan="1" colspan="1">135</td><td align="char" char="." rowspan="1" colspan="1">1.65</td><td align="char" char="." rowspan="1" colspan="1">.10</td><td align="char" char="." rowspan="1" colspan="1">.23</td><td align="char" char="." rowspan="1" colspan="1">0.47</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">126</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.13</td><td align="char" char="." rowspan="1" colspan="1">.90</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.50</td><td align="char" char="." rowspan="1" colspan="1">0.08</td><td align="char" char="." rowspan="1" colspan="1">135</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;2.97</td><td align="char" char="." rowspan="1" colspan="1">.0035</td><td align="char" char="." rowspan="1" colspan="1">.06</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro49</td><td align="char" char="." rowspan="1" colspan="1">4.32</td><td align="char" char="." rowspan="1" colspan="1">0.37</td><td align="char" char="." rowspan="1" colspan="1">137</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.54</td><td align="char" char="." rowspan="1" colspan="1">.59</td><td align="char" char="." rowspan="1" colspan="1">.66</td><td align="char" char="." rowspan="1" colspan="1">0.53</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">129</td><td align="char" char="." rowspan="1" colspan="1">0.27</td><td align="char" char="." rowspan="1" colspan="1">.79</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.73</td><td align="char" char="." rowspan="1" colspan="1">0.07</td><td align="char" char="." rowspan="1" colspan="1">138</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.32</td><td align="char" char="." rowspan="1" colspan="1">.75</td><td align="char" char="." rowspan="1" colspan="1">.90</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro54</td><td align="char" char="." rowspan="1" colspan="1">4.65</td><td align="char" char="." rowspan="1" colspan="1">0.36</td><td align="char" char="." rowspan="1" colspan="1">136</td><td align="char" char="." rowspan="1" colspan="1">0.27</td><td align="char" char="." rowspan="1" colspan="1">.79</td><td align="char" char="." rowspan="1" colspan="1">.84</td><td align="char" char="." rowspan="1" colspan="1">0.46</td><td align="char" char="." rowspan="1" colspan="1">0.08</td><td align="char" char="." rowspan="1" colspan="1">137</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.21</td><td align="char" char="." rowspan="1" colspan="1">.83</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.57</td><td align="char" char="." rowspan="1" colspan="1">0.08</td><td align="char" char="." rowspan="1" colspan="1">136</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;2.08</td><td align="char" char="." rowspan="1" colspan="1">.04</td><td align="char" char="." rowspan="1" colspan="1">.24</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro60</td><td align="char" char="." rowspan="1" colspan="1">4.90</td><td align="char" char="." rowspan="1" colspan="1">0.35</td><td align="char" char="." rowspan="1" colspan="1">135</td><td align="char" char="." rowspan="1" colspan="1">0.86</td><td align="char" char="." rowspan="1" colspan="1">.39</td><td align="char" char="." rowspan="1" colspan="1">.54</td><td align="char" char="." rowspan="1" colspan="1">0.53</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">131</td><td align="char" char="." rowspan="1" colspan="1">0.69</td><td align="char" char="." rowspan="1" colspan="1">.49</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.65</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">135</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;1.32</td><td align="char" char="." rowspan="1" colspan="1">.19</td><td align="char" char="." rowspan="1" colspan="1">.58</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro63</td><td align="char" char="." rowspan="1" colspan="1">4.89</td><td align="char" char="." rowspan="1" colspan="1">0.38</td><td align="char" char="." rowspan="1" colspan="1">136</td><td align="char" char="." rowspan="1" colspan="1">0.83</td><td align="char" char="." rowspan="1" colspan="1">.41</td><td align="char" char="." rowspan="1" colspan="1">.54</td><td align="char" char="." rowspan="1" colspan="1">0.47</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">129</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.46</td><td align="char" char="." rowspan="1" colspan="1">.65</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.76</td><td align="char" char="." rowspan="1" colspan="1">0.07</td><td align="char" char="." rowspan="1" colspan="1">130</td><td align="char" char="." rowspan="1" colspan="1">0.81</td><td align="char" char="." rowspan="1" colspan="1">.42</td><td align="char" char="." rowspan="1" colspan="1">.90</td></tr><tr><td align="left" rowspan="1" colspan="1">Mlig&#x02010;pro69</td><td align="char" char="." rowspan="1" colspan="1">4.83</td><td align="char" char="." rowspan="1" colspan="1">0.35</td><td align="char" char="." rowspan="1" colspan="1">137</td><td align="char" char="." rowspan="1" colspan="1">0.70</td><td align="char" char="." rowspan="1" colspan="1">.48</td><td align="char" char="." rowspan="1" colspan="1">.58</td><td align="char" char="." rowspan="1" colspan="1">0.50</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">128</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.15</td><td align="char" char="." rowspan="1" colspan="1">.88</td><td align="char" char="." rowspan="1" colspan="1">.89</td><td align="char" char="." rowspan="1" colspan="1">0.67</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">135</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.01</td><td align="char" char="." rowspan="1" colspan="1">.99</td><td align="char" char="." rowspan="1" colspan="1">.99</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece35825-sec-0013"><label>3.2</label><title>SFP knockdown effects on defensive sperm competitive ability (<italic>P</italic>
+<sub>1</sub>)</title><p>The paternity share of SFP knockdown donor worms (GFP<sup>&#x02212;</sup>) was compared to that of control donor worms (GFP<sup>&#x02212;</sup>) when they mated as the first partner with a recipient worm who subsequently mated with an outbred sperm competitor (GFP<sup>+</sup>). None of the individual knockdowns appeared to impact strongly on this aspect of sperm competitive ability, with no significant differences in <italic>P</italic>
+<sub>1</sub> between any of the treatments and the controls (all <italic>p</italic>
+<sub>unadjusted</sub>&#x000a0;&#x02265;&#x000a0;.1, all <italic>p</italic>
+<sub>adjusted</sub>&#x000a0;=&#x000a0;.89, Figure <xref rid="ece35825-fig-0002" ref-type="fig">2</xref>b; Table <xref rid="ece35825-tbl-0001" ref-type="table">1</xref>).</p></sec><sec id="ece35825-sec-0014"><label>3.3</label><title>SFP knockdown effects on offensive sperm competitive ability (<italic>P</italic>
+<sub>2</sub>)</title><p>The paternity share of SFP knockdown donor worms (GFP<sup>&#x02212;</sup>) was compared to that of control donor worms (GFP<sup>&#x02212;</sup>) when they mated as the second partner with a recipient worm that had previously mated with an outbred sperm competitor (GFP<sup>+</sup>). By contrast to the <italic>P</italic>
+<sub>1</sub> assays, but similar to the fertility assay, we here observed that a minority of knockdowns show some evidence of impacting sperm competitive ability (Figure <xref rid="ece35825-fig-0002" ref-type="fig">2</xref>c, Table <xref rid="ece35825-tbl-0001" ref-type="table">1</xref>). Mlig&#x02010;pro46 knockdown donors (<italic>z</italic>&#x000a0;=&#x000a0;&#x02212;2.97, <italic>p</italic>
+<sub>unadjusted</sub>&#x000a0;=&#x000a0;.0035, <italic>p</italic>
+<sub>adjusted</sub>&#x000a0;=&#x000a0;.06) and Mlig&#x02010;pro54 knockdown donors (<italic>z</italic>&#x000a0;=&#x000a0;&#x02212;2.08, <italic>p</italic>
+<sub>unadjusted</sub>&#x000a0;=&#x000a0;.04, <italic>p</italic>
+<sub>adjusted</sub>&#x000a0;=&#x000a0;.24) exhibited a reduced <italic>P</italic>
+<sub>2</sub>, whereas Mlig&#x02010;pro5 knockdown donors actually exhibited an increased <italic>P</italic>
+<sub>2</sub> (<italic>z</italic>&#x000a0;=&#x000a0;2.18, <italic>p</italic>
+<sub>unadjusted</sub>&#x000a0;=&#x000a0;.03, <italic>p</italic>
+<sub>adjusted</sub>&#x000a0;=&#x000a0;.24). Again, as for the fertility assay, these increases/decreases were significant before FDR correction but not after.</p></sec></sec><sec sec-type="discussion" id="ece35825-sec-0015"><label>4</label><title>DISCUSSION</title><p>By choosing a subset of 18 putative seminal fluid transcripts with prostate&#x02010;limited expression (Weber et al., <xref rid="ece35825-bib-0096" ref-type="ref">2018</xref>) and subjecting these to RNAi knockdown followed by competitive and noncompetitive paternity assays, we sought to identify seminal fluid transcripts that modulate offspring production and sperm competitive ability in <italic>M.&#x000a0;lignano</italic>. The majority of single knockdowns did not impact on these measures of male reproductive success, though our screen identified a number of candidates implicated in at least one aspect. Specifically, there was no difference in paternity share (<italic>P</italic>
+<sub>1</sub>) between knockdown and control individuals when the knockdown individuals were the first mating partners. By contrast, when the knockdown individuals were the second mating partners, two knockdowns (Mlig&#x02010;pro46 and Mlig&#x02010;pro54) exhibited a reduced <italic>P</italic>
+<sub>2</sub>, whereas another (Mlig&#x02010;pro5) exhibited an increased <italic>P</italic>
+<sub>2</sub>. Additionally, there was evidence for five knockdowns that donors had a higher fertility than controls, that is, their mating partners produced more offspring. Our study thus provides some evidence for seminal fluid&#x02010;mediated fitness effects, but we caution that all of these effects became nonsignificant after performing FDR correction to control for multiple testing. In part, this reflects the large&#x02010;scale nature of the screen we performed and despite the fact that we assigned paternity to almost 20,000 offspring in total, our power to detect differences in paternity outcomes for individual knockdowns and assays was somewhat limited, especially given the noisy nature of the outcomes we were measuring. Examining the effect sizes suggests that, if confirmed in subsequent studies now focusing on this smaller pool of candidates, some of the effects we have identified are actually quite marked, resulting in a 14%&#x02013;19% change in fertility among the five candidates identified as impacting on this aspect of reproductive success, and 15%&#x02013;35% for the three candidates affecting <italic>P</italic>
+<sub>2</sub>.</p><p>Our results suggest that Mlig&#x02010;pro46 and Mlig&#x02010;pro54 could play important functional roles in reproduction relevant to sperm competition outcomes, though this needs to be confirmed in a dedicated experiment and the precise mechanisms through which this could be mediated remain to be elucidated. We also do not know at this stage whether the knockdown of a specific transcript in our experiment impacted on the expression of other SFPs. Nevertheless, several possible mechanisms for the function of Mlig&#x02010;pro46 and Mlig&#x02010;pro54 would now be worth exploring. Based on evidence from other taxa, these proteins could, for example, be important for sperm storage (Chapman et al., <xref rid="ece35825-bib-0013" ref-type="ref">2000</xref>; Neubaum &#x00026; Wolfner, <xref rid="ece35825-bib-0060" ref-type="ref">1999</xref>; Qazi, <xref rid="ece35825-bib-0067" ref-type="ref">2003</xref>), release of sperm from storage (Avila, Mattei, &#x00026; Wolfner, <xref rid="ece35825-bib-0004" ref-type="ref">2015</xref>; Ram &#x00026; Wolfner, <xref rid="ece35825-bib-0071" ref-type="ref">2007b</xref>), and sperm viability (den Boer, Baer, &#x00026; Boomsma, <xref rid="ece35825-bib-0020" ref-type="ref">2010</xref>; den Boer, Baer, et al., <xref rid="ece35825-bib-0021" ref-type="ref">2009</xref>; den Boer, Boomsma, &#x00026; Baer, <xref rid="ece35825-bib-0022" ref-type="ref">2009</xref>; Holman, <xref rid="ece35825-bib-0036" ref-type="ref">2009</xref>), and several other studies identified overall effects of SFPs on sperm competitive ability (e.g., Chapman et al., <xref rid="ece35825-bib-0013" ref-type="ref">2000</xref>; Clark et al., <xref rid="ece35825-bib-0015" ref-type="ref">1995</xref>; Fiumera, Dumont, &#x00026; Clark, <xref rid="ece35825-bib-0025" ref-type="ref">2005</xref>; Fiumera, Dumont, &#x00026; Clark, <xref rid="ece35825-bib-0026" ref-type="ref">2007</xref>; Harshman &#x00026; Prout, <xref rid="ece35825-bib-0032" ref-type="ref">1994</xref>; Neubaum &#x00026; Wolfner, <xref rid="ece35825-bib-0060" ref-type="ref">1999</xref>; Prout, <xref rid="ece35825-bib-0066" ref-type="ref">1996</xref>; Qazi, <xref rid="ece35825-bib-0067" ref-type="ref">2003</xref>), although in several of these studies the exact identity of the corresponding SFPs is still unknown. The fact that we did not see a corresponding negative effect of Mlig&#x02010;pro46 and Mlig&#x02010;pro54 knockdown on <italic>P</italic>
+<sub>1</sub> could suggest that it is more likely that they affect displacement of rival sperm rather than affecting own sperm storage or viability. But this missing effect on <italic>P</italic>
+<sub>1</sub> could also stem from our experimental design, representing a highly controlled but potentially not very naturalistic mating pattern involving a long series of matings with one partner followed soon after by a long series with a second partner, because there is the possibility that a worm is removing its own sperm during the multiple matings rather than that of rival individuals, so we should be cautious in concluding anything about mechanisms at this stage. Nevertheless, it is interesting in our context that Mlig&#x02010;pro46 exhibits a significant homology to the human gene WSCD2 (as do several other <italic>Macrostomum</italic> SFP candidates; Ramm et al., <xref rid="ece35825-bib-0073" ref-type="ref">2019</xref>), because expression of WSCD2 is enriched in human male accessory reproductive glands (seminal vesicle, prostate; Uhl&#x000e9;n et al., <xref rid="ece35825-bib-0092" ref-type="ref">2015</xref>; Uhlen et al., <xref rid="ece35825-bib-0093" ref-type="ref">2010</xref>). The other transcripts Mlig&#x02010;pro54 (and Mlig&#x02010;pro5, see below) are currently unannotated (Grudniewska et al., <xref rid="ece35825-bib-0029" ref-type="ref">2016</xref>; Wudarski et al., <xref rid="ece35825-bib-0099" ref-type="ref">2017</xref>).</p><p>Even if the precise mechanism remains unclear, a reduction in sperm competitive ability upon losing a functionally relevant SFP&#x02014;as seen for Mlig&#x02010;pro46 and Mlig&#x02010;pro54&#x02014;appears straightforward to interpret. That the loss of another transcript&#x02014;Mlig&#x02010;pro5&#x02014;actually increased sperm competitive ability is harder to explain. One clear possibility is that this again represents an artifact of the experimental design. If, for example, Mlig&#x02010;pro5 normally functions to improve sperm displacement but works most effectively on recently deposited sperm, this might in our assay disproportionately have impacted negatively on own sperm from previous matings in the other treatments (depressing <italic>P</italic>
+<sub>2</sub>) but boosted storage of own sperm in the Mlig&#x02010;pro5 knockdown (enhancing <italic>P</italic>
+<sub>2</sub>). A very similar but converse result, where an individual apparently benefits from the loss of a specific SFP through enhanced defense ability, was reported in <italic>D.&#x000a0;melanogaster</italic> following the deletion of Acp62F (Mueller et al., <xref rid="ece35825-bib-0057" ref-type="ref">2008</xref>). Another explanation for the increase could be that Mlig&#x02010;pro5 acts as a trigger to respond to additional incoming sperm if an initial insemination has already happened, by, for example, decreasing the remating rate or increasing the rate of the suck behavior.</p><p>Similar to Mlig&#x02010;pro5 in the <italic>P</italic>
+<sub>2</sub> assay, where the loss of the SFP resulted in an increased sperm competitive ability, the loss of five individual transcripts showed also a beneficial effect, at least from the donors' perspective, in the fertility assay. The loss of each of the five individual transcripts resulted in an increase in total offspring production. This is somewhat surprising, given that we would normally expect a donor should benefit from stimulating the fecundity of their partner, in a similar way as in <italic>Drosophila</italic> where the SFP ovulin increases egg laying postmating (Herndon &#x00026; Wolfner, <xref rid="ece35825-bib-0034" ref-type="ref">1995</xref>). But like mentioned above, SFPs could also act as a trigger to respond to additional incoming sperm if an initial insemination has already happened, and the loss of this trigger could have a similar effect on the remating rate and the rate of the suck behavior as we suggested for Mlig&#x02010;pro5.</p><p>Overall, a clear pattern to emerge from our study is that only a minority of knockdowns appear to affect sperm competitive ability and offspring production. One important reason for this is likely to be that several different SFPs can affect the same trait. Such functional redundancy means that even if an individual is lacking one specific SFP, one or more other SFPs still present in the ejaculate compensate for this loss. There are several reported cases of potential functional redundancy among SFPs. In <italic>D.&#x000a0;melanogaster</italic>, for example, it is suggested that SFPs other than Acp70A, which has an effect on female receptivity, also affect this trait (Chapman et al., <xref rid="ece35825-bib-0011" ref-type="ref">2003</xref>). Acp70A also has a near functionally silent homologue, Dup99B, and the injection of Dup99B mimics the effects of Acp70A (Saudan et al., <xref rid="ece35825-bib-0076" ref-type="ref">2002</xref>). There are also at least three antibacterial peptides (Lung, Kuo, &#x00026; Wolfner, <xref rid="ece35825-bib-0051" ref-type="ref">2001</xref>), eight putative proteases, and nine putative protease inhibitors (Swanson et al., <xref rid="ece35825-bib-0089" ref-type="ref">2001</xref>) that show potential functional redundancy, but which is interestingly not necessarily explained by sequence similarity. Furthermore, there was functional redundancy demonstrated for ovulin (Herndon &#x00026; Wolfner, <xref rid="ece35825-bib-0034" ref-type="ref">1995</xref>), a SFPs which increase egg laying postmating and also for sex peptide (Chapman et al., <xref rid="ece35825-bib-0011" ref-type="ref">2003</xref>; Liu &#x00026; Kubli, <xref rid="ece35825-bib-0050" ref-type="ref">2003</xref>), which induces several postmating responses in the female. Removal of either one does not completely abolish the postmating responses in the female. Additionally, there is also redundancy in tissue targeting of SFPs: More than one SFP targets to any given tissue in the female reproductive tract (Ram, Ji, &#x00026; Wolfner, <xref rid="ece35825-bib-0069" ref-type="ref">2005</xref>).</p><p>Another reason for the paucity of detectable impacts of SFP knockdown on reproduction could be that our experimental design integrates over several but certainly not all aspects of sperm competition and would mainly measure immediate impact on sperm competition ability. This potentially misses other targets of SFPs that result in long&#x02010;term effects such as manipulation of subsequent behavior (e.g., with respect to remating) or sex allocation (see below). In <italic>Drosophila</italic>, sex peptide is known to be crucial for the long&#x02010;term postmating response. Females mated to sex peptide null males remain highly receptive to remating (Chapman et al., <xref rid="ece35825-bib-0011" ref-type="ref">2003</xref>; Liu &#x00026; Kubli, <xref rid="ece35825-bib-0050" ref-type="ref">2003</xref>). Because in our <italic>P</italic>
+<sub>1</sub> assay remating with the competitor occurred immediately after the first mating, any possible long&#x02010;term effect of suppressed receptivity mediated by SFP receipt might have had no impact. In a study where 25 SFPs knockdowns in <italic>Drosophila</italic> were tested for their impact on remating, none of them appeared to modulate the receptivity of the mated female at 24&#x000a0;hr postmating (Ram &#x00026; Wolfner, <xref rid="ece35825-bib-0071" ref-type="ref">2007b</xref>). Females mated to either control or knockdown males showed equally low receptivity to remating. But these authors could identify three SFPs which showed an effect on long&#x02010;term receptivity of females: at 4&#x000a0;days postmating, mates of these three knockdown males were significantly more receptive to remating than mates of control males.</p><p>Another important target of SFPs in <italic>M.&#x000a0;lignano</italic>, which is a simultaneous hermaphrodite, could be the male sex function of the partner which received the ejaculate. <italic>M.&#x000a0;lignano</italic> individuals can plastically allocate their resources toward the male or the female sex function (Janicke et al., <xref rid="ece35825-bib-0039" ref-type="ref">2013</xref>; Janicke &#x00026; Sch&#x000e4;rer, <xref rid="ece35825-bib-0041" ref-type="ref">2010</xref>; Sch&#x000e4;rer &#x00026; Ladurner, <xref rid="ece35825-bib-0080" ref-type="ref">2003</xref>), and donors might conceivably benefit from manipulating this. In the simultaneously hermaphroditic great pond snail <italic>Lymnaea stagnalis</italic>, effects of SFPs on both the male and female functions have been observed. More specifically, the intravaginal injection of one SFP (LyAcp10) affected egg laying (Koene et al., <xref rid="ece35825-bib-0043" ref-type="ref">2010</xref>) and the injection of either of two other SFPs (LyAcp8b and LyAcp5) resulted in a reduction of sperm transferred in a subsequent mating by the recipient in <italic>L.&#x000a0;stagnalis</italic>, and as a result, in a decrease in their paternity success in subsequent matings as a male (Nakadera et al., <xref rid="ece35825-bib-0059" ref-type="ref">2014</xref>; see also Sch&#x000e4;rer, <xref rid="ece35825-bib-0077" ref-type="ref">2014</xref>). This study highlights that steering your partner away from its male function is a potentially adaptive strategy in simultaneous hermaphrodites (Charnov, <xref rid="ece35825-bib-0014" ref-type="ref">1979</xref>; Sch&#x000e4;rer &#x00026; Ramm, <xref rid="ece35825-bib-0082" ref-type="ref">2016</xref>), triggered by seminal fluid.</p><p>The relatively small number of functionally relevant SFPs identified in our screen suggests that a more targeted or specific approach is needed to identify more SFP&#x02010;mediated effects. Because <italic>M.&#x000a0;lignano</italic> is transparent, it is, for example, possible to measure intermediate aspects of sperm competitive ability such as sperm transfer and storage success in vivo (see, e.g., Marie&#x02010;Orleach et al., <xref rid="ece35825-bib-0054" ref-type="ref">2016</xref>). By measuring the sperm transfer success and the still available sperm number after a certain time or under different scenarios implying more or less competition, we could potentially gain a more precise picture of SFP&#x02010;mediated effects on sperm storage and sperm removal. Additionally, it would be beneficial to measure the impact of SFPs on behavioral aspects like the remating rate or the suck behavior described above. And another important aspect, which was not measured with our assay, is the potential influence on the partners' male function, as just discussed. To solve the problem of functional redundancy, it will be necessary to identify proteins which are functionally overlapping or to find ways to transfer specific components or just a small subset of the seminal fluid to a partner. And given that the timing of the mating in our assay might well have affected the outcomes, varying both the pairing time and gap between pairings might well shed new light on underlying sperm competition mechanisms in future studies, and help to disentangle cases where effects of SFPs presumably intended for own sperm actually also impact on rival ejaculates, and vice versa (see, e.g., Nguyen &#x00026; Moehring, <xref rid="ece35825-bib-0061" ref-type="ref">2018</xref>).</p><p>Finally, we note that our finding of a mean <italic>P</italic>
+<sub>2</sub> of 0.66 is very similar to a previous estimate in <italic>M.&#x000a0;lignano</italic> of 0.64 (Sandner, <xref rid="ece35825-bib-0075" ref-type="ref">2013</xref>), and such a last &#x0201c;male&#x0201d; sperm precedence fits with previous evidence for sperm displacement in this species (Marie&#x02010;Orleach et al., <xref rid="ece35825-bib-0055" ref-type="ref">2014</xref>). We know from other taxa that own, competitor, and female genotypes can influence sperm competition outcomes (e.g., Bjork, Starmer, Higginson, Rhodes, &#x00026; Pitnick, <xref rid="ece35825-bib-0007" ref-type="ref">2007</xref>; Clark &#x00026; Begun, <xref rid="ece35825-bib-0016" ref-type="ref">1998</xref>; Clark et al., <xref rid="ece35825-bib-0017" ref-type="ref">1999</xref>). Because the three competitor worms for each focal donor in our assay were randomly sampled from an outbred culture, the average <italic>P</italic>
+<sub>1</sub> and <italic>P</italic>
+<sub>2</sub> scores of the focal donors (as well as those minus specific seminal fluid components) in our assays should therefore be considered as this genotype's general sperm competitive ability against rivals, at least in this recipient (female) genetic background.</p><p>In conclusion, we report some evidence for seminal fluid&#x02010;mediated fitness effects in the simultaneous hermaphrodite <italic>M.&#x000a0;lignano</italic>. Further and more detailed research is now needed to pinpoint precisely how seminal fluid affects sperm competitive ability and fertility, and this transparent flatworm represents a promising model system in which to perform such studies. Additionally, we could show evidence for a potential functional redundancy of SFPs and evidence for SFPs acting as triggers for postmating responses in the sperm recipient.</p></sec><sec sec-type="COI-statement" id="ece35825-sec-0016"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35825-sec-0017"><title>AUTHOR CONTRIBUTIONS</title><p>MW and SAR conceived the study. MW performed the RNAi knockdown and MW and AG the mating assays. MW analyzed results and drafted the manuscript together with SAR. All authors contributed to manuscript revisions and approved the final manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35825-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13889-s001.eps"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35825-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13889-s002.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35825-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13889-s003.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><sec sec-type="data-availability" id="ece35825-sec-0019"><title>DATA AVAILABILITY STATEMENT</title><p>Data are available via the Dryad Digital Repository <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.8w9ghx3gv" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.8w9ghx3gv</ext-link>.</p></sec><ref-list content-type="cited-references" id="ece35825-bibl-0001"><title>REFERENCES</title><ref id="ece35825-bib-0001"><mixed-citation publication-type="journal" id="ece35825-cit-0001">
+<string-name>
+<surname>Andr&#x000e9;s</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Maroja</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>Bogdanowicz</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Swanson</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>R. G.</given-names>
+</string-name>, <string-name>
+<surname>Andr&#x000e9;s</surname>, <given-names>J. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Harrison</surname>, <given-names>R. G.</given-names>
+</string-name> (<year>2006</year>). <article-title>Molecular evolution of seminal proteins in field crickets</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>23</volume>, <fpage>1574</fpage>&#x02013;<lpage>1584</lpage>.<pub-id pub-id-type="pmid">16731569</pub-id></mixed-citation></ref><ref id="ece35825-bib-0002"><mixed-citation publication-type="journal" id="ece35825-cit-0002">
+<string-name>
+<surname>Arbore</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sekii</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Beisel</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ladurner</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Berezikov</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2015</year>). <article-title>Positional RNA&#x02010;Seq identifies candidate genes for phenotypic engineering of sexual traits</article-title>. <source xml:lang="en">Frontiers in Zoology</source>, <volume>12</volume>, <fpage>14</fpage>.<pub-id pub-id-type="pmid">26146508</pub-id></mixed-citation></ref><ref id="ece35825-bib-0003"><mixed-citation publication-type="book" id="ece35825-cit-0003">
+<string-name>
+<surname>Arnqvist</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rowe</surname>, <given-names>L.</given-names>
+</string-name> (<year>2005</year>). <source xml:lang="en">Sexual conflict</source>. <publisher-loc>Princeton, NJ</publisher-loc>: <publisher-name>Princeton University Press</publisher-name>.</mixed-citation></ref><ref id="ece35825-bib-0004"><mixed-citation publication-type="journal" id="ece35825-cit-0004">
+<string-name>
+<surname>Avila</surname>, <given-names>F. W.</given-names>
+</string-name>, <string-name>
+<surname>Mattei</surname>, <given-names>A. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2015</year>). <article-title>Sex peptide receptor is required for the release of stored sperm by mated <italic>Drosophila melanogaster</italic> females</article-title>. <source xml:lang="en">Journal of Insect Physiology</source>, <volume>76</volume>, <fpage>1</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">25783955</pub-id></mixed-citation></ref><ref id="ece35825-bib-0005"><mixed-citation publication-type="journal" id="ece35825-cit-0005">
+<string-name>
+<surname>Avila</surname>, <given-names>F. W.</given-names>
+</string-name>, <string-name>
+<surname>Sirot</surname>, <given-names>L. K.</given-names>
+</string-name>, <string-name>
+<surname>Laflamme</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Rubinstein</surname>, <given-names>C. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2011</year>). <article-title>Insect seminal fluid proteins: Identification and function</article-title>. <source xml:lang="en">Annual Review of Entomology</source>, <volume>56</volume>, <fpage>21</fpage>&#x02013;<lpage>40</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0006"><mixed-citation publication-type="journal" id="ece35825-cit-0006">
+<string-name>
+<surname>Benjamini</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hochberg</surname>, <given-names>Y.</given-names>
+</string-name> (<year>1995</year>). <article-title>Controlling the false discovery rate: A practical and powerful approach to multiple testing</article-title>. <source xml:lang="en">Journal of the Royal Statistical Society</source>, <volume>57</volume>, <fpage>289</fpage>&#x02013;<lpage>300</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0007"><mixed-citation publication-type="journal" id="ece35825-cit-0007">
+<string-name>
+<surname>Bjork</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Starmer</surname>, <given-names>W. T.</given-names>
+</string-name>, <string-name>
+<surname>Higginson</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Rhodes</surname>, <given-names>C. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pitnick</surname>, <given-names>S.</given-names>
+</string-name> (<year>2007</year>). <article-title>Complex interactions with females and rival males limit the evolution of sperm offence and defence</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>274</volume>, <fpage>1779</fpage>&#x02013;<lpage>1788</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0008"><mixed-citation publication-type="journal" id="ece35825-cit-0008">
+<string-name>
+<surname>Boorman</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Parker</surname>, <given-names>G. A.</given-names>
+</string-name> (<year>1976</year>). <article-title>Sperm (ejaculate) competition in <italic>Drosophila melanogaster</italic>, and the reproductive value of females to males in relation to female age and mating status</article-title>. <source xml:lang="en">Ecological Entomology</source>, <volume>1</volume>, <fpage>145</fpage>&#x02013;<lpage>155</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0009"><mixed-citation publication-type="journal" id="ece35825-cit-0009">
+<string-name>
+<surname>Cameron</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Day</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rowe</surname>, <given-names>L.</given-names>
+</string-name> (<year>2007</year>). <article-title>Sperm competition and the evolution of ejaculate composition</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>169</volume>, <fpage>E158</fpage>&#x02013;<lpage>E172</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0010"><mixed-citation publication-type="journal" id="ece35825-cit-0010">
+<string-name>
+<surname>Chapman</surname>, <given-names>T.</given-names>
+</string-name> (<year>2001</year>). <article-title>Seminal fluid&#x02010;mediated fitness traits in <italic>Drosophila</italic>
+</article-title>. <source xml:lang="en">Heredity</source>, <volume>87</volume>, <fpage>511</fpage>&#x02013;<lpage>521</lpage>.<pub-id pub-id-type="pmid">11869341</pub-id></mixed-citation></ref><ref id="ece35825-bib-0011"><mixed-citation publication-type="journal" id="ece35825-cit-0011">
+<string-name>
+<surname>Chapman</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Bangham</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Vinti</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Seifried</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Lung</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Partridge</surname>, <given-names>L.</given-names>
+</string-name> (<year>2003</year>). <article-title>The sex peptide of <italic>Drosophila melanogaster</italic>: Female post&#x02010;mating responses analyzed by using RNA interference</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>100</volume>, <fpage>9923</fpage>&#x02013;<lpage>9928</lpage>.<pub-id pub-id-type="pmid">12893873</pub-id></mixed-citation></ref><ref id="ece35825-bib-0012"><mixed-citation publication-type="journal" id="ece35825-cit-0012">
+<string-name>
+<surname>Chapman</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Liddle</surname>, <given-names>L. F.</given-names>
+</string-name>, <string-name>
+<surname>Kalb</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name>
+<surname>Partridge</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>1995</year>). <article-title>Cost of mating in <italic>Drosophila melanogaster</italic> females is mediated by male accessory gland products</article-title>. <source xml:lang="en">Nature</source>, <volume>373</volume>, <fpage>241</fpage>&#x02013;<lpage>244</lpage>.<pub-id pub-id-type="pmid">7816137</pub-id></mixed-citation></ref><ref id="ece35825-bib-0013"><mixed-citation publication-type="journal" id="ece35825-cit-0013">
+<string-name>
+<surname>Chapman</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Neubaum</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Partridge</surname>, <given-names>L.</given-names>
+</string-name> (<year>2000</year>). <article-title>The role of male accessory gland protein Acp36DE in sperm competition in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>267</volume>, <fpage>1097</fpage>&#x02013;<lpage>1105</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0014"><mixed-citation publication-type="journal" id="ece35825-cit-0014">
+<string-name>
+<surname>Charnov</surname>, <given-names>E. L.</given-names>
+</string-name> (<year>1979</year>). <article-title>Simultaneous hermaphroditism and sexual selection</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>76</volume>, <fpage>2480</fpage>&#x02013;<lpage>2484</lpage>.<pub-id pub-id-type="pmid">16592656</pub-id></mixed-citation></ref><ref id="ece35825-bib-0015"><mixed-citation publication-type="journal" id="ece35825-cit-0015">
+<string-name>
+<surname>Clark</surname>, <given-names>A. G.</given-names>
+</string-name>, <string-name>
+<surname>Aguade</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Prout</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Harshman</surname>, <given-names>L. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Langley</surname>, <given-names>C. H.</given-names>
+</string-name> (<year>1995</year>). <article-title>Variation in sperm displacement and its association with accessory gland protein loci in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Genetics</source>, <volume>139</volume>, <fpage>189</fpage>&#x02013;<lpage>201</lpage>.<pub-id pub-id-type="pmid">7705622</pub-id></mixed-citation></ref><ref id="ece35825-bib-0016"><mixed-citation publication-type="journal" id="ece35825-cit-0016">
+<string-name>
+<surname>Clark</surname>, <given-names>A. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Begun</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>1998</year>). <article-title>Female genotypes affect sperm displacement in <italic>Drosophila</italic>
+</article-title>. <source xml:lang="en">Genetics</source>, <volume>149</volume>, <fpage>1487</fpage>&#x02013;<lpage>1493</lpage>.<pub-id pub-id-type="pmid">9649536</pub-id></mixed-citation></ref><ref id="ece35825-bib-0017"><mixed-citation publication-type="journal" id="ece35825-cit-0017">
+<string-name>
+<surname>Clark</surname>, <given-names>A. G.</given-names>
+</string-name>, <string-name>
+<surname>Begun</surname>, <given-names>D. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Prout</surname>, <given-names>T.</given-names>
+</string-name> (<year>1999</year>). <article-title>Female x male interactions in <italic>Drosophila</italic> sperm competition</article-title>. <source xml:lang="en">Science</source>, <volume>283</volume>, <fpage>217</fpage>&#x02013;<lpage>220</lpage>.<pub-id pub-id-type="pmid">9880253</pub-id></mixed-citation></ref><ref id="ece35825-bib-0018"><mixed-citation publication-type="journal" id="ece35825-cit-0018">
+<string-name>
+<surname>Clark</surname>, <given-names>N. L.</given-names>
+</string-name>, <string-name>
+<surname>Aagaard</surname>, <given-names>J. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Swanson</surname>, <given-names>W. J.</given-names>
+</string-name> (<year>2006</year>). <article-title>Evolution of reproductive proteins from animals and plants</article-title>. <source xml:lang="en">Reproduction</source>, <volume>131</volume>, <fpage>11</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">16388004</pub-id></mixed-citation></ref><ref id="ece35825-bib-0019"><mixed-citation publication-type="journal" id="ece35825-cit-0019">
+<string-name>
+<surname>Clark</surname>, <given-names>N. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Swanson</surname>, <given-names>W. J.</given-names>
+</string-name> (<year>2005</year>). <article-title>Pervasive adaptive evolution in primate seminal proteins</article-title>. <source xml:lang="en">PLoS Genetics</source>, <volume>1</volume>, <fpage>335</fpage>&#x02013;<lpage>342</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0020"><mixed-citation publication-type="journal" id="ece35825-cit-0020">
+<string-name>
+<surname>den Boer</surname>, <given-names>S. P. A.</given-names>
+</string-name>, <string-name>
+<surname>Baer</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Boomsma</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Seminal fluid mediates ejaculate competition in social insects</article-title>. <source xml:lang="en">Science</source>, <volume>327</volume>, <fpage>1506</fpage>&#x02013;<lpage>1509</lpage>.<pub-id pub-id-type="pmid">20299595</pub-id></mixed-citation></ref><ref id="ece35825-bib-0021"><mixed-citation publication-type="journal" id="ece35825-cit-0021">
+<string-name>
+<surname>den Boer</surname>, <given-names>S. P. A.</given-names>
+</string-name>, <string-name>
+<surname>Baer</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Dreier</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Aron</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Nash</surname>, <given-names>D. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Boomsma</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Prudent sperm use by leaf&#x02010;cutter ant queens</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>276</volume>, <fpage>3945</fpage>&#x02013;<lpage>3953</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0022"><mixed-citation publication-type="journal" id="ece35825-cit-0022">
+<string-name>
+<surname>den Boer</surname>, <given-names>S. P. A.</given-names>
+</string-name>, <string-name>
+<surname>Boomsma</surname>, <given-names>J. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baer</surname>, <given-names>B.</given-names>
+</string-name> (<year>2009</year>). <article-title>Honey bee males and queens use glandular secretions to enhance sperm viability before and after storage</article-title>. <source xml:lang="en">Journal of Insect Physiology</source>, <volume>55</volume>, <fpage>538</fpage>&#x02013;<lpage>543</lpage>.<pub-id pub-id-type="pmid">19232404</pub-id></mixed-citation></ref><ref id="ece35825-bib-0023"><mixed-citation publication-type="journal" id="ece35825-cit-0023">
+<string-name>
+<surname>Egger</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ladurner</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Nimeth</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gschwentner</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rieger</surname>, <given-names>R.</given-names>
+</string-name> (<year>2006</year>). <article-title>The regeneration capacity of the flatworm <italic>Macrostomum lignano</italic> &#x02013; On repeated regeneration, rejuvenation, and the minimal size needed for regeneration</article-title>. <source xml:lang="en">Development Genes and Evolution</source>, <volume>216</volume>, <fpage>565</fpage>&#x02013;<lpage>577</lpage>.<pub-id pub-id-type="pmid">16604349</pub-id></mixed-citation></ref><ref id="ece35825-bib-0024"><mixed-citation publication-type="journal" id="ece35825-cit-0024">
+<string-name>
+<surname>Engqvist</surname>, <given-names>L.</given-names>
+</string-name> (<year>2013</year>). <article-title>A general description of additive and nonadditive elements of sperm competitiveness and their relation to male fertilization success</article-title>. <source xml:lang="en">Evolution</source>, <volume>67</volume>, <fpage>1396</fpage>&#x02013;<lpage>1405</lpage>.<pub-id pub-id-type="pmid">23617916</pub-id></mixed-citation></ref><ref id="ece35825-bib-0025"><mixed-citation publication-type="journal" id="ece35825-cit-0025">
+<string-name>
+<surname>Fiumera</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>Dumont</surname>, <given-names>B. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Clark</surname>, <given-names>A. G.</given-names>
+</string-name> (<year>2005</year>). <article-title>Sperm competitive ability in <italic>Drosophila melanogaster</italic> associated with variation in male reproductive proteins</article-title>. <source xml:lang="en">Genetics</source>, <volume>169</volume>, <fpage>243</fpage>&#x02013;<lpage>257</lpage>.<pub-id pub-id-type="pmid">15466425</pub-id></mixed-citation></ref><ref id="ece35825-bib-0026"><mixed-citation publication-type="journal" id="ece35825-cit-0026">
+<string-name>
+<surname>Fiumera</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>Dumont</surname>, <given-names>B. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Clark</surname>, <given-names>A. G.</given-names>
+</string-name> (<year>2007</year>). <article-title>Associations between sperm competition and natural variation in male reproductive genes on the third chromosome of <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Genetics</source>, <volume>176</volume>, <fpage>1245</fpage>&#x02013;<lpage>1260</lpage>.<pub-id pub-id-type="pmid">17435238</pub-id></mixed-citation></ref><ref id="ece35825-bib-0027"><mixed-citation publication-type="journal" id="ece35825-cit-0027">
+<string-name>
+<surname>Gillott</surname>, <given-names>C.</given-names>
+</string-name> (<year>2003</year>). <article-title>Male accessory gland secretions: Modulators of female reproductive physiology and behavior</article-title>. <source xml:lang="en">Annual Review of Entomology</source>, <volume>48</volume>, <fpage>163</fpage>&#x02013;<lpage>184</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0028"><mixed-citation publication-type="journal" id="ece35825-cit-0028">
+<string-name>
+<surname>Grudniewska</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mouton</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Grelling</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wolters</surname>, <given-names>A. H. G.</given-names>
+</string-name>, <string-name>
+<surname>Kuipers</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Giepmans</surname>, <given-names>B. N. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Berezikov</surname>, <given-names>E.</given-names>
+</string-name> (<year>2018</year>). <article-title>A novel flatworm&#x02010;specific gene implicated in reproduction in <italic>Macrostomum lignano</italic>
+</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>8</volume>, <fpage>3192</fpage>.<pub-id pub-id-type="pmid">29453392</pub-id></mixed-citation></ref><ref id="ece35825-bib-0029"><mixed-citation publication-type="journal" id="ece35825-cit-0029">
+<string-name>
+<surname>Grudniewska</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mouton</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Simanov</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Beltman</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Grelling</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>De Mulder</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Berezikov</surname>, <given-names>E.</given-names>
+</string-name> (<year>2016</year>). <article-title>Transcriptional signatures of somatic neoblasts and germline cells in <italic>Macrostomum lignano</italic>
+</article-title>. <source xml:lang="en">Elife</source>, <volume>5</volume>, <elocation-id>e20607</elocation-id>.<pub-id pub-id-type="pmid">27997336</pub-id></mixed-citation></ref><ref id="ece35825-bib-0030"><mixed-citation publication-type="journal" id="ece35825-cit-0030">
+<string-name>
+<surname>Guillard</surname>, <given-names>R. R. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ryther</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>1962</year>). <article-title>Studies of marine planktonic diatoms. I. <italic>Cyclotella nana</italic> Hustedt, and <italic>Detonula confervacea</italic> (cleve) Gran</article-title>. <source xml:lang="en">Canadian Journal of Microbiology</source>, <volume>8</volume>, <fpage>229</fpage>&#x02013;<lpage>239</lpage>.<pub-id pub-id-type="pmid">13902807</pub-id></mixed-citation></ref><ref id="ece35825-bib-0031"><mixed-citation publication-type="journal" id="ece35825-cit-0031">
+<string-name>
+<surname>Haerty</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Jagadeeshan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kulathinal</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ram</surname>, <given-names>K. R.</given-names>
+</string-name>, <string-name>
+<surname>Sirot</surname>, <given-names>L. K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Singh</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2007</year>). <article-title>Evolution in the fast lane: Rapidly evolving sex&#x02010;related genes in <italic>Drosophila</italic>
+</article-title>. <source xml:lang="en">Genetics</source>, <volume>177</volume>, <fpage>1321</fpage>&#x02013;<lpage>1335</lpage>.<pub-id pub-id-type="pmid">18039869</pub-id></mixed-citation></ref><ref id="ece35825-bib-0032"><mixed-citation publication-type="journal" id="ece35825-cit-0032">
+<string-name>
+<surname>Harshman</surname>, <given-names>L. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Prout</surname>, <given-names>T.</given-names>
+</string-name> (<year>1994</year>). <article-title>Sperm displacement without sperm transfer in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Evolution</source>, <volume>48</volume>, <fpage>758</fpage>&#x02013;<lpage>766</lpage>.<pub-id pub-id-type="pmid">28568282</pub-id></mixed-citation></ref><ref id="ece35825-bib-0033"><mixed-citation publication-type="journal" id="ece35825-cit-0033">
+<string-name>
+<surname>H&#x000e4;semeyer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yapici</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Heberlein</surname>, <given-names>U.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dickson</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Sensory neurons in the <italic>Drosophila</italic> genital tract regulate female reproductive behavior</article-title>. <source xml:lang="en">Neuron</source>, <volume>61</volume>, <fpage>511</fpage>&#x02013;<lpage>518</lpage>.<pub-id pub-id-type="pmid">19249272</pub-id></mixed-citation></ref><ref id="ece35825-bib-0034"><mixed-citation publication-type="journal" id="ece35825-cit-0034">
+<string-name>
+<surname>Herndon</surname>, <given-names>L. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>1995</year>). <article-title>A Drosophila seminal fluid protein, Acp26Aa, stimulates egg laying in females for 1 day after mating</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>92</volume>, <fpage>10114</fpage>&#x02013;<lpage>10118</lpage>.<pub-id pub-id-type="pmid">7479736</pub-id></mixed-citation></ref><ref id="ece35825-bib-0035"><mixed-citation publication-type="journal" id="ece35825-cit-0035">
+<string-name>
+<surname>Hodgson</surname>, <given-names>D. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hosken</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2006</year>). <article-title>Sperm competition promotes the exploitation of rival ejaculates</article-title>. <source xml:lang="en">Journal of Theoretical Biology</source>, <volume>243</volume>, <fpage>230</fpage>&#x02013;<lpage>234</lpage>.<pub-id pub-id-type="pmid">16901507</pub-id></mixed-citation></ref><ref id="ece35825-bib-0036"><mixed-citation publication-type="journal" id="ece35825-cit-0036">
+<string-name>
+<surname>Holman</surname>, <given-names>L.</given-names>
+</string-name> (<year>2009</year>). <article-title>
+<italic>Drosophila melanogaster</italic> seminal fluid can protect the sperm of other males</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>23</volume>, <fpage>180</fpage>&#x02013;<lpage>186</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0037"><mixed-citation publication-type="journal" id="ece35825-cit-0037">
+<string-name>
+<surname>Hopkins</surname>, <given-names>B. R.</given-names>
+</string-name>, <string-name>
+<surname>Sepil</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wigby</surname>, <given-names>S.</given-names>
+</string-name> (<year>2017</year>). <article-title>Seminal fluid</article-title>. <source xml:lang="en">Current Biology</source>, <volume>27</volume>, <fpage>R404</fpage>&#x02013;<lpage>R405</lpage>.<pub-id pub-id-type="pmid">28586660</pub-id></mixed-citation></ref><ref id="ece35825-bib-0038"><mixed-citation publication-type="book" id="ece35825-cit-0038">
+<string-name>
+<surname>Hyman</surname>, <given-names>L. H.</given-names>
+</string-name> (<year>1951</year>). <source xml:lang="en">The invertebrates: Platyhelminthes and Rhynchocoela</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>McGraw&#x02010;Hill</publisher-name>.</mixed-citation></ref><ref id="ece35825-bib-0039"><mixed-citation publication-type="journal" id="ece35825-cit-0039">
+<string-name>
+<surname>Janicke</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Marie&#x02010;Orleach</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>De Mulder</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Berezikov</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ladurner</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Vizoso</surname>, <given-names>D. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2013</year>). <article-title>Sex allocation adjustment to mating group size in a simultaneous hermaphrodite</article-title>. <source xml:lang="en">Evolution</source>, <volume>67</volume>, <fpage>3233</fpage>&#x02013;<lpage>3242</lpage>.<pub-id pub-id-type="pmid">24152005</pub-id></mixed-citation></ref><ref id="ece35825-bib-0040"><mixed-citation publication-type="journal" id="ece35825-cit-0040">
+<string-name>
+<surname>Janicke</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2009</year>). <article-title>Sex allocation predicts mating rate in a simultaneous hermaphrodite</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>276</volume>, <fpage>4247</fpage>&#x02013;<lpage>4253</lpage>. </mixed-citation></ref><ref id="ece35825-bib-0041"><mixed-citation publication-type="journal" id="ece35825-cit-0041">
+<string-name>
+<surname>Janicke</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2010</year>). <article-title>Sperm competition affects sex allocation but not sperm morphology in a flatworm</article-title>. <source xml:lang="en">Behavioral Ecology and Sociobiology</source>, <volume>64</volume>, <fpage>1367</fpage>&#x02013;<lpage>1375</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0042"><mixed-citation publication-type="journal" id="ece35825-cit-0042">
+<string-name>
+<surname>Kingan</surname>, <given-names>T. G.</given-names>
+</string-name>, <string-name>
+<surname>Thomas&#x02010;Laemont</surname>, <given-names>P. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Raina</surname>, <given-names>A. K.</given-names>
+</string-name> (<year>1993</year>). <article-title>Male accessory gland factors elicit change from &#x02018;virgin&#x02019; to &#x02018;mated&#x02019; behaviour in the female corn earworm moth <italic>Helicoverpa zea</italic>
+</article-title>. <source xml:lang="en">Journal of Experimental Biology</source>, <volume>183</volume>, <fpage>61</fpage>&#x02013;<lpage>76</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0043"><mixed-citation publication-type="journal" id="ece35825-cit-0043">
+<string-name>
+<surname>Koene</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Sloot</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Montagne&#x02010;Wajer</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Cummins</surname>, <given-names>S. F.</given-names>
+</string-name>, <string-name>
+<surname>Degnan</surname>, <given-names>B. M.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>J. S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>ter Maat</surname>, <given-names>A.</given-names>
+</string-name> (<year>2010</year>). <article-title>Male accessory gland protein reduces egg laying in a simultaneous hermaphrodite</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>5</volume>, <elocation-id>e10117</elocation-id>.<pub-id pub-id-type="pmid">20404934</pub-id></mixed-citation></ref><ref id="ece35825-bib-0044"><mixed-citation publication-type="journal" id="ece35825-cit-0044">
+<string-name>
+<surname>Kuales</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>De Mulder</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Glashauser</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Salvenmoser</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Takashima</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hartenstein</surname>, <given-names>V.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ladurner</surname>, <given-names>P.</given-names>
+</string-name> (<year>2011</year>). <article-title>Boule&#x02010;like genes regulate male and female gametogenesis in the flatworm <italic>Macrostomum lignano</italic>
+</article-title>. <source xml:lang="en">Developmental Biology</source>, <volume>357</volume>, <fpage>117</fpage>&#x02013;<lpage>132</lpage>.<pub-id pub-id-type="pmid">21740899</pub-id></mixed-citation></ref><ref id="ece35825-bib-0045"><mixed-citation publication-type="journal" id="ece35825-cit-0045">
+<string-name>
+<surname>Ladurner</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Salvenmoser</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rieger</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>2005</year>). <article-title>A new model organism among the lower Bilateria and the use of digital microscopy in taxonomy of meiobenthic Platyhelminthes: <italic>Macrostomum lignano</italic>, n. sp. (Rhabditophora, Macrostomorpha)</article-title>. <source xml:lang="en">Journal of Zoological Systematics and Evolutionary Research</source>, <volume>43</volume>, <fpage>114</fpage>&#x02013;<lpage>126</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0046"><mixed-citation publication-type="journal" id="ece35825-cit-0046">
+<string-name>
+<surname>LaFlamme</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Ravi Ram</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2012</year>). <article-title>The <italic>Drosophila melanogaster</italic> seminal fluid protease &#x0201c;Seminase&#x0201d; regulates proteolytic and post&#x02010;mating reproductive processes</article-title>. <source xml:lang="en">PLoS Genetics</source>, <volume>8</volume>, <elocation-id>e1002435</elocation-id>.<pub-id pub-id-type="pmid">22253601</pub-id></mixed-citation></ref><ref id="ece35825-bib-0047"><mixed-citation publication-type="journal" id="ece35825-cit-0047">
+<string-name>
+<surname>Lengerer</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Pjeta</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Wunderer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Rodrigues</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Arbore</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ladurner</surname>, <given-names>P.</given-names>
+</string-name> (<year>2014</year>). <article-title>Biological adhesion of the flatworm <italic>Macrostomum lignano</italic> relies on a duo&#x02010;gland system and is mediated by a cell type&#x02010;specific intermediate filament protein</article-title>. <source xml:lang="en">Frontiers in Zoology</source>, <volume>11</volume>, <fpage>12</fpage>.<pub-id pub-id-type="pmid">24520881</pub-id></mixed-citation></ref><ref id="ece35825-bib-0048"><mixed-citation publication-type="journal" id="ece35825-cit-0048">
+<string-name>
+<surname>Lengerer</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wunderer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pjeta</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Carta</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Kao</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Aboobaker</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ladurner</surname>, <given-names>P.</given-names>
+</string-name> (<year>2018</year>). <article-title>Organ specific gene expression in the regenerating tail of <italic>Macrostomum lignano</italic>
+</article-title>. <source xml:lang="en">Developmental Biology</source>, <volume>433</volume>, <fpage>448</fpage>&#x02013;<lpage>460</lpage>.<pub-id pub-id-type="pmid">28757111</pub-id></mixed-citation></ref><ref id="ece35825-bib-0049"><mixed-citation publication-type="journal" id="ece35825-cit-0049">
+<string-name>
+<surname>Linklater</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Wertheim</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wigby</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chapman</surname>, <given-names>T.</given-names>
+</string-name> (<year>2007</year>). <article-title>Ejaculate depletion patterns evolve in response to experimental manipulation of sex ratio in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Evolution</source>, <volume>61</volume>, <fpage>2027</fpage>&#x02013;<lpage>2034</lpage>. <pub-id pub-id-type="pmid">17683443</pub-id></mixed-citation></ref><ref id="ece35825-bib-0050"><mixed-citation publication-type="journal" id="ece35825-cit-0050">
+<string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kubli</surname>, <given-names>E.</given-names>
+</string-name> (<year>2003</year>). <article-title>Sex&#x02010;peptide is the molecular basis of the sperm effect in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>100</volume>, <fpage>9929</fpage>&#x02013;<lpage>9933</lpage>.<pub-id pub-id-type="pmid">12897240</pub-id></mixed-citation></ref><ref id="ece35825-bib-0051"><mixed-citation publication-type="journal" id="ece35825-cit-0051">
+<string-name>
+<surname>Lung</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Kuo</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2001</year>). <article-title>
+<italic>Drosophila</italic> males transfer antibacterial proteins from their accessory gland and ejaculatory duct to their mates</article-title>. <source xml:lang="en">Journal of Insect Physiology</source>, <volume>47</volume>, <fpage>617</fpage>&#x02013;<lpage>622</lpage>.<pub-id pub-id-type="pmid">11249950</pub-id></mixed-citation></ref><ref id="ece35825-bib-0052"><mixed-citation publication-type="journal" id="ece35825-cit-0052">
+<string-name>
+<surname>Mann</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lutwak&#x02010;Mann</surname>, <given-names>C.</given-names>
+</string-name> (<year>1982</year>). <article-title>Male reproductive function and semen</article-title>. <source xml:lang="en">Journal of the Royal Society of Medicine</source>, <volume>75</volume>, <fpage>298</fpage>.</mixed-citation></ref><ref id="ece35825-bib-0053"><mixed-citation publication-type="journal" id="ece35825-cit-0053">
+<string-name>
+<surname>Marie&#x02010;Orleach</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Janicke</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2013</year>). <article-title>Effects of mating status on copulatory and postcopulatory behaviour in a simultaneous hermaphrodite</article-title>. <source xml:lang="en">Animal Behavior</source>, <volume>85</volume>, <fpage>453</fpage>&#x02013;<lpage>461</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0054"><mixed-citation publication-type="journal" id="ece35825-cit-0054">
+<string-name>
+<surname>Marie&#x02010;Orleach</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Janicke</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Vizoso</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>David</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2016</year>). <article-title>Quantifying episodes of sexual selection: Insights from a transparent worm with fluorescent sperm</article-title>. <source xml:lang="en">Evolution</source>, <volume>70</volume>, <fpage>314</fpage>&#x02013;<lpage>328</lpage>.<pub-id pub-id-type="pmid">26787006</pub-id></mixed-citation></ref><ref id="ece35825-bib-0055"><mixed-citation publication-type="journal" id="ece35825-cit-0055">
+<string-name>
+<surname>Marie&#x02010;Orleach</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Janicke</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Vizoso</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Eichmann</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2014</year>). <article-title>Fluorescent sperm in a transparent worm: Validation of a GFP marker to study sexual selection</article-title>. <source xml:lang="en">BMC Evolutionary Biology</source>, <volume>14</volume>, <fpage>148</fpage>.<pub-id pub-id-type="pmid">24980980</pub-id></mixed-citation></ref><ref id="ece35825-bib-0056"><mixed-citation publication-type="journal" id="ece35825-cit-0056">
+<string-name>
+<surname>Marshall</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Huestis</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name>
+<surname>Hiromasa</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wheeler</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Oppert</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Marshall</surname>, <given-names>S. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Oppert</surname>, <given-names>B.</given-names>
+</string-name> (<year>2009</year>). <article-title>Identification, RNAi knockdown, and functional analysis of an ejaculate protein that mediates a postmating, prezygotic phenotype in a cricket</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>4</volume>, <elocation-id>e7537</elocation-id>.<pub-id pub-id-type="pmid">19851502</pub-id></mixed-citation></ref><ref id="ece35825-bib-0057"><mixed-citation publication-type="journal" id="ece35825-cit-0057">
+<string-name>
+<surname>Mueller</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Linklater</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Ram</surname>, <given-names>K. R.</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2008</year>). <article-title>Targeted gene deletion and phenotypic analysis of the <italic>Drosophila melanogaster</italic> seminal fluid protease inhibitor Acp62F</article-title>. <source xml:lang="en">Genetics</source>, <volume>178</volume>, <fpage>1605</fpage>&#x02013;<lpage>1614</lpage>.<pub-id pub-id-type="pmid">18245332</pub-id></mixed-citation></ref><ref id="ece35825-bib-0058"><mixed-citation publication-type="journal" id="ece35825-cit-0058">
+<string-name>
+<surname>Mueller</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Ripoll</surname>, <given-names>D. R.</given-names>
+</string-name>, <string-name>
+<surname>Aquadro</surname>, <given-names>C. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2004</year>). <article-title>Comparative structural modeling and inference of conserved protein classes in Drosophila seminal fluid</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>101</volume>, <fpage>13542</fpage>&#x02013;<lpage>13547</lpage>.<pub-id pub-id-type="pmid">15345744</pub-id></mixed-citation></ref><ref id="ece35825-bib-0059"><mixed-citation publication-type="journal" id="ece35825-cit-0059">
+<string-name>
+<surname>Nakadera</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Swart</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Hoffer</surname>, <given-names>J. N. A.</given-names>
+</string-name>, <string-name>
+<surname>Den Boon</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Ellers</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Koene</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Receipt of seminal fluid proteins causes reduction of male investment in a simultaneous hermaphrodite</article-title>. <source xml:lang="en">Current Biology</source>, <volume>24</volume>, <fpage>859</fpage>&#x02013;<lpage>862</lpage>.<pub-id pub-id-type="pmid">24684934</pub-id></mixed-citation></ref><ref id="ece35825-bib-0060"><mixed-citation publication-type="journal" id="ece35825-cit-0060">
+<string-name>
+<surname>Neubaum</surname>, <given-names>D. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>1999</year>). <article-title>Mated <italic>Drosophila melanogaster</italic> females require a seminal fluid protein, Acp36DE, to store sperm efficiently</article-title>. <source xml:lang="en">Genetics</source>, <volume>153</volume>, <fpage>845</fpage>&#x02013;<lpage>857</lpage>.<pub-id pub-id-type="pmid">10511562</pub-id></mixed-citation></ref><ref id="ece35825-bib-0061"><mixed-citation publication-type="journal" id="ece35825-cit-0061">
+<string-name>
+<surname>Nguyen</surname>, <given-names>T. T. X.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Moehring</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2018</year>). <article-title>A male's seminal fluid increases later competitors' productivity</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>31</volume>, <fpage>1572</fpage>&#x02013;<lpage>1581</lpage>.<pub-id pub-id-type="pmid">30007107</pub-id></mixed-citation></ref><ref id="ece35825-bib-0062"><mixed-citation publication-type="journal" id="ece35825-cit-0062">
+<string-name>
+<surname>Parker</surname>, <given-names>G. A.</given-names>
+</string-name> (<year>1970</year>). <article-title>Sperm competition and its evolutionary consequences in the insects</article-title>. <source xml:lang="en">Biological Reviews</source>, <volume>45</volume>, <fpage>525</fpage>&#x02013;<lpage>567</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0063"><mixed-citation publication-type="journal" id="ece35825-cit-0063">
+<string-name>
+<surname>Peng</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>B&#x000fc;sser</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Honegger</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kubli</surname>, <given-names>E.</given-names>
+</string-name> (<year>2005</year>). <article-title>Gradual release of sperm bound sex&#x02010;peptide controls female postmating behavior in <italic>Drosophila</italic>
+</article-title>. <source xml:lang="en">Current Biology</source>, <volume>15</volume>, <fpage>207</fpage>&#x02013;<lpage>213</lpage>.<pub-id pub-id-type="pmid">15694303</pub-id></mixed-citation></ref><ref id="ece35825-bib-0064"><mixed-citation publication-type="journal" id="ece35825-cit-0064">
+<string-name>
+<surname>Pfister</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>De Mulder</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hartenstein</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Kuales</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Borgonie</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Marx</surname>, <given-names>F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ladurner</surname>, <given-names>P.</given-names>
+</string-name> (<year>2008</year>). <article-title>Flatworm stem cells and the germ line: Developmental and evolutionary implications of macvasa expression in <italic>Macrostomum lignano</italic>
+</article-title>. <source xml:lang="en">Developmental Biology</source>, <volume>319</volume>, <fpage>146</fpage>&#x02013;<lpage>159</lpage>.<pub-id pub-id-type="pmid">18405892</pub-id></mixed-citation></ref><ref id="ece35825-bib-0065"><mixed-citation publication-type="journal" id="ece35825-cit-0065">
+<string-name>
+<surname>Poiani</surname>, <given-names>A.</given-names>
+</string-name> (<year>2006</year>). <article-title>Complexity of seminal fluid: A review</article-title>. <source xml:lang="en">Behavioral Ecology and Sociobiology</source>, <volume>60</volume>, <fpage>289</fpage>&#x02013;<lpage>310</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0066"><mixed-citation publication-type="journal" id="ece35825-cit-0066">
+<string-name>
+<surname>Prout</surname>, <given-names>T.</given-names>
+</string-name> (<year>1996</year>). <article-title>Polymorphism in genes that influence sperm displacement</article-title>. <source xml:lang="en">Genetics</source>, <volume>144</volume>, <fpage>401</fpage>&#x02013;<lpage>408</lpage>.<pub-id pub-id-type="pmid">8878703</pub-id></mixed-citation></ref><ref id="ece35825-bib-0067"><mixed-citation publication-type="journal" id="ece35825-cit-0067">
+<string-name>
+<surname>Qazi</surname>, <given-names>M. C. B.</given-names>
+</string-name> (<year>2003</year>). <article-title>An early role for the <italic>Drosophila melanogaster</italic> male seminal protein Acp36DE in female sperm storage</article-title>. <source xml:lang="en">Journal of Experimental Biology</source>, <volume>206</volume>, <fpage>3521</fpage>&#x02013;<lpage>3528</lpage>.<pub-id pub-id-type="pmid">12939382</pub-id></mixed-citation></ref><ref id="ece35825-bib-0068"><mixed-citation publication-type="book" id="ece35825-cit-0068">
+<collab collab-type="authors">R version 3.1.3.</collab>
+(<year>2015</year>). <source xml:lang="en">(2015&#x02013;03&#x02010;09) &#x02013; &#x0201c;Smooth Sidewalk&#x0201d; Copyright (C) 2015 The R Foundation for Statistical Computing Platform: x86_64&#x02010;w64&#x02010;mingw32/x64 (64&#x02010;bit)</source>.</mixed-citation></ref><ref id="ece35825-bib-0069"><mixed-citation publication-type="journal" id="ece35825-cit-0069">
+<string-name>
+<surname>Ram</surname>, <given-names>K. R.</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2005</year>). <article-title>Fates and targets of male accessory gland proteins in mated female <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Insect Biochemistry and Molecular Biology</source>, <volume>35</volume>, <fpage>1059</fpage>&#x02013;<lpage>1071</lpage>.<pub-id pub-id-type="pmid">15979005</pub-id></mixed-citation></ref><ref id="ece35825-bib-0070"><mixed-citation publication-type="journal" id="ece35825-cit-0070">
+<string-name>
+<surname>Ram</surname>, <given-names>K. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2007a</year>). <article-title>Seminal influences: <italic>Drosophila</italic> Acps and the molecular interplay between males and females during reproduction</article-title>. <source xml:lang="en">Integrative and Comparative Biology</source>, <volume>47</volume>, <fpage>427</fpage>&#x02013;<lpage>445</lpage>.<pub-id pub-id-type="pmid">21672851</pub-id></mixed-citation></ref><ref id="ece35825-bib-0071"><mixed-citation publication-type="journal" id="ece35825-cit-0071">
+<string-name>
+<surname>Ram</surname>, <given-names>K. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2007b</year>). <article-title>Sustained post&#x02010;mating response in <italic>Drosophila melanogaster</italic> requires multiple seminal fluid proteins</article-title>. <source xml:lang="en">PLoS Genetics</source>, <volume>3</volume>, <fpage>2428</fpage>&#x02013;<lpage>2438</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0072"><mixed-citation publication-type="journal" id="ece35825-cit-0072">
+<string-name>
+<surname>Ram</surname>, <given-names>K. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2009</year>). <article-title>A network of interactions among seminal proteins underlies the long&#x02010;term postmating response in <italic>Drosophila</italic>
+</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>106</volume>, <fpage>15384</fpage>&#x02013;<lpage>15389</lpage>.<pub-id pub-id-type="pmid">19706411</pub-id></mixed-citation></ref><ref id="ece35825-bib-0073"><mixed-citation publication-type="journal" id="ece35825-cit-0073">
+<string-name>
+<surname>Ramm</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Lengerer</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Arbore</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Pjeta</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Wunderer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Giannakara</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2019</year>). <article-title>Sex allocation plasticity on a transcriptome scale: Socially sensitive gene expression in a simultaneous hermaphrodite</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>28</volume>, <fpage>2321</fpage>&#x02013;<lpage>2341</lpage>.<pub-id pub-id-type="pmid">30891857</pub-id></mixed-citation></ref><ref id="ece35825-bib-0074"><mixed-citation publication-type="journal" id="ece35825-cit-0074">
+<string-name>
+<surname>Ramm</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Oliver</surname>, <given-names>P. L.</given-names>
+</string-name>, <string-name>
+<surname>Ponting</surname>, <given-names>C. P.</given-names>
+</string-name>, <string-name>
+<surname>Stockley</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Emes</surname>, <given-names>R. D.</given-names>
+</string-name> (<year>2008</year>). <article-title>Sexual selection and the adaptive evolution of mammalian ejaculate proteins</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>25</volume>, <fpage>207</fpage>&#x02013;<lpage>219</lpage>.<pub-id pub-id-type="pmid">18032407</pub-id></mixed-citation></ref><ref id="ece35825-bib-0075"><mixed-citation publication-type="book" id="ece35825-cit-0075">
+<string-name>
+<surname>Sandner</surname>, <given-names>P.</given-names>
+</string-name> (<year>2013</year>). <source xml:lang="en">Impacts of sperm competition on mating behaviour and life history traits in a simultaneous hermaphrodite</source>. PhD dissertation, <publisher-loc>Univ. Basel</publisher-loc>.</mixed-citation></ref><ref id="ece35825-bib-0076"><mixed-citation publication-type="journal" id="ece35825-cit-0076">
+<string-name>
+<surname>Saudan</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hauck</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Soller</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Choffat</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ottiger</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sp&#x000f6;rri</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Kubli</surname>, <given-names>E.</given-names>
+</string-name> (<year>2002</year>). <article-title>Ductus ejaculatorius peptide 99B (DUP99B), a novel <italic>Drosophila melanogaster</italic> sex&#x02010;peptide pheromone</article-title>. <source xml:lang="en">European Journal of Biochemistry</source>, <volume>269</volume>, <fpage>989</fpage>&#x02013;<lpage>997</lpage>.<pub-id pub-id-type="pmid">11846801</pub-id></mixed-citation></ref><ref id="ece35825-bib-0077"><mixed-citation publication-type="journal" id="ece35825-cit-0077">
+<string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2014</year>). <article-title>Evolution: Don't Be So Butch, Dear!</article-title>. <source xml:lang="en">Current Biology</source>, <volume>24</volume>(<issue>8</issue>), <fpage>R311</fpage>&#x02013;<lpage>R313</lpage>.<pub-id pub-id-type="pmid">24735851</pub-id></mixed-citation></ref><ref id="ece35825-bib-0078"><mixed-citation publication-type="journal" id="ece35825-cit-0078">
+<string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Janicke</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ramm</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Sexual conflict in hermaphrodites</article-title>. <source xml:lang="en">Cold Spring Harbor Perspectives in Biology</source>, <volume>7</volume>, <fpage>a017673</fpage>.</mixed-citation></ref><ref id="ece35825-bib-0079"><mixed-citation publication-type="journal" id="ece35825-cit-0079">
+<string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Joss</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sandner</surname>, <given-names>P.</given-names>
+</string-name> (<year>2004</year>). <article-title>Mating behaviour of the marine turbellarian <italic>Macrostomum</italic> sp.: These worms suck</article-title>. <source xml:lang="en">Marine Biology</source>, <volume>145</volume>, <fpage>373</fpage>&#x02013;<lpage>380</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0080"><mixed-citation publication-type="journal" id="ece35825-cit-0080">
+<string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ladurner</surname>, <given-names>P.</given-names>
+</string-name> (<year>2003</year>). <article-title>Phenotypically plastic adjustment of sex allocation in a simultaneous hermaphrodite</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>270</volume>, <fpage>935</fpage>&#x02013;<lpage>941</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0081"><mixed-citation publication-type="journal" id="ece35825-cit-0081">
+<string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Littlewood</surname>, <given-names>D. T. J.</given-names>
+</string-name>, <string-name>
+<surname>Waeschenbach</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Yoshida</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vizoso</surname>, <given-names>D. B.</given-names>
+</string-name> (<year>2011</year>). <article-title>Mating behavior and the evolution of sperm design</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>108</volume>, <fpage>1490</fpage>&#x02013;<lpage>1495</lpage>.<pub-id pub-id-type="pmid">21220334</pub-id></mixed-citation></ref><ref id="ece35825-bib-0082"><mixed-citation publication-type="book" id="ece35825-cit-0082">
+<string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ramm</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2016</year>). <chapter-title>Hermaphrodites</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Kliman</surname><given-names>R.</given-names></name></person-group> (Ed.), <source xml:lang="en">Encyclopedia of evolutionary biology</source> (pp. <fpage>212</fpage>&#x02013;<lpage>224</lpage>). <publisher-loc>Oxford, UK</publisher-loc>: <publisher-name>Elsevier</publisher-name>.</mixed-citation></ref><ref id="ece35825-bib-0083"><mixed-citation publication-type="journal" id="ece35825-cit-0083">
+<string-name>
+<surname>Sekii</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Salvenmoser</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>De Mulder</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Scharer</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ladurner</surname>, <given-names>P.</given-names>
+</string-name> (<year>2009</year>). <article-title>Melav2, an elav&#x02010;like gene, is essential for spermatid differentiation in the flatworm <italic>Macrostomum lignano</italic>
+</article-title>. <source xml:lang="en">BMC Developmental Biology</source>, <volume>9</volume>, <fpage>62</fpage>.<pub-id pub-id-type="pmid">19995429</pub-id></mixed-citation></ref><ref id="ece35825-bib-0084"><mixed-citation publication-type="journal" id="ece35825-cit-0084">
+<string-name>
+<surname>Sekii</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Vizoso</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Kuales</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>De Mulder</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ladurner</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2013</year>). <article-title>Phenotypic engineering of sperm&#x02010;production rate confirms evolutionary predictions of sperm competition theory</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>280</volume>, <fpage>20122711</fpage>.</mixed-citation></ref><ref id="ece35825-bib-0085"><mixed-citation publication-type="journal" id="ece35825-cit-0085">
+<string-name>
+<surname>Shutt</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Stables</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Aboagye&#x02010;Antwi</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Moran</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tripet</surname>, <given-names>F.</given-names>
+</string-name> (<year>2010</year>). <article-title>Male accessory gland proteins induce female monogamy in anopheline mosquitoes</article-title>. <source xml:lang="en">Medical and Veterinary Entomology</source>, <volume>24</volume>, <fpage>91</fpage>&#x02013;<lpage>94</lpage>.<pub-id pub-id-type="pmid">20377737</pub-id></mixed-citation></ref><ref id="ece35825-bib-0086"><mixed-citation publication-type="journal" id="ece35825-cit-0086">
+<string-name>
+<surname>Sirot</surname>, <given-names>L. K.</given-names>
+</string-name>, <string-name>
+<surname>LaFlamme</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Sitnik</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Rubinstein</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Avila</surname>, <given-names>F. W.</given-names>
+</string-name>, <string-name>
+<surname>Chow</surname>, <given-names>C. Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2009</year>). <article-title>Molecular social interactions: <italic>Drosophila melanogaster</italic> seminal fluid proteins as a case study</article-title>. <source xml:lang="en">Advances in Genetics</source>, <volume>68</volume>, <fpage>23</fpage>&#x02013;<lpage>56</lpage>.<pub-id pub-id-type="pmid">20109658</pub-id></mixed-citation></ref><ref id="ece35825-bib-0087"><mixed-citation publication-type="journal" id="ece35825-cit-0087">
+<string-name>
+<surname>Sirot</surname>, <given-names>L. K.</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2015</year>). <article-title>Sexual conflict and seminal fluid proteins: A dynamic landscape of sexual interactions</article-title>. <source xml:lang="en">Cold Spring Harbor Perspectives in Biology</source>, <volume>7</volume>, <fpage>a017533</fpage>.</mixed-citation></ref><ref id="ece35825-bib-0088"><mixed-citation publication-type="journal" id="ece35825-cit-0088">
+<string-name>
+<surname>Sitnik</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gligorov</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Maeda</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Karch</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2016</year>). <article-title>The female post&#x02010;mating response requires genes expressed in the secondary cells of the male accessory gland in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Genetics</source>, <volume>202</volume>, <fpage>1029</fpage>&#x02013;<lpage>1041</lpage>.<pub-id pub-id-type="pmid">26746709</pub-id></mixed-citation></ref><ref id="ece35825-bib-0089"><mixed-citation publication-type="journal" id="ece35825-cit-0089">
+<string-name>
+<surname>Swanson</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>, <given-names>A. G.</given-names>
+</string-name>, <string-name>
+<surname>Waldrip&#x02010;Dail</surname>, <given-names>H. M.</given-names>
+</string-name>, <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Aquadro</surname>, <given-names>C. F.</given-names>
+</string-name> (<year>2001</year>). <article-title>Evolutionary EST analysis identifies rapidly evolving male reproductive proteins in Drosophila</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>98</volume>, <fpage>7375</fpage>&#x02013;<lpage>7379</lpage>.<pub-id pub-id-type="pmid">11404480</pub-id></mixed-citation></ref><ref id="ece35825-bib-0090"><mixed-citation publication-type="journal" id="ece35825-cit-0090">
+<string-name>
+<surname>Swanson</surname>, <given-names>W. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vacquier</surname>, <given-names>V. D.</given-names>
+</string-name> (<year>2002</year>). <article-title>The rapid evolution of reproductive proteins</article-title>. <source xml:lang="en">Nature Reviews Genetics</source>, <volume>3</volume>, <fpage>137</fpage>&#x02013;<lpage>144</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0091"><mixed-citation publication-type="journal" id="ece35825-cit-0091">
+<string-name>
+<surname>Takami</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Sasabe</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nagata</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sota</surname>, <given-names>T.</given-names>
+</string-name> (<year>2008</year>). <article-title>Dual function of seminal substances for mate guarding in a ground beetle</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>19</volume>, <fpage>1173</fpage>&#x02013;<lpage>1178</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0092"><mixed-citation publication-type="journal" id="ece35825-cit-0092">
+<string-name>
+<surname>Uhl&#x000e9;n</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fagerberg</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Hallstr&#x000f6;m</surname>, <given-names>B. M.</given-names>
+</string-name>, <string-name>
+<surname>Lindskog</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Oksvold</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Mardinoglu</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ponten</surname>, <given-names>F.</given-names>
+</string-name> (<year>2015</year>). <article-title>Tissue&#x02010;based map of the human proteome</article-title>. <source xml:lang="en">Science</source>, <volume>347</volume>, <fpage>1260419</fpage>.<pub-id pub-id-type="pmid">25613900</pub-id></mixed-citation></ref><ref id="ece35825-bib-0093"><mixed-citation publication-type="journal" id="ece35825-cit-0093">
+<string-name>
+<surname>Uhl&#x000e9;n</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Oksvold</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Fagerberg</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lundberg</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Jonasson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Forsberg</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ponten</surname>, <given-names>F.</given-names>
+</string-name> (<year>2010</year>). <article-title>Towards a knowledge&#x02010;based Human Protein Atlas</article-title>. <source xml:lang="en">Nature Biotechnology</source>, <volume>28</volume>, <fpage>1248</fpage>&#x02013;<lpage>1250</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0094"><mixed-citation publication-type="journal" id="ece35825-cit-0094">
+<string-name>
+<surname>Vellnow</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Marie&#x02010;Orleach</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zadesenets</surname>, <given-names>K. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Bigger testes increase paternity in a simultaneous hermaphrodite, independently of the sperm competition level</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>31</volume>, <fpage>180</fpage>&#x02013;<lpage>196</lpage>.<pub-id pub-id-type="pmid">29160913</pub-id></mixed-citation></ref><ref id="ece35825-bib-0095"><mixed-citation publication-type="journal" id="ece35825-cit-0095">
+<string-name>
+<surname>Vizoso</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Rieger</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2010</year>). <article-title>Goings&#x02010;on inside a worm: Functional hypotheses derived from sexual conflict thinking</article-title>. <source xml:lang="en">Biological Journal of the Linnean Society</source>, <volume>99</volume>, <fpage>370</fpage>&#x02013;<lpage>383</lpage>.</mixed-citation></ref><ref id="ece35825-bib-0096"><mixed-citation publication-type="journal" id="ece35825-cit-0096">
+<string-name>
+<surname>Weber</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wunderer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lengerer</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Pjeta</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Rodrigues</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ramm</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2018</year>). <article-title>A targeted in situ hybridization screen identifies putative seminal fluid proteins in a simultaneously hermaphroditic flatworm</article-title>. <source xml:lang="en">BMC Evolutionary Biology</source>, <volume>18</volume>, <fpage>81</fpage>.<pub-id pub-id-type="pmid">29848299</pub-id></mixed-citation></ref><ref id="ece35825-bib-0097"><mixed-citation publication-type="journal" id="ece35825-cit-0097">
+<string-name>
+<surname>Wigby</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chapman</surname>, <given-names>T.</given-names>
+</string-name> (<year>2005</year>). <article-title>Sex peptide causes mating costs in female <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Current Biology</source>, <volume>15</volume>, <fpage>316</fpage>&#x02013;<lpage>321</lpage>.<pub-id pub-id-type="pmid">15723791</pub-id></mixed-citation></ref><ref id="ece35825-bib-0098"><mixed-citation publication-type="journal" id="ece35825-cit-0098">
+<string-name>
+<surname>Wong</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Albright</surname>, <given-names>S. N.</given-names>
+</string-name>, <string-name>
+<surname>Giebel</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Ravi Ram</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Fiumera</surname>, <given-names>A. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2008</year>). <article-title>A role for Acp29AB, a predicted seminal fluid lectin, in female sperm storage in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Genetics</source>, <volume>180</volume>, <fpage>921</fpage>&#x02013;<lpage>931</lpage>.<pub-id pub-id-type="pmid">18757944</pub-id></mixed-citation></ref><ref id="ece35825-bib-0099"><mixed-citation publication-type="journal" id="ece35825-cit-0099">
+<string-name>
+<surname>Wudarski</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Simanov</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ustyantsev</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>De Mulder</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Grelling</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Grudniewska</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Berezikov</surname>, <given-names>E.</given-names>
+</string-name> (<year>2017</year>). <article-title>Efficient transgenesis and annotated genome sequence of the regenerative flatworm model <italic>Macrostomum lignano</italic>
+</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>8</volume>, <fpage>2120</fpage>.</mixed-citation></ref><ref id="ece35825-bib-0100"><mixed-citation publication-type="journal" id="ece35825-cit-0100">
+<string-name>
+<surname>Xu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Baulding</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Palli</surname>, <given-names>S. R.</given-names>
+</string-name> (<year>2013</year>). <article-title>Proteomics of <italic>Tribolium castaneum</italic> seminal fluid proteins: Identification of an angiotensin&#x02010;converting enzyme as a key player in regulation of reproduction</article-title>. <source xml:lang="en">Journal of Proteomics</source>, <volume>78</volume>, <fpage>83</fpage>&#x02013;<lpage>93</lpage>.<pub-id pub-id-type="pmid">23195916</pub-id></mixed-citation></ref><ref id="ece35825-bib-0101"><mixed-citation publication-type="journal" id="ece35825-cit-0101">
+<string-name>
+<surname>Yamane</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Miyatake</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kimura</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2008</year>). <article-title>Female mating receptivity after injection of male&#x02010;derived extracts in <italic>Callosobruchus maculatus</italic>
+</article-title>. <source xml:lang="en">Journal of Insect Physiology</source>, <volume>54</volume>, <fpage>1522</fpage>&#x02013;<lpage>1527</lpage>.<pub-id pub-id-type="pmid">18831977</pub-id></mixed-citation></ref><ref id="ece35825-bib-0102"><mixed-citation publication-type="journal" id="ece35825-cit-0102">
+<string-name>
+<surname>Yang</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Rumpf</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Xiang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Jan</surname>, <given-names>L. Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jan</surname>, <given-names>Y. N.</given-names>
+</string-name> (<year>2009</year>). <article-title>Control of the postmating behavioral switch in <italic>Drosophila</italic> females by internal sensory neurons</article-title>. <source xml:lang="en">Neuron</source>, <volume>61</volume>, <fpage>519</fpage>&#x02013;<lpage>526</lpage>.<pub-id pub-id-type="pmid">19249273</pub-id></mixed-citation></ref><ref id="ece35825-bib-0103"><mixed-citation publication-type="journal" id="ece35825-cit-0103">
+<string-name>
+<surname>Yapici</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>Y. J.</given-names>
+</string-name>, <string-name>
+<surname>Ribeiro</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dickson</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2008</year>). <article-title>A receptor that mediates the post&#x02010;mating switch in <italic>Drosophila</italic> reproductive behaviour</article-title>. <source xml:lang="en">Nature</source>, <volume>451</volume>, <fpage>33</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">18066048</pub-id></mixed-citation></ref><ref id="ece35825-bib-0104"><mixed-citation publication-type="journal" id="ece35825-cit-0104">
+<string-name>
+<surname>Zadesenets</surname>, <given-names>K. S.</given-names>
+</string-name>, <string-name>
+<surname>Vizoso</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Schlatter</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Konopatskaia</surname>, <given-names>I. D.</given-names>
+</string-name>, <string-name>
+<surname>Berezikov</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000e4;rer</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rubtsov</surname>, <given-names>N. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Evidence for karyotype polymorphism in the free&#x02010;living flatworm, <italic>Macrostomum lignano</italic>, a model organism for evolutionary and developmental biology</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>11</volume>, <elocation-id>e0164915</elocation-id>.<pub-id pub-id-type="pmid">27755577</pub-id></mixed-citation></ref></ref-list></back></article>

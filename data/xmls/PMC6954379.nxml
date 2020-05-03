@@ -1,0 +1,340 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Cardiol</journal-id><journal-id journal-id-type="iso-abbrev">Clin Cardiol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1932-8737</journal-id><journal-id journal-id-type="publisher-id">CLC</journal-id><journal-title-group><journal-title>Clinical Cardiology</journal-title></journal-title-group><issn pub-type="ppub">0160-9289</issn><issn pub-type="epub">1932-8737</issn><publisher><publisher-name>Wiley Periodicals, Inc.</publisher-name><publisher-loc>New York</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31785026</article-id><article-id pub-id-type="pmc">6954379</article-id><article-id pub-id-type="doi">10.1002/clc.23290</article-id><article-id pub-id-type="publisher-id">CLC23290</article-id><article-categories><subj-group subj-group-type="overline"><subject>Clinical Investigations</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical Investigations</subject></subj-group></article-categories><title-group><article-title>Risk of atrial fibrillation in patients with pneumoconiosis: A nationwide study in Taiwan</article-title><alt-title alt-title-type="left-running-head">Hu and Lin</alt-title></title-group><contrib-group><contrib id="clc23290-cr-0001" contrib-type="author" corresp="yes"><name><surname>Hu</surname><given-names>Wei&#x02010;Syun</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2478-923X</contrib-id><xref ref-type="aff" rid="clc23290-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="clc23290-aff-0002">
+<sup>2</sup>
+</xref><address><email>weisyunhu@gmail.com</email></address></contrib><contrib id="clc23290-cr-0002" contrib-type="author"><name><surname>Lin</surname><given-names>Cheng&#x02010;Li</given-names></name><xref ref-type="aff" rid="clc23290-aff-0003">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="clc23290-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">School of Medicine, College of Medicine</named-content>
+<institution>China Medical University</institution>
+<city>Taichung</city>
+<country country="TW">Taiwan</country>
+</aff><aff id="clc23290-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Division of Cardiovascular Medicine, Department of Medicine</named-content>
+<institution>China Medical University Hospital</institution>
+<city>Taichung</city>
+<country country="TW">Taiwan</country>
+</aff><aff id="clc23290-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Management Office for Health Data</named-content>
+<institution>China Medical University Hospital</institution>
+<city>Taichung</city>
+<country country="TW">Taiwan</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/> Wei&#x02010;Syun Hu, MD, PhD, Division of Cardiovascular Medicine, Department of Medicine, China Medical University Hospital, 2, Yuh&#x02010;Der Road, Taichung 40447, Taiwan.<break/>
+Email: <email>weisyunhu@gmail.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>43</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/clc.v43.1</issue-id><fpage>66</fpage><lpage>70</lpage><history><date date-type="received"><day>26</day><month>7</month><year>2019</year></date><date date-type="rev-recd"><day>25</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>31</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Clinical Cardiology</italic> published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CLC-43-66.pdf"/><abstract><title>Abstract</title><sec id="clc23290-sec-0001"><title>Background</title><p>To investigate the incidence of new&#x02010;onset atrial fibrillation (AF) among subjects with pneumoconiosis using the Taiwan National Health Insurance Research Database.</p></sec><sec id="clc23290-sec-0002"><title>Hypothesis</title><p>Pneumoconiosis patients are at an increased risk of AF.</p></sec><sec id="clc23290-sec-0003"><title>Methods</title><p>A total of 12&#x02009;209 pneumoconiosis patients were in the exposure cohort. Patients without pneumoconiosis were included as the comparison cohort. Both cohorts were matched by gender, age, comorbidity, and index year in a 1:1 manner. Multivariable cox proportional hazard model was used to calculate the adjusted hazard ratios (HRs) after adjustment for age, sex, and all comorbidities.</p></sec><sec id="clc23290-sec-0004"><title>Results</title><p>The risk of AF in pneumoconiosis patients was 1.30&#x02010;fold higher than that of controls (95% CI = 1.17&#x02010;1.44) was the key finding.</p></sec><sec id="clc23290-sec-0005"><title>Conclusions</title><p>Pneumoconiosis is associated with increased risk of incident AF.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="clc23290-kwd-0001">atrial fibrillation</kwd><kwd id="clc23290-kwd-0002">cohort</kwd><kwd id="clc23290-kwd-0003">pneumoconiosis</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Taiwan Ministry of Health and Welfare Clinical Trial and Research Center of Excellence</funding-source><award-id>MOHW108&#x02010;TDU&#x02010;B&#x02010;212&#x02010;133004</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="2"/><page-count count="5"/><word-count count="3010"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:11.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="clc23290-cit-9001">
+<string-name>
+<surname>Hu</surname>
+<given-names>W&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>C&#x02010;L</given-names>
+</string-name>. <article-title>Risk of atrial fibrillation in patients with pneumoconiosis: A nationwide study in Taiwan</article-title>. <source xml:lang="en">Clin Cardiol</source>. <year>2020</year>;<volume>43</volume>:<fpage>66</fpage>&#x02013;<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1002/clc.23290</pub-id>
+</mixed-citation>
+</p><fn-group><fn id="clc23290-note-1002"><p>
+<bold>Funding information</bold> Taiwan Ministry of Health and Welfare Clinical Trial and Research Center of Excellence, Grant/Award Number: MOHW108&#x02010;TDU&#x02010;B&#x02010;212&#x02010;133004</p></fn></fn-group></notes></front><body id="clc23290-body-0001"><sec id="clc23290-sec-0006"><label>1</label><title>INTRODUCTION</title><p>The importance of atrial fibrillation (AF) is increasing recognized since the impact of AF on thromboembolism, adverse cardiovascular outcomes and mortality has been evaluated and well documented.<xref rid="clc23290-bib-0001" ref-type="ref">1</xref>, <xref rid="clc23290-bib-0002" ref-type="ref">2</xref>, <xref rid="clc23290-bib-0003" ref-type="ref">3</xref> Indeed, CHA2DS2VASC score, which contained several critical comorbidities, is reported be a good predictor of poor outcomes in AF patients.<xref rid="clc23290-bib-0004" ref-type="ref">4</xref>, <xref rid="clc23290-bib-0005" ref-type="ref">5</xref>, <xref rid="clc23290-bib-0006" ref-type="ref">6</xref>, <xref rid="clc23290-bib-0007" ref-type="ref">7</xref>
+</p><p>Pneumoconiosis is a chronic condition with multiple triggering factors and includes multiple clinical presentations.<xref rid="clc23290-bib-0008" ref-type="ref">8</xref>, <xref rid="clc23290-bib-0009" ref-type="ref">9</xref>, <xref rid="clc23290-bib-0010" ref-type="ref">10</xref>, <xref rid="clc23290-bib-0011" ref-type="ref">11</xref>, <xref rid="clc23290-bib-0012" ref-type="ref">12</xref>, <xref rid="clc23290-bib-0013" ref-type="ref">13</xref> Moreover, the course can be influenced by permanent exposure to toxins, including tobacco.<xref rid="clc23290-bib-0008" ref-type="ref">8</xref>, <xref rid="clc23290-bib-0009" ref-type="ref">9</xref>, <xref rid="clc23290-bib-0010" ref-type="ref">10</xref>, <xref rid="clc23290-bib-0011" ref-type="ref">11</xref>, <xref rid="clc23290-bib-0012" ref-type="ref">12</xref>, <xref rid="clc23290-bib-0013" ref-type="ref">13</xref> Indeed, pneumoconiosis, one kind of environmental lung disease, has been postulated across a number of clinical studies to commonly coexist with cardiovascular diseases.<xref rid="clc23290-bib-0008" ref-type="ref">8</xref>, <xref rid="clc23290-bib-0009" ref-type="ref">9</xref>, <xref rid="clc23290-bib-0010" ref-type="ref">10</xref>, <xref rid="clc23290-bib-0011" ref-type="ref">11</xref>, <xref rid="clc23290-bib-0012" ref-type="ref">12</xref>, <xref rid="clc23290-bib-0013" ref-type="ref">13</xref> However, there is no data presented regarding pneumoconiosis and AF. Using a large administrative database in Taiwan, we argued whether this association exists and to explore whether pneumoconiosis is a risk factor for (or &#x0201c;an independent predictor of&#x0201d;) AF.</p></sec><sec id="clc23290-sec-0007"><label>2</label><title>METHODS</title><sec id="clc23290-sec-0008"><label>2.1</label><title>Data source</title><p>All data were acquired from the National Health Insurance Research Database (NHIRD), which was established by National Health Research Institutes and insured over 99% residents in Taiwan.<xref rid="clc23290-bib-0014" ref-type="ref">14</xref> The database contained abundant health and medical treatment information of the insurant. In the present study, we used inpatient file to explore the association between pneumoconiosis (ICD&#x02010;9&#x02010;CM code 500, 501, 502, 503, and 505) and AF (ICD&#x02010;9&#x02010;CM code 427.31). We further confirmed the diagnosis of pneumoconiosis using Registry of Catastrophic Illness Patient Database (RCIPD), which was a subset of the NHIRD. RCIPD contained the insurant who met the qualifications of catastrophic illnesses card (30 categories of diseases requiring long&#x02010;term care, such as liver cirrhosis with complication, chronic renal failure, malignant neoplasm, and chronic mental illness). A rigorous laboratory, pathological examination and clinical diagnosis is evaluated before the patient is issued with a Catastrophic Illness Certificate (CIC). RCIPD contained demographic data (including sex and date of birth ) and relevant information regarding CIC status (including category of catastrophic illness, date of diagnosis, and so on). Besides, all history diagnoses in the database were coded according to the International Classification of Disease, Ninth Revision, Clinical Modification (ICD&#x02010;9&#x02010;CM). The Research Ethics Committee of China Medical University and Hospital in Taiwan approved the study (CMUH&#x02010;104&#x02010;REC2&#x02010;115&#x02010;R3).</p></sec><sec id="clc23290-sec-0009"><label>2.2</label><title>Study population</title><p>The exposure cohort was enrolled from RCIPD with a diagnosis of pneumoconiosis during 2000 to 2011, and the diagnosis date was defined as the index date. We excluded patients who were younger than 20&#x02009;years old or who had preexisting AF prior to the index date.</p><p>A total of 12&#x02009;209 pneumoconiosis patients were in the exposure cohort.</p><p>Patients without pneumoconiosis were included as the comparison cohort. The comparison cohort was collected using the same criteria as exposure cohort and individually matched by gender, age, comorbidity, and index year in a 1:1 manner. The endpoint of follow&#x02010;up was the date of AF diagnosis, death, withdrawal from NHI, or December 31, 2013, whichever came first. Comorbidities included hypertension, diabetes mellitus, hyperlipidemia, coronary artery disease (CAD), peripheral arterial occlusive disease (PAOD), chronic obstructive pulmonary disease (COPD), heart failure, asthma, interstitial lung disease, bronchiectasis, tuberculosis, liver cirrhosis, cancer, chronic kidney disease, hyperthyroidism, gout, sleep disorders, and stroke.</p></sec><sec id="clc23290-sec-0010"><label>2.3</label><title>Statistical analysis</title><p>The statistical differences between two cohorts were determined through the chi&#x02010;square test for categorical variables and <italic>t</italic> test for continuous variables, respectively. Cox's proportional hazards model were used to evaluate the hazard ratio (HR) for exploring the association between pneumoconiosis and AF. Multivariable cox proportional hazard model was used to calculate the adjusted HRs after adjustment for age, sex, and all comorbidities. Analysis of stratification by age, gender, and comorbidity was performed to explore the association between pneumoconiosis and AF among the specific population. The cumulative incidence of AF was estimated using the Kaplan&#x02010;Meier method, and a log&#x02010;rank test was used to compare the incidence curves of the exposure cohort and comparison cohort. In this study, SAS 9.4 (SAS Institute, Inc., Cary, NC) was used for statistical analysis and the results were considered statistically significant if the two&#x02010;tailed <italic>P</italic>&#x02010;values were&#x02009;&#x0003c;&#x02009;.05.</p></sec></sec><sec id="clc23290-sec-0011"><label>3</label><title>RESULTS</title><p>The mean (SD) of follow&#x02010;up in years was 8.12 (4.21) for exposure cohort and 8.76 (3.99) for comparison cohort. Distribution of baseline characteristics was described as number and percentage and is shown in Table <xref rid="clc23290-tbl-0001" ref-type="table">1</xref>. The mean (SD) age was 68.4 (7.06) and 68.4 (7.4) in the exposure cohort and comparison cohort, respectively. There were 88% male and 11% female in the study cohort. Comorbidities had no difference between exposure cohort and comparison cohort except for chronic kidney disease (<italic>P</italic> = .03). The exposure cohort had a significant higher cumulative incidence rate of AF than comparison cohort with a log&#x02010;rank test <italic>P</italic>&#x02009;&#x0003c;&#x02009;.001 (Figure <xref rid="clc23290-fig-0001" ref-type="fig">1</xref>).</p><table-wrap id="clc23290-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Characteristics of patients with pneumoconiosis and matched subjects without pneumoconiosis</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="4" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Pneumoconiosis</th><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Yes</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">No</th><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">(N = 12&#x02009;209)</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">(N = 12&#x02009;209)</th><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">n</th><th align="left" valign="bottom" rowspan="1" colspan="1">%</th><th align="left" valign="bottom" rowspan="1" colspan="1">n</th><th align="left" valign="bottom" rowspan="1" colspan="1">%</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, year</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">.64</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&#x02264;64</td><td align="left" valign="top" rowspan="1" colspan="1">3813</td><td align="left" valign="top" rowspan="1" colspan="1">31.2</td><td align="left" valign="top" rowspan="1" colspan="1">3786</td><td align="left" valign="top" rowspan="1" colspan="1">31.0</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">65&#x02010;74</td><td align="left" valign="top" rowspan="1" colspan="1">6370</td><td align="left" valign="top" rowspan="1" colspan="1">52.2</td><td align="left" valign="top" rowspan="1" colspan="1">6342</td><td align="left" valign="top" rowspan="1" colspan="1">52.0</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&#x02265;75</td><td align="left" valign="top" rowspan="1" colspan="1">2026</td><td align="left" valign="top" rowspan="1" colspan="1">16.6</td><td align="left" valign="top" rowspan="1" colspan="1">2081</td><td align="left" valign="top" rowspan="1" colspan="1">17.0</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">68.4</td><td align="left" valign="top" rowspan="1" colspan="1">7.06</td><td align="left" valign="top" rowspan="1" colspan="1">68.4</td><td align="left" valign="top" rowspan="1" colspan="1">7.40</td><td align="left" valign="top" rowspan="1" colspan="1">.98</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">0.50</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="left" valign="top" rowspan="1" colspan="1">1393</td><td align="left" valign="top" rowspan="1" colspan="1">11.4</td><td align="left" valign="top" rowspan="1" colspan="1">1427</td><td align="left" valign="top" rowspan="1" colspan="1">11.7</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="left" valign="top" rowspan="1" colspan="1">10&#x02009;816</td><td align="left" valign="top" rowspan="1" colspan="1">88.6</td><td align="left" valign="top" rowspan="1" colspan="1">10&#x02009;782</td><td align="left" valign="top" rowspan="1" colspan="1">88.3</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Comorbidity</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Hypertension</td><td align="left" valign="top" rowspan="1" colspan="1">5367</td><td align="left" valign="top" rowspan="1" colspan="1">44.0</td><td align="left" valign="top" rowspan="1" colspan="1">5370</td><td align="left" valign="top" rowspan="1" colspan="1">44.0</td><td align="left" valign="top" rowspan="1" colspan="1">0.97</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Diabetes mellitus</td><td align="left" valign="top" rowspan="1" colspan="1">2609</td><td align="left" valign="top" rowspan="1" colspan="1">21.4</td><td align="left" valign="top" rowspan="1" colspan="1">2598</td><td align="left" valign="top" rowspan="1" colspan="1">21.3</td><td align="left" valign="top" rowspan="1" colspan="1">0.86</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Hyperlipidemia</td><td align="left" valign="top" rowspan="1" colspan="1">1290</td><td align="left" valign="top" rowspan="1" colspan="1">10.6</td><td align="left" valign="top" rowspan="1" colspan="1">1247</td><td align="left" valign="top" rowspan="1" colspan="1">10.2</td><td align="left" valign="top" rowspan="1" colspan="1">0.37</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Coronary artery disease (CAD)</td><td align="left" valign="top" rowspan="1" colspan="1">2919</td><td align="left" valign="top" rowspan="1" colspan="1">23.9</td><td align="left" valign="top" rowspan="1" colspan="1">2877</td><td align="left" valign="top" rowspan="1" colspan="1">23.6</td><td align="left" valign="top" rowspan="1" colspan="1">0.53</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Peripheral arterial occlusive disease (PAOD)</td><td align="left" valign="top" rowspan="1" colspan="1">328</td><td align="left" valign="top" rowspan="1" colspan="1">2.69</td><td align="left" valign="top" rowspan="1" colspan="1">310</td><td align="left" valign="top" rowspan="1" colspan="1">2.54</td><td align="left" valign="top" rowspan="1" colspan="1">0.47</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Chronic obstructive pulmonary disease (COPD)</td><td align="left" valign="top" rowspan="1" colspan="1">4697</td><td align="left" valign="top" rowspan="1" colspan="1">38.5</td><td align="left" valign="top" rowspan="1" colspan="1">4739</td><td align="left" valign="top" rowspan="1" colspan="1">38.8</td><td align="left" valign="top" rowspan="1" colspan="1">0.58</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Heart failure</td><td align="left" valign="top" rowspan="1" colspan="1">1507</td><td align="left" valign="top" rowspan="1" colspan="1">12.3</td><td align="left" valign="top" rowspan="1" colspan="1">1418</td><td align="left" valign="top" rowspan="1" colspan="1">11.6</td><td align="left" valign="top" rowspan="1" colspan="1">0.08</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Asthma</td><td align="left" valign="top" rowspan="1" colspan="1">1770</td><td align="left" valign="top" rowspan="1" colspan="1">14.5</td><td align="left" valign="top" rowspan="1" colspan="1">1699</td><td align="left" valign="top" rowspan="1" colspan="1">13.9</td><td align="left" valign="top" rowspan="1" colspan="1">0.19</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Interstitial lung disease</td><td align="left" valign="top" rowspan="1" colspan="1">26</td><td align="left" valign="top" rowspan="1" colspan="1">0.21</td><td align="left" valign="top" rowspan="1" colspan="1">21</td><td align="left" valign="top" rowspan="1" colspan="1">0.17</td><td align="left" valign="top" rowspan="1" colspan="1">0.47</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Bronchiectasis</td><td align="left" valign="top" rowspan="1" colspan="1">4746</td><td align="left" valign="top" rowspan="1" colspan="1">38.9</td><td align="left" valign="top" rowspan="1" colspan="1">4790</td><td align="left" valign="top" rowspan="1" colspan="1">39.2</td><td align="left" valign="top" rowspan="1" colspan="1">0.56</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Tuberculosis</td><td align="left" valign="top" rowspan="1" colspan="1">1945</td><td align="left" valign="top" rowspan="1" colspan="1">15.9</td><td align="left" valign="top" rowspan="1" colspan="1">1909</td><td align="left" valign="top" rowspan="1" colspan="1">15.6</td><td align="left" valign="top" rowspan="1" colspan="1">0.53</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Liver cirrhosis</td><td align="left" valign="top" rowspan="1" colspan="1">1513</td><td align="left" valign="top" rowspan="1" colspan="1">12.4</td><td align="left" valign="top" rowspan="1" colspan="1">1465</td><td align="left" valign="top" rowspan="1" colspan="1">12.0</td><td align="left" valign="top" rowspan="1" colspan="1">0.35</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Cancer</td><td align="left" valign="top" rowspan="1" colspan="1">1924</td><td align="left" valign="top" rowspan="1" colspan="1">15.8</td><td align="left" valign="top" rowspan="1" colspan="1">1867</td><td align="left" valign="top" rowspan="1" colspan="1">15.3</td><td align="left" valign="top" rowspan="1" colspan="1">0.31</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Chronic kidney disease</td><td align="left" valign="top" rowspan="1" colspan="1">535</td><td align="left" valign="top" rowspan="1" colspan="1">4.38</td><td align="left" valign="top" rowspan="1" colspan="1">468</td><td align="left" valign="top" rowspan="1" colspan="1">3.83</td><td align="left" valign="top" rowspan="1" colspan="1">0.03</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Hyperthyroidism</td><td align="left" valign="top" rowspan="1" colspan="1">46</td><td align="left" valign="top" rowspan="1" colspan="1">0.38</td><td align="left" valign="top" rowspan="1" colspan="1">41</td><td align="left" valign="top" rowspan="1" colspan="1">0.34</td><td align="left" valign="top" rowspan="1" colspan="1">0.59</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Gout</td><td align="left" valign="top" rowspan="1" colspan="1">1384</td><td align="left" valign="top" rowspan="1" colspan="1">11.3</td><td align="left" valign="top" rowspan="1" colspan="1">1359</td><td align="left" valign="top" rowspan="1" colspan="1">11.1</td><td align="left" valign="top" rowspan="1" colspan="1">0.61</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Sleep disorders</td><td align="left" valign="top" rowspan="1" colspan="1">488</td><td align="left" valign="top" rowspan="1" colspan="1">4.00</td><td align="left" valign="top" rowspan="1" colspan="1">447</td><td align="left" valign="top" rowspan="1" colspan="1">3.66</td><td align="left" valign="top" rowspan="1" colspan="1">0.17</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Stroke</td><td align="left" valign="top" rowspan="1" colspan="1">2574</td><td align="left" valign="top" rowspan="1" colspan="1">21.1</td><td align="left" valign="top" rowspan="1" colspan="1">2598</td><td align="left" valign="top" rowspan="1" colspan="1">21.3</td><td align="left" valign="top" rowspan="1" colspan="1">0.71</td></tr></tbody></table></table-wrap><fig fig-type="Figure" xml:lang="en" id="clc23290-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Cumulative incidence of atrial fibrillation for patients with and without pneumoconiosis</p></caption><graphic id="nlm-graphic-1" xlink:href="CLC-43-66-g001"/></fig><p>Pneumoconiosis was significantly associated with AF with a 1.30&#x02010;fold increased risk. Among male subjects, compared to comparison cohort, those with pneumoconiosis had multivariate HR (95% CI) for AF of 1.33 (1.19&#x02010;1.48). Among subjects younger than 64&#x02009;years, compared to comparison cohort, those with pneumoconiosis had multivariate HR (95% CI) for AF of 1.58 (1.23&#x02010;2.03). Among subjects aged 65&#x02010;74&#x02009;years, compared to comparison cohort, those with pneumoconiosis had multivariate HR (95% CI) for AF of 1.26 (1.10&#x02010;1.44). Among subjects without any comorbidities, compared to comparison cohort, those with pneumoconiosis had multivariate HR (95% CI) for AF of 1.70 (1.35&#x02010;2.14). Among subjects with any comorbidities, compared to comparison cohort, those with pneumoconiosis had multivariate HR (95% CI) for AF of 1.21 (1.08&#x02010;1.35) (Table <xref rid="clc23290-tbl-0002" ref-type="table">2</xref>).</p><table-wrap id="clc23290-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Incidence and hazard ratio of atrial fibrillation between patients with and without pneumoconiosis</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="6" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Pneumoconiosis</th><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Yes</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">No</th><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Outcome</th><th align="left" valign="bottom" rowspan="1" colspan="1">Event</th><th align="left" valign="bottom" rowspan="1" colspan="1">PY</th><th align="left" valign="bottom" rowspan="1" colspan="1">Rate<xref ref-type="fn" rid="clc23290-note-0003">a</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Event</th><th align="left" valign="bottom" rowspan="1" colspan="1">PY</th><th align="left" valign="bottom" rowspan="1" colspan="1">Rate<xref ref-type="fn" rid="clc23290-note-0003">a</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Crude HR<xref ref-type="fn" rid="clc23290-note-0004">b</xref> (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Adjusted HR<xref ref-type="fn" rid="clc23290-note-0005">c</xref> (95% CI)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">All</td><td align="char" valign="top" rowspan="1" colspan="1">804</td><td align="left" valign="top" rowspan="1" colspan="1">99&#x02009;127</td><td align="left" valign="top" rowspan="1" colspan="1">81.1</td><td align="left" valign="top" rowspan="1" colspan="1">699</td><td align="left" valign="top" rowspan="1" colspan="1">106&#x02009;986</td><td align="left" valign="top" rowspan="1" colspan="1">65.3</td><td align="left" valign="top" rowspan="1" colspan="1">1.25 (1.13, 1.39)***</td><td align="left" valign="top" rowspan="1" colspan="1">1.30 (1.17, 1.44)***</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender</td><td align="char" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="char" valign="top" rowspan="1" colspan="1">81</td><td align="left" valign="top" rowspan="1" colspan="1">13&#x02009;188</td><td align="left" valign="top" rowspan="1" colspan="1">61.4</td><td align="left" valign="top" rowspan="1" colspan="1">78</td><td align="left" valign="top" rowspan="1" colspan="1">13&#x02009;429</td><td align="left" valign="top" rowspan="1" colspan="1">58.1</td><td align="left" valign="top" rowspan="1" colspan="1">1.06 (0.78, 1.45)</td><td align="left" valign="top" rowspan="1" colspan="1">1.10 (0.80, 1.50)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="char" valign="top" rowspan="1" colspan="1">723</td><td align="left" valign="top" rowspan="1" colspan="1">85&#x02009;939</td><td align="left" valign="top" rowspan="1" colspan="1">84.1</td><td align="left" valign="top" rowspan="1" colspan="1">621</td><td align="left" valign="top" rowspan="1" colspan="1">93&#x02009;556</td><td align="left" valign="top" rowspan="1" colspan="1">66.4</td><td align="left" valign="top" rowspan="1" colspan="1">1.28 (1.15, 1.43)***</td><td align="left" valign="top" rowspan="1" colspan="1">1.33 (1.19, 1.48)***</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, year</td><td align="char" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&#x02264;64</td><td align="char" valign="top" rowspan="1" colspan="1">147</td><td align="left" valign="top" rowspan="1" colspan="1">34&#x02009;753</td><td align="left" valign="top" rowspan="1" colspan="1">42.3</td><td align="left" valign="top" rowspan="1" colspan="1">103</td><td align="left" valign="top" rowspan="1" colspan="1">36&#x02009;953</td><td align="left" valign="top" rowspan="1" colspan="1">27.9</td><td align="left" valign="top" rowspan="1" colspan="1">1.54 (1.19, 1.97)***</td><td align="left" valign="top" rowspan="1" colspan="1">1.58 (1.23, 2.03)***</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">65&#x02010;74</td><td align="char" valign="top" rowspan="1" colspan="1">463</td><td align="left" valign="top" rowspan="1" colspan="1">52&#x02009;733</td><td align="left" valign="top" rowspan="1" colspan="1">87.8</td><td align="left" valign="top" rowspan="1" colspan="1">405</td><td align="left" valign="top" rowspan="1" colspan="1">56&#x02009;383</td><td align="left" valign="top" rowspan="1" colspan="1">71.8</td><td align="left" valign="top" rowspan="1" colspan="1">1.24 (1.08, 1.41)**</td><td align="left" valign="top" rowspan="1" colspan="1">1.26 (1.10, 1.44)***</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&#x02265;75</td><td align="char" valign="top" rowspan="1" colspan="1">194</td><td align="left" valign="top" rowspan="1" colspan="1">11&#x02009;642</td><td align="left" valign="top" rowspan="1" colspan="1">166.7</td><td align="left" valign="top" rowspan="1" colspan="1">191</td><td align="left" valign="top" rowspan="1" colspan="1">13&#x02009;649</td><td align="left" valign="top" rowspan="1" colspan="1">139.9</td><td align="left" valign="top" rowspan="1" colspan="1">1.21 (0.99, 1.48)</td><td align="left" valign="top" rowspan="1" colspan="1">1.19 (0.97, 1.45)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Comorbidity<xref ref-type="fn" rid="clc23290-note-0006">d</xref>
+</td><td align="char" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No</td><td align="char" valign="top" rowspan="1" colspan="1">182</td><td align="left" valign="top" rowspan="1" colspan="1">23&#x02009;017</td><td align="left" valign="top" rowspan="1" colspan="1">79.1</td><td align="left" valign="top" rowspan="1" colspan="1">119</td><td align="left" valign="top" rowspan="1" colspan="1">24&#x02009;683</td><td align="left" valign="top" rowspan="1" colspan="1">48.2</td><td align="left" valign="top" rowspan="1" colspan="1">1.64 (1.30, 2.06)***</td><td align="left" valign="top" rowspan="1" colspan="1">1.70 (1.35, 2.14)***</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" valign="top" rowspan="1" colspan="1">622</td><td align="left" valign="top" rowspan="1" colspan="1">76&#x02009;110</td><td align="left" valign="top" rowspan="1" colspan="1">81.7</td><td align="left" valign="top" rowspan="1" colspan="1">580</td><td align="left" valign="top" rowspan="1" colspan="1">82&#x02009;302</td><td align="left" valign="top" rowspan="1" colspan="1">70.5</td><td align="left" valign="top" rowspan="1" colspan="1">1.17 (1.05, 1.32)**</td><td align="left" valign="top" rowspan="1" colspan="1">1.21 (1.08, 1.35)**</td></tr></tbody></table><table-wrap-foot id="clc23290-ntgp-0002"><fn id="clc23290-note-0002"><p>Abbreviation: PY, person years.</p></fn><fn id="clc23290-note-0003"><label>a</label><p>Incidence rate per 10&#x02009;000 person&#x02010;years.</p></fn><fn id="clc23290-note-0004"><label>b</label><p>Relative hazard ratio.</p></fn><fn id="clc23290-note-0005"><label>c</label><p> Adjusted for age, sex, and all comorbidities listed in Table <xref rid="clc23290-tbl-0001" ref-type="table">1</xref>.</p></fn><fn id="clc23290-note-0006"><label>d</label><p>Patients with any one of the following comorbidities were classified as the comorbidity group: hypertension, diabetes mellitus, hyperlipidemia, coronary artery disease (CAD), peripheral arterial occlusive disease (PAOD), chronic obstructive pulmonary disease (COPD), heart failure, asthma, interstitial lung disease, bronchiectasis, tuberculosis, liver cirrhosis, cancer, chronic kidney disease, hyperthyroidism, gout, sleep disorders, and stroke.</p></fn><fn id="clc23290-note-0007"><p>**<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01; ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001.</p></fn></table-wrap-foot></table-wrap></sec><sec id="clc23290-sec-0012"><label>4</label><title>DISCUSSION</title><p>This retrospective study tried to investigate whether pneumoconiosis and AF are associated, and turned up with a positive answer. Patients with pneumoconiosis had a 30% higher risk of incident AF at a mean follow&#x02010;up of 8&#x02009;years; this remained significant after adjustment for potential confounders by multivariable cox proportional hazard model analysis. The greatest strength of this study is its sample size. Moreover, the study methodology is reasonable, the follow&#x02010;up data was relatively robust, making this finding reliable. The results may provide an original contribution on the risk factors for AF development.</p><p>Based upon our results, this novel finding serves to generate an interesting hypothesis for further investigation. The most important question that this study raises is the relevance of this finding to the mechanism of AF. Some might argue that perhaps pneumoconiosis results in a greater vascular insult that may potentiate AF,<xref rid="clc23290-bib-0009" ref-type="ref">9</xref>, <xref rid="clc23290-bib-0010" ref-type="ref">10</xref>, <xref rid="clc23290-bib-0011" ref-type="ref">11</xref> or this group identifies a sicker cohort of patients that are more predisposed to development of AF. However, based upon our findings the association between pneumoconiosis and AF is even stronger in the subgroup of no comorbidity after adjustment for the covariates. Furthermore, both cohorts were relatively similar in terms of the prevalence of underlying medical comorbidities. In teasing out these distinctions, it might also reflect on the potential role that pneumoconiosis may play in atrial remodeling. Lung diseases commonly coexist, mostly due to shared common risk factors.<xref rid="clc23290-bib-0015" ref-type="ref">15</xref>, <xref rid="clc23290-bib-0016" ref-type="ref">16</xref>, <xref rid="clc23290-bib-0017" ref-type="ref">17</xref>, <xref rid="clc23290-bib-0018" ref-type="ref">18</xref>, <xref rid="clc23290-bib-0019" ref-type="ref">19</xref>, <xref rid="clc23290-bib-0020" ref-type="ref">20</xref>, <xref rid="clc23290-bib-0021" ref-type="ref">21</xref> In clinical practice, however, we may overlook coexistence of lung diseases and the risk of incident AF.<xref rid="clc23290-bib-0015" ref-type="ref">15</xref>, <xref rid="clc23290-bib-0016" ref-type="ref">16</xref>, <xref rid="clc23290-bib-0017" ref-type="ref">17</xref>, <xref rid="clc23290-bib-0018" ref-type="ref">18</xref>, <xref rid="clc23290-bib-0019" ref-type="ref">19</xref>, <xref rid="clc23290-bib-0020" ref-type="ref">20</xref>, <xref rid="clc23290-bib-0021" ref-type="ref">21</xref>, <xref rid="clc23290-bib-0022" ref-type="ref">22</xref>, <xref rid="clc23290-bib-0023" ref-type="ref">23</xref>, <xref rid="clc23290-bib-0024" ref-type="ref">24</xref>, <xref rid="clc23290-bib-0025" ref-type="ref">25</xref> There is great evidence in place to link bronchiectasis, COPD, asthma, interstitial lung disease, and AF and the risk of events.<xref rid="clc23290-bib-0022" ref-type="ref">22</xref>, <xref rid="clc23290-bib-0023" ref-type="ref">23</xref>, <xref rid="clc23290-bib-0024" ref-type="ref">24</xref>, <xref rid="clc23290-bib-0025" ref-type="ref">25</xref> In this study, the risk ratio is more profound in the subgroup of male gender and younger age after adjusting for an exhaustive list of covariates; implying that these population deserves more attention and future studies are encouraged to explore the fundamental mechanistic hypothesis in light of the link between pneumoconiosis and AF.</p></sec><sec id="clc23290-sec-0013"><label>5</label><title>LIMITATIONS</title><p>First, the apparent relationship could be related to presence of several unmeasured confounders or of ascertainment bias. Second, lack of information on body mass index, physical activity, and alcohol use, which are major risk factors for AF and could have played a role as well. Finally, the diagnosis of AF was not made by ECG or Holter. There is also no information on types of AF (paroxysmal, persistent, or permanent). Neither was the data on treatment performed (medication, pulmonary vein ablation, AV node ablation&#x02009;+&#x02009;pacemaker, flutter ablation) provided. Despite these study limitations which can probably attenuate generalization of the results presented here; our study, a novel and interesting real&#x02010;world observation, reports on an increased AF rate in patients with pneumoconiosis.</p></sec><sec id="clc23290-sec-0014"><label>6</label><title>CONCLUSION</title><p>Based on our results, pneumoconiosis and incident AF are associated.</p></sec><sec sec-type="COI-statement" id="clc23290-sec-0016"><title>CONFLICT OF INTEREST</title><p>The authors declare no potential conflict of interests.</p></sec></body><back><ack id="clc23290-sec-0015"><title>ACKNOWLEDGMENT</title><p>This study was supported in part by Taiwan Ministry of Health and Welfare Clinical Trial and Research Center of Excellence (MOHW108&#x02010;TDU&#x02010;B&#x02010;212&#x02010;133004).</p></ack><ref-list id="clc23290-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="clc23290-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="clc23290-cit-0001">
+<string-name>
+<surname>Chugh</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Roth</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Gillum</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Mensah</surname>
+<given-names>GA</given-names>
+</string-name>. <article-title>Global burden of atrial fibrillation in developed and developing nations</article-title>. <source xml:lang="en">Glob Heart</source>. <year>2014</year>;<volume>9</volume>(<issue>1</issue>):<fpage>113</fpage>&#x02010;<lpage>119</lpage>.<pub-id pub-id-type="pmid">25432121</pub-id></mixed-citation></ref><ref id="clc23290-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="clc23290-cit-0002">
+<string-name>
+<surname>Kannel</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Benjamin</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Prevalence, incidence, prognosis, and predisposing conditions for atrial fibrillation: population&#x02010;based estimates</article-title>. <source xml:lang="en">Am J Cardiol</source>. <year>1998</year>;<volume>82</volume>(<issue>8A</issue>):<fpage>2N</fpage>&#x02010;<lpage>9N</lpage>.</mixed-citation></ref><ref id="clc23290-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="clc23290-cit-0003">
+<string-name>
+<surname>Benjamin</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>D'Agostino</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Silbershatz</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kannel</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Impact of atrial fibrillation on the risk of death: the Framingham heart study</article-title>. <source xml:lang="en">Circulation</source>. <year>1998</year>;<volume>98</volume>(<issue>10</issue>):<fpage>946</fpage>&#x02010;<lpage>952</lpage>.<pub-id pub-id-type="pmid">9737513</pub-id></mixed-citation></ref><ref id="clc23290-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="clc23290-cit-0004">
+<string-name>
+<surname>Fuster</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Ryd&#x000e9;n</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Cannom</surname>
+<given-names>DS</given-names>
+</string-name>, et al. <article-title>American College of Cardiology Foundation/American Heart Association Task Force. 2011 ACCF/AHA/HRS focused updates incorporated into the ACC/AHA/ESC 2006 guidelines for the management of patients with atrial fibrillation: a report of the American College of Cardiology Foundation/American Heart Association Task Force on practice guidelines</article-title>. <source xml:lang="en">Circulation</source>. <year>2011</year>;<volume>123</volume>(<issue>10</issue>):<fpage>e269</fpage>&#x02010;<lpage>e367</lpage>.<pub-id pub-id-type="pmid">21382897</pub-id></mixed-citation></ref><ref id="clc23290-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="clc23290-cit-0005">
+<string-name>
+<surname>Camm</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Lip</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name>
+<surname>De Caterina</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>ESC Committee for Practice Guidelines (CPG). 2012 focused update of the ESC Guidelines for the management of atrial fibrillation: an update of the 2010 ESC Guidelines for the management of atrial fibrillation. Developed with the special contribution of the European Heart Rhythm Association</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2012</year>;<volume>33</volume>(<issue>21</issue>):<fpage>2719</fpage>&#x02010;<lpage>2747</lpage>.<pub-id pub-id-type="pmid">22922413</pub-id></mixed-citation></ref><ref id="clc23290-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="clc23290-cit-0006">
+<string-name>
+<surname>Lip</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name>
+<surname>Nieuwlaat</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Pisters</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lane</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Crijns</surname>
+<given-names>HJ</given-names>
+</string-name>. <article-title>Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor&#x02010;based approach: the euro heart survey on atrial fibrillation</article-title>. <source xml:lang="en">Chest</source>. <year>2010</year>;<volume>137</volume>(<issue>2</issue>):<fpage>263</fpage>&#x02010;<lpage>272</lpage>.<pub-id pub-id-type="pmid">19762550</pub-id></mixed-citation></ref><ref id="clc23290-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="clc23290-cit-0007">
+<string-name>
+<surname>Hu</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>CHA2DS2&#x02010;VASc score in the prediction of ischemic bowel disease among patients with atrial fibrillation: insights from a nationwide cohort</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2017</year>;<volume>235</volume>:<fpage>56</fpage>&#x02010;<lpage>60</lpage>.<pub-id pub-id-type="pmid">28262350</pub-id></mixed-citation></ref><ref id="clc23290-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="clc23290-cit-0008">
+<string-name>
+<surname>Wang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Pathway analysis for a genome&#x02010;wide association study of pneumoconiosis</article-title>. <source xml:lang="en">Toxicol Lett</source>. <year>2015</year>;<volume>232</volume>(<issue>1</issue>):<fpage>284</fpage>&#x02010;<lpage>292</lpage>.<pub-id pub-id-type="pmid">25445010</pub-id></mixed-citation></ref><ref id="clc23290-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="clc23290-cit-0009">
+<string-name>
+<surname>Yen</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>HY</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name>
+<surname>Kao</surname>
+<given-names>CH</given-names>
+</string-name>. <article-title>Pneumoconiosis increases the risk of congestive heart failure: a nationwide population&#x02010;based cohort study</article-title>. <source xml:lang="en">Medicine (Baltimore)</source>. <year>2016</year>;<volume>95</volume>(<issue>25</issue>):<fpage>e3972</fpage>.<pub-id pub-id-type="pmid">27336897</pub-id></mixed-citation></ref><ref id="clc23290-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="clc23290-cit-0010">
+<string-name>
+<surname>Chuang</surname>
+<given-names>CS1</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Kao</surname>
+<given-names>CH</given-names>
+</string-name>. <article-title>Risk of cerebrovascular events in pneumoconiosis patients: a population&#x02010;based study, 1996&#x02010;2011</article-title>. <source xml:lang="en">Medicine (Baltimore)</source>. <year>2016</year>;<volume>95</volume>(<issue>9</issue>):<fpage>e2944</fpage>.<pub-id pub-id-type="pmid">26945404</pub-id></mixed-citation></ref><ref id="clc23290-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="clc23290-cit-0011">
+<string-name>
+<surname>Shen</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>TY</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>WY</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Kao</surname>
+<given-names>CH</given-names>
+</string-name>. <article-title>Pneumoconiosis increases the risk of peripheral arterial disease: a nationwide population&#x02010;based study</article-title>. <source xml:lang="en">Medicine (Baltimore)</source>. <year>2015</year>;<volume>94</volume>(<issue>21</issue>):<fpage>e911</fpage>.<pub-id pub-id-type="pmid">26020403</pub-id></mixed-citation></ref><ref id="clc23290-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="clc23290-cit-0012">
+<string-name>
+<surname>Chen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Eva</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Long&#x02010;term exposure to silica dust and risk of total and cause&#x02010;specific mortality in Chinese workers: a cohort study</article-title>. <source xml:lang="en">PLoS Med</source>. <year>2012</year>;<volume>9</volume>:<fpage>e1001206</fpage>.<pub-id pub-id-type="pmid">22529751</pub-id></mixed-citation></ref><ref id="clc23290-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="clc23290-cit-0013">
+<string-name>
+<surname>Landen</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Wassell</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>McWilliams</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Coal dust exposure and mortality from ischemic heart disease among a cohort of U.S. coal miners</article-title>. <source xml:lang="en">Am J Ind Med</source>. <year>2011</year>;<volume>54</volume>:<fpage>727</fpage>&#x02010;<lpage>733</lpage>.<pub-id pub-id-type="pmid">21761428</pub-id></mixed-citation></ref><ref id="clc23290-bib-0014"><label>14</label><mixed-citation publication-type="miscellaneous" id="clc23290-cit-0014">
+<collab collab-type="authors">National Health Research Institutes</collab>
+. National Health Insurance Research Database. <ext-link ext-link-type="uri" xlink:href="http://nhird.nhri.org.tw/en/index.html">http://nhird.nhri.org.tw/en/index.html</ext-link>. Accessed April 14, 2015.</mixed-citation></ref><ref id="clc23290-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="clc23290-cit-0015">
+<string-name>
+<surname>Gibson</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Simpson</surname>
+<given-names>JL</given-names>
+</string-name>. <article-title>The overlap syndrome of asthma and COPD: what are its features and how important is it?</article-title>
+<source xml:lang="en">Thorax</source>. <year>2009</year>;<volume>64</volume>(<issue>8</issue>):<fpage>728</fpage>&#x02010;<lpage>735</lpage>.<pub-id pub-id-type="pmid">19638566</pub-id></mixed-citation></ref><ref id="clc23290-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="clc23290-cit-0016">
+<string-name>
+<surname>Mejza</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Nasta&#x00142;ek</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mastalerz&#x02010;Migas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Doniec</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Skucha</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Coexistence of chronic bronchitis in chronic obstructive lung disease</article-title>. <source xml:lang="en">Adv Exp Med Biol</source>. <year>2018</year>;<volume>1114</volume>:<fpage>1</fpage>&#x02010;<lpage>9</lpage>.<pub-id pub-id-type="pmid">29752708</pub-id></mixed-citation></ref><ref id="clc23290-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="clc23290-cit-0017">
+<string-name>
+<surname>Dudley</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Malhotra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Owens</surname>
+<given-names>RL</given-names>
+</string-name>. <article-title>Pulmonary overlap syndromes, with a focus on COPD and ILD</article-title>. <source xml:lang="en">Sleep Med Clin</source>. <year>2014</year>;<volume>9</volume>(<issue>3</issue>):<fpage>365</fpage>&#x02010;<lpage>379</lpage>.<pub-id pub-id-type="pmid">26664352</pub-id></mixed-citation></ref><ref id="clc23290-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="clc23290-cit-0018">
+<string-name>
+<surname>Hurst</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Elborn</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>De Soyza</surname>
+<given-names>A</given-names>
+</string-name>, <collab collab-type="authors">BRONCH&#x02010;UK Consortium</collab>
+. <article-title>COPD&#x02010;bronchiectasis overlap syndrome</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2015</year>;<volume>45</volume>(<issue>2</issue>):<fpage>310</fpage>&#x02010;<lpage>313</lpage>.<pub-id pub-id-type="pmid">25653262</pub-id></mixed-citation></ref><ref id="clc23290-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="clc23290-cit-0019">
+<string-name>
+<surname>Lambert</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Dransfield</surname>
+<given-names>MT</given-names>
+</string-name>. <article-title>COPD overlap syndromes: asthma and beyond</article-title>. <source xml:lang="en">Chronic Obstr Pulm Dis</source>. <year>2016</year>;<volume>3</volume>(<issue>1</issue>):<fpage>459</fpage>&#x02010;<lpage>465</lpage>.<pub-id pub-id-type="pmid">28848867</pub-id></mixed-citation></ref><ref id="clc23290-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="clc23290-cit-0020">
+<string-name>
+<surname>Sauler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gulati</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Newly recognized occupational and environmental causes of chronic terminal airways and parenchymal lung disease</article-title>. <source xml:lang="en">Clin Chest Med</source>. <year>2012</year>;<volume>33</volume>(<issue>4</issue>):<fpage>667</fpage>&#x02010;<lpage>680</lpage>.<pub-id pub-id-type="pmid">23153608</pub-id></mixed-citation></ref><ref id="clc23290-bib-0021"><label>21</label><mixed-citation publication-type="book" id="clc23290-cit-0021">
+<string-name>
+<surname>Driscoll</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Steenland</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>DI</given-names>
+</string-name>, <string-name>
+<surname>Leigh</surname>
+<given-names>J</given-names>
+</string-name>. <source xml:lang="en">Occupational Airborne Particulates: Assessing the Environmental Burden of Disease at National and Local Levels</source>. Geneva, <publisher-name>World Health Organization</publisher-name>, <year>2004</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.who.int/iris/handle/10665/42994">http://www.who.int/iris/handle/10665/42994</ext-link>.</mixed-citation></ref><ref id="clc23290-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="clc23290-cit-0022">
+<string-name>
+<surname>Buch</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Friberg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Scharling</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lange</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Prescott</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Reduced lung function and risk of atrial fibrillation in the Copenhagen City heart study</article-title>. <source xml:lang="en">Eur Respir J</source>. <year>2003</year>;<volume>21</volume>(<issue>6</issue>):<fpage>1012</fpage>&#x02010;<lpage>1016</lpage>.<pub-id pub-id-type="pmid">12797497</pub-id></mixed-citation></ref><ref id="clc23290-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="clc23290-cit-0023">
+<string-name>
+<surname>Goudis</surname>
+<given-names>CA</given-names>
+</string-name>. <article-title>Chronic obstructive pulmonary disease and atrial fibrillation: an unknown relationship</article-title>. <source xml:lang="en">J Cardiol</source>. <year>2017</year>;<volume>69</volume>(<issue>5</issue>):<fpage>699</fpage>&#x02010;<lpage>705</lpage>.<pub-id pub-id-type="pmid">28188041</pub-id></mixed-citation></ref><ref id="clc23290-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="clc23290-cit-0024">
+<string-name>
+<surname>Cepelis</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Brumpton</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Malmo</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Associations of asthma and asthma control with atrial fibrillation risk: results from the Nord&#x02010;Tr&#x000f8;ndelag health study (HUNT)</article-title>. <source xml:lang="en">JAMA Cardiol</source>. <year>2018</year>;<volume>3</volume>(<issue>8</issue>):<fpage>721</fpage>&#x02010;<lpage>728</lpage>.<pub-id pub-id-type="pmid">29998294</pub-id></mixed-citation></ref><ref id="clc23290-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="clc23290-cit-0025">
+<string-name>
+<surname>Carter</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lagan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fortune</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Association of cardiovascular disease with respiratory disease</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2019</year>;<volume>73</volume>(<issue>17</issue>):<fpage>2166</fpage>&#x02010;<lpage>2177</lpage>.<pub-id pub-id-type="pmid">30846341</pub-id></mixed-citation></ref></ref-list></back></article>

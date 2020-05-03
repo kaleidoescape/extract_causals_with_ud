@@ -1,0 +1,687 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Stem Cells Transl Med</journal-id><journal-id journal-id-type="iso-abbrev">Stem Cells Transl Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2157-6580</journal-id><journal-id journal-id-type="publisher-id">SCT3</journal-id><journal-title-group><journal-title>Stem Cells Translational Medicine</journal-title></journal-title-group><issn pub-type="ppub">2157-6564</issn><issn pub-type="epub">2157-6580</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31508905</article-id><article-id pub-id-type="pmc">6954720</article-id><article-id pub-id-type="doi">10.1002/sctm.19-0069</article-id><article-id pub-id-type="publisher-id">SCT312601</article-id><article-categories><subj-group subj-group-type="overline"><subject>Cell&#x02010;based Drug Development, Screening, and Toxicology</subject></subj-group><subj-group subj-group-type="heading"><subject>Cell&#x02010;based Drug Development, Screening, and Toxicology</subject></subj-group></article-categories><title-group><article-title>Discovery of retinoic acid receptor agonists as proliferators of cardiac progenitor cells through a phenotypic screening approach</article-title><alt-title alt-title-type="right-running-head">Discovery of cardiac progenitor cell proliferators</alt-title><alt-title alt-title-type="left-running-head">Drowley et al.</alt-title></title-group><contrib-group><contrib id="sct312601-cr-0001" contrib-type="author"><name><surname>Drowley</surname><given-names>Lauren</given-names></name><xref ref-type="aff" rid="sct312601-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312601-cr-0002" contrib-type="author" corresp="yes"><name><surname>McPheat</surname><given-names>Jane</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5815-158X</contrib-id><xref ref-type="aff" rid="sct312601-aff-0002">
+<sup>2</sup>
+</xref><address><email>jane.mcpheat@astrazeneca.com</email></address></contrib><contrib id="sct312601-cr-0003" contrib-type="author"><name><surname>Nordqvist</surname><given-names>Anneli</given-names></name><xref ref-type="aff" rid="sct312601-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312601-cr-0004" contrib-type="author"><name><surname>Peel</surname><given-names>Samantha</given-names></name><xref ref-type="aff" rid="sct312601-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="sct312601-cr-0005" contrib-type="author"><name><surname>Karlsson</surname><given-names>Ulla</given-names></name><xref ref-type="aff" rid="sct312601-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="sct312601-cr-0006" contrib-type="author"><name><surname>Martinsson</surname><given-names>Sofia</given-names></name><xref ref-type="aff" rid="sct312601-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312601-cr-0007" contrib-type="author"><name><surname>M&#x000fc;llers</surname><given-names>Erik</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2176-3248</contrib-id><xref ref-type="aff" rid="sct312601-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312601-cr-0008" contrib-type="author"><name><surname>Dells&#x000e9;n</surname><given-names>Anita</given-names></name><xref ref-type="aff" rid="sct312601-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="sct312601-cr-0009" contrib-type="author"><name><surname>Knight</surname><given-names>Sinead</given-names></name><xref ref-type="aff" rid="sct312601-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="sct312601-cr-0010" contrib-type="author"><name><surname>Barrett</surname><given-names>Ian</given-names></name><xref ref-type="aff" rid="sct312601-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="sct312601-cr-0011" contrib-type="author"><name><surname>S&#x000e1;nchez</surname><given-names>Jos&#x000e9;</given-names></name><xref ref-type="aff" rid="sct312601-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="sct312601-cr-0012" contrib-type="author"><name><surname>Magnusson</surname><given-names>Bj&#x000f6;rn</given-names></name><xref ref-type="aff" rid="sct312601-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="sct312601-cr-0013" contrib-type="author"><name><surname>Greber</surname><given-names>Boris</given-names></name><xref ref-type="aff" rid="sct312601-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="sct312601-cr-0014" contrib-type="author"><name><surname>Wang</surname><given-names>Qing&#x02010;Dong</given-names></name><xref ref-type="aff" rid="sct312601-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312601-cr-0015" contrib-type="author"><name><surname>Plowright</surname><given-names>Alleyn T.</given-names></name><xref ref-type="aff" rid="sct312601-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="sct312601-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Research and Early Development, Cardiovascular, Renal and Metabolism</named-content>
+<institution>BioPharmaceuticals R&#x00026;D</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="sct312601-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Discovery Sciences</named-content>
+<institution>R&#x00026;D, AstraZeneca</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="sct312601-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Discovery Sciences</named-content>
+<institution>R&#x00026;D, AstraZeneca</institution>
+<city>Cambridge</city>
+<country country="GB">UK</country>
+</aff><aff id="sct312601-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Human Stem Cell Pluripotency Laboratory</named-content>
+<institution>Max Planck Institute for Molecular Biomedicine</institution>
+<city>M&#x000fc;nster</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Jane McPheat, BSc, Discovery Sciences, R&#x00026;D, AstraZeneca, Gothenburg, M&#x000f6;lndal 43183, Sweden.<break/>
+Email: <email>jane.mcpheat@astrazeneca.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>9</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>9</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/sct3.v9.1</issue-id><fpage>47</fpage><lpage>60</lpage><history><date date-type="received"><day>08</day><month>3</month><year>2019</year></date><date date-type="accepted"><day>12</day><month>8</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 AlphaMed Press <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <sc>stem cells translational medicine</sc> published by Wiley Periodicals, Inc. on behalf of AlphaMed Press</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:SCT3-9-47.pdf"/><abstract><title>Abstract</title><p>Identification of small molecules with the potential to selectively proliferate cardiac progenitor cells (CPCs) will aid our understanding of the signaling pathways and mechanisms involved and could ultimately provide tools for regenerative therapies for the treatment of post&#x02010;MI cardiac dysfunction. We have used an in vitro human induced pluripotent stem cell&#x02010;derived CPC model to screen a 10,000&#x02010;compound library containing molecules representing different target classes and compounds reported to modulate the phenotype of stem or primary cells. The primary readout of this phenotypic screen was proliferation as measured by nuclear count. We identified retinoic acid receptor (RAR) agonists as potent proliferators of CPCs. The CPCs retained their progenitor phenotype following proliferation and the identified RAR agonists did not proliferate human cardiac fibroblasts, the major cell type in the heart. In addition, the RAR agonists were able to proliferate an independent source of CPCs, HuES6. The RAR agonists had a time&#x02010;of&#x02010;differentiation&#x02010;dependent effect on the HuES6&#x02010;derived CPCs. At 4&#x02009;days of differentiation, treatment with retinoic acid induced differentiation of the CPCs to atrial cells. However, after 5&#x02009;days of differentiation treatment with RAR agonists led to an inhibition of terminal differentiation to cardiomyocytes and enhanced the proliferation of the cells. RAR agonists, at least transiently, enhance the proliferation of human CPCs, at the expense of terminal cardiac differentiation. How this mechanism translates in vivo to activate endogenous CPCs and whether enhancing proliferation of these rare progenitor cells is sufficient to enhance cardiac repair remains to be investigated.</p></abstract><abstract abstract-type="graphical"><p>An image&#x02010;based phenotypic screen, using a readout of nuclear count to measure proliferation, identified retinoic acid receptor agonists as potent proliferators of induced pluripotent stem cell&#x02010;derived cardiac progenitor cells. The cardiac progenitor cells retained their progenitor phenotype following proliferation and the retinoic acid receptor agonists did not proliferate human cardiac fibroblasts, the major cell type in the heart.<boxed-text position="anchor" content-type="graphic" id="sct312601-blkfxd-0001" orientation="portrait"><graphic xlink:href="SCT3-9-47-g018.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="sct312601-kwd-0001">cell proliferation</kwd><kwd id="sct312601-kwd-0002">gene expression</kwd><kwd id="sct312601-kwd-0003">high throughput screening assays</kwd><kwd id="sct312601-kwd-0004">induced pluripotent stem cells</kwd><kwd id="sct312601-kwd-0005">nuclear receptors</kwd><kwd id="sct312601-kwd-0006">small molecule libraries</kwd></kwd-group><counts><fig-count count="6"/><table-count count="1"/><page-count count="13"/><word-count count="8940"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:13.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="sct312601-cit-9001">
+<string-name>
+<surname>Drowley</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>McPheat</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nordqvist</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Discovery of retinoic acid receptor agonists as proliferators of cardiac progenitor cells through a phenotypic screening approach</article-title>. <source xml:lang="en">STEM CELLS Transl Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>47</fpage>&#x02013;<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1002/sctm.19-0069</pub-id>
+<pub-id pub-id-type="pmid">31508905</pub-id></mixed-citation>
+</p></notes></front><body id="sct312601-body-0001"><sec sec-type="opening-section" id="sct312601-sec-0101"><label>1</label><p>
+<boxed-text position="anchor" content-type="box" id="sct312601-blkfxd-0102" orientation="portrait"><caption><title>Significance statement</title></caption><p>Progenitor cells are rare and difficult to isolate, and little is known about the molecular mechanisms required for their proliferation and differentiation. Identification of small molecules that selectively proliferate cardiac progenitor cells will aid in the understanding of the signaling mechanisms involved and could provide tools for regenerative therapies for the treatment of cardiac dysfunction. A phenotypic screen identified retinoic acid receptor agonists as potent proliferators of induced pluripotent stem cell&#x02010;derived cardiac progenitor cells. The agonists did not proliferate human cardiac fibroblasts, the major cell type in the heart but did proliferate human pluripotent stem cells, HuES6, in a time&#x02010;of&#x02010;differentiation&#x02010;dependent manner.</p></boxed-text>
+</p></sec><sec id="sct312601-sec-0001"><label>2</label><title>INTRODUCTION</title><p>Heart failure is a growing problem with a morbidity and mortality rate similar to cancer. It has been demonstrated that the heart has a low but detectable level of regenerative capacity in the adult setting,<xref rid="sct312601-bib-0001" ref-type="ref">1</xref> and efforts are ongoing to harness this power to truly reverse disease. A number of putative progenitor populations have been identified in the adult heart by independent groups<xref rid="sct312601-bib-0002" ref-type="ref">2</xref>, <xref rid="sct312601-bib-0003" ref-type="ref">3</xref>, <xref rid="sct312601-bib-0004" ref-type="ref">4</xref>, <xref rid="sct312601-bib-0005" ref-type="ref">5</xref>, <xref rid="sct312601-bib-0006" ref-type="ref">6</xref>, <xref rid="sct312601-bib-0007" ref-type="ref">7</xref>, <xref rid="sct312601-bib-0008" ref-type="ref">8</xref> and although these cells have limited cardiomyogenic potential,<xref rid="sct312601-bib-0009" ref-type="ref">9</xref>, <xref rid="sct312601-bib-0010" ref-type="ref">10</xref>, <xref rid="sct312601-bib-0011" ref-type="ref">11</xref> they may contribute to cardiac repair via directly forming endothelial cells and vasculature as well as via paracrine mechanisms.<xref rid="sct312601-bib-0009" ref-type="ref">9</xref>, <xref rid="sct312601-bib-0010" ref-type="ref">10</xref>, <xref rid="sct312601-bib-0011" ref-type="ref">11</xref>, <xref rid="sct312601-bib-0012" ref-type="ref">12</xref>, <xref rid="sct312601-bib-0013" ref-type="ref">13</xref> Due to their rarity and the difficulty of isolation, little is known about the molecular mechanisms required for their proliferation and differentiation.</p><p>We have previously published on a population of cardiac progenitor cells (CPCs) generated from human pluripotent stem cells during the differentiation process to cardiomyocytes and their use as tools in drug discovery.<xref rid="sct312601-bib-0014" ref-type="ref">14</xref> These cells express the cellular markers KDR (vascular endothelial growth factor [VEGF] receptor 2), PDGFR&#x02010;&#x003b1; (platelet&#x02010;derived growth factor receptor alpha), and NKX2.5. To date, only a handful of chemical mediators of cardiogenesis have been reported.<xref rid="sct312601-bib-0015" ref-type="ref">15</xref>, <xref rid="sct312601-bib-0016" ref-type="ref">16</xref> These compounds are useful tools for generating cardiomyocytes and blood vessels and for understanding the underlying biology and timing of the signaling pathway intervention. Here, we illustrate using our previously established screening method that we have identified a novel role of retinoic acid (RA) signaling in the proliferation of CPCs.</p><p>RA plays many critical roles during development, including acting as a morphogen, inducing commitment of precursor cells and thereby mediating tissue patterning.<xref rid="sct312601-bib-0017" ref-type="ref">17</xref>, <xref rid="sct312601-bib-0018" ref-type="ref">18</xref> The well&#x02010;established programs where RA is involved include both proliferation and differentiation. Inside the cells, RA is transported to the nucleus, where it binds to retinoic acid receptor (RAR) and retinoic X receptor (RXR) heterodimers, which in turn bind to sequence specific DNA elements known as RA response elements (RAREs). The receptors undergo conformational changes leading to corepressor displacement and recruitment of coactivators promoting active transcription of RAR target genes.<xref rid="sct312601-bib-0019" ref-type="ref">19</xref> In untreated stem cells, RAR primary target genes such as Hoxa1, Cyp26a1, and retinoic acid receptor beta (RARB) are coated with polycomb group (PcG) proteins. Following addition of RA, there is a rapid dissociation of the PcG proteins from the RA target genes.<xref rid="sct312601-bib-0020" ref-type="ref">20</xref>, <xref rid="sct312601-bib-0021" ref-type="ref">21</xref> The literature is divided on the exact role of RA signaling in different systems, likely due to the complexity and timing involved in these processes. For example, it has been demonstrated that inhibition of RA signaling can expand hematopoietic stem cells (HSCs), but other studies have shown increased self&#x02010;renewal in HSCs with RA addition.<xref rid="sct312601-bib-0022" ref-type="ref">22</xref>, <xref rid="sct312601-bib-0023" ref-type="ref">23</xref>
+</p><p>In the cardiac area, RA has been shown to increase the number of cardiomyocytes when added during embryonic stem (ES) cell differentiation.<xref rid="sct312601-bib-0024" ref-type="ref">24</xref> The effects of all&#x02010;trans retinoic acid (ATRA) on the expression of RA target genes and on proliferation of cell types present in the heart: endothelial cells, smooth muscle cells (SMCs), cardiac fibroblasts (CFs), and cardiomyocytes were examined, and in all cell types an increase in the expression of RA target genes was seen. ATRA inhibited the proliferation of human aortic SMCs and murine CFs.<xref rid="sct312601-bib-0025" ref-type="ref">25</xref> There is some evidence that there is a link between RA treatment and the induction of cardiac&#x02010;specific genes (myosin light chain [MLC]&#x02010;2v, &#x003b1;&#x02010;cardiac myosin heavy chain [MHC]), with RA binding RARs and activating early CPCs via NKX2.5, which then promote expression of additional cardiac&#x02010;specific genes, accelerating differentiation.<xref rid="sct312601-bib-0026" ref-type="ref">26</xref>, <xref rid="sct312601-bib-0027" ref-type="ref">27</xref> In addition, ventricular hypoplasia has been seen after a deficiency of vitamin A, the nonoxidized precursor of RA.<xref rid="sct312601-bib-0028" ref-type="ref">28</xref> In mouse models, the role of RA signaling in cardiac development and differentiation has been established by knockouts of the RA receptor isoforms.<xref rid="sct312601-bib-0029" ref-type="ref">29</xref> RA has been well studied with regard to differentiation, both in the ES cell arena as well as in cancer cells. However, RA has multiple physiological effects, including cell proliferation that has not been as well studied in the cardiovascular context and which is of significant interest in the regenerative medicine arena.</p><p>In this study, a phenotypic screen was performed to identify compounds, which proliferate human CPCs to enhance their number while maintaining their progenitor phenotype. RAR agonists were identified as potent proliferators of CPCs as measured by nuclear count and their activity and pharmacology confirmed in biochemical and RAR agonist&#x02010;antagonist competition experiments. These compounds were subsequently shown to not proliferate CFs, a numerous and critical cell type in the human heart. After treatment with RAR agonists, the CPCs maintained their phenotype as shown by NKX2.5 expression. We subsequently evaluated the effects of RAR agonists on cardiac markers, following differentiation of human pluripotent stem cells (hPSCs), HuES6, from a time point when cardiac progenitor markers were still highly expressed.</p><p>This work demonstrates the feasibility of identifying key regulators and biological pathways as well as compound tools by phenotypic screening to study stem cell biology and cardiac regeneration and potentially yield new therapeutic mechanisms to ultimately treat patients.</p></sec><sec id="sct312601-sec-0002"><label>3</label><title>MATERIALS AND METHODS</title><sec id="sct312601-sec-0003"><label>3.1</label><title>CPC proliferation assay</title><p>The CPC proliferation assay including image and data analysis was performed as previously described.<xref rid="sct312601-bib-0014" ref-type="ref">14</xref> Cardiac progenitor marker antibodies are listed in Table <xref rid="sct312601-supitem-0001" ref-type="supplementary-material">S3</xref>.</p></sec><sec id="sct312601-sec-0004"><label>3.2</label><title>Compound library screening</title><sec id="sct312601-sec-0005"><label>3.2.1</label><title>
+<italic>Compounds</italic>
+</title><p>ATRA, retinol, 9&#x02010;cis&#x02010;retinoic acid, AM580, AM80, and SR11237 were purchased from Sigma&#x02010;Aldrich, St. Louis, MO. CD 3254, TTNPB, and EC23 were purchased from Tocris Bioscience, Bristol, U.K. AGN193312 was synthesized over two steps (see Supporting Information). The synthesis of AGN194301 has been described previously.<xref rid="sct312601-bib-0030" ref-type="ref">30</xref>
+</p></sec><sec id="sct312601-sec-0006"><label>3.2.2</label><title>
+<italic>Primary screen and hit confirmation</italic>
+</title><p>A library of 10&#x02009;000 compounds was screened in singlicate at three concentrations (0.1, 1.0, and 10&#x02009;&#x003bc;M) in the CPC proliferation assay. Each plate contained neutral controls, 0.1% DMSO and maximum controls, 100&#x02009;ng/mL human basic fibroblast growth factor (FGF; Invitrogen, ThermoFisher Scientific, Waltham, Massachusetts). The data were analyzed using the Genedata Screener software (Genedata, Inc, Basel, Switzerland). A compound was considered active if % proliferation exceeded 3&#x000d7; the SD of the neutral control. Results were calculated using the following calculation method: compound % effect = 100&#x02009;&#x000d7;&#x02009;[(<italic>X</italic>&#x02009;&#x02212;&#x02009;min)/(max&#x02009;&#x02212;&#x02009;min)], where <italic>X</italic> represents a normalized value for the compound based on the neutral and maximum controls.</p><p>Active compounds were selected and serially diluted to create a 10&#x02010;point concentration range in DMSO.</p></sec><sec id="sct312601-sec-0007"><label>3.2.3</label><title>
+<italic>CF proliferation assay</italic>
+</title><p>The CF proliferation assay was performed exactly as previously described.<xref rid="sct312601-bib-0031" ref-type="ref">31</xref>
+</p></sec></sec><sec id="sct312601-sec-0008"><label>3.3</label><title>RAR, coactivator recruitment assay</title><p>RAR ligand binding domain (LBD)&#x02010;SRC1&#x02010;2 coactivator peptide (NCOA1_677&#x02010;700 biotinylated) recruitment assays were established for the three RAR isotypes RARA (alpha), RARB (beta), and RARG (gamma) to determine relative potencies. The assays were run in white 384&#x02010;well plates (Greiner:781075). A total of 0.4&#x02009;&#x003bc;L of a fixed concentration range of test ligands dissolved in dimethyl sulphoxide (DMSO) was added to assay plates using an acoustic liquid dispenser. Twenty microliters of an assay mix comprising 5&#x02009;nM 6His tagged LBD, 50&#x02009;nM biotinylated NCOA1_677&#x02010;700, 10&#x02009;nM Streptavidin&#x02010;APC, and 0.375&#x02009;nM Eu&#x02010;W1024 labeled anti&#x02010;6xHis antibody in assay buffer (0.02&#x02009;M Tris, pH&#x02009;7.5, 0.05&#x02009;M NaCl, 0.125% CHAPS, 0.05% BSA, and 0.002&#x02009;M DTT). Plates were incubated at room temperature for 1&#x02009;hour in the dark, prior to reading in a Pherastar multimode plate reader using homogeneous time resolved fuorescence filter set (ex 320&#x02009;nm, em 612&#x02009;nm and 665&#x02009;nm). The fluorescence resonance energy transfer (FRET) signal at 665&#x02009;nm was divided by the signal at 612&#x02009;nm and multiplied by 10&#x02009;000 to generate a signal ratio value for each well. The raw data were transformed to % effect using the equation: compound % effect = 100&#x02009;&#x000d7;&#x02009;[(<italic>X</italic>&#x02009;&#x02212;&#x02009;min)/(max&#x02009;&#x02212;&#x02009;min)], where <italic>X</italic> represents the effect in the presence of test compound and max and min are the effects in presence of the maximum and minimum controls, respectively.</p><p>The data were plotted to generate concentration&#x02010;response profiles and the concentration&#x02010;response curves were fit to the data using the four&#x02010;parameter logistic smart fit method in the Genedata Screener software (Genedata, Inc). To determine activity in antagonist assay format, the compounds were preincubated with the assay mix for 15&#x02009;minutes then a final 10&#x02009;nM concentration of RAR agonist (ATRA&#x02010;RARA, TTNPB&#x02010;RARB, R&#x02010;667&#x02010;RARG) was added to each well.</p></sec><sec id="sct312601-sec-0009"><label>3.4</label><title>RAR agonist&#x02010;RAR antagonist competition experiment</title><p>Cryopreserved CPCs (Cellular Dynamics International, Madison, Wisconsin) were thawed, plated, and analyzed exactly as described previously.<xref rid="sct312601-bib-0014" ref-type="ref">14</xref> The start concentration for the agonist AM580 and antagonist AGN194301 was 10&#x02009;&#x003bc;M and they were serially diluted threefold in DMSO to produce a 10&#x02010;point concentration range. AM580 was tested alone and with three different final concentrations of AGN194301 (0.01, 0.1, and 1&#x02009;&#x003bc;M). AGN194301 was added to the cells directly after AM580. 0.1% DMSO was used as the neutral control and 50&#x02009;nM (final concentration) of an AstraZeneca compound, which was identified as a potent proliferator of CPCs from the primary screen and with similar efficacy to basic FGF, as the positive/maximal control.</p></sec><sec id="sct312601-sec-0010"><label>3.5</label><title>Quantitative polymerase chain reaction</title><p>To quantify the mRNA expression of RAR genes, TaqMan Fast Advanced Mastermix (Applied Biosystems/ThermoFisher Scientific, 4444557, Waltham, Massachusetts) was added to 4&#x02009;ng/&#x003bc;L cDNA together with the appropriate primers/probes. Table <xref rid="sct312601-supitem-0001" ref-type="supplementary-material">S1</xref> lists the primers and probes used for quantification. TaqMan was performed in triplicates on an Applied Biosystems QuantStudio 7 instrument. Data were recorded over 40 polymerase chain reaction (PCR) cycles and the number of cycles required to reach a nominal threshold was measured. Only samples reaching threshold values before cycle 36 were included. The relative expression levels were calculated according to the formula 2<sup>&#x02212;&#x00394;Ct</sup>, where &#x00394;Ct is the difference in threshold cycle (Ct) values between the target gene and the ribosomal protein large P0 (RPLP0) endogenous control.</p></sec><sec id="sct312601-sec-0011"><label>3.6</label><title>RNA Seq experiment and analysis methods</title><p>CPC was seeded in fibronectin&#x02010;coated 24&#x02010;well plates, 150&#x02009;000 cells in 0.5 mL media per well. After 24&#x02009;hours incubation, AM580 and vehicle controls were added to the wells. Cell media were removed after 4&#x02009;hours or 24&#x02009;hours, and the cells were lysed for RNA preparation using the MagMax Total RNA Isolation kit. Triplicate samples were prepared for each treatment and time point. RNA integrity and concentration were analyzed on a fragment analyzer with the standard sensitivity RNA kit (Agilent, Santa Clara, California). RNA quality number was 8.2 on average.</p><p>A total of 1000&#x02009;ng RNA per sample was processed with the TruSeq stranded mRNA kit (Illumina, San Diego, California) following the instructions from the manufacturer. QC on amplified libraries was performed on a fragment analyzer with the standard sensitivity NGS kit (Agilent). Samples were pooled, diluted, and denatured according to Illumina's recommendations and sequenced on a NextSeq500 (High 150&#x02009;cycles kit, reading 2&#x02009;&#x000d7;&#x02009;75 cycles). On average, samples had 13M reads with 93% of reads with &#x0003e;Q30.</p><p>RNA&#x02010;Seq data were processed using the bcbio pipeline version 0.9.7. Hisat2 version 2.0.2&#x02010;&#x003b2; aligner was used to align reads to the human genome version hg38. Gene&#x02010;level counts were derived using featureCounts version 1.4.4. Differential expression analysis was performed on feature counts using DESeq2.<xref rid="sct312601-bib-0032" ref-type="ref">32</xref> Data quality was assessed using MultiQC.<xref rid="sct312601-bib-0033" ref-type="ref">33</xref> Genes with the lowest expression levels (less than five counts in at least two samples) were removed prior to differential expression estimation since they can be considered as nonexpressed.</p></sec><sec id="sct312601-sec-0012"><label>3.7</label><title>Directed induction of cardiac progenitors</title><p>HuES6 hPSCs<xref rid="sct312601-bib-0034" ref-type="ref">34</xref> were maintained in defined FTDA medium.<xref rid="sct312601-bib-0035" ref-type="ref">35</xref> Upon replating, fully confluent cultures into Matrigel&#x02010;coated 24&#x02010;well plates, cardiac differentiation was induced under serum and albumin&#x02010;free conditions at 500&#x02009;000 cells per well in 2&#x02009;mL of differentiation medium.<xref rid="sct312601-bib-0036" ref-type="ref">36</xref> Briefly, cells were treated with 20&#x02009;ng/mL FGF2, 0.5&#x02010;1&#x02009;ng/mL BMP4 (R&#x00026;D), and 1&#x02009;&#x003bc;M CHIR99021 (Axon Medchem) in serum and albumin&#x02010;free culture medium composed of knockout&#x02010;Dulbecco's modified Eagle's medium (DMEM; ThermoFisher Scientific), 1&#x000d7; insulin/transferrin/selenium supplement (Corning, New York), 10&#x02009;&#x003bc;M Y&#x02010;27632 (Tocris Bioscience, Biotechne, Minneapolis, Minnesota), and penicillin/streptomycin. Insulin and signaling agonists were omitted after 1 day. On days 2&#x02010;3, the nascent mesodermal cells were specified to the cardiac lineage using 0.2&#x02009;&#x003bc;M C&#x02010;59 (R&#x00026;D Tocris) supplementation. Culture medium was replaced daily.</p><p>To monitor whether retinoids transiently stabilize the cardiac precursor state, differentiating cells were replated on Matrigel&#x02010;coated 24&#x02010;well plates on day 5 of differentiation, in the presence of Y&#x02010;27632 and at a ratio of 1:24 following Accutase digestion. Basal cardiac progenitor medium was composed of DMEM/F12 (ThermoFisher Scientific), insulin/transferrin/selenium supplement, 0.1% human serum albumin (Biological Industries Inc, Cromwell, Connecticut), 1&#x000d7; chemically defined lipids (ThermoFisher Scientific), and antibiotics. RAR agonists (1&#x02009;&#x003bc;M) were added from the day of passaging the cells. Samples were harvested and monitored after 4&#x02009;days of treatment.</p></sec><sec id="sct312601-sec-0013"><label>3.8</label><title>HuES6 hPSC quantification, RT&#x02010;qPCR, and immunocytochemistry</title><p>Cell numbers per well were quantified following single&#x02010;cell dissociation with Accutase and using standard Neubauer counting chambers. RT&#x02010;qPCR and immunocytochemistry were performed according to standard procedures. Primers validated for high&#x02010;efficiency amplification are given in Table <xref rid="sct312601-supitem-0001" ref-type="supplementary-material">S2</xref>. RPL37A served as housekeeping gene for normalization. Antibodies used were anti&#x02010;ISL1 (DSHB #39&#x02010;405, 1:15, and R&#x00026;D Systems, Minneapolis, Minnesota, #AF1837, 1:100), anti&#x02010;CTNT (ThermoFisher Scientific #MS&#x02010;295&#x02010;P, 1:150), and anti&#x02010;NKX2.5 (R&#x00026;D #AF2444, 1:100).</p></sec></sec><sec id="sct312601-sec-0014"><label>4</label><title>RESULTS</title><sec id="sct312601-sec-0015"><label>4.1</label><title>Screening for molecules that induce proliferation of iPS&#x02010;derived CPCs</title><p>A library of 10&#x02009;000 compounds was screened in our CPC proliferation assay. The library contained representative and structurally diverse molecules from the AstraZeneca corporate collection with activity values (<italic>K</italic>
+<sub><italic>i</italic></sub>, EC<sub>50</sub> or IC<sub>50</sub>) of less than 100&#x02009;nM against more than 1600 biological targets representing different classes including GPCRs, nuclear receptors, ion channels, and enzymes. The second component of the screening set included 800 compounds with a reported ability to modulate the phenotype of stem or primary cells. This component included compounds inducing proliferation or differentiation, compounds affecting key developmental pathways (for example, Wnt, TGF&#x003b2;, Notch, Hedgehog, and Hippo pathways), and compounds acting on epigenetic targets such as bromodomain inhibitors.</p><p>The library was screened in three&#x02010;point concentration response (CR) at 0.1, 1.0, and 10&#x02009;&#x003bc;M measuring proliferation of human induced pluripotent stem (iPS)&#x02010;derived CPCs with nuclear count, as measured by Hoechst staining, as the primary endpoint. The screening cascade outlining the progression of hits is described in Figure <xref rid="sct312601-fig-0001" ref-type="fig">1</xref>A. We classified compounds as hits if they induced a greater than 30% increase in cell count relative to the positive control bFGF at 100&#x02009;ng/mL. The hit rate at three concentrations was 3.5%. Figure <xref rid="sct312601-fig-0001" ref-type="fig">1</xref>B summarizes the normalized data for all compounds. The entire screening set could be clustered using extended connectivity fingerprints giving 2540 unique clusters, of which 1026 were singletons. Compounds classified as active were distributed over 223 individual clusters or singletons.</p><fig fig-type="Figure" xml:lang="en" id="sct312601-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Phenotypic screen identifies AM580 and all&#x02010;trans retinoic acid (ATRA) as proliferators of iPS&#x02010;derived cardiac progenitor cells. A, Screening cascade for identification and validation of hits. <styled-content style="fixed-case" toggle="no">B, ATRA</styled-content> and AM580 were tested at three different concentrations 0.1, 1.0, and 10&#x02009;&#x003bc;M in the primary screen. The percentage effect is expressed relative to the control, basic FGF at 100&#x02009;ng/mL. C, Percentage effect relative to max and min controls versus compounds ranked according to the highest effect at any concentration for each compound. D, AM580 concentration response effects on the proliferation of cardiac progenitor cells (CPCs) and cardiac fibroblasts (CFs) measured as nuclei count, normalized to % effect from the maximal and neutral controls for both CPCs and CFs. Data represent the mean of at least three independent experiments where each experiment consisted of technical duplicates or triplicates, with error bars = SEM</p></caption><graphic id="nlm-graphic-3" xlink:href="SCT3-9-47-g001"/></fig><p>Evaluating both potency and efficacy led to the identification of two RAR agonists, namely ATRA and AM580<xref rid="sct312601-bib-0037" ref-type="ref">37</xref>, which increased the number of CPCs. AM580, at 0.1&#x02009;&#x003bc;M, proliferated the cells with comparable efficacy to 100&#x02009;ng/mL bFGF (Figure <xref rid="sct312601-fig-0001" ref-type="fig">1</xref>C), which was 1.6&#x02010;fold greater than unstimulated controls. To validate both compounds as hits from the primary phenotypic screen, they were followed up in 10&#x02010;point concentration response testing using the same assay, which confirmed that ATRA and AM580 were very potent and efficacious drivers of proliferation of the iPS&#x02010;derived CPCs, where AM580 was ~10&#x02010;fold more potent than ATRA (EC<sub>50</sub> values 5&#x02009;nM and 56&#x02009;nM, respectively). Although the efficacy of AM580 did not reach 100% at the top concentrations in the primary screen, purified batches of AM580 showed a consistent and robust potency and efficacy in the 10&#x02010;point CR across occasions and using different batches of CPCs. In contrast, the results with ATRA were far more variable between occasions ranging from an EC<sub>50</sub> of 50&#x02009;nM to a value &#x0003e;10&#x02009;&#x003bc;M. This is likely due to the known instability of the molecule toward isomerization across the trans&#x02010;double bonds, which can occur when exposed to light in the laboratory.<xref rid="sct312601-bib-0038" ref-type="ref">38</xref>
+</p><p>To ensure that these molecules were not general proliferators of all cardiac cells, they were also tested in a human CF proliferation assay<xref rid="sct312601-bib-0031" ref-type="ref">31</xref> using nuclear count as the endpoint. Both compounds were inactive on CFs and the data for AM580 in comparison to proliferation of CPCs is shown in Figure <xref rid="sct312601-fig-0001" ref-type="fig">1</xref>D.</p></sec><sec id="sct312601-sec-0016"><label>4.2</label><title>Expanded CPCs maintain their progenitor phenotype</title><p>A key requirement of the screen was that the expanded CPCs must retain their progenitor phenotype. CPCs were treated with two RAR agonists, AM580 and AM80, for 3&#x02009;days before antibody staining for the cardiac progenitor markers Nkx2.5, Islet1(Isl1), Gata4, and PDGFR&#x003b1;. Both AM580 and AM80&#x02010;treated cells retain expression of these four key nuclear and membrane located markers of CPCs (Figure <xref rid="sct312601-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="sct312601-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Cardiac progenitor cells (CPCs) retain progenitor markers after retinoic acid receptor agonist treatment. Representative images from wells where CPCs were treated for 3&#x02009;days with 0.1% DMSO, 40&#x02009;nM AM580, or 40&#x02009;nM AM80 and then stained for cardiac progenitor markers Nkx2.5, Islet1, Gata4, and PDGFR&#x003b1;. Larger images are representative merged images of Hoechst nuclear stain in blue and immunofluorescence of the indicated progenitor marker in green. Insets show the progenitor marker staining in gray scale at 3.3&#x02010;fold higher magnification. Scale bars: 50&#x02009;&#x003bc;m</p></caption><graphic id="nlm-graphic-5" xlink:href="SCT3-9-47-g002"/></fig></sec><sec id="sct312601-sec-0017"><label>4.3</label><title>Confirmation of RAR agonists driving the proliferation of the CPCs</title><p>ATRA is known to isomerize to 9&#x02010;cis&#x02010;retinoic acid (9&#x02010;cis RA) which also binds to RXR.<xref rid="sct312601-bib-0039" ref-type="ref">39</xref>, <xref rid="sct312601-bib-0040" ref-type="ref">40</xref> On the other hand, AM580 is an analogue of RA that does not undergo isomerization and is therefore selective for RAR over RXR. The stereoisomeric compound 9&#x02010;cis RA<xref rid="sct312601-bib-0039" ref-type="ref">39</xref> was inactive in the CPC proliferation assay, showing that isomerization of this compound to ATRA in this cell system was either not occurring or occurring too slowly to affect the proliferation of the cells. Additional RXR agonists such as CD3254<xref rid="sct312601-bib-0041" ref-type="ref">41</xref> and SR11237<xref rid="sct312601-bib-0042" ref-type="ref">42</xref> were also tested and these were inactive suggesting that the proliferation phenotype is driven by activation of RAR. To increase the evidence that RAR agonism drives the phenotypic effect of increased cell proliferation, additional RAR agonists were tested in the CPC assay, including AM80,<xref rid="sct312601-bib-0043" ref-type="ref">43</xref> AGN193312,<xref rid="sct312601-bib-0044" ref-type="ref">44</xref> TTNPB,<xref rid="sct312601-bib-0045" ref-type="ref">45</xref> and EC23.<xref rid="sct312601-bib-0046" ref-type="ref">46</xref> All of these compounds caused potent and robust proliferation of the CPCs with EC<sub>50</sub> values in the low nanomolar range and with similar efficacy compared with AM580 (Table <xref rid="sct312601-tbl-0001" ref-type="table">1</xref>). To investigate the structure&#x02010;activity relationship, retinol as a precursor of ATRA was tested and showed no effect on the proliferation of the cells. Retinol was also inactive in the RAR coactivator recruitment assay (Table <xref rid="sct312601-tbl-0001" ref-type="table">1</xref>).</p><table-wrap id="sct312601-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>RAR agonists are potent proliferators of iPSC&#x02010;derived CPC</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Compound</th><th align="left" valign="bottom" rowspan="1" colspan="1">Structure</th><th align="left" valign="bottom" rowspan="1" colspan="1">CPC pEC<sub>50</sub>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">RAR&#x003b1; pEC<sub>50</sub> (% top effect)</th><th align="left" valign="bottom" rowspan="1" colspan="1">RAR&#x003b2; pEC<sub>50</sub> (% top effect)</th><th align="left" valign="bottom" rowspan="1" colspan="1">RAR&#x003b3; pEC<sub>50</sub> (% top effect)</th><th align="left" valign="bottom" rowspan="1" colspan="1">RAR&#x003b1; pIC<sub>50</sub> (% top effect)</th><th align="left" valign="bottom" rowspan="1" colspan="1">RAR&#x003b2; pIC<sub>50</sub> (% top effect)</th><th align="left" valign="bottom" rowspan="1" colspan="1">RAR&#x003b3; pIC<sub>50</sub> (% top effect)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">ATRA</td><td align="left" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="SCT3-9-47-g007.jpg" xlink:title="image"/>
+</td><td align="left" valign="top" rowspan="1" colspan="1">7.3&#x02009;&#x000b1;&#x02009;0.3</td><td align="left" valign="top" rowspan="1" colspan="1">8.1&#x02009;&#x000b1;&#x02009;0.3 (103)</td><td align="left" valign="top" rowspan="1" colspan="1">8.3&#x02009;&#x000b1;&#x02009;0.3 (104)</td><td align="left" valign="top" rowspan="1" colspan="1">8.2&#x02009;&#x000b1;&#x02009;0.2 (104)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Retinol</td><td align="left" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="SCT3-9-47-g008.jpg" xlink:title="image"/>
+</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;5.0</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">9&#x02010;cis&#x02010;retinoic acid</td><td align="left" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="SCT3-9-47-g009.jpg" xlink:title="image"/>
+</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;5.0</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AM580</td><td align="left" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="SCT3-9-47-g010.jpg" xlink:title="image"/>
+</td><td align="left" valign="top" rowspan="1" colspan="1">8.2&#x02009;&#x000b1;&#x02009;0.3</td><td align="left" valign="top" rowspan="1" colspan="1">8.4&#x02009;&#x000b1;&#x02009;0.1 (157)</td><td align="left" valign="top" rowspan="1" colspan="1">8.1&#x02009;&#x000b1;&#x02009;0.1 (104)</td><td align="left" valign="top" rowspan="1" colspan="1">7.2&#x02009;&#x000b1;&#x02009;0.1 (99)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AGN 193312</td><td align="left" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="SCT3-9-47-g011.jpg" xlink:title="image"/>
+</td><td align="left" valign="top" rowspan="1" colspan="1">8.1&#x02009;&#x000b1;&#x02009;0.3</td><td align="left" valign="top" rowspan="1" colspan="1">8.4&#x02009;&#x000b1;&#x02009;0.1 (159)</td><td align="left" valign="top" rowspan="1" colspan="1">8.0&#x02009;&#x000b1;&#x02009;0.1 (100)</td><td align="left" valign="top" rowspan="1" colspan="1">7.0&#x02009;&#x000b1;&#x02009;0.1 (88)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AM80</td><td align="left" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="SCT3-9-47-g012.jpg" xlink:title="image"/>
+</td><td align="left" valign="top" rowspan="1" colspan="1">8.1&#x02009;&#x000b1;&#x02009;0.2</td><td align="left" valign="top" rowspan="1" colspan="1">8.4&#x02009;&#x000b1;&#x02009;0.2 (175)</td><td align="left" valign="top" rowspan="1" colspan="1">8.0&#x02009;&#x000b1;&#x02009;0.1 (149)</td><td align="left" valign="top" rowspan="1" colspan="1">6.9&#x02009;&#x000b1;&#x02009;0.1 (119)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">TTNPB</td><td align="left" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="SCT3-9-47-g013.jpg" xlink:title="image"/>
+</td><td align="left" valign="top" rowspan="1" colspan="1">8.5&#x02009;&#x000b1;&#x02009;0.1</td><td align="left" valign="top" rowspan="1" colspan="1">8.2&#x02009;&#x000b1;&#x02009;0.1 (193)</td><td align="left" valign="top" rowspan="1" colspan="1">8.4&#x02009;&#x000b1;&#x02009;0.2 (181)</td><td align="left" valign="top" rowspan="1" colspan="1">8.4&#x02009;&#x000b1;&#x02009;0.1 (134)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EC 23</td><td align="left" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="SCT3-9-47-g014.jpg" xlink:title="image"/>
+</td><td align="left" valign="top" rowspan="1" colspan="1">8.9&#x02009;&#x000b1;&#x02009;0.2</td><td align="left" valign="top" rowspan="1" colspan="1">8.3&#x02009;&#x000b1;&#x02009;0.1 (172)</td><td align="left" valign="top" rowspan="1" colspan="1">8.5&#x02009;&#x000b1;&#x02009;0.2 (144)</td><td align="left" valign="top" rowspan="1" colspan="1">8.5&#x02009;&#x000b1;&#x02009;0.1 (135)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CD 3254</td><td align="left" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="SCT3-9-47-g015.jpg" xlink:title="image"/>
+</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;5.0</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SR 11237</td><td align="left" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="SCT3-9-47-g016.jpg" xlink:title="image"/>
+</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;5.0</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">4.9&#x02009;&#x000b1;&#x02009;0.1 (59)<sup>a</sup>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AGN 194301</td><td align="left" valign="top" rowspan="1" colspan="1">
+<inline-graphic xlink:href="SCT3-9-47-g017.jpg" xlink:title="image"/>
+</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;5.0</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;4.7</td><td align="left" valign="top" rowspan="1" colspan="1">8.6&#x02009;&#x000b1;&#x02009;0.4 (108)</td><td align="left" valign="top" rowspan="1" colspan="1">8.9&#x02009;&#x000b1;&#x02009;0.1 (105)</td><td align="left" valign="top" rowspan="1" colspan="1">7.7&#x02009;&#x000b1;&#x02009;0.2 (106)</td></tr></tbody></table><table-wrap-foot id="sct312601-ntgp-0002"><fn id="sct312601-note-0002"><p>Abbreviations: ATRA, all&#x02010;trans retinoic acid; CPC, cardiac progenitor cell; iPSC, induced pluripotent stem cell; RAR, retinoic acid receptor.</p></fn></table-wrap-foot></table-wrap><p>To provide further evidence for the mode of action of RAR activation, a pharmacological competition experiment was performed (Figure <xref rid="sct312601-fig-0003" ref-type="fig">3</xref>A). Here, the concentration response of the RAR agonist AM580 in the CPC proliferation assay was run in the presence of three different concentrations of the RAR competitive antagonist, AGN194301.<xref rid="sct312601-bib-0030" ref-type="ref">30</xref> The proliferative effect of the RAR agonist AM580 was attenuated with increasing concentrations of the antagonist. The RAR antagonist, in the absence of RAR agonist, did not proliferate the cells and showed no signs of toxicity.</p><fig fig-type="Figure" xml:lang="en" id="sct312601-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>A, Effect of a competitive retinoic acid receptor (RAR) antagonist AGN194301 in three different concentrations on RAR agonist AM580&#x02010;induced cardiac progenitor cell (CPC) proliferation, 10&#x02010;point concentration response curve. Cells were fixed and nuclei stained on day 4 postplating and 3&#x02009;days postcompound addition. Proliferation was measured as nuclei count normalized to % effect from the maximal and neutral controls. pEC<sub>50</sub> for AM580 is attenuated by adding increased concentrations of AGN194301, pEC<sub>50</sub> shifts from 8.2 for AM580 to pEC<sub>50</sub> 7.0 when 0.01&#x02009;&#x003bc;M AGN194301 is present and to 5.9 with 0.1&#x02009;&#x003bc;M and to 5.5 with 1&#x02009;&#x003bc;M of AGN194301. There was no effect on proliferation by AGN194301 alone. The data represent the mean of two independent experiments each conducted in quadruplicate; error bars indicate SEM. B, RARs are expressed in iPS&#x02010;derived CPCs and cardiac fibroblasts (CFs). The data for CPCs and CFs are obtained from two independent RNA preparations from each cell type</p></caption><graphic id="nlm-graphic-7" xlink:href="SCT3-9-47-g003"/></fig><p>To confirm the presence of the RA receptors in the cells, the expression of the three RAR isotypes RARA, RARB, and RARG was confirmed in untreated iPS&#x02010;derived CPCs and CFs by Taqman gene expression analysis (Figure <xref rid="sct312601-fig-0003" ref-type="fig">3</xref>B). The data highlight that the RARs are present in this cell type that a range of RAR agonists cause potent proliferation of the cells and that the effect of a RAR agonist can be attenuated in the presence of a RAR antagonist, which taken together, support a conclusion that agonism of RAR drives the proliferative effect observed in the iPS&#x02010;derived CPCs.</p><p>AM580 has been reported to be selective for activating RARA.<xref rid="sct312601-bib-0037" ref-type="ref">37</xref> However, we observed on average a 0.3 log unit difference in potency with respect to RARB and one log unit with respect to RARG while testing in RAR FRET&#x02010;based NCOA1_677&#x02010;700 coactivator peptide recruitment assays (Table <xref rid="sct312601-tbl-0001" ref-type="table">1</xref>). The RAR coactivator peptide recruitment assay provides a robust method to screen and directly compare the potencies of RAR ligands as agonists or antagonists of peptide recruitment versus the three RAR isotypes. The data showed that the RAR agonist compounds tested were highly potent on RARA and RARB and either equipotent across the RAR isoforms or with up to 10&#x02010;fold selectivity toward RARG. All RAR agonist compounds exhibited high potency at proliferating CPCs and this study could not distinguish the isotype specificity required for CPC proliferation.</p></sec><sec id="sct312601-sec-0018"><label>4.4</label><title>AM580 affects the expression of RAR target genes and cardiac cell markers in CPCs</title><p>RNA seq analysis was performed on CPCs incubated with AM580 for 4&#x02009;hours and 24&#x02009;hours (Figure <xref rid="sct312601-fig-0004" ref-type="fig">4</xref>). CPC samples express mRNA for all three RAR subtypes (confirming what we have seen in the Taqman experiment highlighted above) and as expected, upon treatment with AM580 a significant increase in mRNA expression was observed for several well&#x02010;characterized RAR&#x02010;responsive genes (RARB, RBP1, CRABP2, and CYP26A1). This was observed at both 4&#x02010;hour and 24&#x02010;hour time points and is consistent with the hypothesis of AM580 acting to induce RAR&#x02010;mediated transcription in this cell type.</p><fig fig-type="Figure" xml:lang="en" id="sct312601-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>RNA seq analysis of AM580&#x02010;treated cardiac progenitor cells (CPCs). Expression levels are shown as logarithm base 10 of transcripts per kilobase million for DMSO and AM580&#x02010;treated CPC samples, for selected marker genes at 4&#x02009;hours and 24&#x02009;hours post&#x02010;treatment. Genes with expression levels significantly different (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05) between treatment and control are marked in red font. Significance was determined using an analysis of variance model for treatment, time, and gene followed by Tukey's correction for multiple testing</p></caption><graphic id="nlm-graphic-9" xlink:href="SCT3-9-47-g004"/></fig><p>Early cardiac markers eomesodermin (EOMES) and mesoderm posterior 1 (MESP1 BHLH transcription factor) were still detected, albeit at very low signal levels. Cardiac progenitor markers NKX2.5, GATA4, MEF2C, TBX5, ISL, KDR, and PDGFRA mRNA were expressed in the CPC samples at both time points, with some showing modulation by AM580 at the different time points. KDR, PDGFR&#x02010;&#x003b1;, and NKX2.5, the initial three markers of the CPC population are still significantly expressed after RAR agonist treatment which provides additional support for the maintenance of the progenitor phenotype of the cells. Interestingly, cardiac troponin T (TNNT2) and MYH6 expressions were also noted with the latter decreasing upon AM580 treatment. This may be indicative of presence of a minor subpopulation of cells with differentiated cardiomyocyte characteristics.</p></sec><sec id="sct312601-sec-0019"><label>4.5</label><title>RAR agonists universally antagonize terminal differentiation in human cardiac precursors</title><p>Next, we sought to assess whether these findings may have broad validity by monitoring the effects of RA agonists on human cardiac progenitors from an independent source and from a different genetic background. To this end, human embryonic stem cells (hESCs) HuES6 were subjected to cardiac induction using a signaling perturbation procedure yielding a near&#x02010;homogeneous population of CPCs (Figure <xref rid="sct312601-fig-0005" ref-type="fig">5</xref>A).<xref rid="sct312601-bib-0036" ref-type="ref">36</xref>, <xref rid="sct312601-bib-0047" ref-type="ref">47</xref> Using this protocol, hESCs transitioned through expected intermediate stages of cardiac development, namely mesoderm, marked by EOMES and MESP1, as well as a transient cardiac progenitor state marked by PDGFRA, ISL1, and interestingly, the RAR gene RARB (Figure <xref rid="sct312601-fig-0005" ref-type="fig">5</xref>B). The latter observation may point toward a RAR&#x003b2;&#x02010;mediated retinoid responsiveness of the cells particularly around day 4 of differentiation and may maintain the progenitor phenotype.</p><fig fig-type="Figure" xml:lang="en" id="sct312601-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Retinoic acid (RA) counteracts terminal cardiac differentiation in transient progenitor cells. A, Schematic of cardiac induction protocol. Upon replating undifferentiated human pluripotent stem cells at high density, the indicated signaling pathways were simultaneously activated for 1 day, followed by WNT inhibition on days 2&#x02010;3. Spontaneously beating monolayers of immature cardiomyocytes are typically obtained after 6&#x02010;7&#x02009;days. B, Characterization of cardiac induction time&#x02010;course using markers of intermediate stages (mesoderm, cardiac progenitors) and early cardiomyocytes. Data are from two independent experiments analyzed by RT&#x02010;qPCR and microarrays (merged data normalized to peak expression&#x02009;&#x000b1;&#x02009;SEM). C, Cardiac progenitors replated on day 5 of differentiation and exposed for another 4&#x02009;days to baseline conditions or RA (1&#x02009;&#x003bc;M). The majority of control cells differentiates further into NKX2.5&#x02010;positive cardiomoyctes and display spontaneous beating. RA&#x02010;treated cells show an increase in cell numbers, compromised NKX2.5 induction, and sustained ISL1 expression in most cells</p></caption><graphic id="nlm-graphic-11" xlink:href="SCT3-9-47-g005"/></fig><p>Independent experiments using day&#x02010;4 differentiating cells, however, confirmed that RA also acts as a potent inducer of an atrial cell fate at this stage,<xref rid="sct312601-bib-0048" ref-type="ref">48</xref> but this was not seen using day&#x02010;5 cells.<xref rid="sct312601-bib-0049" ref-type="ref">49</xref> Hence, we focused our efforts on cells isolated on day 5 of cardiac induction, a time point when cardiac progenitor markers (PDGFRA and ISL1) were still highly expressed, whereas terminal differentiation markers were still below maximum levels (Figure <xref rid="sct312601-fig-0005" ref-type="fig">5</xref>B). Day&#x02010;5 differentiating hPSCs were replated at a low seeding density and the majority of these cells continued to differentiate into cardiomyocytes, as they displayed NKX2.5 induction and spontaneous beating 4&#x02009;days later (Figure <xref rid="sct312601-fig-0005" ref-type="fig">5</xref>C, left). By contrast, cells at day 5 treated with RA (1&#x02009;&#x003bc;M) did not acquire a beating phenotype, were mostly negative for NKX2.5, and displayed persistent staining for ISL1 at the protein level (Figure <xref rid="sct312601-fig-0005" ref-type="fig">5</xref>C, right). These data indicate that RA signaling inhibits terminal cardiac differentiation in the transient human cardiac precursor state and may maintain the progenitor phenotype.</p><p>To assess whether this observation reflects a general feature of RA agonists, we next exposed day&#x02010;5 replated cells to a selection of the previously studied set of compounds, namely RA, EC23, TTNPB, and AM80. Compared with untreated samples, all these molecules enhanced the expression of cardiac progenitor markers with the exception of ISL1. Terminal cardiac differentiation was inhibited by some of these molecules, whereas proliferation rates were stimulated beyond basal levels (Figure <xref rid="sct312601-fig-0006" ref-type="fig">6</xref>A, left panels). All the RA agonists tested resulted in a fourfold to fivefold relative increase in progenitor cell numbers within 4&#x02009;days (Figure <xref rid="sct312601-fig-0006" ref-type="fig">6</xref>A, top panel).</p><fig fig-type="Figure" xml:lang="en" id="sct312601-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Effects of various retinoic acid receptor (RAR) agonists on proliferation and expression in cardiac progenitors derived from differentiated human pluripotent stem cells. A, Effects on proliferation and gene expression on replated day&#x02010;5 progenitors following 4&#x02009;days of exposure to the indicated compounds. All&#x02010;trans retinoic acid (ATRA), EC23, TTNPB, and AM80 (all at 1.0&#x02009;&#x003bc;M) had strong positive effects on cell proliferation (left panel, n = 3, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.01, pairwise against untreated cells). Note the overall positive association between cell proliferation and cardiac precursor gene expression, and the negative relationship between cell numbers and cardiomyocyte marker induction (plots on the right). B, Immunocytochemistry analysis of ISL1 and cardiac troponin T (CTNT) in the same samples. Note again the increase in cell numbers, sustained ISL1 expression at the protein level, and inhibited CTNT induction with ATRA, EC23, TTNPB, and AM80</p></caption><graphic id="nlm-graphic-13" xlink:href="SCT3-9-47-g006"/></fig><p>Interestingly, the increase in cell proliferation across the different compounds was positively correlated with the increase in cardiac precursor gene expression and conversely, there was an antagonistic correlation with terminal cardiomyocyte differentiation (Figure <xref rid="sct312601-fig-0006" ref-type="fig">6</xref>B). These data were further validated at the protein level following 4&#x02009;days of exposure to the compounds. RA, EC23, TTNPB, and AM80 again caused a pronounced inhibition of terminal cardiac differentiation, whereas most cells remained ISL1&#x02010;positive within the time frame of the assay (Figure <xref rid="sct312601-fig-0006" ref-type="fig">6</xref>B). Taken together, these data indicate that RA agonists, at least transiently, enhance proliferation of human cardiac precursor cells in general, at the expense of terminal cardiac differentiation. It remains to be investigated whether this finding also bears potential for the long&#x02010;term stabilization and expansion of these precursors.</p></sec></sec><sec id="sct312601-sec-0020"><label>5</label><title>DISCUSSION</title><p>Identification of new therapeutic targets to repair an adult heart after a myocardial infarction is sorely needed and cardiac regeneration would represent a new treatment paradigm. Progenitor cells exist in the adult human heart that can play a role in cardiac repair via paracrine mechanisms and direct contribution to vasculature formation.<xref rid="sct312601-bib-0015" ref-type="ref">15</xref> However, these cells are rare and difficult to isolate and therefore little is known about the molecular mechanisms and signaling pathways required for their proliferation and differentiation. In the absence of adult human cells for testing, human iPS&#x02010;derived cells can be used as a model system to investigate and discover novel biology in the cell type of interest. Herein, we describe the use of our previously reported human iPS&#x02010;derived CPCs in a phenotypic screening campaign to identify molecules, which enhance the proliferation and expand the population of these cells. This approach enhances our understanding of the key pathways driving cell cycle activity and differentiation capability of CPCs and can be used to identify potential therapeutic targets for cardiac regeneration.</p><p>Screening a compound library of 10&#x02009;000 compounds led to the identification of RAR agonists as potent and robust proliferators of iPS&#x02010;derived CPCs. The nuclear receptor&#x02010;ligand&#x02010;dependent coactivator recruitment assay used in this study allowed us to rapidly compare EC<sub>50</sub> data from a selection of known RAR and RXR ligands based on their ability to modulate the affinity of the target RAR or RXR LBD for the labeled coactivator peptide, SRC1&#x02010;2. A range of structurally diverse RAR agonists with confirmed activity against the RAR isotypes were shown to proliferate this cell type while showing no proliferation of CFs. In addition, agonists of RXR did not proliferate the cells. The data did not allow us to draw conclusions with respect to the requirement for ligand activity against selected RAR isotypes in order to drive proliferation. The presence of the three RAR isotypes, RARA, RARB, and RARG, in the iPS&#x02010;derived cells was confirmed and the proliferative effect of the RAR agonists could be competed away through treatment with a RAR antagonist, supporting that the proliferative effect was indeed driven by agonism of the RA receptor. Treatment of the iPS&#x02010;derived CPCs led to a significant increase in mRNA expression for several well&#x02010;characterized RAR&#x02010;responsive genes as well as cardiac progenitor markers being expressed in the CPC samples at 24&#x02009;hours after treatment.</p><p>CPCs can be obtained from different sources and genetic backgrounds and here we show that the identified RAR agonists also proliferate a separate CPC population derived from hPSCs, HuES6, but did not proliferate CFs, demonstrating that the effects of RAR agonism may be specific to certain cell populations in the myocardium. With the HuES6 cells, the RAR agonists had a time&#x02010;of&#x02010;differentiation&#x02010;dependent effect on the cells. These data indicate that RAR agonists can proliferate cardiac precursor cells in general and maintain/increase the levels of progenitor markers during treatment, preventing terminal cardiac differentiation.</p><p>The impact of RA signaling on the differentiation and proliferation of cardiac cells is dependent on the cell type and the differentiation status of the cells, and it is known that RA plays many critical roles during development, including acting as a morphogen, inducing commitment of precursor cells and thereby mediating tissue patterning.<xref rid="sct312601-bib-0013" ref-type="ref">13</xref>, <xref rid="sct312601-bib-0014" ref-type="ref">14</xref> One of the first studies of RA signaling in the developing mouse heart revealed key regulatory functions for RA signaling in chamber development and specification.<xref rid="sct312601-bib-0050" ref-type="ref">50</xref> In addition, research in zebrafish and mouse both indicated that RA signaling restricts the pool of cardiac progenitors from multipotent precursor cells.<xref rid="sct312601-bib-0051" ref-type="ref">51</xref>, <xref rid="sct312601-bib-0052" ref-type="ref">52</xref> Furthermore, using mouse models, the role of RA signaling in cardiac development and differentiation has been established by knockouts of the RA receptor isoforms where RAR double mutant mice developed abnormalities in the heart as well as other organs.<xref rid="sct312601-bib-0029" ref-type="ref">29</xref> The effects of ATRA on the expression of RA target genes and on proliferation of certain cell types isolated from the mouse heart has also been reported. In these murine cell types, an increase in the expression of RA target genes was seen while ATRA inhibited the proliferation of human aortic SMC and murine CFs and promoted the proliferation of human umbilical vein endothelial cells (HUVECs)<xref rid="sct312601-bib-0025" ref-type="ref">25</xref> again indicating the cell type specific effect of RAR agonism. In terms of differentiation, RA has been shown to increase the number of cardiomyocytes when added during ES cell differentiation.<xref rid="sct312601-bib-0020" ref-type="ref">20</xref> There is also some evidence for a link between RA treatment and the induction of cardiac&#x02010;specific genes (MLC&#x02010;2v, &#x003b1;&#x02010;cardiac MHC), with RA binding RARs and activating early CPCs via NKX2.5, which then promote expression of additional cardiac&#x02010;specific genes, accelerating differentiation.<xref rid="sct312601-bib-0022" ref-type="ref">22</xref>, <xref rid="sct312601-bib-0023" ref-type="ref">23</xref> Deficiency of vitamin A, the nonoxidized precursor of RA has also been shown to lead to ventricular hypoplasia.<xref rid="sct312601-bib-0024" ref-type="ref">24</xref>
+</p><p>Modulation of RA signaling has also been shown to control atrial versus ventricular differentiation from hESCs. Addition of a RA receptor antagonist to differentiating cell cultures gave mainly ventricular&#x02010;like cells, whereas addition of RA yielded atrial&#x02010;like enriched CMs.<xref rid="sct312601-bib-0053" ref-type="ref">53</xref> This result is in accordance with our data where treatment of day 4 differentiating hPSCs cells induced an atrial cell fate. However, this was not seen with day 5 differentiating hPSCs, where instead proliferation of the progenitor cells at this stage was enhanced at the expense of terminal cell differentiation highlighting the stage of differentiation effects of RA signaling on the cells. Hence, the clearly defined populations of CPCs utilized in this study are at a stage of differentiation where RA signaling leads to proliferation of the cells in contrast to other reported precursor cells where RA signaling leads to cell differentiation. RA signaling in different cell types is highly complex and context&#x02010;dependent. In many cell types, RA signaling affects the differentiation of the cells. However, as shown here with both populations of CPCs used, as well as other cell types including hPSCs<xref rid="sct312601-bib-0054" ref-type="ref">54</xref> and HUVECs described above, RA signaling leads to cell proliferation. Subsequent single&#x02010;cell RNAseq or use of spatial transcriptomics could be instructive in further refining cell type&#x02010;specific responses to RAR agonism and unraveling the complex role in CPC proliferation and differentiation, beyond the bulk cell&#x02010;population approach used in this study.</p><p>Outside of the cardiac area, RA has also been described to proliferate and differentiate a variety of cell types including various cancer cell types and progenitor cells of the central nervous system including glial and neural progenitor cells. In this setting, RA signaling has been shown to promote neurogenesis from stem cells in a chick model system.<xref rid="sct312601-bib-0055" ref-type="ref">55</xref> However, as also shown in our study, the effects of RA signaling are context&#x02010;dependent leading to different effects on neuronal differentiation and proliferation. For example, it has recently been reported that RA is required to promote proliferation of neural stem and progenitor cells in the adult hippocampus.<xref rid="sct312601-bib-0056" ref-type="ref">56</xref> Combined with the results of the HuES6 cells described herein where there was a time&#x02010;of&#x02010;differentiation&#x02010;dependent effect, again implies that the differentiation status of the cells plays a large role in how the cells respond to RA treatment.</p><p>Although RA has multiple physiological effects, including cell proliferation, it has not been as well studied in the cardiovascular context and which is of significant interest in the regenerative medicine arena. The work described here highlights the power of phenotypic screening to identify novel molecules and mechanisms that impart the desired phenotype in a relevant cell system. A novel role of RA signaling and RAR agonists has been revealed as an important driver of CPC proliferation to enhance their population and has been shown in two separate CPC populations from an independent source and from a different genetic background. The stage&#x02010;specific effects of RA signaling has also been shown in this second population of CPCs where treatment with RA after either 4 or 5&#x02009;days of differentiation either led to atrial cell differentiation or enhanced proliferation and repression of cardiac differentiation, respectively. In addition, the cell type&#x02010;specific effects were also highlighted as CFs did not undergo proliferation.</p><p>How this mechanism translates in vivo to activate endogenous CPCs and whether proliferation of these rare cells is sufficient to enhance cardiac repair warrants further study as we continue to identify potential mechanisms that can be targeted to enhance cardiac regeneration.</p></sec><sec id="sct312601-sec-0021"><label>6</label><title>CONCLUSION</title><p>The data presented here indicate that RAR agonists, at least transiently, enhance proliferation of human cardiac precursor cells in general, at the expense of terminal cardiac differentiation, and may have implications for cardiac regeneration. It remains to be investigated whether this finding also bears potential for the long&#x02010;term stabilization and expansion of these precursors.</p></sec><sec sec-type="COI-statement" id="sct312601-sec-0024"><title>CONFLICT OF INTEREST</title><p>L.D. is an employee of UCB Pharma; J.M., A.N., S.P., U.K., S.M., E.M., A.D., S.K., I.B., J.S., B.M., and Q.&#x02010;D.W. are employees of AstraZeneca; A.T.P. is an employee of Sanofi; B.G. is an employee of the Max Planck Institute for Molecular Biomedicine.</p></sec><sec id="sct312601-sec-0023"><label>7</label><title>AUTHOR CONTRIBUTIONS</title><p>L.D., J.M., A.N., B.G., A.T.P.: conception and design, collection and assembly of data, data analysis and interpretation, manuscript writing, final approval of manuscript; S.P., U.K., S.M., E.M., A.D., S.K., J.S., B.M.: collection and assembly of data, data analysis and interpretation, final approval of manuscript; I.B.: collection and assembly of data, data analysis and interpretation, manuscript writing, final approval of manuscript; Q.&#x02010;D.W.: conception and design, data analysis and interpretation, manuscript writing, final approval of manuscript.</p></sec><sec id="sct312601-sec-0025"><label>8</label></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="sct312601-supitem-0001"><caption><p>
+<bold>Data S1</bold>: Supporting Information.</p></caption><media xlink:href="SCT3-9-47-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="sct312601-sec-0022"><title>ACKNOWLEDGMENTS</title><p>We acknowledge Anna Jonebring, Alexander Kvist, Elizabeth Mouchet, and Claudia B&#x000f6;ttcher for help with development and implementation of the primary and cardiac fibroblast assays.</p></ack><sec sec-type="data-availability" id="sct312601-sec-0026"><label>8.1</label><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="sct312601-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="sct312601-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="sct312601-cit-0001">
+<string-name>
+<surname>Bergmann</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Bhardwaj</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Bernard</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Evidence for cardiomyocyte renewal in humans</article-title>. <source xml:lang="en">Science</source>. <year>2009</year>;<volume>324</volume>:<fpage>98</fpage>&#x02010;<lpage>102</lpage>.<pub-id pub-id-type="pmid">19342590</pub-id></mixed-citation></ref><ref id="sct312601-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="sct312601-cit-0002">
+<string-name>
+<surname>Emmert</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name>
+<surname>Emmert</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Martens</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Higher frequencies of BCRP+ cardiac resident cells in ischaemic human myocardium</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2013</year>;<volume>34</volume>:<fpage>2830</fpage>&#x02010;<lpage>2838</lpage>.<pub-id pub-id-type="pmid">22736676</pub-id></mixed-citation></ref><ref id="sct312601-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="sct312601-cit-0003">
+<string-name>
+<surname>Guan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hasenfuss</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Cardiac resident progenitor cells: evidence and functional significance</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2013</year>;<volume>34</volume>:<fpage>2784</fpage>&#x02010;<lpage>2787</lpage>.<pub-id pub-id-type="pmid">22782944</pub-id></mixed-citation></ref><ref id="sct312601-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="sct312601-cit-0004">
+<string-name>
+<surname>Hsueh</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>CK</given-names>
+</string-name>, et al. <article-title>Prostaglandin E(2) promotes post&#x02010;infarction cardiomyocyte replenishment by endogenous stem cells</article-title>. <source xml:lang="en">EMBO Mol Med</source>. <year>2014</year>;<volume>6</volume>:<fpage>496</fpage>&#x02010;<lpage>503</lpage>.<pub-id pub-id-type="pmid">24448489</pub-id></mixed-citation></ref><ref id="sct312601-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="sct312601-cit-0005">
+<string-name>
+<surname>Itzhaki&#x02010;Alfia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Leor</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Raanani</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Patient characteristics and cell source determine the number of isolated human cardiac progenitor cells</article-title>. <source xml:lang="en">Circulation</source>. <year>2009</year>;<volume>120</volume>:<fpage>2559</fpage>&#x02010;<lpage>2566</lpage>.<pub-id pub-id-type="pmid">19996019</pub-id></mixed-citation></ref><ref id="sct312601-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="sct312601-cit-0006">
+<string-name>
+<surname>Malliaras</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ibrahim</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tseliou</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Stimulation of endogenous cardioblasts by exogenous cell therapy after myocardial infarction</article-title>. <source xml:lang="en">EMBO Mol Med</source>. <year>2014</year>;<volume>6</volume>:<fpage>760</fpage>&#x02010;<lpage>777</lpage>.<pub-id pub-id-type="pmid">24797668</pub-id></mixed-citation></ref><ref id="sct312601-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="sct312601-cit-0007">
+<string-name>
+<surname>Messina</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>De Angelis</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Frati</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Isolation and expansion of adult cardiac stem cells from human and murine heart</article-title>. <source xml:lang="en">Circ Res</source>. <year>2004</year>;<volume>95</volume>:<fpage>911</fpage>&#x02010;<lpage>921</lpage>.<pub-id pub-id-type="pmid">15472116</pub-id></mixed-citation></ref><ref id="sct312601-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="sct312601-cit-0008">
+<string-name>
+<surname>van Vliet</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Smits</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>de Boer</surname>
+<given-names>TP</given-names>
+</string-name>, et al. <article-title>Foetal and adult cardiomyocyte progenitor cells have different developmental potential</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2010</year>;<volume>14</volume>:<fpage>861</fpage>&#x02010;<lpage>870</lpage>.<pub-id pub-id-type="pmid">20219011</pub-id></mixed-citation></ref><ref id="sct312601-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="sct312601-cit-0009">
+<string-name>
+<surname>van Berlo</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Molkentin</surname>
+<given-names>JD</given-names>
+</string-name>. <article-title>An emerging consensus on cardiac regeneration</article-title>. <source xml:lang="en">Nat Med</source>. <year>2014</year>;<volume>20</volume>:<fpage>1386</fpage>&#x02010;<lpage>1393</lpage>.<pub-id pub-id-type="pmid">25473919</pub-id></mixed-citation></ref><ref id="sct312601-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="sct312601-cit-0010">
+<string-name>
+<surname>Chen</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Bender</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Pathologic stimulus determines lineage commitment of cardiac C&#x02010;kit(+) cells</article-title>. <source xml:lang="en">Circulation</source>. <year>2017</year>;<volume>136</volume>:<fpage>2359</fpage>&#x02010;<lpage>2372</lpage>.<pub-id pub-id-type="pmid">29021323</pub-id></mixed-citation></ref><ref id="sct312601-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="sct312601-cit-0011">
+<string-name>
+<surname>Vagnozzi</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Sargent</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>SJ</given-names>
+</string-name>, et al. <article-title>Genetic lineage tracing of Sca&#x02010;1(+) cells reveals endothelial but not myogenic contribution to the murine heart</article-title>. <source xml:lang="en">Circulation</source>. <year>2018</year>;<volume>138</volume>:<fpage>2931</fpage>&#x02010;<lpage>2939</lpage>.<pub-id pub-id-type="pmid">29991486</pub-id></mixed-citation></ref><ref id="sct312601-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="sct312601-cit-0012">
+<string-name>
+<surname>Cahill</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Choudhury</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name>
+<surname>Riley</surname>
+<given-names>PR</given-names>
+</string-name>. <article-title>Heart regeneration and repair after myocardial infarction: translational opportunities for novel therapeutics</article-title>. <source xml:lang="en">Nat Rev Drug Discov</source>. <year>2017</year>;<volume>16</volume>:<fpage>699</fpage>&#x02010;<lpage>717</lpage>.<pub-id pub-id-type="pmid">28729726</pub-id></mixed-citation></ref><ref id="sct312601-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="sct312601-cit-0013">
+<string-name>
+<surname>Gallet</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dawkins</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Valle</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Exosomes secreted by cardiosphere&#x02010;derived cells reduce scarring, attenuate adverse remodelling, and improve function in acute and chronic porcine myocardial infarction</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2017</year>;<volume>38</volume>:<fpage>201</fpage>&#x02010;<lpage>211</lpage>.<pub-id pub-id-type="pmid">28158410</pub-id></mixed-citation></ref><ref id="sct312601-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="sct312601-cit-0014">
+<string-name>
+<surname>Drowley</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Koonce</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Peel</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Human induced pluripotent stem cell&#x02010;derived cardiac progenitor cells in phenotypic screening: a transforming growth factor&#x02010;beta type 1 receptor kinase inhibitor induces efficient cardiac differentiation</article-title>. <source xml:lang="en">Stem Cells Transl Med</source>. <year>2016</year>;<volume>5</volume>:<fpage>164</fpage>&#x02010;<lpage>174</lpage>.<pub-id pub-id-type="pmid">26683871</pub-id></mixed-citation></ref><ref id="sct312601-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="sct312601-cit-0015">
+<string-name>
+<surname>Plowright</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Engkvist</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Gill</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Knerr</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>QD</given-names>
+</string-name>. <article-title>Heart regeneration: opportunities and challenges for drug discovery with novel chemical and therapeutic methods or agents</article-title>. <source xml:lang="en">Angew Chem Int Ed Engl</source>. <year>2014</year>;<volume>53</volume>:<fpage>4056</fpage>&#x02010;<lpage>4075</lpage>.<pub-id pub-id-type="pmid">24470316</pub-id></mixed-citation></ref><ref id="sct312601-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="sct312601-cit-0016">
+<string-name>
+<surname>Willems</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Spiering</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Davidovics</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Small&#x02010;molecule inhibitors of the Wnt pathway potently promote cardiomyocytes from human embryonic stem cell&#x02010;derived mesoderm</article-title>. <source xml:lang="en">Circ Res</source>. <year>2011</year>;<volume>109</volume>:<fpage>360</fpage>&#x02010;<lpage>364</lpage>.<pub-id pub-id-type="pmid">21737789</pub-id></mixed-citation></ref><ref id="sct312601-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="sct312601-cit-0017">
+<string-name>
+<surname>Murry</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Differentiation of embryonic stem cells to clinically relevant populations: lessons from embryonic development</article-title>. <source xml:lang="en">Cell</source>. <year>2008</year>;<volume>132</volume>:<fpage>661</fpage>&#x02010;<lpage>680</lpage>.<pub-id pub-id-type="pmid">18295582</pub-id></mixed-citation></ref><ref id="sct312601-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="sct312601-cit-0018">
+<string-name>
+<surname>Ronn</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Guibentif</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Moraghebi</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Retinoic acid regulates hematopoietic development from human pluripotent stem cells</article-title>. <source xml:lang="en">Stem Cell Rep</source>. <year>2015</year>;<volume>4</volume>:<fpage>269</fpage>&#x02010;<lpage>281</lpage>.</mixed-citation></ref><ref id="sct312601-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="sct312601-cit-0019">
+<string-name>
+<surname>Huang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chandra</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Rastinejad</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Retinoic acid actions through mammalian nuclear receptors</article-title>. <source xml:lang="en">Chem Rev</source>. <year>2014</year>;<volume>114</volume>:<fpage>233</fpage>&#x02010;<lpage>254</lpage>.<pub-id pub-id-type="pmid">24308533</pub-id></mixed-citation></ref><ref id="sct312601-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="sct312601-cit-0020">
+<string-name>
+<surname>Gillespie</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Gudas</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Retinoic acid receptor isotype specificity in F9 teratocarcinoma stem cells results from the differential recruitment of coregulators to retinoic response elements</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2007</year>;<volume>282</volume>:<fpage>33421</fpage>&#x02010;<lpage>33434</lpage>.<pub-id pub-id-type="pmid">17875646</pub-id></mixed-citation></ref><ref id="sct312601-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="sct312601-cit-0021">
+<string-name>
+<surname>Kashyap</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Gudas</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Epigenetic regulatory mechanisms distinguish retinoic acid&#x02010;mediated transcriptional responses in stem cells and fibroblasts</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2010</year>;<volume>285</volume>:<fpage>14534</fpage>&#x02010;<lpage>14548</lpage>.<pub-id pub-id-type="pmid">20231276</pub-id></mixed-citation></ref><ref id="sct312601-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="sct312601-cit-0022">
+<string-name>
+<surname>Muramoto</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Safi</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Inhibition of aldehyde dehydrogenase expands hematopoietic stem cells with radioprotective capacity</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2010</year>;<volume>28</volume>:<fpage>523</fpage>&#x02010;<lpage>534</lpage>.<pub-id pub-id-type="pmid">20054864</pub-id></mixed-citation></ref><ref id="sct312601-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="sct312601-cit-0023">
+<string-name>
+<surname>Purton</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Dworkin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>
+<given-names>GH</given-names>
+</string-name>, et al. <article-title>RARgamma is critical for maintaining a balance between hematopoietic stem cell self&#x02010;renewal and differentiation</article-title>. <source xml:lang="en">J Exp Med</source>. <year>2006</year>;<volume>203</volume>:<fpage>1283</fpage>&#x02010;<lpage>1293</lpage>.<pub-id pub-id-type="pmid">16682494</pub-id></mixed-citation></ref><ref id="sct312601-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="sct312601-cit-0024">
+<string-name>
+<surname>Wobus</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Rohwedel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Maltsev</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>In vitro differentiation of embryonic stem cells into cardiomyocytes or skeletal muscle cells is specifically modulated by retinoic acid</article-title>. <source xml:lang="en">Roux Arch Dev Biol</source>. <year>1994</year>;<volume>204</volume>:<fpage>36</fpage>&#x02010;<lpage>45</lpage>.</mixed-citation></ref><ref id="sct312601-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="sct312601-cit-0025">
+<string-name>
+<surname>Bilbija</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Elmabsout</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Sagave</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Expression of retinoic acid target genes in coronary artery disease</article-title>. <source xml:lang="en">Int J Mol Med</source>. <year>2014</year>;<volume>33</volume>:<fpage>677</fpage>&#x02010;<lpage>686</lpage>.<pub-id pub-id-type="pmid">24424466</pub-id></mixed-citation></ref><ref id="sct312601-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="sct312601-cit-0026">
+<string-name>
+<surname>Ryckebusch</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Bertrand</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Retinoic acid deficiency alters second heart field formation</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2008</year>;<volume>105</volume>:<fpage>2913</fpage>&#x02010;<lpage>2918</lpage>.<pub-id pub-id-type="pmid">18287057</pub-id></mixed-citation></ref><ref id="sct312601-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="sct312601-cit-0027">
+<string-name>
+<surname>Wobus</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Kaomei</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Shan</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Retinoic acid accelerates embryonic stem cell&#x02010;derived cardiac differentiation and enhances development of ventricular cardiomyocytes</article-title>. <source xml:lang="en">J Mol Cell Cardiol</source>. <year>1997</year>;<volume>29</volume>:<fpage>1525</fpage>&#x02010;<lpage>1539</lpage>.<pub-id pub-id-type="pmid">9220339</pub-id></mixed-citation></ref><ref id="sct312601-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="sct312601-cit-0028">
+<string-name>
+<surname>Wilson</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Roth</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Warkany</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>An analysis of the syndrome of malformations induced by maternal vitamin A deficiency. Effects of restoration of vitamin A at various times during gestation</article-title>. <source xml:lang="en">Am J Anat</source>. <year>1953</year>;<volume>92</volume>:<fpage>189</fpage>&#x02010;<lpage>217</lpage>.<pub-id pub-id-type="pmid">13030424</pub-id></mixed-citation></ref><ref id="sct312601-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="sct312601-cit-0029">
+<string-name>
+<surname>Mendelsohn</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lohnes</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Decimo</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Function of the retinoic acid receptors (RARs) during development (II). Multiple abnormalities at various stages of organogenesis in RAR double mutants</article-title>. <source xml:lang="en">Development</source>. <year>1994</year>;<volume>120</volume>:<fpage>2749</fpage>&#x02010;<lpage>2771</lpage>.<pub-id pub-id-type="pmid">7607068</pub-id></mixed-citation></ref><ref id="sct312601-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="sct312601-cit-0030">
+<string-name>
+<surname>Teng</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Duong</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>AT</given-names>
+</string-name>, et al. <article-title>Identification of highly potent retinoic acid receptor &#x003b1;&#x02010;selective antagonists</article-title>. <source xml:lang="en">J Med Chem</source>. <year>1997</year>;<volume>40</volume>:<fpage>2445</fpage>&#x02010;<lpage>2451</lpage>.<pub-id pub-id-type="pmid">9258350</pub-id></mixed-citation></ref><ref id="sct312601-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="sct312601-cit-0031">
+<string-name>
+<surname>Paunovic</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Drowley</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Nordqvist</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Phenotypic screen for cardiac regeneration identifies molecules with differential activity in human epicardium&#x02010;derived cells versus cardiac fibroblasts</article-title>. <source xml:lang="en">ACS Chem Biol</source>. <year>2017</year>;<volume>12</volume>:<fpage>132</fpage>&#x02010;<lpage>141</lpage>.<pub-id pub-id-type="pmid">28103692</pub-id></mixed-citation></ref><ref id="sct312601-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="sct312601-cit-0032">
+<string-name>
+<surname>Love</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Anders</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Moderated estimation of fold change and dispersion for RNA&#x02010;seq data with DESeq2</article-title>. <source xml:lang="en">Genome Biol</source>. <year>2014</year>;<volume>15</volume>:<fpage>550</fpage>.<pub-id pub-id-type="pmid">25516281</pub-id></mixed-citation></ref><ref id="sct312601-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="sct312601-cit-0033">
+<string-name>
+<surname>Ewels</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Magnusson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lundin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>K&#x000e4;ller</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>MultiQC: summarize analysis results for multiple tools and samples in a single report</article-title>. <source xml:lang="en">Bioinformatics</source>. <year>2016</year>;<volume>32</volume>:<fpage>3047</fpage>&#x02010;<lpage>3048</lpage>.<pub-id pub-id-type="pmid">27312411</pub-id></mixed-citation></ref><ref id="sct312601-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="sct312601-cit-0034">
+<string-name>
+<surname>Cowan</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Klimanskaya</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>McMahon</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Derivation of embryonic stem&#x02010;cell lines from human blastocysts</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2004</year>;<volume>350</volume>:<fpage>1353</fpage>&#x02010;<lpage>1356</lpage>.<pub-id pub-id-type="pmid">14999088</pub-id></mixed-citation></ref><ref id="sct312601-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="sct312601-cit-0035">
+<string-name>
+<surname>Frank</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Scholer</surname>
+<given-names>HR</given-names>
+</string-name>, et al. <article-title>Small molecule&#x02010;assisted, line&#x02010;independent maintenance of human pluripotent stem cells in defined conditions</article-title>. <source xml:lang="en">PLoS One</source>. <year>2012</year>;<volume>7</volume>:<elocation-id>e41958</elocation-id>.<pub-id pub-id-type="pmid">22860038</pub-id></mixed-citation></ref><ref id="sct312601-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="sct312601-cit-0036">
+<string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Heinick</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Universal cardiac induction of human pluripotent stem cells in two and three&#x02010;dimensional formats: implications for in vitro maturation</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2015</year>;<volume>33</volume>:<fpage>1456</fpage>&#x02010;<lpage>1469</lpage>.<pub-id pub-id-type="pmid">25639979</pub-id></mixed-citation></ref><ref id="sct312601-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="sct312601-cit-0037">
+<string-name>
+<surname>Delescluse</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Cavey</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Selective high affinity retinoic acid receptor alpha or beta&#x02010;gamma ligands</article-title>. <source xml:lang="en">Mol Pharmacol</source>. <year>1991</year>;<volume>40</volume>:<fpage>556</fpage>&#x02010;<lpage>562</lpage>.<pub-id pub-id-type="pmid">1656191</pub-id></mixed-citation></ref><ref id="sct312601-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="sct312601-cit-0038">
+<string-name>
+<surname>Clemens</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Flower</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Design and biological evaluation of synthetic retinoids: probing length vs. stability vs. activity</article-title>. <source xml:lang="en">Mol Biosyst</source>. <year>2013</year>;<volume>9</volume>:<fpage>3124</fpage>&#x02010;<lpage>3134</lpage>.<pub-id pub-id-type="pmid">24108350</pub-id></mixed-citation></ref><ref id="sct312601-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="sct312601-cit-0039">
+<string-name>
+<surname>Heyman</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Mangelsdorf</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Dyck</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>9&#x02010;cis retinoic acid is a high affinity ligand for the retinoid X receptor</article-title>. <source xml:lang="en">Cell</source>. <year>1992</year>;<volume>68</volume>:<fpage>397</fpage>&#x02010;<lpage>406</lpage>.<pub-id pub-id-type="pmid">1310260</pub-id></mixed-citation></ref><ref id="sct312601-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="sct312601-cit-0040">
+<string-name>
+<surname>Levin</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Sturzenbecker</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Kazmer</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>9&#x02010;cis retinoic acid stereoisomer binds and activates the nuclear receptor RXR alpha</article-title>. <source xml:lang="en">Nature</source>. <year>1992</year>;<volume>355</volume>:<fpage>359</fpage>&#x02010;<lpage>361</lpage>.<pub-id pub-id-type="pmid">1309942</pub-id></mixed-citation></ref><ref id="sct312601-bib-0041"><label>41</label><mixed-citation publication-type="book" id="sct312601-cit-0041">
+<string-name>
+<surname>Bernardon</surname>
+<given-names>J&#x02010;M</given-names>
+</string-name>. <source xml:lang="en">Preparation of Bicyclic Aromatic Compounds: Centre International de Recherches Dermatologiques Galderma C.I.R.D</source>. <publisher-loc>France</publisher-loc>: <publisher-name>Galderma</publisher-name>; <year>1997</year>.</mixed-citation></ref><ref id="sct312601-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="sct312601-cit-0042">
+<string-name>
+<surname>Lehmann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jong</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Fanjul</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Retinoids selective for retinoid X receptor response pathways</article-title>. <source xml:lang="en">Science</source>. <year>1992</year>;<volume>258</volume>:<fpage>1944</fpage>&#x02010;<lpage>1946</lpage>.<pub-id pub-id-type="pmid">1335166</pub-id></mixed-citation></ref><ref id="sct312601-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="sct312601-cit-0043">
+<string-name>
+<surname>Kagechika</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kawachi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hashimoto</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shudo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Himi</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Retinobenzoic acids. 1. Structure&#x02013;activity relationships of aromatic amides with retinoidal activity</article-title>. <source xml:lang="en">J Med Chem</source>. <year>1988</year>;<volume>31</volume>:<fpage>2182</fpage>&#x02010;<lpage>2192</lpage>.<pub-id pub-id-type="pmid">3184125</pub-id></mixed-citation></ref><ref id="sct312601-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="sct312601-cit-0044">
+<string-name>
+<surname>Beard</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Duong</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Teng</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Standevan</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Chandraratna</surname>
+<given-names>RAS</given-names>
+</string-name>. <article-title>Synthesis and biological activity of retinoic acid receptor&#x02010;&#x003b1; specific amides</article-title>. <source xml:lang="en">Bioorg Med Chem Lett</source>. <year>2002</year>;<volume>12</volume>:<fpage>3145</fpage>&#x02010;<lpage>3148</lpage>.<pub-id pub-id-type="pmid">12372520</pub-id></mixed-citation></ref><ref id="sct312601-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="sct312601-cit-0045">
+<string-name>
+<surname>Strickland</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Breitman</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Frickel</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Structure&#x02013;activity relationships of a new series of retinoidal benzoic acid derivatives as measured by induction of differentiation of murine F9 teratocarcinoma cells and human HL&#x02010;60 promyelocytic leukemia cells</article-title>. <source xml:lang="en">Cancer Res</source>. <year>1983</year>;<volume>43</volume>:<fpage>5268</fpage>&#x02010;<lpage>5272</lpage>.<pub-id pub-id-type="pmid">6577946</pub-id></mixed-citation></ref><ref id="sct312601-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="sct312601-cit-0046">
+<string-name>
+<surname>Christie</surname>
+<given-names>VB</given-names>
+</string-name>, <string-name>
+<surname>Barnard</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Batsanov</surname>
+<given-names>AS</given-names>
+</string-name>, et al. <article-title>Synthesis and evaluation of synthetic retinoid derivatives as inducers of stem cell differentiation</article-title>. <source xml:lang="en">Org Biomol Chem</source>. <year>2008</year>;<volume>6</volume>:<fpage>3497</fpage>&#x02010;<lpage>3507</lpage>.<pub-id pub-id-type="pmid">19082150</pub-id></mixed-citation></ref><ref id="sct312601-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="sct312601-cit-0047">
+<string-name>
+<surname>Rao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pfeiffer</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Frank</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Stepwise clearance of repressive roadblocks drives cardiac induction in human ESCs</article-title>. <source xml:lang="en">Cell Stem Cell</source>. <year>2016</year>;<volume>18</volume>:<fpage>341</fpage>&#x02010;<lpage>353</lpage>.<pub-id pub-id-type="pmid">26748419</pub-id></mixed-citation></ref><ref id="sct312601-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="sct312601-cit-0048">
+<string-name>
+<surname>Devalla</surname>
+<given-names>HD</given-names>
+</string-name>, <string-name>
+<surname>Schwach</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>
+<given-names>JW</given-names>
+</string-name>, et al. <article-title>Atrial&#x02010;like cardiomyocytes from human pluripotent stem cells are a robust preclinical model for assessing atrial&#x02010;selective pharmacology</article-title>. <source xml:lang="en">EMBO Mol Med</source>. <year>2015</year>;<volume>7</volume>:<fpage>394</fpage>&#x02010;<lpage>410</lpage>.<pub-id pub-id-type="pmid">25700171</pub-id></mixed-citation></ref><ref id="sct312601-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="sct312601-cit-0049">
+<string-name>
+<surname>Quaranta</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Fell</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>R&#x000fc;hle</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Revised roles of ISL1 in a hES cell&#x02010;based model of human heart chamber specification</article-title>. <source xml:lang="en">Elife</source>. <year>2018</year>;<volume>7</volume>:<elocation-id>e31706</elocation-id>.<pub-id pub-id-type="pmid">29337667</pub-id></mixed-citation></ref><ref id="sct312601-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="sct312601-cit-0050">
+<string-name>
+<surname>Xavier&#x02010;Neto</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Neville</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Shapiro</surname>
+<given-names>MD</given-names>
+</string-name>, et al. <article-title>A retinoic acid&#x02010;inducible transgenic marker of sino&#x02010;atrial development in the mouse heart</article-title>. <source xml:lang="en">Development</source>. <year>1999</year>;<volume>126</volume>:<fpage>2677</fpage>&#x02010;<lpage>2687</lpage>.<pub-id pub-id-type="pmid">10331979</pub-id></mixed-citation></ref><ref id="sct312601-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="sct312601-cit-0051">
+<string-name>
+<surname>Keegan</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Feldman</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Begemann</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ingham</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name>
+<surname>Yelon</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Retinoic acid signaling restricts the cardiac progenitor pool</article-title>. <source xml:lang="en">Science</source>. <year>2005</year>;<volume>307</volume>:<fpage>247</fpage>&#x02010;<lpage>249</lpage>.<pub-id pub-id-type="pmid">15653502</pub-id></mixed-citation></ref><ref id="sct312601-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="sct312601-cit-0052">
+<string-name>
+<surname>Lin</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Dolle</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Ryckebusch</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Endogenous retinoic acid regulates cardiac progenitor differentiation</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2010</year>;<volume>107</volume>:<fpage>9234</fpage>&#x02010;<lpage>9239</lpage>.<pub-id pub-id-type="pmid">20439714</pub-id></mixed-citation></ref><ref id="sct312601-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="sct312601-cit-0053">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Direct differentiation of atrial and ventricular myocytes from human embryonic stem cells by alternating retinoid signals</article-title>. <source xml:lang="en">Cell Res</source>. <year>2011</year>;<volume>21</volume>:<fpage>579</fpage>&#x02010;<lpage>587</lpage>.<pub-id pub-id-type="pmid">21102549</pub-id></mixed-citation></ref><ref id="sct312601-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="sct312601-cit-0054">
+<string-name>
+<surname>De Angelis</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Parrotta</surname>
+<given-names>EI</given-names>
+</string-name>, <string-name>
+<surname>Santamaria</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Short&#x02010;term retinoic acid treatment sustains pluripotency and suppresses differentiation of human induced pluripotent stem cells</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2018</year>;<volume>9</volume>:<fpage>6</fpage>.<pub-id pub-id-type="pmid">29305588</pub-id></mixed-citation></ref><ref id="sct312601-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="sct312601-cit-0055">
+<string-name>
+<surname>Todd</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Suarez</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Quinn</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>Retinoic acid&#x02010;signaling regulates the proliferative and neurogenic capacity of muller glia&#x02010;derived progenitor cells in the avian retina</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2018</year>;<volume>36</volume>:<fpage>392</fpage>&#x02010;<lpage>405</lpage>.<pub-id pub-id-type="pmid">29193451</pub-id></mixed-citation></ref><ref id="sct312601-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="sct312601-cit-0056">
+<string-name>
+<surname>Mishra</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Rumian</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Siegenthaler</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Retinoic acid is required for neural stem and progenitor cell proliferation in the adult hippocampus</article-title>. <source xml:lang="en">Stem Cell Rep</source>. <year>2018</year>;<volume>10</volume>:<fpage>1705</fpage>&#x02010;<lpage>1720</lpage>.</mixed-citation></ref></ref-list></back></article>

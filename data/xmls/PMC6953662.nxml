@@ -1,0 +1,1047 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938526</article-id><article-id pub-id-type="pmc">6953662</article-id><article-id pub-id-type="doi">10.1002/ece3.5874</article-id><article-id pub-id-type="publisher-id">ECE35874</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Water availability drives aboveground biomass and bird richness in forest restoration plantings to achieve carbon and biodiversity cobenefits</article-title><alt-title alt-title-type="left-running-head">HAGGER et al.</alt-title></title-group><contrib-group><contrib id="ece35874-cr-0001" contrib-type="author" corresp="yes"><name><surname>Hagger</surname><given-names>Valerie</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8408-8449</contrib-id><xref ref-type="aff" rid="ece35874-aff-0001">
+<sup>1</sup>
+</xref><address><email>v.hagger@uq.edu.au</email></address></contrib><contrib id="ece35874-cr-0002" contrib-type="author"><name><surname>Wilson</surname><given-names>Kerrie</given-names></name><xref ref-type="aff" rid="ece35874-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35874-cr-0003" contrib-type="author"><name><surname>England</surname><given-names>Jacqueline R.</given-names></name><xref ref-type="aff" rid="ece35874-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35874-cr-0004" contrib-type="author"><name><surname>Dwyer</surname><given-names>John M.</given-names></name><xref ref-type="aff" rid="ece35874-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35874-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="ece35874-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">School of Biological Sciences</named-content>
+<institution>The University of Queensland</institution>
+<city>Brisbane</city>
+<named-content content-type="country-part">Qld</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="ece35874-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Institute for Future Environments</named-content>
+<institution>Queensland University of Technology</institution>
+<city>Brisbane</city>
+<named-content content-type="country-part">Qld</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="ece35874-aff-0003">
+<label><sup>3</sup></label>
+<institution>CSIRO Land and Water</institution>
+<city>Clayton South</city>
+<named-content content-type="country-part">Vic.</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="ece35874-aff-0004">
+<label><sup>4</sup></label>
+<institution>CSIRO Land and Water</institution>
+<city>Brisbane</city>
+<named-content content-type="country-part">Qld</named-content>
+<country country="AU">Australia</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Valerie Hagger, School of Biological Sciences, The University of Queensland, Brisbane, Qld 4072, Australia.<break/>
+Email: <email>v.hagger@uq.edu.au</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14379</fpage><lpage>14393</lpage><history><date date-type="received"><day>11</day><month>9</month><year>2019</year></date><date date-type="rev-recd"><day>19</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>24</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14379.pdf"/><abstract id="ece35874-abs-0001"><title>Abstract</title><p>To combat global warming and biodiversity loss, we require effective forest restoration that encourages recovery of species diversity and ecosystem function to deliver essential ecosystem services, such as biomass accumulation. Further, understanding how and where to undertake restoration to achieve carbon sequestration and biodiversity conservation would provide an opportunity to finance ecosystem restoration under carbon markets. We surveyed 30 native mixed&#x02010;species plantings in subtropical forests and woodlands in Australia and used structural equation modeling to determine vegetation, soil, and climate variables most likely driving aboveground biomass accrual and bird richness and investigate the relationships between plant diversity, aboveground biomass accrual, and bird diversity. We focussed on woodland and forest&#x02010;dependent birds, and functional groups at risk of decline (insectivorous, understorey&#x02010;nesting, and small&#x02010;bodied birds). We found that mean moisture availability strongly limits aboveground biomass accrual and bird richness in restoration plantings, indicating potential synergies in choosing sites for carbon and biodiversity purposes. Counter to theory, woody plant richness was a poor direct predictor of aboveground biomass accrual, but was indirectly related via significant, positive effects of stand density. We also found no direct relationship between aboveground biomass accrual and bird richness, likely because of the strong effects of moisture availability on both variables. Instead, moisture availability and patch size strongly and positively influenced the richness of woodland and forest&#x02010;dependent birds. For understorey&#x02010;nesting birds, however, shrub cover and patch size predicted richness. Stand age or area of native vegetation surrounding the patch did not influence bird richness. Our results suggest that in subtropical biomes, planting larger patches to higher densities, ideally using a diversity of trees and shrubs (characteristics of ecological plantings) in more mesic locations will enhance the provision of carbon and biodiversity cobenefits. Further, ecological plantings will aid the rapid recovery of woodland and forest bird richness, with comparable aboveground biomass accrual to less diverse forestry plantations.</p></abstract><abstract abstract-type="graphical" id="ece35874-abs-0002"><p>We assessed native mixed&#x02010;species plantings in subtropical forests and woodlands in Australia to determine vegetation, soil, and climate variables most likely driving aboveground biomass (AGB) accrual and bird richness and investigate the relationships between plant diversity, AGB accrual, and bird diversity. Our results suggest that in subtropical biomes, planting larger patches to higher densities, ideally using a diversity of trees and shrubs, in locations with higher water availability will enhance the provision of carbon and biodiversity cobenefits.<boxed-text position="anchor" content-type="graphic" id="ece35874-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14379-g011.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35874-kwd-0001">biodiversity conservation</kwd><kwd id="ece35874-kwd-0002">bird richness</kwd><kwd id="ece35874-kwd-0003">carbon sequestration</kwd><kwd id="ece35874-kwd-0004">environmental plantings</kwd><kwd id="ece35874-kwd-0005">productivity</kwd><kwd id="ece35874-kwd-0006">reforestation</kwd><kwd id="ece35874-kwd-0007">subtropical forest</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Ecological Society of Australia&#x000a0;Holsworth Research Endowment </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100008702</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>CSIRO Integrated Natural Resource Management scholarship </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000943</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="10"/><table-count count="1"/><page-count count="15"/><word-count count="10489"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35874-cit-1001">
+<string-name>
+<surname>Hagger</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>England</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Dwyer</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Water availability drives aboveground biomass and bird richness in forest restoration plantings to achieve carbon and biodiversity cobenefits</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14379</fpage>&#x02013;<lpage>14393</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5874</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35874-body-0001"><sec id="ece35874-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Globally, there is an increasing need for landscape&#x02010;scale forest restoration to address land degradation, mitigate climate change, enhance food and water security, and combat biodiversity loss (IPCC, <xref rid="ece35874-bib-0046" ref-type="ref">2019</xref>; IPBES, <xref rid="ece35874-bib-0047" ref-type="ref">2018</xref>; Lamb, <xref rid="ece35874-bib-0051" ref-type="ref">2014</xref>; UNEP, <xref rid="ece35874-bib-0090" ref-type="ref">2019</xref>). Large&#x02010;scale reforestation is occurring worldwide, but many efforts involve planting productive monocultures (Chen et al., <xref rid="ece35874-bib-0014" ref-type="ref">2019</xref>; Hua et al., <xref rid="ece35874-bib-0043" ref-type="ref">2016</xref>) that may have limited benefits for biodiversity (Lindenmayer et al., <xref rid="ece35874-bib-0057" ref-type="ref">2012</xref>). In Australia, reforestation projects vary from native mixed&#x02010;species plantings that aim to reinstate habitat and enhance biodiversity (Hagger, Dwyer, &#x00026; Wilson, <xref rid="ece35874-bib-0037" ref-type="ref">2017</xref>; Paul, Roxburgh, England, et al., <xref rid="ece35874-bib-0076" ref-type="ref">2015</xref>), to native forestry plantations and monocultures of eucalypts that aim to maximize timber yield or carbon sequestration (Paul, Roxburgh, de Ligt, et al., <xref rid="ece35874-bib-0075" ref-type="ref">2015</xref>; Stephens &#x00026; Grist, <xref rid="ece35874-bib-0088" ref-type="ref">2014</xref>). Land managers in Australia can obtain payments for these planting types based on carbon sequestration predicted by the national carbon accounting model (DEE, <xref rid="ece35874-bib-0020" ref-type="ref">2014</xref>, <xref rid="ece35874-bib-0021" ref-type="ref">2017</xref>). Planting low&#x02010;diversity mixtures can reduce ecosystem stability and function, and the supply of ecosystem services, such as biomass accumulation, which plays a key role in carbon sequestration (Cardinale et al., <xref rid="ece35874-bib-0009" ref-type="ref">2012</xref>; Duffy, Godwin, &#x00026; Cardinale, <xref rid="ece35874-bib-0025" ref-type="ref">2017</xref>). Therefore, understanding how and where to achieve both carbon sequestration and biodiversity enhancement could help fund ecosystem restoration projects through payments from carbon markets, where such markets exist.</p><p>Recent work has shown that native mixed&#x02010;species plantings have the potential to deliver biodiversity benefits alongside carbon abatement (Carwardine et al., <xref rid="ece35874-bib-0010" ref-type="ref">2015</xref>; Paul, Cunningham, et al., <xref rid="ece35874-bib-0073" ref-type="ref">2016</xref>; Pichancourt, Firn, Chades, &#x00026; Martin, <xref rid="ece35874-bib-0078" ref-type="ref">2014</xref>). However, variation in the species planted, proportions of trees and shrubs (structural diversity), planting density, patch shape, and stand age can influence rates of aboveground biomass accumulation, as well as the quality of potential habitat for native fauna (Paul, Cunningham, et al., <xref rid="ece35874-bib-0073" ref-type="ref">2016</xref>; Paul, Roxburgh, England, et al., <xref rid="ece35874-bib-0076" ref-type="ref">2015</xref>). Aboveground biomass stores up to 50% carbon (Martin &#x00026; Thomas, <xref rid="ece35874-bib-0063" ref-type="ref">2011</xref>) and is widely used as a measure of forest productivity and carbon stocks (Duffy et al., <xref rid="ece35874-bib-0025" ref-type="ref">2017</xref>; Lecina&#x02010;Diaz et al., <xref rid="ece35874-bib-0053" ref-type="ref">2018</xref>). Rates of aboveground biomass accumulation depend on climate and nutrient availability (Duffy et al., <xref rid="ece35874-bib-0025" ref-type="ref">2017</xref>; Ratcliffe et al., <xref rid="ece35874-bib-0081" ref-type="ref">2017</xref>; Vil&#x000e0; et al., <xref rid="ece35874-bib-0093" ref-type="ref">2013</xref>) and also vary among planting types. For example, in Australia, native mixed&#x02010;species plantings had comparable or lower aboveground biomass than eucalypt monocultures in temperate regions, but higher aboveground biomass in the tropics (Cunningham et al., <xref rid="ece35874-bib-0019" ref-type="ref">2015</xref>; Paul, Cunningham, et al., <xref rid="ece35874-bib-0073" ref-type="ref">2016</xref>). In subtropical China, aboveground carbon was positively related to planted species richness in a tree diversity experiment. After eight years, 16&#x02010;species mixtures had accumulated over twice the amount of carbon found in average monocultures and similar amounts to commercial monocultures (Huang et al., <xref rid="ece35874-bib-0044" ref-type="ref">2018</xref>). This suggests that more diverse forest plantings in subtropical Australia may also have greater rates of aboveground biomass accumulation.</p><p>Vegetation structure and diversity are often used as proxies for fauna habitat in studies of carbon and biodiversity cobenefits (Carwardine et al., <xref rid="ece35874-bib-0010" ref-type="ref">2015</xref>; Paul, Cunningham, et al., <xref rid="ece35874-bib-0073" ref-type="ref">2016</xref>; Pichancourt et al., <xref rid="ece35874-bib-0078" ref-type="ref">2014</xref>). However, for plantings to enhance biodiversity, they need to provide suitable habitat for, and be colonized by forest&#x02010;dependent fauna (Catterall, <xref rid="ece35874-bib-0011" ref-type="ref">2018</xref>). The composition and diversity of bird communities have been used to assess biodiversity recovery in natural regeneration and restoration plantings (Bowen, McAlpine, Seabrook, House, &#x00026; Smith, <xref rid="ece35874-bib-0007" ref-type="ref">2009</xref>; Catterall, Freeman, Kanowski, &#x00026; Freebody, <xref rid="ece35874-bib-0012" ref-type="ref">2012</xref>; Hale et al., <xref rid="ece35874-bib-0038" ref-type="ref">2015</xref>). Birds have been recognized as effective taxonomic surrogates for fauna diversity in agricultural landscapes and can achieve high representation of other taxa such as bees, reptiles, and arboreal marsupials (Ikin, Yong, &#x00026; Lindenmayer, <xref rid="ece35874-bib-0045" ref-type="ref">2016</xref>; Li Yong et al., <xref rid="ece35874-bib-0055" ref-type="ref">2018</xref>).</p><p>Woodland and forest birds are declining worldwide, including in Australian eucalypt woodlands (Ford, <xref rid="ece35874-bib-0030" ref-type="ref">2011</xref>), and birds with particular life history traits are more at risk of decline in fragmented and degraded landscapes than other groups of bird species (Barnagaud, Barbaro, Papa&#x000ef;x, Deconchat, &#x00026; Brockerhoff, <xref rid="ece35874-bib-0002" ref-type="ref">2014</xref>; Joyce, Barnes, Possingham, &#x00026; Van Rensburg, <xref rid="ece35874-bib-0049" ref-type="ref">2018</xref>; Lindenmayer, Lane, et al., <xref rid="ece35874-bib-0059" ref-type="ref">2018</xref>). Understorey&#x02010; and ground&#x02010;nesting birds are more susceptible to decline because of their dependence on understorey vegetation for nesting and shelter, and the widespread loss and degradation of the grass/tussock and shrub/sapling layers in agricultural landscapes that are subject to livestock grazing (Martin &#x00026; McIntyre, <xref rid="ece35874-bib-0064" ref-type="ref">2007</xref>; Martin &#x00026; Possingham, <xref rid="ece35874-bib-0065" ref-type="ref">2005</xref>; Shanahan, Possingham, &#x00026; Martin, <xref rid="ece35874-bib-0085" ref-type="ref">2011</xref>). Loss and degradation of understorey vegetation has also been associated with declines in insectivorous birds because of reductions in insect diversity (Barton, Sato, Kay, Florance, &#x00026; Lindenmayer, <xref rid="ece35874-bib-0004" ref-type="ref">2016</xref>; Gibb &#x00026; Cunningham, <xref rid="ece35874-bib-0034" ref-type="ref">2010</xref>; White, Antos, Fitzsimons, &#x00026; Palmer, <xref rid="ece35874-bib-0095" ref-type="ref">2005</xref>). Several studies also suggest that small&#x02010;bodied species are of conservation concern (Ford, Barrett, Saunders, &#x00026; Recher, <xref rid="ece35874-bib-0031" ref-type="ref">2001</xref>; Montague&#x02010;Drake, Lindenmayer, &#x00026; Cunningham, <xref rid="ece35874-bib-0069" ref-type="ref">2009</xref>), because of their poor ability to traverse fragmented landscapes compared to large&#x02010;bodied birds (Shanahan et al., <xref rid="ece35874-bib-0085" ref-type="ref">2011</xref>). Furthermore, where there is a lack of understorey vegetation in Australia, small&#x02010;bodied birds are more vulnerable to exclusion by aggressive competitors, such as the noisy miner (<italic>Manorina melanocephala</italic>; Maron et al., <xref rid="ece35874-bib-0062" ref-type="ref">2013</xref>), and ground&#x02010;nesters are particularly vulnerable to predation by feral cats (Woinarski et al., <xref rid="ece35874-bib-0098" ref-type="ref">2017</xref>).</p><p>Climate has been linked to patterns of bird diversity globally and in Australia (Coops, Rickbeil, Bolton, Andrew, &#x00026; Brouwers, <xref rid="ece35874-bib-0017" ref-type="ref">2018</xref>; Hawkins, Diniz&#x02010;Filho, &#x00026; Soeller, <xref rid="ece35874-bib-0040" ref-type="ref">2005</xref>; Hawkins, Porter, &#x00026; Diniz&#x02010;Filho, <xref rid="ece35874-bib-0041" ref-type="ref">2003</xref>). It is thought that climate influences faunal diversity both directly (via the physiological requirements of animals which depend on ambient energy and water availability) and indirectly (through food availability, which depends on solar energy and water availability; Hawkins et al., <xref rid="ece35874-bib-0041" ref-type="ref">2003</xref>; Willig, Kaufman, &#x00026; Stevens, <xref rid="ece35874-bib-0097" ref-type="ref">2003</xref>). In Australia, bird richness is strongly associated with evapotranspiration (a measure of water&#x02013;energy balance), operating both directly and indirectly via plant productivity, as well as historical rainfall patterns (Coops et al., <xref rid="ece35874-bib-0017" ref-type="ref">2018</xref>; Hawkins et al., <xref rid="ece35874-bib-0040" ref-type="ref">2005</xref>).</p><p>Plant richness and vegetation structure are also known to influence bird diversity through provision of food and nesting sites, and protection from predators (Belder, Pierson, Ikin, &#x00026; Lindenmayer, <xref rid="ece35874-bib-0005" ref-type="ref">2018</xref>; Bonifacio, Kinross, Gurr, &#x00026; Nicol, <xref rid="ece35874-bib-0006" ref-type="ref">2011</xref>). Canopy cover and tree height have been found to be particularly important for woodland&#x02010;dependent birds, and the presence of a shrub layer influences colonization by understorey&#x02010;nesting birds (Barrett et al., <xref rid="ece35874-bib-0003" ref-type="ref">2008</xref>; Gould &#x00026; Mackey, <xref rid="ece35874-bib-0035" ref-type="ref">2015</xref>; Munro et al., <xref rid="ece35874-bib-0071" ref-type="ref">2011</xref>). Older plantings support more bird species because more time has elapsed for species to colonize them, and because structural attributes for nesting and shelter have developed, such as large boughs and tree hollows (Kavanagh, Stanton, &#x00026; Herring, <xref rid="ece35874-bib-0050" ref-type="ref">2007</xref>; Lindenmayer et al., <xref rid="ece35874-bib-0058" ref-type="ref">2010</xref>; Vesk, Nolan, Thomson, Dorrough, &#x00026; Mac Nally, <xref rid="ece35874-bib-0092" ref-type="ref">2008</xref>; Whytock et al., <xref rid="ece35874-bib-0096" ref-type="ref">2018</xref>). However, disturbances such as from livestock grazing can negatively impact bird assemblages, particularly understorey&#x02010;dependent species, presumably through effects on vegetation structure (Martin &#x00026; McIntyre, <xref rid="ece35874-bib-0064" ref-type="ref">2007</xref>). At broader spatial scales, larger restoration plantings and plantings with more surrounding native vegetation tend to have greater bird richness and abundance (Freeman, Catterall, &#x00026; Freebody, <xref rid="ece35874-bib-0033" ref-type="ref">2015</xref>; Kavanagh et al., <xref rid="ece35874-bib-0050" ref-type="ref">2007</xref>; Lindenmayer, Blanchard, Crane, Michael, &#x00026; Florance, <xref rid="ece35874-bib-0056" ref-type="ref">2018</xref>; Lindenmayer et al., <xref rid="ece35874-bib-0058" ref-type="ref">2010</xref>).</p><p>Despite the potential importance of plant diversity for enhancing productivity, and in turn bird diversity, the relationships in a restoration context are poorly understood. The objectives of our study were to identify the factors influencing both aboveground biomass production and bird diversity in subtropical forest plantings, and the synergies and trade&#x02010;offs between plant diversity, aboveground biomass production, and bird diversity. Realizing synergies will likely inform restoration projects (through site selection and planting design) to achieve carbon sequestration and biodiversity enhancement. We surveyed native mixed&#x02010;species plantings in subtropical Australia and used structural equation modeling (SEM) to determine the relationships between planting characteristics (species richness, stand density, and vegetation structure), aboveground biomass accrual (a proxy for productivity), and bird richness, and the influence of soil, climate, and landscape variables. We focussed on the species richness of woodland and forest&#x02010;dependent birds, and functional groups at risk of decline, including insectivorous, understorey&#x02010;nesting, and small&#x02010;bodied birds (example of forest planting and resident forest&#x02010;dependent bird in Figure <xref rid="ece35874-fig-0001" ref-type="fig">1</xref>). We hypothesized that plantings with higher species richness and structural complexity have greater aboveground biomass accrual and diversity of woodland and forest&#x02010;dependent birds, thus delivering carbon and biodiversity cobenefits.</p><fig fig-type="Figure" xml:lang="en" id="ece35874-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Subtropical forest planting in South East Queensland and resident forest&#x02010;dependent bird, Eastern Spinebill (<italic>Acanthorhynchus tenuirostris</italic>)</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14379-g001"/></fig></sec><sec sec-type="materials-and-methods" id="ece35874-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35874-sec-0003"><label>2.1</label><title>Study area</title><p>Our study area was the South East Queensland (SEQ) bioregion in Australia. The bioregion spans 62,484&#x000a0;km<sup>2</sup> along the coast and adjacent hills and ranges, from the MacPherson Range and Border Ranges on the New South Wales border in the south, to Gladstone in the north. The Great Dividing Range extends north&#x02013;south creating an altitudinal gradient from the coast (Figure <xref rid="ece35874-fig-0002" ref-type="fig">2</xref>). SEQ has a diversity of vegetation communities, including eucalypt forests and woodlands on lowlands, hills and ranges, wet forests on ranges and watercourses, melaleuca and mangrove forests, and coastal heathlands (Neldner et al., <xref rid="ece35874-bib-0072" ref-type="ref">2017</xref>). The bioregion has a humid subtropical climate, with mean annual precipitation (MAP) of 1,600&#x000a0;mm near the coast to 800&#x000a0;mm west of the Great Dividing Range (Figure <xref rid="ece35874-fig-0002" ref-type="fig">2</xref>), and mean annual temperatures ranging from 15&#x02013;21&#x000b0;C (Bureau of Meteorology, <xref rid="ece35874-bib-0008" ref-type="ref">2019</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35874-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>National and regional context of the restoration sites (black dots) surveyed in South East Queensland, Australia (gray area) showing mean annual precipitation isohyets (mm)</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14379-g002"/></fig></sec><sec id="ece35874-sec-0004"><label>2.2</label><title>Restoration sites</title><p>We selected 30 native mixed&#x02010;species plantings located across SEQ in rural or peri&#x02010;urban areas that were established four or more years before the time of sampling, and greater than one hectare in size (Figure <xref rid="ece35874-fig-0002" ref-type="fig">2</xref>). Fourteen of these sites were part of an existing Australian research program designed to improve estimates of biomass accumulation (Paul et al., <xref rid="ece35874-bib-0077" ref-type="ref">2013</xref>). The remaining 16 sites were selected from discussions with local councils, state government, and private organizations. Plantings were established as low&#x02010;diversity forestry plantations (eucalypts only), mid&#x02010;diversity catchment improvement plantings (mixture of native trees), or species&#x02010;diverse ecological plantings (mixture of native trees and shrubs). Vegetation types were a mixture of wet forest, and eucalypt forest or woodland. Some sites were fenced to exclude livestock and macropods, while others were subject to periodic cattle grazing. Some of the younger sites were still under weed control at the time of sampling. Sites ranged from 4 to 25&#x000a0;years since planting, 1.4&#x02013;158.8&#x000a0;ha in size, and MAP of 735&#x02013;1,660&#x000a0;mm. Planting configurations were in blocks or patches (&#x02265;40&#x000a0;m in width as defined in Paul, Roxburgh, England, et al., <xref rid="ece35874-bib-0076" ref-type="ref">2015</xref>). Stand age was calculated from the year since planting to the year sampled.</p></sec><sec id="ece35874-sec-0005"><label>2.3</label><title>Vegetation data</title><p>We surveyed vegetation structural and floristic attributes at all restoration sites following the BioCondition methodology (Eyre et al., <xref rid="ece35874-bib-0029" ref-type="ref">2015</xref>). At each site, a 100&#x000a0;m&#x000a0;&#x000d7;&#x000a0;50&#x000a0;m plot was laid out, consisting of a 100&#x000a0;m transect perpendicular to tree rows or contours to capture variation in the species planted and 25&#x000a0;m either side of the transect. Recorded vegetation attributes were number of large trees with a diameter at breast height (DBH) greater than 30&#x000a0;cm, median canopy height of the ecologically dominant layer measured with a laser range finder (Nikon Corporation), and native and exotic tree species richness. Tree canopy cover and shrub canopy cover were measured as the vertical projection in meters over the 100 transect (proportion). Canopy and subcanopy layers were summed to give a total tree cover, and native and exotic shrubs were summed to give a total shrub cover. Native and exotic shrub species richness was recorded within a 50&#x000a0;m&#x000a0;&#x000d7;&#x000a0;10&#x000a0;m subplot (incorporating 25&#x02013;75&#x000a0;m along the transect, and encompassing 5&#x000a0;m either side of the transect).</p><p>Tree and shrub species richness and canopy cover were selected as measures of planting diversity and structural complexity. Pearson correlation coefficients (<italic>r</italic>) showed stand age to be highly correlated with tree height and number of large trees (<italic>r</italic>&#x000a0;=&#x000a0;.69 and .64, respectively); therefore, only stand age was selected as a surrogate for development of habitat.</p><p>We also recorded whether the sites had evidence of soil preparation (i.e., mounded or furrowed) or were currently managed for weeds, irrigated by effluent water, or allowed to have cattle grazing (binary variables). However, as cattle grazing was dominant in older sites, and weed control in younger sites, and there were few sites that had soil preparation or irrigation; these variables were not included in the analysis.</p></sec><sec id="ece35874-sec-0006"><label>2.4</label><title>Biomass estimates</title><p>At each restoration site, we established two 50&#x000a0;m&#x000a0;&#x000d7;&#x000a0;20&#x000a0;m plots, one inside the BioCondition plot, and the other to capture additional variation in trees planted. With sites that had very dense vegetation, plots were scaled down to 50&#x000a0;m&#x000a0;&#x000d7;&#x000a0;10&#x000a0;m, and two sites were only large enough to have one plot. Within each plot, we identified and measured the diameter of all woody plants (trees and shrubs) greater than 1&#x000a0;cm, including dead stems. Tree diameter was measured at 130&#x000a0;cm height above ground level. For shrub and multistemmed species, diameter was typically measured at 10&#x000a0;cm height above the ground (Paul, Roxburgh, et al., <xref rid="ece35874-bib-0074" ref-type="ref">2016</xref>). For multistemmed individuals, a single diameter estimate was obtained from the quadratic mean (Chojnacky &#x00026; Milton, <xref rid="ece35874-bib-0016" ref-type="ref">2008</xref>). Stand density was calculated as the mean number of trees and shrubs per hectare at each site (Paul, Cunningham, et al., <xref rid="ece35874-bib-0073" ref-type="ref">2016</xref>).</p><p>Stems were assigned one of five allometric equations to estimate their aboveground biomass, based on plant functional types (shrubs, multistemmed trees, single&#x02010;stemmed trees of the genus <italic>Eucalyptus</italic> and closely related genera, other trees of high wood density, and other trees of low wood density) developed to predict aboveground biomass for a range of ecoregions across Australia (Paul, Roxburgh, et al., <xref rid="ece35874-bib-0074" ref-type="ref">2016</xref>). The resulting stem biomass values (including dead stems) were summed across both plots and expressed as Mg&#x000a0;ha<sup>&#x02212;1</sup> as an estimate of planting&#x02010;scale aboveground biomass. Planting&#x02010;scale aboveground biomass was divided by planting age to give annual aboveground biomass accrual (Mg&#x000a0;ha<sup>&#x02212;1</sup>&#x000a0;year<sup>&#x02212;1</sup>), a proxy for productivity.</p></sec><sec id="ece35874-sec-0007"><label>2.5</label><title>Bird data</title><p>We conducted three repeat bird surveys at all restoration sites during summer/early autumn (December 2017 to April 2018) within four hours of sunrise. Sites were surveyed by one observer with extensive ornithological field experience across SEQ and accompanied by a volunteer, walking variable paths throughout the patch, and the abundance of all bird species seen or heard recorded during a 30&#x02010;min period (Archibald, McKinney, Mustin, Shanahan, &#x00026; Possingham, <xref rid="ece35874-bib-0001" ref-type="ref">2017</xref>; Martin &#x00026; McIntyre, <xref rid="ece35874-bib-0064" ref-type="ref">2007</xref>). Given sites varied in size in fragmented landscapes, we used fixed time, rather than fixed area to standardize the scale of sampling. This fixed effort may have yielded samples of differing completeness, with samples from smaller, less complex sites being more representative, than samples from larger, more complex sites (Watson, <xref rid="ece35874-bib-0094" ref-type="ref">2003</xref>). Detectability was generally constant across the sites, because, although older sites had a higher canopy, they lacked a dense understorey, and birds were as visible as in younger, denser sites with a lower canopy height.</p><p>Estimates of abundance were based on the maximum number of birds seen at any one time to avoid double counting. Water birds and birds overflying were not included in the dataset, except for species that capture or search for their prey from the air (e.g., raptors and swallows). We avoided conducting surveys in heavy rain and strong wind. Animal ethics approval and scientific purposes permits were obtained prior to beginning the surveys.</p><p>We assigned bird species into habitat classifications devised by Fraser, Hauser, Rumpff, Garrard, and McCarthy (<xref rid="ece35874-bib-0032" ref-type="ref">2017</xref>) for Australian terrestrial bird species. Classifications were specific to Australia and based on species occurrence data, percentage tree and woodland cover, and habitat preference across the whole of Australia, as well as three different ecoregions to account for regional differences in bird species' relationships with habitat. Bird species classified as &#x0201c;closed woodland,&#x0201d; &#x0201c;open woodland,&#x0201d; or &#x0201c;forest&#x0201d; were grouped as woodland and forest&#x02010;dependent. As our restoration sites were characterized by subtropical eucalypt forests and woodlands, and wet forests, we firstly used the classifications for the &#x0201c;temperate broadleaf and mixed forests&#x0201d; ecoregion. If a bird species was missing from this ecoregion, we used the classification for the &#x0201c;tropical and subtropical grasslands, savannahs, and shrublands&#x0201d; ecoregion, and then whole of Australia. If a bird species was missing from the dataset, we assigned the bird to a classification based on nesting, foraging and dispersal characteristics described in Marchant and Higgins (<xref rid="ece35874-bib-0061" ref-type="ref">1990</xref>). Birds inhabiting wetlands and water environments were assigned &#x0201c;waterbird.&#x0201d;</p><p>We also assigned relevant bird species into the functional group classifications devised by Joyce et al. (<xref rid="ece35874-bib-0049" ref-type="ref">2018</xref>) based on a trait analysis of bird species in Greater Brisbane, Australia: (a) &#x0201c;insectivores&#x0201d; that forage primarily on invertebrates and rarely on seeds, fruits, or other substrates; (b) &#x0201c;understorey&#x02010;nesting&#x0201d; that nest at or below 1.5&#x000a0;m, but not on the ground; (c) &#x0201c;ground&#x02010;nesting&#x0201d; that nest on or below the ground (in burrows); and (d) &#x0201c;small&#x02010;bodied&#x0201d; which weigh less than 67&#x000a0;g (median body size of the complete avian assemblage in the Greater Brisbane area). If a bird species was missing from the dataset, we assigned the bird to a functional group given descriptions in Marchant and Higgins (<xref rid="ece35874-bib-0061" ref-type="ref">1990</xref>).</p><p>Based on the classifications above, we calculated multiple bird species richness variables for analysis. These included the richness of woodland and forest&#x02010;dependent species, insectivorous species, understorey&#x02010;nesting species, and small&#x02010;bodied species. We excluded ground&#x02010;nesting species richness, which included too many zeros to reliably analyze.</p></sec><sec id="ece35874-sec-0008"><label>2.6</label><title>Soil data</title><p>Soil nutrients are considered essential for plant growth, and nitrogen (N) and phosphorus (P) can be limiting in Australian ecosystems (Cheesman, Preece, van Oosterzee, Erskine, &#x00026; Cernusak, <xref rid="ece35874-bib-0013" ref-type="ref">2018</xref>; Crous, &#x000d3;svaldsson, &#x00026; Ellsworth, <xref rid="ece35874-bib-0018" ref-type="ref">2015</xref>). Surface soil samples (0&#x02013;10&#x000a0;cm depth) were collected every 10&#x000a0;m along each transect of the BioCondition plot using a handheld soil corer, and bulked into one sample to capture soil variation across the site (McKenzie, Henderson, &#x00026; McDonald, <xref rid="ece35874-bib-0067" ref-type="ref">2002</xref>). Plant litter on the soil surface was scraped away before sampling. Samples were stored in plastic bags in an ice box in the field, and transferred to a cool, dry place until laboratory analysis. Samples were analyzed for Total N (%) and Organic Carbon (OC; %) using the Dumas combustion method, and extractable P (mg/kg) using the Colwell P method. Samples were prepared by oven drying (at least 48&#x000a0;hr at 40&#x000b0;C) and grinding to &#x0003c;2.0&#x000a0;mm for analysis of extractable P, and grinding to &#x0003c;0.5&#x000a0;mm for analysis of total N and OC. Total N and OC were highly correlated (<italic>r</italic>&#x000a0;=&#x000a0;.88), therefore Total N and P were selected to represent nutrient availability.</p></sec><sec id="ece35874-sec-0009"><label>2.7</label><title>Climate data</title><p>Moisture availability is positively associated with bird richness across Australia, and provides a measure of ambient energy and water availability in the environment (Coops et al., <xref rid="ece35874-bib-0017" ref-type="ref">2018</xref>; Hawkins et al., <xref rid="ece35874-bib-0040" ref-type="ref">2005</xref>). Interpolated online climate data from SILO (Scientific Information for Landowners; DES, <xref rid="ece35874-bib-0024" ref-type="ref">2019</xref>; Jeffrey, Carter, Moodie, &#x00026; Beswick, <xref rid="ece35874-bib-0048" ref-type="ref">2001</xref>) were used to calculate an index of moisture availability for each site. Moisture index was the ratio of mean annual precipitation to mean annual potential evapotranspiration for the growing period (year since planting to year sampled), calculated using Morton's potential evapotranspiration variable (Morton, <xref rid="ece35874-bib-0070" ref-type="ref">1983</xref>).</p></sec><sec id="ece35874-sec-0010"><label>2.8</label><title>Landscape attributes</title><p>The size of the planting area, and the area in hectares of native vegetation within a 1&#x000a0;km radius of the center of the BioCondition plot were assessed in ArcMap 10.6 (ESRI, <xref rid="ece35874-bib-0027" ref-type="ref">2018a</xref>). World imagery basemap (ESRI, <xref rid="ece35874-bib-0028" ref-type="ref">2018b</xref>) was used to delineate the planting areas. Remnant Regional Ecosystem mapping (DES, <xref rid="ece35874-bib-0023" ref-type="ref">2018</xref>) and mature regrowth mapping (DES, <xref rid="ece35874-bib-0022" ref-type="ref">2013</xref>) were used to estimate the surrounding native vegetation.</p></sec><sec id="ece35874-sec-0011"><label>2.9</label><title>Statistical analysis</title><p>All statistical analyses were undertaken in R 3.6.1 (R Core Team, <xref rid="ece35874-bib-0080" ref-type="ref">2019</xref>). First, we analyzed whether aboveground biomass accrual or bird richness varies significantly by planting type using an ANOVA. Pairwise differences between planting types were tested using the glht function in the multcomp package (Hothorn et al., <xref rid="ece35874-bib-0042" ref-type="ref">2016</xref>).</p><p>We used structural equation modeling (SEM) to test the direct and indirect relationships between aboveground biomass accrual, bird richness variables, selected vegetation attributes, and soil, climate, and landscape variables. We developed a causal graph, based on a priori expectations from a review of the literature, to describe the direction of hypothesized relationships between variables (Figure <xref rid="ece35874-fig-0003" ref-type="fig">3</xref>; Shipley, <xref rid="ece35874-bib-0086" ref-type="ref">2016</xref>). In this graph, bird richness variables were always treated as response variables. Aboveground biomass accrual was treated both as a response and explanatory variable. Remaining variables were treated as explanatory variables (in at least one component model), and included tree and shrub richness, stand density, shrub cover, soil nutrients (total N and extractable P), moisture index, patch size, amount of surrounding native vegetation, and stand age. Because most of the low&#x02010; to mid&#x02010;diversity forestry or catchment plantings were older plantings, and most of the ecological plantings were located in coastal, wetter regions, there was a negative correlation between species richness and stand age, and a positive correlation between species richness and moisture index (<italic>r</italic>&#x000a0;=&#x000a0;.64), which we accounted for in the SEM.</p><fig fig-type="Figure" xml:lang="en" id="ece35874-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Structural equation meta&#x02010;model showing hypothesized relationships between variables. Single&#x02010;headed arrows indicate the direction of the causal relationship, and double&#x02010;headed arrows indicate the relationship is correlated. Black and dashed lines represent expected positive and negative effects, respectively</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14379-g003"/></fig><p>Grace, Scheiner, and Schoolmaster (<xref rid="ece35874-bib-0036" ref-type="ref">2015</xref>) recommend that the number of samples per parameter (<italic>d</italic>) does not fall below 5. In our SEM we had 11 parameters for a <italic>d</italic> of 2.73. Although <italic>d</italic> is marginal, we minimized over&#x02010;parameterization by focussing on a priori expectations and selecting independent explanatory variables. We used the &#x0201c;piecewiseSEM&#x0201d; package (Lefcheck, <xref rid="ece35874-bib-0054" ref-type="ref">2018</xref>) to test causal paths in our final SEM. We fitted four SEMs, one for each bird richness response variable (Table <xref rid="ece35874-tbl-0001" ref-type="table">1</xref>). Before fitting SEMs, component models for each response were inspected. Aboveground biomass accrual, and woodland and forest bird richness had normal distributions, therefore linear models were used for these component models. Residual spatial autocorrelation was present in aboveground biomass accrual, and woodland and forest bird richness among the sites (Figure <xref rid="ece35874-fig-0004" ref-type="fig">4</xref>), therefore we fitted spatial correlation structures to these component models in the woodland and forest bird richness SEM using generalized least squares (gls) models in the nlme package in R (Pinheiro, Bates, DebRoy, Sarkar, &#x00026; Heisterkamp, <xref rid="ece35874-bib-0079" ref-type="ref">2019</xref>). However, the AIC<sub>c</sub> weights showed no improvement in model fit, so we continued with the linear component models. Generalized linear models (GLMs) with Poisson errors and log link function were used for insectivore and understorey&#x02010;nesting bird richness, and GLM with quasi&#x02010;Poisson error was used for small&#x02010;bodied bird richness to account for overdispersion. Some explanatory variables were log transformed (stand density, moisture index, P, patch size) or square root transformed (surrounding native vegetation) to improve model fit and reduce the influence of larger values. Model coefficients were standardized to allow comparison across multiple responses in the causal network, and partial residuals were computed to facilitate plotting of significant relationships. This was not possible for understorey&#x02010;nesting, insectivore and small&#x02010;bodied bird richness because of transformation via the link function, and corresponding plots of significant relationships use the raw data. We evaluated SEMs using directed separation (d&#x02010;sep) tests based on Fisher's <italic>C</italic> statistic. Small <italic>C</italic> values, and consequently large <italic>p</italic>&#x02010;values (<italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05), indicate that the model fits the data well, and that independence claims (or causal paths not included in the model) are not significant.</p><table-wrap id="ece35874-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Response and predictor variables included in the component models for each structural equation model (SEM)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">SEM</th><th align="left" valign="top" rowspan="1" colspan="1">Response</th><th align="left" valign="top" rowspan="1" colspan="1">Predictors</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">All four</td><td align="left" rowspan="1" colspan="1">Aboveground biomass accrual (Mg&#x000a0;ha<sup>&#x02212;1</sup>&#x000a0;year<sup>&#x02212;1</sup>)</td><td align="left" rowspan="1" colspan="1">soil N (proportion)&#x000a0;+&#x000a0;log(soil P [mg&#x000a0;kg<sup>&#x02212;1</sup>])&#x000a0;+&#x000a0;log(moisture index)&#x000a0;+&#x000a0;tree and shrub species richness&#x000a0;+&#x000a0;log(tree and shrub stand density [stems&#x000a0;ha<sup>&#x02212;1</sup>])</td></tr><tr><td align="left" rowspan="1" colspan="1">Woodland and forest bird SEM</td><td align="left" rowspan="1" colspan="1">Woodland and forest bird richness</td><td align="left" rowspan="4" colspan="1">Aboveground biomass accrual (Mg&#x000a0;ha<sup>&#x02212;1</sup>&#x000a0;year<sup>&#x02212;1</sup>)&#x000a0;+&#x000a0;tree cover (proportion)&#x000a0;+&#x000a0;shrub cover (proportion)&#x000a0;+&#x000a0;tree and shrub species richness&#x000a0;+&#x000a0;log(patch size [ha])&#x000a0;+&#x000a0;sqrt(native vegetation in 1&#x000a0;km buffer [ha])&#x000a0;+&#x000a0;log(moisture index)&#x000a0;+&#x000a0;stand age (year)</td></tr><tr><td align="left" rowspan="1" colspan="1">Insectivorous bird SEM</td><td align="left" rowspan="1" colspan="1">Insectivorous bird richness</td></tr><tr><td align="left" rowspan="1" colspan="1">Understorey&#x02010;nesting bird SEM</td><td align="left" rowspan="1" colspan="1">Understorey&#x02010;nesting bird richness</td></tr><tr><td align="left" rowspan="1" colspan="1">Small&#x02010;bodied bird SEM</td><td align="left" rowspan="1" colspan="1">Small&#x02010;bodied bird richness</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35874-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Variogram of a generalized least squares models of (a) aboveground biomass accrual component model and (b) woodland and forest bird richness component model with Gaussian errors, plotted with the site latitude and longitude, showing spatial autocorrelation among the restoration sites</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-14379-g004"/></fig></sec></sec><sec sec-type="results" id="ece35874-sec-0012"><label>3</label><title>RESULTS</title><p>A total of 100 tree species (including four exotic) and 53 shrub species (including eight exotic) were recorded across the 30 sites. The woody plant richness ranged from 4 to 30, and aboveground biomass accrual ranged from 0.79 to 8.95&#x000a0;Mg&#x000a0;ha<sup>&#x02212;1</sup>&#x000a0;year<sup>&#x02212;1</sup>. Mean (&#x000b1;<italic>SE</italic>) aboveground biomass accrual for ecological plantings (5.07&#x000a0;&#x000b1;&#x000a0;0.65&#x000a0;Mg&#x000a0;ha<sup>&#x02212;1</sup>&#x000a0;year<sup>&#x02212;1</sup>) was higher than forestry plantings (3.84&#x000a0;&#x000b1;&#x000a0;0.37&#x000a0;Mg&#x000a0;ha<sup>&#x02212;1</sup>&#x000a0;year<sup>&#x02212;1</sup>), and lowest for catchment plantings (3.09&#x000a0;&#x000b1;&#x000a0;0.66&#x000a0;Mg&#x000a0;ha<sup>&#x02212;1</sup>&#x000a0;year<sup>&#x02212;1</sup>); however, no significant differences were detected among planting types (Figure <xref rid="ece35874-fig-0005" ref-type="fig">5</xref>a).</p><fig fig-type="Figure" xml:lang="en" id="ece35874-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>(a) Mean aboveground biomass (AGB) accrual (Mg&#x000a0;ha<sup>&#x02212;1</sup>&#x000a0;year<sup>&#x02212;1</sup>) and (b) mean forest and woodland&#x02010;dependent bird richness for catchment plantings (<italic>n</italic>&#x000a0;=&#x000a0;5), ecological plantings (<italic>n</italic>&#x000a0;=&#x000a0;16), and forestry plantings (<italic>n</italic>&#x000a0;=&#x000a0;9) with standard error bars. No significant difference was detected among planting types for mean AGB accrual (<italic>F</italic>&#x000a0;=&#x000a0;2.12, <italic>df</italic>&#x000a0;=&#x000a0;27, <italic>p</italic>&#x000a0;=&#x000a0;.14). Significant difference detected among planting types for mean woodland and forest bird richness (<italic>F</italic>&#x000a0;=&#x000a0;8.12, <italic>df</italic>&#x000a0;=&#x000a0;27, <italic>p</italic>&#x000a0;=&#x000a0;.002), with significant pairwise differences between catchment and ecological plantings (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), and catchment and forestry plantings (<italic>p</italic>&#x000a0;=&#x000a0;.001)</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-9-14379-g005"/></fig><p>A total of 111 bird species were observed within the sites, including 82 woodland and forest, and 29 open country or waterbird species, and one introduced species. Species in the functional groups included 20 insectivorous, 12 understorey&#x02010;nesting, and 59 small&#x02010;bodied birds. Some of these species were included in more than one functional group (bird species list available via the Dryad Digital Repository). Mean woodland and forest bird richness for both ecological and forestry plantings (17&#x000a0;&#x000b1;&#x000a0;1.4 and 17.11&#x000a0;&#x000b1;&#x000a0;1.25, respectively) were higher than catchment plantings (7.4&#x000a0;&#x000b1;&#x000a0;1.72). Planting type significantly influenced bird richness (<italic>F</italic>&#x000a0;=&#x000a0;8.12, <italic>df</italic> =27, <italic>p</italic>&#x000a0;=&#x000a0;.002), with pairwise differences detected between ecological and catchment plantings (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), and forestry and catchment plantings (<italic>p</italic>&#x000a0;=&#x000a0;.001; Figure <xref rid="ece35874-fig-0005" ref-type="fig">5</xref>b).</p><sec id="ece35874-sec-0013"><label>3.1</label><title>Component model of aboveground biomass accrual</title><p>In all four SEMs, the component models predicting aboveground biomass accrual were identical. Aboveground biomass accrual was significantly positively related to stand density (standardized coefficient [<italic>&#x003b2;</italic>
+<sub>std</sub>]&#x000a0;=&#x000a0;0.45, <italic>p</italic>&#x000a0;=&#x000a0;.03), total N (<italic>&#x003b2;</italic>
+<sub>std</sub>&#x000a0;=&#x000a0;0.31, <italic>p</italic>&#x000a0;=&#x000a0;.046), and moisture index (<italic>&#x003b2;</italic>
+<sub>std</sub>&#x000a0;=&#x000a0;0.45, <italic>p</italic>&#x000a0;=&#x000a0;.044; Figures <xref rid="ece35874-fig-0006" ref-type="fig">6</xref>a and <xref rid="ece35874-fig-0007" ref-type="fig">7</xref>a,b). Aboveground biomass accrual increased by approximately 4&#x000a0;Mg&#x000a0;ha<sup>&#x02212;1</sup>&#x000a0;year<sup>&#x02212;1</sup> from a moisture index of 0.5 to 1.4 in a log&#x02010;linear relationship. Our inclusion of correlation terms among some of the explanatory variable was supported. Tree and shrub richness was strongly and positively correlated with stand density and moisture index (<italic>&#x003b2;</italic>
+<sub>std</sub>&#x000a0;=&#x000a0;0.65 and 0.69, respectively, both <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), and negatively associated with stand age (<italic>&#x003b2;</italic>
+<sub>std</sub>&#x000a0;=&#x000a0;&#x02212;0.67, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001; Figure <xref rid="ece35874-fig-0006" ref-type="fig">6</xref>a). While there was no direct relationship between woody plant richness and aboveground biomass accrual, there was an indirect association via stand density.</p><fig fig-type="Figure" xml:lang="en" id="ece35874-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Structural equation modeling results showing significant causal paths between variables and (a) woodland and forest bird richness, and (b) understorey&#x02010;nesting bird richness. Black and dashed lines indicate significant positive and negative effects, respectively. Nonsignificant paths are not shown. Given are the standardized regression coefficients and the respective statistical significance (*<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01, ***<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) for each path, and the explained variation (<italic>R</italic>
+<sup>2</sup>) for each response variable. Line thickness of each path is proportional to the respective regression coefficient. Letters adjacent to selected paths correspond to the plots shown in Figures <xref rid="ece35874-fig-0007" ref-type="fig">7</xref> and <xref rid="ece35874-fig-0009" ref-type="fig">9</xref>, respectively</p></caption><graphic id="nlm-graphic-13" xlink:href="ECE3-9-14379-g006"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35874-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Significant partial relationships of (a) tree and shrub stand density and (b) moisture index on aboveground biomass (AGB) accrual, and (c) moisture index and (d) patch size on woodland and forest bird richness, with fitted regression line and associated 95% confidence intervals from the component model of the woodland and forest bird structural equation model. The plotted variables are the residuals of the original variable given all other independent variables in the component model (partial residuals)</p></caption><graphic id="nlm-graphic-15" xlink:href="ECE3-9-14379-g007"/></fig></sec><sec id="ece35874-sec-0014"><label>3.2</label><title>Component model of woodland and forest bird richness</title><p>We did not find any significant effects of aboveground biomass accrual, shrub cover, patch age or area of surrounding native vegetation on woodland and forest bird richness. Instead, woodland and forest bird richness was strongly positively related to moisture index (<italic>&#x003b2;</italic>
+<sub>std</sub>&#x000a0;=&#x000a0;0.74, <italic>p</italic>&#x000a0;=&#x000a0;.018) and patch size (<italic>&#x003b2;</italic>
+<sub>std</sub>&#x000a0;=&#x000a0;0.69, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001; Figures <xref rid="ece35874-fig-0006" ref-type="fig">6</xref>a and <xref rid="ece35874-fig-0007" ref-type="fig">7</xref>c,d). Woodland and forest bird richness increased by approximately 15 species from a moisture index of 0.5 to 1.4 in a log&#x02010;linear relationship. d&#x02010;sep tests indicated that the SEM fitted the data adequately (Fisher's <italic>C</italic>&#x000a0;=&#x000a0;13.13, <italic>df</italic>&#x000a0;=&#x000a0;16, <italic>p</italic>&#x000a0;=&#x000a0;.66).</p></sec><sec id="ece35874-sec-0015"><label>3.3</label><title>Component models of understorey&#x02010;nesting, insectivorous and small&#x02010;bodied bird richness</title><p>Insectivorous and small&#x02010;bodied bird richness were only significantly associated with patch size (<italic>p</italic>&#x000a0;=&#x000a0;.001 and <italic>p</italic>&#x000a0;=&#x000a0;.007, respectively, Figure <xref rid="ece35874-fig-0008" ref-type="fig">8</xref>a,b). As indicated by the d&#x02010;sep tests, both SEMs fitted the data adequately (insectivorous bird: Fisher's <italic>C</italic>&#x000a0;=&#x000a0;12.98, <italic>df</italic>&#x000a0;=&#x000a0;16, <italic>p</italic>&#x000a0;=&#x000a0;.67; small&#x02010;bodied bird: Fisher's <italic>C</italic>&#x000a0;=&#x000a0;12.08, <italic>df</italic>&#x000a0;=&#x000a0;16, <italic>p</italic>&#x000a0;=&#x000a0;.74).</p><fig fig-type="Figure" xml:lang="en" id="ece35874-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Structural equation modeling results showing significant causal paths between vegetation attributes, soil and landscape variables, and (a) insectivorous bird richness, and (b) small&#x02010;bodied bird richness. Black and dashed lines indicate significant positive and negative effects, respectively. Nonsignificant paths are not shown. Given are the standardized regression coefficients and the respective statistical significance (*<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01, ***<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) for each path, and the explained variation (<italic>R</italic>
+<sup>2</sup>) for each response variable. Line thickness of each path is proportional to the respective regression coefficient</p></caption><graphic id="nlm-graphic-17" xlink:href="ECE3-9-14379-g008"/></fig><p>By comparison, for understorey&#x02010;nesting bird richness (Figure <xref rid="ece35874-fig-0006" ref-type="fig">6</xref>b), shrub cover had a significant positive effect on species richness (Figure <xref rid="ece35874-fig-0009" ref-type="fig">9</xref>a, <italic>p</italic>&#x000a0;=&#x000a0;.023), as did patch size (Figure <xref rid="ece35874-fig-0009" ref-type="fig">9</xref>b, <italic>p</italic>&#x000a0;=&#x000a0;.023). d&#x02010;sep tests indicated that the understorey&#x02010;nesting bird richness SEM fitted the data as well as the other SEMs (Fisher's <italic>C</italic>&#x000a0;=&#x000a0;13.68, <italic>df</italic>&#x000a0;=&#x000a0;16, <italic>p</italic>&#x000a0;=&#x000a0;.62). Moisture index was not a clear predictor of understorey&#x02010;nesting, insectivorous or small&#x02010;bodied bird richness.</p><fig fig-type="Figure" xml:lang="en" id="ece35874-fig-0009" orientation="portrait" position="float"><label>Figure 9</label><caption><p>Significant raw relationships of (a) shrub cover and (b) patch size on understorey&#x02010;nesting bird richness, with fitted regression line and associated 95% confidence intervals from the component model of understorey&#x02010;nesting bird richness</p></caption><graphic id="nlm-graphic-19" xlink:href="ECE3-9-14379-g009"/></fig></sec></sec><sec sec-type="discussion" id="ece35874-sec-0016"><label>4</label><title>DISCUSSION</title><sec id="ece35874-sec-0017"><label>4.1</label><title>Drivers of aboveground biomass accrual</title><p>Our results show that water availability limits aboveground biomass accrual in restoration plantings in subtropical Australia. This has also been shown in studies of aboveground biomass annual increment or carbon stocks in subtropical and tropical forest biomes that have similar rainfalls (MAP&#x000a0;&#x0003e;&#x000a0;800&#x000a0;mm and &#x0003e;1,300&#x000a0;mm, respectively) to our study sites (MAP 735&#x02013;1,660&#x000a0;mm; Chen et al., <xref rid="ece35874-bib-0015" ref-type="ref">2018</xref>; Sullivan et al., <xref rid="ece35874-bib-0089" ref-type="ref">2017</xref>). Consistent with an Australian&#x02010;wide study of native mixed&#x02010;species plantings in Australia (Paul, Cunningham, et al., <xref rid="ece35874-bib-0073" ref-type="ref">2016</xref>), aboveground biomass accrual in our study increased with stand density; however, growth is density dependent to some extent, and this relationship is likely to weaken as plantings mature. In fact, thinning can increase the growth rates of retained trees and has been found to accelerate productivity in dense natural regeneration of Brigalow forest in subtropical Australia (Dwyer, Fensham, &#x00026; Buckley, <xref rid="ece35874-bib-0026" ref-type="ref">2010</xref>).</p><p>We did not detect a direct positive plant diversity&#x02013;productivity relationship, as reported after eight years in a subtropical forest planting experiment in China (Huang et al., <xref rid="ece35874-bib-0044" ref-type="ref">2018</xref>). However, overall ecological plantings (ranging from 4 to 16&#x000a0;years, and characterized by higher tree and shrub richness and stand density), had higher aboveground biomass accrual than forestry or catchment plantings (ranging from 14 to 25&#x000a0;years; Figure <xref rid="ece35874-fig-0005" ref-type="fig">5</xref>a). Other studies have failed to find a relationship between woody plant diversity and aboveground biomass accumulation in plantings across a wide climate gradient in Australia, at least in the first few decades of growth (Paul, Cunningham, et al., <xref rid="ece35874-bib-0073" ref-type="ref">2016</xref>; Staples, Dwyer, England, &#x00026; Mayfield, <xref rid="ece35874-bib-0087" ref-type="ref">2019</xref>). In natural forests, diversity effects on productivity tend to increase as communities mature (Duffy et al., <xref rid="ece35874-bib-0025" ref-type="ref">2017</xref>; Meyer et al., <xref rid="ece35874-bib-0068" ref-type="ref">2016</xref>; Reich et al., <xref rid="ece35874-bib-0082" ref-type="ref">2012</xref>). Strong abiotic forces, including climate and nutrient availability, can also mask biodiversity effects (Duffy et al., <xref rid="ece35874-bib-0025" ref-type="ref">2017</xref>). Because woody plant richness and aboveground biomass accrual in our study were both strongly affected by moisture availability, this likely weakened the richness&#x02013;productivity relationship. While plant richness was not a direct predictor of productivity, it was indirectly related via a significant, positive association with stand density.</p><p>We found soil N to have a significant positive effect on aboveground biomass accrual. There was no significant effect of extractable P on aboveground biomass accrual; however, Australia has a high proportion of soils that have formed on sedimentary rocks with low P content, or highly weathered soils where much P has been lost through leaching (Handreck, <xref rid="ece35874-bib-0039" ref-type="ref">1997</xref>). As a response, many native tree species have adapted to low P availability through effective acquisition strategies, and tree growth can be buffered from P limitation (Cheesman et al., <xref rid="ece35874-bib-0013" ref-type="ref">2018</xref>).</p></sec><sec id="ece35874-sec-0018"><label>4.2</label><title>Drivers of bird richness</title><p>Our results suggest that water availability influences bird diversity directly, rather than indirectly via plant productivity, such that wetter areas support more species, consistent with findings by Hawkins et al. (<xref rid="ece35874-bib-0040" ref-type="ref">2005</xref>) across Australia. A more recent study found that bird richness in Australia was positively related to evapotranspiration at the continental scale, and vegetation productivity and structure at regional scales, suggesting that species richness is influenced by water availability either directly or indirectly, depending on the scale (Coops et al., <xref rid="ece35874-bib-0017" ref-type="ref">2018</xref>). Therefore, it may be that climate drivers are masking vegetation effects on bird richness at the scale of our study. However, it is possible to achieve high values of both aboveground biomass accrual, and woodland and forest bird richness at wetter sites (Figure <xref rid="ece35874-fig-0010" ref-type="fig">10</xref>a), indicating synergies between aboveground biomass accrual and bird richness at sites where water is not limiting. Furthermore, shrub cover was found to be an important variable influencing understorey&#x02010;nesting bird richness, expected due to the reliance of this group on understorey vegetation for nesting and foraging (Martin &#x00026; McIntyre, <xref rid="ece35874-bib-0064" ref-type="ref">2007</xref>). In terms of managing plantings, livestock grazing is likely to remove shrubs and therefore reduce understorey&#x02010;nesting bird richness. The removal of shrubs may also decrease small&#x02010;bodied bird richness from competitive exclusion by aggressive noisy miners (Martin &#x00026; McIntyre, <xref rid="ece35874-bib-0064" ref-type="ref">2007</xref>; Val, Eldridge, Travers, &#x00026; Oliver, <xref rid="ece35874-bib-0091" ref-type="ref">2018</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35874-fig-0010" orientation="portrait" position="float"><label>Figure 10</label><caption><p>Woodland and forest bird richness plotted with (a) aboveground biomass (AGB) accrual across all restoration sites (point size corresponds to moisture index and cluster of wetter sites with both high AGB accrual and woodland and forest bird richness are circled), and (b) patch age across the three different restoration types (catchment, ecological, and forestry plantings)</p></caption><graphic id="nlm-graphic-21" xlink:href="ECE3-9-14379-g010"/></fig><p>We found that larger patches had greater species richness for all bird groups examined, consistent with island&#x02010;biogeography theory (MacArthur &#x00026; Wilson, <xref rid="ece35874-bib-0060" ref-type="ref">1967</xref>) and species&#x02013;area relationships (Rosenzweig, <xref rid="ece35874-bib-0084" ref-type="ref">1995</xref>). While it is possible we encountered more bird species from covering more area in larger patches, our results likely represent the species present across the patch (and not within a quadrat), which is useful for management of the site, such as planning understorey restoration. Furthermore, patch size has been found to predict bird richness in a study of forest plantings in fragmented landscapes of southeastern Australia, employing both fixed&#x02010;time and fixed&#x02010;area bird surveys (Kavanagh et al., <xref rid="ece35874-bib-0050" ref-type="ref">2007</xref>; Lindenmayer et al., <xref rid="ece35874-bib-0058" ref-type="ref">2010</xref>).</p><p>The area of native vegetation in the landscape was not significantly related to any of our bird richness variables. This is surprising given that the amount of surrounding native vegetation had a strong influence on woodland&#x02010;dependent bird richness in natural regeneration of subtropical Brigalow and eucalypt forests elsewhere in southern Queensland (Bowen et al., <xref rid="ece35874-bib-0007" ref-type="ref">2009</xref>). Some of our sites were also wet forest plantings, however, surrounding vegetation cover has also been found to predict forest&#x02010;dependent bird richness in tropical rainforest plantings in Australia and Costa Rica (Freeman et al., <xref rid="ece35874-bib-0033" ref-type="ref">2015</xref>; Reid, Mendenhall, Rosales, Zahawi, &#x00026; Holl, <xref rid="ece35874-bib-0083" ref-type="ref">2014</xref>). Many of our sites contained native vegetation that was not mapped as remnant or mature regrowth (i.e., native plantation, young regrowth, recent planting), which may have underestimated the area of native vegetation in the spatial analysis. Alternatively, other landscape context factors, such as distance to water, may be more important for bird richness in subtropical climates, as found in temperate woodland plantings in Australia (Lindenmayer et al., <xref rid="ece35874-bib-0058" ref-type="ref">2010</xref>).</p><p>Despite patch age influencing bird diversity within forestry plantings in subtropical Australia (Law, Chidel, Brassil, Turner, &#x00026; Kathuria, <xref rid="ece35874-bib-0052" ref-type="ref">2014</xref>), patch age had no effect on&#x000a0;bird richness variables in our study. This is likely because our study sites contained a mixture of planting types, and many of our older sites were less diverse forestry plantings with open understoreys, which supported similar woodland and forest bird richness as younger, more diverse ecological plantings (Figures <xref rid="ece35874-fig-0005" ref-type="fig">5</xref>b and <xref rid="ece35874-fig-0010" ref-type="fig">10</xref>b). Likewise to our findings, a study in a cleared agricultural region in southeast Australia, also found that ecological plantings between 4&#x02013;8&#x000a0;years contained a similar bird composition to forestry plantings of 11&#x02013;15&#x000a0;years (Munro et al., <xref rid="ece35874-bib-0071" ref-type="ref">2011</xref>), indicating that colonization depends on the quality of restored habitat (Lindenmayer, Blanchard, et al., <xref rid="ece35874-bib-0056" ref-type="ref">2018</xref>). This suggests it is possible to achieve reasonable bird diversity in ecological plantings within 4&#x02013;16&#x000a0;years by planting a mixture of native trees and shrubs. Further monitoring of bird communities in these younger, ecological plantings would be desirable to detect changes as they mature. Indeed, some bird species can rapidly colonize restored forests and woodlands. For example in Australia, small&#x02010;bodied species recolonized restored temperate woodland understories within 6&#x02013;8&#x000a0;years (Lindenmayer, Blanchard, et al., <xref rid="ece35874-bib-0056" ref-type="ref">2018</xref>), and half of the rainforest bird species known from adjacent old&#x02010;growth habitat recolonized rainforest plantings within 10&#x000a0;years (Freeman et al., <xref rid="ece35874-bib-0033" ref-type="ref">2015</xref>). Elsewhere, woodland generalist species recolonized natural woodland regeneration within 10&#x000a0;years in the United Kingdom (Whytock et al., <xref rid="ece35874-bib-0096" ref-type="ref">2018</xref>). However, the age range of our plantings was relatively small (4&#x02013;25&#x000a0;years). It can take many decades for a forest to mature, and colonization by specialist bird species is likely to take much more than 20&#x000a0;years (Catterall et al., <xref rid="ece35874-bib-0012" ref-type="ref">2012</xref>; Freeman et al., <xref rid="ece35874-bib-0033" ref-type="ref">2015</xref>). Recent results from a chronosequence (20&#x02013;120&#x000a0;years) of secondary tropical forests in Panana suggest that connectivity with extensive primary forest is a more important determinant of bird species richness than forest age (Mayhew, Tobias, Bunnefeld, &#x00026; Dent, <xref rid="ece35874-bib-0066" ref-type="ref">2019</xref>), therefore the effect of landscape context in our study warrants further investigation.</p></sec></sec><sec sec-type="conclusions" id="ece35874-sec-0019"><label>5</label><title>CONCLUSIONS</title><p>Our results suggest that planting large patches in regions of high water availability would increase both aboveground biomass accrual and bird richness in subtropical Australia, thus providing synergies for carbon and biodiversity. Planting at high densities is also likely to enhance aboveground biomass accrual, and inclusion of a shrub layer to establish structural diversity would be required to support colonization by understorey&#x02010;nesting birds. To accelerate the recovery of bird diversity, we recommend diverse plantings of native trees and shrubs, which yield comparable rates of aboveground biomass accrual to more production&#x02010;focused plantings.</p></sec><sec sec-type="COI-statement" id="ece35874-sec-0020"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35874-sec-0021"><title>AUTHOR CONTRIBUTIONS</title><p>VH, KW, and JMD conceived the ideas, VH, JMD, and JRE designed the methodology; VH collected and analyzed the data; JMD and JRE contributed analysis techniques; VH wrote the manuscript; JMD, JRE and KW contributed critically to the drafts.</p></sec></body><back><ack id="ece35874-sec-0024"><title>ACKNOWLEDGMENTS</title><p>We thank&#x000a0;the Commonwealth Scientific and Industrial Research Organisation (CSIRO) for inventory data, Keryn Paul for advice on the allometric equations, all organizations (Seqwater, Gladstone Area Water Board, HQ Plantations, Logan City Council, City of Gold Coast, Scenic Rim Regional Council, Redlands City Council, Brisbane City Council, Queensland Parks and Wildlife Service) and landholders for access to their properties, Dave Hagger, Stephanie Samson and Ilva Sporne for field assistance, and Hugh Possingham for advice on bird species. Funding was provided to VH by an Ecological Society of Australia Holsworth Research Endowment and a&#x000a0;CSIRO Integrated Natural Resource Management scholarship.</p></ack><sec sec-type="data-availability" id="ece35874-sec-0023"><title>DATA AVAILABILITY STATEMENT</title><p>Biomass estimates, bird survey data, and SEM variable data are available via Dryad Digital Repository, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.98sf7m0dw" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.98sf7m0dw</ext-link>.</p></sec><ref-list content-type="cited-references" id="ece35874-bibl-0001"><title>REFERENCES</title><ref id="ece35874-bib-0001"><mixed-citation publication-type="journal" id="ece35874-cit-0001">
+<string-name>
+<surname>Archibald</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>McKinney</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mustin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shanahan</surname>, <given-names>D. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Possingham</surname>, <given-names>H. P.</given-names>
+</string-name> (<year>2017</year>). <article-title>Assessing the impact of revegetation and weed control on urban sensitive bird species</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>7</volume>(<issue>12</issue>), <fpage>4200</fpage>&#x02013;<lpage>4208</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.2960</pub-id>
+<pub-id pub-id-type="pmid">28649333</pub-id></mixed-citation></ref><ref id="ece35874-bib-0002"><mixed-citation publication-type="journal" id="ece35874-cit-0002">
+<string-name>
+<surname>Barnagaud</surname>, <given-names>J. Y.</given-names>
+</string-name>, <string-name>
+<surname>Barbaro</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Papa&#x000ef;x</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Deconchat</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brockerhoff</surname>, <given-names>E. G.</given-names>
+</string-name> (<year>2014</year>). <article-title>Habitat filtering by landscape and local forest composition in native and exotic New Zealand birds</article-title>. <source xml:lang="en">Ecology</source>, <volume>95</volume>(<issue>1</issue>), <fpage>78</fpage>&#x02013;<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1890/13-0791.1</pub-id>
+<pub-id pub-id-type="pmid">24649648</pub-id></mixed-citation></ref><ref id="ece35874-bib-0003"><mixed-citation publication-type="journal" id="ece35874-cit-0003">
+<string-name>
+<surname>Barrett</surname>, <given-names>G. W.</given-names>
+</string-name>, <string-name>
+<surname>Freudenberger</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Drew</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Stol</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Nicholls</surname>, <given-names>A. O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cawsey</surname>, <given-names>E. M.</given-names>
+</string-name> (<year>2008</year>). <article-title>Colonisation of native tree and shrub plantings by woodland birds in an agricultural landscape</article-title>. <source xml:lang="en">Wildlife Research</source>, <volume>35</volume>(<issue>1</issue>), <fpage>19</fpage>&#x02013;<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1071/WR07100</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0004"><mixed-citation publication-type="journal" id="ece35874-cit-0004">
+<string-name>
+<surname>Barton</surname>, <given-names>P. S.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>C. F.</given-names>
+</string-name>, <string-name>
+<surname>Kay</surname>, <given-names>G. M.</given-names>
+</string-name>, <string-name>
+<surname>Florance</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lindenmayer</surname>, <given-names>D. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Effects of environmental variation and livestock grazing on ant community structure in temperate eucalypt woodlands</article-title>. <source xml:lang="en">Insect Conservation and Diversity</source>, <volume>9</volume>(<issue>2</issue>), <fpage>124</fpage>&#x02013;<lpage>134</lpage>. <pub-id pub-id-type="doi">10.1111/icad.12151</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0005"><mixed-citation publication-type="journal" id="ece35874-cit-0005">
+<string-name>
+<surname>Belder</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Pierson</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Ikin</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lindenmayer</surname>, <given-names>D. B.</given-names>
+</string-name> (<year>2018</year>). <article-title>Beyond pattern to process: Current themes and future directions for the conservation of woodland birds through restoration plantings</article-title>. <source xml:lang="en">Wildlife Research</source>, <volume>45</volume>(<issue>6</issue>), <fpage>473</fpage>&#x02013;<lpage>489</lpage>. <pub-id pub-id-type="doi">10.1071/wr17156</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0006"><mixed-citation publication-type="journal" id="ece35874-cit-0006">
+<string-name>
+<surname>Bonifacio</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Kinross</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Gurr</surname>, <given-names>G. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nicol</surname>, <given-names>H.</given-names>
+</string-name> (<year>2011</year>). <article-title>The effect of woody plant diversity and other stand and landscape factors on the diversity and abundance of birds using farm shelterbelts</article-title>. <source xml:lang="en">Pacific Conservation Biology</source>, <volume>17</volume>(<issue>1</issue>), <fpage>22</fpage>&#x02013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1071/PC110022</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0007"><mixed-citation publication-type="journal" id="ece35874-cit-0007">
+<string-name>
+<surname>Bowen</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>McAlpine</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Seabrook</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>House</surname>, <given-names>A. P. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>G. C.</given-names>
+</string-name> (<year>2009</year>). <article-title>The age and amount of regrowth forest in fragmented brigalow landscapes are both important for woodland dependent birds</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>142</volume>(<issue>12</issue>), <fpage>3051</fpage>&#x02013;<lpage>3059</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2009.08.005</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0008"><mixed-citation publication-type="book" id="ece35874-cit-0008">
+<collab collab-type="authors">Bureau of Meteorology</collab>
+(<year>2019</year>). <source xml:lang="en">Climate data online from Australian Government</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.bom.gov.au/climate/averages/maps.shtml">http://www.bom.gov.au/climate/averages/maps.shtml</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0009"><mixed-citation publication-type="journal" id="ece35874-cit-0009">
+<string-name>
+<surname>Cardinale</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Duffy</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hooper</surname>, <given-names>D. U.</given-names>
+</string-name>, <string-name>
+<surname>Perrings</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Venail</surname>, <given-names>P.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Naeem</surname>, <given-names>S.</given-names>
+</string-name> (<year>2012</year>). <article-title>Biodiversity loss and its impact on humanity</article-title>. <source xml:lang="en">Nature</source>, <volume>486</volume>(<issue>7401</issue>), <fpage>59</fpage>
+<pub-id pub-id-type="doi">10.1038/nature11148</pub-id>
+<pub-id pub-id-type="pmid">22678280</pub-id></mixed-citation></ref><ref id="ece35874-bib-0010"><mixed-citation publication-type="journal" id="ece35874-cit-0010">
+<string-name>
+<surname>Carwardine</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hawkins</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Polglase</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Possingham</surname>, <given-names>H. P.</given-names>
+</string-name>, <string-name>
+<surname>Reeson</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Renwick</surname>, <given-names>A. R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Martin</surname>, <given-names>T. G.</given-names>
+</string-name> (<year>2015</year>). <article-title>Spatial priorities for restoring biodiverse carbon forests</article-title>. <source xml:lang="en">BioScience</source>, <volume>65</volume>(<issue>4</issue>), <fpage>372</fpage>&#x02013;<lpage>382</lpage>. <pub-id pub-id-type="doi">10.1093/biosci/biv008</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0011"><mixed-citation publication-type="journal" id="ece35874-cit-0011">
+<string-name>
+<surname>Catterall</surname>, <given-names>C. P.</given-names>
+</string-name> (<year>2018</year>). <article-title>Fauna as passengers and drivers in vegetation restoration: A synthesis of processes and evidence</article-title>. <source xml:lang="en">Ecological Management &#x00026; Restoration</source>, <volume>19</volume>, <fpage>54</fpage>&#x02013;<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1111/emr.12306</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0012"><mixed-citation publication-type="journal" id="ece35874-cit-0012">
+<string-name>
+<surname>Catterall</surname>, <given-names>C. P.</given-names>
+</string-name>, <string-name>
+<surname>Freeman</surname>, <given-names>A. N. D.</given-names>
+</string-name>, <string-name>
+<surname>Kanowski</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Freebody</surname>, <given-names>K.</given-names>
+</string-name> (<year>2012</year>). <article-title>Can active restoration of tropical rainforest rescue biodiversity? A case with bird community indicators</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>146</volume>(<issue>1</issue>), <fpage>53</fpage>&#x02013;<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2011.10.033</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0013"><mixed-citation publication-type="journal" id="ece35874-cit-0013">
+<string-name>
+<surname>Cheesman</surname>, <given-names>A. W.</given-names>
+</string-name>, <string-name>
+<surname>Preece</surname>, <given-names>N. D.</given-names>
+</string-name>, <string-name>
+<surname>van Oosterzee</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Erskine</surname>, <given-names>P. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cernusak</surname>, <given-names>L. A.</given-names>
+</string-name> (<year>2018</year>). <article-title>The role of topography and plant functional traits in determining tropical reforestation success</article-title>. <source xml:lang="en">Journal of Applied Ecology</source>, <volume>55</volume>(<issue>2</issue>), <fpage>1029</fpage>&#x02013;<lpage>1039</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2664.12980</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0014"><mixed-citation publication-type="journal" id="ece35874-cit-0014">
+<string-name>
+<surname>Chen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Piao</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Chaturvedi</surname>, <given-names>R. K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Myneni</surname>, <given-names>R. B.</given-names>
+</string-name> (<year>2019</year>). <article-title>China and India lead in greening of the world through land&#x02010;use management</article-title>. <source xml:lang="en">Nature Sustainability</source>, <volume>2</volume>(<issue>2</issue>), <fpage>122</fpage>&#x02013;<lpage>129</lpage>. <pub-id pub-id-type="doi">10.1038/s41893-019-0220-7</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0015"><mixed-citation publication-type="journal" id="ece35874-cit-0015">
+<string-name>
+<surname>Chen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bai</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2018</year>). <article-title>Plant diversity enhances productivity and soil carbon storage</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>115</volume>(<issue>16</issue>), <fpage>4027</fpage>&#x02013;<lpage>4032</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1700298114</pub-id>
+<pub-id pub-id-type="pmid">29666315</pub-id></mixed-citation></ref><ref id="ece35874-bib-0016"><mixed-citation publication-type="book" id="ece35874-cit-0016">
+<string-name>
+<surname>Chojnacky</surname>, <given-names>D. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Milton</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>). <chapter-title>Measuring carbon in shrubs</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Hoover</surname><given-names>C. M.</given-names></name></person-group> (Ed.), <source xml:lang="en">Field measurements for forest carbon monitoring: A landscape&#x02010;scale approach</source> (pp. <fpage>45</fpage>&#x02013;<lpage>72</lpage>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="ece35874-bib-0017"><mixed-citation publication-type="journal" id="ece35874-cit-0017">
+<string-name>
+<surname>Coops</surname>, <given-names>N. C.</given-names>
+</string-name>, <string-name>
+<surname>Rickbeil</surname>, <given-names>G. J. M.</given-names>
+</string-name>, <string-name>
+<surname>Bolton</surname>, <given-names>D. K.</given-names>
+</string-name>, <string-name>
+<surname>Andrew</surname>, <given-names>M. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brouwers</surname>, <given-names>N. C.</given-names>
+</string-name> (<year>2018</year>). <article-title>Disentangling vegetation and climate as drivers of Australian vertebrate richness</article-title>. <source xml:lang="en">Ecography</source>, <volume>41</volume>(<issue>7</issue>), <fpage>1147</fpage>&#x02013;<lpage>1160</lpage>. <pub-id pub-id-type="doi">10.1111/ecog.02813</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0018"><mixed-citation publication-type="journal" id="ece35874-cit-0018">
+<string-name>
+<surname>Crous</surname>, <given-names>K. Y.</given-names>
+</string-name>, <string-name>
+<surname>&#x000d3;svaldsson</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ellsworth</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Is phosphorus limiting in a mature Eucalyptus woodland? Phosphorus fertilisation stimulates stem growth</article-title>. <source xml:lang="en">Plant and Soil</source>, <volume>391</volume>(<issue>1</issue>), <fpage>293</fpage>&#x02013;<lpage>305</lpage>. <pub-id pub-id-type="doi">10.1007/s11104-015-2426-4</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0019"><mixed-citation publication-type="journal" id="ece35874-cit-0019">
+<string-name>
+<surname>Cunningham</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Cavagnaro</surname>, <given-names>T. R.</given-names>
+</string-name>, <string-name>
+<surname>Mac Nally</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Paul</surname>, <given-names>K. I.</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Beringer</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Thompson</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>2015</year>). <article-title>Reforestation with native mixed&#x02010;species plantings in a temperate continental climate effectively sequesters and stabilizes carbon within decades</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>21</volume>(<issue>4</issue>), <fpage>1552</fpage>&#x02013;<lpage>1566</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.12746</pub-id>
+<pub-id pub-id-type="pmid">25230693</pub-id></mixed-citation></ref><ref id="ece35874-bib-0020"><mixed-citation publication-type="book" id="ece35874-cit-0020">
+<collab collab-type="authors">Department of Environment and Energy</collab>
+(<year>2014</year>). <source xml:lang="en">Carbon credits (carbon farming initiative) (reforestation by environmental or mallee plantings&#x02014;FullCAM) Methodology determination 2014</source>. <publisher-loc>Canberra, ACT</publisher-loc>: <publisher-name>Australian Government</publisher-name> Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.legislation.gov.au/Details/F2018C00118">https://www.legislation.gov.au/Details/F2018C00118</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0021"><mixed-citation publication-type="book" id="ece35874-cit-0021">
+<collab collab-type="authors">Department of Environment and Energy</collab>
+(<year>2017</year>). <source xml:lang="en">Carbon credits (carbon farming initiative&#x02014;plantation forestry) methodology determination 2017</source>. <publisher-loc>Canberra, ACT</publisher-loc>: <publisher-name>Australian Government</publisher-name> Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.legislation.gov.au/Details/F2017L01038">https://www.legislation.gov.au/Details/F2017L01038</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0022"><mixed-citation publication-type="book" id="ece35874-cit-0022">
+<collab collab-type="authors">Department of Environment and Science</collab>
+(<year>2013</year>). <source xml:lang="en">Environmental Protection Act mature regrowth, Version 2.1</source>.</mixed-citation></ref><ref id="ece35874-bib-0023"><mixed-citation publication-type="book" id="ece35874-cit-0023">
+<collab collab-type="authors">Department of Environment and Science</collab>
+(<year>2018</year>). <source xml:lang="en">Biodiversity status of pre&#x02010;clearing regional ecosystems &#x02013; Queensland, Version 11</source>.</mixed-citation></ref><ref id="ece35874-bib-0024"><mixed-citation publication-type="book" id="ece35874-cit-0024">
+<collab collab-type="authors">Department of Environment and Science</collab>
+(<year>2019</year>). <source xml:lang="en">SILO &#x02013; Australian climate data from 1889 to yesterday</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.longpaddock.qld.gov.au/silo/">https://www.longpaddock.qld.gov.au/silo/</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0025"><mixed-citation publication-type="journal" id="ece35874-cit-0025">
+<string-name>
+<surname>Duffy</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Godwin</surname>, <given-names>C. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cardinale</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Biodiversity effects in the wild are common and as strong as key drivers of productivity</article-title>. <source xml:lang="en">Nature</source>, <volume>549</volume>, <fpage>261</fpage>
+<pub-id pub-id-type="doi">10.1038/nature23886</pub-id>
+<pub-id pub-id-type="pmid">28869964</pub-id></mixed-citation></ref><ref id="ece35874-bib-0026"><mixed-citation publication-type="journal" id="ece35874-cit-0026">
+<string-name>
+<surname>Dwyer</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Fensham</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Buckley</surname>, <given-names>Y. M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Restoration thinning accelerates structural development and carbon sequestration in an endangered Australian ecosystem</article-title>. <source xml:lang="en">Journal of Applied Ecology</source>, <volume>47</volume>(<issue>3</issue>), <fpage>681</fpage>&#x02013;<lpage>691</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2664.2010.01775.x</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0027"><mixed-citation publication-type="book" id="ece35874-cit-0027">
+<collab collab-type="authors">ESRI</collab>
+(<year>2018a</year>). <source xml:lang="en">ArcGIS Desktop 10.6.1</source>. <publisher-loc>Redlands, CA</publisher-loc>: <publisher-name>Environmental Systems Research Institute Inc</publisher-name>.</mixed-citation></ref><ref id="ece35874-bib-0028"><mixed-citation publication-type="book" id="ece35874-cit-0028">
+<collab collab-type="authors">ESRI</collab>
+(Cartographer) (<year>2018b</year>). <source xml:lang="en">World imagery</source>. <publisher-loc>Redlands, CA</publisher-loc>: <publisher-name>ESRI</publisher-name>.</mixed-citation></ref><ref id="ece35874-bib-0029"><mixed-citation publication-type="book" id="ece35874-cit-0029">
+<string-name>
+<surname>Eyre</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Neldner</surname>, <given-names>V. J.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Ferguson</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Laidlaw</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Franks</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2015</year>). <source xml:lang="en">BioCondition: A condition assessment framework for terrestrial biodiversity in Queensland. Assessment Manual. Version 2.2</source>. <publisher-loc>Brisbane, Qld</publisher-loc> Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.qld.gov.au/environment/assets/documents/plants-animals/biodiversity/biocondition-assessment-manual.pdf">https://www.qld.gov.au/environment/assets/documents/plants-animals/biodiversity/biocondition-assessment-manual.pdf</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0030"><mixed-citation publication-type="book" id="ece35874-cit-0030">
+<string-name>
+<surname>Ford</surname>, <given-names>H. A.</given-names>
+</string-name> (<year>2011</year>). <source xml:lang="en">The causes of decline of birds of eucalypt woodlands: advances in our knowledge over the last 10 years</source> (vol. <volume>111</volume>, pp. <fpage>1</fpage>&#x02013;<lpage>9</lpage>). <publisher-loc>London, UK</publisher-loc>: <publisher-name>Taylor &#x00026; Francis</publisher-name>.</mixed-citation></ref><ref id="ece35874-bib-0031"><mixed-citation publication-type="journal" id="ece35874-cit-0031">
+<string-name>
+<surname>Ford</surname>, <given-names>H. A.</given-names>
+</string-name>, <string-name>
+<surname>Barrett</surname>, <given-names>G. W.</given-names>
+</string-name>, <string-name>
+<surname>Saunders</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Recher</surname>, <given-names>H. F.</given-names>
+</string-name> (<year>2001</year>). <article-title>Why have birds in the woodlands of Southern Australia declined?</article-title>
+<source xml:lang="en">Biological Conservation</source>, <volume>97</volume>(<issue>1</issue>), <fpage>71</fpage>&#x02013;<lpage>88</lpage>. <pub-id pub-id-type="doi">10.1016/s0006-3207(00)00101-4</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0032"><mixed-citation publication-type="journal" id="ece35874-cit-0032">
+<string-name>
+<surname>Fraser</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hauser</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name>
+<surname>Rumpff</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Garrard</surname>, <given-names>G. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McCarthy</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Classifying animals into ecologically meaningful groups: A case study on woodland birds</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>214</volume>, <fpage>184</fpage>&#x02013;<lpage>194</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2017.07.006</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0033"><mixed-citation publication-type="journal" id="ece35874-cit-0033">
+<string-name>
+<surname>Freeman</surname>, <given-names>A. N. D.</given-names>
+</string-name>, <string-name>
+<surname>Catterall</surname>, <given-names>C. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Freebody</surname>, <given-names>K.</given-names>
+</string-name> (<year>2015</year>). <article-title>Use of restored habitat by rainforest birds is limited by spatial context and species' functional traits but not by their predicted climate sensitivity</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>186</volume>, <fpage>107</fpage>&#x02013;<lpage>114</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2015.03.005</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0034"><mixed-citation publication-type="journal" id="ece35874-cit-0034">
+<string-name>
+<surname>Gibb</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cunningham</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2010</year>). <article-title>Revegetation of farmland restores function and composition of epigaeic beetle assemblages</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>143</volume>(<issue>3</issue>), <fpage>677</fpage>&#x02013;<lpage>687</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2009.12.005</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0035"><mixed-citation publication-type="journal" id="ece35874-cit-0035">
+<string-name>
+<surname>Gould</surname>, <given-names>S. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mackey</surname>, <given-names>B. G.</given-names>
+</string-name> (<year>2015</year>). <article-title>Site vegetation characteristics are more important than landscape context in determining bird assemblages in revegetation</article-title>. <source xml:lang="en">Restoration Ecology</source>, <volume>23</volume>(<issue>5</issue>), <fpage>670</fpage>&#x02013;<lpage>680</lpage>. <pub-id pub-id-type="doi">10.1111/rec.12222</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0036"><mixed-citation publication-type="book" id="ece35874-cit-0036">
+<string-name>
+<surname>Grace</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name>
+<surname>Scheiner</surname>, <given-names>S. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schoolmaster</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2015</year>). <chapter-title>Chapter 8. Structural equation modeling: Building and evaluating causal models</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Fox</surname><given-names>G. A.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Negrete&#x02010;Yankelevich</surname><given-names>S.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Sosa</surname><given-names>V. J.</given-names></name></person-group> (Eds.), <source xml:lang="en">Ecological statistics: Contemporary theory and application</source> (<edition designator="1">1st ed.</edition>, pp. <fpage>168</fpage>&#x02013;<lpage>199</lpage>). <publisher-loc>Oxford, UK</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece35874-bib-0037"><mixed-citation publication-type="journal" id="ece35874-cit-0037">
+<string-name>
+<surname>Hagger</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Dwyer</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wilson</surname>, <given-names>K.</given-names>
+</string-name> (<year>2017</year>). <article-title>What motivates ecological restoration?</article-title>
+<source xml:lang="en">Restoration Ecology</source>, <volume>25</volume>(<issue>5</issue>), <fpage>832</fpage>&#x02013;<lpage>843</lpage>. <pub-id pub-id-type="doi">10.1111/rec.12503</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0038"><mixed-citation publication-type="journal" id="ece35874-cit-0038">
+<string-name>
+<surname>Hale</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>, <given-names>B. D.</given-names>
+</string-name>, <string-name>
+<surname>Lake</surname>, <given-names>P. S.</given-names>
+</string-name>, <string-name>
+<surname>Thomson</surname>, <given-names>J. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mac Nally</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Bird responses to riparian management of degraded lowland streams in southeastern Australia</article-title>. <source xml:lang="en">Restoration Ecology</source>, <volume>23</volume>(<issue>2</issue>), <fpage>104</fpage>&#x02013;<lpage>112</lpage>. <pub-id pub-id-type="doi">10.1111/rec.12158</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0039"><mixed-citation publication-type="journal" id="ece35874-cit-0039">
+<string-name>
+<surname>Handreck</surname>, <given-names>K. A.</given-names>
+</string-name> (<year>1997</year>). <article-title>Phosphorus requirements of Australian native plants</article-title>. <source xml:lang="en">Soil Research</source>, <volume>35</volume>(<issue>2</issue>), <fpage>241</fpage>&#x02013;<lpage>290</lpage>. <pub-id pub-id-type="doi">10.1071/S96060</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0040"><mixed-citation publication-type="journal" id="ece35874-cit-0040">
+<string-name>
+<surname>Hawkins</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Diniz&#x02010;Filho</surname>, <given-names>J. A. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Soeller</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2005</year>). <article-title>Water links the historical and contemporary components of the Australian bird diversity gradient</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>32</volume>(<issue>6</issue>), <fpage>1035</fpage>&#x02013;<lpage>1042</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2699.2004.01238.x</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0041"><mixed-citation publication-type="journal" id="ece35874-cit-0041">
+<string-name>
+<surname>Hawkins</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Porter</surname>, <given-names>E. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Diniz&#x02010;Filho</surname>, <given-names>J. A. F.</given-names>
+</string-name> (<year>2003</year>). <article-title>Productivity and history as predictors of the latitudinal diversity gradient of terrestrial birds</article-title>. <source xml:lang="en">Ecology</source>, <volume>84</volume>(<issue>6</issue>), <fpage>1608</fpage>&#x02013;<lpage>1623</lpage>. <pub-id pub-id-type="doi">10.1890/0012-9658(2003)084[1608:PAHAPO]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0042"><mixed-citation publication-type="book" id="ece35874-cit-0042">
+<string-name>
+<surname>Hothorn</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Bretz</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Westfall</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Heiberger</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Schuetzenmeister</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Scheibe</surname>, <given-names>S.</given-names>
+</string-name> (<year>2016</year>). <source xml:lang="en">Package &#x02018;multcomp&#x02019;. Simultaneous inference in general parametric models. Version 1.4&#x02010;5</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://multcomp.R-forge.R-project.org">http://multcomp.R-forge.R-project.org</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0043"><mixed-citation publication-type="journal" id="ece35874-cit-0043">
+<string-name>
+<surname>Hua</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Fisher</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wilcove</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>2016</year>). <article-title>Opportunities for biodiversity gains under the world's largest reforestation programme</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>7</volume>, <fpage>12717</fpage>&#x02013;<lpage>12717</lpage>. <pub-id pub-id-type="doi">10.1038/ncomms12717</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0044"><mixed-citation publication-type="journal" id="ece35874-cit-0044">
+<string-name>
+<surname>Huang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Castro&#x02010;Izaguirre</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Baruffol</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Brezzi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Schmid</surname>, <given-names>B.</given-names>
+</string-name> (<year>2018</year>). <article-title>Impacts of species richness on productivity in a large&#x02010;scale subtropical forest experiment</article-title>. <source xml:lang="en">Science</source>, <volume>362</volume>(<issue>6410</issue>), <fpage>80</fpage>&#x02013;<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1126/science.aat6405</pub-id>
+<pub-id pub-id-type="pmid">30287660</pub-id></mixed-citation></ref><ref id="ece35874-bib-0045"><mixed-citation publication-type="journal" id="ece35874-cit-0045">
+<string-name>
+<surname>Ikin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Yong</surname>, <given-names>D. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lindenmayer</surname>, <given-names>D. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Effectiveness of woodland birds as taxonomic surrogates in conservation planning for biodiversity on farms</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>204</volume>, <fpage>411</fpage>&#x02013;<lpage>416</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2016.11.010</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0046"><mixed-citation publication-type="book" id="ece35874-cit-0046">
+<collab collab-type="authors">Intergovenmental Panel on Climate Change</collab>
+(<year>2019</year>). <source xml:lang="en">IPCC special report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems. Summary for policymakers</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.ipcc.ch/report/srccl/">https://www.ipcc.ch/report/srccl/</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0047"><mixed-citation publication-type="book" id="ece35874-cit-0047">
+<collab collab-type="authors">Intergovernmental Science&#x02010;Policy Platform on Biodiversity and Ecosystem Services</collab>
+(<year>2018</year>). <source xml:lang="en">The IPBES assessment report on land degradation and restoration</source>. <publisher-loc>Bonn, Germany</publisher-loc> Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.ipbes.net/assessment-reports/ldr">https://www.ipbes.net/assessment-reports/ldr</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0048"><mixed-citation publication-type="journal" id="ece35874-cit-0048">
+<string-name>
+<surname>Jeffrey</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>, <given-names>J. O.</given-names>
+</string-name>, <string-name>
+<surname>Moodie</surname>, <given-names>K. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beswick</surname>, <given-names>A. R.</given-names>
+</string-name> (<year>2001</year>). <article-title>Using spatial interpolation to construct a comprehensive archive of Australian climate data</article-title>. <source xml:lang="en">Environmental Modelling and Software</source>, <volume>16</volume>(<issue>4</issue>), <fpage>309</fpage>&#x02013;<lpage>330</lpage>. <pub-id pub-id-type="doi">10.1016/S1364-8152(01)00008-1</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0049"><mixed-citation publication-type="journal" id="ece35874-cit-0049">
+<string-name>
+<surname>Joyce</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Barnes</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Possingham</surname>, <given-names>H. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Van Rensburg</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Understanding avian assemblage change within anthropogenic environments using citizen science data</article-title>. <source xml:lang="en">Landscape and Urban Planning</source>, <volume>179</volume>, <fpage>81</fpage>&#x02013;<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1016/j.landurbplan.2018.07.006</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0050"><mixed-citation publication-type="journal" id="ece35874-cit-0050">
+<string-name>
+<surname>Kavanagh</surname>, <given-names>R. P.</given-names>
+</string-name>, <string-name>
+<surname>Stanton</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Herring</surname>, <given-names>M. W.</given-names>
+</string-name> (<year>2007</year>). <article-title>Eucalypt plantings on farms benefit woodland birds in south&#x02010;eastern Australia</article-title>. <source xml:lang="en">Austral Ecology</source>, <volume>32</volume>(<issue>6</issue>), <fpage>635</fpage>&#x02013;<lpage>650</lpage>. <pub-id pub-id-type="doi">10.1111/j.1442-9993.2007.01746.x</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0051"><mixed-citation publication-type="book" id="ece35874-cit-0051">
+<string-name>
+<surname>Lamb</surname>, <given-names>D.</given-names>
+</string-name> (<year>2014</year>). <source xml:lang="en">Large&#x02010;scale forest restoration</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Routledge</publisher-name>.</mixed-citation></ref><ref id="ece35874-bib-0052"><mixed-citation publication-type="journal" id="ece35874-cit-0052">
+<string-name>
+<surname>Law</surname>, <given-names>B. S.</given-names>
+</string-name>, <string-name>
+<surname>Chidel</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Brassil</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Turner</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kathuria</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Trends in bird diversity over 12 years in response to large&#x02010;scale eucalypt plantation establishment: Implications for extensive carbon plantings</article-title>. <source xml:lang="en">Forest Ecology and Management</source>, <volume>322</volume>, <fpage>58</fpage>&#x02013;<lpage>68</lpage>. <pub-id pub-id-type="doi">10.1016/j.foreco.2014.02.032</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0053"><mixed-citation publication-type="journal" id="ece35874-cit-0053">
+<string-name>
+<surname>Lecina&#x02010;Diaz</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Alvarez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Regos</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Drapeau</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Paquette</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Messier</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Retana</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>). <article-title>The positive carbon stocks&#x02013;biodiversity relationship in forests: Co&#x02010;occurrence and drivers across five subclimates</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>28</volume>(<issue>6</issue>), <fpage>1481</fpage>&#x02013;<lpage>1493</lpage>. <pub-id pub-id-type="doi">10.1002/eap.1749</pub-id>
+<pub-id pub-id-type="pmid">29885260</pub-id></mixed-citation></ref><ref id="ece35874-bib-0054"><mixed-citation publication-type="book" id="ece35874-cit-0054">
+<string-name>
+<surname>Lefcheck</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>). <source xml:lang="en">Piecewise Structural Equation Modeling. Version 2.0.2</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://github.com/jslefche/">https://github.com/jslefche/</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0055"><mixed-citation publication-type="journal" id="ece35874-cit-0055">
+<string-name>
+<surname>Li Yong</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name>
+<surname>Barton</surname>, <given-names>P. S.</given-names>
+</string-name>, <string-name>
+<surname>Ikin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Crane</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Okada</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Lindenmayer</surname>, <given-names>D. B.</given-names>
+</string-name> (<year>2018</year>). <article-title>Cross&#x02010;taxonomic surrogates for biodiversity conservation in human&#x02010;modified landscapes &#x02013; A multi&#x02010;taxa approach</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>224</volume>, <fpage>336</fpage>&#x02013;<lpage>346</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2018.06.008</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0056"><mixed-citation publication-type="journal" id="ece35874-cit-0056">
+<string-name>
+<surname>Lindenmayer</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Blanchard</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Crane</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Michael</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Florance</surname>, <given-names>D.</given-names>
+</string-name> (<year>2018</year>). <article-title>Size or quality. What matters in vegetation restoration for bird biodiversity in endangered temperate woodlands?</article-title>
+<source xml:lang="en">Austral Ecology</source>, <volume>43</volume>(<issue>7</issue>), <fpage>798</fpage>&#x02013;<lpage>806</lpage>. <pub-id pub-id-type="doi">10.1111/aec.12622</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0057"><mixed-citation publication-type="journal" id="ece35874-cit-0057">
+<string-name>
+<surname>Lindenmayer</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Hulvey</surname>, <given-names>K. B.</given-names>
+</string-name>, <string-name>
+<surname>Hobbs</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Colyvan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Felton</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Possingham</surname>, <given-names>H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Gibbons</surname>, <given-names>P.</given-names>
+</string-name> (<year>2012</year>). <article-title>Avoiding bio&#x02010;perversity from carbon sequestration solutions</article-title>. <source xml:lang="en">Conservation Letters</source>, <volume>5</volume>(<issue>1</issue>), <fpage>28</fpage>&#x02013;<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1111/j.1755-263X.2011.00213.x</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0058"><mixed-citation publication-type="journal" id="ece35874-cit-0058">
+<string-name>
+<surname>Lindenmayer</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Knight</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name>
+<surname>Crane</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Montague&#x02010;Drake</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Michael</surname>, <given-names>D. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>MacGregor</surname>, <given-names>C. I.</given-names>
+</string-name> (<year>2010</year>). <article-title>What makes an effective restoration planting for woodland birds?</article-title>
+<source xml:lang="en">Biological Conservation</source>, <volume>143</volume>, <fpage>289</fpage>&#x02013;<lpage>301</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2009.10.010</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0059"><mixed-citation publication-type="journal" id="ece35874-cit-0059">
+<string-name>
+<surname>Lindenmayer</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Lane</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Westgate</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Scheele</surname>, <given-names>B. C.</given-names>
+</string-name>, <string-name>
+<surname>Foster</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Robinson</surname>, <given-names>N.</given-names>
+</string-name> (<year>2018</year>). <article-title>Tests of predictions associated with temporal changes in Australian bird populations</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>222</volume>, <fpage>212</fpage>&#x02013;<lpage>221</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2018.04.007</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0060"><mixed-citation publication-type="book" id="ece35874-cit-0060">
+<string-name>
+<surname>MacArthur</surname>, <given-names>R. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wilson</surname>, <given-names>E. O.</given-names>
+</string-name> (<year>1967</year>). <source xml:lang="en">The theory of island biogeography</source>. <publisher-loc>Princeton, NJ</publisher-loc>: <publisher-name>Princeton University Press</publisher-name>.</mixed-citation></ref><ref id="ece35874-bib-0061"><mixed-citation publication-type="book" id="ece35874-cit-0061">
+<string-name>
+<surname>Marchant</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Higgins</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>1990</year>). <source xml:lang="en">Handbook of Australian, New Zealand &#x00026; Antarctic birds</source>. <publisher-loc>Melbourne, Vic.</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece35874-bib-0062"><mixed-citation publication-type="journal" id="ece35874-cit-0062">
+<string-name>
+<surname>Maron</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Grey</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Catterall</surname>, <given-names>C. P.</given-names>
+</string-name>, <string-name>
+<surname>Major</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Oliver</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>, <given-names>M. F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Thomson</surname>, <given-names>J. R.</given-names>
+</string-name> (<year>2013</year>). <article-title>Avifaunal disarray due to a single despotic species</article-title>. <source xml:lang="en">Diversity and Distributions</source>, <volume>19</volume>(<issue>12</issue>), <fpage>1468</fpage>&#x02013;<lpage>1479</lpage>. <pub-id pub-id-type="doi">10.1111/ddi.12128</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0063"><mixed-citation publication-type="journal" id="ece35874-cit-0063">
+<string-name>
+<surname>Martin</surname>, <given-names>A. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thomas</surname>, <given-names>S. C.</given-names>
+</string-name> (<year>2011</year>). <article-title>A reassessment of carbon content in tropical trees</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>6</volume>(<issue>8</issue>), <elocation-id>e23533</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0023533</pub-id>
+<pub-id pub-id-type="pmid">21858157</pub-id></mixed-citation></ref><ref id="ece35874-bib-0064"><mixed-citation publication-type="journal" id="ece35874-cit-0064">
+<string-name>
+<surname>Martin</surname>, <given-names>T. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McIntyre</surname>, <given-names>S.</given-names>
+</string-name> (<year>2007</year>). <article-title>Impacts of livestock grazing and tree clearing on birds of woodland and riparian habitats</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>21</volume>(<issue>2</issue>), <fpage>504</fpage>&#x02013;<lpage>514</lpage>. <pub-id pub-id-type="doi">10.1111/j.1523-1739.2006.00624.x</pub-id>
+<pub-id pub-id-type="pmid">17391200</pub-id></mixed-citation></ref><ref id="ece35874-bib-0065"><mixed-citation publication-type="journal" id="ece35874-cit-0065">
+<string-name>
+<surname>Martin</surname>, <given-names>T. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Possingham</surname>, <given-names>H. P.</given-names>
+</string-name> (<year>2005</year>). <article-title>Predicting the impact of livestock grazing on birds using foraging height data</article-title>. <source xml:lang="en">Journal of Applied Ecology</source>, <volume>42</volume>(<issue>2</issue>), <fpage>400</fpage>&#x02013;<lpage>408</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2664.2005.01012.x</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0066"><mixed-citation publication-type="journal" id="ece35874-cit-0066">
+<string-name>
+<surname>Mayhew</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Tobias</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Bunnefeld</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dent</surname>, <given-names>D. H.</given-names>
+</string-name> (<year>2019</year>). <article-title>Connectivity with primary forest determines the value of secondary tropical forests for bird conservation</article-title>. <source xml:lang="en">Biotropica</source>, <volume>51</volume>(<issue>2</issue>), <fpage>219</fpage>&#x02013;<lpage>233</lpage>. <pub-id pub-id-type="doi">10.1111/btp.12629</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0067"><mixed-citation publication-type="book" id="ece35874-cit-0067">
+<string-name>
+<surname>McKenzie</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Henderson</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McDonald</surname>, <given-names>W.</given-names>
+</string-name> (<year>2002</year>). <source xml:lang="en">Monitoring soil change. Principles and practices for Australian conditions. Technical Report 18/02</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.clw.csiro.au/publications/technical2002">http://www.clw.csiro.au/publications/technical2002</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0068"><mixed-citation publication-type="journal" id="ece35874-cit-0068">
+<string-name>
+<surname>Meyer</surname>, <given-names>S. T.</given-names>
+</string-name>, <string-name>
+<surname>Ebeling</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Eisenhauer</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Hertzog</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Hillebrand</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Milcu</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Weisser</surname>, <given-names>W. W.</given-names>
+</string-name> (<year>2016</year>). <article-title>Effects of biodiversity strengthen over time as ecosystem functioning declines at low and increases at high biodiversity</article-title>. <source xml:lang="en">Ecosphere</source>, <volume>7</volume>(<issue>12</issue>), <elocation-id>e01619</elocation-id>
+<pub-id pub-id-type="doi">10.1002/ecs2.1619</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0069"><mixed-citation publication-type="journal" id="ece35874-cit-0069">
+<string-name>
+<surname>Montague&#x02010;Drake</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Lindenmayer</surname>, <given-names>D. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cunningham</surname>, <given-names>R. B.</given-names>
+</string-name> (<year>2009</year>). <article-title>Factors affecting site occupancy by woodland bird species of conservation concern</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>142</volume>(<issue>12</issue>), <fpage>2896</fpage>&#x02013;<lpage>2903</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2009.07.009</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0070"><mixed-citation publication-type="journal" id="ece35874-cit-0070">
+<string-name>
+<surname>Morton</surname>, <given-names>F. I.</given-names>
+</string-name> (<year>1983</year>). <article-title>Operational estimates of areal evapotranspiration and their significance to the science and practice of hydrology</article-title>. <source xml:lang="en">Journal of Hydrology</source>, <volume>66</volume>(<issue>1</issue>), <fpage>1</fpage>&#x02013;<lpage>76</lpage>. <pub-id pub-id-type="doi">10.1016/0022-1694(83)90177-4</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0071"><mixed-citation publication-type="journal" id="ece35874-cit-0071">
+<string-name>
+<surname>Munro</surname>, <given-names>N. T.</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Barrett</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Leavesley</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lindenmayer</surname>, <given-names>D. B.</given-names>
+</string-name> (<year>2011</year>). <article-title>Bird's response to revegetation of different structure and floristics&#x02014;Are &#x0201c;Restoration Plantings&#x0201d; restoring bird communities?</article-title>
+<source xml:lang="en">Restoration Ecology</source>, <volume>19</volume>(<issue>201</issue>), <fpage>223</fpage>&#x02013;<lpage>235</lpage>. <pub-id pub-id-type="doi">10.1111/j.1526-100X.2010.00703.x</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0072"><mixed-citation publication-type="book" id="ece35874-cit-0072">
+<string-name>
+<surname>Neldner</surname>, <given-names>V. J.</given-names>
+</string-name>, <string-name>
+<surname>Niehus</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>, <given-names>W. J. F.</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>, <given-names>A. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Accad</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>). <source xml:lang="en">The vegetation of Queensland. Descriptions of broad vegetation groups. Version 3</source>. <publisher-loc>Brisbane, Qld</publisher-loc> Retrieved from <ext-link ext-link-type="uri" xlink:href="https://publications.qld.gov.au/dataset/redd/resource/78209e74-c7f2-4589-90c1-c33188359086">https://publications.qld.gov.au/dataset/redd/resource/78209e74-c7f2-4589-90c1-c33188359086</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0073"><mixed-citation publication-type="journal" id="ece35874-cit-0073">
+<string-name>
+<surname>Paul</surname>, <given-names>K. I.</given-names>
+</string-name>, <string-name>
+<surname>Cunningham</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>England</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Roxburgh</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>Preece</surname>, <given-names>N. D.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Polglase</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Managing reforestation to sequester carbon, increase biodiversity potential and minimize loss of agricultural land</article-title>. <source xml:lang="en">Land Use Policy</source>, <volume>51</volume>, <fpage>135</fpage>&#x02013;<lpage>149</lpage>. <pub-id pub-id-type="doi">10.1016/j.landusepol.2015.10.027</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0074"><mixed-citation publication-type="journal" id="ece35874-cit-0074">
+<string-name>
+<surname>Paul</surname>, <given-names>K. I.</given-names>
+</string-name>, <string-name>
+<surname>Roxburgh</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>Chave</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>England</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Zerihun</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Specht</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Sinclair</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Testing the generality of above&#x02010;ground biomass allometry across plant functional types at the continent scale</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>22</volume>(<issue>6</issue>), <fpage>2106</fpage>&#x02013;<lpage>2124</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.13201</pub-id>
+<pub-id pub-id-type="pmid">26683241</pub-id></mixed-citation></ref><ref id="ece35874-bib-0075"><mixed-citation publication-type="journal" id="ece35874-cit-0075">
+<string-name>
+<surname>Paul</surname>, <given-names>K. I.</given-names>
+</string-name>, <string-name>
+<surname>Roxburgh</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>de Ligt</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ritson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Brooksbank</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Peck</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Clifford</surname>, <given-names>D.</given-names>
+</string-name> (<year>2015</year>). <article-title>Estimating temporal changes in carbon sequestration in plantings of mallee eucalypts: Modelling improvements</article-title>. <source xml:lang="en">Forest Ecology and Management</source>, <volume>335</volume>, <fpage>166</fpage>&#x02013;<lpage>175</lpage>. <pub-id pub-id-type="doi">10.1016/j.foreco.2014.09.035</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0076"><mixed-citation publication-type="journal" id="ece35874-cit-0076">
+<string-name>
+<surname>Paul</surname>, <given-names>K. I.</given-names>
+</string-name>, <string-name>
+<surname>Roxburgh</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>England</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>de Ligt</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Larmour</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Brooksbank</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>John Raison</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Improved models for estimating temporal changes in carbon sequestration in above&#x02010;ground biomass of mixed&#x02010;species environmental plantings</article-title>. <source xml:lang="en">Forest Ecology and Management</source>, <volume>338</volume>, <fpage>208</fpage>&#x02013;<lpage>218</lpage>. <pub-id pub-id-type="doi">10.1016/j.foreco.2014.11.025</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0077"><mixed-citation publication-type="book" id="ece35874-cit-0077">
+<string-name>
+<surname>Paul</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Roxburgh</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Raison</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Larmour</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>England</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Lothian</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>). <source xml:lang="en">Improved estimation of biomass accumulation by environmental planting and mallee plantings using FullCAM</source>. <publisher-loc>Canberra, ACT</publisher-loc> Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.environment.gov.au/climate-change/climate-science-data/greenhouse-gas-measurement/publications/estimation-biomass-accumulation">https://www.environment.gov.au/climate-change/climate-science-data/greenhouse-gas-measurement/publications/estimation-biomass-accumulation</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0078"><mixed-citation publication-type="journal" id="ece35874-cit-0078">
+<string-name>
+<surname>Pichancourt</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name>
+<surname>Firn</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chades</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Martin</surname>, <given-names>T. G.</given-names>
+</string-name> (<year>2014</year>). <article-title>Growing biodiverse carbon&#x02010;rich forests</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>20</volume>(<issue>2</issue>), <fpage>382</fpage>&#x02013;<lpage>393</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.12345</pub-id>
+<pub-id pub-id-type="pmid">23913584</pub-id></mixed-citation></ref><ref id="ece35874-bib-0079"><mixed-citation publication-type="book" id="ece35874-cit-0079">
+<string-name>
+<surname>Pinheiro</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bates</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>DebRoy</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sarkar</surname>, <given-names>D.</given-names>
+</string-name>, <collab collab-type="authors">EISPACK</collab>
+, <string-name>
+<surname>Heisterkamp</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <collab collab-type="authors">R Core</collab>
+(<year>2019</year>). <source xml:lang="en">nlme: Linear and Nonlinear Mixed Effects Models. Version 3.1&#x02010;141</source>.</mixed-citation></ref><ref id="ece35874-bib-0080"><mixed-citation publication-type="book" id="ece35874-cit-0080">
+<collab collab-type="authors">R Core Team</collab>
+(<year>2019</year>). <source xml:lang="en">R: A language and environment for statistical computing (Version 3.6.1)</source>. <publisher-loc>Vienna, Austria</publisher-loc>: <publisher-name>R Foundation for Statistical Computing</publisher-name> Retrieved from <ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/">https://cran.r-project.org/</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0081"><mixed-citation publication-type="journal" id="ece35874-cit-0081">
+<string-name>
+<surname>Ratcliffe</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wirth</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Jucker</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>van der Plas</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Scherer&#x02010;Lorenzen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Verheyen</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Baeten</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Biodiversity and ecosystem functioning relations in European forests depend on environmental context</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>20</volume>(<issue>11</issue>), <fpage>1414</fpage>&#x02013;<lpage>1426</lpage>. <pub-id pub-id-type="doi">10.1111/ele.12849</pub-id>
+<pub-id pub-id-type="pmid">28925074</pub-id></mixed-citation></ref><ref id="ece35874-bib-0082"><mixed-citation publication-type="journal" id="ece35874-cit-0082">
+<string-name>
+<surname>Reich</surname>, <given-names>P. B.</given-names>
+</string-name>, <string-name>
+<surname>Tilman</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Isbell</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Mueller</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hobbie</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Flynn</surname>, <given-names>D. F. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Eisenhauer</surname>, <given-names>N.</given-names>
+</string-name> (<year>2012</year>). <article-title>Impacts of biodiversity loss escalate through time as redundancy fades</article-title>. <source xml:lang="en">Science</source>, <volume>336</volume>(<issue>6081</issue>), <fpage>589</fpage>
+<pub-id pub-id-type="doi">10.1126/science.1217909</pub-id>
+<pub-id pub-id-type="pmid">22556253</pub-id></mixed-citation></ref><ref id="ece35874-bib-0083"><mixed-citation publication-type="journal" id="ece35874-cit-0083">
+<string-name>
+<surname>Reid</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Mendenhall</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Rosales</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Zahawi</surname>, <given-names>R. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Holl</surname>, <given-names>K. D.</given-names>
+</string-name> (<year>2014</year>). <article-title>Landscape context mediates avian habitat choice in tropical forest restoration</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>9</volume>(<issue>3</issue>), <elocation-id>e90573</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0090573</pub-id>
+<pub-id pub-id-type="pmid">24595233</pub-id></mixed-citation></ref><ref id="ece35874-bib-0084"><mixed-citation publication-type="book" id="ece35874-cit-0084">
+<string-name>
+<surname>Rosenzweig</surname>, <given-names>M. L.</given-names>
+</string-name> (<year>1995</year>). <source xml:lang="en">Species diversity in space and time</source>. <publisher-loc>Cambridge, UK</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>.</mixed-citation></ref><ref id="ece35874-bib-0085"><mixed-citation publication-type="journal" id="ece35874-cit-0085">
+<string-name>
+<surname>Shanahan</surname>, <given-names>D. F.</given-names>
+</string-name>, <string-name>
+<surname>Possingham</surname>, <given-names>H. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Martin</surname>, <given-names>T. G.</given-names>
+</string-name> (<year>2011</year>). <article-title>Foraging height and landscape context predict the relative abundance of bird species in urban vegetation patches</article-title>. <source xml:lang="en">Austral Ecology</source>, <volume>36</volume>(<issue>8</issue>), <fpage>944</fpage>&#x02013;<lpage>953</lpage>. <pub-id pub-id-type="doi">10.1111/j.1442-9993.2010.02225.x</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0086"><mixed-citation publication-type="book" id="ece35874-cit-0086">
+<string-name>
+<surname>Shipley</surname>, <given-names>B.</given-names>
+</string-name> (<year>2016</year>). <source xml:lang="en">Cause and correlation in biology a user's guide to path analysis, structural equations and causal inference with R</source> (<edition designator="2">2nd ed.</edition>). <publisher-loc>Cambridge, UK</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>.</mixed-citation></ref><ref id="ece35874-bib-0087"><mixed-citation publication-type="journal" id="ece35874-cit-0087">
+<string-name>
+<surname>Staples</surname>, <given-names>T. L.</given-names>
+</string-name>, <string-name>
+<surname>Dwyer</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>England</surname>, <given-names>J. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mayfield</surname>, <given-names>M. M.</given-names>
+</string-name> (<year>2019</year>). <article-title>Productivity does not correlate with species and functional diversity in Australian reforestation plantings across a wide climate gradient</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>28</volume>(<issue>10</issue>), <fpage>1417</fpage>&#x02013;<lpage>1429</lpage>. <pub-id pub-id-type="doi">10.1111/geb.12962</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0088"><mixed-citation publication-type="journal" id="ece35874-cit-0088">
+<string-name>
+<surname>Stephens</surname>, <given-names>M. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Grist</surname>, <given-names>P.</given-names>
+</string-name> (<year>2014</year>). <article-title>Market failure for plantations: Past experiences and emerging trends for delivering wood production and ecosystem services in Australia</article-title>. <source xml:lang="en">The International Forestry Review</source>, <volume>16</volume>(<issue>2</issue>), <fpage>205</fpage>&#x02013;<lpage>215</lpage>. <pub-id pub-id-type="doi">10.1505/146554814811724784</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0089"><mixed-citation publication-type="journal" id="ece35874-cit-0089">
+<string-name>
+<surname>Sullivan</surname>, <given-names>M. J. P.</given-names>
+</string-name>, <string-name>
+<surname>Talbot</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>, <given-names>O. L.</given-names>
+</string-name>, <string-name>
+<surname>Qie</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Begne</surname>, <given-names>S. K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zemagho</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Diversity and carbon storage across the tropical forest biome</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>7</volume>, <fpage>39102</fpage>
+<pub-id pub-id-type="doi">10.1038/srep39102</pub-id>
+<pub-id pub-id-type="pmid">28094794</pub-id></mixed-citation></ref><ref id="ece35874-bib-0090"><mixed-citation publication-type="book" id="ece35874-cit-0090">
+<collab collab-type="authors">United Nations Environment Programme</collab>
+(<year>2019</year>). <source xml:lang="en">UN decade on ecosystem restoration 2021&#x02013;2030</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.unenvironment.org/news-and-stories/press-release/new-un-decade-ecosystem-restoration-offers-unparalleled-opportunity">https://www.unenvironment.org/news-and-stories/press-release/new-un-decade-ecosystem-restoration-offers-unparalleled-opportunity</ext-link>
+</mixed-citation></ref><ref id="ece35874-bib-0091"><mixed-citation publication-type="journal" id="ece35874-cit-0091">
+<string-name>
+<surname>Val</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Eldridge</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Travers</surname>, <given-names>S. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Oliver</surname>, <given-names>I.</given-names>
+</string-name> (<year>2018</year>). <article-title>Livestock grazing reinforces the competitive exclusion of small&#x02010;bodied birds by large aggressive birds</article-title>. <source xml:lang="en">Journal of Applied Ecology</source>, <volume>55</volume>(<issue>4</issue>), <fpage>1919</fpage>&#x02013;<lpage>1929</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2664.13078</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0092"><mixed-citation publication-type="journal" id="ece35874-cit-0092">
+<string-name>
+<surname>Vesk</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Nolan</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Thomson</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Dorrough</surname>, <given-names>J. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mac Nally</surname>, <given-names>R.</given-names>
+</string-name> (<year>2008</year>). <article-title>Time lags in provision of habitat resources through revegetation</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>141</volume>(<issue>1</issue>), <fpage>174</fpage>&#x02013;<lpage>186</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2007.09.010</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0093"><mixed-citation publication-type="journal" id="ece35874-cit-0093">
+<string-name>
+<surname>Vil&#x000e0;</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Carrillo&#x02010;Gavil&#x000e1;n</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vayreda</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bugmann</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Fridman</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Grodzki</surname>, <given-names>W.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Trasobares</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Disentangling biodiversity and climatic determinants of wood production</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>(<issue>2</issue>), <elocation-id>e53530</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0053530</pub-id>
+<pub-id pub-id-type="pmid">23437038</pub-id></mixed-citation></ref><ref id="ece35874-bib-0094"><mixed-citation publication-type="journal" id="ece35874-cit-0094">
+<string-name>
+<surname>Watson</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2003</year>). <article-title>The &#x02018;standardized search&#x02019;: An improved way to conduct bird surveys</article-title>. <source xml:lang="en">Austral Ecology</source>, <volume>28</volume>(<issue>5</issue>), <fpage>515</fpage>&#x02013;<lpage>525</lpage>. <pub-id pub-id-type="doi">10.1046/j.1442-9993.2003.01308.x</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0095"><mixed-citation publication-type="journal" id="ece35874-cit-0095">
+<string-name>
+<surname>White</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>Antos</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Fitzsimons</surname>, <given-names>J. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Palmer</surname>, <given-names>G. C.</given-names>
+</string-name> (<year>2005</year>). <article-title>Non&#x02010;uniform bird assemblages in urban environments: The influence of streetscape vegetation</article-title>. <source xml:lang="en">Landscape and Urban Planning</source>, <volume>71</volume>(<issue>2</issue>), <fpage>123</fpage>&#x02013;<lpage>135</lpage>. <pub-id pub-id-type="doi">10.1016/j.landurbplan.2004.02.006</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0096"><mixed-citation publication-type="journal" id="ece35874-cit-0096">
+<string-name>
+<surname>Whytock</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Fuentes&#x02010;Montemayor</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Watts</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Barbosa De Andrade</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Whytock</surname>, <given-names>R. T.</given-names>
+</string-name>, <string-name>
+<surname>French</surname>, <given-names>P.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Park</surname>, <given-names>K. J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Bird&#x02010;community responses to habitat creation in a long&#x02010;term, large&#x02010;scale natural experiment</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>32</volume>(<issue>2</issue>), <fpage>345</fpage>&#x02013;<lpage>354</lpage>. <pub-id pub-id-type="doi">10.1111/cobi.12983</pub-id>
+<pub-id pub-id-type="pmid">28685859</pub-id></mixed-citation></ref><ref id="ece35874-bib-0097"><mixed-citation publication-type="journal" id="ece35874-cit-0097">
+<string-name>
+<surname>Willig</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Kaufman</surname>, <given-names>D. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stevens</surname>, <given-names>R. D.</given-names>
+</string-name> (<year>2003</year>). <article-title>Latitudinal gradients of biodiversity: Pattern, process, scale, and synthesis</article-title>. <source xml:lang="en">Annual Review of Ecology, Evolution, and Systematics</source>, <volume>34</volume>(<issue>1</issue>), <fpage>273</fpage>&#x02013;<lpage>309</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.34.012103.144032</pub-id>
+</mixed-citation></ref><ref id="ece35874-bib-0098"><mixed-citation publication-type="journal" id="ece35874-cit-0098">
+<string-name>
+<surname>Woinarski</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Woolley</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Garnett</surname>, <given-names>S. T.</given-names>
+</string-name>, <string-name>
+<surname>Legge</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>, <given-names>B. P.</given-names>
+</string-name>, <string-name>
+<surname>Lawes</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Paton</surname>, <given-names>D.</given-names>
+</string-name> (<year>2017</year>). <article-title>Compilation and traits of Australian bird species killed by cats</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>216</volume>, <fpage>1</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2017.09.017</pub-id>
+</mixed-citation></ref></ref-list></back></article>

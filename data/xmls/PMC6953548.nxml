@@ -1,0 +1,453 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938500</article-id><article-id pub-id-type="pmc">6953548</article-id><article-id pub-id-type="doi">10.1002/ece3.5839</article-id><article-id pub-id-type="publisher-id">ECE35839</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Effect of enclosure on reproductive allocation of wheatgrass <italic>Agropyron mongolicum</italic> populations in desert steppes</article-title><alt-title alt-title-type="left-running-head">LI et al.</alt-title></title-group><contrib-group><contrib id="ece35839-cr-0001" contrib-type="author" corresp="yes"><name><surname>Li</surname><given-names>Guoqi</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6176-3621</contrib-id><xref ref-type="aff" rid="ece35839-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35839-aff-0002">
+<sup>2</sup>
+</xref><address><email>guoqilee@163.com</email></address></contrib><contrib id="ece35839-cr-0002" contrib-type="author"><name><surname>Zhao</surname><given-names>Panpan</given-names></name><xref ref-type="aff" rid="ece35839-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35839-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35839-cr-0003" contrib-type="author"><name><surname>Shao</surname><given-names>Wenshan</given-names></name><xref ref-type="aff" rid="ece35839-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35839-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35839-cr-0004" contrib-type="author"><name><surname>Jin</surname><given-names>Changqing</given-names></name><xref ref-type="aff" rid="ece35839-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35839-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35839-cr-0005" contrib-type="author"><name><surname>Song</surname><given-names>Lixiao</given-names></name><xref ref-type="aff" rid="ece35839-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35839-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35839-cr-0006" contrib-type="author"><name><surname>Chen</surname><given-names>Yanyun</given-names></name><xref ref-type="aff" rid="ece35839-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35839-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="ece35839-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Breeding Base for State Key Laboratory of Land Degradation and Ecological Restoration in Northwest China</named-content>
+<institution>Ningxia University</institution>
+<city>Yinchuan</city>
+<country country="CN">China</country>
+</aff><aff id="ece35839-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Key Laboratory for Recovery and Restoration of Degraded Ecosystem in North&#x02010;western China of Ministry of Education</named-content>
+<institution>Ningxia University</institution>
+<city>Yinchuan</city>
+<country country="CN">China</country>
+</aff><aff id="ece35839-aff-0003">
+<label><sup>3</sup></label>
+<institution>Forestry Technology Extension Center of Liangzhou District of Wuwei City in Gansu Province</institution>
+<city>Wuwei</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Guoqi Li, Breeding Base for State Key Laboratory of Land Degradation and Ecological Restoration in Northwest China, Ningxia University, Yinchuan, Ningxia 750021, China.<break/>
+Email: <email>guoqilee@163.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>19</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14023</fpage><lpage>14030</lpage><history><date date-type="received"><day>26</day><month>2</month><year>2019</year></date><date date-type="rev-recd"><day>08</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>11</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14023.pdf"/><abstract id="ece35839-abs-0001"><title>Abstract</title><p>Plants generally adopt different reproductive strategies to adapt to their environments and increase their fitness. Here, we studied the effects of enclosure cultivation on the reproductive allocation of a wheatgrass species <italic>Agropyron mongolicum</italic> in the Desert steppes of Northern China. The results showed that: (a) after enclosure cultivation, the height, clump width, coverage, and clump biomass of <italic>A.&#x000a0;mongolicum</italic> significantly increased by 78.96% (<italic>p</italic>&#x000a0;=&#x000a0;.040), 63.50% (<italic>p</italic>&#x000a0;=&#x000a0;.013), 50.89% (<italic>p</italic>&#x000a0;=&#x000a0;.032), and 205.38% (<italic>p</italic>&#x000a0;=&#x000a0;.022), respectively, whereas density did not show a significant change (<italic>p</italic>&#x000a0;=&#x000a0;.330). (b) Enclosure cultivation significantly affected the biomass of <italic>A.&#x000a0;mongolicum</italic>. Compared with cultivation outside the fence, root, leaf, and spike biomass of <italic>A.&#x000a0;mongolicum</italic> inside the fence significantly increased by 183.52% (<italic>p</italic>&#x000a0;=&#x000a0;.020), 334.09% (<italic>p</italic>&#x000a0;=&#x000a0;.011), and 381.25% (<italic>p</italic>&#x000a0;=&#x000a0;.005), respectively. In addition, root biomass was the highest among the components (38.53 and 13.59&#x000a0;g inside and outside the fence, respectively) and spike biomass was the lowest (6.16 and 1.28&#x000a0;g inside and outside the fence, respectively). (c) Enclosure cultivation affected elemental nutrient allocation and the caloric values of various components of <italic>A.&#x000a0;mongolicum</italic>, and the caloric values are positively correlated with carbon, nitrogen, and phosphorus contents. Enclosure cultivation significantly reduced carbon, nitrogen, and phosphorus in the roots, as well as nitrogen and phosphorus in the spikes, but significantly increased nitrogen in the spikes by 9.78%. The caloric values of <italic>A.&#x000a0;mongolicum</italic> inside and outside the fence in decreasing order were as follows: spikes&#x000a0;&#x0003e;&#x000a0;leaves&#x000a0;&#x0003e;&#x000a0;stems&#x000a0;&#x0003e;&#x000a0;roots. Comparison of cultivation effects between inside and outside the fence showed that the caloric values of the spikes and roots significantly increased by 0.92% and 1.60%, respectively, whereas those of the leaves significantly decreased by 0.70%. Our results demonstrate that the reproductive allocation of elemental nutrients and caloric values in nonreproductive and reproductive organs are plastic to arid environments.</p></abstract><abstract abstract-type="graphical" id="ece35839-abs-0002"><p>Enclosure cultivation affected elemental nutrient allocation and the caloric values of various components of <italic>Agropyron mongolicum</italic>, and the caloric values showed extremely significant positive correlation with carbon, nitrogen, and phosphorus content.<boxed-text position="anchor" content-type="graphic" id="ece35839-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14023-g005.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35839-kwd-0001"><italic>Agropyron mongolicum</italic></kwd><kwd id="ece35839-kwd-0002">desert steppes</kwd><kwd id="ece35839-kwd-0003">enclosure</kwd><kwd id="ece35839-kwd-0004">reproductive allocation</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Integration and Demonstration of Ecological Restoration and Protection Technologies in Mining Area</funding-source><award-id>2017YFC0504406</award-id></award-group><award-group id="funding-0002"><funding-source>National Science Foundation of China</funding-source><award-id>31540007</award-id></award-group><award-group id="funding-0003"><funding-source>Construction Project of the First Class University in Western China, Ningxia University</funding-source><award-id>GZXM2017001</award-id></award-group><award-group id="funding-0004"><funding-source>First Class Discipline Construction Project in College of Ningxia Hui Autonomous Region</funding-source><award-id>NXYLXK2017B06</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="8"/><word-count count="5833"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35839-cit-1001">
+<string-name>
+<surname>Li</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Effect of enclosure on reproductive allocation of wheatgrass <italic>Agropyron mongolicum</italic> populations in desert steppes</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14023</fpage>&#x02013;<lpage>14030</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5839</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35839-body-0001"><sec id="ece35839-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Plant reproductive allocation refers to the net investment of resources in the reproduction of plants (Karlsson &#x00026; M&#x000e9;ndez, <xref rid="ece35839-bib-0017" ref-type="ref">2005</xref>), which can reflect the response and adaptation of plant growth and development to the environment to some extent (Atson, Geber, &#x00026; Jones, <xref rid="ece35839-bib-0001" ref-type="ref">1995</xref>; Li, Li, &#x00026; Liu, <xref rid="ece35839-bib-0020" ref-type="ref">2004</xref>; Schmid, <xref rid="ece35839-bib-0027" ref-type="ref">1990</xref>). Plant reproduction traits are associated with specific resource utilization strategies during succession. For example, acquisitive species may invest less energy and resources on reproduction in early succession, while conservative species may invest more energy and resources on reproduction in late succession (Han et al., <xref rid="ece35839-bib-0010" ref-type="ref">2019</xref>). In a general sense, specific reproductive allocation strategies result from the self&#x02010;organization processes toward optimal resource allocation patterns during the entire life history, which can eventually improve plant fitness (Cheplick, <xref rid="ece35839-bib-0004" ref-type="ref">2005</xref>; He &#x00026; Zhong, <xref rid="ece35839-bib-0012" ref-type="ref">1997</xref>).</p><p>Desert steppes have harsh environmental conditions that severely limit the growth, development, and reproduction of plants. Such stressful conditions (generally characterized by drought) often give rise to unique reproductive allocation strategies through long&#x02010;term adaptation and selection (Zhang et al., <xref rid="ece35839-bib-0039" ref-type="ref">2005</xref>). Apart from environmental stress, livestock may also play an important role in shaping plant reproductive allocation strategies in desert steppe ecosystems, for example, grazing affects on biomass and morphology variation (Motamedi, Sheidai Karkaj, &#x00026; Alilou, <xref rid="ece35839-bib-0023" ref-type="ref">2016</xref>), plant diversity and grassland productivity (Zhang et al., <xref rid="ece35839-bib-0040" ref-type="ref">2018</xref>), plant community composition (Porensky, Derne, Augustine, &#x00026; Milchunas, <xref rid="ece35839-bib-0025" ref-type="ref">2016</xref>). However, so far, the long&#x02010;term effect of livestock on plant reproductive strategies remains elusive due to the lack of experimental evidence.</p><p>In this study, we aim at tackling this difficulty using a long&#x02010;term enclosure experiment carried out through the &#x0201c;Grain&#x02010;for&#x02010;Green Project&#x0201d; in China. The Grain&#x02010;for&#x02010;Green Project is a large&#x02010;scale ecological restoration program implemented by the Chinese national government since the year 2000 onwards, aiming at returning cultivated lands to forests or perennial grasslands across the whole China. By the year 2014, through this project, a total degraded area of 29.9 million ha had been successfully restored (Lv, Ma, &#x00026; Peng, <xref rid="ece35839-bib-0022" ref-type="ref">2019</xref>). In drylands, grazing enclosure has been identified as an effective measure of this project for the purpose of restoring degraded rangelands due to overgrazing (Deng, Shangguan, Wu, &#x00026; Chang, <xref rid="ece35839-bib-0005" ref-type="ref">2017</xref>). Our study site is located in the Yanchi County, Ningxia Autonomous Region, Northwestern China, where grazing enclosure (as a part of the national Grain&#x02010;for&#x02010;Green Project) has been implemented through fencing in a typical temperate desert steppe ecosystem since 2000. All livestock including cattle, sheep and goats are completely removed inside the fences. This implementation of fencing makes a suitable system for studying the long&#x02010;term effect of livestock on plant reproduction strategy. Here, we focused on the perennial grass species <italic>Agropyron mongolicum</italic> as the dominant plant species in our study site. Trade&#x02010;off between growth and reproduction of plants can be reflected by a range of plant traits including biomass, elemental nutrients and caloric values (Bao et al., <xref rid="ece35839-bib-0003" ref-type="ref">2006</xref>; Xu et al., <xref rid="ece35839-bib-0032" ref-type="ref">2014</xref>; Zhao, <xref rid="ece35839-bib-0042" ref-type="ref">2007</xref>). Our specific aims are to (a) examine changes in module biomass induced by grazing enclosure; (b) compare module elemental nutrients, and caloric values of plants between the conditions with and without fencing; and (c) analyze correlation among biomass, caloric values, and elemental nutrient contents of various components of <italic>A.&#x000a0;mongolicum</italic> populations under enclosure cultivation. We hypothesized that the reproductive allocation of <italic>A.&#x000a0;mongolicum</italic> will change as a result of the 18&#x02010;year grazing enclosure.</p></sec><sec sec-type="materials-and-methods" id="ece35839-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35839-sec-0003"><label>2.1</label><title>Study species</title><p>Mongolian wheatgrass <italic>A.&#x000a0;mongolicum</italic> is a perennial grass belonging to family Gramineae. This grass species has high adaptability (Zhao, <xref rid="ece35839-bib-0041" ref-type="ref">2004</xref>) with strong anti&#x02010;drought, anti&#x02010;cold, and wind and sand resistance. <italic>Agropyron mongolicum</italic> is often seen in grasslands and desert steppes as an accompanying species (Yun &#x00026; Mi, <xref rid="ece35839-bib-0037" ref-type="ref">1989</xref>) and is a superior forage grass. Figure <xref rid="ece35839-fig-0001" ref-type="fig">1</xref> showed the partial overview of field experimental plots and the spikes of <italic>A.&#x000a0;mongolicum</italic>. The perennial grass species <italic>A.&#x000a0;mongolicum</italic> and <italic>Stipa capillata</italic> have become the dominant plant species after the 18&#x02010;year fencing. The shrub species <italic>Caragana korshinskii</italic> can be occasionally found inside the fences, whereas the shrub species <italic>C.&#x000a0;korshinskii</italic> and poisonous plant species <italic>Cynanchum komarovii</italic> are the main species outside the fences (Li, Shao, Zhao, &#x00026; Jin, <xref rid="ece35839-bib-0019" ref-type="ref">2018</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35839-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>A partial overview of field experimental plots and a photo of <italic>Agropyron mongolicum</italic>
+</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14023-g001"/></fig></sec><sec id="ece35839-sec-0004"><label>2.2</label><title>Overview of study site</title><p>The study site is located in the Sidunzi Village of Yanchi County, which is in the eastern part of Ningxia Autonomous Region, China (E106&#x000b0;30&#x02032;10&#x02033;&#x02013;107&#x000b0;48&#x02032;, N37&#x000b0;04&#x02032;&#x02013;38&#x000b0;10&#x02032;). It is located on the southwestern edge of the Mu Us Sandyland and in a transition region between the Loess Plateau and the Ordos Plateau. The site has adverse natural conditions, and the climate is mid&#x02010;temperate continental monsoon climate. The mean annual temperature is 7.7&#x000b0;C, and the mean annual precipitation is 250&#x02013;350&#x000a0;mm, which is mostly concentrated in June to September. Annual evaporation is around 2,500&#x000a0;mm, and the annual frost&#x02010;free period is 165&#x000a0;days. The terrain consists of gently sloping hills (Li et al., <xref rid="ece35839-bib-0019" ref-type="ref">2018</xref>). The soil mainly consists of gray calcium soil, aeolian sandy soil, and loessial soil. Soil texture is sandy and silty (Yang, Yang, Wang, &#x00026; Jia, <xref rid="ece35839-bib-0034" ref-type="ref">2003</xref>). The study site is a transition zone in a temperate grassland in China, which comprises the Eurasian steppes. The community shows a mosaic distribution pattern of xerophytic plants and perennial grasses as structural species of typical grasslands. The predominant species of the study site include <italic>A.&#x000a0;mongolicum</italic>, <italic>A.&#x000a0;scoparia</italic>, <italic>A.&#x000a0;scoparia</italic>, <italic>Lespedeza potaninii</italic>, <italic>C.&#x000a0;komarovii</italic>, <italic>Stipaca pillata</italic> and <italic>Caragana crororshisrii</italic> (Shao, Li, Chen, &#x00026; Zhao, <xref rid="ece35839-bib-0028" ref-type="ref">2016</xref>). Figure <xref rid="ece35839-fig-0002" ref-type="fig">2</xref> showed the locations of the sampling sites.</p><fig fig-type="Figure" xml:lang="en" id="ece35839-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>The locations of the sampling sites (a: China, b: Ningxia, c: Yanchi, d: Sampling sites)</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14023-g002"/></fig></sec><sec id="ece35839-sec-0005"><label>2.3</label><title>Study methods</title><sec id="ece35839-sec-0006"><label>2.3.1</label><title>Sampling</title><p>In early August 2017, which is the maturation period for <italic>A.&#x000a0;mongolicum</italic> seeds, we randomly selected three 100&#x000a0;m<sup>2</sup> (10&#x000a0;m&#x000a0;&#x000d7;&#x000a0;10&#x000a0;m) large quadrats along diagonal lines in a 16&#x02010;year enclosed (enclosure constructed in 2001, total coverage: 65%&#x02013;75%) and nonenclosed (total coverage of 40%&#x02013;50%) plots at locations with the same climatic conditions and geographical positions. One 4&#x000a0;m&#x000a0;&#x000d7;&#x000a0;4&#x000a0;m medium quadrat is set up at each of the four corners of the large quadrat before five 1&#x000a0;m&#x000a0;&#x000d7;&#x000a0;1&#x000a0;m small quadrats were set up in a quincunx. Each sample plot contains 60 small quadrats, making a total of 120 quadrats. The height, coverage, clump width, and density of <italic>A.&#x000a0;mongolicum</italic> in each small quadrat were recorded. Then, 30 clumps of <italic>A.&#x000a0;mongolicum</italic> were randomly selected, and the clumps were completely dug up to 1&#x000a0;m depth due to deep root, so that the biomass of the entire clump could be obtained. After the collected samples were transported to the laboratory, the aboveground organs were separated into vegetative and reproductive branches. The stems and leaves of the vegetative branches and the stems, leaves, and spikes of the reproductive branches were separated. Weeds and dead roots were removed from the belowground organs before washing the belowground organs. The components were packed in paper bags and dried at 65&#x000b0;C until constant weight and then weighed. The components were crushed, and the caloric values and elemental nutrient contents of the components were measured. The conventional methods were adopted to calculate plants height, clump width, coverage, density and total biomass (Zhang, <xref rid="ece35839-bib-0038" ref-type="ref">2004</xref>).</p></sec><sec id="ece35839-sec-0007"><label>2.3.2</label><title>Measurements of nutrients and caloric values</title><p>The total carbon, total nitrogen, total phosphorus and caloric values of plant module (roots, stems, leaves, and spikes) were measured in 2017. Total carbon measured by Potassium dichromate volumetric method&#x02010;external heating method, total nitrogen measured by semi&#x02010;micro Kjeldahl method, total phosphorus measured by Mo&#x02010;Sb colorimetric method (Bao, <xref rid="ece35839-bib-0002" ref-type="ref">2000</xref>). After air&#x02010;drying, fresh samples were ground and passed through a 2&#x000a0;mm sieve, dried at 65&#x000b0;C to constant weight. Caloric values were measured by ZDHW&#x02010;6 automatic calorimeter with three replicates (Xu, Zhang, Feng, &#x00026; Zhang, <xref rid="ece35839-bib-0033" ref-type="ref">2003</xref>).</p></sec><sec id="ece35839-sec-0008"><label>2.3.3</label><title>Data analysis</title><p>Paired <italic>t</italic> test in ANOVA was used for significance analysis (<italic>&#x003b1;</italic>&#x000a0;=&#x000a0;.05) on comparing each class between inside and outside fences. Pearson's correlation coefficient analysis was used to determine correlation between three components including biomass, caloric value, and nutrient elements content. SPSS 17.0 was used for data processing. Microsoft Excel 2010 was used for data organization and graph plotting for experimental data.</p></sec></sec></sec><sec id="ece35839-sec-0009"><label>3</label><title>RESULTS AND ANALYSIS</title><sec id="ece35839-sec-0010"><label>3.1</label><title>Effects of enclosure cultivation on the characteristics of <italic>A.&#x000a0;mongolicum</italic> populations</title><p>Table <xref rid="ece35839-tbl-0001" ref-type="table">1</xref> shows that after enclosure cultivation, the height, clump width, coverage, and clump biomass of the <italic>A.&#x000a0;mongolicum</italic> populations significantly increased by 78.96% (<italic>p</italic>&#x000a0;=&#x000a0;.040), 63.50% (<italic>p</italic>&#x000a0;=&#x000a0;.013), 50.89% (<italic>p</italic>&#x000a0;=&#x000a0;.032), and 205.38% (<italic>p</italic>&#x000a0;=&#x000a0;.022), respectively. Density did not change (<italic>p</italic>&#x000a0;=&#x000a0;.330).</p><table-wrap id="ece35839-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Population characteristics of <italic>Agropyron mongolicum</italic> inside and outside the fence</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Item</th><th align="left" valign="top" rowspan="1" colspan="1">Inside the fence</th><th align="left" valign="top" rowspan="1" colspan="1">Outside the fence</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Height (cm)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">57.57&#x000a0;&#x000b1;&#x000a0;3.86<xref ref-type="fn" rid="ece35839-note-0501">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">32.17&#x000a0;&#x000b1;&#x000a0;1.51</td></tr><tr><td align="left" rowspan="1" colspan="1">Clump width (cm)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">77.17&#x000a0;&#x000b1;&#x000a0;6.35<xref ref-type="fn" rid="ece35839-note-0501">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">47.20&#x000a0;&#x000b1;&#x000a0;2.88</td></tr><tr><td align="left" rowspan="1" colspan="1">Coverage (%)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">59.63&#x000a0;&#x000b1;&#x000a0;2.35<xref ref-type="fn" rid="ece35839-note-0501">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">39.52&#x000a0;&#x000b1;&#x000a0;1.36</td></tr><tr><td align="left" rowspan="1" colspan="1">Density (clump/m<sup>2</sup>)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.73&#x000a0;&#x000b1;&#x000a0;2.44</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">6.80&#x000a0;&#x000b1;&#x000a0;0.81</td></tr><tr><td align="left" rowspan="1" colspan="1">Total biomass (g/clump)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">88.04&#x000a0;&#x000b1;&#x000a0;7.71<xref ref-type="fn" rid="ece35839-note-0501">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">28.83&#x000a0;&#x000b1;&#x000a0;1.57</td></tr></tbody></table><table-wrap-foot id="ece35839-ntgp-0001"><title>Note</title><fn id="ece35839-note-0500"><label>*</label><p>Significant correlation at the &#x0003c;0.05 level.</p></fn><fn id="ece35839-note-0501"><label>**</label><p>Significant correlation at the &#x0003c;0.01 level.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece35839-sec-0011"><label>3.2</label><title>Effects of enclosure cultivation on the biomass of various components of <italic>A.&#x000a0;mongolicum</italic>
+</title><p>Figure <xref rid="ece35839-fig-0003" ref-type="fig">3</xref> shows that the biomass of the roots, stems, leaves, and spikes of <italic>A.&#x000a0;mongolicum</italic> grown outside the fence was 13.59, 9.56, 4.40, and 1.28&#x000a0;g, respectively. The biomass of these components in <italic>A.&#x000a0;mongolicum</italic> grown inside the fence was 38.53, 24.25, 19.10, 6.16&#x000a0;g, respectively. The biomass of <italic>A.&#x000a0;mongolicum</italic> components inside and outside the fence arranged in decreasing order was as follows: roots&#x000a0;&#x0003e;&#x000a0;stems&#x000a0;&#x0003e;&#x000a0;leaves&#x000a0;&#x0003e;&#x000a0;spikes, with root biomass significantly higher than that of the stems, leaves, and spikes. Significant differences in biomass between various components of <italic>A.&#x000a0;mongolicum</italic> grown outside the fence were observed (<italic>p</italic>&#x000a0;=&#x000a0;.0001). For <italic>A.&#x000a0;mongolicum</italic> grown inside the fence, significant differences in biomass for all components were detected, except for the stems and leaves (<italic>p</italic>&#x000a0;=&#x000a0;.021). Compared to <italic>A.&#x000a0;mongolicum</italic> grown outside the fence, the biomass of the roots, leaves, and spikes of <italic>A.&#x000a0;mongolicum</italic> significantly increased after enclosure cultivation by 183.52% (<italic>p</italic>&#x000a0;=&#x000a0;.020), 334.09% (<italic>p</italic>&#x000a0;=&#x000a0;.011), and 381.25% (<italic>p</italic>&#x000a0;=&#x000a0;.005), respectively, although stem biomass did not change (<italic>p</italic>&#x000a0;=&#x000a0;.065).</p><fig fig-type="Figure" xml:lang="en" id="ece35839-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Module biomass of <italic>Agropyron mongolicum</italic> population inside and outside the fence (Mean&#x000a0;&#x000b1;&#x000a0;<italic>SE</italic>). Different capital letters indicate the significant difference between two sample plots (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05, <italic>n</italic>&#x000a0;=&#x000a0;30)</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14023-g003"/></fig></sec><sec id="ece35839-sec-0012"><label>3.3</label><title>Effects of enclosure cultivation on elemental nutrient content in various components of <italic>A.&#x000a0;mongolicum</italic>
+</title><p>Figure <xref rid="ece35839-fig-0004" ref-type="fig">4</xref> shows the results of a comparison of allocation status of nutrients in various <italic>A.&#x000a0;mongolicum</italic> components inside and outside the fence. Inside the fence, the roots showed the lowest total carbon, total nitrogen, and total phosphorus content, whereas the spikes exhibited the highest values. Outside the fence, the roots showed the lowest total carbon, total nitrogen, and total phosphorus content, whereas the spikes exhibited the highest total nitrogen and total phosphorus content. The effects of enclosure cultivation varying among the components of the <italic>A.&#x000a0;mongolicum</italic> populations, wherein the total carbon, total nitrogen, and total phosphorus content of the roots, total nitrogen and total phosphorus contents of the spikes, and total nitrogen content of the leaves decreased significantly (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05). However, the total carbon content of the spikes significantly increased by 9.78%, whereas no significant changes in all elemental nutrients were detected in the stems.</p><fig fig-type="Figure" xml:lang="en" id="ece35839-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Nutrient allocation for each component of <italic>Agropyron mongolicum</italic> inside and outside the fence</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-14023-g004"/></fig></sec><sec id="ece35839-sec-0013"><label>3.4</label><title>Effects of enclosure cultivation on energy allocation in various components of <italic>A.&#x000a0;mongolicum</italic>
+</title><p>Table <xref rid="ece35839-tbl-0002" ref-type="table">2</xref> shows the energy allocation status in various <italic>A.&#x000a0;mongolicum</italic> components inside and outside the fence. Overall, the respective caloric values of the roots, stems, leaves, and spikes of <italic>A.&#x000a0;mongolicum</italic> grown inside the fence were 17.13, 17.17, 18.52, and 18.82&#x000a0;kJ/g, whereas those of <italic>A.&#x000a0;mongolicum</italic> grown outside the fence were 16.86, 17.32, 18.65, and 19.64&#x000a0;kJ/g. <italic>Agropyron mongolicum</italic> grown inside and outside the fence showed an increase in caloric value in this order: spikes&#x000a0;&#x0003e;&#x000a0;leaves&#x000a0;&#x0003e;&#x000a0;stems&#x000a0;&#x0003e;&#x000a0;roots. Compared to <italic>A.&#x000a0;mongolicum</italic> grown outside the fence, the caloric values of the spikes and roots after enclosure cultivation significantly increased by 0.91% (<italic>p</italic>&#x000a0;=&#x000a0;.010) and 1.60% (<italic>p</italic>&#x000a0;=&#x000a0;.042), respectively, whereas the caloric values of the leaves significantly decreased by 0.70% (<italic>p</italic>&#x000a0;=&#x000a0;.029), and no significant change was observed in the stems (<italic>p</italic>&#x000a0;=&#x000a0;.126). These findings indicate that regardless of growth site, the caloric values of all aboveground organs from <italic>A.&#x000a0;mongolicum</italic> populations were all larger than that of the underground roots. In addition, the caloric value of the reproductive organs (spikes) extremely significantly increased inside the fence compared to those outside the fence.</p><table-wrap id="ece35839-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Energy (caloric value) for each component of <italic>Agropyron mongolicum</italic> inside and outside the fence</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Plant components</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Caloric value Q/(kJ/g)</th><th align="left" rowspan="2" valign="bottom" colspan="1">
+<italic>p</italic>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Inside the fence</th><th align="left" valign="bottom" rowspan="1" colspan="1">Outside the fence</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Roots</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">17.13&#x000a0;&#x000b1;&#x000a0;0.02</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">16.86&#x000a0;&#x000b1;&#x000a0;0.08</td><td align="char" char="." rowspan="1" colspan="1">.042</td></tr><tr><td align="left" rowspan="1" colspan="1">Stems</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">17.17&#x000a0;&#x000b1;&#x000a0;0.09</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">17.32&#x000a0;&#x000b1;&#x000a0;0.07</td><td align="char" char="." rowspan="1" colspan="1">.126</td></tr><tr><td align="left" rowspan="1" colspan="1">Leaves</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">18.52&#x000a0;&#x000b1;&#x000a0;0.02</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">18.65&#x000a0;&#x000b1;&#x000a0;0.01</td><td align="char" char="." rowspan="1" colspan="1">.029</td></tr><tr><td align="left" rowspan="1" colspan="1">Spikes</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">19.82&#x000a0;&#x000b1;&#x000a0;0.01</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">19.64&#x000a0;&#x000b1;&#x000a0;0.03</td><td align="char" char="." rowspan="1" colspan="1">.010</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece35839-sec-0014"><label>3.5</label><title>Analysis of the correlation among biomass, caloric values, and elemental nutrient contents of various components of <italic>A.&#x000a0;mongolicum</italic>
+</title><p>Table <xref rid="ece35839-tbl-0003" ref-type="table">3</xref> shows the correlation relationships among biomass, caloric values, and elemental nutrient contents of the various components of <italic>A.&#x000a0;mongolicum</italic>. The biomass of various <italic>A.&#x000a0;mongolicum</italic> components showed an extremely significant negative correlation with caloric values, as well as total carbon, nitrogen, and phosphorus contents (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01). Of these correlations, that between biomass and total nitrogen content was the strongest at &#x02212;0.804 (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01). A significant positive correlation was observed between the caloric values of various components and the elemental nutrients (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01), with that of total phosphorus content the strongest at 0.947 (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01). In addition, a significant positive correlation was detected among various elemental nutrients, with that between total phosphorus and total nitrogen the highest, reaching 0.953 (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01).</p><table-wrap id="ece35839-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Pearson's correlation coefficients for each component of <italic>Agropyron mongolicum</italic> biomass, caloric value, and nutrient elements content</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Item</th><th align="left" valign="top" rowspan="1" colspan="1">Biomass</th><th align="left" valign="top" rowspan="1" colspan="1">Caloric value</th><th align="left" valign="top" rowspan="1" colspan="1">Total C</th><th align="left" valign="top" rowspan="1" colspan="1">Total N</th><th align="left" valign="top" rowspan="1" colspan="1">Total P</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Biomass</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">Caloric value</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.631<xref ref-type="fn" rid="ece35839-note-0003">**</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">Total C</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.689<xref ref-type="fn" rid="ece35839-note-0003">**</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">0.611<xref ref-type="fn" rid="ece35839-note-0003">**</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">Total N</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.804<xref ref-type="fn" rid="ece35839-note-0003">**</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">0.869<xref ref-type="fn" rid="ece35839-note-0003">**</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">0.716<xref ref-type="fn" rid="ece35839-note-0003">**</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">Total P</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.722<xref ref-type="fn" rid="ece35839-note-0003">**</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">0.947<xref ref-type="fn" rid="ece35839-note-0003">**</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">0.663<xref ref-type="fn" rid="ece35839-note-0003">**</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">0.953<xref ref-type="fn" rid="ece35839-note-0003">**</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr></tbody></table><table-wrap-foot id="ece35839-ntgp-0002"><fn id="ece35839-note-0002"><label>*</label><p>Significant correlation at the &#x0003c;0.05 level.</p></fn><fn id="ece35839-note-0003"><label>**</label><p>Significant correlation at the &#x0003c;0.01 level.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></sec><sec sec-type="discussion" id="ece35839-sec-0015"><label>4</label><title>DISCUSSION</title><p>Enclosure cultivation alleviates trampling and feeding by livestock, enabling grassland ecosystems to succeed in a certain direction under natural conditions (Yang et al., <xref rid="ece35839-bib-0035" ref-type="ref">2016</xref>). In this study, the height, clump width, coverage, and total biomass of <italic>A.&#x000a0;mongolicum</italic> populations significantly increased after enclosure cultivation, whereas changes in density were not significant. These findings indicate that reduced external interference and habitat improvements during enclosure cultivation are favorable for vegetation recovery and increasing productivity. First, as a predominant species, <italic>A.&#x000a0;mongolicum</italic> itself is a superior forage grass. Enclosure cultivation prevents <italic>A.&#x000a0;mongolicum</italic> from being eaten and trampled on by livestock, thereby effectively increasing the height, clump width, coverage, and total biomass of <italic>A.&#x000a0;mongolicum</italic>. Second, soil nutrient accumulation, increased elemental nutrient supply, and improvements in soil physical characteristics after enclosure cultivation facilitate plant growth and proliferation (Hosseinzadeh, Jalilvand, &#x00026; Tamartash, <xref rid="ece35839-bib-0013" ref-type="ref">2010</xref>; Liu, Wang, Chen, Wang, &#x00026; Han, <xref rid="ece35839-bib-0021" ref-type="ref">2006</xref>). These results are consistent with the findings of previous studies (Jin et al., <xref rid="ece35839-bib-0016" ref-type="ref">2017</xref>; Lamas, Larreguy, Carrera, &#x00026; Bertiller, <xref rid="ece35839-bib-0018" ref-type="ref">2013</xref>). No significant changes in <italic>A.&#x000a0;mongolicum</italic> population density were observed, which may be attributable to the fact that <italic>A.&#x000a0;mongolicum</italic> mainly employs asexual reproduction (tillering), and seed reproduction is secondary, and this may be related to the density effect of the species inside the fence. However, livestock feeding and soil fertility affect sexual reproduction of <italic>A.&#x000a0;mongolicum</italic> outside the fence.</p><p>Biomass is an important marker that reflects plant&#x02013;environment interactions and is a manifestation of the plant's environmental adaptive capacity and growth and development patterns. In addition, the biomass of individuals and components is also a manifestation of the ability of ecosystems to acquire energy (Yu &#x00026; Yu, <xref rid="ece35839-bib-0036" ref-type="ref">2001</xref>). Under a natural enclosed grassland ecosystem, vegetation responds to various resources through diverse and complex adjustments, thereby effectively increasing the utilization efficiency of limited resources by the entire ecosystem (Hutchings, <xref rid="ece35839-bib-0014" ref-type="ref">1995</xref>; Pan, Wang, Jia, Chen, &#x00026; He, <xref rid="ece35839-bib-0024" ref-type="ref">2008</xref>; Wang, Li, Xiao, &#x00026; Pan, <xref rid="ece35839-bib-0031" ref-type="ref">2006</xref>). In this study, root biomass was significantly greater than the biomass of all other components both inside and outside the fence, while enclosure cultivation significantly increased the biomass of the roots, leaves, and spikes. These observations may be attributable to the fact that in arid desert steppes, strengthening root growth is one of the most effective strategies for plants to obtain moisture and inorganic nutrients for growth and reproduction (Zhou, Yan, Xiao, Wang, &#x00026; Kuang, <xref rid="ece35839-bib-0043" ref-type="ref">2015</xref>). Second, these changes may be due to the use of enclosures, which markedly increases the number of effective tillers in <italic>A.&#x000a0;mongolicum</italic>, inducing a significant increase in the biomass of the roots, leaves, and spikes. In addition, the root biomass of <italic>A.&#x000a0;mongolicum</italic> inside the fence significantly increased, which may be a result of satisfying the higher nutrient and water requirements of <italic>A.&#x000a0;mongolicum</italic> after enclosure.</p><p>Carbon, nitrogen, and phosphorus are macronutrients that are essential to plant growth and reproduction and can reflect plant nutrient limitation status at the population (Gallardo &#x00026; Covelo, <xref rid="ece35839-bib-0006" ref-type="ref">2005</xref>), community (G&#x000fc;sewell, <xref rid="ece35839-bib-0009" ref-type="ref">2004</xref>), ecosystem (Tessier &#x00026; Raynal, <xref rid="ece35839-bib-0029" ref-type="ref">2003</xref>), and global (Han, Fang, Guo, &#x00026; Zhang, <xref rid="ece35839-bib-0011" ref-type="ref">2005</xref>) levels. Xu et al. (<xref rid="ece35839-bib-0032" ref-type="ref">2014</xref>) conducted studies on stoichiometric changes in elements in plants subjected to different utilization methods in the Inner Mongolian temperate grasslands. The results showed that there were no significant changes in total carbon content in the leaves, whereas total nitrogen content significantly decreased in plants in enclosed conditions. In this study, the roots showed the lowest total carbon, nitrogen, and phosphorus contents, whereas the spikes exhibited the highest contents. After enclosure cultivation, no significant changes in total carbon and phosphorus levels were observed in the leaves, whereas total nitrogen content significantly decreased. These results agree with the conclusions of the aforementioned studies (Xu et al., <xref rid="ece35839-bib-0032" ref-type="ref">2014</xref>). In addition, these observations show that the enrichment and allocation of elemental nutrients in nonreproductive (branches and leaves) and reproductive (flowers and fruits) organs is an evolutionary response of plant populations toward specific environments. The elemental nutrient composition of plants is in stable dynamic equilibrium. When changes in external environmental conditions (enclosure cultivation) occur, plants undergo self&#x02010;adjustment to maintain stability in elemental composition (Zhao, <xref rid="ece35839-bib-0042" ref-type="ref">2007</xref>).</p><p>The composition of fats, proteins, and carbohydrates varies among plant components. Therefore, there are large differences in caloric values among components. The reproductive allocation status of energy in plant populations can reflect the degree of adaptability of a certain species to the environment and the limitation status of environmental resources on population growth (Wang, <xref rid="ece35839-bib-0030" ref-type="ref">2000</xref>). In this study, the caloric values of <italic>A.&#x000a0;mongolicum</italic> components inside and outside the fence showed a decreasing trend of spikes&#x000a0;&#x0003e;&#x000a0;leaves&#x000a0;&#x0003e;&#x000a0;stems&#x000a0;&#x0003e;&#x000a0;roots, and the mean caloric values of aboveground organs were all greater than that of underground roots. This result agrees with the findings of previous studies (Bao et al., <xref rid="ece35839-bib-0003" ref-type="ref">2006</xref>; Jiang, Fan, Ge, &#x00026; Tian, <xref rid="ece35839-bib-0015" ref-type="ref">2014</xref>). Components with greater fat and protein content have higher caloric values, whereas components with higher carbohydrate content have lower caloric values (Jiang et al., <xref rid="ece35839-bib-0015" ref-type="ref">2014</xref>). Leaves and other photosynthetic organs can convert solar energy to chemical energy that can to be stored in plant tissues. This is also an important reason why leaves have higher caloric value (Bao et al., <xref rid="ece35839-bib-0003" ref-type="ref">2006</xref>). In addition, the caloric values of spikes and roots significantly increased, and the caloric value of leaves significantly decreased after enclosure cultivation. This shows that after enclosure cultivation, good habitat increases energy in <italic>A.&#x000a0;mongolicum</italic> populations, enabling more caloric values to be allocated to reproductive components to increase reproduction and growth (Zhao, <xref rid="ece35839-bib-0042" ref-type="ref">2007</xref>). Additionally, root caloric values increase to satisfy the higher nutrient requirements of the population.</p><p>Carbon, nitrogen, and phosphorus are major intrinsic factors that affect plant caloric values, and there are studies that have focused on the effects of carbon and nitrogen on caloric values (Ren &#x00026; Peng, <xref rid="ece35839-bib-0026" ref-type="ref">1999</xref>). Gao, Xie, Xu, and Han (<xref rid="ece35839-bib-0007" ref-type="ref">2012</xref>) studied the caloric values of 15 plants in the <italic>Aneurotepidimu chinense</italic> grassland in the Xilin River Basin in Inner Mongolia. Their results indicated significant positive correlations between total carbon and total nitrogen content and caloric values. In this study, the caloric values of <italic>A.&#x000a0;mongolicum</italic> showed significant positive correlations with total carbon, nitrogen, and phosphorus, which is consistent with the results of previous studies (Gao et al., <xref rid="ece35839-bib-0007" ref-type="ref">2012</xref>; Guo, Huang, Chao, &#x00026; Zhu, <xref rid="ece35839-bib-0008" ref-type="ref">2005</xref>; Xu et al., <xref rid="ece35839-bib-0033" ref-type="ref">2003</xref>). Carbon is a major substance that is combusted by plants that directly affects plant caloric value. Similarly, nitrogen content can indirectly affect plant caloric value during combustion in plants.</p></sec><sec sec-type="conclusions" id="ece35839-sec-0016"><label>5</label><title>CONCLUSIONS</title><p>Enclosure cultivation can significantly increase the height, clump width, coverage and individual clump biomass of <italic>A.&#x000a0;mongolicum</italic>, but not density. After enclosure cultivation, the biomass of the roots, leaves, and spikes of <italic>A.&#x000a0;mongolicum</italic> populations significantly increased. Enclosure cultivation was found to have varying degrees of effects on elemental nutrients and caloric values of vegetative and reproductive components of <italic>A.&#x000a0;mongolicum</italic>, and the caloric values of the <italic>A.&#x000a0;mongolicum</italic> components were significantly positively correlated with carbon, nitrogen, and phosphorus contents. These findings indicate that the enrichment and allocation of elemental nutrients and caloric values in nonreproductive (stems and leaves) and reproductive (spikes and seeds) organs is an evolutionary response of plant populations toward specific environments.</p></sec><sec sec-type="COI-statement" id="ece35839-sec-0017"><title>CONFLICT OF INTEREST</title><p>The authors declare that they have no conflict of interest.</p></sec><sec id="ece35839-sec-0018"><title>AUTHOR CONTRIBUTIONS</title><p>GQL conceived and designed the experiment; PPZ and WSS performed materials and data analysis; PPZ and GQL wrote the paper; PPZ, WSS, CQJ, LXS and YYC carried out field investigations.</p></sec></body><back><ack id="ece35839-sec-0021"><title>ACKNOWLEDGMENTS</title><p>This work is supported by the Integration and Demonstration of Ecological Restoration and Protection Technologies in Mining Area (2017YFC0504406), National Science Foundation of China (31540007), the Construction Project of the First Class University in Western China, Ningxia University (GZXM2017001), First Class Discipline Construction Project in College of Ningxia Hui Autonomous Region (Ecology, NXYLXK2017B06). Especially, we heartily thank Dr. Wang Lei and Dr. Liu Rentao for mapping and charting.</p></ack><sec sec-type="data-availability" id="ece35839-sec-0020"><title>DATA AVAILABILITY STATEMENT</title><p>When accepted, all data will be uploaded and archived in Dryad (Dryad <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5521/dryad.12311" specific-use="dataset is-supplemented-by">https://doi.org/10.5521/dryad.12311</ext-link>).</p></sec><ref-list content-type="cited-references" id="ece35839-bibl-0001"><title>REFERENCES</title><ref id="ece35839-bib-0001"><mixed-citation publication-type="journal" id="ece35839-cit-0001">
+<string-name>
+<surname>Atson</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Geber</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jones</surname>, <given-names>C. S.</given-names>
+</string-name> (<year>1995</year>). <article-title>Ontogenetic contingency and the expression of plant plasticity</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>10</volume>(<issue>12</issue>), <fpage>474</fpage>
+<pub-id pub-id-type="doi">10.1016/S0169-5347(00)89191-0</pub-id>
+<pub-id pub-id-type="pmid">21237109</pub-id></mixed-citation></ref><ref id="ece35839-bib-0002"><mixed-citation publication-type="book" id="ece35839-cit-0002">
+<string-name>
+<surname>Bao</surname>, <given-names>S. D.</given-names>
+</string-name> (<year>2000</year>). <source xml:lang="en">Soil agro&#x02010;chemistrical analysis</source> (<edition designator="3">3rd ed.</edition>, pp. <fpage>30</fpage>&#x02013;<lpage>81</lpage>). <publisher-loc>Beijing, China</publisher-loc>: <publisher-name>China Agricultural Press</publisher-name>.</mixed-citation></ref><ref id="ece35839-bib-0003"><mixed-citation publication-type="journal" id="ece35839-cit-0003">
+<string-name>
+<surname>Bao</surname>, <given-names>Y. J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z. H.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>X. G.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>G. B.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>X. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>L&#x000fc;</surname>, <given-names>H. Y.</given-names>
+</string-name> (<year>2006</year>). <article-title>Plant caloric value and its bio&#x02010;ecological attributes</article-title>. <source xml:lang="en">Chinese Journal of Ecology</source>, <volume>25</volume>(<issue>9</issue>), <fpage>1095</fpage>&#x02013;<lpage>1103</lpage>. <pub-id pub-id-type="doi">10.13292/j.1000-4890.2006.0208</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0004"><mixed-citation publication-type="book" id="ece35839-cit-0004">
+<string-name>
+<surname>Cheplick</surname>, <given-names>G. P.</given-names>
+</string-name> (<year>2005</year>). <chapter-title>The allometry of reproductive allocation</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Reekie</surname><given-names>E. G.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Bazzaz</surname><given-names>F. A.</given-names></name></person-group> (Eds.), <source xml:lang="en">Reproductive allocation in plants</source> (pp. <fpage>94</fpage>&#x02013;<lpage>124</lpage>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Elsevier Academic Press</publisher-name>.</mixed-citation></ref><ref id="ece35839-bib-0005"><mixed-citation publication-type="journal" id="ece35839-cit-0005">
+<string-name>
+<surname>Deng</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Shangguan</surname>, <given-names>Z. P.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>G. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chang</surname>, <given-names>X. F.</given-names>
+</string-name> (<year>2017</year>). <article-title>Effects of grazing exclusion on carbon sequestration in China's grassland</article-title>. <source xml:lang="en">Earth&#x02010;Science Reviews</source>, <volume>173</volume>, <fpage>84</fpage>&#x02013;<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1016/j.earscirev.2017.08.008</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0006"><mixed-citation publication-type="journal" id="ece35839-cit-0006">
+<string-name>
+<surname>Gallardo</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Covelo</surname>, <given-names>F.</given-names>
+</string-name> (<year>2005</year>). <article-title>Spatial pattern and scale of leaf N and P concentration in a <italic>Quercus robur</italic> population</article-title>. <source xml:lang="en">Plant &#x00026; Soil</source>, <volume>273</volume>(<issue>1&#x02013;2</issue>), <fpage>269</fpage>&#x02013;<lpage>277</lpage>. <pub-id pub-id-type="doi">10.1007/s11104-004-7943-5</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0007"><mixed-citation publication-type="journal" id="ece35839-cit-0007">
+<string-name>
+<surname>Gao</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>Z. B.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>S. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Han</surname>, <given-names>G. T.</given-names>
+</string-name> (<year>2012</year>). <article-title>Characterization of caloric value in fifteen plant species in <italic>Leymus chinensis</italic> steppe in Xilin River Basin, Inner Mongolia</article-title>. <source xml:lang="en">Acta Ecologica Sinica</source>, <volume>32</volume>(<issue>2</issue>), <fpage>588</fpage>&#x02013;<lpage>594</lpage>. <pub-id pub-id-type="doi">10.5846/stxb201012021717</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0008"><mixed-citation publication-type="journal" id="ece35839-cit-0008">
+<string-name>
+<surname>Guo</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Chao</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhu</surname>, <given-names>Y. J.</given-names>
+</string-name> (<year>2005</year>). <article-title>On caloric values and ash contents of ten weed species in Jinhua suburb and its adaptive significances</article-title>. <source xml:lang="en">Bulletin of Botanical Research</source>, <volume>25</volume>(<issue>4</issue>), <fpage>460</fpage>&#x02013;<lpage>464</lpage>.</mixed-citation></ref><ref id="ece35839-bib-0009"><mixed-citation publication-type="journal" id="ece35839-cit-0009">
+<string-name>
+<surname>G&#x000fc;sewell</surname>, <given-names>S.</given-names>
+</string-name> (<year>2004</year>). <article-title>N: P ratios in terrestrial plants: Variation and functional significance</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>164</volume>(<issue>2</issue>), <fpage>243</fpage>&#x02013;<lpage>266</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2004.01192.x</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0010"><mixed-citation publication-type="journal" id="ece35839-cit-0010">
+<string-name>
+<surname>Han</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Hui</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zhu</surname>, <given-names>S.</given-names>
+</string-name> (<year>2019</year>). <article-title>Are reproductive traits of dominant species associated with specific resource allocation strategies during forest succession in southern China?</article-title>
+<source xml:lang="en">Ecological Indicators</source>, <volume>102</volume>, <fpage>538</fpage>&#x02013;<lpage>546</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolind.2019.03.007</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0011"><mixed-citation publication-type="journal" id="ece35839-cit-0011">
+<string-name>
+<surname>Han</surname>, <given-names>W. X.</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>, <given-names>J. Y.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>D. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2005</year>). <article-title>Leaf nitrogen and phosphorus stoichiometry across 753 terrestrial plant species in China</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>168</volume>(<issue>2</issue>), <fpage>377</fpage>&#x02013;<lpage>385</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2005.01530.x</pub-id>
+<pub-id pub-id-type="pmid">16219077</pub-id></mixed-citation></ref><ref id="ece35839-bib-0012"><mixed-citation publication-type="journal" id="ece35839-cit-0012">
+<string-name>
+<surname>He</surname>, <given-names>W. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhong</surname>, <given-names>Z. C.</given-names>
+</string-name> (<year>1997</year>). <article-title>The concept and research contents of plant reproductive strategy</article-title>. <source xml:lang="en">Chinese Journal of Ecology</source>, <volume>6</volume>, <fpage>1</fpage>&#x02013;<lpage>3</lpage>.</mixed-citation></ref><ref id="ece35839-bib-0013"><mixed-citation publication-type="journal" id="ece35839-cit-0013">
+<string-name>
+<surname>Hosseinzadeh</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Jalilvand</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tamartash</surname>, <given-names>R.</given-names>
+</string-name> (<year>2010</year>). <article-title>Short time impact of enclosure on vegetation cover, productivity and some physical and chemical soil properties</article-title>. <source xml:lang="en">Journal of Applied Sciences</source>, <volume>10</volume>(<issue>18</issue>), <fpage>2001</fpage>&#x02013;<lpage>2009</lpage>. <pub-id pub-id-type="doi">10.3923/jas.2010.2001.2009</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0014"><mixed-citation publication-type="journal" id="ece35839-cit-0014">
+<string-name>
+<surname>Hutchings</surname>, <given-names>K. M. J.</given-names>
+</string-name> (<year>1995</year>). <article-title>Morphological plasticity in clonal plants: The foraging concept reconsidered</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>83</volume>(<issue>1</issue>), <fpage>143</fpage>&#x02013;<lpage>152</lpage>.</mixed-citation></ref><ref id="ece35839-bib-0015"><mixed-citation publication-type="journal" id="ece35839-cit-0015">
+<string-name>
+<surname>Jiang</surname>, <given-names>X. Y.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>Z. Q.</given-names>
+</string-name>, <string-name>
+<surname>Ge</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tian</surname>, <given-names>Q. Z.</given-names>
+</string-name> (<year>2014</year>). <article-title>Study on caloric value of crop seeds and various crop organs in Shandong Province</article-title>. <source xml:lang="en">Chinese Agricultural Science Bulletin</source>, <volume>30</volume>(<issue>27</issue>), <fpage>109</fpage>&#x02013;<lpage>113</lpage>.</mixed-citation></ref><ref id="ece35839-bib-0016"><mixed-citation publication-type="journal" id="ece35839-cit-0016">
+<string-name>
+<surname>Jin</surname>, <given-names>Y. Q.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y. T.</given-names>
+</string-name>, <string-name>
+<surname>Fei</surname>, <given-names>X. H.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>P. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhang</surname>, <given-names>S. B.</given-names>
+</string-name> (<year>2017</year>). <article-title>Effects of exclosure on species diversity and biomass allocation of understory vegetation of Savanna ecosystem in Yuanjia ng dry&#x02010;hot valley, Yunnan, Southwest China</article-title>. <source xml:lang="en">Chinese Journal of Ecology</source>, <volume>36</volume>(<issue>2</issue>), <fpage>343</fpage>&#x02013;<lpage>348</lpage>. <pub-id pub-id-type="doi">10.13292/j.1000-4890.201702.025</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0017"><mixed-citation publication-type="book" id="ece35839-cit-0017">
+<string-name>
+<surname>Karlsson</surname>, <given-names>P. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>M&#x000e9;ndez</surname>, <given-names>M.</given-names>
+</string-name> (<year>2005</year>). <chapter-title>The resource economy of plant reproduction</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Reekie</surname><given-names>E. G.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Bazzaz</surname><given-names>F. A.</given-names></name></person-group> (Eds.), <source xml:lang="en">Reproductive allocation in plants</source> (pp. <fpage>1</fpage>&#x02013;<lpage>49</lpage>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Elsevier Academic Press</publisher-name>.</mixed-citation></ref><ref id="ece35839-bib-0018"><mixed-citation publication-type="journal" id="ece35839-cit-0018">
+<string-name>
+<surname>Lamas</surname>, <given-names>M. I. B.</given-names>
+</string-name>, <string-name>
+<surname>Larreguy</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Carrera</surname>, <given-names>A. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bertiller</surname>, <given-names>M. B.</given-names>
+</string-name> (<year>2013</year>). <article-title>Changes in plant cover and functional traits induced by grazing in the arid Patagonian Monte</article-title>. <source xml:lang="en">Acta Oecologica</source>, <volume>51</volume>(<issue>8</issue>), <fpage>66</fpage>&#x02013;<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1890/04-0784</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0019"><mixed-citation publication-type="journal" id="ece35839-cit-0019">
+<string-name>
+<surname>Li</surname>, <given-names>G. Q.</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>, <given-names>W. S.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>P. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jin</surname>, <given-names>C. Q.</given-names>
+</string-name> (<year>2018</year>). <article-title>Effects of enclosure on the soil seed bank of two plant communities on the desert steppe</article-title>. <source xml:lang="en">Acta Prataculturae Sinica</source>, <volume>27</volume>(<issue>6</issue>), <fpage>52</fpage>&#x02013;<lpage>61</lpage>. <pub-id pub-id-type="doi">10.11686/cyxb2017274</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0020"><mixed-citation publication-type="journal" id="ece35839-cit-0020">
+<string-name>
+<surname>Li</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z. Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>Z. G.</given-names>
+</string-name> (<year>2004</year>). <article-title>Growth and resource allocation pattern of <italic>Artemisia frigida</italic> under different grazing and clipping intensities</article-title>. <source xml:lang="en">Chinese Journal of Applied Ecology</source>, <volume>15</volume>(<issue>3</issue>), <fpage>408</fpage>&#x02013;<lpage>412</lpage>.<pub-id pub-id-type="pmid">15227989</pub-id></mixed-citation></ref><ref id="ece35839-bib-0021"><mixed-citation publication-type="journal" id="ece35839-cit-0021">
+<string-name>
+<surname>Liu</surname>, <given-names>Z. K.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Z. Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Han</surname>, <given-names>J. G.</given-names>
+</string-name> (<year>2006</year>). <article-title>Properties of soil nutrients and plant community after rest grazing in Inner Mongolia steppe, China</article-title>. <source xml:lang="en">Acta Ecologica Sinica</source>, <volume>26</volume>(<issue>6</issue>), <fpage>2048</fpage>&#x02013;<lpage>2056</lpage>.</mixed-citation></ref><ref id="ece35839-bib-0022"><mixed-citation publication-type="journal" id="ece35839-cit-0022">
+<string-name>
+<surname>Lv</surname>, <given-names>M. X.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>Z. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Peng</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2019</year>). <article-title>Responses of terrestrial water cycle components to afforestation within and around the Yellow River basin</article-title>. <source xml:lang="en">Atmospheric and Oceanic Science Letters</source>, <volume>12</volume>(<issue>2</issue>), <fpage>116</fpage>&#x02013;<lpage>123</lpage>. <pub-id pub-id-type="doi">10.1080/16742834.2019.1569456</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0023"><mixed-citation publication-type="journal" id="ece35839-cit-0023">
+<string-name>
+<surname>Motamedi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sheidai Karkaj</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Alilou</surname>, <given-names>F.</given-names>
+</string-name> (<year>2016</year>). <article-title>Variation in biomass and morphology of <italic>Artemisia fragrans</italic> Willd. under grazing in northwest mountainous rangelands of Iran</article-title>. <source xml:lang="en">Acta Ecologica Sinica</source>, <volume>36</volume>(<issue>6</issue>), <fpage>477</fpage>&#x02013;<lpage>482</lpage>. <pub-id pub-id-type="doi">10.1016/j.chnaes.2016.07.004</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0024"><mixed-citation publication-type="journal" id="ece35839-cit-0024">
+<string-name>
+<surname>Pan</surname>, <given-names>Y. X.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X. P.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>He</surname>, <given-names>M. Z.</given-names>
+</string-name> (<year>2008</year>). <article-title>Spatial variability of surface soil moisture content in a re&#x02010;vegetated desert area in Shapotou, Northern China</article-title>. <source xml:lang="en">Journal of Arid Environments</source>, <volume>72</volume>(<issue>9</issue>), <fpage>1675</fpage>&#x02013;<lpage>1683</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaridenv.2008.03.010</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0025"><mixed-citation publication-type="journal" id="ece35839-cit-0025">
+<string-name>
+<surname>Porensky</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Derne</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Augustine</surname>, <given-names>D. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Milchunas</surname>, <given-names>D. G.</given-names>
+</string-name> (<year>2016</year>). <article-title>Plant community composition after 75 yr of sustained grazing intensity treatments in shortgrass steppe</article-title>. <source xml:lang="en">Rangeland Ecology &#x00026; Management</source>, <volume>70</volume>(<issue>4</issue>), <fpage>456</fpage>&#x02013;<lpage>464</lpage>. <pub-id pub-id-type="doi">10.1016/j.rama.2016.12.001</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0026"><mixed-citation publication-type="journal" id="ece35839-cit-0026">
+<string-name>
+<surname>Ren</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Peng</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>1999</year>). <article-title>The characteristics of ecological energetics of the forest ecosystem in the successional process in Dinghushan, Guangdong, China</article-title>. <source xml:lang="en">Acta Ecologica Sinica</source>, <volume>19</volume>(<issue>6</issue>), <fpage>817</fpage>&#x02013;<lpage>822</lpage>. <pub-id pub-id-type="doi">10.3321/j.issn:1000-0933.1999.06.009</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0027"><mixed-citation publication-type="journal" id="ece35839-cit-0027">
+<string-name>
+<surname>Schmid</surname>, <given-names>B.</given-names>
+</string-name> (<year>1990</year>). <article-title>Some ecological and evolutionary consequences of modular organization and clonal growth in plants</article-title>. <source xml:lang="en">Evolutionary Trends in Plants</source>, <volume>4</volume>(<issue>1</issue>), <fpage>25</fpage>&#x02013;<lpage>34</lpage>. <pub-id pub-id-type="doi">10.2307/3243628</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0028"><mixed-citation publication-type="journal" id="ece35839-cit-0028">
+<string-name>
+<surname>Shao</surname>, <given-names>W. S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>G. Q.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>K. Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhao</surname>, <given-names>P. P.</given-names>
+</string-name> (<year>2016</year>). <article-title>Comparative studies on soil enzymic activities of four common plant communities in desert steppe</article-title>. <source xml:lang="en">Acta Botanica Boreali&#x02010;Occidentalia Sinica</source>, <volume>36</volume>(<issue>3</issue>), <fpage>579</fpage>&#x02013;<lpage>587</lpage>.</mixed-citation></ref><ref id="ece35839-bib-0029"><mixed-citation publication-type="journal" id="ece35839-cit-0029">
+<string-name>
+<surname>Tessier</surname>, <given-names>J. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Raynal</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2003</year>). <article-title>Use of nitrogen to phosphorus ratios in plant tissue as an indicator of nutrient limitation and nitrogen saturation</article-title>. <source xml:lang="en">Journal of Applied Ecology</source>, <volume>40</volume>(<issue>3</issue>), <fpage>523</fpage>&#x02013;<lpage>534</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2664.2003.00820.x</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0030"><mixed-citation publication-type="journal" id="ece35839-cit-0030">
+<string-name>
+<surname>Wang</surname>, <given-names>R. Z.</given-names>
+</string-name> (<year>2000</year>). <article-title>Energy allocation to growth and reproduction in <italic>Leymus chinensis</italic> population</article-title>. <source xml:lang="en">Chinese Journal of Applied Ecology</source>, <volume>11</volume>(<issue>4</issue>), <fpage>591</fpage>&#x02013;<lpage>594</lpage>. <pub-id pub-id-type="doi">10.3969/j.issn.1673-5102.2001.02.028</pub-id>
+<pub-id pub-id-type="pmid">11767684</pub-id></mixed-citation></ref><ref id="ece35839-bib-0031"><mixed-citation publication-type="journal" id="ece35839-cit-0031">
+<string-name>
+<surname>Wang</surname>, <given-names>X. P.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X. R.</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>, <given-names>H. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pan</surname>, <given-names>Y. X.</given-names>
+</string-name> (<year>2006</year>). <article-title>Evolutionary characteristics of the artificially revegetated shrub ecosystem in the Tengger Desert, northern China</article-title>. <source xml:lang="en">Ecological Research</source>, <volume>21</volume>(<issue>3</issue>), <fpage>415</fpage>&#x02013;<lpage>424</lpage>. <pub-id pub-id-type="doi">10.1007/s11284-005-0135-9</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0032"><mixed-citation publication-type="journal" id="ece35839-cit-0032">
+<string-name>
+<surname>Xu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gong</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Z. Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Luo</surname>, <given-names>Q. P.</given-names>
+</string-name> (<year>2014</year>). <article-title>The ecological stoichiometry of dominant species in different land uses type of grassland</article-title>. <source xml:lang="en">Acta Prataculturae Sinica</source>, <volume>23</volume>(<issue>6</issue>), <fpage>45</fpage>&#x02013;<lpage>53</lpage>. <pub-id pub-id-type="doi">10.11686/cyxb20140606</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0033"><mixed-citation publication-type="journal" id="ece35839-cit-0033">
+<string-name>
+<surname>Xu</surname>, <given-names>Y. R.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>, <given-names>Z. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhang</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2003</year>). <article-title>Caloric values, elemental contents and correlations between them of some plants on sea&#x02010;beach salinity soil in Tianjin, China</article-title>. <source xml:lang="en">Acta Ecologica Sinica</source>, <volume>23</volume>(<issue>3</issue>), <fpage>450</fpage>&#x02013;<lpage>455</lpage>. <pub-id pub-id-type="doi">10.3321/j.issn:1000-0933.2003.03.007</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0034"><mixed-citation publication-type="journal" id="ece35839-cit-0034">
+<string-name>
+<surname>Yang</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>Z. M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jia</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>2003</year>). <article-title>Study on effects of enclosing on fencing grassland in Sidongzi, Yanchi</article-title>. <source xml:lang="en">Journal of Agricultural Sciences</source>, <volume>24</volume>(<issue>1</issue>), <fpage>22</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.3969/j.issn.1673-0747.2003.01.007</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0035"><mixed-citation publication-type="journal" id="ece35839-cit-0035">
+<string-name>
+<surname>Yang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>L. H.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>X. Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>B. L.</given-names>
+</string-name> (<year>2016</year>). <article-title>Effects of fencing on vegetation community characteristics and soil properties of a typical steppe in Inner Mongolia</article-title>. <source xml:lang="en">Acta Prataculturae Sinica</source>, <volume>25</volume>(<issue>5</issue>), <fpage>21</fpage>&#x02013;<lpage>29</lpage>. <pub-id pub-id-type="doi">10.11686/cyxb2015334</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0036"><mixed-citation publication-type="journal" id="ece35839-cit-0036">
+<string-name>
+<surname>Yu</surname>, <given-names>W. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yu</surname>, <given-names>Y. Q.</given-names>
+</string-name> (<year>2001</year>). <article-title>Advances in the research of underground biomass</article-title>. <source xml:lang="en">Chinese Journal of Applied Ecology</source>, <volume>12</volume>(<issue>6</issue>), <fpage>927</fpage>&#x02013;<lpage>932</lpage>. <pub-id pub-id-type="doi">10.3969/j.issn.1673-5811.2018.36.266</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0037"><mixed-citation publication-type="journal" id="ece35839-cit-0037">
+<string-name>
+<surname>Yun</surname>, <given-names>J. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mi</surname>, <given-names>F. G.</given-names>
+</string-name> (<year>1989</year>). <article-title>The species and distribution of herbage of the genus <italic>Agropyron</italic>
+</article-title>. <source xml:lang="en">Chinese Journal of Grassland</source>, <volume>3</volume>, <fpage>14</fpage>&#x02013;<lpage>17</lpage>.</mixed-citation></ref><ref id="ece35839-bib-0038"><mixed-citation publication-type="book" id="ece35839-cit-0038">
+<string-name>
+<surname>Zhang</surname>, <given-names>J. T.</given-names>
+</string-name> (<year>2004</year>). <source xml:lang="en">Quantitative plant ecology</source>. <publisher-loc>Beijing, China</publisher-loc>: <publisher-name>Science Press</publisher-name>.</mixed-citation></ref><ref id="ece35839-bib-0039"><mixed-citation publication-type="journal" id="ece35839-cit-0039">
+<string-name>
+<surname>Zhang</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X. P.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X. R.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Z. S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name> (<year>2005</year>). <article-title>Advances and prospect of researches on desert plant life history strategies</article-title>. <source xml:lang="en">Journal of Desert Research</source>, <volume>25</volume>(<issue>3</issue>), <fpage>306</fpage>&#x02013;<lpage>314</lpage>. <pub-id pub-id-type="doi">10.3321/j.issn:1000-694X.2005.03.002</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0040"><mixed-citation publication-type="journal" id="ece35839-cit-0040">
+<string-name>
+<surname>Zhang</surname>, <given-names>R. Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z. W.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>G. D.</given-names>
+</string-name>, <string-name>
+<surname>Schellenberg</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gu</surname>, <given-names>C.</given-names>
+</string-name> (<year>2018</year>). <article-title>Grazing induced changes in plant diversity is a critical factor controlling grassland productivity in the Desert Steppe, Northern China</article-title>. <source xml:lang="en">Agriculture, Ecosystems &#x00026; Environment</source>, <volume>265</volume>, <fpage>73</fpage>&#x02013;<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1016/j.agee.2018.05.014</pub-id>
+</mixed-citation></ref><ref id="ece35839-bib-0041"><mixed-citation publication-type="book" id="ece35839-cit-0041">
+<string-name>
+<surname>Zhao</surname>, <given-names>Y. Z.</given-names>
+</string-name> (<year>2004</year>). <source xml:lang="en">The techniques of planting grass and raising sheep</source>. <publisher-loc>Beijing, China</publisher-loc>: <publisher-name>China Agriculture Press</publisher-name>.</mixed-citation></ref><ref id="ece35839-bib-0042"><mixed-citation publication-type="book" id="ece35839-cit-0042">
+<string-name>
+<surname>Zhao</surname>, <given-names>H. L.</given-names>
+</string-name> (<year>2007</year>). <source xml:lang="en">Biological process of desertification and restoration mechanism of degraded vegetation</source>. <publisher-loc>Beijing, China</publisher-loc>: <publisher-name>Science Press</publisher-name>.</mixed-citation></ref><ref id="ece35839-bib-0043"><mixed-citation publication-type="journal" id="ece35839-cit-0043">
+<string-name>
+<surname>Zhou</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>X. H.</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>, <given-names>Y. A.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kuang</surname>, <given-names>Z. Q.</given-names>
+</string-name> (<year>2015</year>). <article-title>Module biomass of <italic>Ageratum conyzoides</italic> populations in different habitats</article-title>. <source xml:lang="en">Acta Ecologica Sinica</source>, <volume>35</volume>(<issue>8</issue>), <fpage>2602</fpage>&#x02013;<lpage>2608</lpage>. <pub-id pub-id-type="doi">10.5846/stxb201306091493</pub-id>
+</mixed-citation></ref></ref-list></back></article>

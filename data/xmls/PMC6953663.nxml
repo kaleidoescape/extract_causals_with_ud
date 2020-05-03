@@ -1,0 +1,566 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938533</article-id><article-id pub-id-type="pmc">6953663</article-id><article-id pub-id-type="doi">10.1002/ece3.5881</article-id><article-id pub-id-type="publisher-id">ECE35881</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Why do zoos attract crows? A comparative study from Europe and Asia</article-title><alt-title alt-title-type="left-running-head">K&#x000d6;V&#x000c9;R et al.</alt-title></title-group><contrib-group><contrib id="ece35881-cr-0001" contrib-type="author" corresp="yes"><name><surname>K&#x000f6;v&#x000e9;r</surname><given-names>L&#x000e1;szl&#x000f3;</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5368-3691</contrib-id><xref ref-type="aff" rid="ece35881-aff-0001">
+<sup>1</sup>
+</xref><address><email>koverl@agr.unideb.hu</email></address></contrib><contrib id="ece35881-cr-0002" contrib-type="author"><name><surname>Lengyel</surname><given-names>Szabolcs</given-names></name><xref ref-type="aff" rid="ece35881-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35881-cr-0003" contrib-type="author"><name><surname>Takenaka</surname><given-names>Makiko</given-names></name><xref ref-type="aff" rid="ece35881-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35881-cr-0004" contrib-type="author"><name><surname>Kirchmeir</surname><given-names>Alice</given-names></name><xref ref-type="aff" rid="ece35881-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ece35881-cr-0005" contrib-type="author"><name><surname>Uhl</surname><given-names>Florian</given-names></name><xref ref-type="aff" rid="ece35881-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ece35881-cr-0006" contrib-type="author"><name><surname>Miller</surname><given-names>Rachael</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2996-9571</contrib-id><xref ref-type="aff" rid="ece35881-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="ece35881-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="ece35881-cr-0007" contrib-type="author"><name><surname>Schwab</surname><given-names>Christine</given-names></name><xref ref-type="aff" rid="ece35881-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="ece35881-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Nature Conservation Zoology and Game Management</named-content>
+<institution>University of Debrecen</institution>
+<city>Debrecen</city>
+<country country="HU">Hungary</country>
+</aff><aff id="ece35881-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">GINOP Sustainable Ecosystems Group</named-content>
+<named-content content-type="organisation-division">Department of Tisza Research</named-content>
+<named-content content-type="organisation-division">Danube Research Institute</named-content>
+<named-content content-type="organisation-division">Centre for Ecological Research</named-content>
+<institution>Hungarian Academy of Sciences</institution>
+<city>Debrecen</city>
+<country country="HU">Hungary</country>
+</aff><aff id="ece35881-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<institution>Tokai University Sapporo Campus</institution>
+<city>Sapporo</city>
+<country country="JP">Japan</country>
+</aff><aff id="ece35881-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Cognitive Biology</named-content>
+<institution>University of Vienna</institution>
+<city>Vienna</city>
+<country country="AT">Austria</country>
+</aff><aff id="ece35881-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Psychology</named-content>
+<institution>University of Cambridge</institution>
+<city>Cambridge</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+L&#x000e1;szl&#x000f3; K&#x000f6;v&#x000e9;r; Department of Nature Conservation Zoology and Game Management, University of Debrecen, Debrecen, Hungary.<break/>
+Email: <email>koverl@agr.unideb.hu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14465</fpage><lpage>14475</lpage><history><date date-type="received"><day>29</day><month>5</month><year>2019</year></date><date date-type="rev-recd"><day>10</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>04</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14465.pdf"/><abstract id="ece35881-abs-0001"><title>Abstract</title><p>Crows have successfully colonized many cities, and urban zoos have been important in this process. To evaluate why zoos attract crows, we quantified crow numbers and behavior in three zoos in Europe (Debrecen, Edinburgh, Vienna) and one in Asia (Sapporo). Data were collected in 445 surveys over 297&#x000a0;days in summer 2014 and winter 2014&#x02013;2015. We found that crow numbers were highest in Vienna, intermediate in Debrecen and Edinburgh and lowest in Sapporo, increased significantly from summer to winter (Debrecen, Edinburgh, Vienna), and from mornings to afternoons (Debrecen, Sapporo, Vienna), and were higher in sunny weather than in cloudy weather with precipitation and when visitor numbers were low (Debrecen, Vienna). The crows' use of natural food was highest in Vienna, intermediate in Edinburgh and Sapporo, and low in Debrecen. The use of anthropogenic food was high in Debrecen and Sapporo, where the availability of open grassy areas typically used by crows for natural foraging was low. In Sapporo, food availability was more limited than in other zoos, resulting in strong territoriality and few crows in summer, which decreased further in winter. Our study indicates that crows are primarily attracted to zoos by food availability and secondarily by breeding opportunities and that the relative importance of natural versus anthropogenic food sources may vary with zoo habitat structure. Our study draws attention to a previously overlooked role of zoos in urban biodiversity conservation. It may also provide useful information for the management of crow populations, if necessary, and for the planning of urban areas.</p></abstract><abstract abstract-type="graphical" id="ece35881-abs-0002"><p>Crows are primary attracted to zoos by food availability and secondly by breeding opportunities. Crows' number increased significantly from summer to winter and from mornings to afternoons. The number of visitors influenced crow numbers as well as the availability of food. The structure of zoos and food management affected the appearance of crows. Zoos could play important role regarding to crow control.<boxed-text position="anchor" content-type="graphic" id="ece35881-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14465-g005.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35881-kwd-0001">adaptation</kwd><kwd id="ece35881-kwd-0002">artificial food</kwd><kwd id="ece35881-kwd-0003">city planning</kwd><kwd id="ece35881-kwd-0004">Corvidae</kwd><kwd id="ece35881-kwd-0005">pest management</kwd><kwd id="ece35881-kwd-0006">urban ecology</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>National Research, Development and Innovation Office of Hungary</funding-source><award-id>OTKA K106133</award-id><award-id>GINOP 2.3.3&#x02010;15.2016.00019</award-id></award-group><award-group id="funding-0002"><funding-source>Vienna Science and Technology Fund</funding-source><award-id>CS11&#x02010;008</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="4"/><page-count count="11"/><word-count count="8087"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35881-cit-1001">
+<string-name>
+<surname>K&#x000f6;v&#x000e9;r</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lengyel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Takenaka</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Why do zoos attract crows? A comparative study from Europe and Asia</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14465</fpage>&#x02013;<lpage>14475</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5881</pub-id>
+</mixed-citation>
+</p><fn-group id="ece35881-ntgp-0001"><fn fn-type="equal" id="ece35881-note-0001"><p>L&#x000e1;szl&#x000f3; K&#x000f6;v&#x000e9;r and Szabolcs Lengyel are contributed equally to this work.</p></fn></fn-group></notes></front><body id="ece35881-body-0001"><sec id="ece35881-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Many species have adapted to human&#x02010;transformed landscapes and some have even become dependent on urban resources (Kark, Iwaniuk, Schalimtzek, &#x00026; Banker, <xref rid="ece35881-bib-0021" ref-type="ref">2007</xref>; Marzluff et al., <xref rid="ece35881-bib-0025" ref-type="ref">2008</xref>; Preininger, Schoas, Kramer, &#x00026; Boeckle, <xref rid="ece35881-bib-0032" ref-type="ref">2019</xref>; Vuorisalo, Talvitie, Kauhala, Bl&#x000e4;uer, &#x00026; Lahtinen, <xref rid="ece35881-bib-0039" ref-type="ref">2014</xref>). Cities are a special ecosystem for their abiotic and biotic characteristics and their unique species composition (Bezzel, <xref rid="ece35881-bib-0003" ref-type="ref">1985</xref>; Fey, Vuorisalo, Lehikoinen, &#x00026; Selonen, <xref rid="ece35881-bib-0013" ref-type="ref">2015</xref>; Parlange, <xref rid="ece35881-bib-0031" ref-type="ref">1998</xref>). Urbanization usually results in decreased diversity and more homogeneous composition of bird species (Crooks, Suarez, &#x00026; Bolger, <xref rid="ece35881-bib-0008" ref-type="ref">2003</xref>; Jokim&#x000e4;ki &#x00026; Suhonen, <xref rid="ece35881-bib-0019" ref-type="ref">1993</xref>), leading to both biotic (Devictor et al., <xref rid="ece35881-bib-0009" ref-type="ref">2008</xref>) and phylogenetic homogenization (Morelli et al., <xref rid="ece35881-bib-0029" ref-type="ref">2016</xref>). Urban environments, however, also provide benefits to certain species, for example, several species in the bird family Corvidae successfully colonized urban landscapes across the world (Cramp &#x00026; Perrins, <xref rid="ece35881-bib-0007" ref-type="ref">1994</xref>). Particularly, successful colonizing species include the Hooded Crow (<italic>Corvus cornix</italic>) (K&#x000f6;v&#x000e9;r et al., <xref rid="ece35881-bib-0022" ref-type="ref">2015</xref>; Vuorisalo et al., <xref rid="ece35881-bib-0037" ref-type="ref">2003</xref>) and the Eurasian Magpie (<italic>Pica pica</italic>) (Jerzak, <xref rid="ece35881-bib-0018" ref-type="ref">2001</xref>; Jokim&#x000e4;ki, Suhonen, Vuorisalo, K&#x000f6;v&#x000e9;r, &#x00026; Kaisanlahti&#x02010;Jokim&#x000e4;ki, <xref rid="ece35881-bib-0020" ref-type="ref">2017</xref>; Vuorisalo, Hugg, Kaitaniemi, Lappalainen, &#x00026; Vesanto, <xref rid="ece35881-bib-0038" ref-type="ref">1992</xref>) in Europe, the American Crow (<italic>C.&#x000a0;brachyrhynchos</italic>) (Marzluff, McGowan, Donnelly, &#x00026; Knight, <xref rid="ece35881-bib-0024" ref-type="ref">2001</xref>) in North America, and the Large&#x02010;billed Crow (<italic>C.&#x000a0;macrorhynchos</italic>) (Takenaka, <xref rid="ece35881-bib-0034" ref-type="ref">2003</xref>; Ueta, Kurosawa, Hamao, Kawachi, &#x00026; Higuchi, <xref rid="ece35881-bib-0035" ref-type="ref">2003</xref>) in eastern Asia. Corvids are known for their behavioral plasticity and intelligence, which enable them to readily adapt to new environments, including artificial environments constructed by humans (Bird &#x00026; Emery, <xref rid="ece35881-bib-0004" ref-type="ref">2009</xref>; Emery &#x00026; Clayton, <xref rid="ece35881-bib-0011" ref-type="ref">2004</xref>; Hunt, <xref rid="ece35881-bib-0016" ref-type="ref">2014</xref>; Marzluff et al., <xref rid="ece35881-bib-0025" ref-type="ref">2008</xref>). Some crows are thus considered as &#x0201c;urban exploiters&#x0201d; (Japanese Ministry of Environment, <xref rid="ece35881-bib-0017" ref-type="ref">2001</xref>; Kark et al., <xref rid="ece35881-bib-0021" ref-type="ref">2007</xref>; Nishikawa, <xref rid="ece35881-bib-0030" ref-type="ref">2004</xref>) or even as nuisance or pest animals that feed on trash and spread diseases (Preininger et al., <xref rid="ece35881-bib-0032" ref-type="ref">2019</xref>).</p><p>The benefits that urban environments provide to bird species include the year&#x02010;round availability of food, milder local climate, decreased or no predator pressure, and diverse nesting opportunities (E&#x000f6;tv&#x000f6;s, Magura, &#x00026; L&#x000f6;vei, <xref rid="ece35881-bib-0012" ref-type="ref">2018</xref>; Marzluff et al., <xref rid="ece35881-bib-0024" ref-type="ref">2001</xref>; Vuorisalo et al., <xref rid="ece35881-bib-0037" ref-type="ref">2003</xref>). An understanding of the relative importance of these factors, however, is difficult due to the variation in urban environments in terms of human population size, the built&#x02010;in and natural components of urban landscapes, and type and availability of food sources. A comparison of corvid use of urban landscapes that are similar in human population size, urban landscape composition, and food availability can thus provide insights into the relative importance of the factors suspected to explain corvid colonization of urban environments (Preininger et al., <xref rid="ece35881-bib-0032" ref-type="ref">2019</xref>).</p><p>Zoos offer a great possibility for such comparisons. Zoos are found in many cities of the world and are typically viewed as cultural landscapes (Axelsson &#x00026; May, <xref rid="ece35881-bib-0001" ref-type="ref">2008</xref>; Hallman &#x00026; Benbow, <xref rid="ece35881-bib-0014" ref-type="ref">2006</xref>) that often show similarities in area (up to few tens of hectares), landscape composition (parks with trees and open spaces), and food availability to free&#x02010;living birds (food given to zoo animals, leftover/garbage from humans). Zoos that allow access to free&#x02010;living birds and that provide permanent sources of food may be the first to be colonized by corvids in a city and are usually characterized by high nesting density (K&#x000f6;v&#x000e9;r et al., <xref rid="ece35881-bib-0022" ref-type="ref">2015</xref>). Zoos thus provide an excellent opportunity to study the factors that influence the establishment and colonization of corvids in urban environments (Uhl et al., <xref rid="ece35881-bib-0036" ref-type="ref">2018</xref>). However, to our knowledge, there is no study specifically investigating the role that zoos play in the colonization of cities by free&#x02010;living birds. We thus know little on why zoos attract free&#x02010;living birds such as crows, that is, how crows use the zoos and what are the factors that may make zoos attractive to crows.</p><p>The aim of this study was to evaluate why crows are attracted to zoos, that is, the role that zoos play in the establishment and colonization of free&#x02010;living corvids in urban environments. We focused on food availability and breeding opportunities as factors that may explain the attractiveness of zoos to crows. We hypothesized that (a) crow abundance may vary between zoos with different geographic settings, habitat structures, and/or food management practices, (b) crow abundance may change between seasons, as we expected more crows in the winter (when food is generally limited and crows are gregarious) than in the summer (when food is usually not limited and crows are territorial), and (c) crow abundance may be higher in the afternoons, as zoo animals are typically fed during the day, for example, at scheduled feeding times for visitors, and by the afternoon, the leftovers will become available to crows. To study these factors, we quantified the number of corvids, including, as far as possible breeding (i.e., resident) and nonbreeding corvids (i.e., nonresident), and recorded their behavior over one summer and one winter in four urban zoos that differed in geographic settings, habitat structures, and/or food management practices. We studied the effects of food availability, season, time of day, weather, temperature, and snow cover on corvid numbers. We also quantified crow behavior to evaluate the importance of natural versus anthropogenic food sources and breeding opportunities in order to detect differences between zoos that can be used to infer the importance of the above factors in corvid establishment and colonization of urban areas.</p></sec><sec sec-type="materials-and-methods" id="ece35881-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35881-sec-0003"><label>2.1</label><title>Study locations and species</title><p>We studied three crow species (Figure <xref rid="ece35881-fig-0001" ref-type="fig">1</xref>) in four zoos in Europe and Asia: Debrecen Zoo in Debrecen, Hungary, Edinburgh Zoo in Edinburgh, United Kingdom, Sapporo Maruyama Zoo in Sapporo, Japan, and Tiergarten Sch&#x000f6;nbrunn in Vienna, Austria (Table <xref rid="ece35881-tbl-0001" ref-type="table">1</xref>, Figure <xref rid="ece35881-fig-0002" ref-type="fig">2</xref>). Each zoo is within the respective city limits, displays several hundreds of animals in indoor and outdoor enclosures, and has both open habitats (e.g., grasslands, lawns) and woody vegetation, walkways, and facilities for visitors such as restaurants, kiosks, and outdoor eateries (Table <xref rid="ece35881-tbl-0001" ref-type="table">1</xref>, Figure <xref rid="ece35881-fig-0002" ref-type="fig">2</xref>). The zoos are inhabited and utilized by <italic>Corvus</italic> crow species: two species of crows (carrion crows <italic>C.&#x000a0;corone</italic> and hooded crows <italic>C.&#x000a0;cornix</italic>) in the three zoos in Europe and large&#x02010;billed crows in Sapporo (Table <xref rid="ece35881-tbl-0001" ref-type="table">1</xref>). The two European species, <italic>C.&#x000a0;corone</italic> and <italic>C.&#x000a0;cornix</italic>, co&#x02010;occur and often form mixed breeding pairs in Vienna. Although other corvid species were also found occasionally in the zoos (European jackdaw <italic>C.&#x000a0;monedula</italic> and rook <italic>C.&#x000a0;frugilegus</italic> mainly in the winter in Debrecen and Vienna, European jackdaw and Eurasian magpie <italic>Pica pica</italic> in Edinburgh, carrion crow and Eurasian jay <italic>Garrulus glandarius</italic> in Sapporo), we focused our study on the most common crow species in each zoo (Table <xref rid="ece35881-tbl-0001" ref-type="table">1</xref>). The four zoos differed in geographic setting (one in northwest Europe, two in Central Europe, and one in Asia), food availability (Sapporo with fewer open&#x02010;top enclosures and strict food management practices, three others with more open&#x02010;top enclosures and less strict practices), number of visitors (Debrecen&#x000a0;&#x0003c;&#x000a0;Edinburgh&#x000a0;=&#x000a0;Sapporo&#x000a0;&#x0003c;&#x000a0;Vienna), and habitat structure (with fewer trees relative to area and more open habitat in Edinburgh and Vienna and relatively more trees and less open habitat in Debrecen and Sapporo) (Table <xref rid="ece35881-tbl-0001" ref-type="table">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35881-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Photographs of crow species studied: Carrion Crow (<italic>Corvus corone</italic>) (A), Hooded Crow (<italic>C.&#x000a0;cornix</italic>) (B), and Large&#x02010;billed Crow (<italic>C.&#x000a0;macrorhynchos</italic>) (C). Photos by P&#x000e9;ter Gy&#x000fc;re (A, B) and Makiko Takenaka (C)</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14465-g001"/></fig><table-wrap id="ece35881-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Characteristics of the studied zoos</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">City</th><th align="left" valign="top" rowspan="1" colspan="1">Coordinates</th><th align="left" valign="top" rowspan="1" colspan="1">Common <italic>Corvus</italic> species</th><th align="left" valign="top" rowspan="1" colspan="1">Zoo area (ha)</th><th align="left" valign="top" rowspan="1" colspan="1">% open&#x02010;top enclosures</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>N</italic> visitors (2013)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>N</italic> potential nest trees</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>N</italic> breeding pairs (2014)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Debrecen</td><td align="left" rowspan="1" colspan="1">47&#x000b0;31&#x02032;48&#x02033;N, 21&#x000b0;38&#x02032;21&#x02033;E</td><td align="left" rowspan="1" colspan="1">Hooded Crow, <italic>C.&#x000a0;cornix</italic>
+</td><td align="left" rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1">67</td><td align="char" char="." rowspan="1" colspan="1">172,500</td><td align="left" rowspan="1" colspan="1">c. 2,000</td><td align="char" char="." rowspan="1" colspan="1">8</td></tr><tr><td align="left" rowspan="1" colspan="1">Edinburgh</td><td align="left" rowspan="1" colspan="1">55&#x000b0;56&#x02032;35&#x02033;N, 3&#x000b0;16&#x02032;05&#x02033;W</td><td align="left" rowspan="1" colspan="1">Carrion Crow, <italic>C.&#x000a0;corone</italic>
+</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1">69</td><td align="char" char="." rowspan="1" colspan="1">760,897</td><td align="left" rowspan="1" colspan="1">c. 1,200</td><td align="char" char="." rowspan="1" colspan="1">10</td></tr><tr><td align="left" rowspan="1" colspan="1">Sapporo</td><td align="left" rowspan="1" colspan="1">43&#x000b0;03&#x02032;48&#x02033;N, 141&#x000b0;20&#x02032;55&#x02033;E</td><td align="left" rowspan="1" colspan="1">Large&#x02010;billed Crow, <italic>C.&#x000a0;macrorhynchos</italic>
+</td><td align="left" rowspan="1" colspan="1">22.5</td><td align="left" rowspan="1" colspan="1">38</td><td align="char" char="." rowspan="1" colspan="1">748,819</td><td align="left" rowspan="1" colspan="1">c. 2,900</td><td align="char" char="." rowspan="1" colspan="1">8</td></tr><tr><td align="left" rowspan="1" colspan="1">Vienna</td><td align="left" rowspan="1" colspan="1">48&#x000b0;10&#x02032;56&#x02033;N, 16&#x000b0;18&#x02032;09&#x02033;E</td><td align="left" rowspan="1" colspan="1">Carrion Crow, Hooded Crow</td><td align="left" rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1">59</td><td align="char" char="." rowspan="1" colspan="1">2,226,404</td><td align="left" rowspan="1" colspan="1">c. 1,700</td><td align="char" char="." rowspan="1" colspan="1">21</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35881-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Aerial view of the four zoos (borders in yellow, white horizontal bars: 100&#x000a0;m). Source: Google Earth</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14465-g002"/></fig></sec><sec id="ece35881-sec-0004"><label>2.2</label><title>Data collection</title><p>We collected data by recording the number and behavior of crows in the zoos in the summer of 2014 and winter of 2014/2015 (Table <xref rid="ece35881-tbl-0002" ref-type="table">2</xref>). We surveyed crows while walking along a predefined route that covered the entire zoo area. One or more surveys were conducted on every study day (mean 1.6&#x000a0;&#x000b1;&#x000a0;S.D. 0.37, range 1.2&#x02013;2.7 surveys per day in the summer and 1.5&#x000a0;&#x000b1;&#x000a0;0.16, range 1.2&#x02013;1.9 surveys per day in the winter). The total number of study days was 85, 72, 82,and 58 in Debrecen, Edinburgh, Sapporo, and Vienna, respectively, and the number of surveys was 100, 88, 114, and 143, respectively (Table <xref rid="ece35881-tbl-0002" ref-type="table">2</xref>). On average, surveys were conducted once every 2.4&#x000a0;&#x000b1;&#x000a0;0.17&#x000a0;days (range 2.1&#x02013;2.9) in the summer and once every 2.5&#x000a0;&#x000b1;&#x000a0;0.33&#x000a0;days (range 1.9&#x02013;3.3) in the winter (all zoos combined).</p><table-wrap id="ece35881-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Characteristics of sampling (number of study days and surveys) in the summer and the winter periods in the four zoos</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">City</th><th align="left" valign="top" rowspan="1" colspan="1">Summer (2014)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>N</italic> days</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>N</italic> surveys</th><th align="left" valign="top" rowspan="1" colspan="1">Winter (2014/15)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>N</italic> days</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>N</italic> surveys</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Debrecen</td><td align="left" rowspan="1" colspan="1">22 April to 17 August</td><td align="left" rowspan="1" colspan="1">55</td><td align="char" char="." rowspan="1" colspan="1">63</td><td align="left" rowspan="1" colspan="1">5 December to 6 February</td><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">37</td></tr><tr><td align="left" rowspan="1" colspan="1">Edinburgh</td><td align="left" rowspan="1" colspan="1">21 May to 12 August</td><td align="left" rowspan="1" colspan="1">40</td><td align="char" char="." rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">15 December to 13 February</td><td align="left" rowspan="1" colspan="1">32</td><td align="left" rowspan="1" colspan="1">41</td></tr><tr><td align="left" rowspan="1" colspan="1">Sapporo</td><td align="left" rowspan="1" colspan="1">16 April to 17 August</td><td align="left" rowspan="1" colspan="1">52</td><td align="char" char="." rowspan="1" colspan="1">69</td><td align="left" rowspan="1" colspan="1">3 December to 28 February</td><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">45</td></tr><tr><td align="left" rowspan="1" colspan="1">Vienna</td><td align="left" rowspan="1" colspan="1">1 May to 22 August</td><td align="left" rowspan="1" colspan="1">40</td><td align="char" char="." rowspan="1" colspan="1">108</td><td align="left" rowspan="1" colspan="1">2 December to 30 January</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">35</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>In each survey, we recorded the location of sighting for each crow and the behavior of the bird. We defined three categories of crow behavior: (a) &#x0201c;foraging&#x0201d; was searching for or consuming naturally occurring food on the ground, in the grass, or in the trees, (b) &#x0201c;feeding&#x0201d; was searching for or consuming food from anthropogenic sources either as food provided to the zoo animals, given directly to crows by humans or indirectly as leftover near restaurants, kiosks, or trash bins, and (c) &#x0201c;breeding&#x0201d; included all behaviors suggesting that an animal was breeding (collecting nest material, incubating eggs, guarding a nest, guarding or feeding young etc., only in summer). Surveys were conducted only during the time when zoos were open to the public. We noted the number of human visitors in the vicinity (&#x0003c;50&#x000a0;m) of each crow sighting and calculated the average number of visitors for each survey. The number of visitors was then classified into three categories as few (between 1 and 5 visitors), intermediate (between 6 and 10 visitors), and many (&#x0003e;10 visitors). Finally, we recorded season (summer, winter), time of day (morning, afternoon, with threshold of 13:00 in summer and 12:00 in winter), weather conditions (sunny, cloudy, cloudy with precipitation such as rain or snow), air temperature (measured by handheld thermometers), and presence of snow cover (only in winter). Air temperature measurements were classified into three categories (cold: &#x0003c;10&#x000b0;C, moderate: between 10&#x000b0;C and 20&#x000b0;C, warm: &#x0003e;20&#x000b0;C). No surveys were conducted in heavy rain or snow or when air temperature was below &#x02212;10&#x000b0;C or above 30&#x000b0;C.</p></sec><sec id="ece35881-sec-0005"><label>2.3</label><title>Data analyses</title><p>Our first response variable was the number of observed crows per survey. To correct for the different area of zoos, we calculated this as the number of crows per 10&#x000a0;ha. We evaluated the effect of predictor variables on the response variable by constructing a generalized linear mixed model (GLMM) with a log&#x02010;linear link function and a Poisson error distribution. For the GLMM, we pooled summer and winter data, and &#x0201c;day&#x0201d; was entered into the model as random factor to account for repeated measures, that is, more than one survey on the same day and to minimize the effect of temporal autocorrelation in the observations. Fixed main effects included zoo (Debrecen, Edinburgh, Sapporo, Vienna), season, time of day, weather, temperature, snow cover, and number of visitors. We did not differentiate between observations on weekdays and weekends/holidays because the number of visitors was considered a more direct measure of human presence in the zoos.</p><p>Because our primary interest was to find between&#x02010;zoo differences (i.e., interactions) and similarities (i.e., lack of interactions) in the effect of predictor variables, we entered all first&#x02010;order interactions with &#x0201c;zoo&#x0201d; to allow for different relationships with fixed effects in the four zoos (full model). Nonsignificant (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05) interactions and main effects were removed sequentially to obtain a final reduced model. When any interaction with &#x0201c;zoo&#x0201d; was significant, we applied pairwise comparisons of zoos using <italic>t</italic> tests, with a significance level corrected for multiple comparisons (Bonferroni <italic>&#x003b1;</italic>&#x000a0;=&#x000a0;.005). To confirm our final model, we also carried out model selection in an information theory&#x02010;based approach based on AICc using the &#x0201c;dredge&#x0201d; function of the R package &#x0201c;MuMin.&#x0201d; This analysis resulted in one best model (for the second best model, &#x00394;AICc&#x000a0;=&#x000a0;2.218 or &#x0003e;2), which was identical to our final model; thus, we concluded that an alternative approach would lead to qualitatively identical results.</p><p>Our second response variable was crow behavior. To compare crow behavior within and between zoos, we calculated percentages of the three behavioral variables separately for each zoo as the percentage of occasions when birds were observed performing any of the three behaviors in each survey. As we only recorded foraging, feeding, and breeding and crows could engage in other behaviors, these percentages did not necessarily add up to 100% in each survey. We compared behavioral data (percentages) between and within zoos separately for seasons. As the behavioral data were not normally distributed, we used Kruskal&#x02013;Wallis and Mann&#x02013;Whitney <italic>U</italic> tests for between&#x02010;zoo comparisons. In pairwise Mann&#x02013;Whitney <italic>U</italic> tests, we applied Bonferroni adjustment for multiple comparisons by setting <italic>&#x003b1;</italic> to .008 (between&#x02010;zoo comparisons) or to .016 (within&#x02010;zoo comparisons). Significance values given are two&#x02010;tailed, and all analyses were performed with IBM SPSS Statistics 20.</p></sec></sec><sec sec-type="results" id="ece35881-sec-0006"><label>3</label><title>RESULTS</title><sec id="ece35881-sec-0007"><label>3.1</label><title>Factors influencing the number of crows</title><p>We observed significantly more crows in Vienna than in the other three zoos (Figure <xref rid="ece35881-fig-0003" ref-type="fig">3</xref>; Vienna&#x02013;Edinburgh: <italic>t</italic>&#x000a0;=&#x000a0;10.145, <italic>df</italic>&#x000a0;=&#x000a0;415, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001; Vienna&#x02013;Debrecen: <italic>t</italic>&#x000a0;=&#x000a0;13.526, <italic>df</italic>&#x000a0;=&#x000a0;415, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001; Vienna&#x02013;Sapporo: <italic>t</italic>&#x000a0;=&#x000a0;15.103, <italic>df</italic>&#x000a0;=&#x000a0;415, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), while the number of crows was intermediate and similar in Debrecen and Edinburgh and was significantly lower in Sapporo than in Debrecen or Edinburgh (Debrecen&#x02010;Sapporo: <italic>t</italic>&#x000a0;=&#x000a0;3.801, <italic>df</italic>&#x000a0;=&#x000a0;415, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001; Edinburgh&#x02010;Sapporo: <italic>t</italic>&#x000a0;=&#x000a0;3.101, <italic>df</italic>&#x000a0;=&#x000a0;415, <italic>p</italic>&#x000a0;=&#x000a0;.002) (Figure <xref rid="ece35881-fig-0003" ref-type="fig">3</xref>, Table <xref rid="ece35881-tbl-0003" ref-type="table">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35881-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Mean&#x000a0;&#x000b1;&#x000a0;<italic>SE</italic> number of crows observed in the four zoos in summer and winter surveys (A), in morning and afternoon surveys (B), and in surveys in sunny, cloudy weather, and cloudy weather with precipitation (C). Values shown are means adjusted for fixed and random effects by the final GLMM. Lowercase letters above (A) indicate significant differences (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01) in the number of crows in the between&#x02010;zoo comparison, with data pooled across season, time of day and weather. Asterisks indicate results of within&#x02010;zoo comparisons, *<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01, ***<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001, ns: not significant</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14465-g003"/></fig><table-wrap id="ece35881-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Results of generalized linear mixed models testing the effects of fixed effects on the number of crows observed per survey with day of observation as random factor</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Fixed factor</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Full model</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Final model</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>F</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>df</italic>1, <italic>df</italic>2</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>F</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>df</italic>1, <italic>df</italic>2</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Zoo identity</td><td align="char" char="." rowspan="1" colspan="1">55.238</td><td align="left" rowspan="1" colspan="1">3, 405</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>164.717</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>3, 415</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Season</td><td align="char" char="." rowspan="1" colspan="1">3.076</td><td align="left" rowspan="1" colspan="1">1, 405</td><td align="char" char="." rowspan="1" colspan="1">.08</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>76.164</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>1, 415</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Time of day</td><td align="char" char="." rowspan="1" colspan="1">36.769</td><td align="left" rowspan="1" colspan="1">1, 405</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>39.228</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>1, 415</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Weather</td><td align="char" char="." rowspan="1" colspan="1">4.583</td><td align="left" rowspan="1" colspan="1">3, 405</td><td align="char" char="." rowspan="1" colspan="1">.004</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>5.273</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>3, 415</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Temperature</td><td align="char" char="." rowspan="1" colspan="1">0.088</td><td align="left" rowspan="1" colspan="1">2, 405</td><td align="char" char="." rowspan="1" colspan="1">.916</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">Snow cover</td><td align="char" char="." rowspan="1" colspan="1">0.638</td><td align="left" rowspan="1" colspan="1">1, 405</td><td align="char" char="." rowspan="1" colspan="1">.425</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of visitors</td><td align="char" char="." rowspan="1" colspan="1">4.843</td><td align="left" rowspan="1" colspan="1">2, 405</td><td align="char" char="." rowspan="1" colspan="1">.008</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>4.586</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>2, 415</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.011</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Zoo*Season</td><td align="char" char="." rowspan="1" colspan="1">6.094</td><td align="left" rowspan="1" colspan="1">2, 405</td><td align="char" char="." rowspan="1" colspan="1">.002</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>28.208</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>3, 415</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Zoo*Time of day</td><td align="char" char="." rowspan="1" colspan="1">4.387</td><td align="left" rowspan="1" colspan="1">3, 405</td><td align="char" char="." rowspan="1" colspan="1">.005</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>4.537</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>3, 415</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.004</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Zoo*Weather</td><td align="char" char="." rowspan="1" colspan="1">3.698</td><td align="left" rowspan="1" colspan="1">7, 405</td><td align="char" char="." rowspan="1" colspan="1">.001</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>3.483</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>7, 415</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Zoo*Temperature</td><td align="char" char="." rowspan="1" colspan="1">0.662</td><td align="left" rowspan="1" colspan="1">5, 405</td><td align="char" char="." rowspan="1" colspan="1">.653</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">Zoo*Snow cover</td><td align="char" char="." rowspan="1" colspan="1">1.158</td><td align="left" rowspan="1" colspan="1">2, 405</td><td align="char" char="." rowspan="1" colspan="1">.315</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">Zoo*Number of visitors</td><td align="char" char="." rowspan="1" colspan="1">2.566</td><td align="left" rowspan="1" colspan="1">6, 405</td><td align="char" char="." rowspan="1" colspan="1">.019</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>3.006</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>6, 415</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.007</bold>
+</td></tr></tbody></table><table-wrap-foot id="ece35881-ntgp-0002"><title>Note</title><fn id="ece35881-note-0002"><p>The full model contained zoo identity, six fixed effects, and their six first&#x02010;order interactions with zoo identity, whereas the final model contained only significant (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05) factors and interactions (indicated in bold).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Significant interactions between zoos and four factors showed that the effects of season, time of day, weather, and number of visitors on the number of crows differed between the zoos (Table <xref rid="ece35881-tbl-0003" ref-type="table">3</xref>). The interaction between zoo and season was because there were more crows in the winter than in the summer in Debrecen (<italic>F</italic>
+<sub>1, 415</sub>&#x000a0;=&#x000a0;68.181, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), Edinburgh (<italic>F</italic>
+<sub>1, 415</sub>&#x000a0;=&#x000a0;17.068, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), and Vienna (<italic>F</italic>
+<sub>1, 415</sub>&#x000a0;=&#x000a0;17.47, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), whereas we found the opposite in Sapporo (<italic>F</italic>
+<sub>1, 415</sub>&#x000a0;=&#x000a0;6.589, <italic>p</italic>&#x000a0;=&#x000a0;.011) (Figure <xref rid="ece35881-fig-0003" ref-type="fig">3</xref>A, Table <xref rid="ece35881-tbl-0003" ref-type="table">3</xref>). The interaction between zoo and time of day indicated that there were more crows in the afternoon than in the morning in Debrecen (<italic>F</italic>
+<sub>1, 415</sub>&#x000a0;=&#x000a0;5.439, <italic>p</italic>&#x000a0;=&#x000a0;.02), Sapporo (<italic>F</italic>
+<sub>1, 415</sub>&#x000a0;=&#x000a0;9.743, <italic>p</italic>&#x000a0;=&#x000a0;.002), and Vienna (<italic>F</italic>
+<sub>1, 415</sub>&#x000a0;=&#x000a0;128.526, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), whereas a similar difference in Edinburgh was not significant (<italic>F</italic>
+<sub>1, 415</sub>&#x000a0;=&#x000a0;0.938, <italic>p</italic>&#x000a0;=&#x000a0;.333) (Figure <xref rid="ece35881-fig-0003" ref-type="fig">3</xref>B, Table <xref rid="ece35881-tbl-0003" ref-type="table">3</xref>). The interaction between zoo and weather indicated that there were more crows in sunny weather than in cloudy weather with precipitation in Debrecen (<italic>F</italic>
+<sub>2, 415</sub>&#x000a0;=&#x000a0;9.531, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) and Vienna (<italic>F</italic>
+<sub>2, 415</sub>&#x000a0;=&#x000a0;18.829, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), whereas there were no such differences in Edinburgh (<italic>F</italic>
+<sub>2, 415</sub>&#x000a0;=&#x000a0;1.008, <italic>p</italic>&#x000a0;=&#x000a0;.389) and Sapporo (<italic>F</italic>
+<sub>2, 415</sub>&#x000a0;=&#x000a0;2.49, <italic>p</italic>&#x000a0;=&#x000a0;.084) (Figure <xref rid="ece35881-fig-0003" ref-type="fig">3</xref>C, Table <xref rid="ece35881-tbl-0003" ref-type="table">3</xref>). Finally, the interaction between zoo and the number of visitors was because there were more crows when there were a few or some visitors than when there were many visitors in Debrecen (few vs. many: <italic>t</italic>&#x000a0;=&#x000a0;3.881, <italic>df</italic>&#x000a0;=&#x000a0;415, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001; some vs. many: <italic>t</italic>&#x000a0;=&#x000a0;3.995, <italic>df</italic>&#x000a0;=&#x000a0;415, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), whereas there were more crows when there were some visitors compared to few or many visitors in Vienna (few vs. some: <italic>t</italic>&#x000a0;=&#x000a0;4.709, <italic>df</italic>&#x000a0;=&#x000a0;415, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001; some vs. many: <italic>t</italic>&#x000a0;=&#x000a0;2.657, <italic>df</italic>&#x000a0;=&#x000a0;415, <italic>p</italic>&#x000a0;=&#x000a0;.008). The number of crows observed was not related to the number of visitors in Edinburgh (<italic>F</italic>
+<sub>2, 415</sub>&#x000a0;=&#x000a0;0.1, <italic>p</italic>&#x000a0;=&#x000a0;.905) and Sapporo (<italic>F</italic>
+<sub>2, 415</sub>&#x000a0;=&#x000a0;2.722, <italic>p</italic>&#x000a0;=&#x000a0;.067).</p></sec><sec id="ece35881-sec-0008"><label>3.2</label><title>Crow behavior differences between and within zoos</title><p>Between&#x02010;zoo comparisons revealed significant variation in each of the three crow behaviors recorded between zoos (Figure <xref rid="ece35881-fig-0004" ref-type="fig">4</xref>). In summer, the frequency of foraging (use of natural food sources) was highest in Vienna, followed by Edinburgh, and was low in Debrecen and Sapporo (Figure <xref rid="ece35881-fig-0004" ref-type="fig">4</xref>A, Table <xref rid="ece35881-tbl-0004" ref-type="table">4</xref>). The frequency of feeding (use of anthropogenic food sources) was high (but also highly variable) in Debrecen, relatively high in Edinburgh, followed by Vienna, and was lowest in Sapporo (Figure <xref rid="ece35881-fig-0004" ref-type="fig">4</xref>C, Table <xref rid="ece35881-tbl-0004" ref-type="table">4</xref>). The frequency of breeding behaviors was highest in Sapporo, followed by Edinburgh, then by Vienna and Debrecen, with no significant difference between the latter two (Figure <xref rid="ece35881-fig-0004" ref-type="fig">4</xref>E, Table <xref rid="ece35881-tbl-0004" ref-type="table">4</xref>). In the winter, the frequency of foraging behavior was highest in Vienna and significantly lower (15%&#x02013;20%) in the other three zoos, indicating a decrease from summer levels in Edinburgh and increases in Debrecen and Sapporo (Figure <xref rid="ece35881-fig-0004" ref-type="fig">4</xref>B, Table <xref rid="ece35881-tbl-0004" ref-type="table">4</xref>). The frequency of feeding behavior increased from summer to winter in Debrecen and Edinburgh and was significantly higher in the winter than in Sapporo and Vienna (Figure <xref rid="ece35881-fig-0004" ref-type="fig">4</xref>D, Table <xref rid="ece35881-tbl-0004" ref-type="table">4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35881-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Percentage of crows observed engaged in foraging (natural food, A, B), feeding (anthropogenic food, C, D), and breeding (E) behavior in the summer (left&#x02010;hand column) and winter (right&#x02010;hand column) in the four zoos. Lowercase letters above the graphs indicate significant differences between zoos (pairwise Mann&#x02013;Whitney tests, Bonferroni&#x02010;adjusted two&#x02010;tailed probabilities, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.008)</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-14465-g004"/></fig><table-wrap id="ece35881-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Between&#x02010;zoo pairwise comparisons of foraging (use of natural food sources), feeding (use of anthropogenic food sources), and breeding behaviors in summer (data in Figure <xref rid="ece35881-fig-0002" ref-type="fig">2</xref>) and foraging and feeding in winter</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Season</th><th align="left" rowspan="2" valign="bottom" colspan="1">Behavior</th><th align="left" rowspan="2" valign="bottom" colspan="1">Zoo</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Edinburgh <italic>N</italic>&#x000a0;=&#x000a0;47</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Sapporo <italic>N</italic>&#x000a0;=&#x000a0;69</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Vienna <italic>N</italic>&#x000a0;=&#x000a0;108</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>Z</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>Z</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>Z</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="9" colspan="1">Summer</td><td align="left" rowspan="3" colspan="1">Foraging</td><td align="left" rowspan="1" colspan="1">Debrecen</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02212;7.761</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;0.264</td><td align="char" char="." rowspan="1" colspan="1">.792</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;10.856</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Edinburgh</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02212;7.948</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;6.618</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Sapporo</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="char" char="." rowspan="1" colspan="1">&#x02013;</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;11.176</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="3" colspan="1">Feeding</td><td align="left" rowspan="1" colspan="1">Debrecen</td><td align="left" rowspan="1" colspan="1">&#x02212;1.409</td><td align="left" rowspan="1" colspan="1">.159</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02212;3.137</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.002</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.956</td><td align="char" char="." rowspan="1" colspan="1">.339</td></tr><tr><td align="left" rowspan="1" colspan="1">Edinburgh</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02212;5.838</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;3.524</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Sapporo</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="char" char="." rowspan="1" colspan="1">&#x02013;</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;5.745</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="3" colspan="1">Breeding</td><td align="left" rowspan="1" colspan="1">Debrecen</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02212;5.678</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02212;6.346</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;2.18</td><td align="char" char="." rowspan="1" colspan="1">.029</td></tr><tr><td align="left" rowspan="1" colspan="1">Edinburgh</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02212;2.818</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.005</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;6.496</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Sapporo</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="char" char="." rowspan="1" colspan="1">&#x02013;</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;6.922</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="3" colspan="1">Winter</td><td align="left" rowspan="3" colspan="1">Foraging</td><td align="left" rowspan="1" colspan="1">Debrecen</td><td align="left" rowspan="1" colspan="1">&#x02212;1.568</td><td align="left" rowspan="1" colspan="1">.117</td><td align="left" rowspan="1" colspan="1">&#x02212;0.944</td><td align="char" char="." rowspan="1" colspan="1">.345</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;4.41</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Edinburgh</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02212;1.96</td><td align="char" char="." rowspan="1" colspan="1">.050</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;5.747</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Sapporo</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="char" char="." rowspan="1" colspan="1">&#x02013;</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;4.93</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="3" colspan="1">Winter</td><td align="left" rowspan="3" colspan="1">Feeding</td><td align="left" rowspan="1" colspan="1">Debrecen</td><td align="left" rowspan="1" colspan="1">&#x02212;1.028</td><td align="left" rowspan="1" colspan="1">.304</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02212;4.541</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;1.617</td><td align="char" char="." rowspan="1" colspan="1">.106</td></tr><tr><td align="left" rowspan="1" colspan="1">Edinburgh</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02212;6.206</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;5.19</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Sapporo</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="char" char="." rowspan="1" colspan="1">&#x02013;</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;5.293</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x0003c;.001</bold>
+</td></tr></tbody></table><table-wrap-foot id="ece35881-ntgp-0003"><title>Note</title><fn id="ece35881-note-0003"><p>Mann&#x02013;Whitney tests, Bonferroni&#x02010;adjusted two&#x02010;tailed probabilities, significant (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.008) differences are highlighted in bold.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Within&#x02010;zoo comparisons showed that feeding was the most frequently observed behavior of crows in Debrecen in the summer, and its frequency was higher than that of foraging (Figure <xref rid="ece35881-fig-0004" ref-type="fig">4</xref>A,C,E; <italic>N</italic>&#x000a0;=&#x000a0;28, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;3.933, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) or breeding (<italic>N</italic>&#x000a0;=&#x000a0;30, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;3.951, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001). In the winter, however, foraging and feeding occurred in equal frequency (Figure <xref rid="ece35881-fig-0004" ref-type="fig">4</xref>B,D; <italic>N</italic>&#x000a0;=&#x000a0;25, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;0.032, <italic>p</italic>&#x000a0;=&#x000a0;.983). In Edinburgh, foraging was the most frequently observed behavior and its frequency was higher than that of feeding both in the summer and winter (Figure <xref rid="ece35881-fig-0004" ref-type="fig">4</xref>; summer: <italic>N</italic>&#x000a0;=&#x000a0;41, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;4.252, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001; winter: <italic>N</italic>&#x000a0;=&#x000a0;39, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;2.477, <italic>p</italic>&#x000a0;=&#x000a0;.012), whereas the frequency of feeding and breeding behaviors did not differ (<italic>N</italic>&#x000a0;=&#x000a0;42, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;2.04, <italic>p</italic>&#x000a0;=&#x000a0;.041, <italic>&#x003b1;</italic>&#x000a0;=&#x000a0;.016). In Sapporo, breeding behavior was more frequently observed than foraging (Figure <xref rid="ece35881-fig-0004" ref-type="fig">4</xref>A,C,E; <italic>N</italic>&#x000a0;=&#x000a0;44, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;5.539, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) or feeding (<italic>N</italic>&#x000a0;=&#x000a0;52, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;5.097, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) in the summer, whereas in the winter, foraging was more frequent than feeding (Figure <xref rid="ece35881-fig-0004" ref-type="fig">4</xref>B,D; <italic>N</italic>&#x000a0;=&#x000a0;27, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;3.559, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001). In Vienna, the frequency of foraging was higher than that of feeding both in the summer (Figure <xref rid="ece35881-fig-0004" ref-type="fig">4</xref>; <italic>N</italic>&#x000a0;=&#x000a0;108, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;9.022, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) and the winter (<italic>N</italic>&#x000a0;=&#x000a0;35, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;5.159, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) and than that of breeding in the summer (<italic>N</italic>&#x000a0;=&#x000a0;108, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;9.022, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), when feeding was also more frequently observed than breeding (<italic>N</italic>&#x000a0;=&#x000a0;87, <italic>Z</italic>&#x000a0;=&#x000a0;&#x02212;6.793, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001).</p></sec></sec><sec sec-type="discussion" id="ece35881-sec-0009"><label>4</label><title>DISCUSSION</title><p>Our study provides two main results. First, we found that the variability in crow numbers could be explained by season (in all zoos), time of day (in Debrecen, Sapporo, and Vienna), weather (in Debrecen and Vienna), and number of visitors (in Debrecen and Vienna). The number of crows increased two&#x02010; to threefold from summer to winter in Debrecen, Edinburgh and Vienna likely by the influx of nonresident individuals. Further studies are required to discover where these nonresidents come from. In American Crows (<italic>Corvus brachyrhynchos</italic>), individuals appearing in urban sites in the winter are thought to come from rural populations, where nonterritorial floaters are opportunistic and do not show site fidelity, instead, they wander around in search of better foraging opportunities (Marzluff et al., <xref rid="ece35881-bib-0024" ref-type="ref">2001</xref>). Nevertheless, the influx clearly indicates the importance of zoos beyond providing breeding habitat to crows because the winter increase cannot be explained by breeding, which occurs only in the summer. Food availability is likely to be higher in the zoos than in natural environments, where food is scarce and/or under snow during the winter.</p><p>Time of day was important because we found more crows in the afternoon than in the morning in Debrecen, Sapporo, and Vienna. This finding may be explained by the temporal patterns of anthropogenic food sources. For example, birds may visit zoos to access leftover human food accumulating during the day in/near outdoor eateries, in trash bins, etc., as suggested by observations during the surveys in Vienna. In Debrecen, some zoo animals in wide open&#x02010;air enclosures are fed usually in the afternoon, and crows regularly appear in high numbers at this time, especially in the winter. Afternoons are probably important feeding times in the winter for crows because they need to collect energy to survive the cold nights at this time (Baltensperger et al., <xref rid="ece35881-bib-0002" ref-type="ref">2013</xref>). In Edinburgh, zoo birds and primates are fed twice a day (morning and afternoon), resulting in food potentially being available to crows all day, which may be related to the absence of a time&#x02010;of&#x02010;day effect here.</p><p>Weather was important for crow numbers in Debrecen and Vienna, with more crows observed in sunny weather than in cloudy weather with precipitation. It is likely that crows move around less when there is precipitation, for example, we observed that crows tended to stay longer in roosting sites in adverse weather and extreme cold in Sapporo, probably to save energy. In rainy weather, most crows stop feeding, become less active, and seek shelter from rain (Hume, <xref rid="ece35881-bib-0015" ref-type="ref">1986</xref>). Moreover, air uplift, which is necessary for crows for medium to long&#x02010;distance flight, does not occur on rainy days (Elkins, <xref rid="ece35881-bib-0010" ref-type="ref">1983</xref>). Although it is likely that crows taking refuge in trees were less detectable to observers than active crows in sunny weather, the differences in crow numbers were far greater than just a few individuals overlooked (Figure <xref rid="ece35881-fig-0004" ref-type="fig">4</xref>).</p><p>The number of visitors influenced crow numbers in Debrecen and Vienna similarly, with more crows when the number of visitors was few/intermediate, that is, 10 or less than when the number of visitors was many (over 10) in Debrecen, and with more crows with intermediate (6&#x02013;10 visitors) than with few (5 or less) or many visitors in Vienna. This was expected because although crows can easily get used to the presence of humans in urban environments, they usually keep some distance from humans (Clucas &#x00026; Marzluff, <xref rid="ece35881-bib-0005" ref-type="ref">2012</xref>; Matsyura, Jankowski, &#x00026; Zimaroyeva, <xref rid="ece35881-bib-0026" ref-type="ref">2015</xref>) and thus are expected to avoid areas with too many visitors.</p><p>Our second main result was that we found significant variation in the distribution of foraging and feeding behaviors, which suggested that natural food sources were highly important for crows in Vienna (both seasons), less important in Edinburgh (both seasons) and in Sapporo (in winter only), and not important in Debrecen. In contrast, the importance of anthropogenic food sources was high in Debrecen (both seasons), lower in Edinburgh (both seasons), and lowest but still non&#x02010;negligible in Sapporo and Vienna. Observations during the surveys showed that foraging for natural food sources occurred almost exclusively in open areas (open ground, grasslands, lawns), and crows were hardly if ever seen foraging in wooded areas or forests. In contrast, feeding on anthropogenic food was typically observed near sources of such food, for example, outdoor eateries, kiosks, trash bins, and animal enclosures, and on trees where crows carried food items for further handling and consumption.</p><p>One likely reason for the relative importance of natural versus anthropogenic food sources may be related to the structure of habitats within the zoos (Figure <xref rid="ece35881-fig-0002" ref-type="fig">2</xref>, Table <xref rid="ece35881-tbl-0001" ref-type="table">1</xref>). In Edinburgh and Vienna, the zoos have extensive open, grassy areas, or parkland (Figure <xref rid="ece35881-fig-0002" ref-type="fig">2</xref>), which were favoured by crows for foraging. In Sapporo, much of the zoo area is built up or covered by trees and there are only small patches of open grassy area (Figure <xref rid="ece35881-fig-0002" ref-type="fig">2</xref>, Table <xref rid="ece35881-tbl-0001" ref-type="table">1</xref>). Finally, in Debrecen, the zoo area is almost completely covered by trees, and there are no open areas available for foraging for natural food inside the zoo (Figure <xref rid="ece35881-fig-0002" ref-type="fig">2</xref>). Extensive open areas lie just outside the Debrecen zoo, in a sport complex (Figure <xref rid="ece35881-fig-0002" ref-type="fig">2</xref>), where crows regularly forage for natural food both in the summer and winter. These differences in habitat structure provide a likely explanation for why foraging for natural food was frequently observed in Edinburgh and Vienna and feeding on anthropogenic food was frequent in Debrecen.</p><p>Sapporo zoo differed from the three zoos in Europe in that it had fewer crows and the number of crows decreased, rather than increased, from the summer to the winter. Possible reasons for this, beyond the relatively small open areas (see above), is that the zoo management imposed strict rules to constrain the use of the zoo area by free&#x02010;living birds. These actions were motivated by observations of crows stealing scraps of food directly from visitors. The majority of the animal enclosures are covered with net or wires to keep out crows (Table <xref rid="ece35881-tbl-0001" ref-type="table">1</xref>), and there are strict rules for the handling of zoo animal food. For example, large carnivores are given their food in the indoor parts of their pens. As a result, food availability is low and is mostly restricted to naturally occurring food. As a possible consequence of the scarcity of food, in the summer, the Sapporo zoo area is divided up into territories that are fiercely defended by territorial pairs of breeding crows. The crows observed in the zoo in the summer are, almost exclusively, resident breeding birds, which drive nonresidents out of the zoo area, which in turn explains the small and constant number of crows. During the surveys, for example, we observed territorial pairs defending their territories against flocks, sometimes of up to 250 and 300 crows that attempted to trespass or perch in their territories. In the winter, cold weather and snow cover reduce naturally occurring food so even the resident birds have to leave the zoo to find food elsewhere from time to time.</p><p>Our results on the importance of food sources do not refute the general observation that zoos provide ample opportunities for the breeding of the crows (Table <xref rid="ece35881-tbl-0001" ref-type="table">1</xref>). For example, in Vienna, as many as 45 active nests were found in 2012 within the zoo (C. Schwab, pers. obs.), corresponding to a high nesting density of 2.6 nests per hectare. This value is one magnitude higher than that reported anywhere else previously, for example, one such published maximum was 0.255 nests per hectare (Vuorisalo et al., <xref rid="ece35881-bib-0037" ref-type="ref">2003</xref>). High nesting densities may have important consequences on the social structure of crows through the emergence of colonial nesting, which is not expected in crows that traditionally nest solitarily in rural areas (Cramp &#x00026; Perrins, <xref rid="ece35881-bib-0007" ref-type="ref">1994</xref>; McGowan, <xref rid="ece35881-bib-0028" ref-type="ref">2001</xref>). In Vienna, the social structure of crows shows an environmentally influenced fission&#x02013;fusion dynamics centered around the zoo throughout the year (Uhl et al., <xref rid="ece35881-bib-0036" ref-type="ref">2018</xref>). In Debrecen, the center of establishment and colonization of crows in the city was the zoo (K&#x000f6;v&#x000e9;r et al., <xref rid="ece35881-bib-0022" ref-type="ref">2015</xref>). Between 2006 and 2012, the city nesting population increased continuously, and the rate of increase was highest in the zoo area, which has many tall trees available for nesting. Here, nesting density increased from 2 to 8 nests/km<sup>2</sup> in only seven years (K&#x000f6;v&#x000e9;r et al., <xref rid="ece35881-bib-0022" ref-type="ref">2015</xref>). These previous results and our current results suggest that high availability of food and potential nesting sites are likely candidates to explain why crows are attracted to zoos.</p><p>We did not measure food availability directly, for example, by quantifying ground&#x02010;dwelling invertebrates or the amount of anthropogenic food accessible to crows. Rather, we used an indirect measure of food availability based on the behavior of the birds observed. In some cases, however, a higher frequency of foraging may not necessarily reflect higher availability of quality foraging areas with abundant natural food. For example, it is possible that crows are forced to forage for natural food rather than feed on anthropogenic food if the latter is not available, for example, by strict management of food for zoo animals, bird&#x02010;proof enclosures and garbage collection/storage, etc. Thus, foraging and feeding can be difficult to separate and more detailed information on natural and anthropogenic food sources, including their spatial and temporal variability, are necessary to disentangle the effects of natural versus anthropogenic food sources and the importance of the quantity versus quality of food to crows.</p><p>Our findings may have implications for the planning of urban areas and green infrastructure, as well as potential management implications for zoos regarding free&#x02010;living corvids, which may be especially relevant if crows become high in number. In many urban areas of the world, free&#x02010;living corvids come into conflict with humans (e.g., Soh, Sodhi, Seoh, &#x00026; Brook, <xref rid="ece35881-bib-0033" ref-type="ref">2002</xref>), as large concentrations or high nesting densities of corvids may impact the soil and vegetation, decrease urban bird diversity, and present sanitary risks from the crows' use of waste dumps and leftovers for feeding (Matsyura, Zimaroyeva, &#x00026; Jankowski, <xref rid="ece35881-bib-0027" ref-type="ref">2016</xref>; Zeller &#x00026; Schuffenecker, <xref rid="ece35881-bib-0040" ref-type="ref">2004</xref>). The high importance of food, especially of anthropogenic food, in the attraction of crows to zoos suggests that appropriate management of such food sources could reduce the attractiveness of zoos to crows, if deemed necessary. Although crows are known for their intelligence in finding and utilizing various sources of food (Marzluff et al., <xref rid="ece35881-bib-0025" ref-type="ref">2008</xref>), our results and observations highlight several potential areas of intervention should they become necessary in zoos: (a) limiting human food consumption to restaurants in buildings inaccessible to crows, (b) if food for humans is served outdoors, regular cleaning of the premises and installing lockable, bird&#x02010;proof trash bins, (c) limiting or restricting zoo food that can be purchased and given to zoo animals by visitors, (d) imposing strict rules for the handling and provisioning of food to zoo animals by the zoo staff, and (e) covering open&#x02010;top enclosures with nets or wires. Our study provides an example for some of these interventions. In the case of Sapporo zoo, our results indicate that reducing the availability of anthropogenic food sources through these measures can be effective in decreasing the attractiveness of zoos to crows and in reducing crow numbers within the zoo. The number of crows was &#x0003c;5 per 10&#x000a0;ha in Sapporo zoo in both summer and winter (Figure <xref rid="ece35881-fig-0003" ref-type="fig">3</xref>A), even though the area of Sapporo zoo is c. 32% larger than that of the Debrecen and Vienna zoo (Table <xref rid="ece35881-tbl-0001" ref-type="table">1</xref>), which had more crows. Although we cannot exclude the possibility that biogeographic differences such as lower crow abundance in the general Sapporo region than in the regions of the other zoos can explain this difference, our experience with Sapporo zoo suggests that the emergence of territoriality and aggression toward nonresident conspecifics induced by low food availability (see above) can at least partly explain the lower crow numbers. The limitation of anthropogenic food was suggested by Preininger et al. (<xref rid="ece35881-bib-0032" ref-type="ref">2019</xref>) as a solution to reduce the number of crows at waste disposal sites. Finally, in cases when crows need to be captured for research or for translocation purposes, zoos may provide suitable places for trapping crows, taking into account any relevant national legislation regarding crow trapping (K&#x000f6;v&#x000e9;r, T&#x000f3;th, Lengyel, &#x00026; Juh&#x000e1;sz, <xref rid="ece35881-bib-0023" ref-type="ref">2018</xref>).</p><p>We conclude that crows are primarily attracted to zoos by food availability and secondarily by the availability of nesting sites. Both natural food and anthropogenic food contribute to increased food availability, and the relative importance of each appears to vary with habitat structure within and around the zoos. Our study thus draws attention to a previously overlooked role of zoos in the conservation of biodiversity (Conde, Flesness, Colchero, Jones, &#x00026; Sceheurlein, <xref rid="ece35881-bib-0006" ref-type="ref">2011</xref>). It also provides useful information for the management of crow populations if they become high in number and for the planning of urban areas and green infrastructure.</p></sec><sec sec-type="COI-statement" id="ece35881-sec-0011"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec></body><back><ack id="ece35881-sec-0010"><title>ACKNOWLEDGMENTS</title><p>We thank the study zoos for permits to conduct fieldwork and two anonymous reviewers for constructive comments on an earlier draft. AK, FU, RM and CS were supported by the Vienna Science and Technology Fund (WWTF) through project CS11&#x02010;008 to CS. AK, FU, RM and CS were supported by the Vienna Science and Technology Fund (WWTF) through project CS11&#x02010;008 to CS. SL was supported by two grants from the National Research, Development and Innovation Office of Hungary (OTKA K106133, GINOP 2.3.3&#x02010;15.2016.00019).</p></ack><sec sec-type="data-availability" id="ece35881-sec-0013"><title>DATA AVAILABILITY STATEMENT</title><p>All data used in the analyses will available from Dryad upon acceptance. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.d2547d7zm" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.d2547d7zm</ext-link>
+</p></sec><ref-list content-type="cited-references" id="ece35881-bibl-0001"><title>REFERENCES</title><ref id="ece35881-bib-0001"><mixed-citation publication-type="journal" id="ece35881-cit-0001">
+<string-name>
+<surname>Axelsson</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>May</surname>, <given-names>S.</given-names>
+</string-name> (<year>2008</year>). <article-title>Constructed Ladscapes in Zoos and Heritage</article-title>. <source xml:lang="en">International Journal of Heritage Studies</source>, <volume>14</volume>(<issue>1</issue>), <fpage>43</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1080/13527250701712356</pub-id>
+</mixed-citation></ref><ref id="ece35881-bib-0002"><mixed-citation publication-type="journal" id="ece35881-cit-0002">
+<string-name>
+<surname>Baltensperger</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name>
+<surname>Mullet</surname>, <given-names>T. C.</given-names>
+</string-name>, <string-name>
+<surname>Schmid</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>Humphries</surname>, <given-names>G. R. W.</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f6;v&#x000e9;r</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Huettmann</surname>, <given-names>F.</given-names>
+</string-name> (<year>2013</year>). <article-title>Seasonal observations and machine&#x02010;learning&#x02010;based spatial model predictions for the common raven (<italic>Corvus corax</italic>) in the urban, sub&#x02010;artic environment of Fairbanks, Alaska</article-title>. <source xml:lang="en">Polar Biology</source>, <volume>36</volume>, <fpage>1587</fpage>&#x02013;<lpage>1599</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0003"><mixed-citation publication-type="journal" id="ece35881-cit-0003">
+<string-name>
+<surname>Bezzel</surname>, <given-names>E.</given-names>
+</string-name> (<year>1985</year>). <article-title>Birdlife in intensively used rural and urban environments</article-title>. <source xml:lang="en">Ornis Fennica</source>, <volume>62</volume>, <fpage>90</fpage>&#x02013;<lpage>95</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0004"><mixed-citation publication-type="journal" id="ece35881-cit-0004">
+<string-name>
+<surname>Bird</surname>, <given-names>C. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Emery</surname>, <given-names>N. J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Insightful problem solving and creative tool modification by captive&#x02010;nontool using rooks</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>106</volume>, <fpage>10370</fpage>&#x02013;<lpage>10375</lpage>.<pub-id pub-id-type="pmid">19478068</pub-id></mixed-citation></ref><ref id="ece35881-bib-0005"><mixed-citation publication-type="journal" id="ece35881-cit-0005">
+<string-name>
+<surname>Clucas</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Marzluff</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2012</year>). <article-title>Attitudes and actions toward birds in urban areas: Human cultural differences influence bird behavior</article-title>. <source xml:lang="en">The Auk</source>, <volume>129</volume>, <fpage>8</fpage>&#x02013;<lpage>16</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0006"><mixed-citation publication-type="journal" id="ece35881-cit-0006">
+<string-name>
+<surname>Conde</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Flesness</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Colchero</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>O. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sceheurlein</surname>, <given-names>A.</given-names>
+</string-name> (<year>2011</year>). <article-title>An emerging role of zoos to conserve biodiversity</article-title>. <source xml:lang="en">Science</source>, <volume>331</volume>, <fpage>1390</fpage>&#x02013;<lpage>1391</lpage>.<pub-id pub-id-type="pmid">21415339</pub-id></mixed-citation></ref><ref id="ece35881-bib-0007"><mixed-citation publication-type="book" id="ece35881-cit-0007">
+<string-name>
+<surname>Cramp</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Perrins</surname>, <given-names>C. M.</given-names>
+</string-name> (Eds.) (<year>1994</year>). <source xml:lang="en">Handbook of the birds of Europe, the Middle East and North Africa. The birds of the Western Palearctic. Volume VII. Crows to finches</source>. <publisher-loc>Oxford, UK</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece35881-bib-0008"><mixed-citation publication-type="journal" id="ece35881-cit-0008">
+<string-name>
+<surname>Crooks</surname>, <given-names>K. R.</given-names>
+</string-name>, <string-name>
+<surname>Suarez</surname>, <given-names>A. V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bolger</surname>, <given-names>D. T.</given-names>
+</string-name> (<year>2003</year>). <article-title>Avian assemblages along a gradient of urbanization in a highly fragmented landscape</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>115</volume>, <fpage>451</fpage>&#x02013;<lpage>462</lpage>. <pub-id pub-id-type="doi">10.1016/S0006-3207(03)00162-9</pub-id>
+</mixed-citation></ref><ref id="ece35881-bib-0009"><mixed-citation publication-type="journal" id="ece35881-cit-0009">
+<string-name>
+<surname>Devictor</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Julliard</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Clavel</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jiguet</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Couvet</surname>, <given-names>D.</given-names>
+</string-name> (<year>2008</year>). <article-title>Functional biotic homogenization of bird communities in disturbed landscapes</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>17</volume>, <fpage>252</fpage>&#x02013;<lpage>261</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0010"><mixed-citation publication-type="book" id="ece35881-cit-0010">
+<string-name>
+<surname>Elkins</surname>, <given-names>N.</given-names>
+</string-name> (<year>1983</year>). <source xml:lang="en">Weather and Bird Behavior, Poyser Monographs</source> (p. <fpage>271</fpage>). </mixed-citation></ref><ref id="ece35881-bib-0011"><mixed-citation publication-type="journal" id="ece35881-cit-0011">
+<string-name>
+<surname>Emery</surname>, <given-names>N. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Clayton</surname>, <given-names>N. S.</given-names>
+</string-name> (<year>2004</year>). <article-title>The mentality of crows: Convergent evolution of intelligence of corvids and apes</article-title>. <source xml:lang="en">Science</source>, <volume>306</volume>, <fpage>1903</fpage>&#x02013;<lpage>1907</lpage>.<pub-id pub-id-type="pmid">15591194</pub-id></mixed-citation></ref><ref id="ece35881-bib-0012"><mixed-citation publication-type="journal" id="ece35881-cit-0012">
+<string-name>
+<surname>E&#x000f6;tv&#x000f6;s</surname>, <given-names>C. B.</given-names>
+</string-name>, <string-name>
+<surname>Magura</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>L&#x000f6;vei</surname>, <given-names>G. L.</given-names>
+</string-name> (<year>2018</year>). <article-title>A meta&#x02010;analysis indicate reduced predation pressure with increasing urbanization</article-title>. <source xml:lang="en">Landscape and Urban Planning</source>, <volume>180</volume>, <fpage>54</fpage>&#x02013;<lpage>59</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0013"><mixed-citation publication-type="journal" id="ece35881-cit-0013">
+<string-name>
+<surname>Fey</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Vuorisalo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lehikoinen</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Selonen</surname>, <given-names>V.</given-names>
+</string-name> (<year>2015</year>). <article-title>Urbanisation of the wood pigeon (<italic>Columba palumbus</italic>) in Finland</article-title>. <source xml:lang="en">Landscape and Urban Planning</source>, <volume>134</volume>, <fpage>188</fpage>&#x02013;<lpage>194</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0014"><mixed-citation publication-type="journal" id="ece35881-cit-0014">
+<string-name>
+<surname>Hallman</surname>, <given-names>B. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Benbow</surname>, <given-names>M.</given-names>
+</string-name> (<year>2006</year>). <article-title>Canadian Human Landscapes Examples. Naturally cultural: the zoo as cultural landscape</article-title>. <source xml:lang="en">The Canadian Geographer</source>, <volume>50</volume>(<issue>2</issue>), <fpage>256</fpage>&#x02013;<lpage>264</lpage>. <pub-id pub-id-type="doi">10.1111/j.0008-3658.2006.00139.x</pub-id>
+</mixed-citation></ref><ref id="ece35881-bib-0015"><mixed-citation publication-type="journal" id="ece35881-cit-0015">
+<string-name>
+<surname>Hume</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>1986</year>). <article-title>Reactions of birds to heavy rain</article-title>. <source xml:lang="en">British Birds</source>, <volume>79</volume>, <fpage>326</fpage>&#x02013;<lpage>329</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0016"><mixed-citation publication-type="journal" id="ece35881-cit-0016">
+<string-name>
+<surname>Hunt</surname>, <given-names>G. R.</given-names>
+</string-name> (<year>2014</year>). <article-title>New Caledonian crows' (<italic>Corvus moneduloides</italic>) pandanus tool design: Diversification or independent invention?</article-title>
+<source xml:lang="en">Wilson Journal of Ornithology</source>, <volume>126</volume>, <fpage>133</fpage>&#x02013;<lpage>139</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0017"><mixed-citation publication-type="book" id="ece35881-cit-0017">
+<collab collab-type="authors">Japanese Ministry of Environment</collab>
+(<year>2001</year>). <source xml:lang="en">Crow management manual, 14&#x02013;25</source> (pp. <fpage>135</fpage>). Eds. <publisher-name>Wildbird Society of Japan</publisher-name>.</mixed-citation></ref><ref id="ece35881-bib-0018"><mixed-citation publication-type="book" id="ece35881-cit-0018">
+<string-name>
+<surname>Jerzak</surname>, <given-names>L.</given-names>
+</string-name> (<year>2001</year>). <chapter-title>Synurbanization of the magpie in the palearctic</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Marzluff</surname><given-names>J. M.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Bowman</surname><given-names>R.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Donelly</surname><given-names>R.</given-names></name></person-group> (Eds.), <source xml:lang="en">Avian ecology and conservation in an urbanizing world</source> (pp. <fpage>403</fpage>&#x02013;<lpage>425</lpage>). <publisher-loc>Norwell, MA</publisher-loc>: <publisher-name>Kluwer Academic Publishers</publisher-name>.</mixed-citation></ref><ref id="ece35881-bib-0019"><mixed-citation publication-type="journal" id="ece35881-cit-0019">
+<string-name>
+<surname>Jokim&#x000e4;ki</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Suhonen</surname>, <given-names>J.</given-names>
+</string-name> (<year>1993</year>). <article-title>Effects of urbanization on the breeding bird species richness in Finland: A biogeographical comparison</article-title>. <source xml:lang="en">Ornis Fennica</source>, <volume>70</volume>, <fpage>71</fpage>&#x02013;<lpage>77</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0020"><mixed-citation publication-type="journal" id="ece35881-cit-0020">
+<string-name>
+<surname>Jokim&#x000e4;ki</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Suhonen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Vuorisalo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f6;v&#x000e9;r</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kaisanlahti&#x02010;Jokim&#x000e4;ki</surname>, <given-names>M. L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Urbanization and nest&#x02010;site selection of the Black&#x02010;billed Magpie (<italic>Pica pica</italic>) populations in two Finnish cities: From a persecuted species to an urban exploiter</article-title>. <source xml:lang="en">Landscape and Urban Planning</source>, <volume>157</volume>, <fpage>577</fpage>&#x02013;<lpage>585</lpage>. <pub-id pub-id-type="doi">10.1016/j.landurbplan.2016.08.001</pub-id>
+</mixed-citation></ref><ref id="ece35881-bib-0021"><mixed-citation publication-type="journal" id="ece35881-cit-0021">
+<string-name>
+<surname>Kark</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Iwaniuk</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schalimtzek</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Banker</surname>, <given-names>E.</given-names>
+</string-name> (<year>2007</year>). <article-title>Living in the city: Can anyone become an &#x02018;urban exploiter&#x02019;?</article-title>
+<source xml:lang="en">Journal of Biogeography</source>, <volume>34</volume>, <fpage>638</fpage>&#x02013;<lpage>651</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2699.2006.01638.x</pub-id>
+</mixed-citation></ref><ref id="ece35881-bib-0022"><mixed-citation publication-type="journal" id="ece35881-cit-0022">
+<string-name>
+<surname>K&#x000f6;v&#x000e9;r</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Huettmann</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Gy&#x000fc;re</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Balogh</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Lengyel</surname>, <given-names>S. Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Juh&#x000e1;sz</surname>, <given-names>L.</given-names>
+</string-name> (<year>2015</year>). <article-title>Recent colonization and nest site selection of the Hooded Crow (<italic>Corvus corone cornix</italic> L.) in an urban environment</article-title>. <source xml:lang="en">Landscape and Urban Planning</source>, <volume>133</volume>, <fpage>78</fpage>&#x02013;<lpage>86</lpage>. <pub-id pub-id-type="doi">10.1016/j.landurbplan.2014.09.008</pub-id>
+</mixed-citation></ref><ref id="ece35881-bib-0023"><mixed-citation publication-type="journal" id="ece35881-cit-0023">
+<string-name>
+<surname>K&#x000f6;v&#x000e9;r</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>T&#x000f3;th</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Lengyel</surname>, <given-names>S. Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Juh&#x000e1;sz</surname>, <given-names>L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Corvid control in urban environments: A comparison of trap types</article-title>. <source xml:lang="en">North&#x02010;Western Journal of Zoology</source>, <volume>14</volume>(<issue>1</issue>), <fpage>85</fpage>&#x02013;<lpage>90</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0024"><mixed-citation publication-type="book" id="ece35881-cit-0024">
+<string-name>
+<surname>Marzluff</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>McGowan</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Donnelly</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Knight</surname>, <given-names>R. L.</given-names>
+</string-name> (<year>2001</year>). <chapter-title>Causes and consequences of expanding American Crow populations</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Marzluff</surname><given-names>J. M.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Bowman</surname><given-names>R.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Donnelly</surname><given-names>R.</given-names></name></person-group> (Eds.), <source xml:lang="en">Avian ecology and conservation in an urbanizing world</source> (pp. <fpage>322</fpage>&#x02013;<lpage>363</lpage>). <publisher-loc>Norwell, MA</publisher-loc>: <publisher-name>Kluwer Academic Publishers</publisher-name>.</mixed-citation></ref><ref id="ece35881-bib-0025"><mixed-citation publication-type="book" id="ece35881-cit-0025">
+<string-name>
+<surname>Marzluff</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Shulenberger</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Endlicher</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Alberti</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bradley</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Simon</surname>, <given-names>U.</given-names>
+</string-name> (<year>2008</year>). <source xml:lang="en">Urban ecology: An international perspective on the interaction between humans and nature</source> (p. <fpage>807</fpage>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="ece35881-bib-0026"><mixed-citation publication-type="journal" id="ece35881-cit-0026">
+<string-name>
+<surname>Matsyura</surname>, <given-names>A. V.</given-names>
+</string-name>, <string-name>
+<surname>Jankowski</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zimaroyeva</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Escape behaviour of Corvidae in an urban ecosystem of Zhytomyr (Ukraine)</article-title>. <source xml:lang="en">Romanian Journal of Ecology</source>, <volume>60</volume>, <fpage>125</fpage>&#x02013;<lpage>134</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0027"><mixed-citation publication-type="journal" id="ece35881-cit-0027">
+<string-name>
+<surname>Matsyura</surname>, <given-names>A. V.</given-names>
+</string-name>, <string-name>
+<surname>Zimaroyeva</surname>, <given-names>A. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jankowski</surname>, <given-names>K.</given-names>
+</string-name> (<year>2016</year>). <article-title>Spatial patterns of seasonal distribution of Corvidae (the case of urban habitats)</article-title>. <source xml:lang="en">Visnyk of Dnipropetrovsk University, Series Biology and Ecology</source>, <volume>24</volume>, <fpage>459</fpage>&#x02013;<lpage>465</lpage>. <pub-id pub-id-type="doi">10.15421/011662</pub-id>
+</mixed-citation></ref><ref id="ece35881-bib-0028"><mixed-citation publication-type="book" id="ece35881-cit-0028">
+<string-name>
+<surname>McGowan</surname>, <given-names>K. J.</given-names>
+</string-name> (<year>2001</year>). <chapter-title>Demographic and behavioral comparisons of suburban andrural American crows</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Marzluff</surname><given-names>J. M.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Bowman</surname><given-names>R.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Donnelly</surname><given-names>R.</given-names></name></person-group> (Eds.), <source xml:lang="en">Avian ecology and conservation in an urbanizing world</source> (pp. <fpage>365</fpage>&#x02013;<lpage>381</lpage>). <publisher-loc>Norwell, MA</publisher-loc>: <publisher-name>Kluwer Academic Publishers</publisher-name>.</mixed-citation></ref><ref id="ece35881-bib-0029"><mixed-citation publication-type="journal" id="ece35881-cit-0029">
+<string-name>
+<surname>Morelli</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Benedetti</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ib&#x000e1;&#x000f1;ez&#x02010;&#x000c1;lamo</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Jokimaki</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000e4;nd</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Tryjanowski</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>M&#x000f8;ller</surname>, <given-names>A. P.</given-names>
+</string-name> (<year>2016</year>). <article-title>Evidence of evolutionary homogenization of bird communities in urban environments across Europe</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>25</volume>, <fpage>1284</fpage>&#x02013;<lpage>1293</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0030"><mixed-citation publication-type="journal" id="ece35881-cit-0030">
+<string-name>
+<surname>Nishikawa</surname>, <given-names>A.</given-names>
+</string-name> (<year>2004</year>). <article-title>Transition in day images and night images</article-title>. <source xml:lang="en">Annals of Shoso&#x02010;in</source>, <volume>16</volume>, <fpage>27</fpage>&#x02013;<lpage>38</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0031"><mixed-citation publication-type="journal" id="ece35881-cit-0031">
+<string-name>
+<surname>Parlange</surname>, <given-names>M.</given-names>
+</string-name> (<year>1998</year>). <article-title>The city as ecosystem: Urban long&#x02010;term ecological research projects aim to put the pieces together</article-title>. <source xml:lang="en">BioScience</source>, <volume>48</volume>, <fpage>581</fpage>&#x02013;<lpage>585</lpage>. <pub-id pub-id-type="doi">10.2307/1313416</pub-id>
+</mixed-citation></ref><ref id="ece35881-bib-0032"><mixed-citation publication-type="journal" id="ece35881-cit-0032">
+<string-name>
+<surname>Preininger</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Schoas</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Kramer</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Boeckle</surname>, <given-names>M.</given-names>
+</string-name> (<year>2019</year>). <article-title>Waste disposal sites as all&#x02010;you&#x02010;can eat buffets for Carrion crow (<italic>Corvus corone</italic>)</article-title>. <source xml:lang="en">Animals</source>, <volume>9</volume>, <fpage>215</fpage>.</mixed-citation></ref><ref id="ece35881-bib-0033"><mixed-citation publication-type="journal" id="ece35881-cit-0033">
+<string-name>
+<surname>Soh</surname>, <given-names>M. C. K.</given-names>
+</string-name>, <string-name>
+<surname>Sodhi</surname>, <given-names>N. S.</given-names>
+</string-name>, <string-name>
+<surname>Seoh</surname>, <given-names>R. K. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brook</surname>, <given-names>B. W.</given-names>
+</string-name> (<year>2002</year>). <article-title>Nest site selection of the house crow (<italic>Corvus splendens</italic>), an urban invasive bird species in Singapore and implications for its management</article-title>. <source xml:lang="en">Landscape and Urban Planning</source>, <volume>59</volume>, <fpage>217</fpage>&#x02013;<lpage>226</lpage>. <pub-id pub-id-type="doi">10.1016/S0169-2046(02)00047-6</pub-id>
+</mixed-citation></ref><ref id="ece35881-bib-0034"><mixed-citation publication-type="journal" id="ece35881-cit-0034">
+<string-name>
+<surname>Takenaka</surname>, <given-names>M.</given-names>
+</string-name> (<year>2003</year>). <article-title>Crows problems in Sapporo area</article-title>. <source xml:lang="en">Global Environmental Research</source>, <volume>7</volume>, <fpage>149</fpage>&#x02013;<lpage>160</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0035"><mixed-citation publication-type="journal" id="ece35881-cit-0035">
+<string-name>
+<surname>Ueta</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kurosawa</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hamao</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kawachi</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Higuchi</surname>, <given-names>H.</given-names>
+</string-name> (<year>2003</year>). <article-title>Population change of Jungle Crows in Tokyo</article-title>. <source xml:lang="en">Global Environmental Research</source>, <volume>7</volume>, <fpage>131</fpage>&#x02013;<lpage>137</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0036"><mixed-citation publication-type="journal" id="ece35881-cit-0036">
+<string-name>
+<surname>Uhl</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Ringler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Deventer</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Bugnyar</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schwab</surname>, <given-names>C.</given-names>
+</string-name> (<year>2018</year>). <article-title>Counting crows: Population structure and group size variation in an urban population of crows</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>30</volume>(<issue>1</issue>), <fpage>57</fpage>&#x02013;<lpage>67</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/ary157</pub-id>
+<pub-id pub-id-type="pmid">30846892</pub-id></mixed-citation></ref><ref id="ece35881-bib-0037"><mixed-citation publication-type="journal" id="ece35881-cit-0037">
+<string-name>
+<surname>Vuorisalo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Andersson</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hugg</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lahtinen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Laaksonen</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lehikonen</surname>, <given-names>E.</given-names>
+</string-name> (<year>2003</year>). <article-title>Urban development from an avian perspective: Causes of hooded crow (<italic>Corvus corone cornix</italic>) urbanisation in two Finnish cities</article-title>. <source xml:lang="en">Landscape and Urban Planning</source>, <volume>62</volume>, <fpage>69</fpage>&#x02013;<lpage>87</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0038"><mixed-citation publication-type="journal" id="ece35881-cit-0038">
+<string-name>
+<surname>Vuorisalo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hugg</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kaitaniemi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Lappalainen</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vesanto</surname>, <given-names>S.</given-names>
+</string-name> (<year>1992</year>). <article-title>Habitat selection and nest sites of the Magpie <italic>Pica pica</italic> in the city of Turku, SW Finland</article-title>. <source xml:lang="en">Ornis Fennica</source>, <volume>69</volume>, <fpage>29</fpage>&#x02013;<lpage>33</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0039"><mixed-citation publication-type="journal" id="ece35881-cit-0039">
+<string-name>
+<surname>Vuorisalo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Talvitie</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kauhala</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Bl&#x000e4;uer</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lahtinen</surname>, <given-names>R.</given-names>
+</string-name> (<year>2014</year>). <article-title>Urban red foxes (<italic>Vulpes vulpes</italic> L.) in Finland: A historical perspective</article-title>. <source xml:lang="en">Landscape and Urban Planning</source>, <volume>124</volume>, <fpage>109</fpage>&#x02013;<lpage>117</lpage>.</mixed-citation></ref><ref id="ece35881-bib-0040"><mixed-citation publication-type="journal" id="ece35881-cit-0040">
+<string-name>
+<surname>Zeller</surname>, <given-names>H. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schuffenecker</surname>, <given-names>I.</given-names>
+</string-name> (<year>2004</year>). <article-title>West Nile Virus: An overview of its spread in Europe and the Mediterranean Basin in contrast to its spread in the Americas</article-title>. <source xml:lang="en">European Journal of Clinical Microbiology and Infectous Diseases</source>, <volume>23</volume>, <fpage>147</fpage>&#x02013;<lpage>156</lpage>.</mixed-citation></ref></ref-list></back></article>

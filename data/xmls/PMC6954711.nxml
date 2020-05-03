@@ -1,0 +1,562 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Stem Cells Transl Med</journal-id><journal-id journal-id-type="iso-abbrev">Stem Cells Transl Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2157-6580</journal-id><journal-id journal-id-type="publisher-id">SCT3</journal-id><journal-title-group><journal-title>Stem Cells Translational Medicine</journal-title></journal-title-group><issn pub-type="ppub">2157-6564</issn><issn pub-type="epub">2157-6580</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31638323</article-id><article-id pub-id-type="pmc">6954711</article-id><article-id pub-id-type="doi">10.1002/sctm.19-0123</article-id><article-id pub-id-type="publisher-id">SCT312615</article-id><article-categories><subj-group subj-group-type="overline"><subject>Cell&#x02010;based Drug Development, Screening, and Toxicology</subject></subj-group><subj-group subj-group-type="heading"><subject>Cell&#x02010;based Drug Development, Screening, and Toxicology</subject></subj-group></article-categories><title-group><article-title>Stromal cells from perinatal and adult sources modulate the inflammatory immune response in vitro by decreasing Th1 cell proliferation and cytokine secretion</article-title><alt-title alt-title-type="left-running-head">Khoury et al.</alt-title></title-group><contrib-group><contrib id="sct312615-cr-0001" contrib-type="author"><name><surname>Khoury</surname><given-names>Oula</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8432-9588</contrib-id><xref ref-type="aff" rid="sct312615-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312615-cr-0002" contrib-type="author"><name><surname>Atala</surname><given-names>Anthony</given-names></name><xref ref-type="aff" rid="sct312615-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312615-cr-0003" contrib-type="author" corresp="yes"><name><surname>Murphy</surname><given-names>Sean V.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2820-2451</contrib-id><xref ref-type="aff" rid="sct312615-aff-0001">
+<sup>1</sup>
+</xref><address><email>semurphy@wakehealth.edu</email></address></contrib></contrib-group><aff id="sct312615-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Wake Forest Institute for Regenerative Medicine</named-content>
+<institution>Wake Forest School of Medicine</institution>
+<city>Winston&#x02010;Salem</city>
+<named-content content-type="country-part">North Carolina</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Sean V. Murphy, PhD, Wake Forest Institute for Regenerative Medicine, Wake Forest School of Medicine, Richard H Dean Biomedical Research Building, 391 Technology Way, Winston&#x02010;Salem, NC 27101.<break/>
+Email: <email>semurphy@wakehealth.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>10</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>9</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/sct3.v9.1</issue-id><fpage>61</fpage><lpage>73</lpage><history><date date-type="received"><day>17</day><month>4</month><year>2019</year></date><date date-type="accepted"><day>12</day><month>8</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 AlphaMed Press <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <sc>stem cells translational medicine</sc> published by Wiley Periodicals, Inc. on behalf of AlphaMed Press</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:SCT3-9-61.pdf"/><abstract><title>Abstract</title><p>Many immune&#x02010;mediated conditions are associated with a dysregulated imbalance toward a Th1 response leading to disease onset, severity, and damage. Many of the therapies such as immunomodulators or anti&#x02010;TNF&#x02010;&#x003b1; antibodies often fall short in preventing disease progression and ameliorating disease conditions. Thus, new therapies that can target inflammatory environments would have a major impact in preventing the progression of inflammatory diseases. We investigated the role of human stromal cells derived from the amniotic fluid (AFSCs), the placenta (PLSCs), and bone marrow&#x02010;derived mesenchymal stromal cells (BM&#x02010;MSCs) in modulating the inflammatory response of in vitro&#x02010;stimulated circulating blood&#x02010;derived immune cells. Immune cells were isolated from the blood of healthy individuals and stimulated in vitro with antigens to activate inflammatory responses to stimuli. AFSC, BM&#x02010;MSCs, and PLSCs were cocultured with stimulated leukocytes, neutrophils, or lymphocytes. Inflammatory cytokine production, neutrophil migration, enzymatic degranulation, T cell proliferation, and subsets were evaluated. Coculture of all three stromal cell types decreased the gene expression of inflammatory cytokines and enzymes such as IL&#x02010;1&#x003b2;, IFN&#x02010;&#x003b3;, TNF&#x02010;&#x003b1;, neutrophil elastase, and the transcription factor NF&#x02010;&#x003ba;B in lipopolysaccharide&#x02010;stimulated leukocytes. With isolated phytohemagglutinin&#x02010;stimulated peripheral blood mononuclear cells, cells coculture leads to a decrease in lymphocyte proliferation. This effect correlated with decreased numbers of Th1 lymphocytes and decreased secreted levels of IFN&#x02010;&#x003b3;.</p></abstract><abstract abstract-type="graphical"><p>Perinatal cells suppress the proliferation of Th1 cells and their associated cytokines.<boxed-text position="anchor" content-type="graphic" id="sct312615-blkfxd-0001" orientation="portrait"><graphic xlink:href="SCT3-9-61-g007.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="sct312615-kwd-0001">cytokines</kwd><kwd id="sct312615-kwd-0002">immunosuppression</kwd><kwd id="sct312615-kwd-0003">lymphocytes</kwd><kwd id="sct312615-kwd-0004">stem cells</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Cystic Fibrosis Foundation </institution><institution-id institution-id-type="open-funder-registry">10.13039/100000897</institution-id></institution-wrap></funding-source><award-id>ATALA1410</award-id></award-group><award-group id="funding-0002"><funding-source>Lisa Dean Moseley Foundation</funding-source><award-id>668630</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="13"/><word-count count="9070"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:13.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="sct312615-cit-9001">
+<string-name>
+<surname>Khoury</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Atala</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>SV</given-names>
+</string-name>. <article-title>Stromal cells from perinatal and adult sources modulate the inflammatory immune response in vitro by decreasing Th1 cell proliferation and cytokine secretion</article-title>. <source xml:lang="en">STEM CELLS Transl Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>61</fpage>&#x02013;<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1002/sctm.19-0123</pub-id>
+<pub-id pub-id-type="pmid">31638323</pub-id></mixed-citation>
+</p><fn-group id="sct312615-ntgp-0001"><fn id="sct312615-note-1002"><p>
+<bold>Funding information</bold> Cystic Fibrosis Foundation, Grant/Award Number: ATALA1410; Lisa Dean Moseley Foundation, Grant/Award Number: 668630</p></fn></fn-group></notes></front><body id="sct312615-body-0001"><p>
+<boxed-text position="anchor" content-type="box" id="sct312615-blkfxd-0002" orientation="portrait"><caption><title>Significance statement</title></caption><p>This study highlights the immunosuppressive properties of perinatal cells on Th1 cells and their associated cytokines thus providing further understanding of the role of perinatal cells as a potential therapy to target Th1 mediated diseases.</p></boxed-text>
+</p><sec id="sct312615-sec-0003"><label>1</label><title>INTRODUCTION</title><p>Inflammation is a tightly regulated phenomenon that requires coordination of cytokine signaling.<xref rid="sct312615-bib-0001" ref-type="ref">1</xref> Cytokines involved in the inflammatory response are most abundantly produced by T helper cells (Th), a subtype of T lymphocytes that are distinguished by expressing the surface marker CD4, as opposed to effector T lymphocytes that express the surface marker CD8. Th lymphocytes are further subdivided into several subsets, including Th1 and Th2, each with distinct roles in inflammation. Th1 cells have pro&#x02010;inflammatory properties, mainly secrete IFN&#x02010;&#x003b3;, IL&#x02010;2, and TNF&#x02010;&#x003b1; and aid in the fight against intracellular bacterial and parasitic infections. Th2 cells, on the other hand, produce the cytokines IL&#x02010;4 and IL&#x02010;5, mediate an eosinophilic response that activates the production of immunoglobulin (Ig)&#x02010;E, and have been implicated in allergic reactions. Th2 also produce IL&#x02010;10, thus, potentially having some anti&#x02010;inflammatory properties. A balance between Th1 and Th2 responses and their associated cytokines are thus important to maintain a balanced immune response.<xref rid="sct312615-bib-0002" ref-type="ref">2</xref>, <xref rid="sct312615-bib-0003" ref-type="ref">3</xref>, <xref rid="sct312615-bib-0004" ref-type="ref">4</xref>, <xref rid="sct312615-bib-0005" ref-type="ref">5</xref> Dysfunction in the regulation of Th1/Th2&#x02010;mediated inflammation can lead to disease and tissue damage.<xref rid="sct312615-bib-0006" ref-type="ref">6</xref> For example, in chronic obstructive pulmonary disease, lung tissue&#x02010;derived elastin is responsible for the activation of CD4<sup>+</sup> Th1 cell&#x02010;mediated inflammation, causing tissue injury and emphysema.<xref rid="sct312615-bib-0007" ref-type="ref">7</xref> Crohn's disease (CD) is also closely related to a Th1 skewed immune response, in which enhanced IFN&#x02010;&#x003b3; expression and release have been shown.<xref rid="sct312615-bib-0008" ref-type="ref">8</xref>, <xref rid="sct312615-bib-0009" ref-type="ref">9</xref>
+</p><p>Th1&#x02010;mediated inflammation is also implicated for many types of autoimmune diseases, including rheumatoid arthritis (RA), multiple sclerosis (MS), corneal transplant rejection, and type I diabetes.<xref rid="sct312615-bib-0010" ref-type="ref">10</xref>, <xref rid="sct312615-bib-0011" ref-type="ref">11</xref>, <xref rid="sct312615-bib-0012" ref-type="ref">12</xref>, <xref rid="sct312615-bib-0013" ref-type="ref">13</xref> Current treatments for these types of diseases include the use of Th1 pre&#x02010;inflammatory cytokine antagonists, such as antibodies to TNF&#x02010;&#x003b1; or IFN&#x02010;&#x003b3;.<xref rid="sct312615-bib-0014" ref-type="ref">14</xref> However, these treatments, even when used in combination, appear to have limited effects on the more chronic and severe forms of disease and there is a pressing need for the development of new treatment strategies. In this study, we investigated the potential role of stromal cells derived from different tissue sources to modulate the inflammatory response of immune cells in vitro, thus identifying a potential anti&#x02010;inflammatory therapy for a range of diseases.</p><p>Stromal cells present in cell populations derived from perinatal tissues such as the placenta and amniotic fluid, offer an advantage over other sources like bone marrow (BM) because of their ease of collection, ready availability, high abundance, and high proliferation rates.<xref rid="sct312615-bib-0015" ref-type="ref">15</xref>, <xref rid="sct312615-bib-0016" ref-type="ref">16</xref> Human amnion&#x02010;derived mesenchymal stromal cells (hAMSC) have been shown to skew macrophage polarization toward M2, inhibit monocyte differentiation into dendritic cells, and reduce the expression of Th1, Th2, and Th17 associated markers and their corresponding subset cytokines including TNF&#x02010;&#x003b1;, IFN&#x02010;&#x003b3;, IL&#x02010;1&#x003b2;, IL&#x02010;5, IL&#x02010;9, and IL&#x02010;22.<xref rid="sct312615-bib-0017" ref-type="ref">17</xref> In another study, human umbilical cord&#x02010;derived MSCs (UC&#x02010;MSCs) inhibited the proliferation of lymphocytes stimulated with phytohemagglutinin (PHA) under coculture setting in vitro, and enhanced the abundance of T regulatory (Tregs) cells, while also increasing IL&#x02010;10 levels.<xref rid="sct312615-bib-0018" ref-type="ref">18</xref> Thus, perinatal cells exhibit a wide range of therapeutic properties that make them the ideal candidates to treat inflammatory diseases. In this study, we compared the potential immunomodulatory properties of amniotic fluid&#x02010;derived cells (AFSCs), placenta&#x02010;derived cells (PLSCs), and BM&#x02010;derived mesenchymal stem cells (BM&#x02010;MSCs) on antigen&#x02010;stimulated leukocytes, lymphocytes, neutrophils, and T cell subsets derived from the blood of healthy donors.</p></sec><sec id="sct312615-sec-0004"><label>2</label><title>MATERIALS AND METHODS</title><sec id="sct312615-sec-0005"><label>2.1</label><title>Patient selection and sampling</title><p>This study and all procedures described in this proposal were approved by the Wake Forest Baptist Medical Center &#x02010; Institutional Review Board (IRB) (Study ID: IRB000207670). Healthy donors were identified, consented, and recruited by our study coordinators. They had 15&#x02009;mL blood drawn by a clinical phlebotomist at the Wake Forest Baptist Medical Center. Donors were adults (above 18&#x02009;years old). At the time of recruitment, donors did not present with a history of blood or bleeding disorders. Data collected on each subject include age and gender. The in vitro immunologic assays were performed at Wake Forest Institute of Regenerative Medicine. Except for the time during which blood is withdrawn, the subjects were not involved in any research procedure.</p></sec><sec id="sct312615-sec-0006"><label>2.2</label><title>Isolation and culture of stromal cells</title><p>Stromal cells derived from human amniotic fluid and placental tissue were isolated, characterized, and cryopreserved in the Regenerative Medicine Clinical Center located within the Wake Forest Institute for Regenerative Medicine (WFIRM). These cell lines have been developed under current Good Manufacturing Practices (cGMP) in accordance with regulations for clinical applications and were banked and characterized under FDA guidelines for rapid translation of research into clinical trials. BM&#x02010;MSCs were isolated using the anti&#x02010;Stro &#x02212;1 antibody (R&#x00026;D Systems, Minneapolis, Minnesota) and magnetic sorting (Miltenyi Biotec, Auburn, California) as previously described.<xref rid="sct312615-bib-0019" ref-type="ref">19</xref>, <xref rid="sct312615-bib-0020" ref-type="ref">20</xref>, <xref rid="sct312615-bib-0021" ref-type="ref">21</xref> Cells were then grown until 70% confluence in gelatin (Sigma&#x02010;Aldrich, St. Louis, Missouri) coated flasks and MSCGM (Lonza, Basel, Switzerland) supplied with 100&#x02009;U/mL penicillin/streptomycin (Gibco&#x02010;Life Technologies, Carlsbad, California). PLSCs were manufactured by WFIRM and in the Regenerative Medicine Clinical Center. PLSCs were isolated from the chorionic tissue of the placenta via enzyme digestion. Isolated placenta&#x02010;derived cells were subsequently plated in Alpha&#x02010;MEM (Lonza) supplemented with AmnioMax (Thermo Fisher Scientific, Waltham, Massachusetts) media and Glutamax (Gibco&#x02010;Life Technologies) to obtain PLSCs. Cells were passaged with TrypLE when the cultures were 70% confluent until sufficient cells were obtained. c&#x02010;kit positive cells were selected by Miltenyi device and maintained in culture until sufficiently expanded. Cells were cryopreserved for use in experiments at passage 5 as a Master Cell Bank. Prior to cryopreservation, cells were tested for sterility, endotoxin, and mycoplasma which were negative. Karyotype was tested and found to be normal. AFSCs were isolated and cultured as previously described.<xref rid="sct312615-bib-0022" ref-type="ref">22</xref> Both perinatal cells are c&#x02010;kit<sup>+</sup>, have a doubling time of approximately 36&#x02009;hours and are nontumorigenic. AFSCs and PLSCs retain long telomeres and express embryogenic stem cell markers (ie, Sox2 and OCT4). They are highly multipotent and can differentiate into cells of all three germ layers. AFSCs and PLSCs, like BM&#x02010;MSCs, also expressed adult cell surface markers including CD44, CD90, CD105, and CD166. AFSCs and PLSCs were cultured in alpha MEM supplied with Chang media (Fujifilm Irvine Scientific, Santa Ana, California), and AmnioMax media respectively, and were supplied with 18% fetal bovine serum and 1% penicillin/streptomycin. All cells were grown at 37&#x000b0;C and 5% CO<sub>2</sub> in a humidified atmosphere. Cells between passages 10&#x02010;15 were used. Prior to use, cryopreserved cells were thawed and cultured for 4&#x02009;days in their respective media. TrypLE was used for the initial isolation and expansion of the cell stocks, whereas 0.05% trypsin was used for routine cell culture. So, cells were detached using 0.05% or 0.25% (for BM&#x02010;MSCs) trypsin and viability was assessed using trypan blue.</p></sec><sec id="sct312615-sec-0007"><label>2.3</label><title>Leukocyte isolation from peripheral blood</title><p>Total white cells (leukocytes) were isolated by HetaSep (StemCell Technologies, Vancouver, Canada) density gradient centrifugation. Briefly, 1&#x02010;part HetaSep was added to five parts blood and the sample was centrifuged at 90<italic>g</italic> for 3 minutes at room temperature. The supernatant rich in total white cells was then collected and washed three times with Roswell Park Memorial Institute (RPMI) 1640 media +1% bovine serum albumin (BSA). Red blood cell (RBC) lysis was performed by incubating the leukocyte pellet in 10 mL of RBC Lysing buffer Hybri&#x02010;Max (Sigma&#x02010;Aldrich) at room temperature for 10 minutes with frequent vortexing. Cell count and viability was determined using the trypan blue exclusion method.</p></sec><sec id="sct312615-sec-0008"><label>2.4</label><title>Isolation of peripheral blood mononuclear cells (PBMCs)</title><p>PBMCs were isolated from blood by density centrifugation using Histopaque (Sigma). Briefly, the total volume of blood was laid over an equivalent volume of Histopaque and the sample was centrifuged at 450<italic>g</italic> for 30&#x02009;minutes. PBMCs were then collected from the buffy coat phase and transferred into a fresh tube and washed with PBS and centrifuged at 770<italic>g</italic> for 10 minutes. RBC lysis was performed by incubating the PBMC pellet in 10 mL of RBC Lysing buffer Hybri&#x02010;Max (Sigma&#x02010;Aldrich) at room temperature for 10 minutes with frequent vortexing. Cell count and viability was determined using the trypan blue exclusion method.</p></sec><sec id="sct312615-sec-0009"><label>2.5</label><title>Neutrophil isolation</title><p>Neutrophils were isolated by means of negative selection magnetic isolation using the Human Neutrophil Enrichment Kit (StemCell Technologies) according to the manufacturer's guidelines. Briefly, total white cells were incubated with EasySep Human Neutrophil Enrichment cocktail for 10 minutes at 4&#x000b0;C. EasySep nanoparticles were then added to the mixture and were incubated for 10 minutes at 4&#x000b0;C. The suspension was then mixed and brought to a total volume of 2.5 mL. The tube was then inserted into the EasySep magnet, and with one continuous motion, the tube was inverted, and the contents were poured into a fresh 5 mL polystyrene tube. Cell count and viability were determined using the trypan blue exclusion method.</p></sec><sec id="sct312615-sec-0010"><label>2.6</label><title>Lymphocyte proliferation assay</title><p>PBMCs were stimulated with 10 &#x003bc;g/mL PHA and seeded at 20&#x02009;&#x000d7;&#x02009;10<sup>4</sup> cells in a 96&#x02010;well plate in the presence or absence of 20&#x02009;&#x000d7;&#x02009;10<sup>3</sup> mitomycin&#x02010;C (25 &#x003bc;g/mL) treated AFSCs, BM&#x02010;MSCs, or PLSCs. Stromal cells were plated into a 96&#x02010;well plate and allowed to adhere overnight. The coculture system was incubated for 6&#x02009;days before cell proliferation was assessed using the Cell proliferation ELISA bromodeoxyuridine (BrDU) kit (Roche, Basel, Switzerland). An equivalent of 0.1&#x02009;mM BrDU was added on day 5 for an overnight incubation.</p></sec><sec id="sct312615-sec-0011"><label>2.7</label><title>Flow cytometry T cell subset analysis</title><p>PBMCs were collected and stained with cell surface markers CD3 (0.0125&#x02009;&#x003bc;g/&#x003bc;L), CD4 (0.00625&#x02009;&#x003bc;g/&#x003bc;L) CD294 (0.05&#x02009;&#x003bc;g/&#x003bc;L) (Th2), CD183 (0.05&#x02009;&#x003bc;g/&#x003bc;L) (Th1), CD196 (0.1 &#x003bc;g/&#x003bc;L) (Th17), and CD25 (0.0125&#x02009;&#x003bc;g/&#x003bc;L) (Tregs) obtained from BD Biosciences (San Jose, California). PBMCs were incubated for 30&#x02009;minutes, then washed with PBS twice and stored on ice in 1% paraformaldehyde solution until analyzed using a BD Accuri C6 flow cytometer (BD Biosciences). FoxP3 (0.025&#x02009;&#x003bc;g/&#x003bc;L) intracellular staining was also performed as a marker for the Tregs subpopulation. PBMCs were permeabilized with 0.1% Tween 20 solution for 10 minutes before staining with CD25 and FoxP3 antibodies.</p></sec><sec id="sct312615-sec-0012"><label>2.8</label><title>IFN&#x02010;&#x003b3; cytokine ELISA</title><p>IFN&#x02010;&#x003b3; secreted levels were measured in the supernatant of cells cultured under the system described above. Briefly PBMCs were centrifuged at 433<italic>g</italic> for 5 minutes, resuspended in PBS for flow analysis whereas the supernatants were collected and assessed for IFN&#x02010;&#x003b3; protein levels using the Human IFN Gamma PicoKine ELISA Kit (Boster, Pleasanton, California) following the manufacturer's protocol.</p></sec><sec id="sct312615-sec-0013"><label>2.9</label><title>Th1/Th2/Th17 cytokine bead assay</title><p>Supernatants collected from cells cultured under the system described above were used to measure the levels of seven cytokines by flow cytometry, IL&#x02010;2, IL&#x02010;4, IL&#x02010;6, IL&#x02010;10, TNF, IFN&#x02010;&#x003b3;, and IL&#x02010;17A using the Human Th1/Th2/Th17 Kit (BD Biosciences), according to the manufacturer's protocol. Analysis was acquired using a BD Accuri C6 flow cytometer (BD Biosciences).</p></sec><sec id="sct312615-sec-0014"><label>2.10</label><title>Neutrophil migration assay</title><p>Isolated neutrophils were seeded at a density of 25&#x02009;&#x000d7;&#x02009;10<sup>4</sup> cells in the top chambers of a 96&#x02010;well plate with a transwell system in the presence (coculture) or absence of 2&#x02009;&#x000d7;&#x02009;10<sup>4</sup> stromal cells. Cells were incubated for 4 hours before neutrophil migration was assessed in response to 80&#x02009;ng/mL IL&#x02010;8 solution in the bottom chamber of the transwell system, using the Cytoselect 96&#x02010;well cell migration assay 3 &#x003bc;m, fluorometric format (Cell Biolabs, Inc, San Diego, California), according to the manufacturer's protocol. Briefly, neutrophils were allowed to migrate from the upper chamber through the polycarbonate membrane, where they attach to the bottom side. The migratory cells were dissociated from the membrane by the addition of Cell Detachment Buffer to the lower chamber. Neutrophils were lysed and quantified using the CyQuant GR Fluorescent dye and fluorescence was measured using a fluorescent microplate reader at Ex/Em = 480&#x02009;nm/520&#x02009;nm.</p></sec><sec id="sct312615-sec-0015"><label>2.11</label><title>Myeloperoxidase (MPO) and neutrophil elastase (NE) activity assays</title><p>Isolated neutrophils were stimulated with 100&#x02009;nM phorbol myristate acetate and seeded at a density of 25&#x02009;&#x000d7;&#x02009;10<sup>4</sup> cells in a 96&#x02010;well plate in the presence or absence of 20&#x02009;&#x000d7;&#x02009;10<sup>3</sup> stromal cells. Cells were cultured for 2 hours and 30&#x02009;minutes before MPO and NE activities were assessed using the Neutrophil Myeloperoxidase Activity Assay kit (Cayman Chemical, Ann Arbor, Michigan) and Neutrophil Elastase Activity Assay Kit (Abcam, Cambridge, Massachusetts). MPO activity was assessed by incubating the cells supernatant with MPO substrate for 10 minutes. Absorbance was read using a plate reader at 650&#x02009;nm. NE activity was assessed by incubating with NE substrate for 20 minutes and measuring the output on a fluorescent microplate reader at Ex/Em = 380/500&#x02009;nm.</p></sec><sec id="sct312615-sec-0016"><label>2.12</label><title>In vitro stimulation of total white cells</title><p>Total white cells (2&#x02009;&#x000d7;&#x02009;10<sup>6</sup> cells) were stimulated with 10 ng/mL lipopolysaccharide (LPS) for 24&#x02009;hours in a 12&#x02010;well plate, supplied with RPMI +1% BSA media. LPS stimulated cells were exposed to 20&#x02009;&#x000d7;&#x02009;10<sup>4</sup> stromal cells in a transwell culture system using cell culture inserts (Millicell cell culture inserts 0.4 &#x003bc;m, 12&#x02009;mm diameter). Cells were used to perform the assays detailed below.</p></sec><sec id="sct312615-sec-0017"><label>2.13</label><title>Cytokine ELISA</title><p>Cell supernatants from the in vitro stimulated and unstimulated total white cells were collected by centrifuging the total white cells at 433<italic>g</italic> for 5 minutes. NE, IL&#x02010;6, and TNF&#x02010;&#x003b1; protein levels were then assessed using the Human PMN Elastase Platinum ELISA (Invitrogen, Carlsbad, California), IL&#x02010;6 and TNF&#x02010;&#x003b1; PicoKine ELISA Kits (Boster).</p></sec><sec id="sct312615-sec-0018"><label>2.14</label><title>RNA sampling, cDNA generation, and qRT&#x02010;PCR</title><p>RNA was isolated using the TRIzol reagent (Invitrogen) method according to the manufacturer's guidelines. RNA quality was determined using the NanoDrop 2000 Spectrophotometer (Thermo Fisher Scientific). cDNA was generated using the High Capacity cDNA Reverse Transcriptase Kit (Applied Biosystems, Foster City, California) according to the manufacturer's protocol. qRT&#x02010;PCR was performed using Taqman Primers for IL&#x02010;8, IL&#x02010;1&#x003b2;, TNF&#x02010;&#x003b1;, NE, IL&#x02010;6, NF&#x02010;&#x003ba;B, IFN&#x02010;&#x003b3;, CCL2, and IL&#x02010;10 (Thermo Fisher Scientific) following the TaqMan Fast Advanced Master Mix Protocol (Applied Biosystems).</p></sec><sec id="sct312615-sec-0019"><label>2.15</label><title>Nuclear extraction and NF&#x02010;kB ELISA</title><p>Cells from the above cell culture system were collected and centrifuged at 433<italic>g</italic> for 5 minutes. The cell pellet was used for nuclear and cytoplasmic extraction using the NE&#x02010;PER nuclear and cytoplasmic extraction reagents kit (Abcam) following the manufacturer's protocol. Briefly, cells were incubated with cytoplasmic extraction reagent (CER) and vortexed vigorously for 5 seconds. Tubes were then centrifuged at maximum speed (16&#x02009;000<italic>g</italic>) for 5 minutes to obtain the supernatant containing the cytoplasmic extract. The remaining pellets were incubated with the nuclear extraction reagent (NER) included in the kit and vortexed vigorously for 15&#x02009;seconds. After centrifugation at maximum speed (16&#x02009;000<italic>g</italic>) for 10 minutes, nuclear extracts in the supernatant were collected and stored at &#x02212;80&#x000b0;C until use. Protein quantification was performed on nuclear extracts using the Pierce BCA Protein Assay Kit (Thermo Fisher). Nuclear extracts were then used to perform the NF&#x02010;kB p50 transcription factor assay kit (Abcam) following the kit's protocol.</p></sec><sec id="sct312615-sec-0020"><label>2.16</label><title>Statistical analysis</title><p>In vitro assays were performed with triplicate technical replicates, and data from the groups were pooled and displayed as mean&#x02009;&#x000b1;&#x02009;SEM. Data were analyzed using GraphPad Prism version 6.0. One&#x02010;way ANOVA tests were used to determine statistical significance between the groups of immune cells at baseline (unstimulated), exposed to stimulus and/or perinatal cells. Tuckey's test was performed to correct for multiple comparisons. A confidence limit of 95% was considered significant. In Figures, bars represent SEM. *<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05; **<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01; ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001.</p></sec></sec><sec id="sct312615-sec-0021"><label>3</label><title>RESULTS</title><sec id="sct312615-sec-0022"><label>3.1</label><title>Assessment of stromal cells' effect on gene expression profile of inflammatory cytokines and enzymes</title><p>A total of 81 samples (obtained from 21 females and 60 males, average age: 33, age range: 23&#x02010;57) were used in this study. We first compared the gene expression profile of healthy leukocytes following LPS stimulation with that of the LPS&#x02010;stimulated leukocytes cultured with the three stromal cell types located in the upper chamber of a transwell system for indirect coculture conditions. RNA isolation was performed 24&#x02009;hours after initiation of LPS stimulation for all groups. We found that BM&#x02010;MSCs (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05) and PLSCs (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01) coculture decreased IFN&#x02010;&#x003b3; gene expression in LPS&#x02010;stimulated leukocytes (Figure <xref rid="sct312615-fig-0001" ref-type="fig">1</xref>A). A significant decrease in the NE (Figure <xref rid="sct312615-fig-0001" ref-type="fig">1</xref>B) gene expression was also observed with the transwell coculture of AFSCs (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05), BM&#x02010;MSCs (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01) as well as PLSCs (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001). We also observed a significant decrease in NF&#x02010;&#x003ba;B gene expression only in the presence of PLSCs (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05) (Figure <xref rid="sct312615-fig-0001" ref-type="fig">1</xref>C). AFSCs and BM&#x02010;MSCs coculture also showed a trend of decreased NF&#x02010;&#x003ba;B gene expression; however, this was not statistically significant. We observed decreased levels of IL&#x02010;6 and TNF&#x02010;&#x003b1; with the transwell coculture of all stromal cell types, however these changes were not statistically significant. We did not observe any changes in IL&#x02010;8, IL&#x02010;10, or CCL2 expression levels with any of our stromal cell types (Figure <xref rid="sct312615-fig-0001" ref-type="fig">1</xref>G&#x02010;I). Although some differences between the three stromal cell populations were observed, these findings indicate that these stromal cells have an inhibitory effect on inflammatory cytokine gene expression, including the NF&#x02010;&#x003ba;B signaling pathway, and downstream factors such as NE. These data also indicate that this phenomenon is not dependent on direct contact between stromal cells and leukocytes, suggesting a role of soluble factors produced by stromal cells in transwell coculture.</p><fig fig-type="Figure" xml:lang="en" id="sct312615-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Gene expression of leukocytes at baseline and following stimulation with 10 ng/mL lipopolysaccharide (LPS), in the presence and/or absence of stromal cells. A, Interferon gamma (IFN&#x02010;&#x003b3;); B, neutrophil elastase (NE); C, nuclear factor kappa B (NF&#x02010;&#x003ba;B); D, interleukin 1&#x003b2; (IL&#x02010;1&#x003b2;); E, interleukin&#x02010;6 (IL&#x02010;6); F, tumor necrosis factor&#x02010;alpha (TNF&#x02010;&#x003b1;); G, interleukin&#x02010;8 (IL&#x02010;8); H, interleukin&#x02010;10 (IL&#x02010;10); and I, chemokine ligand&#x02010;2 (CCL2). Bars represent SEM. *<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05; **<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01; ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001</p></caption><graphic id="nlm-graphic-3" xlink:href="SCT3-9-61-g001"/></fig></sec><sec id="sct312615-sec-0023"><label>3.2</label><title>Effect of stromal cells on cytokine release profiles</title><p>Next, we assessed cytokine protein levels in the cell culture supernatants. Cytokine ELISAs were performed on supernatants obtained from healthy leukocytes following LPS stimulation and compared to LPS&#x02010;stimulated leukocytes cocultured with stromal cells located in the upper chamber of a transwell system. Culture supernatants were collected (combined from the lower and upper chambers) 24&#x02009;hours after initiation of LPS stimulation for all groups. Protein levels of NF&#x02010;&#x003ba;B in cell extracts and protein levels of NE, IL&#x02010;8, IL&#x02010;10, CCL2, and IFN&#x02010;&#x003b3; in cells supernatants did not show any significant differences with LPS stimulation, or in any of coculture groups (data not shown). Levels of IL&#x02010;6 in the supernatant derived from leukocytes increased following LPS stimulation, and coculture with all three stromal cell populations further increased the levels of secreted IL&#x02010;6, however only BM&#x02010;MSCs and PLSCs coculture were statistically significant (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001) (Figure <xref rid="sct312615-fig-0002" ref-type="fig">2</xref>A). PLSCs coculture significantly decreased the protein levels of secreted TNF&#x02010;&#x003b1; following LPS stimulation (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05). IL&#x02010;1&#x003b2; levels in the supernatant seem to increase with the transwell coculture of all stromal cell populations; however, changes were not statistically significant (Figure <xref rid="sct312615-fig-0002" ref-type="fig">2</xref>C). Secreted NE levels were unaffected by the LPS stimulation and remained unchanged with coculture of all stromal cell populations. In comparison to gene expression analysis, in which RNA was isolated only from leukocytes in the lower transwell chamber, analysis of the cytokines in the culture supernatant, can represent cytokines secreted by leukocytes and potentially also by the cocultured stromal cell populations. It appears the primary effect of LPS&#x02010;stimulation was the secretion of inflammatory cytokines IL&#x02010;6, TNF&#x02010;&#x003b1;, IL&#x02010;1&#x003b2;, and IL&#x02010;10, which are all known to be secreted by LPS&#x02010;stimulated monocytes. Although stromal cell coculture appeared to decrease secreted TNF&#x02010;&#x003b1; levels, the observed increase in IL&#x02010;6 may be due to increased secretion from monocytes, and/or secretion from the stromal cells themselves, which have been shown to secrete IL&#x02010;6 under various conditions.<xref rid="sct312615-bib-0023" ref-type="ref">23</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="sct312615-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Secreted levels of cytokines and enzymes from unstimulated (US) leukocytes and following stimulation with lipopolysaccharide (LPS) alone, and in the presence of amniotic fluid&#x02010;derived cells (AFSCs), bone marrow&#x02010;derived mesenchymal stromal cells (BM&#x02010;MSCs), and placenta&#x02010;derived cells (PLSCs). A, Interleukin&#x02010;6 (IL&#x02010;6); B, tumor necrosis factor&#x02010;alpha (TNF&#x02010;&#x003b1;); C, interleukin&#x02010;1 beta (IL&#x02010;1 &#x003b2;); and D, neutrophils elastase (NE). Bars represent SEM *<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05; **<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01; ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001; #<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05 compared to AFSCs, ##<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01 compared to AFSCs</p></caption><graphic id="nlm-graphic-5" xlink:href="SCT3-9-61-g002"/></fig></sec><sec id="sct312615-sec-0024"><label>3.3</label><title>Effect of stromal cells on neutrophil migration and enzymatic activities</title><p>Our qPCR data indicated a significant decrease of NE gene expression following transwell coculture with all three stromal cell types. To explore potential mechanisms of interaction of stromal cells with neutrophils, we isolated neutrophils by means of negative&#x02010;selection magnetic isolation and subjected them to an IL&#x02010;8 concentration gradient. Neutrophils exhibited a significant increase in migration following exposure to the IL&#x02010;8 gradient however; none of the three stromal cell populations had any significant effect on this phenomenon (Figure <xref rid="sct312615-fig-0003" ref-type="fig">3</xref>A). Similarly, stromal cells did not seem to affect the degranulation of MPO or NE (Figure <xref rid="sct312615-fig-0003" ref-type="fig">3</xref>B,C). These data suggest that there are no significant direct effects of stromal cells coculture on clinically relevant functions of neutrophils under these in vitro conditions.</p><fig fig-type="Figure" xml:lang="en" id="sct312615-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Effect of amniotic fluid&#x02010;derived cells (AFSCs), bone marrow&#x02010;derived mesenchymal stromal cells (BM&#x02010;MSCs), and placenta&#x02010;derived cells (PLSCs) on isolated neutrophils' migration and enzymatic properties. A, Neutrophil migration to an IL&#x02010;8 gradient; B, myeloperoxidase (MPO) activity; and C, neutrophils elastase (NE) enzymatic activity assays. Bars represent SEM. *<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05</p></caption><graphic id="nlm-graphic-7" xlink:href="SCT3-9-61-g003"/></fig></sec><sec id="sct312615-sec-0025"><label>3.4</label><title>Lymphocyte proliferation and subset analysis</title><p>Given that our data showed that coculture with stromal cells had modulatory effects on the gene expression related to T lymphocytes such as NF&#x02010;&#x003ba;B, IL&#x02010;1&#x003b2;, and TNF&#x02010;&#x003b1;, we investigated the effect of all three stromal cell types on lymphocyte proliferation and T cell subsets following antigen stimulation. Peripheral blood&#x02010;derived mononuclear cells (PBMCs) were by isolated by Histopaque density centrifugation and stimulated with PHA. Stimulated PBMCs showed significant cell proliferation following 6&#x02009;days of culture. Direct coculture (both PBMCs and stromal cells in direct contact) of all three cell types decreased the proliferation of stimulated lymphocytes, with a statistically significant effect observed for PLSCs (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01) (Figure <xref rid="sct312615-fig-0004" ref-type="fig">4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="sct312615-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Lymphocyte proliferation assay of phytohemagglutinin (PHA) stimulated healthy derived peripheral blood mononuclear cells (PBMCs) alone and in coculture with amniotic fluid&#x02010;derived cells (AFSCs), bone marrow&#x02010;derived mesenchymal stromal cells (BM&#x02010;MSCs), and PLSCs. Bars represent SEM. *<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05; ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001</p></caption><graphic id="nlm-graphic-9" xlink:href="SCT3-9-61-g004"/></fig><p>Next, we assessed the proportion of each of the CD3<sup>+</sup> T cell subsets by flow cytometry, distinguishing their phenotype on the basis of cell surface markers and transcription factors: Th1 (CD3<sup>+</sup> CD4<sup>+</sup> CD183<sup>+</sup>), Th2 (CD3<sup>+</sup> CD4<sup>+</sup> CD294<sup>+</sup>), Th17 (CD3<sup>+</sup> CD4<sup>+</sup> CD196<sup>+</sup>), and Tregs (CD3<sup>+</sup> CD4<sup>+</sup> CD25<sup>+</sup> FoxP3<sup>+</sup>). For the subsequent experiments, only PLSCs were used because they exhibited the most widespread reduction of cytokine levels and significant suppression of lymphocyte proliferation. Flow cytometry gating was first performed on the side and forward scatter signals (SSC&#x02010;A and FSC&#x02010;A) to determine the population of interest and cells were further gated on CD3<sup>+</sup> CD4<sup>+</sup> population. This gating strategy was adopted for all cell populations: unstimulated PBMCs and PHA stimulated PBMCs in the presence and/or absence of PLSCs (Figure <xref rid="sct312615-fig-0005" ref-type="fig">5</xref>A&#x02010;C). We observed that the proportion of Th1 cells significantly increased following stimulation with PHA for 6&#x02009;days (stimulated) when compared to unstimulated levels (US) (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01). Coculture with PLSCs significantly decreased the proportion of Th1 cells similar to levels observed in unstimulated PBMCs (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05) (Figure <xref rid="sct312615-fig-0005" ref-type="fig">5</xref>E). We next analyzed the secreted cytokine profile of PMBCs under the same culture conditions. Secreted levels of IFN&#x02010;&#x003b3; in the culture medium coincided with observed Th1 subset proportions, with an observed increase in IFN&#x02010;&#x003b3; levels following stimulation with PHA compared to unstimulated levels (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001) and a significant reduction of IFN&#x02010;&#x003b3; levels in the presence of PLSCs, when compared to the stimulated group (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001) (Figure <xref rid="sct312615-fig-0005" ref-type="fig">5</xref>F). The presence of PLSCs did not have any significant effect on the percentage of Th2, Th17, or Tregs populations (Figure <xref rid="sct312615-fig-0005" ref-type="fig">5</xref>G&#x02010;I).</p><fig fig-type="Figure" xml:lang="en" id="sct312615-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Flow cytometry analysis of CD3+ CD4+ subsets at baseline (unstimulated), following stimulation with phytohemagglutinin (PHA) in the presence and/or absence of placenta&#x02010;derived cells (PLSCs). A, Panel showing gating strategy used for analysis of unstimulated peripheral blood mononuclear cells (PBMCs); B, panel showing the gating strategy used for analysis of PHA stimulated PBMCs; C, panel showing the gating strategy used for analysis of PHA stimulated PBMCs in the presence of PLSCs; D, panel showing the gating strategy used for analysis of isotype controls; E, Th1 percentage (%); F, IFN&#x02010;&#x003b3; secreted levels measured in the culture medium; G, Th2 percentage (%); H, Th17 percentage (%); and I, Tregs percentage (%). Bars represent SEM. *<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05; **<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01; ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001</p></caption><graphic id="nlm-graphic-11" xlink:href="SCT3-9-61-g005"/></fig><p>We also measured the levels of other Th&#x02010;associated cytokines using the Th1/Th2/Th17 detection beads. Our findings further confirmed the decreased levels of IFN&#x02010;&#x003b3; in the presence of PLSCs, validating the suppressive effect on Th1 cells. TNF levels were completely abolished in the presence of PLSCs (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01) when compared to unstimulated and PHA stimulated groups, whereas IL&#x02010;6 levels were only detected in unstimulated cells (Figure <xref rid="sct312615-fig-0006" ref-type="fig">6</xref>B,C). Both IL&#x02010;10 and IL&#x02010;17A were elevated following PHA stimulation but PLSCs only increased the levels of IL&#x02010;17A compared to the stimulated group (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01). Levels of IL&#x02010;2 measured via ELISA also showed decreased levels after PHA stimulation (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001) compared to unstimulated cells, and a further reduction was accomplished in the presence of PLSCs when compared to the stimulated cells; however, changes were not statistically significant.</p><fig fig-type="Figure" xml:lang="en" id="sct312615-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Effects of placenta&#x02010;derived cells (PLSCs) on Th1/Th2/Th17 cytokine levels detected in the supernatant of cells at baseline, and after phytohemagglutinin (PHA) stimulation, with and without the presence of PLSCs. A, Interferon&#x02010;gamma (IFN&#x02010;&#x003b3;); B, tumor necrosis factor (TNF); C, interleukin&#x02010;6 (IL&#x02010;6); D, interleukin&#x02010;10 (IL&#x02010;10); E, interleukin&#x02010;17A (IL&#x02010;17A); and F, interleukin&#x02010;2 (IL&#x02010;2). Bars represent SEM. *<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05; **<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01; ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001</p></caption><graphic id="nlm-graphic-13" xlink:href="SCT3-9-61-g006"/></fig><p>Although we observed varying effects of BM&#x02010;MSCs, AFSCs, and PLSCs on the different immune cells and their respective functions, compared to each other, the effects of BM&#x02010;MSCs, AFSCs, and PLSCs did not show statistically significant difference. Our data showed potential trends in the effect of the three stromal cell populations on gene expression where it seemed that PLSCs had a more widespread effect on IFN&#x02010;&#x003b3;, NE, and NF&#x02010;kB, but changes were not statistically significant. However, the presence of BM&#x02010;MSCs (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01) and PLSCs (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05) seemed to significantly increase the levels of IL&#x02010;6 when compared to AFSCs (Figure <xref rid="sct312615-fig-0002" ref-type="fig">2</xref>A). This phenomenon was further supported by the data shown in Supplemental Figure <xref rid="sct312615-supitem-0001" ref-type="supplementary-material">S1</xref> in which we showed that BM&#x02010;MSCs and PLSCs secrete significantly higher levels of IL&#x02010;6 compared to AFSCs, which did not secrete any detectable levels of IL&#x02010;6. This suggests that a key difference between the three cell types is their secreted factors which may have a role in their effects on the different components of the immune system.</p></sec></sec><sec id="sct312615-sec-0026"><label>4</label><title>DISCUSSION</title><p>This study demonstrated that stromal cells isolated from the amniotic fluid and the placenta have immunomodulatory properties similar to that of BM&#x02010;MSCs and thus, may provide a new source for immunomodulatory cell therapy. We evaluated the inhibitory effects of these three cell populations on the cytokine gene expression levels as well as secreted protein levels of LPS&#x02010;stimulated leukocytes from healthy donors. LPS is a component that is abundant in Gram&#x02010;negative bacteria which triggers an immune inflammatory response by binding to the toll like receptor 4 (TLR4) found on the surface of some immune cells including neutrophils, macrophages and T cells.<xref rid="sct312615-bib-0024" ref-type="ref">24</xref>, <xref rid="sct312615-bib-0025" ref-type="ref">25</xref> This induces the activation of transcription factor NF&#x02010;&#x003ba;B which subsequently activates the downstream transcription of a plethora of inflammatory cytokines such as IL&#x02010;1&#x003b2;, IL&#x02010;6, IL&#x02010;8, IFN&#x02010;&#x003b3;, and N. We further analyzed the effect of these stromal cells on neutrophils and lymphocytes in isolation, to investigate the probable mechanisms of interaction between the immune cells and perinatal cells. The gene expression data suggested that secreted factors from the stromal cell populations might play a role in modulating cytokine levels, given that the assay was set up under transwell culture conditions. Our findings were in accordance with other studies in showing that perinatal cells, especially PLSCs, decreased the gene expression and protein levels of IFN&#x02010;&#x003b3; and TNF&#x02010;&#x003b1;, suggesting that PLSCs may have an inhibitory effect on lymphocytes, particularly Th1 cells.<xref rid="sct312615-bib-0023" ref-type="ref">23</xref> Furthermore, PLSCs significantly decreased the gene expression of NF&#x02010;&#x003ba;B and NE suggesting that PLSCs as well as AFSCs might interact with neutrophils. Moreover, perinatal cells and BM&#x02010;MSCs did not have any effect on the migratory or enzymatic activities of isolated neutrophils, despite their inhibitory effect on NE gene expression when total leukocytes were analyzed. This implies that a potential crosstalk between perinatal cells and other components of the immune system is needed to influence these neutrophil functions. PLSCs also decreased the proliferation of Th1 T cell subsets and their associated cytokines.</p><p>In our study, we found that PLSCs showed the greatest level of suppression of NF&#x02010;&#x003ba;B and NE gene expression. As shown in Figure <xref rid="sct312615-fig-0001" ref-type="fig">1</xref>, we also observed a decrease in the gene expression IFN&#x02010;&#x003b3; in the presence of PLSCs. Additionally, PLSCs seem to increase the gene expression of CCL2, a chemokine involved in the recruitment of monocytes. Secreted supernatant cytokine analysis demonstrated increased levels of IL&#x02010;6 secretion in the presence of BM&#x02010;MSCs and PLSCs, contradicting the gene expression of IL&#x02010;6, which remained relatively unchanged. This may be explained by the fact that gene expression analysis was performed only on leukocyte&#x02010;derived RNA, with the stromal cells excluded from analysis by their location in the upper transwell membrane. For protein cytokine analysis shown in Figure <xref rid="sct312615-fig-0002" ref-type="fig">2</xref>, the analyzed culture supernatant contained proteins that were potentially secreted by both cell types. Stromal cells from the BM, as well as AFSCs and PLSCs have been shown to secrete IL&#x02010;6<xref rid="sct312615-bib-0023" ref-type="ref">23</xref>, <xref rid="sct312615-bib-0026" ref-type="ref">26</xref> suggesting that the stromal cells might have been the source of the increased IL&#x02010;6 levels in our supernatant samples under the transwell culture conditions. This was further supported by our data shown in Supplemental Figure <xref rid="sct312615-supitem-0001" ref-type="supplementary-material">S1</xref>, where we evaluated IL&#x02010;6 secreted by unstimulated and LPS stimulated AFSCs, BM&#x02010;MSCs, and PLSCs. These data demonstrate that both BM&#x02010;MSCs and PLSCs secrete IL&#x02010;6 into the culture medium and thus represent the likely source of the elevated IL&#x02010;6 levels observed in our experimental setting (Supplemental Figure <xref rid="sct312615-supitem-0001" ref-type="supplementary-material">S1</xref>). We also observed significantly lower levels of secreted TNF&#x02010;&#x003b1; when leukocytes were cocultured with PLSCs. During the early stages of the immune response, IL&#x02010;1&#x003b2;, TNF&#x02010;&#x003b1;, and IL&#x02010;6 are secreted by macrophages and monocytes into the inflammatory milieu, and trigger downstream inflammatory activity including increased vascular permeability and recruitment of neutrophils and lymphocytes.<xref rid="sct312615-bib-0027" ref-type="ref">27</xref>, <xref rid="sct312615-bib-0028" ref-type="ref">28</xref>, <xref rid="sct312615-bib-0029" ref-type="ref">29</xref> Macrophages also promote Th1 mediated immunity by secreting the cytokine IL&#x02010;12. IL&#x02010;12, along with TNF&#x02010;&#x003b1; and other inflammatory cytokines, then, stimulate the production of IFN&#x02010;&#x003b3;.<xref rid="sct312615-bib-0030" ref-type="ref">30</xref>, <xref rid="sct312615-bib-0031" ref-type="ref">31</xref> These findings suggest that PLSCs might interact with monocytes and macrophages at early time points and suppress their function to secrete pro&#x02010;inflammatory cytokines. This also suggests that the downregulation of these cytokines by PLSCs may also explain the downstream potential inhibitory role of perinatal cells on Th1 cells.<xref rid="sct312615-bib-0023" ref-type="ref">23</xref>, <xref rid="sct312615-bib-0031" ref-type="ref">31</xref> Cell supernatants analyzed for NE levels 24&#x02009;hours after LPS stimulation showed unchanged levels. One limitation of these experiments is that our analysis was performed at a single time&#x02010;point, chosen to facilitate detection of a majority of clinically relevant cytokines and acute&#x02010;phase reactants. However, this compromise provides only a brief snapshot of the dynamic inflammatory process and is likely to have resulted in our chosen assays missing very early (&#x0003c;60&#x02009;minutes) as well as late (&#x0003e;48&#x02009;hours) responses. This may explain some of our findings such as our gene expression data, where the presence of stromal cells had a significant inhibitory effect on the gene expression of NE. NE protein is secreted very early in the inflammatory response, analyzing NE levels after 24&#x02009;hours might be too late to detect any significant changes, although the effects of NE gene expression under the regulation of the NF&#x02010;&#x003ba;B could still be detected. To address these questions, further longitudinal studies are required to provide more information about how perinatal cells interact with both early as well as late&#x02010;acting immune responses.</p><p>To evaluate potential direct interactions between stromal cells and neutrophils, we purified neutrophils from the total white cells using magnetic bead separation and performed functional assays with stromal cells coculture. In Figure <xref rid="sct312615-fig-0003" ref-type="fig">3</xref>, we observed that neutrophil migration toward an IL&#x02010;8 gradient, and enzymatic activities remained unaffected by the coculture with stromal cells. Although all three stromal cell population types suppressed the gene expression of NE when evaluated in total leukocytes, this effect was not observed when isolated neutrophils were used. Contrary to our findings, results from Jiang et al, who investigated the effect of adipose tissue derived MSCs on neutrophil mediated tissue damage, revealed that mouse derived neutrophils cocultured with MSCs exhibited a decrease in MPO and NE secreted levels as well as their enzymatic activities,<xref rid="sct312615-bib-0032" ref-type="ref">32</xref> suggesting potential differences between these interactions between human and mouse cells. In another study, human MSCs derived from Wharton's jelly, trabecular bone and BM were capable of suppressing human neutrophil recruitment to TNF&#x02010;&#x003b1;&#x02010;stimulated endothelial cell monolayers.<xref rid="sct312615-bib-0033" ref-type="ref">33</xref> As distinct stimulation approaches can be used for neutrophil activation and recruitment, these differences may be useful in evaluating differential responses to stromal cells. In addition, cells derived from several tissue sources such as adipose, perinatal tissues exhibit distinct therapeutic properties and immunomodulatory effects that could impact the interactions with the immune system. Studies have shown that MSCs derived from the umbilical cord exhibit a significantly different paracrine profile when compared to adipose derived MSCs suggesting that the tissue source of MSCs strongly impacts the biological diversity potential of the derived cells and thus influence their immunomodulatory properties.<xref rid="sct312615-bib-0034" ref-type="ref">34</xref>, <xref rid="sct312615-bib-0035" ref-type="ref">35</xref> Similarly, the presence of multiple interacting cell types appears to be essential for appropriate modeling of neutrophil functions. Our neutrophil isolation protocol eliminated other immune cell populations such as macrophages and monocytes, suggesting these cell interactions may be important for neutrophil activation and interactions with stromal cells.<xref rid="sct312615-bib-0036" ref-type="ref">36</xref> It is possible that the observed inhibitory effect on NE gene expression may be mediated by indirect mechanisms, where perinatal cells interact with other components of the immune system which then influence neutrophil functions. This hypothesis requires further study, but is supported by a study performed by Lai et al who attributed the induced NE reduction in a rat model of ventilator&#x02010;induced lung injury, to the MSCs suppression of early stage pro&#x02010;inflammatory cytokines like TNF&#x02010;&#x003b1;.<xref rid="sct312615-bib-0037" ref-type="ref">37</xref>
+</p><p>When we evaluated the inhibitory effects of AFSCs, BM&#x02010;MSCs, and PLSCs on PHA stimulated PBMCs from healthy donors, we found that PLSCs suppressed the proliferation of stimulated lymphocytes in vitro as shown in Figure <xref rid="sct312615-fig-0004" ref-type="fig">4</xref>. This finding confirms studies performed by others, who have shown that PHA&#x02010;stimulated lymphocyte proliferation can be suppressed by bone&#x02010;marrow and perinatal&#x02010;derived cells under coculture conditions.<xref rid="sct312615-bib-0023" ref-type="ref">23</xref> Our studies further explored the mechanisms of this phenomenon, using our transwell culture system and cell conditioned media to determine that while PLSCs suppress the gene expression of multiple inflammatory cytokines through secreted factors, direct contact is needed to affect Th1 proliferation. Thus, our study provides novel findings showing that direct cell&#x02010;to&#x02010;cell contact is required for PLSCs to suppress the proliferation of Th1 cells in our experimental design. Such finding is novel because it elaborates on the potential mechanism of action of PLSCs on Th1 cells and thus provides further understanding on how the use of these cells or their secreted factors may influence specific immune functions. We also demonstrated by flow cytometry analysis of the Th cell subsets that Th1 (CD3<sup>+</sup> CD4<sup>+</sup> CD183<sup>+</sup>) proportions (%) were reduced in the presence of PLSCs. This is supported by our observed decrease in levels of secreted IFN&#x02010;&#x003b3; shown in Figure <xref rid="sct312615-fig-0005" ref-type="fig">5</xref>. Our findings are in accordance with other reports that showed that PLSCs downregulate Th1 cells and decrease the levels of their associated cytokines such as IFN&#x02010;&#x003b3; and IL&#x02010;2.<xref rid="sct312615-bib-0023" ref-type="ref">23</xref>, <xref rid="sct312615-bib-0038" ref-type="ref">38</xref>, <xref rid="sct312615-bib-0039" ref-type="ref">39</xref> Th1 cells mediate immune responses against intracellular bacteria and protozoa by producing IL&#x02010;2 and IFN&#x02010;&#x003b3; that lead to activation of macrophages as well as CD8<sup>+</sup> T cells and antibody producing B cells.<xref rid="sct312615-bib-0040" ref-type="ref">40</xref> During an infection, antigen presenting cells present antigen derived proteins to na&#x000ef;ve T cells (Th0) which recognize these signals using their T cell receptors and become activated. CD4<sup>+</sup> na&#x000ef;ve T cells then differentiate into multiple T helper subsets including Th1. Th0 give rise to Th1 cells in the presence of IL&#x02010;12 and IFN&#x02010;&#x003b3;, which trigger the expression of high levels of STAT4 and T&#x02010;bet transcription factors in na&#x000ef;ve T cells, favoring Th1 differentiation.<xref rid="sct312615-bib-0041" ref-type="ref">41</xref> Th1 have been implicated in many illnesses as a potential mechanism of disease dysfunction and progression. Studies have shown that increased levels of IFN&#x02010;&#x003b3;, associated with a predominant Th1 imbalanced inflammatory response, play a major role in the progression of autoimmune disease in lupus prone MRL mice.<xref rid="sct312615-bib-0042" ref-type="ref">42</xref> Other studies investigating the role of Th1 in RA in rat models revealed that polyclonal expansion of Th1 cells was necessary for the onset of disease.<xref rid="sct312615-bib-0043" ref-type="ref">43</xref> Patients with CD exhibited high infiltration of Th1 cells in the gastric and intestinal mucosa, accompanied by increased levels of IFN&#x02010;&#x003b3; and TNF&#x02010;&#x003b1; which have been implicated in the progression of the disease.<xref rid="sct312615-bib-0044" ref-type="ref">44</xref> In autoimmune demyelinating diseases, such as MS, patients showed elevated serum levels of TNF and IFN&#x02010;&#x003b3; derived from Th1 cells.<xref rid="sct312615-bib-0045" ref-type="ref">45</xref>, <xref rid="sct312615-bib-0046" ref-type="ref">46</xref> More recently, Zhou et al reported that patients with psoriasis exhibited increased levels of IFN&#x02010;&#x003b3; as well as IL&#x02010;17 in the serum, which were mainly mediated by increased NF&#x02010;&#x003ba;B expression.<xref rid="sct312615-bib-0047" ref-type="ref">47</xref> Current treatments for Th1 mediated diseases include anti&#x02010;inflammatory and immunomodulatory drugs to reduce the Th1 mediated immune response, such as anti&#x02010;TNF&#x003b1; antibodies.<xref rid="sct312615-bib-0048" ref-type="ref">48</xref>, <xref rid="sct312615-bib-0049" ref-type="ref">49</xref>, <xref rid="sct312615-bib-0050" ref-type="ref">50</xref>, <xref rid="sct312615-bib-0051" ref-type="ref">51</xref> However, these therapies have been associated with major side effects such as infusion reactions especially in nonspecific cells of the body, and is some cases, the development of eczema and tuberculosis due to neutralization of TNF&#x02010;&#x003b1;.<xref rid="sct312615-bib-0052" ref-type="ref">52</xref>, <xref rid="sct312615-bib-0053" ref-type="ref">53</xref> Thus, the potential to modulate Th1 responses in patients with autoimmune diseases may be beneficial for controlling or preventing disease onset. Interestingly, the presence of PLSCs in contact with stimulated immune cells led to an increase in IL&#x02010;17A and a potential reduction in IL&#x02010;2 supernatant levels shown is Figure <xref rid="sct312615-fig-0006" ref-type="fig">6</xref>. IL&#x02010;2 is mainly involved in the maintenance and growth of regulatory T cells (Tregs), as well as the differentiation of Th1 and Th2 cells. IL&#x02010;2 might also play a role in the suppression of the differentiation of Th17 cells, the main sources for IL&#x02010;17A. Th17 cells, on the other hand, are highly inflammatory cells that are involved in a number of autoimmune diseases such as psoriasis, RA, and MS.<xref rid="sct312615-bib-0054" ref-type="ref">54</xref>, <xref rid="sct312615-bib-0055" ref-type="ref">55</xref>, <xref rid="sct312615-bib-0056" ref-type="ref">56</xref>, <xref rid="sct312615-bib-0057" ref-type="ref">57</xref> This may explain our findings showing elevated levels of IL&#x02010;17A and reduced IL&#x02010;2 levels following PHA stimulation. However, the administration of PLSCs further exacerbated this phenomenon, suggesting that PLSCs may favor Th17 cells. In this context, although we did not detect any significant changes in the percentage of Th17 cells in our coculture system with PLSCs, it seems that the presence of PLSCs might increase the function of these cells to produce IL&#x02010;17A. This suggests that the suppressive effect of PLSCs on Th1 cells might create a suitable environment for Th17 cells upregulation. This contradicts some of the reports showing that PLSCs may suppress the expansion of Th17 cells.<xref rid="sct312615-bib-0023" ref-type="ref">23</xref>, <xref rid="sct312615-bib-0039" ref-type="ref">39</xref> Along the lines of our results, MSCs activation of Th17 has been previously reported in vitro, as Carrion et al demonstrated similar opposing effects on Th1 and Th17 cells, where the addition of MSCs after T cell activation led to an increase in IL&#x02010;17A production while inhibiting IFN&#x02010;&#x003b3;. MSCs only decreased Th17 cells when added early (prior to T cell activation).<xref rid="sct312615-bib-0058" ref-type="ref">58</xref> These findings emphasize the importance of investigating the underlying mechanisms of action of cell therapy and its effect on the different cells of the immune response, taking into consideration important criteria such as the state of T cell activation as well as timing of cell therapy administration. PLSCs' suppression of one axis of the pro&#x02010;inflammatory response might come at the risk of allowing upregulation of other inflammatory pathways that could be just as deleterious to disease severity.</p></sec><sec id="sct312615-sec-0027"><label>5</label><title>CONCLUSION</title><p>Our study showed that PLSCs have a robust effect on the suppression and function of Th1 subsets. These findings confirm the anti&#x02010;inflammatory properties of PLSCs on Th1, provide further understanding approximately the interaction of PLSCs with the different components of the immune system, and offer a potential anti&#x02010;inflammatory effect on Th1 cell subset, suggesting a potential use of these cells to target Th1&#x02010;related diseases.</p></sec><sec sec-type="COI-statement" id="sct312615-sec-0029"><title>CONFLICT OF INTEREST</title><p>The authors indicated no potential conflicts of interest.</p></sec><sec id="sct312615-sec-0030"><title>AUTHOR CONTRIBUTIONS</title><p>O.K.: conception and design, collection and/or assembly of data, data analysis and interpretation, manuscript writing, final approval of the manuscript; A.A., S.V.M.: financial support, conception and design, data analysis and interpretation, manuscript writing, final approval of the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="sct312615-supitem-0001"><caption><p>
+<bold>Supplemental Figure 1</bold> Secreted levels of IL&#x02010;6 from unstimulated (US) and LPS exposed AFSCs, BM&#x02010;MSCs and PLSCs. Bars represent SEM.</p></caption><media xlink:href="SCT3-9-61-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="sct312615-sec-0028"><title>ACKNOWLEDGMENT</title><p>This work was supported by the Cystic Fibrosis Foundation ATALA1410, Cystic Fibrosis Pilot and Feasibility Award, and the Lisa Dean Moseley Foundation 668630.</p></ack><sec sec-type="data-availability" id="sct312615-sec-0032"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="sct312615-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="sct312615-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="sct312615-cit-0001">
+<string-name>
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Cellular and molecular regulation of innate inflammatory responses</article-title>. <source xml:lang="en">Cell Mol Immunol</source>. <year>2016</year>;<volume>13</volume>:<fpage>711</fpage>&#x02010;<lpage>721</lpage>.<pub-id pub-id-type="pmid">27818489</pub-id></mixed-citation></ref><ref id="sct312615-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="sct312615-cit-0002">
+<string-name>
+<surname>Berger</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Th1 and Th2 responses: what are they?</article-title>
+<source xml:lang="en">BMJ</source>. <year>2000</year>;<volume>321</volume>:<fpage>424</fpage>.<pub-id pub-id-type="pmid">10938051</pub-id></mixed-citation></ref><ref id="sct312615-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="sct312615-cit-0003">
+<string-name>
+<surname>Muraille</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Leo</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Revisiting the Th1/Th2 paradigm</article-title>. <source xml:lang="en">Scand J Immunol</source>. <year>1998</year>;<volume>47</volume>:<fpage>1</fpage>&#x02010;<lpage>9</lpage>.<pub-id pub-id-type="pmid">9467651</pub-id></mixed-citation></ref><ref id="sct312615-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="sct312615-cit-0004">
+<string-name>
+<surname>Romagnani</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The Th1/Th2 paradigm</article-title>. <source xml:lang="en">Immunol Today</source>. <year>1997</year>;<volume>18</volume>:<fpage>263</fpage>&#x02010;<lpage>266</lpage>.<pub-id pub-id-type="pmid">9190109</pub-id></mixed-citation></ref><ref id="sct312615-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="sct312615-cit-0005">
+<string-name>
+<surname>Romagnani</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The Th1/Th2 paradigm and allergic disorders</article-title>. <source xml:lang="en">Allergy</source>. <year>1998</year>;<volume>53</volume>:<fpage>12</fpage>&#x02010;<lpage>15</lpage>.<pub-id pub-id-type="pmid">9825989</pub-id></mixed-citation></ref><ref id="sct312615-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="sct312615-cit-0006">
+<string-name>
+<surname>Gao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Inflammation negatively regulates FOXP3 and regulatory T&#x02010;cell function via DBC1</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2015</year>;<volume>112</volume>:<fpage>E3246</fpage>&#x02010;<lpage>E3254</lpage>.<pub-id pub-id-type="pmid">26060310</pub-id></mixed-citation></ref><ref id="sct312615-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="sct312615-cit-0007">
+<string-name>
+<surname>Lee</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Goswami</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Grudo</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Antielastin autoimmunity in tobacco smoking&#x02010;induced emphysema</article-title>. <source xml:lang="en">Nat Med</source>. <year>2007</year>;<volume>13</volume>:<fpage>567</fpage>&#x02010;<lpage>569</lpage>.<pub-id pub-id-type="pmid">17450149</pub-id></mixed-citation></ref><ref id="sct312615-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="sct312615-cit-0008">
+<string-name>
+<surname>Kugathasan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Saubermann</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Mucosal T&#x02010;cell immunoregulation varies in early and late inflammatory bowel disease</article-title>. <source xml:lang="en">Gut</source>. <year>2007</year>;<volume>56</volume>:<fpage>1696</fpage>&#x02010;<lpage>1705</lpage>.<pub-id pub-id-type="pmid">17682002</pub-id></mixed-citation></ref><ref id="sct312615-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="sct312615-cit-0009">
+<string-name>
+<surname>Neurath</surname>
+<given-names>MF</given-names>
+</string-name>. <article-title>Cytokines in inflammatory bowel disease</article-title>. <source xml:lang="en">Nat Rev Immunol</source>. <year>2014</year>;<volume>14</volume>:<fpage>329</fpage>&#x02010;<lpage>342</lpage>.<pub-id pub-id-type="pmid">24751956</pub-id></mixed-citation></ref><ref id="sct312615-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="sct312615-cit-0010">
+<string-name>
+<surname>Wang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Galphaq regulates the development of rheumatoid arthritis by modulating Th1 differentiation</article-title>. <source xml:lang="en">Mediators Inflamm</source>. <year>2017</year>;<volume>2017</volume>:<fpage>4639081</fpage>.<pub-id pub-id-type="pmid">28197018</pub-id></mixed-citation></ref><ref id="sct312615-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="sct312615-cit-0011">
+<string-name>
+<surname>Arellano</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Acuna</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Reyes</surname>
+<given-names>LI</given-names>
+</string-name>, et al. <article-title>Th1 and Th17 cells and associated cytokines discriminate among clinically isolated syndrome and multiple sclerosis phenotypes</article-title>. <source xml:lang="en">Front Immunol</source>. <year>2017</year>;<volume>8</volume>:<fpage>753</fpage>.<pub-id pub-id-type="pmid">28713377</pub-id></mixed-citation></ref><ref id="sct312615-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="sct312615-cit-0012">
+<string-name>
+<surname>Qin</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>CD25 siRNA induces Treg/Th1 cytokine expression in rat corneal transplantation models</article-title>. <source xml:lang="en">Exp Eye Res</source>. <year>2016</year>;<volume>151</volume>:<fpage>134</fpage>&#x02010;<lpage>141</lpage>.<pub-id pub-id-type="pmid">27567557</pub-id></mixed-citation></ref><ref id="sct312615-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="sct312615-cit-0013">
+<string-name>
+<surname>Walker</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>von Herrath</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>CD4 T cell differentiation in type 1 diabetes</article-title>. <source xml:lang="en">Clin Exp Immunol</source>. <year>2016</year>;<volume>183</volume>:<fpage>16</fpage>&#x02010;<lpage>29</lpage>.<pub-id pub-id-type="pmid">26102289</pub-id></mixed-citation></ref><ref id="sct312615-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="sct312615-cit-0014">
+<string-name>
+<surname>Ding</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>Hart</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>De Cruz</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Systematic review: predicting and optimising response to anti&#x02010;TNF therapy in Crohn's disease &#x02010; algorithm for practical management</article-title>. <source xml:lang="en">Aliment Pharmacol Ther</source>. <year>2016</year>;<volume>43</volume>:<fpage>30</fpage>&#x02010;<lpage>51</lpage>.<pub-id pub-id-type="pmid">26515897</pub-id></mixed-citation></ref><ref id="sct312615-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="sct312615-cit-0015">
+<string-name>
+<surname>Ilancheran</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Moodley</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Manuelpillai</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>Human fetal membranes: a source of stem cells for tissue regeneration and repair?</article-title>
+<source xml:lang="en">Placenta</source>. <year>2009</year>;<volume>30</volume>:<fpage>2</fpage>&#x02010;<lpage>10</lpage>.<pub-id pub-id-type="pmid">18995896</pub-id></mixed-citation></ref><ref id="sct312615-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="sct312615-cit-0016">
+<string-name>
+<surname>Abomaray</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Al Jumah</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Alsaad</surname>
+<given-names>KO</given-names>
+</string-name>, et al. <article-title>Phenotypic and functional characterization of mesenchymal stem/multipotent stromal cells from decidua basalis of human term placenta</article-title>. <source xml:lang="en">Stem Cells Int</source>. <year>2016</year>;<volume>2016</volume>:<fpage>5184601</fpage>.<pub-id pub-id-type="pmid">27087815</pub-id></mixed-citation></ref><ref id="sct312615-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="sct312615-cit-0017">
+<string-name>
+<surname>Pianta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Magatti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vertua</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Amniotic mesenchymal cells from pre&#x02010;eclamptic placentae maintain immunomodulatory features as healthy controls</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2016</year>;<volume>20</volume>:<fpage>157</fpage>&#x02010;<lpage>169</lpage>.<pub-id pub-id-type="pmid">26515425</pub-id></mixed-citation></ref><ref id="sct312615-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="sct312615-cit-0018">
+<string-name>
+<surname>Yang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Human umbilical cord&#x02010;derived mesenchymal stem cells suppress proliferation of PHA&#x02010;activated lymphocytes in vitro by inducing CD4(+)CD25(high)CD45RA(+) regulatory T cell production and modulating cytokine secretion</article-title>. <source xml:lang="en">Cell Immunol</source>. <year>2016</year>;<volume>302</volume>:<fpage>26</fpage>&#x02010;<lpage>31</lpage>.<pub-id pub-id-type="pmid">26774852</pub-id></mixed-citation></ref><ref id="sct312615-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="sct312615-cit-0019">
+<string-name>
+<surname>Boura</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Vance</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Evaluation of gene delivery strategies to efficiently overexpress functional HLA&#x02010;G on human bone marrow stromal cells</article-title>. <source xml:lang="en">Mol Ther Methods Clin Dev</source>. <year>2014</year>;<volume>2014</volume>:<fpage>14041</fpage>.<pub-id pub-id-type="pmid">25279386</pub-id></mixed-citation></ref><ref id="sct312615-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="sct312615-cit-0020">
+<string-name>
+<surname>Mokhtari</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Colletti</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>A human bone marrow mesodermal&#x02010;derived cell population with hemogenic potential</article-title>. <source xml:lang="en">Leukemia</source>. <year>2018</year>;<volume>32</volume>:<fpage>1575</fpage>&#x02010;<lpage>1586</lpage>.<pub-id pub-id-type="pmid">29467489</pub-id></mixed-citation></ref><ref id="sct312615-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="sct312615-cit-0021">
+<string-name>
+<surname>Soland</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Bego</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Colletti</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Modulation of human mesenchymal stem cell immunogenicity through forced expression of human cytomegalovirus us proteins</article-title>. <source xml:lang="en">PLoS One</source>. <year>2012</year>;<volume>7</volume>:<elocation-id>e36163</elocation-id>.<pub-id pub-id-type="pmid">22666319</pub-id></mixed-citation></ref><ref id="sct312615-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="sct312615-cit-0022">
+<string-name>
+<surname>De Coppi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bartsch</surname>
+<given-names>G</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Siddiqui</surname>
+<given-names>MM</given-names>
+</string-name>, et al. <article-title>Isolation of amniotic stem cell lines with potential for therapy</article-title>. <source xml:lang="en">Nat Biotechnol</source>. <year>2007</year>;<volume>25</volume>:<fpage>100</fpage>&#x02010;<lpage>106</lpage>.<pub-id pub-id-type="pmid">17206138</pub-id></mixed-citation></ref><ref id="sct312615-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="sct312615-cit-0023">
+<string-name>
+<surname>Mareschi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Castiglia</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sanavio</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Immunoregulatory effects on T lymphocytes by human mesenchymal stromal cells isolated from bone marrow, amniotic fluid, and placenta</article-title>. <source xml:lang="en">Exp Hematol</source>. <year>2016</year>;<volume>44</volume>:<fpage>138</fpage>&#x02010;<lpage>150.e131</lpage>.<pub-id pub-id-type="pmid">26577566</pub-id></mixed-citation></ref><ref id="sct312615-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="sct312615-cit-0024">
+<string-name>
+<surname>Vaure</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>A comparative review of toll&#x02010;like receptor 4 expression and functionality in different animal species</article-title>. <source xml:lang="en">Front Immunol</source>. <year>2014</year>;<volume>5</volume>:<fpage>316</fpage>.<pub-id pub-id-type="pmid">25071777</pub-id></mixed-citation></ref><ref id="sct312615-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="sct312615-cit-0025">
+<string-name>
+<surname>Prabha</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Rajashree</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sulochana</surname>
+<given-names>DD</given-names>
+</string-name>. <article-title>TLR2 and TLR4 expression on the immune cells of tuberculous pleural fluid</article-title>. <source xml:lang="en">Immunol Lett</source>. <year>2008</year>;<volume>117</volume>:<fpage>26</fpage>&#x02010;<lpage>34</lpage>.<pub-id pub-id-type="pmid">18295348</pub-id></mixed-citation></ref><ref id="sct312615-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="sct312615-cit-0026">
+<string-name>
+<surname>Mazzucchelli</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Avanzini</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ciardelli</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Human amniotic fluid cells are able to produce IL&#x02010;6 and IL&#x02010;8</article-title>. <source xml:lang="en">Am J Reprod Immunol</source>. <year>2004</year>;<volume>51</volume>:<fpage>198</fpage>&#x02010;<lpage>203</lpage>.<pub-id pub-id-type="pmid">15209388</pub-id></mixed-citation></ref><ref id="sct312615-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="sct312615-cit-0027">
+<string-name>
+<surname>Beutler</surname>
+<given-names>BA</given-names>
+</string-name>. <article-title>The role of tumor necrosis factor in health and disease</article-title>. <source xml:lang="en">J Rheumatol Suppl</source>. <year>1999</year>;<volume>57</volume>:<fpage>16</fpage>&#x02010;<lpage>21</lpage>.<pub-id pub-id-type="pmid">10328138</pub-id></mixed-citation></ref><ref id="sct312615-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="sct312615-cit-0028">
+<string-name>
+<surname>Ben&#x02010;Sasson</surname>
+<given-names>SZ</given-names>
+</string-name>, <string-name>
+<surname>Hu&#x02010;Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Quiel</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>IL&#x02010;1 acts directly on CD4 T cells to enhance their antigen&#x02010;driven expansion and differentiation</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2009</year>;<volume>106</volume>:<fpage>7119</fpage>&#x02010;<lpage>7124</lpage>.<pub-id pub-id-type="pmid">19359475</pub-id></mixed-citation></ref><ref id="sct312615-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="sct312615-cit-0029">
+<string-name>
+<surname>Hurst</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Wilkinson</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>McLoughlin</surname>
+<given-names>RM</given-names>
+</string-name>, et al. <article-title>Il&#x02010;6 and its soluble receptor orchestrate a temporal switch in the pattern of leukocyte recruitment seen during acute inflammation</article-title>. <source xml:lang="en">Immunity</source>. <year>2001</year>;<volume>14</volume>:<fpage>705</fpage>&#x02010;<lpage>714</lpage>.<pub-id pub-id-type="pmid">11420041</pub-id></mixed-citation></ref><ref id="sct312615-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="sct312615-cit-0030">
+<string-name>
+<surname>Dorman</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Holland</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>Interferon&#x02010;gamma and interleukin&#x02010;12 pathway defects and human disease</article-title>. <source xml:lang="en">Cytokine Growth Factor Rev</source>. <year>2000</year>;<volume>11</volume>:<fpage>321</fpage>&#x02010;<lpage>333</lpage>.<pub-id pub-id-type="pmid">10959079</pub-id></mixed-citation></ref><ref id="sct312615-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="sct312615-cit-0031">
+<string-name>
+<surname>Shibuya</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Zonin</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>IL&#x02010;1 alpha and TNF&#x02010;alpha are required for IL&#x02010;12&#x02010;induced development of Th1 cells producing high levels of IFN&#x02010;gamma in BALB/c but not C57BL/6 mice</article-title>. <source xml:lang="en">J Immunol</source>. <year>1998</year>;<volume>160</volume>:<fpage>1708</fpage>&#x02010;<lpage>1716</lpage>.<pub-id pub-id-type="pmid">9469428</pub-id></mixed-citation></ref><ref id="sct312615-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="sct312615-cit-0032">
+<string-name>
+<surname>Jiang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Muschhammer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Qi</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Suppression of neutrophil&#x02010;mediated tissue damage&#x02014;a novel skill of mesenchymal stem cells</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2016</year>;<volume>34</volume>:<fpage>2393</fpage>&#x02010;<lpage>2406</lpage>.<pub-id pub-id-type="pmid">27299700</pub-id></mixed-citation></ref><ref id="sct312615-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="sct312615-cit-0033">
+<string-name>
+<surname>Munir</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Luu</surname>
+<given-names>NT</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>
+<given-names>LS</given-names>
+</string-name>, et al. <article-title>Comparative ability of mesenchymal stromal cells from different tissues to limit neutrophil recruitment to inflamed endothelium</article-title>. <source xml:lang="en">PLoS One.</source>
+<year>2016</year>;<volume>11</volume>:<elocation-id>e0155161</elocation-id>.<pub-id pub-id-type="pmid">27171357</pub-id></mixed-citation></ref><ref id="sct312615-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="sct312615-cit-0034">
+<string-name>
+<surname>Dabrowski</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name>
+<surname>Burdzinska</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kulesza</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Comparison of the paracrine activity of mesenchymal stem cells derived from human umbilical cord, amniotic membrane and adipose tissue</article-title>. <source xml:lang="en">J Obstet Gynaecol Res</source>. <year>2017</year>;<volume>43</volume>:<fpage>1758</fpage>&#x02010;<lpage>1768</lpage>.<pub-id pub-id-type="pmid">28707770</pub-id></mixed-citation></ref><ref id="sct312615-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="sct312615-cit-0035">
+<string-name>
+<surname>Du</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Chi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>ZX</given-names>
+</string-name>, et al. <article-title>Heterogeneity of proangiogenic features in mesenchymal stem cells derived from bone marrow, adipose tissue, umbilical cord, and placenta</article-title>. <source xml:lang="en">Stem Cell Res Ther</source>. <year>2016</year>;<volume>7</volume>:<fpage>163</fpage>.<pub-id pub-id-type="pmid">27832825</pub-id></mixed-citation></ref><ref id="sct312615-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="sct312615-cit-0036">
+<string-name>
+<surname>Harada</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sekido</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Akahoshi</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Essential involvement of interleukin&#x02010;8 (IL&#x02010;8) in acute inflammation</article-title>. <source xml:lang="en">J Leukoc Biol</source>. <year>1994</year>;<volume>56</volume>:<fpage>559</fpage>&#x02010;<lpage>564</lpage>.<pub-id pub-id-type="pmid">7964163</pub-id></mixed-citation></ref><ref id="sct312615-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="sct312615-cit-0037">
+<string-name>
+<surname>Lai</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>ZH</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>SX</given-names>
+</string-name>. <article-title>Mesenchymal stem cell attenuates neutrophil&#x02010;predominant inflammation and acute lung injury in an in vivo rat model of ventilator&#x02010;induced lung injury</article-title>. <source xml:lang="en">Chin Med J (Engl)</source>. <year>2015</year>;<volume>128</volume>:<fpage>361</fpage>&#x02010;<lpage>367</lpage>.<pub-id pub-id-type="pmid">25635432</pub-id></mixed-citation></ref><ref id="sct312615-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="sct312615-cit-0038">
+<string-name>
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Human&#x02010;placenta&#x02010;derived mesenchymal stem cells inhibit proliferation and function of allogeneic immune cells</article-title>. <source xml:lang="en">Cell Tissue Res</source>. <year>2007</year>;<volume>330</volume>:<fpage>437</fpage>&#x02010;<lpage>446</lpage>.<pub-id pub-id-type="pmid">17899199</pub-id></mixed-citation></ref><ref id="sct312615-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="sct312615-cit-0039">
+<string-name>
+<surname>Pianta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bonassi Signoroni</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Muradore</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Amniotic membrane mesenchymal cells&#x02010;derived factors skew T cell polarization toward Treg and downregulate Th1 and Th17 cells subsets</article-title>. <source xml:lang="en">Stem Cell Rev</source>. <year>2015</year>;<volume>11</volume>:<fpage>394</fpage>&#x02010;<lpage>407</lpage>.</mixed-citation></ref><ref id="sct312615-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="sct312615-cit-0040">
+<string-name>
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Paul</surname>
+<given-names>WE</given-names>
+</string-name>. <article-title>CD4 T cells: fates, functions, and faults</article-title>. <source xml:lang="en">Blood</source>. <year>2008</year>;<volume>112</volume>:<fpage>1557</fpage>&#x02010;<lpage>1569</lpage>.<pub-id pub-id-type="pmid">18725574</pub-id></mixed-citation></ref><ref id="sct312615-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="sct312615-cit-0041">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>TH1/TH2 cell differentiation and molecular signals</article-title>. <source xml:lang="en">Adv Exp Med Biol</source>. <year>2014</year>;<volume>841</volume>:<fpage>15</fpage>&#x02010;<lpage>44</lpage>.<pub-id pub-id-type="pmid">25261203</pub-id></mixed-citation></ref><ref id="sct312615-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="sct312615-cit-0042">
+<string-name>
+<surname>Takahashi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fossati</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Iwamoto</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Imbalance towards Th1 predominance is associated with acceleration of lupus&#x02010;like autoimmune syndrome in MRL mice</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>1996</year>;<volume>97</volume>:<fpage>1597</fpage>&#x02010;<lpage>1604</lpage>.<pub-id pub-id-type="pmid">8601623</pub-id></mixed-citation></ref><ref id="sct312615-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="sct312615-cit-0043">
+<string-name>
+<surname>Tuncel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Haag</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Holmdahl</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>MHC class II alleles associated with Th1 rather than Th17 type immunity drive the onset of early arthritis in a rat model of rheumatoid arthritis</article-title>. <source xml:lang="en">Eur J Immunol</source>. <year>2017</year>;<volume>47</volume>:<fpage>563</fpage>&#x02010;<lpage>574</lpage>.<pub-id pub-id-type="pmid">28012172</pub-id></mixed-citation></ref><ref id="sct312615-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="sct312615-cit-0044">
+<string-name>
+<surname>Fuss</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name>
+<surname>Neurath</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Boirivant</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Disparate CD4+ lamina propria (LP) lymphokine secretion profiles in inflammatory bowel disease. Crohn's disease LP cells manifest increased secretion of IFN&#x02010;gamma, whereas ulcerative colitis LP cells manifest increased secretion of IL&#x02010;5</article-title>. <source xml:lang="en">J Immunol</source>. <year>1996</year>;<volume>157</volume>:<fpage>1261</fpage>&#x02010;<lpage>1270</lpage>.<pub-id pub-id-type="pmid">8757634</pub-id></mixed-citation></ref><ref id="sct312615-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="sct312615-cit-0045">
+<string-name>
+<surname>Hohnoki</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Koh</surname>
+<given-names>CS</given-names>
+</string-name>. <article-title>Elevated serum levels of IFN&#x02010;gamma, IL&#x02010;4 and TNF&#x02010;alpha/unelevated serum levels of IL&#x02010;10 in patients with demyelinating diseases during the acute stage</article-title>. <source xml:lang="en">J Neuroimmunol</source>. <year>1998</year>;<volume>87</volume>:<fpage>27</fpage>&#x02010;<lpage>32</lpage>.<pub-id pub-id-type="pmid">9670842</pub-id></mixed-citation></ref><ref id="sct312615-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="sct312615-cit-0046">
+<string-name>
+<surname>Olsson</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Critical influences of the cytokine orchestration on the outcome of myelin antigen&#x02010;specific T&#x02010;cell autoimmunity in experimental autoimmune encephalomyelitis and multiple sclerosis</article-title>. <source xml:lang="en">Immunol Rev</source>. <year>1995</year>;<volume>144</volume>:<fpage>245</fpage>&#x02010;<lpage>268</lpage>.<pub-id pub-id-type="pmid">7590816</pub-id></mixed-citation></ref><ref id="sct312615-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="sct312615-cit-0047">
+<string-name>
+<surname>Zhou</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>NFKB1 mediates Th1/Th17 activation in the pathogenesis of psoriasis</article-title>. <source xml:lang="en">Cell Immunol</source>. <year>2018</year>;<volume>331</volume>:<fpage>16</fpage>&#x02010;<lpage>21</lpage>.<pub-id pub-id-type="pmid">29748001</pub-id></mixed-citation></ref><ref id="sct312615-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="sct312615-cit-0048">
+<string-name>
+<surname>Luan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Down&#x02010;regulation of the Th1, Th17, and Th22 pathways due to anti&#x02010;TNF&#x02010;alpha treatment in psoriasis</article-title>. <source xml:lang="en">Int Immunopharmacol</source>. <year>2015</year>;<volume>29</volume>:<fpage>278</fpage>&#x02010;<lpage>284</lpage>.<pub-id pub-id-type="pmid">26585971</pub-id></mixed-citation></ref><ref id="sct312615-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="sct312615-cit-0049">
+<string-name>
+<surname>Cassinotti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ardizzone</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Porro</surname>
+<given-names>GB</given-names>
+</string-name>. <article-title>Adalimumab for the treatment of Crohn's disease</article-title>. <source xml:lang="en">Biol Theory</source>. <year>2008</year>;<volume>2</volume>:<fpage>763</fpage>&#x02010;<lpage>777</lpage>.</mixed-citation></ref><ref id="sct312615-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="sct312615-cit-0050">
+<string-name>
+<surname>Burger</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Travis</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Conventional medical management of inflammatory bowel disease</article-title>. <source xml:lang="en">Gastroenterology</source>. <year>2011</year>;<volume>140</volume>:<fpage>1827</fpage>&#x02010;<lpage>1837 e1822</lpage>.<pub-id pub-id-type="pmid">21530749</pub-id></mixed-citation></ref><ref id="sct312615-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="sct312615-cit-0051">
+<string-name>
+<surname>Campanati</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Orciani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lazzarini</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>TNF&#x02010;alpha inhibitors reduce the pathological Th1&#x02010;Th17 /Th2 imbalance in cutaneous mesenchymal stem cells of psoriasis patients</article-title>. <source xml:lang="en">Exp Dermatol</source>. <year>2017</year>;<volume>26</volume>:<fpage>319</fpage>&#x02010;<lpage>324</lpage>.<pub-id pub-id-type="pmid">27376466</pub-id></mixed-citation></ref><ref id="sct312615-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="sct312615-cit-0052">
+<string-name>
+<surname>Keane</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gershon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wise</surname>
+<given-names>RP</given-names>
+</string-name>, et al. <article-title>Tuberculosis associated with infliximab, a tumor necrosis factor alpha&#x02010;neutralizing agent</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2001</year>;<volume>345</volume>:<fpage>1098</fpage>&#x02010;<lpage>1104</lpage>.<pub-id pub-id-type="pmid">11596589</pub-id></mixed-citation></ref><ref id="sct312615-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="sct312615-cit-0053">
+<string-name>
+<surname>Nakamura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Eczema as an adverse effect of anti&#x02010;TNFalpha therapy in psoriasis and other Th1&#x02010;mediated diseases: a review</article-title>. <source xml:lang="en">J Dermatolog Treat</source>. <year>2017</year>;<volume>28</volume>:<fpage>237</fpage>&#x02010;<lpage>241</lpage>.<pub-id pub-id-type="pmid">27571340</pub-id></mixed-citation></ref><ref id="sct312615-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="sct312615-cit-0054">
+<string-name>
+<surname>Leipe</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Grunke</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dechant</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Role of Th17 cells in human autoimmune arthritis</article-title>. <source xml:lang="en">Arthritis Rheum</source>. <year>2010</year>;<volume>62</volume>:<fpage>2876</fpage>&#x02010;<lpage>2885</lpage>.<pub-id pub-id-type="pmid">20583102</pub-id></mixed-citation></ref><ref id="sct312615-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="sct312615-cit-0055">
+<string-name>
+<surname>Kagami</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rizzo</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JJ</given-names>
+</string-name>, et al. <article-title>Circulating Th17, Th22, and Th1 cells are increased in psoriasis</article-title>. <source xml:lang="en">J Invest Dermatol</source>. <year>2010</year>;<volume>130</volume>:<fpage>1373</fpage>&#x02010;<lpage>1383</lpage>.<pub-id pub-id-type="pmid">20032993</pub-id></mixed-citation></ref><ref id="sct312615-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="sct312615-cit-0056">
+<string-name>
+<surname>Lowes</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Kikuchi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Fuentes&#x02010;Duculan</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Psoriasis vulgaris lesions contain discrete populations of Th1 and Th17 T cells</article-title>. <source xml:lang="en">J Invest Dermatol</source>. <year>2008</year>;<volume>128</volume>:<fpage>1207</fpage>&#x02010;<lpage>1211</lpage>.<pub-id pub-id-type="pmid">18200064</pub-id></mixed-citation></ref><ref id="sct312615-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="sct312615-cit-0057">
+<string-name>
+<surname>Jadidi&#x02010;Niaragh</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Mirshafiey</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Th17 cell, the new player of neuroinflammatory process in multiple sclerosis</article-title>. <source xml:lang="en">Scand J Immunol</source>. <year>2011</year>;<volume>74</volume>:<fpage>1</fpage>&#x02010;<lpage>13</lpage>.<pub-id pub-id-type="pmid">21338381</pub-id></mixed-citation></ref><ref id="sct312615-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="sct312615-cit-0058">
+<string-name>
+<surname>Carrion</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Nova</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Luz</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Opposing effect of mesenchymal stem cells on Th1 and Th17 cell polarization according to the state of CD4+ T cell activation</article-title>. <source xml:lang="en">Immunol Lett</source>. <year>2011</year>;<volume>135</volume>:<fpage>10</fpage>&#x02010;<lpage>16</lpage>.<pub-id pub-id-type="pmid">20888363</pub-id></mixed-citation></ref></ref-list></back></article>

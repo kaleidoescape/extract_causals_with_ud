@@ -1,0 +1,622 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938519</article-id><article-id pub-id-type="pmc">6953676</article-id><article-id pub-id-type="doi">10.1002/ece3.5865</article-id><article-id pub-id-type="publisher-id">ECE35865</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Molecular profiling of nematode associates with <italic>Rhynchophorus ferrugineus</italic> in southern Italy</article-title><alt-title alt-title-type="left-running-head">De LUCA et al.</alt-title></title-group><contrib-group><contrib id="ece35865-cr-0001" contrib-type="author" corresp="yes"><name><surname>De Luca</surname><given-names>Francesca</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6646-8066</contrib-id><xref ref-type="aff" rid="ece35865-aff-0001">
+<sup>1</sup>
+</xref><address><email>francesca.deluca@ipsp.cnr.it</email></address></contrib><contrib id="ece35865-cr-0002" contrib-type="author"><name><surname>Fanelli</surname><given-names>Elena</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3132-3908</contrib-id><xref ref-type="aff" rid="ece35865-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35865-cr-0003" contrib-type="author"><name><surname>Oreste</surname><given-names>Monica</given-names></name><xref ref-type="aff" rid="ece35865-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35865-cr-0004" contrib-type="author"><name><surname>Scarcia</surname><given-names>Gianluca</given-names></name><xref ref-type="aff" rid="ece35865-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35865-cr-0005" contrib-type="author"><name><surname>Troccoli</surname><given-names>Alberto</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3582-8209</contrib-id><xref ref-type="aff" rid="ece35865-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35865-cr-0006" contrib-type="author"><name><surname>Vovlas</surname><given-names>Alessio</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5613-2534</contrib-id><xref ref-type="aff" rid="ece35865-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35865-cr-0007" contrib-type="author"><name><surname>Trisciuzzi</surname><given-names>Nicola</given-names></name><xref ref-type="aff" rid="ece35865-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ece35865-cr-0008" contrib-type="author"><name><surname>Tarasco</surname><given-names>Eustachio</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6310-186X</contrib-id><xref ref-type="aff" rid="ece35865-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35865-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="ece35865-aff-0001">
+<label><sup>1</sup></label>
+<institution>Institute for Sustainable Plant Protection (IPSP)&#x02010;CNR</institution>
+<city>Bari</city>
+<country country="IT">Italy</country>
+</aff><aff id="ece35865-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Section of Entomology and Zoology</named-content>
+<named-content content-type="organisation-division">Department of Soil, Plant and Food Sciences</named-content>
+<institution>University of Bari &#x0201c;A. Moro&#x0201d;</institution>
+<city>Bari</city>
+<country country="IT">Italy</country>
+</aff><aff id="ece35865-aff-0003">
+<label><sup>3</sup></label>
+<institution>A. P. S. Polyxena</institution>
+<city>Conversano</city>
+<country country="IT">Italy</country>
+</aff><aff id="ece35865-aff-0004">
+<label><sup>4</sup></label>
+<institution>Centro Ricerca Sperimentazione e Formazione in Agricoltura (CRSFA)</institution>
+<city>Locorotondo</city>
+<country country="IT">Italy</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Francesca De Luca, Institute for Sustainable Plant Protection (IPSP)&#x02010;CNR, via G. Amendola 122/D, 70126 Bari, Italy.<break/>
+Email: <email>francesca.deluca@ipsp.cnr.it</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14286</fpage><lpage>14294</lpage><history><date date-type="received"><day>25</day><month>6</month><year>2019</year></date><date date-type="rev-recd"><day>05</day><month>11</month><year>2019</year></date><date date-type="accepted"><day>06</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14286.pdf"/><abstract id="ece35865-abs-0001"><title>Abstract</title><p>A survey of nematodes associated with the red palm weevil <italic>Rhynchophorus ferrugineus</italic> was conducted in southern Italy in 2015 and 2016 in order to create a species inventory and obtain data about nematode biodiversity. A total of 70 insect samples (pupae and adults) were collected from infested <italic>Phoenix canariensis</italic>, <italic>Phoenix dactylifera</italic>, and <italic>Chamaerops humilis</italic> palms in three Italian Regions: sampling took place at 11 locations in Apulia, 1 in Basilicata, and 1 in Sardinia regions. Individual insects were dissected to determine nematode presence, and different nematode species were also recovered from red palm weevil cocoons collected at the sites in Apulia. Individual nematodes were molecularly identified by sequencing the ITS, D2&#x02010;D3 expansion domains of the 28SrRNA gene and the mitochondrial COI and inferring the phylogenetic relationships. The insect&#x02010;associated nematofauna identified belonged to the families Rhabditidae, Cephalobidae, and Diplogastridae. Just two nematode species, <italic>Teratorhabditis synpapillata</italic> and <italic>Mononchoides macrospiculum</italic>, were always found in association with adult insects and cocoons taken from all sampling sites. This paper reports on the biodiversity of the nematodes associated with <italic>R.&#x000a0;ferrugineus</italic> and on current knowledge of the specific habitat of specialized and divergent entomophilic nematodes.</p></abstract><abstract abstract-type="graphical" id="ece35865-abs-0002"><p>The manuscript concerns the molecular identification of nematodes associated with <italic>Rhynchophorus ferrugineus</italic> by using the reverse taxonomy approach. The aim of this study was to characterize the nematofauna at level of ecological, evolutionary, and population genomics. For the first time, it has been shown that two nematode species are specifically associated with the RPW, the other species were incidentally associated to the RPW which constitute mobile microhabitat used by nematodes to feed, to move and to be transported.<boxed-text position="anchor" content-type="graphic" id="ece35865-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14286-g004.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35865-kwd-0001">molecular biodiversity</kwd><kwd id="ece35865-kwd-0002">nematode fauna</kwd><kwd id="ece35865-kwd-0003">red palm weevil</kwd><kwd id="ece35865-kwd-0004">reverse taxonomy</kwd></kwd-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="9"/><word-count count="6394"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35865-cit-1001">
+<string-name>
+<surname>De Luca</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Fanelli</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Oreste</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Molecular profiling of nematode associates with <italic>Rhynchophorus ferrugineus</italic> in southern Italy</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14286</fpage>&#x02013;<lpage>14294</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5865</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35865-body-0001"><sec id="ece35865-sec-0001"><label>1</label><title>INTRODUCTION</title><p>The red palm weevil (RPW) <italic>Rhynchophorus ferrugineus</italic> (Olivier) (Coleoptera: Curculionidae) is considered the most damaging pest of several palm species of the family Arecaceae worldwide, especially in the Mediterranean area (EPPO, <xref rid="ece35865-bib-0007" ref-type="ref">2008a</xref>; Giblin&#x02010;Davis, Kanzaki, &#x00026; Davies, <xref rid="ece35865-bib-0015" ref-type="ref">2013</xref>; Mazza et al., <xref rid="ece35865-bib-0035" ref-type="ref">2014</xref>) and is reported to infest 19 palm species. RPW originated in tropical Asia, then spread to Africa, and has recently been introduced into Europe, where it has destroyed many <italic>Phoenix canariensis</italic> Chabaud palms (Ferry &#x00026; G&#x000f3;mez, <xref rid="ece35865-bib-0012" ref-type="ref">2002</xref>). RPW can occasionally attack the native dwarf fan palm, <italic>Chamaerops humilis</italic> (L.), and also <italic>Washingtonia filifera</italic> (Lind.), although these have also been reported as resistant to <italic>R.&#x000a0;ferrugineus</italic> (Barranco, Pena, Mart&#x000ed;n, &#x00026; Cabello, <xref rid="ece35865-bib-0002" ref-type="ref">2000</xref>; Dembilio, Jacas, &#x00026; Ll&#x000e1;cer, <xref rid="ece35865-bib-0006" ref-type="ref">2009</xref>).</p><p>In Italy, RPW was reported for the first time in 2004 in Tuscany, and then spread southwards, reaching Apulia region in 2005. It was also recorded in 2005 in Sicily, where it mainly infests <italic>P.&#x000a0;canariensis</italic>, but has occasionally been found also on <italic>Washingtonia</italic> spp., <italic>C.&#x000a0;humilis,</italic> and other ornamental plants (Giovino et al., <xref rid="ece35865-bib-0016" ref-type="ref">2012</xref>). In Italy, <italic>C.&#x000a0;humilis</italic> is largely cultivated along the coasts of the Tyrrhenian Sea, Sicily, and Sardinia, where most damage is caused by the South American palm borer <italic>Paysandisia archon</italic> (Burmeister) (Lepidoptera: Castniidae), which seems to reduce the plants' resistance to <italic>R.&#x000a0;ferrugineus</italic> (EPPO, <xref rid="ece35865-bib-0008" ref-type="ref">2008b</xref>; Giovino et al., <xref rid="ece35865-bib-0016" ref-type="ref">2012</xref>).</p><p>Associations between <italic>Rhynchophorus</italic> species and nematodes are well documented for <italic>R.&#x000a0;palmarum</italic> (L.) and <italic>R.&#x000a0;cruentatus</italic> (F.), but very little is known about <italic>R.&#x000a0;ferrugineus</italic> with regard to its fitness, evolution, coadaptation, speciation, defense, chemical communication, or pest management (Camerota et al., <xref rid="ece35865-bib-0003" ref-type="ref">2016</xref>; Esparza&#x02010;Diaz, Olguin, Carta, Skantar, &#x00026; Villanueva, <xref rid="ece35865-bib-0009" ref-type="ref">2013</xref>; Giblin&#x02010;Davis et al., <xref rid="ece35865-bib-0015" ref-type="ref">2013</xref>; Kanzaki &#x00026; Giblin&#x02010;Davis, <xref rid="ece35865-bib-0023" ref-type="ref">2018</xref>). Nematodes are microscopic worms that are adapted to living in a variety of environments, and many can be associated with other organisms that provide them with shelter or transportation, for example, entomophilic, saprobiotic, phoretic, commensal, and parasitic nematodes (Kanzaki, <xref rid="ece35865-bib-0020" ref-type="ref">2017</xref>). The number of entomophilic nematodes associated with weevils is hard to determine because nematode identification at the species level is difficult. However, it is known that every insect species can be associated with 1&#x02013;5 host&#x02010;specific nematode species (Giblin&#x02010;Davis et al., <xref rid="ece35865-bib-0015" ref-type="ref">2013</xref>; Kanzaki, Giblin&#x02010;Davis, Gonzalez, &#x00026; Manzoor, <xref rid="ece35865-bib-0024" ref-type="ref">2017</xref>). Two nematode species, <italic>Teratorhabditis palmarum</italic> Gerber &#x00026; Giblin&#x02010;Davis, 1990 and <italic>Acrostichus palmarum</italic> Kanzaki &#x00026; Giblin&#x02010;Davis, <xref rid="ece35865-bib-0023" ref-type="ref">2018</xref> are naturally found associated with and distributed in <italic>R.&#x000a0;palmarum</italic>, while the other nematode species observed, <italic>Bursaphelenchus cocophilus</italic> (Cobb) Baujard, <italic>B.&#x000a0;gerberae</italic>, <italic>Caenorhabditis angariae,</italic> and <italic>Mononchoides</italic> sp., are occasionally carried by <italic>R.&#x000a0;palmarum</italic> (Kanzaki et al., <xref rid="ece35865-bib-0021" ref-type="ref">2008</xref>; Kanzaki &#x00026; Giblin&#x02010;Davis, <xref rid="ece35865-bib-0023" ref-type="ref">2018</xref>; Kanzaki, Giblin&#x02010;Davis, Zeng, Ye, &#x00026; Center, <xref rid="ece35865-bib-0026" ref-type="ref">2009</xref>; Sudhaus, Kiontke, &#x00026; Giblin&#x02010;Davis, <xref rid="ece35865-bib-0040" ref-type="ref">2011</xref>). <italic>Teratorhabditis palmarum</italic>, <italic>Acrostichus rhynchophori</italic> Kanzaki et al., <xref rid="ece35865-bib-0026" ref-type="ref">2009</xref>, and <italic>Mononchoides</italic> sp. Gerber &#x00026; Giblin&#x02010;Davis, 1990 were also found sympatrically associated with <italic>R.&#x000a0;cruentatus</italic>, together with other nematode species. In <italic>R.&#x000a0;ferrugineus</italic>, the only reported nematode associates were <italic>Teratorhabditis synpapillata</italic> and <italic>Praecocilenchus ferruginophorus</italic> (Rao &#x00026; Reddy, 1980; Kanzaki et al., <xref rid="ece35865-bib-0021" ref-type="ref">2008</xref>). However, a close association of <italic>Mononchoides macrospiculum</italic> and <italic>T.&#x000a0;synpapillata</italic> was recently found in <italic>R.&#x000a0;ferrugineus</italic> from Apulia (Southern Italy) (Troccoli, Oreste, Tarasco, Fanelli, &#x00026; Luca, <xref rid="ece35865-bib-0043" ref-type="ref">2015</xref>). To date, few studies have been conducted on nematodes associated with <italic>R.&#x000a0;ferrugineus</italic> to evaluate the possibility that all <italic>Rhynchophorus</italic> species can act as vectors of pathogenic nematodes, introducing them to new areas and new host plants.</p><p>Recent studies demonstrate that sequencing and phylogenetic analysis is a useful approach when dealing with small and/or scant specimens and taxon diversity cannot be determined with traditional approaches (Hazir, Kanzaki, Gulcu, Hazir, &#x00026; Giblin&#x02010;Davis, <xref rid="ece35865-bib-0018" ref-type="ref">2015</xref>; Kanzaki et al., <xref rid="ece35865-bib-0025" ref-type="ref">2012</xref>; Markmann &#x00026; Tautz, <xref rid="ece35865-bib-0034" ref-type="ref">2005</xref>). Our study used sequencing and phylogenetic approaches to investigate the biodiversity of nematodes associated with <italic>R.&#x000a0;ferrugineus</italic> samples collected in southern Italy. The main goals of the present study were as follows: (a) to collect RPW adults, pupae, and cocoons from different sampling sites in southern Italy; (b) to use sequencing and phylogenetic profiles to identify all nematodes associated with RPW; (c) to compare nematode associates among different geographical sites and palm hosts; and (d) to understand the evolution and phylogeny of nematode species and of their host.</p></sec><sec sec-type="materials-and-methods" id="ece35865-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35865-sec-0003"><label>2.1</label><title>Insect collection and nematode isolation</title><p>In 2015 and 2016, RPW samples were collected from <italic>P.&#x000a0;canariensis</italic> Chabaud, <italic>P.&#x000a0;dactylifera</italic> L., and <italic>C.&#x000a0;humilis</italic> L. palms in southern Italy presenting symptoms of RPW damage (Figure <xref rid="ece35865-fig-0001" ref-type="fig">1</xref>) 11 sites in Apulia, 1 in Sardinia, and 1 in Basilicata (Table <xref rid="ece35865-tbl-0001" ref-type="table">1</xref>). The sample unit was defined as the weevils obtained from each infested tree. Cocoons<italic>,</italic> pupae, and adults were collected by debarking, placed individually in plastic bags and stored in a refrigerator at 8&#x000b0;C. Each RPW sample was dissected under a stereomicroscope (Figure <xref rid="ece35865-fig-0001" ref-type="fig">1</xref>f), and the external surface (including elytra), hemocoel, and reproductive system were examined separately to check for the presence of nematodes (Table <xref rid="ece35865-tbl-0001" ref-type="table">1</xref>; Figure <xref rid="ece35865-fig-0001" ref-type="fig">1</xref>). The isolated specimens were observed under a stereomicroscope to determine their feeding habits.</p><fig fig-type="Figure" xml:lang="en" id="ece35865-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>
+<italic>Chamaerops humilis</italic> palm infected by <italic>Rhynchophorus ferrugineus</italic> (a); symptoms of infected <italic>C.&#x000a0;humilis</italic> trunk (b); cocoons of <italic>R.&#x000a0;ferrugineus</italic> and <italic>Paysandisia archon</italic> indicated by arrow (c); basal leaf portion of <italic>Phoenix dactilifera</italic> containing cocoons (d); cocoon with <italic>R.&#x000a0;ferrugineus</italic> (e); adult insect during dissection (f); cocoon material incubated in water for nematode collection (g)</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14286-g001"/></fig><table-wrap id="ece35865-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Locality and BLAST results using ITS and D2&#x02010;D3 expansion domains of nematodes associated with <italic>Rhynchophorus ferrugineus</italic>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Region</th><th align="left" rowspan="2" valign="bottom" colspan="1">Site</th><th align="left" rowspan="2" valign="bottom" colspan="1">&#x000a0;</th><th align="left" rowspan="2" valign="bottom" colspan="1">GPS coordinates</th><th align="left" rowspan="2" valign="bottom" colspan="1">Host plant</th><th align="left" rowspan="2" valign="bottom" colspan="1">No. sites</th><th align="left" rowspan="2" valign="bottom" colspan="1">No. insects</th><th align="left" rowspan="2" valign="bottom" colspan="1">Nematode associates</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">GenBank Accession number</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Identity %</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">ITS</th><th align="left" valign="bottom" rowspan="1" colspan="1">D2&#x02010;D3</th><th align="left" valign="bottom" rowspan="1" colspan="1">ITS</th><th align="left" valign="bottom" rowspan="1" colspan="1">D2&#x02010;D3</th></tr></thead><tbody><tr><td align="left" rowspan="24" colspan="1">Apulia</td><td align="left" rowspan="2" colspan="1">Bari&#x02010;Campus</td><td align="left" rowspan="2" colspan="1">(BA)</td><td align="left" rowspan="1" colspan="1">N 41.109089&#x000b0;</td><td align="left" rowspan="2" colspan="1">
+<italic>Phoenix canariensis</italic>
+</td><td align="left" rowspan="2" colspan="1">1</td><td align="left" rowspan="2" colspan="1">5</td><td align="left" rowspan="1" colspan="1">
+<italic>Mononchoides macrospiculum</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN827623
+</td><td align="left" rowspan="1" colspan="1">
+LN827616
+</td><td align="left" rowspan="1" colspan="1">99</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">E 16.879650&#x000b0;</td><td align="left" rowspan="1" colspan="1">
+<italic>Teratorhabditis synpapillata</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN827626
+</td><td align="left" rowspan="1" colspan="1">
+AB269817
+</td><td align="left" rowspan="1" colspan="1">100</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="6" colspan="1">Monopoli</td><td align="left" rowspan="6" colspan="1">(BA)</td><td align="left" rowspan="1" colspan="1">N 40.96021&#x000b0;</td><td align="left" rowspan="6" colspan="1">
+<italic>Phoenix canariensis</italic>
+</td><td align="left" rowspan="6" colspan="1">4</td><td align="left" rowspan="6" colspan="1">13</td><td align="left" rowspan="1" colspan="1">
+<italic>Mononchoides macrospiculum</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN827623
+</td><td align="left" rowspan="1" colspan="1">
+LN827616
+</td><td align="left" rowspan="1" colspan="1">99</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">E 017.28381&#x000b0;</td><td align="left" rowspan="1" colspan="1">
+<italic>Teratorhabditis synpapillata</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN82762
+</td><td align="left" rowspan="1" colspan="1">
+AB26981
+</td><td align="left" rowspan="1" colspan="1">100</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">N 40.954044&#x000b0;</td><td align="left" rowspan="1" colspan="1">
+<italic>Oigolaimella attenuata</italic>
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">
+KJ877276
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">99.72</td></tr><tr><td align="left" rowspan="1" colspan="1">E 017.30872&#x000b0;</td><td align="left" rowspan="3" colspan="1">
+<italic>Poikilolaimus</italic> sp.</td><td align="left" rowspan="3" colspan="1">No corresponding sequences</td><td align="left" rowspan="3" colspan="1">No corresponding sequences</td><td align="left" rowspan="3" colspan="1">&#x000a0;</td><td align="left" rowspan="3" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">N 40.93986&#x000b0;</td></tr><tr><td align="left" rowspan="1" colspan="1">E 017.31256&#x000b0;</td></tr><tr><td align="left" rowspan="3" colspan="1">Conversano</td><td align="left" rowspan="3" colspan="1">(BA)</td><td align="left" rowspan="1" colspan="1">N 40.95015&#x000b0;</td><td align="left" rowspan="3" colspan="1">
+<italic>Phoenix canariensis</italic>
+</td><td align="left" rowspan="3" colspan="1">1</td><td align="left" rowspan="3" colspan="1">6</td><td align="left" rowspan="1" colspan="1">
+<italic>Mononchoides macrospiculum</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN827623
+</td><td align="left" rowspan="1" colspan="1">
+LN827616
+</td><td align="left" rowspan="1" colspan="1">99</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">E 017.12207&#x000b0;</td><td align="left" rowspan="1" colspan="1">
+<italic>Teratorhabditis synpapillata</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN82762
+</td><td align="left" rowspan="1" colspan="1">
+AB26981
+</td><td align="left" rowspan="1" colspan="1">100</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">Rhabditidae</td><td align="left" rowspan="1" colspan="1">No corresponding sequences</td><td align="left" rowspan="1" colspan="1">No corresponding sequences</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="2" colspan="1">Toritto</td><td align="left" rowspan="2" colspan="1">(BA)</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="2" colspan="1">
+<italic>Phoenix dactiliphera</italic>
+</td><td align="left" rowspan="2" colspan="1">1</td><td align="left" rowspan="2" colspan="1">8</td><td align="left" rowspan="1" colspan="1">
+<italic>Mononchoides macrospiculum</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN827623
+</td><td align="left" rowspan="1" colspan="1">
+LN827616
+</td><td align="left" rowspan="1" colspan="1">99</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">
+<italic>Teratorhabditis synpapillata</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN82762
+</td><td align="left" rowspan="1" colspan="1">
+AB26981
+</td><td align="left" rowspan="1" colspan="1">100</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="2" colspan="1">Ostuni</td><td align="left" rowspan="2" colspan="1">(BR)</td><td align="left" rowspan="1" colspan="1">N 40.78768&#x000b0;</td><td align="left" rowspan="2" colspan="1">
+<italic>Phoenix canariensis</italic>
+</td><td align="left" rowspan="2" colspan="1">1</td><td align="left" rowspan="2" colspan="1">4</td><td align="left" rowspan="1" colspan="1">
+<italic>Mononchoides macrospiculum</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN827623
+</td><td align="left" rowspan="1" colspan="1">
+LN827616
+</td><td align="left" rowspan="1" colspan="1">99</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">E 017.58508&#x000b0;</td><td align="left" rowspan="1" colspan="1">
+<italic>Teratorhabditis synpapillata</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN82762
+</td><td align="left" rowspan="1" colspan="1">
+AB26981
+</td><td align="left" rowspan="1" colspan="1">100</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="4" colspan="1">San Vito</td><td align="left" rowspan="4" colspan="1">(BR)</td><td align="left" rowspan="1" colspan="1">N 40.72231&#x000b0;</td><td align="left" rowspan="4" colspan="1">
+<italic>Phoenix canariensis</italic>
+</td><td align="left" rowspan="4" colspan="1">1</td><td align="left" rowspan="4" colspan="1">13</td><td align="left" rowspan="1" colspan="1">
+<italic>Mononchoides macrospiculum</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN827623
+</td><td align="left" rowspan="1" colspan="1">
+LN827616
+</td><td align="left" rowspan="1" colspan="1">99</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">E 017.74842&#x000b0;</td><td align="left" rowspan="1" colspan="1">
+<italic>Teratorhabditis sy</italic>
+<italic>npapillata</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN82762
+</td><td align="left" rowspan="1" colspan="1">
+AB26981
+</td><td align="left" rowspan="1" colspan="1">100</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">
+<italic>Acrobeloides nanus</italic>
+</td><td align="left" rowspan="1" colspan="1">
+KY828308
+</td><td align="left" rowspan="1" colspan="1">
+KX669640
+</td><td align="left" rowspan="1" colspan="1">98&#x02013;99</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">
+<italic>Oscheius tipulae</italic>
+</td><td align="left" rowspan="1" colspan="1">
+KJ938579
+</td><td align="left" rowspan="1" colspan="1">
+MK294532
+</td><td align="left" rowspan="1" colspan="1">99.6</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="2" colspan="1">Specchiolla</td><td align="left" rowspan="2" colspan="1">(BR)</td><td align="left" rowspan="1" colspan="1">N 40.735509&#x000b0;</td><td align="left" rowspan="2" colspan="1">
+<italic>Chamerops humilis</italic>
+</td><td align="left" rowspan="2" colspan="1">1</td><td align="left" rowspan="2" colspan="1">3</td><td align="left" rowspan="2" colspan="1">
+<italic>Mononchoides macrospiculum</italic>
+</td><td align="left" rowspan="2" colspan="1">
+LN827623
+</td><td align="left" rowspan="2" colspan="1">
+LN827616
+</td><td align="left" rowspan="2" colspan="1">99</td><td align="left" rowspan="2" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">E 17.738917&#x000b0;</td></tr><tr><td align="left" rowspan="3" colspan="1">Palagiano</td><td align="left" rowspan="3" colspan="1">(TA)</td><td align="left" rowspan="1" colspan="1">N 40.51116&#x000b0;</td><td align="left" rowspan="3" colspan="1">
+<italic>Phoenix canariensis</italic>
+</td><td align="left" rowspan="3" colspan="1">1</td><td align="left" rowspan="3" colspan="1">6</td><td align="left" rowspan="1" colspan="1">
+<italic>Mononchoides macrospiculum</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN827623
+</td><td align="left" rowspan="1" colspan="1">
+LN827616
+</td><td align="left" rowspan="1" colspan="1">99</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">E 016.99177&#x000b0;</td><td align="left" rowspan="1" colspan="1">
+<italic>Teratorhabditis synpapillata</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN82762
+</td><td align="left" rowspan="1" colspan="1">
+AB26981
+</td><td align="left" rowspan="1" colspan="1">100</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">
+<italic>Acrostichus</italic> sp.</td><td align="left" rowspan="1" colspan="1">
+LC374584
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">100</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">Basilicata</td><td align="left" rowspan="1" colspan="1">Matera</td><td align="left" rowspan="1" colspan="1">(MT)</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">
+<italic>Phoenix canariensis</italic>
+</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">
+<italic>Teratorhabditis synpapillata</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN82762
+</td><td align="left" rowspan="1" colspan="1">
+AB26981
+</td><td align="left" rowspan="1" colspan="1">100</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="2" colspan="1">Sardinia</td><td align="left" rowspan="2" colspan="1">Olmedo</td><td align="left" rowspan="2" colspan="1">(SS)</td><td align="left" rowspan="2" colspan="1">&#x02013;</td><td align="left" rowspan="2" colspan="1">
+<italic>Phoenix canariensis</italic>
+</td><td align="left" rowspan="2" colspan="1">1</td><td align="left" rowspan="2" colspan="1">9</td><td align="left" rowspan="1" colspan="1">
+<italic>Teratorhabditis synpapillata</italic>
+</td><td align="left" rowspan="1" colspan="1">
+LN82762
+</td><td align="left" rowspan="1" colspan="1">
+AB26981
+</td><td align="left" rowspan="1" colspan="1">100</td><td align="left" rowspan="1" colspan="1">100</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Panagrellus</italic> sp.</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">
+LT908055
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">99.6</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece35865-sec-0004"><label>2.2</label><title>DNA extraction, PCR amplification, and sequencing</title><p>Total DNA was extracted from individual nematodes obtained from dissected weevils and directly amplified as described by De Luca, Fanelli, Vito, Reyes, and Giorgi (<xref rid="ece35865-bib-0005" ref-type="ref">2004</xref>). The portion of the mitochondrial cytochrome oxidase c subunit 1 (<italic>mt</italic>COI) gene was amplified with the primer set: COI&#x02010;F1 (5&#x02032;&#x02010;CCTACTATGATTGGTGGTTTTGGTAATTG&#x02010;3&#x02032;) and COI&#x02010;R2 (5&#x02032;&#x02010;GTAGCAGCAGTAAAATAAGCACG&#x02010;3&#x02032;) (Kanzaki &#x00026; Futai, <xref rid="ece35865-bib-0022" ref-type="ref">2002</xref>); the ITS1&#x02010;5.8S&#x02010;ITS2 regions were amplified using forward primer TW81 (5&#x02032;&#x02010;GTTTCCGTAGGTGAACCTGC&#x02010;3&#x02032;) and reverse primer AB28 (5&#x02032;&#x02010;ATATGCTTAAGTTCAGCGGGT&#x02010;3&#x02032;) (Joyce, Reid, Driver, &#x00026; Curran, <xref rid="ece35865-bib-0019" ref-type="ref">1994</xref>); the D2A&#x02010;D3B expansion segments of 28S rRNA gene using the primers D2A (5&#x02032;&#x02010;ACAAGTACCGTGGGGAAAGTTG&#x02010;3&#x02032;) and the D3B (5&#x02010;TCGGAAGGAACCAGCTACTA&#x02010;3&#x02032;) (Nunn, <xref rid="ece35865-bib-0037" ref-type="ref">1992</xref>).</p><p>D2&#x02010;D3 and ITS&#x02010;RFLP analyses were performed on PCR products from individual nematodes and digested using five units of the following restriction enzymes: <italic>Alu</italic> I, <italic>Ava</italic> II, <italic>Hinf</italic> I, and <italic>Rsa</italic> I (Roche Diagnostics, Manheim, Germany). The restricted fragments were then separated on a 2.5% agarose gel by electrophoresis. The gels were stained with gel red, visualized on a UV transilluminator, and photographed using a digital system.</p><p>The D2&#x02010;D3 amplified products were purified using the protocol suggested by the manufacturer (High Pure PCR elution kit) and directly sequenced. Purified ITS and COI fragments were cloned and sent to MWG&#x02010;Eurofins in Germany for sequencing in both directions. Several specimens were not sequenced successfully.</p></sec><sec id="ece35865-sec-0005"><label>2.3</label><title>Phylogenetic analysis</title><p>BLAST search at NCBI used all the new sequences obtained, which were submitted to the database and compared with the corresponding sequences to identify the closest matching nematode taxonomic and/or phylogenetic groups. Multi&#x02010;alignment was performed using the MAFFT program (Katoh &#x00026; Standley, <xref rid="ece35865-bib-0029" ref-type="ref">2013</xref>). Phylogenetic trees were reconstructed with the maximum likelihood (ML) method using MEGA version 7 software (Tamura, Stecher, Peterson, Filipski, &#x00026; Kumar, <xref rid="ece35865-bib-0041" ref-type="ref">2013</xref>). ML analysis under a general time&#x02010;reversible and gamma&#x02010;shaped distribution (GTR+G) model was used for D2&#x02010;D3 domains and ITS datasets. The phylograms were bootstrapped 1,000 times to assess the degree of support for the phylogenetic branching indicated by the optimal tree for each method. The trees enabled placement of all sequences not clearly assigned by Blast. The newly obtained sequences were submitted to GenBank with the following accession numbers: LR594488&#x02013;LR594503 for the D2&#x02010;D3 expansion domain of the 28S rRNA gene; LR594504&#x02013;LR594512 for the ITS containing region; LR594680&#x02013;LR594687 for the mitochondrial COI.</p></sec></sec><sec sec-type="results" id="ece35865-sec-0006"><label>3</label><title>RESULTS</title><p>Table <xref rid="ece35865-tbl-0001" ref-type="table">1</xref> reports the sampling sites of palm trees with symptoms of RPW damages (Figure <xref rid="ece35865-fig-0001" ref-type="fig">1</xref>a). Nematode occurrence differed significantly among RPW specimens and across sites. All investigated cocoons, adult males and females, larvae, and pupae of <italic>R.&#x000a0;ferrugineus</italic> harbored several nematode associates, most of which were dauer juveniles showing morphological similarities, which thus made species identification difficult even for specialists. However, 184 individual nematodes out of 330 were successfully amplified, and 33 high&#x02010;quality sequences were obtained (15 for the D2&#x02010;D3 expansion domains, 9 for ITS, and 8 for mitochondrial COI). PCR&#x02010;RFLP analyses were performed on ITS and D2&#x02010;D3 expansion domains to determine those specific for <italic>M.&#x000a0;macrospiculum</italic> and <italic>T.&#x000a0;synpapillata</italic>, avoiding sequencing of those products (data not shown). Sequences showing &#x02265;97% similarity with those present in the database identified nematode species, while those sequences with identity thresholds &#x0003c;97% identified nematode sequences at the family or order level with the closest matching sequences (Floyd, Abebe, Papert, &#x00026; Blaxter, <xref rid="ece35865-bib-0013" ref-type="ref">2002</xref>; Lawley, Ripley, Bridge, &#x00026; Convey, <xref rid="ece35865-bib-0032" ref-type="ref">2004</xref>).</p><p>In the RPW samples from Apulia, nematodes were found under the elytra and in the hemocoel of adults, and pupae and inside the cocoons and dead palm tissues of <italic>P.&#x000a0;canariensis</italic>, <italic>P.&#x000a0;dactylifera</italic> and <italic>C.&#x000a0;humilis</italic> (Figure <xref rid="ece35865-fig-0001" ref-type="fig">1</xref>). Two nematode species phoretically associated in the hemocoel and external surface of all RPW samples from <italic>P.&#x000a0;canariensis</italic> and <italic>P.&#x000a0;dactylifera</italic> were molecularly identified as <italic>T.&#x000a0;synpapillata</italic> and <italic>M.&#x000a0;macrospiculum</italic> by their 100% sequence identity with those in the database (Kanzaki et al., <xref rid="ece35865-bib-0021" ref-type="ref">2008</xref>; Troccoli et al., <xref rid="ece35865-bib-0043" ref-type="ref">2015</xref>), while only <italic>M.&#x000a0;macrospiculum</italic> was detected in <italic>C.&#x000a0;humilis</italic>. Apart from the two phoretic nematode species found in this study, other nematode species were also occasionally associated with <italic>R.&#x000a0;ferrugineus</italic>. Of these, <italic>Oscheius tipulae</italic> (Lam &#x00026; Webster, <xref rid="ece35865-bib-0031" ref-type="ref">1971</xref>), Sudhaus, <xref rid="ece35865-bib-0039" ref-type="ref">1993</xref>. <italic>Acrobeloides nanus</italic> (de Man, 1880), Anderson, <xref rid="ece35865-bib-0001" ref-type="ref">1968</xref> and <italic>Oigolaimella attenuata</italic> (F&#x000fc;rst von Lieven &#x00026; Sudhaus, <xref rid="ece35865-bib-0014" ref-type="ref">2008</xref>) had an identity threshold &#x02265;97%, while <italic>Panagrellus</italic> sp., A<italic>crostichus</italic> sp., and Rhabditidae had an identity threshold &#x0003c;97%. The mitochondrial COI sequences had no corresponding sequences in the database and were thus identified at the family level as Rhabditidae.</p><p>One nematode <italic>Acrostichus</italic> sp. and several Rhabditidae were isolated from cocoons and pupae of <italic>R.&#x000a0;ferrugineus</italic> collected at Palagiano (Taranto Province) (Table <xref rid="ece35865-tbl-0001" ref-type="table">1</xref>). <italic>Acrostichus</italic> nematodes showed a mean internal infestation of around fifteen specimens. Amplification of the ITS and mitochondrial COI of individual nematodes produced single fragments for both markers. Two ITS sequences were obtained, the 778&#x000a0;bp ITS showed a 97% similarity with the corresponding sequences of <italic>A.&#x000a0;rhynchophori</italic> RGD193 (LC374583; 24 nucleotides different, five gaps) and <italic>A.&#x000a0;palmarum</italic> RGD194&#x02013;196 (LC374584, LC374585, LC374586; 19&#x02013;20 nucleotides different, 0 gap) in the database and was thus identified as <italic>Acrostichus</italic> sp., while the 960&#x000a0;bp ITS was 100% identical to <italic>M.&#x000a0;macrospiculum</italic>. Amplification of the <italic>mt</italic>DNA COI produced a fragment of approximately 700&#x000a0;bp that was cloned. Sequencing of two <italic>mt</italic>COI clones revealed that one clone had a 89% nucleotide similarity and 92% amino acid identity with <italic>Diplogasteroides nix</italic>; the second <italic>mt</italic>COI clone had a 97%&#x02013;98% nucleotide similarity with several Rhabditidae in the database.</p><p>In Bari Province, all live or dead <italic>R.&#x000a0;ferrugineus</italic> adults, cocoons, and pupae contained several Diplogastridae and Rhabditidae. Sequence analyses of the D2&#x02010;D3 expansion domains confirmed the presence of <italic>M.&#x000a0;macrospiculum</italic> and <italic>T.&#x000a0;synpapillata</italic> in all samples. One D2&#x02010;D3 sequence showed a 99% similarity (724/726 identities) with <italic>O.&#x000a0;attenuata</italic> (KJ877276) in the database. The analysis of two <italic>mt</italic>COI sequences from two individual specimens that were recovered from the same insect containing <italic>O.&#x000a0;attenuata</italic> revealed a 98% amino acid similarity with <italic>Oigolaimella</italic> spp., <italic>Acrostichus</italic> spp. and <italic>Oscheius</italic> spp. (123/125 identities, 124/125 positives) (data not shown). Sequence analysis of the ITS clones of another individual specimen recovered from the same insect containing <italic>O.&#x000a0;attenuata</italic> found no corresponding sequences in the database, and these were assigned to the Rhabditidae. Dissection of insects and pupae collected from <italic>Phoenix dactilifera</italic> in Toritto (Bari Province) revealed just the co&#x02010;occurrence of <italic>T.&#x000a0;synpapillata</italic> and <italic>M.&#x000a0;macrospiculum</italic>, which were confirmed by sequencing and restriction profiles (not shown). Two of the three sampling sites in Brindisi Province contained <italic>P.&#x000a0;canariensis</italic> and one contained <italic>C.&#x000a0;humilis</italic>. Dissection of RPW cocoons, pupae, and dead adults collected from <italic>P.&#x000a0;canariensis</italic> enabled the recovery of several unknown Rhabditidae, while RPW samples from <italic>C.&#x000a0;humilis</italic> contained only <italic>M.&#x000a0;macrospiculum</italic>. Furthermore, analysis of <italic>C.&#x000a0;humilis</italic> samples revealed the presence of <italic>P.&#x000a0;archon</italic> cocoons (Figure <xref rid="ece35865-fig-0001" ref-type="fig">1</xref>c). Analyses of the D2&#x02010;D3 nematode sequences from <italic>P.&#x000a0;canariensis</italic> revealed one sequence that was 99% identical (0&#x02013;2 nucleotides different) to the corresponding sequences of Italian <italic>O.&#x000a0;tipulae</italic> strains in the database, and a second with 100% similarity to <italic>A.&#x000a0;nanus</italic> and other <italic>Acrobeloides</italic> spp. Two different ITS sequences were also obtained in the same samples: one ITS sequence presented a 99%&#x02013;100% similarity (3&#x02013;11 nucleotides different) with the corresponding <italic>O.&#x000a0;tipulae</italic> sequences in GenBank, while the other ITS sequence showed a 96%&#x02013;98% similarity (753/782 and 766/784 identities, respectively, and 6&#x02013;7 gaps) with <italic>A.&#x000a0;nanus</italic> sequences present in GenBank. The <italic>mt</italic>COI sequence showed a 94% similarity with <italic>O.&#x000a0;tipulae</italic> and <italic>Oscheius</italic> spp. present in the database (116/124 and 116/123 identities, 120/124 and 119/123 positives, respectively).</p><p>Dead RPW adults collected in Matera Province harbored 2&#x02013;100 specimens belonging to <italic>T.&#x000a0;synpapillata</italic> inside the hemocoel and under elytra, as confirmed by RFLP analyses of D2&#x02010;D3 and ITS products and by ITS region sequencing.</p><p>Live and dead <italic>R.&#x000a0;ferrugineus</italic> samples from Sardinia harbored <italic>T.&#x000a0;synpapillata</italic>, inside the hemocoel and under elytra, and also several rhabditids. The sequence of the D2&#x02010;D3 expansion domains of the rhabditids showed a 100% similarity with <italic>Panagrellus</italic> sp. recovered from <italic>R.&#x000a0;ferrugineus</italic> in Tuscany, and from decaying pomegranate in association with the nematode <italic>Sheraphelenchus sucus</italic> in Apulia (Camerota et al., <xref rid="ece35865-bib-0003" ref-type="ref">2016</xref>; Fanelli et al., <xref rid="ece35865-bib-0010" ref-type="ref">2017</xref>).</p><sec id="ece35865-sec-0007"><label>3.1</label><title>Phylogenetic analyses</title><p>The newly obtained sequences of ITS and D2&#x02010;D3 expansion segments of 28S rDNA, were multi&#x02010;aligned with the closest sequences in GenBank and ML was used to reconstruct the phylogenetic trees (Figures <xref rid="ece35865-fig-0002" ref-type="fig">2</xref> and <xref rid="ece35865-fig-0003" ref-type="fig">3</xref>). The ITS tree confirmed the clustering of <italic>O.&#x000a0;tipulae</italic> (100% support) with the corresponding <italic>O.&#x000a0;tipulae</italic> database sequences from different geographical origins, in Italy, South America and Europe (Figure <xref rid="ece35865-fig-0002" ref-type="fig">2</xref>), and of <italic>A.&#x000a0;nanus</italic> (100% support) with the corresponding database sequences (Figure <xref rid="ece35865-fig-0003" ref-type="fig">3</xref>a), while the <italic>Acrostichus</italic> sp. sequences obtained in this study showed sister relationships with <italic>A.&#x000a0;palmarum</italic> and <italic>A.&#x000a0;rhynchophori</italic> sequences (Figure <xref rid="ece35865-fig-0003" ref-type="fig">3</xref>b). The phylogenetic tree of the D2&#x02010;D3 expansion segments of 28S rDNA (data not shown) grouped the new sequences with the corresponding sequences from the database. The <italic>mt</italic>COI phylogenetic tree revealed the presence of nematode species not yet present in the database, and so no phylogenetic tree is presented.</p><fig fig-type="Figure" xml:lang="en" id="ece35865-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Phylogenetic tree of ITS containing region describing the evolutionary relationships among different geographical populations of <italic>Oscheius tipulae</italic> using maximum likelihood (ML) method. Branch lengths are proportional to the distances as derived from the distance matrix obtained using the GTR method with the invariant site plus gamma options. Numbers at nodes indicate bootstrap values</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14286-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35865-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Phylogenetic tree of ITS containing region describing the evolutionary relationships of <italic>Acrobeloides cf. nanus</italic> (a) and <italic>Acrostichus</italic> sp. (b) associated with <italic>Rhynchophorus ferrugineus</italic> using maximum likelihood (ML) method. Branch lengths are proportional to the distances as derived from the distance matrix obtained using the GTR method with the invariant site plus gamma options. Numbers at nodes indicate bootstrap values</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14286-g003"/></fig></sec></sec><sec sec-type="discussion" id="ece35865-sec-0008"><label>4</label><title>DISCUSSION</title><p>The present study confirmed the co&#x02010;occurrence of two phoretic nematode species, <italic>T.&#x000a0;synpapillata</italic> and <italic>M.&#x000a0;macrospiculum</italic>, associated with RPW at all sampling sites (Troccoli et al., <xref rid="ece35865-bib-0043" ref-type="ref">2015</xref>) and provided information regarding other nematodes potentially associated with RPW in southern Italy. Individual insects can simultaneously harbor more than one nematode genus (Grucmanov&#x000e1;, Holu&#x00161;a, &#x0010c;erm&#x000e1;k, &#x00026; Nermut, <xref rid="ece35865-bib-0017" ref-type="ref">2015</xref>; Kanzaki et al., <xref rid="ece35865-bib-0027" ref-type="ref">2011</xref>; Shimizu et al., <xref rid="ece35865-bib-0038" ref-type="ref">2013</xref>); <italic>R.&#x000a0;palmarum</italic> and <italic>R.&#x000a0;cruentatus</italic> are reported to host several nematode associates, including <italic>Teratorhabditis</italic> and <italic>Mononchoides</italic> spp. (Esparza&#x02010;Diaz et al., <xref rid="ece35865-bib-0009" ref-type="ref">2013</xref>; Kanzaki et al., <xref rid="ece35865-bib-0021" ref-type="ref">2008</xref>, <xref rid="ece35865-bib-0024" ref-type="ref">2017</xref>, <xref rid="ece35865-bib-0026" ref-type="ref">2009</xref>; Mazza et al., <xref rid="ece35865-bib-0035" ref-type="ref">2014</xref>; Sudhaus et al., <xref rid="ece35865-bib-0040" ref-type="ref">2011</xref>). This finding confirmed the possibility of vertical transmission between <italic>Teratorhabditis</italic> and <italic>Mononchoides</italic> nematode genera and the insect genus <italic>Rhynchophorus</italic> (Kanzaki et al., <xref rid="ece35865-bib-0021" ref-type="ref">2008</xref>; Troccoli et al., <xref rid="ece35865-bib-0043" ref-type="ref">2015</xref>), suggesting that the ecological niche plays an important role in shaping the nematode community of <italic>Rhynchophorus</italic> spp. Furthermore, this result suggests an important role for both nematode genera in supporting RPW during palm tree attacks. Similarly, it has been demonstrated very recently that insect&#x02010;associated nematodes in the dung beetle <italic>Onthophagus taurus</italic> (Schreber) positively influence the development of its offspring, thus contributing to the wealth of insect species (Led&#x000f3;n&#x02010;Rettig, Moczek, &#x00026; Ragsdale, <xref rid="ece35865-bib-0033" ref-type="ref">2018</xref>). The co&#x02010;occurrence of RPW and <italic>P.&#x000a0;archon</italic> in <italic>C.&#x000a0;humilis</italic> confirmed that the palm's antixenotic mechanism can be by&#x02010;passed when it is attacked by <italic>P.&#x000a0;archon</italic> (EPPO, <xref rid="ece35865-bib-0008" ref-type="ref">2008b</xref>). When sequence data of other nematode species isolated from RPW were compared with those in GenBank and those isolated from other palm weevils, they were identified as <italic>O.&#x000a0;attenuata</italic>, <italic>A.&#x000a0;nanus</italic>, <italic>O.&#x000a0;tipulae</italic>, <italic>Acrostichus</italic> sp., and <italic>Panagrellus</italic> sp. together with several unknown Rhabditidae. Three nematode species <italic>O.&#x000a0;tipulae</italic>, <italic>O.&#x000a0;attenuata,</italic> and <italic>A.&#x000a0;nanus</italic> were recorded here for the first time in association with <italic>R.&#x000a0;ferrugineus</italic>, whereas <italic>Panagrellus</italic> sp. had already been reported in association with <italic>R.&#x000a0;ferrugineus</italic> in Tuscany, and <italic>Acrostichus</italic> sp. with other congeneric weevil species, that is, <italic>R.&#x000a0;palmarum and R.&#x000a0;cruentatus</italic> (F&#x000e9;lix, <xref rid="ece35865-bib-0011" ref-type="ref">2006</xref>;&#x000a0;Kanzaki &#x00026; Giblin&#x02010;Davis, <xref rid="ece35865-bib-0023" ref-type="ref">2018</xref>).</p><p>Two other nematode species, <italic>O.&#x000a0;tipulae</italic> and <italic>A.&#x000a0;nanus</italic>, were isolated sympatrically from the same cocoons containing dead pupae from a site in Brindisi Province, suggesting that these nematodes share the same habitat and do not compete for feeding sources. The natural association of <italic>O.&#x000a0;tipulae</italic> with <italic>Acrobeloides</italic> spp. on insect cadavers has already been reported (Campos&#x02010;Herrera et al., <xref rid="ece35865-bib-0004" ref-type="ref">2015</xref>). The phylogenetic trees using ITS and D2&#x02010;D3 sequences of the Apulian <italic>O.&#x000a0;tipulae</italic> strain grouped the Italian <italic>O.&#x000a0;tipulae</italic> sequences together with the corresponding sequences in the database (100% support) and showed sister relationships with <italic>Oscheius onirici</italic> (Figure <xref rid="ece35865-fig-0002" ref-type="fig">2</xref>). Furthermore, our study confirmed the hypothesis of Torrini et al. (<xref rid="ece35865-bib-0042" ref-type="ref">2016</xref>) that all Italian <italic>O.&#x000a0;tipulae</italic> strains could have been introduced from South America in association with plants or insects. Our results clearly prove that Italian <italic>O.&#x000a0;tipulae</italic> strains can be isolated from soil and rotting fruits or found in association with <italic>R.&#x000a0;ferrugineus</italic>. This nematode species was firstly reported to be associated with larvae of the tipulid dipteran <italic>Tipula paludosa</italic> Meigen (Lam &#x00026; Webster, <xref rid="ece35865-bib-0031" ref-type="ref">1971</xref>) and was recently recovered in Iran in association with bark samples containing bark beetle galleries (Valizadeh, Goldasteh, Rafiei&#x02010;Karahroodi, &#x00026; Pedram, <xref rid="ece35865-bib-0044" ref-type="ref">2017</xref>). More recently, Karimi, Rezaei, and Shokoohi (<xref rid="ece35865-bib-0028" ref-type="ref">2018</xref>) have also recovered <italic>O.&#x000a0;tipulae</italic> from soil in Iran using <italic>Galleria</italic> bait, thus suggesting <italic>O.&#x000a0;tipulae</italic> as a potential entomopathogenic nematode.</p><p>With regard to the <italic>A.&#x000a0;nanus</italic> population we found in Apulia, we recorded the first occurrence in <italic>R.&#x000a0;ferrugineus</italic> of this nematode, which has previously been reported only in earthworm cocoons (Kraglund &#x00026; Ekelund, <xref rid="ece35865-bib-0030" ref-type="ref">2002</xref>). Campos&#x02010;Herrera et al. (<xref rid="ece35865-bib-0004" ref-type="ref">2015</xref>) recently observed the co&#x02010;occurrence of free&#x02010;living nematodes of the <italic>Acrobeloides</italic> and <italic>Oscheius</italic> genera on insect cadavers used as a food source. Our results demonstrate the co&#x02010;occurrence of <italic>A.&#x000a0;nanus</italic> and <italic>O.&#x000a0;tipulae</italic> in an individual <italic>R.&#x000a0;ferrugineus</italic> cocoon, confirming that both nematode species can share the same carrier and the same habitat without evident interaction.</p><p>The <italic>Acrostichus</italic> sp. found in the RPW samples we collected in Apulia was phylogenetically close to <italic>A.&#x000a0;palmarum</italic> and <italic>A.&#x000a0;rhynchophori</italic> (100% support) (Figure <xref rid="ece35865-fig-0003" ref-type="fig">3</xref>b). Since the <italic>Acrostichus</italic> sp. was not broadly associated with Apulian RPWs, the nematode was found in only a few insects from just one sampling site (Palagiano&#x02010;Taranto Province), thus suggesting that this population is native to Apulia. Kanzaki and Giblin&#x02010;Davis (<xref rid="ece35865-bib-0023" ref-type="ref">2018</xref>) have recently demonstrated that <italic>A.&#x000a0;palmarum</italic> isolated from <italic>R.&#x000a0;palmarum</italic> and <italic>A.&#x000a0;rhynchophori</italic> isolated from <italic>R.&#x000a0;cruentatus</italic> are cryptic species, associated with different species of <italic>Rhynchophorus</italic> occupying different geographical areas. Thus, our finding supports the observation that host switching to related weevils causes parallel divergence or cospeciation of these nematodes. This is also corroborated by the results obtained for bee&#x02010;associated <italic>Acrostichus</italic> spp., suggesting vertical or sexual transmission to explain the evolution of host specificity and cophylogeny (McFrederick &#x00026; Taylor, <xref rid="ece35865-bib-0036" ref-type="ref">2012</xref>).</p><p>Dissection of cocoons from Monopoli (Bari Province) revealed <italic>T.&#x000a0;synpapillata</italic> and <italic>M.&#x000a0;macrospiculum</italic>, in addition to the co&#x02010;occurrence of two other nematode species, which were molecularly identified as <italic>O.&#x000a0;attenuata</italic> unknown Rhabditidae. The copresence of the omnivore <italic>O.&#x000a0;attenuata</italic> with bacterial feeders has already been reported in wood&#x02010;boring insects (F&#x000fc;rst von Lieven &#x00026; Sudhaus, <xref rid="ece35865-bib-0014" ref-type="ref">2008</xref>; Kanzaki, <xref rid="ece35865-bib-0020" ref-type="ref">2017</xref>).</p><p>Surprisingly, the bacterial feeder nematode <italic>Panagrellus</italic> sp. was recovered from the hemocoel of several <italic>R.&#x000a0;ferrugineus</italic> specimens from Olmedo (Sardinia). This is a second occurrence of <italic>Panagrellus</italic> sp. from <italic>R.&#x000a0;ferrugineus</italic> in Italy; but, it was also found to co&#x02010;occur in Italy with the mycetophagus nematode <italic>S.&#x000a0;sucus</italic> in rotting and decaying pomegranates, with a likely association with <italic>Drosophila</italic> fruit flies. These observations confirm that the Italian <italic>Panagrellus</italic> sp. has an entomophilic relationship with different insects and that host switching occurs when it occasionally occupies the same habitat as <italic>R.&#x000a0;ferrugineus</italic>.</p><p>The association patterns observed in our study suggest that the nematode species associated with a few Italian RPW may be incidentally associated, or else subject to host switching because nematodes and insects share similar environmental conditions. Furthermore, the low number of specimens recovered from each insect can be explained by competition for food sources, seasonal environmental changes, and competition with other microbes sharing the same palm habitat and insect host.</p><p>The presence of different nematodes associated with <italic>R.&#x000a0;ferrugineus</italic> confirms the low association rate between nematodes and RPW, suggesting that RPW is probably not the typical or primary host for these nematodes.</p><p>In conclusion, the molecular approach allows us to assign anonymous sequences to <italic>taxon</italic> groups representing different trophic levels, and to determine <italic>taxon</italic> diversity in the context of ecological analysis. The present study demonstrates that most nematode associates are morphologically similar Rhabditidae and are thus difficult to identify at the species level. Furthermore, this study reveals a specific association of <italic>T.&#x000a0;synpapillata</italic> and <italic>M.&#x000a0;macrospiculum</italic> with RPW in southern Italy. Other nematode associations with the native RPW can occur incidentally because these new nematode associates share the same habitat as RPW, which acts as an occasional carrier. Although the origins of these associations are in most cases not clear, it appears that an important role in the evolution of these interesting entomophilic nematodes is played by associations with soil or possibly with other moist habitats, followed by host&#x02010;carrier switching.</p></sec><sec sec-type="COI-statement" id="ece35865-sec-0009"><title>CONFLICT OF INTEREST</title><p>The authors declare no conflict of interest.</p></sec><sec id="ece35865-sec-0010"><title>AUTHOR CONTRIBUTIONS</title><p>F.D.L. designed the study, analyzed the data, and wrote the paper; E.F designed the study and performed the experiments; M.O., G.S., A.T., and E.T. conducted insect dissection and morphological identification; A.V. and N.T conducted palm surveys.</p></sec></body><back><ack id="ece35865-sec-0013"><title>ACKNOWLEDGMENTS</title><p>The authors wish to thank Mrs Sarah Jane Christopher for helpful assistance in English revision of the manuscript.</p></ack><sec sec-type="data-availability" id="ece35865-sec-0012"><title>DATA AVAILABILITY STATEMENT</title><p>RFLP profiles of ITS and D2&#x02010;D3 expansion segments of several populations of <italic>Teratorhabditis synpapillata</italic> and <italic>Mononchoides macrospiculum</italic> from southern Italy and the phylogenetic tree using D2&#x02010;D3 sequences are available at Dryad data repository: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.ffbg79cqg" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.ffbg79cqg</ext-link>
+</p></sec><ref-list content-type="cited-references" id="ece35865-bibl-0001"><title>REFERENCES</title><ref id="ece35865-bib-0001"><mixed-citation publication-type="journal" id="ece35865-cit-0001">
+<string-name>
+<surname>Anderson</surname>, <given-names>R. V.</given-names>
+</string-name> (<year>1968</year>). <article-title>Variation in taxonomic characters of a species of Acrobeloides (Cobb, 1924) Steiner and Buhrer, 1933</article-title>. <source xml:lang="en">Canadian Journal of Zoology</source>, <volume>46</volume>, <fpage>309</fpage>&#x02013;<lpage>320</lpage>. <pub-id pub-id-type="doi">10.1139/z68-048</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0002"><mixed-citation publication-type="journal" id="ece35865-cit-0002">
+<string-name>
+<surname>Barranco</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>de la Pena</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>M. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cabello</surname>, <given-names>T.</given-names>
+</string-name> (<year>2000</year>). <article-title>Host rank for <italic>Rhynchophorus ferrugineus</italic> (Olivier, 1790) (Coleoptera: Curculionidae) and host diameter</article-title>. <source xml:lang="en">Boletin De Sanidad Vegetal Plagas</source>, <volume>26</volume>, <fpage>73</fpage>&#x02013;<lpage>78</lpage>.</mixed-citation></ref><ref id="ece35865-bib-0003"><mixed-citation publication-type="journal" id="ece35865-cit-0003">
+<string-name>
+<surname>Camerota</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mazza</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Carta</surname>, <given-names>L. K.</given-names>
+</string-name>, <string-name>
+<surname>Paoli</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Torrini</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Benvenuti</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Roversi</surname>, <given-names>P. F.</given-names>
+</string-name> (<year>2016</year>). <article-title>Occurrence of <italic>Panagrellus</italic> (Rhabditida: Panagrolaimidae) nematodes in a morphologically aberrant adult specimen of <italic>Rhynchophorus ferrugineus</italic> (Coleoptera: Dryophthoridae)</article-title>. <source xml:lang="en">Journal of Nematology</source>, <volume>48</volume>, <fpage>1</fpage>&#x02013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.21307/jofnem-2017-001</pub-id>
+<pub-id pub-id-type="pmid">27168645</pub-id></mixed-citation></ref><ref id="ece35865-bib-0004"><mixed-citation publication-type="journal" id="ece35865-cit-0004">
+<string-name>
+<surname>Campos&#x02010;Herrera</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Puza</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Jaffuel</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Blanco&#x02010;Perez</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Cepulyte&#x02010;Rakauskiene</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Turlings</surname>, <given-names>T. C. J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Unraveling the intraguild competition between <italic>Oscheius</italic> spp. nematodes and entomopathogenic nematodes: Implications for their natural distribution in Swiss agricultural soils</article-title>. <source xml:lang="en">Journal of Invertebrate Pathology</source>, <volume>132</volume>, <fpage>216</fpage>&#x02013;<lpage>227</lpage>. <pub-id pub-id-type="doi">10.1016/j.jip.2015.10.007</pub-id>
+<pub-id pub-id-type="pmid">26519008</pub-id></mixed-citation></ref><ref id="ece35865-bib-0005"><mixed-citation publication-type="journal" id="ece35865-cit-0005">
+<string-name>
+<surname>De Luca</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Fanelli</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Di Vito</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Reyes</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>De Giorgi</surname>, <given-names>C.</given-names>
+</string-name> (<year>2004</year>). <article-title>Comparison of the sequences of the D3 expansion of the 26S ribosomal genes reveals different degrees of heterogeneity in different populations and species of <italic>Pratylenchus</italic> from the Mediterranean region</article-title>. <source xml:lang="en">European Journal of Plant Pathology</source>, <volume>111</volume>, <fpage>949</fpage>&#x02013;<lpage>957</lpage>. <pub-id pub-id-type="doi">10.1007/s10658-004-0813-4</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0006"><mixed-citation publication-type="journal" id="ece35865-cit-0006">
+<string-name>
+<surname>Dembilio</surname>, <given-names>&#x000d2;.</given-names>
+</string-name>, <string-name>
+<surname>Jacas</surname>, <given-names>J. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ll&#x000e1;cer</surname>, <given-names>E.</given-names>
+</string-name> (<year>2009</year>). <article-title>Are the palms <italic>Washingtonia filifera</italic> and <italic>Chamaerops humilis</italic> suitable hosts for the red palm weevil, <italic>Rhynchophorus ferrugineus</italic> (Col. Curculionidae)</article-title>. <source xml:lang="en">Journal Applied Entomology</source>, <volume>133</volume>, <fpage>565</fpage>&#x02013;<lpage>567</lpage>. <pub-id pub-id-type="doi">10.1111/j.1439-0418.2009.01385.x</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0007"><mixed-citation publication-type="journal" id="ece35865-cit-0007">
+<collab collab-type="authors">EPPO (European and Mediterranean Plant Protection)</collab>
+(<year>2008a</year>). <article-title>Data sheets on quarantine pests, <italic>Rhynchophorus ferrugineus</italic>
+</article-title>. <source xml:lang="en">EPPO Bullettin</source>, <volume>38</volume>, <fpage>55</fpage>&#x02013;<lpage>59</lpage>.</mixed-citation></ref><ref id="ece35865-bib-0008"><mixed-citation publication-type="journal" id="ece35865-cit-0008">
+<collab collab-type="authors">EPPO (European and Mediterranean Plant Protection)</collab>
+(<year>2008b</year>). <article-title>Data sheets on quarantine pests, <italic>Paysandisia archon</italic>
+</article-title>. <source xml:lang="en">EPPO Bullettin</source>, <volume>38</volume>, <fpage>163</fpage>&#x02013;<lpage>166</lpage>.</mixed-citation></ref><ref id="ece35865-bib-0009"><mixed-citation publication-type="journal" id="ece35865-cit-0009">
+<string-name>
+<surname>Esparza&#x02010;Diaz</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Olguin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Carta</surname>, <given-names>L. K.</given-names>
+</string-name>, <string-name>
+<surname>Skantar</surname>, <given-names>A. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Villanueva</surname>, <given-names>R. T.</given-names>
+</string-name> (<year>2013</year>). <article-title>Detection of <italic>Rhynchophorus palmarum</italic> (Coleoptera: Curculionidae) and identification of associated nematodes in South Texas</article-title>. <source xml:lang="en">Florida Entomologist</source>, <volume>93</volume>, <fpage>1512</fpage>&#x02013;<lpage>1521</lpage>.</mixed-citation></ref><ref id="ece35865-bib-0010"><mixed-citation publication-type="journal" id="ece35865-cit-0010">
+<string-name>
+<surname>Fanelli</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Troccoli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vovlas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Scarcia</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mincuzzi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sanzani</surname>, <given-names>S. M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>De Luca</surname>, <given-names>F.</given-names>
+</string-name> (<year>2017</year>). <article-title>Occurrence of <italic>Sheraphelenchus sucus</italic> (Nematoda: Aphelenchoidinae) and <italic>Panagrellus</italic> sp. (Rhabditida: Panagrolaimidae) associated with decaying pomegranate fruit in Italy</article-title>. <source xml:lang="en">Journal of Nematology</source>, <volume>49</volume>, <fpage>418</fpage>&#x02013;<lpage>426</lpage>. <pub-id pub-id-type="doi">10.21307/jofnem-2017-091</pub-id>
+<pub-id pub-id-type="pmid">29353931</pub-id></mixed-citation></ref><ref id="ece35865-bib-0011"><mixed-citation publication-type="book" id="ece35865-cit-0011">
+<string-name>
+<surname>F&#x000e9;lix</surname>, <given-names>M. A.</given-names>
+</string-name>. (<year>2006</year>). <chapter-title>Oscheius tipulae</chapter-title> In:<source xml:lang="en"> WormBook: The Online Review of C. elegans Biology</source>. <publisher-loc>Pasadena, CA</publisher-loc>: <publisher-name>WormBook</publisher-name>; <fpage>2005</fpage>&#x02013;<lpage>2018</lpage>. <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK19756/">https://www.ncbi.nlm.nih.gov/books/NBK19756/</ext-link>
+</mixed-citation></ref><ref id="ece35865-bib-0012"><mixed-citation publication-type="journal" id="ece35865-cit-0012">
+<string-name>
+<surname>Ferry</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>G&#x000f3;mez</surname>, <given-names>S.</given-names>
+</string-name> (<year>2002</year>). <article-title>The red palm weevil in the Mediterranean Area</article-title>. <source xml:lang="en">Palms</source>, <volume>46</volume>, <fpage>172</fpage>&#x02013;<lpage>178</lpage>.</mixed-citation></ref><ref id="ece35865-bib-0013"><mixed-citation publication-type="journal" id="ece35865-cit-0013">
+<string-name>
+<surname>Floyd</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Abebe</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Papert</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blaxter</surname>, <given-names>M.</given-names>
+</string-name> (<year>2002</year>). <article-title>Molecular barcodes for soil nematode identification</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>11</volume>, <fpage>839</fpage>&#x02013;<lpage>850</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-294X.2002.01485.x</pub-id>
+<pub-id pub-id-type="pmid">11972769</pub-id></mixed-citation></ref><ref id="ece35865-bib-0014"><mixed-citation publication-type="journal" id="ece35865-cit-0014">
+<string-name>
+<surname>F&#x000fc;rst von Lieven</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sudhaus</surname>, <given-names>W.</given-names>
+</string-name> (<year>2008</year>). <article-title>Description of <italic>Oigolaimella attenuata</italic> n. sp. (Diplogastridae) associated with termites (Reticulitermes) and remarks on life cycle, giant spermatozoa, gut&#x02010;inhabiting flagellates and other associates</article-title>. <source xml:lang="en">Nematology</source>, <volume>10</volume>(<issue>4</issue>), <fpage>501</fpage>&#x02013;<lpage>523</lpage>. <pub-id pub-id-type="doi">10.1163/156854108784513914</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0015"><mixed-citation publication-type="journal" id="ece35865-cit-0015">
+<string-name>
+<surname>Giblin&#x02010;Davis</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Kanzaki</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Davies</surname>, <given-names>K. A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Nematodes that ride insects: Unforeseen consequences of arriving species</article-title>. <source xml:lang="en">Florida Entomologist</source>, <volume>96</volume>, <fpage>770</fpage>&#x02013;<lpage>780</lpage>. <pub-id pub-id-type="doi">10.1653/024.096.0310</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0016"><mixed-citation publication-type="journal" id="ece35865-cit-0016">
+<string-name>
+<surname>Giovino</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Scibetta</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gugliuzza</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Longo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Suma</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>La Mantia</surname>, <given-names>T.</given-names>
+</string-name> (<year>2012</year>). <article-title>Attacks of <italic>Rhynchophorus ferrugineus</italic> (Olivier) (Coleoptera Curculionidae) on natural specimens of dwarf fan palm <italic>Chamaerops humilis</italic> L. (Arecaceae) in Sicily</article-title>. <source xml:lang="en">Naturalista Siciliano, IV</source>, <volume>XXXVI</volume>, <fpage>427</fpage>&#x02013;<lpage>433</lpage>.</mixed-citation></ref><ref id="ece35865-bib-0017"><mixed-citation publication-type="journal" id="ece35865-cit-0017">
+<string-name>
+<surname>Grucmanov&#x000e1;</surname>, <given-names>&#x00160;.</given-names>
+</string-name>, <string-name>
+<surname>Holu&#x00161;a</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>&#x0010c;erm&#x000e1;k</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nermut</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Nematodes associated with <italic>Ips cembrae</italic> (Coleoptera: Curculionidae): Comparison of generations, sexes and sampling methods</article-title>. <source xml:lang="en">Journal of Applied Entomology</source>, <volume>140</volume>, <fpage>395</fpage>&#x02013;<lpage>403</lpage>. <pub-id pub-id-type="doi">10.1111/jen.12269</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0018"><mixed-citation publication-type="journal" id="ece35865-cit-0018">
+<string-name>
+<surname>Hazir</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kanzaki</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Gulcu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Hazir</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giblin&#x02010;Davis</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>2015</year>). <article-title>Reverse taxonomy reveals <italic>Pristionchus maupasi</italic> (Diplogasterida: Diplogastridae) association with the soil&#x02010;dwelling bee <italic>Andrena optata</italic> (Hymenoptera: Andrenidae) in Turkey</article-title>. <source xml:lang="en">Florida Entomologist</source>, <volume>98</volume>, <fpage>364</fpage>&#x02013;<lpage>367</lpage>. <pub-id pub-id-type="doi">10.1653/024.098.0160</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0019"><mixed-citation publication-type="book" id="ece35865-cit-0019">
+<string-name>
+<surname>Joyce</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Reid</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Driver</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Curran</surname>, <given-names>J.</given-names>
+</string-name> (<year>1994</year>). <chapter-title>Application of polymerase chain reaction (PCR) methods to the identification of entomopathogenic nematodes</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Burnell</surname><given-names>A. M.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Ehlers</surname><given-names>R. U.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Masson</surname><given-names>J. P.</given-names></name></person-group> (Eds.), <source xml:lang="en">Cost 812 Biotechnology: Genetics of entomopathogenic nematodes&#x02010;bacterium complexes. Proceedings of symposium and workshop, St Patrick's College, Maynooth, County Kildare, Ireland</source> (pp. <fpage>178</fpage>&#x02013;<lpage>187</lpage>). <publisher-loc>Luxembourg City, Luxembourg</publisher-loc>: <publisher-name>European Commission, DGXII</publisher-name>.</mixed-citation></ref><ref id="ece35865-bib-0020"><mixed-citation publication-type="book" id="ece35865-cit-0020">
+<string-name>
+<surname>Kanzaki</surname>, <given-names>N.</given-names>
+</string-name> (<year>2017</year>). <chapter-title>Current status of entomophilic nematode survey in Japan</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Motokawa</surname><given-names>M.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Kajihara</surname><given-names>H.</given-names></name></person-group> (Eds.), <source xml:lang="en">Species diversity of animals in Japan</source> (pp. <fpage>285</fpage>&#x02013;<lpage>317</lpage>). <publisher-loc>Japan</publisher-loc>: <publisher-name>Springer Nature</publisher-name>
+<pub-id pub-id-type="doi">10.1007/978-4-431-56432-4</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0021"><mixed-citation publication-type="journal" id="ece35865-cit-0021">
+<string-name>
+<surname>Kanzaki</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Abe</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Giblin&#x02010;Davis</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Kiontke</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Fitch</surname>, <given-names>D. H. A.</given-names>
+</string-name>, <string-name>
+<surname>Hata</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Son&#x000e9;</surname>, <given-names>K.</given-names>
+</string-name> (<year>2008</year>). <article-title>
+<italic>Teratorhabditis synpapillata</italic> Sudhaus, 1985 (Rhabditida: Rhabditidae) is an associate of the red palm weevil, <italic>Rhynchophorus ferrugineus</italic> (Coleoptera: Curculionidae)</article-title>. <source xml:lang="en">Nematology</source>, <volume>10</volume>(<issue>2</issue>), <fpage>207</fpage>&#x02013;<lpage>218</lpage>. <pub-id pub-id-type="doi">10.1163/156854108783476386</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0022"><mixed-citation publication-type="journal" id="ece35865-cit-0022">
+<string-name>
+<surname>Kanzaki</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Futai</surname>, <given-names>K.</given-names>
+</string-name> (<year>2002</year>). <article-title>A PCR primer set for determination of phylogenetic relationships of <italic>Bursaphelenchus</italic> species within <italic>xylophilus</italic> group</article-title>. <source xml:lang="en">Nematology</source>, <volume>4</volume>, <fpage>35</fpage>&#x02013;<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1163/156854102760082186</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0023"><mixed-citation publication-type="journal" id="ece35865-cit-0023">
+<string-name>
+<surname>Kanzaki</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giblin&#x02010;Davis</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>2018</year>). <article-title>
+<italic>Acrostichus palmarum</italic> n. sp., a cryptic species separated from <italic>A.&#x000a0;rhynchophori</italic> by molecular sequences and hybridization tests</article-title>. <source xml:lang="en">Nematology</source>, <volume>20</volume>, <fpage>751</fpage>&#x02013;<lpage>768</lpage>. <pub-id pub-id-type="doi">10.1163/15685411-00003173</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0024"><mixed-citation publication-type="journal" id="ece35865-cit-0024">
+<string-name>
+<surname>Kanzaki</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Giblin&#x02010;Davis</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Manzoor</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Nematodes associated with palm and sugarcane weevils in South Florida with the description of <italic>Acrostichus floridensis</italic> n. sp</article-title>. <source xml:lang="en">Nematology</source>, <volume>19</volume>, <fpage>515</fpage>&#x02013;<lpage>531</lpage>. <pub-id pub-id-type="doi">10.1163/15685411-00003065</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0025"><mixed-citation publication-type="journal" id="ece35865-cit-0025">
+<string-name>
+<surname>Kanzaki</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Giblin&#x02010;Davis</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Scheffrahn</surname>, <given-names>R. H.</given-names>
+</string-name>, <string-name>
+<surname>Taki</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Esquivel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>K. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Herre</surname>, <given-names>E. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Reverse taxonomy for elucidating diversity of insect&#x02010;associated nematodes: A case study with termites</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>7</volume>(<issue>8</issue>), <elocation-id>e43865</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0043865</pub-id>
+<pub-id pub-id-type="pmid">22952792</pub-id></mixed-citation></ref><ref id="ece35865-bib-0026"><mixed-citation publication-type="journal" id="ece35865-cit-0026">
+<string-name>
+<surname>Kanzaki</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Giblin&#x02010;Davis</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Center</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2009</year>). <article-title>
+<italic>Acrostichus rhynchophori</italic> n. sp. (Rhabditida: Diplogastridae): A phoretic associate of <italic>Rhynchophorus cruentatus</italic> Fabricius and <italic>R.&#x000a0;palmarum</italic> L. (Coleoptera: Curculionidae) in the Americas</article-title>. <source xml:lang="en">Nematology</source>, <volume>11</volume>, <fpage>669</fpage>&#x02013;<lpage>688</lpage>. <pub-id pub-id-type="doi">10.1163/156854109X404571</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0027"><mixed-citation publication-type="journal" id="ece35865-cit-0027">
+<string-name>
+<surname>Kanzaki</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>H. F.</given-names>
+</string-name>, <string-name>
+<surname>Lan</surname>, <given-names>Y. C.</given-names>
+</string-name>, <string-name>
+<surname>Kosaka</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Giblin&#x02010;Davis</surname>, <given-names>R. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Center</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2011</year>). <article-title>
+<italic>Poikilolaimus carsiops</italic> n. sp. (Rhabditida: Rhabditidae) associated with <italic>Neotermes koshunensis</italic> (Kalotermitidae) in Kenting National Park, Taiwan</article-title>. <source xml:lang="en">Nematology</source>, <volume>13</volume>(<issue>2</issue>), <fpage>155</fpage>&#x02013;<lpage>164</lpage>. <pub-id pub-id-type="doi">10.1163/138855410X508705</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0028"><mixed-citation publication-type="journal" id="ece35865-cit-0028">
+<string-name>
+<surname>Karimi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Rezaei</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shokoohi</surname>, <given-names>E.</given-names>
+</string-name> (<year>2018</year>). <article-title>Addition of a new insect parasitic nematode, <italic>Oscheius tipulae</italic>, to Iranian fauna</article-title>. <source xml:lang="en">Nematropica</source>, <volume>48</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>.</mixed-citation></ref><ref id="ece35865-bib-0029"><mixed-citation publication-type="journal" id="ece35865-cit-0029">
+<string-name>
+<surname>Katoh</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Standley</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2013</year>). <article-title>MAFFT multiple sequence alignment 542 software version 7: Improvements in performance and usability</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>30</volume>, <fpage>772</fpage>&#x02013;<lpage>780</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/mst010</pub-id>
+<pub-id pub-id-type="pmid">23329690</pub-id></mixed-citation></ref><ref id="ece35865-bib-0030"><mixed-citation publication-type="journal" id="ece35865-cit-0030">
+<string-name>
+<surname>Kraglund</surname>, <given-names>H. O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ekelund</surname>, <given-names>F.</given-names>
+</string-name> (<year>2002</year>). <article-title>Infestation of natural populations of earthworm ccoons by rhabditid and cephalobid nematodes</article-title>. <source xml:lang="en">Pedobiologia</source>, <volume>46</volume>, <fpage>125</fpage>&#x02013;<lpage>135</lpage>. <pub-id pub-id-type="doi">10.1078/0031-4056-00119</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0031"><mixed-citation publication-type="journal" id="ece35865-cit-0031">
+<string-name>
+<surname>Lam</surname>, <given-names>A. B. Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Webster</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>1971</year>). <article-title>Morphology and biology of <italic>Panagrolaimus tipulae</italic> n. sp. (Panagrolaimidae) and <italic>Rhabditis</italic> (<italic>Rhabditella</italic>) <italic>tipula</italic>e n. sp. (Rhabditidae), from leatherjacket larvae, <italic>Tipula paludosa</italic> (Diptera: Tipulidae)</article-title>. <source xml:lang="en">Nematologica</source>, <volume>17</volume>, <fpage>201</fpage>&#x02013;<lpage>212</lpage>. <pub-id pub-id-type="doi">10.1163/187529271X00044</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0032"><mixed-citation publication-type="journal" id="ece35865-cit-0032">
+<string-name>
+<surname>Lawley</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ripley</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bridge</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Convey</surname>, <given-names>P.</given-names>
+</string-name> (<year>2004</year>). <article-title>Molecular analysis of geographic patterns of eukaryotic diversity in Antarctic soils</article-title>. <source xml:lang="en">Applied and Environmental Microbiology</source>, <volume>70</volume>(<issue>10</issue>), <fpage>5963</fpage>&#x02013;<lpage>5972</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.70.10.5963-5972.2004</pub-id>
+<pub-id pub-id-type="pmid">15466539</pub-id></mixed-citation></ref><ref id="ece35865-bib-0033"><mixed-citation publication-type="journal" id="ece35865-cit-0033">
+<string-name>
+<surname>Led&#x000f3;n&#x02010;Rettig</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Moczek</surname>, <given-names>A. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ragsdale</surname>, <given-names>E. J.</given-names>
+</string-name> (<year>2018</year>). <article-title>
+<italic>Diplogastrellus nematodes</italic> are sexually transmitted mutualists that alter the bacterial and fungal communities of their beetle host</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>115</volume>, <fpage>10696</fpage>&#x02013;<lpage>10701</lpage>.<pub-id pub-id-type="pmid">30275294</pub-id></mixed-citation></ref><ref id="ece35865-bib-0034"><mixed-citation publication-type="journal" id="ece35865-cit-0034">
+<string-name>
+<surname>Markmann</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tautz</surname>, <given-names>D.</given-names>
+</string-name> (<year>2005</year>). <article-title>Reverse taxonomy: An approach towards determining the diversity of meiobenthic organisms based on ribosomal DNA signature sequences</article-title>. <source xml:lang="en">Philosophical Transactions of the Royal Society B</source>, <volume>360</volume>, <fpage>1917</fpage>&#x02013;<lpage>1924</lpage>. <pub-id pub-id-type="doi">10.1098/rstb.2005.1723</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0035"><mixed-citation publication-type="journal" id="ece35865-cit-0035">
+<string-name>
+<surname>Mazza</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Francardi</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Simoni</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Benvenuti</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cervo</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Faleiro</surname>, <given-names>J. R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Roversi</surname>, <given-names>P. F.</given-names>
+</string-name> (<year>2014</year>). <article-title>An overview on the natural enemies of <italic>Rhynchophorus</italic> palm weevils, with focus on <italic>R.&#x000a0;ferrugineus</italic>
+</article-title>. <source xml:lang="en">Biological Control</source>, <volume>77</volume>, <fpage>83</fpage>&#x02013;<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocontrol.2014.06.010</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0036"><mixed-citation publication-type="journal" id="ece35865-cit-0036">
+<string-name>
+<surname>McFrederick</surname>, <given-names>Q. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Taylor</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2012</year>). <article-title>Evolutionary history of nematodes associated with sweat bees</article-title>. <source xml:lang="en">Molecular Phylogenetics and Evolution</source>, <volume>66</volume>, <fpage>847</fpage>&#x02013;<lpage>856</lpage>. <pub-id pub-id-type="doi">10.1016/j.ympev.2012.11.007</pub-id>
+<pub-id pub-id-type="pmid">23159895</pub-id></mixed-citation></ref><ref id="ece35865-bib-0037"><mixed-citation publication-type="book" id="ece35865-cit-0037">
+<string-name>
+<surname>Nunn</surname>, <given-names>G. B.</given-names>
+</string-name> (<year>1992</year>). <source xml:lang="en">Nematode molecular evolution</source>. Ph.D thesis, <publisher-name>University of Nottingham</publisher-name>, <publisher-loc>UK</publisher-loc>.</mixed-citation></ref><ref id="ece35865-bib-0038"><mixed-citation publication-type="journal" id="ece35865-cit-0038">
+<string-name>
+<surname>Shimizu</surname>, <given-names>A. I.</given-names>
+</string-name>, <string-name>
+<surname>Tanaka</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Akiba</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Masuya</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Iwata</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Fukuda</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kanzaki</surname>, <given-names>N.</given-names>
+</string-name> (<year>2013</year>). <article-title>Nematodes associated with <italic>Dryocoetes uniseriatus</italic> (Coleoptera: Scolytidae)</article-title>. <source xml:lang="en">Environmental Entomology</source>, <volume>42</volume>, <fpage>79</fpage>&#x02013;<lpage>88</lpage>.<pub-id pub-id-type="pmid">23339788</pub-id></mixed-citation></ref><ref id="ece35865-bib-0039"><mixed-citation publication-type="journal" id="ece35865-cit-0039">
+<string-name>
+<surname>Sudhaus</surname>, <given-names>W.</given-names>
+</string-name> (<year>1993</year>). <article-title>Redescription of Rhabditis (Oscheius) tipulae (Nematoda: Rhabditidae) associated with leatherjackets, larvae of Tipula paludosa (Diptera: Tipulidae)</article-title>. <source xml:lang="en">Nematologica</source>, <volume>39</volume>, <fpage>234</fpage>&#x02013;<lpage>239</lpage>.</mixed-citation></ref><ref id="ece35865-bib-0040"><mixed-citation publication-type="journal" id="ece35865-cit-0040">
+<string-name>
+<surname>Sudhaus</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Kiontke</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giblin&#x02010;Davis</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>2011</year>). <article-title>Description of <italic>Caenorhabditis angaria</italic> n. sp. (Nematoda: Rhabditidae), an associate of sugarcane and palm weevils (Coleoptera: Curculionidae)</article-title>. <source xml:lang="en">Nematology</source>, <volume>13</volume>, <fpage>61</fpage>&#x02013;<lpage>78</lpage>. <pub-id pub-id-type="doi">10.1163/138855410X500334</pub-id>
+</mixed-citation></ref><ref id="ece35865-bib-0041"><mixed-citation publication-type="journal" id="ece35865-cit-0041">
+<string-name>
+<surname>Tamura</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Stecher</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Filipski</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kumar</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>). <article-title>MEGA6: Molecular evolutionary genetics analysis version 6.0</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>30</volume>, <fpage>2725</fpage>&#x02013;<lpage>2729</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/mst197</pub-id>
+<pub-id pub-id-type="pmid">24132122</pub-id></mixed-citation></ref><ref id="ece35865-bib-0042"><mixed-citation publication-type="journal" id="ece35865-cit-0042">
+<string-name>
+<surname>Torrini</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mazza</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Strangi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Barabaschi</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Landi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mori</surname>, <given-names>E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Roversi</surname>, <given-names>P. F.</given-names>
+</string-name> (<year>2016</year>). <article-title>
+<italic>Oscheius tipulae</italic> in Italy: Evidence of an alien isolate in the Integral Natural Reserve of Montecristo Island (Tuscany)</article-title>. <source xml:lang="en">Journal of Nematology</source>, <volume>48</volume>, <fpage>8</fpage>&#x02013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.21307/jofnem-2017-003</pub-id>
+<pub-id pub-id-type="pmid">27168647</pub-id></mixed-citation></ref><ref id="ece35865-bib-0043"><mixed-citation publication-type="journal" id="ece35865-cit-0043">
+<string-name>
+<surname>Troccoli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Oreste</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tarasco</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Fanelli</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>De Luca</surname>, <given-names>F.</given-names>
+</string-name> (<year>2015</year>). <article-title>
+<italic>Mononchoides macrospiculum</italic> n. sp. (Nematoda: Neodiplogaster) and <italic>Teratorhabditis synpapillata</italic> Sudhaus, 1985 (Nematoda: Rhabditidae): Nematode associates of <italic>Rhynchophorus ferrugineus</italic> (Oliver) (Coleoptera: Curculionidae) in Italy</article-title>. <source xml:lang="en">Nematology</source>, <volume>17</volume>, <fpage>953</fpage>&#x02013;<lpage>966</lpage>.</mixed-citation></ref><ref id="ece35865-bib-0044"><mixed-citation publication-type="journal" id="ece35865-cit-0044">
+<string-name>
+<surname>Valizadeh</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Goldasteh</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rafiei&#x02010;Karahroodi</surname>, <given-names>Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pedram</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>The occurrence of three species of the genus <italic>Oscheius</italic> Andrassy, 1976 (Nematoda: Rhabditida) in Iran</article-title>. <source xml:lang="en">Journal of Plant Protection Research</source>, <volume>57</volume>, <fpage>248</fpage>&#x02013;<lpage>255</lpage>.</mixed-citation></ref></ref-list></back></article>

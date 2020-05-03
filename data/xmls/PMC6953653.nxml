@@ -1,0 +1,913 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938509</article-id><article-id pub-id-type="pmc">6953653</article-id><article-id pub-id-type="doi">10.1002/ece3.5849</article-id><article-id pub-id-type="publisher-id">ECE35849</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Declining freshwater mussel diversity in the middle and lower reaches of the Xin River Basin: Threat and conservation</article-title><alt-title alt-title-type="left-running-head">SUN et al.</alt-title></title-group><contrib-group><contrib id="ece35849-cr-0001" contrib-type="author"><name><surname>Sun</surname><given-names>Weiwei</given-names></name><xref ref-type="aff" rid="ece35849-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35849-cr-0002" contrib-type="author"><name><surname>Liu</surname><given-names>Xiongjun</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5333-6670</contrib-id><xref ref-type="aff" rid="ece35849-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="ece35849-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35849-cr-0003" contrib-type="author"><name><surname>Wu</surname><given-names>Ruiwen</given-names></name><xref ref-type="aff" rid="ece35849-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35849-cr-0004" contrib-type="author"><name><surname>Wang</surname><given-names>Weikai</given-names></name><xref ref-type="aff" rid="ece35849-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35849-cr-0005" contrib-type="author"><name><surname>Wu</surname><given-names>Yanli</given-names></name><xref ref-type="aff" rid="ece35849-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35849-cr-0006" contrib-type="author" corresp="yes"><name><surname>Ouyang</surname><given-names>Shan</given-names></name><xref ref-type="aff" rid="ece35849-aff-0001">
+<sup>1</sup>
+</xref><address><email>ouys1963@qq.com</email></address></contrib><contrib id="ece35849-cr-0007" contrib-type="author" corresp="yes"><name><surname>Wu</surname><given-names>Xiaoping</given-names></name><xref ref-type="aff" rid="ece35849-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35849-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="ece35849-aff-0003">
+<sup>3</sup>
+</xref><address><email>xpwu@ncu.edu.cn</email></address></contrib></contrib-group><aff id="ece35849-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">School of Life Sciences</named-content>
+<institution>Nanchang University</institution>
+<city>Nanchang</city>
+<country country="CN">China</country>
+</aff><aff id="ece35849-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Key Laboratory of Poyang Lake Environment and Resource Utilization</named-content>
+<named-content content-type="organisation-division">School of Resource, Environmental and Chemical Engineering</named-content>
+<named-content content-type="organisation-division">Ministry of Education</named-content>
+<institution>Nanchang University</institution>
+<city>Nanchang</city>
+<country country="CN">China</country>
+</aff><aff id="ece35849-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">School of Resources Environmental &#x00026; Chemical Engineering</named-content>
+<institution>Nanchang University</institution>
+<city>Nanchang</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Shan Ouyang and Xiaoping Wu, School of Life Sciences, Nanchang University, Nanchang 330031, China.<break/>
+Emails: <email>ouys1963@qq.com</email>; <email>xpwu@ncu.edu.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14142</fpage><lpage>14153</lpage><history><date date-type="received"><day>04</day><month>7</month><year>2019</year></date><date date-type="rev-recd"><day>24</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>28</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14142.pdf"/><abstract id="ece35849-abs-0001"><title>Abstract</title><p>Freshwater mussels provide important functions and services for aquatic ecosystems, but populations of many species have been extirpated. Information on biodiversity plays an important role in the conservation and management of freshwater mussels. The Xin River Basin is a biodiversity hotspot for freshwater mussels in China, with more than 43 species known, but populations of which are decreasing. Here, we quantify the diversity of freshwater mussels in the middle and lower reaches of the Xin River Basin and study the correlation of habitat characteristics and freshwater mussel diversity. Compared to the historical period, the number of species, density, and biomass of freshwater mussels decreased 33%, 83%, and 82% in the current period, respectively. Fifty two percent of recorded species were empty shells, and 14 native freshwater mussels were not found in the study area. Four species are currently listed as vulnerable species using IUCN criteria and their global status. The assemblage structure of freshwater mussels exhibits significant spatial differences, and there was a correlation with substrate and physicochemical parameters. The main tributary of the Xin River with higher freshwater mussel diversity should be established as one large protected area because the nestedness component was the main pattern of beta diversity. These results indicated freshwater mussel diversity was declining rapidly, which can help focus conservation effort for freshwater mussel biodiversity.</p></abstract><abstract abstract-type="graphical" id="ece35849-abs-0002"><p>Freshwater mussels provide important aquatic ecosystem functions and services, but many of their populations are in decline. Here, we systematically quantitative analyze freshwater mussel diversity in the Xinjiang River and explore the correlation of habitat characteristics and freshwater mussel diversity. The results showed that the diversity of freshwater mussels decreased rapidly in the Xinjiang River. Assemblage structure of freshwater mussels exhibits significant spatial differences. The assemblage composition of freshwater mussels was correlated with turbidity, PM, and water temperature. The MT should be established one large protected area because the nestedness component was the main pattern of beta diversity. This study will provide important information for the conservation and management of freshwater mussel biodiversity.<boxed-text position="anchor" content-type="graphic" id="ece35849-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14142-g006.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35849-kwd-0001">biodiversity</kwd><kwd id="ece35849-kwd-0002">conservation</kwd><kwd id="ece35849-kwd-0003">freshwater mussels</kwd><kwd id="ece35849-kwd-0004">quantitative</kwd><kwd id="ece35849-kwd-0005">Xin River</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Ministry of Science and Technology of the People's Republic of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100002855</institution-id></institution-wrap></funding-source><award-id>2005DKA21402</award-id></award-group><award-group id="funding-0002"><funding-source>National Key R &#x00026; D Program of China</funding-source><award-id>2018YFD0900801</award-id></award-group><award-group id="funding-0003"><funding-source>National Nature Science Foundation of China</funding-source><award-id>31772412</award-id><award-id>31260515</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="4"/><page-count count="12"/><word-count count="9881"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35849-cit-1001">
+<string-name>
+<surname>Sun</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Declining freshwater mussel diversity in the middle and lower reaches of the Xin River Basin: Threat and conservation</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14142</fpage>&#x02013;<lpage>14153</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5849</pub-id>
+</mixed-citation>
+</p><fn-group id="ece35849-ntgp-0001"><fn id="ece35849-note-0001"><p>Sun and Liu are co&#x02010;first authors.</p></fn></fn-group></notes></front><body id="ece35849-body-0001"><sec id="ece35849-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Human activities, such as habitat fragmentation and loss, water pollution, and overexploitation, have driven global biodiversity decline (Tilman et al., <xref rid="ece35849-bib-0062" ref-type="ref">2017</xref>), likely to worsen (Tittensor et al., <xref rid="ece35849-bib-0063" ref-type="ref">2014</xref>). These factors in particular were degrading important freshwater ecosystem services and diversity (Dudgeon et al., <xref rid="ece35849-bib-0016" ref-type="ref">2006</xref>), but little is known on the status of freshwater invertebrates (Abell et al., <xref rid="ece35849-bib-0001" ref-type="ref">2011</xref>; Dudgeon et al., <xref rid="ece35849-bib-0016" ref-type="ref">2006</xref>; Sala et al., <xref rid="ece35849-bib-0052" ref-type="ref">2000</xref>).</p><p>Freshwater mussels (Bivalvia: Unionidae) are a very important part of biodiversity, playing major roles in freshwater ecosystems (Vaughn, <xref rid="ece35849-bib-0065" ref-type="ref">2018</xref>). At the same time, they are indicator organism for detecting environmental health (Vaughn, <xref rid="ece35849-bib-0064" ref-type="ref">2012</xref>). However, freshwater mussels have been in decline globally in recent decades due to a myriad of human activities (Haag &#x00026; Williams, <xref rid="ece35849-bib-0020" ref-type="ref">2014</xref>; Vaughn, <xref rid="ece35849-bib-0065" ref-type="ref">2018</xref>). Two hundred and forty&#x02010;seven freshwater mussels have been listed as extinct, endangered, threatened, or near threatened by the IUCN Red List of Threatened Species (IUCN, <xref rid="ece35849-bib-0025" ref-type="ref">2019</xref>). In addition, an assessment of the conservation status of freshwater mussels has not been completed in East and South&#x02010;East Asia, where 228 species are not under international legal protection (Cao et al., <xref rid="ece35849-bib-0011" ref-type="ref">2018</xref>; Zieritz et al., <xref rid="ece35849-bib-0079" ref-type="ref">2018</xref>). They are therefore considered to be one of the most threatened freshwater organisms globally (Bogan, <xref rid="ece35849-bib-0008" ref-type="ref">2008</xref>).</p><p>The Yangtze River Basin is a biodiversity hotspot for freshwater mussels, with more than 80% of them in this area are considered threatened or vulnerable (Liu et al., <xref rid="ece35849-bib-0034" ref-type="ref">2017</xref>; Shu, Wang, Pan, Liu, &#x00026; Wang, <xref rid="ece35849-bib-0054" ref-type="ref">2009</xref>; Zieritz et al., <xref rid="ece35849-bib-0079" ref-type="ref">2018</xref>). Poyang Lake is the largest river&#x02010;connected lake in the Yangtze River Basin with approximately 75% of the endemic freshwater mussel species in China (Li et al., <xref rid="ece35849-bib-0031" ref-type="ref">2019</xref>; Sun et al., <xref rid="ece35849-bib-0059" ref-type="ref">2018</xref>; Xiong, Ouyang, &#x00026; Wu, <xref rid="ece35849-bib-0075" ref-type="ref">2013</xref>). The Xin River Basin is one of the largest rivers in Jiangxi Province, with the estimated number of freshwater mussel species in the river and supporting citations, flowing into Poyang Lake, which plays an important role in maintaining and supplementing freshwater mussel diversity for the Yangtze River and Poyang Lake (Jin, Nie, Li, Chen, &#x00026; Zhou, <xref rid="ece35849-bib-0027" ref-type="ref">2012</xref>; Li et al., <xref rid="ece35849-bib-0031" ref-type="ref">2019</xref>). However, due to disturbances from anthropogenic habitats, which include habitat loss and fragmentation, water pollution, sand dredging, and channelization, populations of many species have been extirpated or greatly reduced in these areas (Liu et al., <xref rid="ece35849-bib-0034" ref-type="ref">2017</xref>; Sun et al., <xref rid="ece35849-bib-0059" ref-type="ref">2018</xref>). In addition, changes in water levels in river and lake levels coinciding with wet and dry seasons have become more extreme due to climate change. This has affected the assemblage structure of freshwater mussels (Liu et al., <xref rid="ece35849-bib-0034" ref-type="ref">2017</xref>; Xiong et al., <xref rid="ece35849-bib-0075" ref-type="ref">2013</xref>).</p><p>Knowledge on biodiversity plays an important role in the conservation and management of freshwater mussels (Liu et al., <xref rid="ece35849-bib-0034" ref-type="ref">2017</xref>; Zieritz et al., <xref rid="ece35849-bib-0079" ref-type="ref">2018</xref>, <xref rid="ece35849-bib-0080" ref-type="ref">2016</xref>). For example, beta diversity is a key concept for understanding the functioning of ecosystems, the conservation of biodiversity, and the management of ecosystems (Bergamin et al., <xref rid="ece35849-bib-0006" ref-type="ref">2017</xref>; Wiersma &#x00026; Urban, <xref rid="ece35849-bib-0070" ref-type="ref">2005</xref>; Xu et al., <xref rid="ece35849-bib-0077" ref-type="ref">2019</xref>). Although many studies have qualitatively investigated freshwater mussels in the Xin River Basin (Liu, Ouyang, &#x00026; Wu, <xref rid="ece35849-bib-0035" ref-type="ref">2008</xref>; Tchang &#x00026; Li, <xref rid="ece35849-bib-0060" ref-type="ref">1965</xref>; Wu, Ouyang, &#x00026; Hu, <xref rid="ece35849-bib-0073" ref-type="ref">1994</xref>), there has been little quantitative work on freshwater mussel diversity and their conservation status. Moreover, the correlation between diversity and habitat characteristics has not yet been explored in the Xin River Basin. Here, freshwater mussel abundance and diversity, and correlations with habitat characteristics, were quantified in middle and lower reaches of the Xin River Basin as a basis for conservation and management of the threatened mussel fauna in this Eastern Asian freshwater biodiversity hotspot.</p></sec><sec sec-type="materials-and-methods" id="ece35849-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35849-sec-0003"><label>2.1</label><title>Study area</title><p>The Xin River (116&#x000b0;13&#x02032;&#x02013;118&#x000b0;29&#x02032;E, 27&#x000b0;48&#x02032;&#x02013;28&#x000b0;32&#x000a0;N) is one of the largest rivers in Jiangxi Province, China. It has a main channel of 313&#x000a0;km, with a total drainage area of 17,600&#x000a0;km<sup>2</sup>. It has an average precipitation of 1,850&#x000a0;mm/year and is in the middle&#x02010;subtropical humid monsoon climate zone. The upper reach of the river is above Shangrao city (115&#x000a0;km), with many streams and coarse gravel on the substrates. The middle reach is from Shangrao city to Yintang city (144&#x000a0;km) with a smooth water flow and stone, sand, and gravel on the substrates. Finally, the lower reach is from Yintang city to Kangshan town (69&#x000a0;km), with a smooth water flow and mud, sand, and gravel on the substrates. Many dams have been constructed in the Xin River, such as Jiepai Dam, Xinzhou Dam, Hongqi Dam, and Jiuniutang Dam currently, and Bazizui Dam and Shuanggang Dam in the future (Figure <xref rid="ece35849-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35849-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Map showing the study area of the middle and lower reaches of the Xin River Basin, geographic location in China, and in relation to the Yangtze River and Poyang Lake. River codes are the same as in Table <xref rid="ece35849-tbl-0002" ref-type="table">2</xref>
+</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14142-g001"/></fig></sec><sec id="ece35849-sec-0004"><label>2.2</label><title>Study sites</title><p>Study sites were selected in the Xin River Basin considering habitat variation and anthropogenic activities. Six sections (32 study sites) were established in the study area referenced Bureau of hydrology in Jiangxi Province 2007 (Figure <xref rid="ece35849-fig-0001" ref-type="fig">1</xref>), and each section included (a) the main stem of the Xin River (section code MS; SW1&#x02013;SW7), where anthropogenic activities included sand mining, water pollution, and dam construction, and the substrates were sandstone, sand, and gravel; (b) the main tributary of the Xin River (section code MT; SW18&#x02013;SW19, SW27&#x02013;SW32), where anthropogenic activities included sand mining, overfishing, water pollution, and dam construction, and the substrates were sandstone, mud, sand, pebble, and gravel; (c) the Xi River (section code XR; SW20&#x02013;SW21), which had few anthropogenic activities, and the substrates were mud, sand, and pebbles; (d) the Santang River (section code ST; SW22&#x02010;SW26), which had many anthropogenic activities including water pollution, agriculture, and urban use, and the substrates were mud and sand; (e) the Huhui River (section code HH; SW12&#x02010;SW17), which had many anthropogenic activities including water pollution and urban, and the substrates were mud and sand; and (f) the Dongda River (section code DR; SW8&#x02010;SW11), which had anthropogenic activities including water pollution and urban, and the substrates were sandstone, rock, and gravel.</p></sec><sec id="ece35849-sec-0005"><label>2.3</label><title>Study methods</title><p>Historical data (1965&#x02013;2013) were collected on the presence&#x02013;absence of freshwater mussel species in the Xin River Basin from the literature (Tchang &#x00026; Li, <xref rid="ece35849-bib-0060" ref-type="ref">1965</xref>; Wu et al., <xref rid="ece35849-bib-0073" ref-type="ref">1994</xref>; Xiong et al., <xref rid="ece35849-bib-0075" ref-type="ref">2013</xref>; Xu, <xref rid="ece35849-bib-0076" ref-type="ref">2013</xref>; Zhang et al., <xref rid="ece35849-bib-0078" ref-type="ref">2013</xref>; Table <xref rid="ece35849-sup-0002" ref-type="supplementary-material">S1</xref>). Historical sampling methods mainly qualitatively collected mussels by searching through the bottom by hand at the shore or in shallow waters (Zhang et al., <xref rid="ece35849-bib-0078" ref-type="ref">2013</xref>). Freshwater mussel samples were collected in the current period from October to November 2018. We first asked local people about the presence of freshwater mussels based on pictures or on shells of freshwater mussels historically recorded (1965&#x02013;2013) from the Xin River. In addition, three repeated samples of freshwater mussels were collected using homemade mussel rakes (60&#x000a0;cm wide, 20&#x000a0;mm mesh, rake tooth spacing 15&#x000a0;mm). The hand&#x02010;held mussel rake was thrown into the water and dragged slowly to the shore with uniform speed in the river shallows (0.5&#x02013;2.0&#x000a0;m of water depth) by the same person to reach approximately the same distance. Then, the towing line distance was measured (the sampling area [15&#x000a0;m<sup>2</sup>] was obtained by multiplying the mussel rake mouth width by the towing line distance [25&#x000a0;m]). Samples were poured into white porcelain dishes for sorting, and specimens were placed into labeled plastic bags. Simultaneously, supplementary qualitative freshwater mussel samples were found visually or by searching through the bottom by hand at the shore or in shallow waters for a minimum of 30 and a maximum of 240&#x000a0;min, covering approximately 200&#x000a0;m of the area sampled close to the river bank. Qualitatively collected mussels were used as the basis for the description of species composition and distribution but were not included in the quantitative analysis. Specimens were identified to the lowest possible taxonomic level (usually species or genus), counted, and weighed with an electronic balance (HANGPING FA1204B; precision: 0.1&#x000a0;g). Freshwater mussel taxonomic levels were mainly based on Liu, Zhang, and Wang (<xref rid="ece35849-bib-0036" ref-type="ref">1979</xref>), He and Zhuang (<xref rid="ece35849-bib-0023" ref-type="ref">2013</xref>) and Lopes&#x02010;Lima et al. (<xref rid="ece35849-bib-0037" ref-type="ref">2018</xref>).</p></sec><sec id="ece35849-sec-0006"><label>2.4</label><title>Habitat characteristics</title><p>Three physicochemical parameters were measured to analyze microenvironmental changes in the study section from October to November 2018. We measured the dissolved oxygen (DO, mg/L), hydrogen ion concentration (pH), turbidity (TURB, NTU+), water temperature (<italic>T</italic>, &#x000b0;C), salinity (Sal, mg/L), and electrical conductivity (EC, &#x003bc;S/cm) using a water quality meter (AQUAREAD, AP&#x02010;800), and we used a chlorophyll meter (HL&#x02010;168C06, made in China) to measure the chlorophyll&#x02010;<italic>a</italic> (Chl&#x02010;a, &#x003bc;g/L).</p><p>The substrate samples of freshwater mussels were collected using a tubular shovel (total length: 47&#x000a0;cm; width of shovel: 11.5&#x000a0;cm; length of shovel: 15&#x000a0;cm). Then, the samples were emptied into bags and transported to the laboratory. In the laboratory, the substrate samples were first oven&#x02010;dried at 105&#x000b0;C for 24&#x000a0;hr (Gordon, Mcmahon, Finlayson, Gippel, &#x00026; Nathan, <xref rid="ece35849-bib-0018" ref-type="ref">2004</xref>). Using three sizes of mesh sieves (4, 2, and 0.0625&#x000a0;mm), the substrate samples were sieved by handshaking for 30&#x000a0;min. According to Wentworth (<xref rid="ece35849-bib-0069" ref-type="ref">1922</xref>), the substrate samples were divided into four groups: pebbles (&#x0003e;4&#x000a0;mm), granules (2&#x02013;4&#x000a0;mm), sand (0.0625&#x02013;2&#x000a0;mm), and silt (&#x0003c;0.0625&#x000a0;mm).</p></sec><sec id="ece35849-sec-0007"><label>2.5</label><title>Data analyses</title><p>The sampling completeness of freshwater mussels for the study section was analyzed using abundance&#x02010;based rarefaction, as implemented in iNext Online (Chao, Ma, &#x00026; Hsieh, <xref rid="ece35849-bib-0012" ref-type="ref">2016</xref>). Confidence intervals (95%) were calculated using 100 bootstrap replications.</p><p>Density of specimens in sampling area: <italic>D</italic>&#x000a0;=&#x000a0;<italic>N</italic>/<italic>A</italic>, biomass of specimens in sampling area: <italic>B</italic>&#x000a0;=&#x000a0;<italic>W</italic>/<italic>A</italic>, where <italic>N</italic>: the number of specimens in sampling area, <italic>W</italic>: the weight of specimens in sampling area, <italic>A</italic>: the sampling area (15&#x000a0;m<sup>2</sup>). Occurrence rates of species in all sampling sites: <italic>O<sub>i</sub></italic>&#x000a0;=&#x000a0;<italic>N<sub>i</sub></italic>/<italic>S</italic>; <italic>N<sub>i</sub></italic>: the number of occurrence of <italic>i</italic> species in all sampling sites, <italic>S</italic>: all sampling sites (32). Extinction rates of species in all sampling sites: <italic>E<sub>i</sub></italic>&#x000a0;=&#x000a0;<italic>N<sub>i</sub></italic>/<italic>S</italic>; <italic>N<sub>i</sub></italic>: the number of empty shells of <italic>i</italic> species in all sampling sites, <italic>S</italic>: the total number of <italic>i</italic> species in all sampling sites.</p><p>To analyze freshwater mussels diversity and richness in each sampled section, the relative abundance (<italic>P<sub>i</sub></italic>), Shannon&#x02013;Wiener index (<italic>H&#x02032;</italic>), Simpson index (<italic>D</italic>), Margalef diversity index (<italic>R</italic>), and Pielou evenness index (<italic>J&#x02032;</italic>) were calculated for each site (Magurran, <xref rid="ece35849-bib-0040" ref-type="ref">1988</xref>; Peet, <xref rid="ece35849-bib-0049" ref-type="ref">1974</xref>).</p><p>The beta diversity decomposition method was based on the S&#x000f8;rensen index (<italic>&#x003b2;</italic>
+<sub>sor</sub>), with its spatial turnover component (<italic>&#x003b2;</italic>
+<sub>sim</sub>) and nestedness component (<italic>&#x003b2;</italic>
+<sub>sne</sub>) (Baselga, <xref rid="ece35849-bib-0004" ref-type="ref">2010</xref>). The decomposition methods are shown as follows:<disp-formula id="ece35849-disp-0001"><label>(1)</label><mml:math id="nlm-math-1"><mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:mrow><mml:msub><mml:mi>&#x003b2;</mml:mi><mml:mtext>sor</mml:mtext></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>b</mml:mi><mml:mo>+</mml:mo><mml:mi>c</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:mi>a</mml:mi><mml:mo>+</mml:mo><mml:mi>b</mml:mi><mml:mo>+</mml:mo><mml:mi>c</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:msub><mml:mi>&#x003b2;</mml:mi><mml:mtext>sim</mml:mtext></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mo movablelimits="true">min</mml:mo><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mi>b</mml:mi><mml:mo>,</mml:mo><mml:mi>c</mml:mi></mml:mrow></mml:mfenced></mml:mrow><mml:mrow><mml:mi>a</mml:mi><mml:mo>+</mml:mo><mml:mo movablelimits="true">min</mml:mo><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mi>b</mml:mi><mml:mo>,</mml:mo><mml:mi>c</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mfrac></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:msub><mml:mi>&#x003b2;</mml:mi><mml:mtext>sne</mml:mtext></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mo stretchy="false">|</mml:mo><mml:mrow><mml:mi>b</mml:mi><mml:mo>-</mml:mo><mml:mi>c</mml:mi></mml:mrow><mml:mo stretchy="false">|</mml:mo></mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:mi>a</mml:mi><mml:mo>+</mml:mo><mml:mi>b</mml:mi><mml:mo>+</mml:mo><mml:mi>c</mml:mi></mml:mrow></mml:mfrac><mml:mo>&#x000d7;</mml:mo><mml:mfrac><mml:mi>a</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mo>+</mml:mo><mml:mo movablelimits="true">min</mml:mo><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mi>b</mml:mi><mml:mo>,</mml:mo><mml:mi>c</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mfrac></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd/></mml:mtr></mml:mtable></mml:mrow></mml:math></disp-formula>where <italic>a</italic> is the number of common freshwater mussels among two study sections and <italic>b</italic> and <italic>c</italic> are the number of species present in only the a and b study sections, respectively.</p><p>Mantel tests (Legendre &#x00026; Legendre, <xref rid="ece35849-bib-0030" ref-type="ref">2012</xref>) with 9,999 permutations (Spearman's method) were used to analyze the correlations of pairwise composition dissimilarity, spatial turnover, nestedness, density, biomass, and species number matrices and habitat characteristic matrices. R 3.2.0 (R Development Core Team, <xref rid="ece35849-bib-0050" ref-type="ref">2014</xref>) was used to perform all beta diversity analyses based on the BETAPART (Baselga &#x00026; Orme, <xref rid="ece35849-bib-0005" ref-type="ref">2012</xref>) and VEGAN (Oksanen et al., <xref rid="ece35849-bib-0047" ref-type="ref">2015</xref>) packages.</p><p>One&#x02010;way analysis of variance (ANOVA) was used to detect differences in the density, biomass, and habitat characteristics of freshwater mussels in different areas based on SPSS. 22.0. Multidimensional scaling (MDS) was used to visualize changes in the assemblage structure of freshwater mussels based on PRIMER 6 (Clarke &#x00026; Gorley, <xref rid="ece35849-bib-0013" ref-type="ref">2006</xref>).</p><p>Redundancy analysis (RDA) was used with 499 Monte Carlo permutations to evaluate variations in the assemblage composition, density, and biomass of freshwater mussels in relation to habitat characteristics based on CANOCO 4.5 (ter Braak &#x00026; Verdonschot, <xref rid="ece35849-bib-0061" ref-type="ref">1995</xref>). All assemblage composition, density, and biomass of freshwater mussels and habitat characteristics were log10(<italic>X</italic>&#x000a0;+&#x000a0;1)&#x02010;transformed to improve their normality before data analysis (ter Braak &#x00026; Verdonschot, <xref rid="ece35849-bib-0061" ref-type="ref">1995</xref>).</p></sec></sec><sec sec-type="results" id="ece35849-sec-0008"><label>3</label><title>RESULTS</title><sec id="ece35849-sec-0009"><label>3.1</label><title>Composition of freshwater mussel species</title><p>The number of freshwater mussels in the current period (2018; 29 species) was lower than it was in the historical period (1965&#x02013;2013; 43 species; Tables <xref rid="ece35849-tbl-0001" ref-type="table">1</xref> and <xref rid="ece35849-sup-0002" ref-type="supplementary-material">S1</xref>). Unionidae was the most common family, accounting for 93.1% (27) in the total number of species (Table <xref rid="ece35849-tbl-0001" ref-type="table">1</xref>). Fourteen native species were not recorded in the current period (Table <xref rid="ece35849-tbl-0001" ref-type="table">1</xref>). Four freshwater mussel species (<italic>Aculamprotula scripta</italic> (Heude, 1875), <italic>Aculamprotula tortuosa</italic> (Lea, 1865), <italic>Gibbosula polysticta</italic> (Heude, 1877), and <italic>Gibbosula rochechouartii</italic> (Heude, 1875)) have been formally assessed using IUCN criteria, and their global status is currently listed as vulnerable species (IUCN, <xref rid="ece35849-bib-0025" ref-type="ref">2019</xref>; Table <xref rid="ece35849-sup-0002" ref-type="supplementary-material">S1</xref>). These vulnerable species mainly presented in the MT and DR sections (Tables <xref rid="ece35849-tbl-0001" ref-type="table">1</xref> and <xref rid="ece35849-sup-0002" ref-type="supplementary-material">S1</xref>; Figure <xref rid="ece35849-fig-0002" ref-type="fig">2</xref>). Significant spatial changes were found among the number of freshwater mussel species in the current period (ANOVA, <italic>F<sub>df</sub></italic>
+<sub>1,</sub>
+<italic><sub>df</sub></italic>
+<sub>2</sub>&#x000a0;=&#x000a0;3.2, <italic>p</italic>&#x000a0;=&#x000a0;.022; Table <xref rid="ece35849-sup-0003" ref-type="supplementary-material">S2</xref>). The MT had the highest number of native species, followed by the DR, and the number of native species in HH was the lowest (Table <xref rid="ece35849-tbl-0002" ref-type="table">2</xref>). The species accumulation curves for freshwater mussels in the study section were close to asymptotic based on relatively high sampling completeness and estimating Chao I as more than 95% of the study section (Figure <xref rid="ece35849-sup-0001" ref-type="supplementary-material">S1</xref>).</p><table-wrap id="ece35849-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Composition, density, biomass, relative abundance, occurrence rate, and extinction rate of freshwater mussels in the middle and lower reaches of the Xin River Basin</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Unionidae</th><th align="left" valign="top" rowspan="1" colspan="1">Code</th><th align="left" valign="top" rowspan="1" colspan="1">Density (ind/m<sup>2</sup>) (mean&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>)</th><th align="left" valign="top" rowspan="1" colspan="1">Biomass (g/m<sup>2</sup>) (mean&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>)</th><th align="left" valign="top" rowspan="1" colspan="1">Relative abundance (%)</th><th align="left" valign="top" rowspan="1" colspan="1">Occurrence rate (%)</th><th align="left" valign="top" rowspan="1" colspan="1">Extinction rate (%)</th></tr></thead><tbody><tr><td align="left" colspan="7" rowspan="1">Unioninae</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Aculamprotula</italic> Wu et al., 1999</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Aculamprotula scripta</italic> (Heude, 1875)</td><td align="left" rowspan="1" colspan="1">AS</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">6.25</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Aculamprotula tortuosa</italic> (Lea, 1865)</td><td align="left" rowspan="1" colspan="1">ATO</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">3.12</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Aculamprotula tientsinensis</italic> (Crosse &#x00026; Debeaux, 1863)</td><td align="left" rowspan="1" colspan="1">AT</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">3.12</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Acuticosta</italic> Simpson, 1900</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Acuticosta chinensis</italic> (Lea, 1868)</td><td align="left" rowspan="1" colspan="1">AC</td><td align="left" rowspan="1" colspan="1">0.070&#x000a0;&#x000b1;&#x000a0;0.121</td><td align="left" rowspan="1" colspan="1">0.650&#x000a0;&#x000b1;&#x000a0;1.083</td><td align="left" rowspan="1" colspan="1">15.32</td><td align="char" char="." rowspan="1" colspan="1">37.50</td><td align="char" char="." rowspan="1" colspan="1">17.39</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Cuneopsis</italic> Simpson, 1900</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Cuneopsis celtiformis</italic> (Heude, 1874)</td><td align="left" rowspan="1" colspan="1">CC</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">9.38</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Cuneopsis heudei</italic> (Heude, 1874)</td><td align="left" rowspan="1" colspan="1">CH</td><td align="left" rowspan="1" colspan="1">0.007&#x000a0;&#x000b1;&#x000a0;0.016</td><td align="left" rowspan="1" colspan="1">0.139&#x000a0;&#x000b1;&#x000a0;0.341</td><td align="left" rowspan="1" colspan="1">2.42</td><td align="char" char="." rowspan="1" colspan="1">15.62</td><td align="char" char="." rowspan="1" colspan="1">66.67</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Cuneopsis pisciculus</italic> (Heude, 1874)</td><td align="left" rowspan="1" colspan="1">CP</td><td align="left" rowspan="1" colspan="1">0.002&#x000a0;&#x000b1;&#x000a0;0.004</td><td align="left" rowspan="1" colspan="1">0.039&#x000a0;&#x000b1;&#x000a0;0.096</td><td align="left" rowspan="1" colspan="1">0.81</td><td align="char" char="." rowspan="1" colspan="1">18.75</td><td align="char" char="." rowspan="1" colspan="1">85.71</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Lepidodesma</italic> Simpson, 1896</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Lepidodesma languilati</italic> (Heude, 1874)</td><td align="left" rowspan="1" colspan="1">LLA</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">6.25</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Nodularia</italic> Conrad, 1853</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Nodularia douglasiae</italic> (Griffith &#x00026; Pidgeon, 1833)</td><td align="left" rowspan="1" colspan="1">ND</td><td align="left" rowspan="1" colspan="1">0.069&#x000a0;&#x000b1;&#x000a0;0.084</td><td align="left" rowspan="1" colspan="1">0.653&#x000a0;&#x000b1;&#x000a0;0.884</td><td align="left" rowspan="1" colspan="1">21.77</td><td align="char" char="." rowspan="1" colspan="1">75.00</td><td align="char" char="." rowspan="1" colspan="1">41.30</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Schistodesmus</italic> Simpson, 1900</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Schistodesmus lampreyanus</italic> (Baird &#x00026; Adams, 1867)</td><td align="left" rowspan="1" colspan="1">SL</td><td align="left" rowspan="1" colspan="1">0.007&#x000a0;&#x000b1;&#x000a0;0.012</td><td align="left" rowspan="1" colspan="1">0.206&#x000a0;&#x000b1;&#x000a0;0.322</td><td align="left" rowspan="1" colspan="1">3.23</td><td align="char" char="." rowspan="1" colspan="1">18.75</td><td align="char" char="." rowspan="1" colspan="1">33.33</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Schistodesmus spinosus</italic> (Simpson, 1900)</td><td align="left" rowspan="1" colspan="1">SS</td><td align="left" rowspan="1" colspan="1">0.002&#x000a0;&#x000b1;&#x000a0;0.004</td><td align="left" rowspan="1" colspan="1">0.023&#x000a0;&#x000b1;&#x000a0;0.056</td><td align="left" rowspan="1" colspan="1">0.81</td><td align="char" char="." rowspan="1" colspan="1">3.12</td><td align="char" char="." rowspan="1" colspan="1">0</td></tr><tr><td align="left" colspan="7" rowspan="1">Anodontinae</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Anemina</italic> Haas, 1969</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Anemina arcaeformis</italic> (Heude, 1877)</td><td align="left" rowspan="1" colspan="1">AA</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0.81</td><td align="char" char="." rowspan="1" colspan="1">31.25</td><td align="char" char="." rowspan="1" colspan="1">90.91</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Anemina euscaphys</italic> (Heude, 1879)</td><td align="left" rowspan="1" colspan="1">AE</td><td align="left" rowspan="1" colspan="1">0.004&#x000a0;&#x000b1;&#x000a0;0.011</td><td align="left" rowspan="1" colspan="1">0.130&#x000a0;&#x000b1;&#x000a0;0.318</td><td align="left" rowspan="1" colspan="1">2.42</td><td align="char" char="." rowspan="1" colspan="1">6.25</td><td align="char" char="." rowspan="1" colspan="1">40.00</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Anemina fluminea</italic> (Heude, 1877)</td><td align="left" rowspan="1" colspan="1">AF</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">3.12</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Anemina globosula</italic> (Heude, 1878)</td><td align="left" rowspan="1" colspan="1">AG</td><td align="left" rowspan="1" colspan="1">0.001&#x000a0;&#x000b1;&#x000a0;0.004</td><td align="left" rowspan="1" colspan="1">0.078&#x000a0;&#x000b1;&#x000a0;0.190</td><td align="left" rowspan="1" colspan="1">0.81</td><td align="char" char="." rowspan="1" colspan="1">9.38</td><td align="char" char="." rowspan="1" colspan="1">66.67</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Cristaria</italic> Schumacher, 1817</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Cristaria plicata</italic> (Leach, 1815)</td><td align="left" rowspan="1" colspan="1">CP</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">56.25</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Lanceolaria</italic> Conrad, 1853</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Lanceolaria lanceolata</italic> (Lea, 1856)</td><td align="left" rowspan="1" colspan="1">AL</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">15.62</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Lanceolaria gladiola</italic> (Heude, 1877)</td><td align="left" rowspan="1" colspan="1">LGL</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">9.38</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Lanceolaria grayii</italic> (Griffith &#x00026; Pidgeon, 1833)</td><td align="left" rowspan="1" colspan="1">LG</td><td align="left" rowspan="1" colspan="1">0.008&#x000a0;&#x000b1;&#x000a0;0.014</td><td align="left" rowspan="1" colspan="1">0.116&#x000a0;&#x000b1;&#x000a0;0.181</td><td align="left" rowspan="1" colspan="1">1.61</td><td align="char" char="." rowspan="1" colspan="1">37.50</td><td align="char" char="." rowspan="1" colspan="1">83.33</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Lanceolaria triformis</italic> (Heude, 1877)</td><td align="left" rowspan="1" colspan="1">LT</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">9.38</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Sinanodonta</italic> Modell, 1945</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Sinanodonta woodiana</italic> (Lea, 1834)</td><td align="left" rowspan="1" colspan="1">SW</td><td align="left" rowspan="1" colspan="1">0.052&#x000a0;&#x000b1;&#x000a0;0.055</td><td align="left" rowspan="1" colspan="1">1.333&#x000a0;&#x000b1;&#x000a0;1.270</td><td align="left" rowspan="1" colspan="1">9.68</td><td align="char" char="." rowspan="1" colspan="1">59.38</td><td align="char" char="." rowspan="1" colspan="1">42.86</td></tr><tr><td align="left" colspan="7" rowspan="1">Gonideinae</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Lamprotula</italic> Simpson, 1900</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Lamprotula caveata</italic> (Heude, 1877)</td><td align="left" rowspan="1" colspan="1">LC</td><td align="left" rowspan="1" colspan="1">0.194&#x000a0;&#x000b1;&#x000a0;0.308</td><td align="left" rowspan="1" colspan="1">7.553&#x000a0;&#x000b1;&#x000a0;11.409</td><td align="left" rowspan="1" colspan="1">35.48</td><td align="char" char="." rowspan="1" colspan="1">59.38</td><td align="char" char="." rowspan="1" colspan="1">26.67</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Lamprotula leaii</italic> (Griffith &#x00026; Pidgeon, 1833)</td><td align="left" rowspan="1" colspan="1">LL</td><td align="left" rowspan="1" colspan="1">0.019&#x000a0;&#x000b1;&#x000a0;0.046</td><td align="left" rowspan="1" colspan="1">0.406&#x000a0;&#x000b1;&#x000a0;0.995</td><td align="left" rowspan="1" colspan="1">3.23</td><td align="char" char="." rowspan="1" colspan="1">21.88</td><td align="char" char="." rowspan="1" colspan="1">50.00</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Sinohyriopsis</italic> Starobogatov, 1970</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Sinohyriopsis cumingii</italic> (Lea, 1852)</td><td align="left" rowspan="1" colspan="1">SC</td><td align="left" rowspan="1" colspan="1">0.007&#x000a0;&#x000b1;&#x000a0;0.017</td><td align="left" rowspan="1" colspan="1">2.421&#x000a0;&#x000b1;&#x000a0;5.930</td><td align="left" rowspan="1" colspan="1">1.61</td><td align="char" char="." rowspan="1" colspan="1">31.25</td><td align="char" char="." rowspan="1" colspan="1">84.62</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Solenaia</italic> Conrad, 1869</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Solenaia carinata</italic> (Heude,1877)</td><td align="left" rowspan="1" colspan="1">SCA</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">9.38</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Solenaia oleivora</italic> (Heude,1874)</td><td align="left" rowspan="1" colspan="1">SO</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">15.32</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Solenaia rivularis</italic> (Heude,1877)</td><td align="left" rowspan="1" colspan="1">SR</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">9.38</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" colspan="7" rowspan="1">Margaritiferidae</td></tr><tr><td align="left" style="padding-left:10%" colspan="7" rowspan="1">
+<italic>Gibbosula</italic> Simpson, 1900</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Gibbosula polysticta</italic> (Heude, 1877)</td><td align="left" rowspan="1" colspan="1">AP</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">3.12</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">
+<italic>Gibbosula rochechouartii</italic> (Heude, 1875)</td><td align="left" rowspan="1" colspan="1">GR</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">9.38</td><td align="char" char="." rowspan="1" colspan="1">100.00</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35849-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Percentage of freshwater mussels by IUCN category in the middle and lower reaches of the Xin River Basin. XJ: the middle and lower reaches of the Xin River Basin. Other river codes are the same as in Table <xref rid="ece35849-tbl-0002" ref-type="table">2</xref>
+</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14142-g002"/></fig><table-wrap id="ece35849-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Density, biomass, relative abundance, and beta diversity pattern of freshwater mussels in the middle and lower reaches of the Xin River Basin</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Sections</th><th align="left" rowspan="2" valign="bottom" colspan="1">Code</th><th align="left" rowspan="2" valign="bottom" colspan="1">Number of genera</th><th align="left" rowspan="2" valign="bottom" colspan="1">Number of species</th><th align="left" rowspan="2" valign="bottom" colspan="1">Number of native to China</th><th align="left" rowspan="2" valign="bottom" colspan="1">Density (ind/m<sup>2</sup>) (mean&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>)</th><th align="left" rowspan="2" valign="bottom" colspan="1">Biomass (g/m<sup>2</sup>) (mean&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>)</th><th align="left" rowspan="2" valign="bottom" colspan="1">Relative abundance (%)</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Beta diversity</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>&#x003b2;</italic>
+<sub>sor</sub> (mean&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>&#x003b2;</italic>
+<sub>sim</sub> (mean&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>&#x003b2;</italic>
+<sub>sne</sub> (mean&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Main stem of the Xin River</td><td align="left" rowspan="1" colspan="1">MS</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="char" char="." rowspan="1" colspan="1">16</td><td align="char" char="." rowspan="1" colspan="1">9</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.014&#x000a0;&#x000b1;&#x000a0;0.041</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.140&#x000a0;&#x000b1;&#x000a0;0.381</td><td align="char" char="." rowspan="1" colspan="1">11.29</td><td align="left" rowspan="1" colspan="1">0.38&#x000a0;&#x000b1;&#x000a0;0.09</td><td align="left" rowspan="1" colspan="1">0.14&#x000a0;&#x000b1;&#x000a0;0.11</td><td align="left" rowspan="1" colspan="1">0.24&#x000a0;&#x000b1;&#x000a0;0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">Main tributary of the Xin River</td><td align="left" rowspan="1" colspan="1">MT</td><td align="char" char="." rowspan="1" colspan="1">14</td><td align="char" char="." rowspan="1" colspan="1">24</td><td align="char" char="." rowspan="1" colspan="1">16</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.056&#x000a0;&#x000b1;&#x000a0;0.153</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.841&#x000a0;&#x000b1;&#x000a0;5.371</td><td align="char" char="." rowspan="1" colspan="1">72.58</td><td align="left" rowspan="1" colspan="1">0.44&#x000a0;&#x000b1;&#x000a0;0.16</td><td align="left" rowspan="1" colspan="1">0.08&#x000a0;&#x000b1;&#x000a0;0.07</td><td align="left" rowspan="1" colspan="1">0.36&#x000a0;&#x000b1;&#x000a0;0.22</td></tr><tr><td align="left" rowspan="1" colspan="1">Xi River</td><td align="left" rowspan="1" colspan="1">XR</td><td align="char" char="." rowspan="1" colspan="1">7</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.008&#x000a0;&#x000b1;&#x000a0;0.024</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.115&#x000a0;&#x000b1;&#x000a0;0.364</td><td align="char" char="." rowspan="1" colspan="1">5.65</td><td align="left" rowspan="1" colspan="1">0.37&#x000a0;&#x000b1;&#x000a0;0.07</td><td align="left" rowspan="1" colspan="1">0.12&#x000a0;&#x000b1;&#x000a0;0.13</td><td align="left" rowspan="1" colspan="1">0.25&#x000a0;&#x000b1;&#x000a0;0.16</td></tr><tr><td align="left" rowspan="1" colspan="1">Santang River</td><td align="left" rowspan="1" colspan="1">ST</td><td align="char" char="." rowspan="1" colspan="1">6</td><td align="char" char="." rowspan="1" colspan="1">9</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.001&#x000a0;&#x000b1;&#x000a0;0.004</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.024&#x000a0;&#x000b1;&#x000a0;0.133</td><td align="char" char="." rowspan="1" colspan="1">0.81</td><td align="left" rowspan="1" colspan="1">0.39&#x000a0;&#x000b1;&#x000a0;0.13</td><td align="left" rowspan="1" colspan="1">0.13&#x000a0;&#x000b1;&#x000a0;0.09</td><td align="left" rowspan="1" colspan="1">0.26&#x000a0;&#x000b1;&#x000a0;0.14</td></tr><tr><td align="left" rowspan="1" colspan="1">Huhui River</td><td align="left" rowspan="1" colspan="1">HH</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">6</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.001&#x000a0;&#x000b1;&#x000a0;0.003</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.056&#x000a0;&#x000b1;&#x000a0;0.308</td><td align="char" char="." rowspan="1" colspan="1">0.81</td><td align="left" rowspan="1" colspan="1">0.48&#x000a0;&#x000b1;&#x000a0;0.16</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0.48&#x000a0;&#x000b1;&#x000a0;0.16</td></tr><tr><td align="left" rowspan="1" colspan="1">Dongda River</td><td align="left" rowspan="1" colspan="1">DR</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="char" char="." rowspan="1" colspan="1">22</td><td align="char" char="." rowspan="1" colspan="1">14</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.009&#x000a0;&#x000b1;&#x000a0;0.050</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.573&#x000a0;&#x000b1;&#x000a0;3.138</td><td align="char" char="." rowspan="1" colspan="1">8.87</td><td align="left" rowspan="1" colspan="1">0.40&#x000a0;&#x000b1;&#x000a0;0.16</td><td align="left" rowspan="1" colspan="1">0.12&#x000a0;&#x000b1;&#x000a0;0.08</td><td align="left" rowspan="1" colspan="1">0.28&#x000a0;&#x000b1;&#x000a0;0.20</td></tr><tr><td align="left" colspan="2" rowspan="1">Total</td><td align="char" char="." rowspan="1" colspan="1">14</td><td align="char" char="." rowspan="1" colspan="1">29</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.015&#x000a0;&#x000b1;&#x000a0;0.039</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.458&#x000a0;&#x000b1;&#x000a0;1.432</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">0.61</td><td align="left" rowspan="1" colspan="1">0.24</td><td align="left" rowspan="1" colspan="1">0.38</td></tr><tr><td align="left" colspan="2" rowspan="1">Historical period</td><td align="char" char="." rowspan="1" colspan="1">16</td><td align="char" char="." rowspan="1" colspan="1">43</td><td align="char" char="." rowspan="1" colspan="1">35</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.090&#x000a0;&#x000b1;&#x000a0;0.080</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.531&#x000a0;&#x000b1;&#x000a0;1.495</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece35849-sec-0010"><label>3.2</label><title>Quantitative assessment of freshwater mussels</title><p>The occurrence rate of freshwater mussels was 87.5% in the study area. The occurrence rates of <italic>Nodularia douglasiae</italic> (Griffith &#x00026; Pidgeon, 1833), <italic>Lamprotula caveata</italic> (Heude, 1877), <italic>Sinanodonta woodiana</italic> (Lea, 1834), and <italic>Cristaria plicata</italic> (Leach, 1815) were higher than they were for other mussels species, which indicated they were widespread species in this river (Table <xref rid="ece35849-tbl-0001" ref-type="table">1</xref>). The relative abundances of <italic>Lamprotula caveata</italic> (35.48%), <italic>Nodularia douglasiae</italic> (21.77%), and <italic>Acuticosta chinensis</italic> (Lea, 1868; 15.32%) were higher than they were for other mussel species, which indicated they were dominant species in the study area (Table <xref rid="ece35849-tbl-0001" ref-type="table">1</xref>). However, 15 freshwater mussels were empty shells, and the extinction rates of only seven freshwater mussels were lower than 50% (Table <xref rid="ece35849-tbl-0001" ref-type="table">1</xref>).</p><p>Significant differences were found among the density of 29 freshwater mussels (ANOVA, <italic>F<sub>df</sub></italic>
+<sub>1,</sub>
+<italic><sub>df</sub></italic>
+<sub>2</sub>&#x000a0;=&#x000a0;3.832, <italic>p</italic>&#x000a0;=&#x000a0;.010; Table <xref rid="ece35849-sup-0003" ref-type="supplementary-material">S2</xref>). The mean density in <italic>Lamprotula caveata</italic> was the highest (0.194&#x000a0;ind./m<sup>2</sup>), followed by <italic>Acuticosta chinensis</italic> (0.070&#x000a0;ind./m<sup>2</sup>) and <italic>Nodularia douglasiae</italic> (0.069&#x000a0;ind./m<sup>2</sup>) in the study section (Table <xref rid="ece35849-tbl-0001" ref-type="table">1</xref>). The mean biomass in <italic>Lamprotula caveata</italic> (7.553&#x000a0;g/m<sup>2</sup>), <italic>Sinohyriopsis cumingii</italic> (Lea, 1852; 2.421&#x000a0;g/m<sup>2</sup>), and <italic>Sinanodonta woodiana</italic> (1.333&#x000a0;g/m<sup>2</sup>) was higher than it was in other freshwater mussels (Table <xref rid="ece35849-tbl-0001" ref-type="table">1</xref>).</p><p>The total density and biomass of freshwater mussels in the current period were 0.015&#x000a0;ind./m<sup>2</sup> and 0.458&#x000a0;mg/L in the study area, respectively, which were lower than they were in the historical period (0.090&#x000a0;ind./m<sup>2</sup> and 2.531&#x000a0;mg/L, respectively; Table <xref rid="ece35849-tbl-0002" ref-type="table">2</xref>). Significant spatial changes were found among the density of freshwater mussels in the current period (ANOVA, <italic>F<sub>df</sub></italic>
+<sub>1,</sub>
+<italic><sub>df</sub></italic>
+<sub>2</sub>&#x000a0;=&#x000a0;3.832, <italic>p</italic>&#x000a0;=&#x000a0;.010; Table <xref rid="ece35849-sup-0003" ref-type="supplementary-material">S2</xref>). The MT had the greatest density and biomass, followed by the MS, and the density and biomass in the HH and ST were the lowest (Table <xref rid="ece35849-tbl-0002" ref-type="table">2</xref>).</p></sec><sec id="ece35849-sec-0011"><label>3.3</label><title>Diversity of freshwater mussels</title><p>The diversity and abundance in the MT were higher than they were in other sections (Figure <xref rid="ece35849-fig-0003" ref-type="fig">3</xref>). The freshwater mussel composition dissimilarity had a total value of 0.61 (Table <xref rid="ece35849-tbl-0002" ref-type="table">2</xref>). The composition dissimilarity in the MT and HH (0.44 and 0.48) was higher than they were in other sections (Table <xref rid="ece35849-tbl-0002" ref-type="table">2</xref>). The nestedness component was greater than the spatial turnover component in each section (Table <xref rid="ece35849-tbl-0002" ref-type="table">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35849-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Spatial change in the diversity of freshwater mussels in the middle and lower reaches of the Xin River Basin. Diversity indices were not included ST, HH, DD, because they were not enough data. XJ: the middle and lower reaches of the Xin River Basin. Other river codes are the same as in Table <xref rid="ece35849-tbl-0002" ref-type="table">2</xref>
+</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14142-g003"/></fig></sec><sec id="ece35849-sec-0012"><label>3.4</label><title>Association of the assemblage structure of freshwater mussels and habitat characteristics</title><p>The assemblage structure of freshwater mussels formed two groups, MS and MT, and the other group formed the second cluster (Figure <xref rid="ece35849-fig-0004" ref-type="fig">4</xref>). Significant differences were detected in the turbidity (ANOVA, <italic>F<sub>df</sub></italic>
+<sub>1,</sub>
+<italic><sub>df</sub></italic>
+<sub>2</sub>&#x000a0;=&#x000a0;2.300, <italic>p</italic>&#x000a0;=&#x000a0;.038), water temperature (ANOVA, <italic>F<sub>df</sub></italic>
+<sub>1,</sub>
+<italic><sub>df</sub></italic>
+<sub>2</sub>&#x000a0;=&#x000a0;3.670, <italic>p</italic>&#x000a0;=&#x000a0;.012), salinity (ANOVA, <italic>F<sub>df</sub></italic>
+<sub>1,</sub>
+<italic><sub>df</sub></italic>
+<sub>2</sub>&#x000a0;=&#x000a0;13.176, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), electrical conductivity(ANOVA, <italic>F<sub>df</sub></italic>
+<sub>1,</sub>
+<italic><sub>df</sub></italic>
+<sub>2</sub>&#x000a0;=&#x000a0;12.667, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), pH (ANOVA, <italic>F<sub>df</sub></italic>
+<sub>1,</sub>
+<italic><sub>df</sub></italic>
+<sub>2</sub>&#x000a0;=&#x000a0;6.534, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), and stone (ANOVA, <italic>F<sub>df</sub></italic>
+<sub>1,</sub>
+<italic><sub>df</sub></italic>
+<sub>2</sub>&#x000a0;=&#x000a0;3.156, <italic>p</italic>&#x000a0;=&#x000a0;.023) in the study section (Tables <xref rid="ece35849-tbl-0003" ref-type="table">3</xref> and <xref rid="ece35849-sup-0003" ref-type="supplementary-material">S2</xref>). Redundancy analysis (RDA) showed that the assemblage structure of freshwater mussels was correlated with habitat characteristics (Figure <xref rid="ece35849-fig-0005" ref-type="fig">5</xref>). Nine freshwater mussels were correlated with turbidity, and 12 freshwater mussels were correlated with substrate characteristics (Figure <xref rid="ece35849-fig-0005" ref-type="fig">5</xref>). Eight freshwater mussels were correlated with physicochemical parameters (Figure <xref rid="ece35849-fig-0005" ref-type="fig">5</xref>). In addition, dissolved oxygen was significantly associated with the species number and beta diversity pattern, and PM was significantly associated with the density and relative abundance of freshwater mussels, based on the Mantel test (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05; Table <xref rid="ece35849-tbl-0004" ref-type="table">4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35849-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Metric multidimensional scaling (MDS) ordination of the freshwater mussel assemblage structure in the middle and lower reaches of the Xin River Basin. River codes are the same as in Table <xref rid="ece35849-tbl-0002" ref-type="table">2</xref>
+</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-14142-g004"/></fig><table-wrap id="ece35849-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Mean&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic> values of physicochemical parameter and substrate characteristics of freshwater mussels in different areas of the middle and lower reaches of the Xin River Basin</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Variables</th><th align="left" valign="top" rowspan="1" colspan="1">Code</th><th align="left" valign="top" rowspan="1" colspan="1">MS</th><th align="left" valign="top" rowspan="1" colspan="1">MT</th><th align="left" valign="top" rowspan="1" colspan="1">XR</th><th align="left" valign="top" rowspan="1" colspan="1">ST</th><th align="left" valign="top" rowspan="1" colspan="1">HH</th><th align="left" valign="top" rowspan="1" colspan="1">DR</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Turbidity</td><td align="left" rowspan="1" colspan="1">TURB (NTU<sup>+</sup>)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">9.86&#x000a0;&#x000b1;&#x000a0;3.79</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">10.68&#x000a0;&#x000b1;&#x000a0;20.77</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">9.15&#x000a0;&#x000b1;&#x000a0;8.56</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.14&#x000a0;&#x000b1;&#x000a0;1.11</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">6.02&#x000a0;&#x000b1;&#x000a0;3.60</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.35&#x000a0;&#x000b1;&#x000a0;1.37</td></tr><tr><td align="left" rowspan="1" colspan="1">Water temperature</td><td align="left" rowspan="1" colspan="1">
+<italic>T</italic> (&#x02103;)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">22.27&#x000a0;&#x000b1;&#x000a0;2.11</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">25.30&#x000a0;&#x000b1;&#x000a0;1.11</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">19.70&#x000a0;&#x000b1;&#x000a0;4.03</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">24.88&#x000a0;&#x000b1;&#x000a0;2.19</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">21.36&#x000a0;&#x000b1;&#x000a0;4.27</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">25.91&#x000a0;&#x000b1;&#x000a0;2.31</td></tr><tr><td align="left" rowspan="1" colspan="1">Salinity</td><td align="left" rowspan="1" colspan="1">Sal (mg/L)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.05&#x000a0;&#x000b1;&#x000a0;0.01</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.05&#x000a0;&#x000b1;&#x000a0;0.01</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.06&#x000a0;&#x000b1;&#x000a0;0.01</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.04&#x000a0;&#x000b1;&#x000a0;0.01</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.08&#x000a0;&#x000b1;&#x000a0;0.01</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.05&#x000a0;&#x000b1;&#x000a0;0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Dissolved oxygen</td><td align="left" rowspan="1" colspan="1">DO (mg/L)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.20&#x000a0;&#x000b1;&#x000a0;0.70</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.19&#x000a0;&#x000b1;&#x000a0;0.54</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.46&#x000a0;&#x000b1;&#x000a0;2.04</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.97&#x000a0;&#x000b1;&#x000a0;0.83</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">9.34&#x000a0;&#x000b1;&#x000a0;1.15</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.77&#x000a0;&#x000b1;&#x000a0;0.48</td></tr><tr><td align="left" rowspan="1" colspan="1">Electrical conductivity</td><td align="left" rowspan="1" colspan="1">EC (&#x003bc;S/cm)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">170.29&#x000a0;&#x000b1;&#x000a0;21.88</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">148.00&#x000a0;&#x000b1;&#x000a0;14.36</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">192.00&#x000a0;&#x000b1;&#x000a0;36.77</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">114.80&#x000a0;&#x000b1;&#x000a0;21.55</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">233.67&#x000a0;&#x000b1;&#x000a0;46.54</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">157.25&#x000a0;&#x000b1;&#x000a0;4.65</td></tr><tr><td align="left" rowspan="1" colspan="1">Chlorophyll&#x02010;<italic>a</italic>
+</td><td align="left" rowspan="1" colspan="1">Chl&#x02010;<italic>a</italic> (&#x003bc;g/L)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">11.72&#x000a0;&#x000b1;&#x000a0;19.86</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">18.05&#x000a0;&#x000b1;&#x000a0;26.86</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.43&#x000a0;&#x000b1;&#x000a0;14.16</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">97.82&#x000a0;&#x000b1;&#x000a0;138.01</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">102.38&#x000a0;&#x000b1;&#x000a0;127.44</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">37.55&#x000a0;&#x000b1;&#x000a0;53.90</td></tr><tr><td align="left" rowspan="1" colspan="1">Hydrogen ion concentration</td><td align="left" rowspan="1" colspan="1">pH</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.56&#x000a0;&#x000b1;&#x000a0;0.31</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">6.97&#x000a0;&#x000b1;&#x000a0;0.18</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">6.96&#x000a0;&#x000b1;&#x000a0;0.04</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.20&#x000a0;&#x000b1;&#x000a0;0.14</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.47&#x000a0;&#x000b1;&#x000a0;0.43</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">6.87&#x000a0;&#x000b1;&#x000a0;0.09</td></tr><tr><td align="left" rowspan="1" colspan="1">% of mud</td><td align="left" rowspan="1" colspan="1">PM</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.062&#x000a0;&#x000b1;&#x000a0;0.063</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.166&#x000a0;&#x000b1;&#x000a0;0.181</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.057&#x000a0;&#x000b1;&#x000a0;0.048</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.198&#x000a0;&#x000b1;&#x000a0;0.264</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.059&#x000a0;&#x000b1;&#x000a0;0.065</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.346&#x000a0;&#x000b1;&#x000a0;0.232</td></tr><tr><td align="left" rowspan="1" colspan="1">% of sand</td><td align="left" rowspan="1" colspan="1">PS</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.440&#x000a0;&#x000b1;&#x000a0;0.214</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.608&#x000a0;&#x000b1;&#x000a0;0.240</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.664&#x000a0;&#x000b1;&#x000a0;0.257</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.733&#x000a0;&#x000b1;&#x000a0;0.288</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.613&#x000a0;&#x000b1;&#x000a0;0.246</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.378&#x000a0;&#x000b1;&#x000a0;0.117</td></tr><tr><td align="left" rowspan="1" colspan="1">% of gravel</td><td align="left" rowspan="1" colspan="1">PG</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.051&#x000a0;&#x000b1;&#x000a0;0.034</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.080&#x000a0;&#x000b1;&#x000a0;0.063</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.028&#x000a0;&#x000b1;&#x000a0;0.003</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.037&#x000a0;&#x000b1;&#x000a0;0.044</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.068&#x000a0;&#x000b1;&#x000a0;0.044</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.100&#x000a0;&#x000b1;&#x000a0;0.034</td></tr><tr><td align="left" rowspan="1" colspan="1">% of stone</td><td align="left" rowspan="1" colspan="1">PST</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.447&#x000a0;&#x000b1;&#x000a0;0.284</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.145&#x000a0;&#x000b1;&#x000a0;0.140</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.251&#x000a0;&#x000b1;&#x000a0;0.302</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.031&#x000a0;&#x000b1;&#x000a0;0.059</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.260&#x000a0;&#x000b1;&#x000a0;0.217</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.176&#x000a0;&#x000b1;&#x000a0;0.134</td></tr></tbody></table><table-wrap-foot id="ece35849-ntgp-0002"><title>Note</title><fn id="ece35849-note-0002"><p>River codes are the same as in Table <xref rid="ece35849-tbl-0002" ref-type="table">2</xref>.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35849-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Ordination biplot of assemblage structure of freshwater mussels and habitat characteristics obtained by RDA across sampling sites in the middle and lower reaches of the Xin River Basin. Habitat characteristic codes are the same as in Table <xref rid="ece35849-tbl-0003" ref-type="table">3</xref>. Species codes are the same as in Table <xref rid="ece35849-tbl-0001" ref-type="table">1</xref>
+</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-9-14142-g005"/></fig><table-wrap id="ece35849-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Effects of physicochemical parameter and substrate characteristics on pairwise species number, density, biomass, relative abundance, compositional dissimilarity, spatial turnover, and nestedness components obtained from BAS frameworks in the middle and lower reaches of the Xin River Basin, China</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Variables</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>N</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>B</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>D</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P<sub>i</sub></italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x003b2;</italic>
+<sub>sor</sub>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x003b2;</italic>
+<sub>sim</sub>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x003b2;</italic>
+<sub>sne</sub>
+</th></tr></thead><tbody><tr><td align="left" colspan="8" rowspan="1">
+<italic>T</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>r</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.08</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.03</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.20</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.16</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.04</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.16</td><td align="char" char="." rowspan="1" colspan="1">.06</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.26</td><td align="char" char="." rowspan="1" colspan="1">.59</td><td align="char" char="." rowspan="1" colspan="1">.15</td><td align="char" char="." rowspan="1" colspan="1">.30</td><td align="char" char="." rowspan="1" colspan="1">.50</td><td align="char" char="." rowspan="1" colspan="1">.24</td><td align="char" char="." rowspan="1" colspan="1">.37</td></tr><tr><td align="left" colspan="8" rowspan="1">TURB</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>r</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.03</td><td align="char" char="." rowspan="1" colspan="1">.16</td><td align="char" char="." rowspan="1" colspan="1">.32</td><td align="char" char="." rowspan="1" colspan="1">.29</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.11</td><td align="char" char="." rowspan="1" colspan="1">.03</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.10</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.59</td><td align="char" char="." rowspan="1" colspan="1">.35</td><td align="char" char="." rowspan="1" colspan="1">.12</td><td align="char" char="." rowspan="1" colspan="1">.21</td><td align="char" char="." rowspan="1" colspan="1">.41</td><td align="char" char="." rowspan="1" colspan="1">.42</td><td align="char" char="." rowspan="1" colspan="1">.39</td></tr><tr><td align="left" colspan="8" rowspan="1">Sal</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>r</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.19</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.32</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.28</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.28</td><td align="char" char="." rowspan="1" colspan="1">.38</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.58</td><td align="char" char="." rowspan="1" colspan="1">.57</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.29</td><td align="char" char="." rowspan="1" colspan="1">.20</td><td align="char" char="." rowspan="1" colspan="1">.39</td><td align="char" char="." rowspan="1" colspan="1">.44</td><td align="char" char="." rowspan="1" colspan="1">.06</td><td align="char" char="." rowspan="1" colspan="1">.15</td><td align="char" char="." rowspan="1" colspan="1">.09</td></tr><tr><td align="left" colspan="8" rowspan="1">DO</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>r</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.51*</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.15</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.18</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.20</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.69**</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.36</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.68**</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.03</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">.49</td><td align="char" char="." rowspan="1" colspan="1">.46</td><td align="char" char="." rowspan="1" colspan="1">.49</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.01</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">.15</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.01</bold>
+</td></tr><tr><td align="left" colspan="8" rowspan="1">EC</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>r</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.13</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.25</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.24</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.23</td><td align="char" char="." rowspan="1" colspan="1">.24</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.49</td><td align="char" char="." rowspan="1" colspan="1">.44</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.33</td><td align="char" char="." rowspan="1" colspan="1">.42</td><td align="char" char="." rowspan="1" colspan="1">.44</td><td align="char" char="." rowspan="1" colspan="1">.47</td><td align="char" char="." rowspan="1" colspan="1">.15</td><td align="char" char="." rowspan="1" colspan="1">.10</td><td align="char" char="." rowspan="1" colspan="1">.10</td></tr><tr><td align="left" colspan="8" rowspan="1">Chl&#x02010;<italic>a</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>r</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.21</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.16</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.04</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.10</td><td align="char" char="." rowspan="1" colspan="1">.37</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.22</td><td align="char" char="." rowspan="1" colspan="1">.38</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.16</td><td align="char" char="." rowspan="1" colspan="1">.37</td><td align="char" char="." rowspan="1" colspan="1">.53</td><td align="char" char="." rowspan="1" colspan="1">.62</td><td align="char" char="." rowspan="1" colspan="1">.14</td><td align="char" char="." rowspan="1" colspan="1">.14</td><td align="char" char="." rowspan="1" colspan="1">.10</td></tr><tr><td align="left" colspan="8" rowspan="1">pH</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>r</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.03</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.13</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.22</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.21</td><td align="char" char="." rowspan="1" colspan="1">.10</td><td align="char" char="." rowspan="1" colspan="1">.17</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.02</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.61</td><td align="char" char="." rowspan="1" colspan="1">.42</td><td align="char" char="." rowspan="1" colspan="1">.17</td><td align="char" char="." rowspan="1" colspan="1">.20</td><td align="char" char="." rowspan="1" colspan="1">.25</td><td align="char" char="." rowspan="1" colspan="1">.24</td><td align="char" char="." rowspan="1" colspan="1">.50</td></tr><tr><td align="left" colspan="8" rowspan="1">PM</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>r</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.01</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.04</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;.30**</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;.22*</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.15</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.02</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.10</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.45</td><td align="char" char="." rowspan="1" colspan="1">.77</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.01</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>.03</bold>
+</td><td align="char" char="." rowspan="1" colspan="1">.41</td><td align="char" char="." rowspan="1" colspan="1">.34</td><td align="char" char="." rowspan="1" colspan="1">.54</td></tr><tr><td align="left" colspan="8" rowspan="1">PS</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>r</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.07</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.27</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.31</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.31</td><td align="char" char="." rowspan="1" colspan="1">.05</td><td align="char" char="." rowspan="1" colspan="1">.41</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.18</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.42</td><td align="char" char="." rowspan="1" colspan="1">.31</td><td align="char" char="." rowspan="1" colspan="1">.31</td><td align="char" char="." rowspan="1" colspan="1">.26</td><td align="char" char="." rowspan="1" colspan="1">.35</td><td align="char" char="." rowspan="1" colspan="1">.09</td><td align="char" char="." rowspan="1" colspan="1">.30</td></tr><tr><td align="left" colspan="8" rowspan="1">PG</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>r</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.22</td><td align="char" char="." rowspan="1" colspan="1">.09</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.17</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.12</td><td align="char" char="." rowspan="1" colspan="1">.05</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.01</td><td align="char" char="." rowspan="1" colspan="1">.04</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.15</td><td align="char" char="." rowspan="1" colspan="1">.38</td><td align="char" char="." rowspan="1" colspan="1">.34</td><td align="char" char="." rowspan="1" colspan="1">.37</td><td align="char" char="." rowspan="1" colspan="1">.33</td><td align="char" char="." rowspan="1" colspan="1">.49</td><td align="char" char="." rowspan="1" colspan="1">.40</td></tr><tr><td align="left" colspan="8" rowspan="1">PST</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>r</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.31</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.23</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.21</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.22</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;.30</td><td align="char" char="." rowspan="1" colspan="1">.27</td><td align="char" char="." rowspan="1" colspan="1">.35</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">.19</td><td align="char" char="." rowspan="1" colspan="1">.49</td><td align="char" char="." rowspan="1" colspan="1">.58</td><td align="char" char="." rowspan="1" colspan="1">.59</td><td align="char" char="." rowspan="1" colspan="1">.09</td><td align="char" char="." rowspan="1" colspan="1">.25</td><td align="char" char="." rowspan="1" colspan="1">.16</td></tr></tbody></table><table-wrap-foot id="ece35849-ntgp-0003"><title>Note</title><fn id="ece35849-note-0003"><p>Significant results are in bold (*<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05; **<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01). <italic>N</italic>, number of species; <italic>B</italic>, biomass; <italic>D</italic>: density; <italic>P<sub>i</sub></italic>, relative abundance; <italic>&#x003b2;</italic>
+<sub>sor</sub>, compositional dissimilarity; <italic>&#x003b2;</italic>
+<sub>sim</sub>, spatial turnover component; <italic>&#x003b2;</italic>
+<sub>sne</sub>, nestedness component. Habitat characteristic codes are the same as in Table <xref rid="ece35849-tbl-0003" ref-type="table">3</xref>.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></sec><sec sec-type="discussion" id="ece35849-sec-0013"><label>4</label><title>DISCUSSION</title><sec id="ece35849-sec-0014"><label>4.1</label><title>Changes in the diversity of freshwater mussels</title><p>Poyang Lake is a biodiversity hotspot for mollusks in East Asia with at least 155 species known, of which more than 50% were native species of bivalve and gastropod (Lin, <xref rid="ece35849-bib-0033" ref-type="ref">1962</xref>; Liu et al., <xref rid="ece35849-bib-0036" ref-type="ref">1979</xref>; Tchang &#x00026; Li, <xref rid="ece35849-bib-0060" ref-type="ref">1965</xref>; Wu et al., <xref rid="ece35849-bib-0073" ref-type="ref">1994</xref>; Xiong et al., <xref rid="ece35849-bib-0075" ref-type="ref">2013</xref>; Xu, <xref rid="ece35849-bib-0076" ref-type="ref">2013</xref>). The Xin River Basin has at least 72 known mollusk species, including 24 gastropod species and 48 bivalve species (Zhang et al., <xref rid="ece35849-bib-0078" ref-type="ref">2013</xref>). However, due to disturbance from natural and human factors, populations of many species have been extirpated or are rapidly decreasing in these areas (Shu et al., <xref rid="ece35849-bib-0054" ref-type="ref">2009</xref>; Wu, Liang, Wang, Xie, &#x00026; Ouyang, <xref rid="ece35849-bib-0072" ref-type="ref">2000</xref>; Xiong et al., <xref rid="ece35849-bib-0075" ref-type="ref">2013</xref>). In this study, compared to the historical period, the number of species, density, and biomass of freshwater mussels in the current period decreased 32.6%, 83%, and 82%, respectively (Tchang &#x00026; Li, <xref rid="ece35849-bib-0060" ref-type="ref">1965</xref>; Wu et al., <xref rid="ece35849-bib-0073" ref-type="ref">1994</xref>; Xiong et al., <xref rid="ece35849-bib-0075" ref-type="ref">2013</xref>; Xu, <xref rid="ece35849-bib-0076" ref-type="ref">2013</xref>; Zhang et al., <xref rid="ece35849-bib-0078" ref-type="ref">2013</xref>). These results indicated that populations of freshwater mussel species have been declining in the current period. The declining freshwater mussel diversity may be attributed to dam constructions, sand dredging, land use, and water pollution (Xiong et al., <xref rid="ece35849-bib-0075" ref-type="ref">2013</xref>; Zhang et al., <xref rid="ece35849-bib-0078" ref-type="ref">2013</xref>). Dam constructions and sand dredging could alter river morphology and destabilize substrates, resulting in declines in some freshwater mussels (Downward &#x00026; Skinner, <xref rid="ece35849-bib-0015" ref-type="ref">2005</xref>; Hartfield, <xref rid="ece35849-bib-0021" ref-type="ref">2010</xref>), and also may block host fish from distributing mussels (Lydeard et al., <xref rid="ece35849-bib-0039" ref-type="ref">2004</xref>; Williams, Bogan, &#x00026; Garner, <xref rid="ece35849-bib-0071" ref-type="ref">2008</xref>). Moreover, land use in different regions differs in intensity. Libois and Hallet&#x02010;Libois (<xref rid="ece35849-bib-0032" ref-type="ref">1987</xref>) revealed that the high proportion of agriculture and urbanization in the lower reaches in Belgium will lead to a decrease in the freshwater mussel population.</p></sec><sec id="ece35849-sec-0015"><label>4.2</label><title>Key factors for determining spatial heterogeneity of freshwater mussel community</title><p>Habitat characteristics are important for determining freshwater mussel assemblage structure (Vaughn, <xref rid="ece35849-bib-0065" ref-type="ref">2018</xref>). The spatial difference in the ecological environment and the complexity of the habitat determine the assemblage structure of freshwater mussels (Haag, <xref rid="ece35849-bib-0019" ref-type="ref">2012</xref>; Vaughn, <xref rid="ece35849-bib-0064" ref-type="ref">2012</xref>). This study revealed that the assemblage structure of freshwater mussels in the study section showed spatial differences. Many studies showed that the diversity of bivalves in the lower section was higher than it was in the upper and middle sections of the river (Daniel &#x00026; Brown, <xref rid="ece35849-bib-0014" ref-type="ref">2014</xref>; Rahel &#x00026; Hubert, <xref rid="ece35849-bib-0051" ref-type="ref">1991</xref>). For example, Xiao et al. (<xref rid="ece35849-bib-0074" ref-type="ref">2013</xref>) report that the number of bivalve species in the Ganjiang River increases along the upper reaches of the river to the estuary. Similarly, this study also showed a consistent pattern, which may be attributed to complex habitat heterogeneity in the lower area of the Xin River Basin.</p><p>The dispersal activity of freshwater mussels was relatively weak (Vaughn, <xref rid="ece35849-bib-0064" ref-type="ref">2012</xref>). Most of them are sensitive to the environment, and environmental change affects their assemblage composition and distribution. Species with stronger adaptability to environmental change may become dominant in this area (Bogan, <xref rid="ece35849-bib-0008" ref-type="ref">2008</xref>; Bogan &#x00026; Roe, <xref rid="ece35849-bib-0009" ref-type="ref">2016</xref>). Some studies have also shown that habitat characteristics, such as substrate and environmental factors, have significantly affected the distribution of freshwater mussels (Akiyama &#x00026; Maruyama, <xref rid="ece35849-bib-0002" ref-type="ref">2010</xref>; Campbell &#x00026; Prestegaard, <xref rid="ece35849-bib-0010" ref-type="ref">2016</xref>; Martin, Larry, &#x00026; Bj&#x000f6;rnl, <xref rid="ece35849-bib-0041" ref-type="ref">2008</xref>; Nakano, Takakura, Morii, &#x00026; Urabe, <xref rid="ece35849-bib-0044" ref-type="ref">2017</xref>; Negi &#x00026; Mamgain, <xref rid="ece35849-bib-0046" ref-type="ref">2013</xref>; Vaughn, <xref rid="ece35849-bib-0065" ref-type="ref">2018</xref>). For example, Akiyama and Maruyama (<xref rid="ece35849-bib-0002" ref-type="ref">2010</xref>) and Xiong et al. (<xref rid="ece35849-bib-0075" ref-type="ref">2013</xref>) revealed that freshwater mussels likely occur in muddy areas with abundant organic matter. &#x000d6;sterling, Martin, and Arvidsson (<xref rid="ece35849-bib-0048" ref-type="ref">2008</xref>) revealed that the number of young individuals of freshwater mussels in Sweden was more obvious in the waters with high turbidity than the low turbidity. Sheldon and Walker (<xref rid="ece35849-bib-0053" ref-type="ref">1989</xref>) compared two freshwater mussels in Australia and found they respond metabolically to low DO very differently from each other. This study also showed that the distribution of freshwater mussels was correlated with environmental factors. Moreover, some studies showed the change of hydrological dynamics scoured the substrates of the mussels in the United States, resulting in a decrease in the number of mussel species in the river (Strayer &#x00026; Ralley, <xref rid="ece35849-bib-0058" ref-type="ref">1993</xref>). The proportion of the substrate composition can also effectively predict the distribution of mussels in rivers (Hastie &#x00026; Young, <xref rid="ece35849-bib-0022" ref-type="ref">2003</xref>). Generally, mussels like habitats in the substrates where the sediment is particularly stable in Scotland or the United Kingdom (Morales, Weber, Mynett, &#x00026; Newton, <xref rid="ece35849-bib-0043" ref-type="ref">2006</xref>; Strayer, <xref rid="ece35849-bib-0055" ref-type="ref">1999</xref>). The distribution of freshwater mussels in shallow water areas with high percentage of mud and silt bottoms may be relatively concentrated in the United States (Strayer, <xref rid="ece35849-bib-0056" ref-type="ref">2008</xref>). This study also showed that the number of species in the MT and DR with relatively high percentage of mud and silt bottoms was higher than in other sections.</p></sec><sec id="ece35849-sec-0016"><label>4.3</label><title>Threat factors of freshwater mussel diversity</title><p>The main threats to freshwater mussels are human activities, including habitat loss and fragmentation, overfishing, water pollution and eutrophication, invasive species, climate change, and overfishing (Dudgeon et al., <xref rid="ece35849-bib-0016" ref-type="ref">2006</xref>; Galbraith, Spooner, &#x00026; Vaughn, <xref rid="ece35849-bib-0017" ref-type="ref">2010</xref>; Lopes&#x02010;Lima et al., <xref rid="ece35849-bib-0038" ref-type="ref">2017</xref>; Modesto et al., <xref rid="ece35849-bib-0042" ref-type="ref">2018</xref>; Zieritz et al., <xref rid="ece35849-bib-0080" ref-type="ref">2016</xref>). In addition, barriers between rivers and lakes, and the loss of host fish are important factors leading to the decline in mussel species (Lopes&#x02010;Lima et al., <xref rid="ece35849-bib-0038" ref-type="ref">2017</xref>). Dam construction has caused habitat fragmentation and loss and has been shown to have a profound effect on the survival of freshwater mussels (Haag, <xref rid="ece35849-bib-0019" ref-type="ref">2012</xref>). The Jiepai Dam was constructed in the Xin River Basin, which significantly changed hydrological conditions in the middle area, affecting the assemblage structure of freshwater mussels (Zou, Tang, &#x00026; Chen, <xref rid="ece35849-bib-0081" ref-type="ref">2018</xref>). Many studies have shown that sand dredging changed aquatic habitats and decreased species richness by 30%&#x02013;70% and the abundance and biomass of macrozoobenthos by 40%&#x02013;95% (Johnson, Jin, Carreiro, &#x00026; Jack, <xref rid="ece35849-bib-0028" ref-type="ref">2012</xref>; Li et al., <xref rid="ece35849-bib-0031" ref-type="ref">2019</xref>; Narin &#x00026; Michel, <xref rid="ece35849-bib-0045" ref-type="ref">2009</xref>). Many sand&#x02010;dredging boats focused their extractions in the study area (Li et al., <xref rid="ece35849-bib-0031" ref-type="ref">2019</xref>), which changed substrate conditions and directly affected the assemblage structure of freshwater mussels (Xiong et al., <xref rid="ece35849-bib-0075" ref-type="ref">2013</xref>; Zhang et al., <xref rid="ece35849-bib-0078" ref-type="ref">2013</xref>). Moreover, due to the acceleration of urbanization and agriculture, industrial wastewater and domestic sewage have resulted in habitat deterioration and eutrophication, indirectly affecting the assemblage structure of freshwater mussels (Hu, Zhou, Wang, &#x00026; Wei, <xref rid="ece35849-bib-0024" ref-type="ref">2010</xref>; Li et al., <xref rid="ece35849-bib-0031" ref-type="ref">2019</xref>; Wan &#x00026; Jiang, <xref rid="ece35849-bib-0068" ref-type="ref">2005</xref>). Freshwater mussels have great economic value, such as providing a direct source of protein, and valuable materials (shells and pearls); however, overharvest has greatly damaged mussel resources (Bogan, <xref rid="ece35849-bib-0008" ref-type="ref">2008</xref>; Vaughn, <xref rid="ece35849-bib-0065" ref-type="ref">2018</xref>). <italic>Cristaria</italic> and <italic>Sinohyriopsis</italic> species were used to make pearls and provide food resources; <italic>Lamprotula</italic>, <italic>Aculamprotula</italic>, <italic>Gibbosula</italic>, <italic>Cuneopsis</italic>, and <italic>Lanceolaria</italic> species were used to make buttons; <italic>Solenaia</italic> species were used to provide food resources; and many small mussels have been discarded in random piles on the shore (Xiong et al., <xref rid="ece35849-bib-0075" ref-type="ref">2013</xref>; Zhang et al., <xref rid="ece35849-bib-0078" ref-type="ref">2013</xref>). Fish diversity plays an important role in determining freshwater mussel diversity because of the mussels' parasitic life cycle (Cao et al., <xref rid="ece35849-bib-0011" ref-type="ref">2018</xref>; Lopes&#x02010;Lima et al., <xref rid="ece35849-bib-0038" ref-type="ref">2017</xref>; Vaughn, Atkinson, &#x00026; Julian, <xref rid="ece35849-bib-0066" ref-type="ref">2015</xref>). The harvesting of host fish laden with encysted glochidia likely has detrimental effects on the reproduction, distribution, and dispersal of freshwater mussels across the region (Audzijonyte, Kuparinen, Gorton, &#x00026; Fulton, <xref rid="ece35849-bib-0003" ref-type="ref">2013</xref>; Bla&#x0017e;ek &#x00026; Gelnar, <xref rid="ece35849-bib-0007" ref-type="ref">2006</xref>). In this study, 14 native freshwater mussels were not found and 52% of freshwater mussel species were empty shells. At the same time, <italic>Aculamprotula scripta</italic>, <italic>Aculamprotula tortuosa</italic>, <italic>Gibbosula polysticta</italic>, and <italic>Gibbosula rochechouartii</italic> are currently listed as vulnerable species using IUCN criteria.</p></sec><sec id="ece35849-sec-0017"><label>4.4</label><title>Conservation and management implications</title><p>Freshwater mussels are considered of the most threatened freshwater organisms globally (Bogan, <xref rid="ece35849-bib-0008" ref-type="ref">2008</xref>; Zieritz et al., <xref rid="ece35849-bib-0079" ref-type="ref">2018</xref>). To date, freshwater mussels have rarely been conserved in East and South&#x02010;East Asia (Cao et al., <xref rid="ece35849-bib-0011" ref-type="ref">2018</xref>; IUCN, <xref rid="ece35849-bib-0025" ref-type="ref">2019</xref>; Zieritz et al., <xref rid="ece35849-bib-0079" ref-type="ref">2018</xref>). Only four countries in these regions have them on red lists (Vietnam, Korea, Japan, and Russia), and 228 species are not under international legal protection (Zieritz et al., <xref rid="ece35849-bib-0079" ref-type="ref">2018</xref>).</p><p>Given the declining freshwater mussel diversity, we suggest its biodiversity conservation should be carried out in the following ways: (a) establishing a nature reserve. Habitat loss and fragmentation are the most important factors leading to the species extinction of freshwater mussels (Dudgeon et al., <xref rid="ece35849-bib-0016" ref-type="ref">2006</xref>; Jones &#x00026; Neves, <xref rid="ece35849-bib-0029" ref-type="ref">2011</xref>; Lopes&#x02010;Lima et al., <xref rid="ece35849-bib-0038" ref-type="ref">2017</xref>; Vaughn, <xref rid="ece35849-bib-0064" ref-type="ref">2012</xref>). Habitats with abundant endemic species should be identified as nature reserves. The MT should be established as one large protected area because the nestedness component was the main pattern of beta diversity in this study. (b) Habitat protection. To reduce the effect of human activity on the habitat, sand mining should be regulated and managed, and the natural hydrological rhythm should be maintained to keep the balance (Li et al., <xref rid="ece35849-bib-0031" ref-type="ref">2019</xref>). (c) Because sampling conditions are difficult in the Xin River Basin, novel molecular tools such as environmental DNA (Jerde, Mahon, Chadderton, &#x00026; Lodge, <xref rid="ece35849-bib-0026" ref-type="ref">2011</xref>) might be crucial for detecting rare species; (d) Reproductive biology research. Reproductive biology is very important for the conservation of freshwater mussels (Vaughn, <xref rid="ece35849-bib-0064" ref-type="ref">2012</xref>). One important limiting factor of protection work is the lack of information about which mussels use host fish and the ease of artificial propagation and release.</p></sec></sec><sec sec-type="COI-statement" id="ece35849-sec-0018"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35849-sec-0019"><title>AUTHOR CONTRIBUTIONS</title><p>WS, XL, SO, and XW conceived the study. All authors contributed to the study design and data collection. WS and XL analyzed the data. WS, XL, SO, and XW led the writing of the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35849-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14142-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35849-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14142-s002.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35849-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14142-s003.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35849-sec-0022"><title>ACKNOWLEDGMENTS</title><p>This work is supported by grants from the National Key R &#x00026; D Program of China (2018YFD0900801), the National Nature Science Foundation of China (No. 31772412 and 31260515) and the Ministry of Science and Technology of the People's Republic of China (2005DKA21402). The authors alone are responsible for the content and writing of this article.</p></ack><sec sec-type="data-availability" id="ece35849-sec-0021"><title>DATA AVAILABILITY STATEMENT</title><p>The data used in this study are archived in the Dryad Data Repository (<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.47d7wm38g" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.47d7wm38g</ext-link>).</p></sec><ref-list content-type="cited-references" id="ece35849-bibl-0001"><title>REFERENCES</title><ref id="ece35849-bib-0001"><mixed-citation publication-type="journal" id="ece35849-cit-0001">
+<string-name>
+<surname>Abell</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Thieme</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ricketts</surname>, <given-names>T. H.</given-names>
+</string-name>, <string-name>
+<surname>Olwero</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Petry</surname>, <given-names>P.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Hoekstra</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>). <article-title>Concordance of freshwater and terrestrial biodiversity</article-title>. <source xml:lang="en">Conservation Letters</source>, <volume>4</volume>(<issue>2</issue>), <fpage>127</fpage>&#x02013;<lpage>136</lpage>. <pub-id pub-id-type="doi">10.1111/j.1755-263X.2010.00153.x</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0002"><mixed-citation publication-type="journal" id="ece35849-cit-0002">
+<string-name>
+<surname>Akiyama</surname>, <given-names>Y. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Maruyama</surname>, <given-names>T.</given-names>
+</string-name> (<year>2010</year>). <article-title>Habitat characteristics influencing distribution of the freshwater mussel <italic>Pronodularia japanensis</italic> and potential impact on the Tokyo bitterling, Tanakiatanago</article-title>. <source xml:lang="en">Zoological Science</source>, <volume>27</volume>(<issue>12</issue>), <fpage>912</fpage>&#x02013;<lpage>916</lpage>.<pub-id pub-id-type="pmid">21110716</pub-id></mixed-citation></ref><ref id="ece35849-bib-0003"><mixed-citation publication-type="journal" id="ece35849-cit-0003">
+<string-name>
+<surname>Audzijonyte</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kuparinen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gorton</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fulton</surname>, <given-names>E. A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Ecological consequences of body size decline in harvested fish species: Positive feedback loops in trophic interactions amplify human impact</article-title>. <source xml:lang="en">Biology Letters</source>, <volume>9</volume>, <fpage>201</fpage>&#x02013;<lpage>213</lpage>. <pub-id pub-id-type="doi">10.1098/rsbl.2012.1103</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0004"><mixed-citation publication-type="journal" id="ece35849-cit-0004">
+<string-name>
+<surname>Baselga</surname>, <given-names>A.</given-names>
+</string-name> (<year>2010</year>). <article-title>Partitioning the turnover and nestedness components of beta diversity</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>19</volume>, <fpage>134</fpage>&#x02013;<lpage>143</lpage>. <pub-id pub-id-type="doi">10.1111/j.1466-8238.2009.00490.x</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0005"><mixed-citation publication-type="journal" id="ece35849-cit-0005">
+<string-name>
+<surname>Baselga</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Orme</surname>, <given-names>C. D. L.</given-names>
+</string-name> (<year>2012</year>). <article-title>Betapart: An R package for the study of beta diversity</article-title>. <source xml:lang="en">Methods in Ecology &#x00026; Evolution</source>, <volume>3</volume>(<issue>5</issue>), <fpage>808</fpage>&#x02013;<lpage>812</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0006"><mixed-citation publication-type="journal" id="ece35849-cit-0006">
+<string-name>
+<surname>Bergamin</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Bastazini</surname>, <given-names>V. A. G.</given-names>
+</string-name>, <string-name>
+<surname>V&#x000e9;lez&#x02010;Martin</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Debastiani</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Zanini</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Loyola</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>S. C.</given-names>
+</string-name> (<year>2017</year>). <article-title>Linking beta diversity patterns to protected areas: Lessons from the Brazilian Atlantic Rainforest</article-title>. <source xml:lang="en">Biodiversity and Conservation</source>, <volume>26</volume>, <fpage>1557</fpage>&#x02013;<lpage>1568</lpage>. <pub-id pub-id-type="doi">10.1007/s10531-017-1315-y</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0007"><mixed-citation publication-type="journal" id="ece35849-cit-0007">
+<string-name>
+<surname>Bla&#x0017e;ek</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gelnar</surname>, <given-names>M.</given-names>
+</string-name> (<year>2006</year>). <article-title>Temporal and spatial distribution of glochidial larval stages of European unionid mussels (Mollusca: Unionidae) on host fishes</article-title>. <source xml:lang="en">Folia Parasitologica</source>, <volume>53</volume>(<issue>2</issue>), <fpage>98</fpage>&#x02013;<lpage>106</lpage>. <pub-id pub-id-type="doi">10.14411/fp.2006.013</pub-id>
+<pub-id pub-id-type="pmid">16898123</pub-id></mixed-citation></ref><ref id="ece35849-bib-0008"><mixed-citation publication-type="journal" id="ece35849-cit-0008">
+<string-name>
+<surname>Bogan</surname>, <given-names>A. E.</given-names>
+</string-name> (<year>2008</year>). <article-title>Global diversity of freshwater mussels (Mollusca, Bivalvia) in freshwater</article-title>. <source xml:lang="en">Hydrobiologia</source>, <volume>595</volume>(<issue>1</issue>), <fpage>139</fpage>&#x02013;<lpage>147</lpage>. <pub-id pub-id-type="doi">10.1007/s10750-007-9011-7</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0009"><mixed-citation publication-type="journal" id="ece35849-cit-0009">
+<string-name>
+<surname>Bogan</surname>, <given-names>A. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Roe</surname>, <given-names>K. J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Freshwater bivalve (Unioniformes) diversity, systematics, and evolution: Status and future directions</article-title>. <source xml:lang="en">Freshwater Science</source>, <volume>27</volume>(<issue>2</issue>), <fpage>349</fpage>&#x02013;<lpage>369</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0010"><mixed-citation publication-type="journal" id="ece35849-cit-0010">
+<string-name>
+<surname>Campbell</surname>, <given-names>C. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Prestegaard</surname>, <given-names>K. L.</given-names>
+</string-name> (<year>2016</year>). <article-title>Physical and chemical constraints limit the habitat window for an endangered mussel</article-title>. <source xml:lang="en">Hydrobiologia</source>, <volume>772</volume>(<issue>1</issue>), <fpage>77</fpage>&#x02013;<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1007/s10750-016-2642-9</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0011"><mixed-citation publication-type="journal" id="ece35849-cit-0011">
+<string-name>
+<surname>Cao</surname>, <given-names>Y. L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>X. J.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>, <given-names>T. T.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>C. H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wu</surname>, <given-names>X. P.</given-names>
+</string-name> (<year>2018</year>). <article-title>Conservation of the endangered freshwater mussel <italic>Solenaia carinata</italic> (Bivalvia, Unionidae) in China</article-title>. <source xml:lang="en">Nature Conservation</source>, <volume>26</volume>, <fpage>33</fpage>&#x02013;<lpage>53</lpage>. <pub-id pub-id-type="doi">10.3897/natureconservation.26.25334</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0012"><mixed-citation publication-type="book" id="ece35849-cit-0012">
+<string-name>
+<surname>Chao</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>K. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hsieh</surname>, <given-names>T. C.</given-names>
+</string-name> (<year>2016</year>). <source xml:lang="en">iNEXT (iNterpolation and EX Trapolation) online: Software for interpolation and extrapolation of species diversity</source>. Program and user's guide published at <ext-link ext-link-type="uri" xlink:href="http://chao.stat.nthu.edu.tw/wordpress/software_download/">http://chao.stat.nthu.edu.tw/wordpress/software_download/</ext-link>
+</mixed-citation></ref><ref id="ece35849-bib-0013"><mixed-citation publication-type="book" id="ece35849-cit-0013">
+<string-name>
+<surname>Clarke</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gorley</surname>, <given-names>R.</given-names>
+</string-name> (<year>2006</year>). <source xml:lang="en">PRIMER v6: User manual/tutorial</source>. <publisher-loc>Plymouth, UK</publisher-loc>: <publisher-name>PRIMER&#x02010;E</publisher-name>.</mixed-citation></ref><ref id="ece35849-bib-0014"><mixed-citation publication-type="journal" id="ece35849-cit-0014">
+<string-name>
+<surname>Daniel</surname>, <given-names>W. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brown</surname>, <given-names>K. M.</given-names>
+</string-name> (<year>2014</year>). <article-title>The role of life history and behavior in explaining unionid mussel distributions</article-title>. <source xml:lang="en">Hydrobiologia</source>, <volume>734</volume>(<issue>1</issue>), <fpage>57</fpage>&#x02013;<lpage>68</lpage>. <pub-id pub-id-type="doi">10.1007/s10750-014-1868-7</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0015"><mixed-citation publication-type="journal" id="ece35849-cit-0015">
+<string-name>
+<surname>Downward</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Skinner</surname>, <given-names>K.</given-names>
+</string-name> (<year>2005</year>). <article-title>Working Rivers: The geomorphological legacy of English freshwater mills</article-title>. <source xml:lang="en">Royal Geographical Society</source>, <volume>37</volume>, <fpage>138</fpage>&#x02013;<lpage>147</lpage>. <pub-id pub-id-type="doi">10.1111/j.1475-4762.2005.00616.x</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0016"><mixed-citation publication-type="journal" id="ece35849-cit-0016">
+<string-name>
+<surname>Dudgeon</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Arthington</surname>, <given-names>A. H.</given-names>
+</string-name>, <string-name>
+<surname>Gessner</surname>, <given-names>M. O.</given-names>
+</string-name>, <string-name>
+<surname>Kawabata</surname>, <given-names>Z.&#x02010;I.</given-names>
+</string-name>, <string-name>
+<surname>Knowler</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000e9;v&#x000ea;que</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Sullivan</surname>, <given-names>C. A.</given-names>
+</string-name> (<year>2006</year>). <article-title>Freshwater biodiversity: Importance, threats, status and conservation challenges</article-title>. <source xml:lang="en">Biological Reviews</source>, <volume>81</volume>(<issue>2</issue>), <fpage>163</fpage>&#x02013;<lpage>182</lpage>. <pub-id pub-id-type="doi">10.1017/S1464793105006950</pub-id>
+<pub-id pub-id-type="pmid">16336747</pub-id></mixed-citation></ref><ref id="ece35849-bib-0017"><mixed-citation publication-type="journal" id="ece35849-cit-0017">
+<string-name>
+<surname>Galbraith</surname>, <given-names>H. S.</given-names>
+</string-name>, <string-name>
+<surname>Spooner</surname>, <given-names>D. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vaughn</surname>, <given-names>C. C.</given-names>
+</string-name> (<year>2010</year>). <article-title>Synergistic effects of regional climate patterns and local water management on freshwater mussel communities</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>143</volume>(<issue>5</issue>), <fpage>1175</fpage>&#x02013;<lpage>1183</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2010.02.025</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0018"><mixed-citation publication-type="book" id="ece35849-cit-0018">
+<string-name>
+<surname>Gordon</surname>, <given-names>N. D.</given-names>
+</string-name>, <string-name>
+<surname>Mcmahon</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Finlayson</surname>, <given-names>B. L.</given-names>
+</string-name>, <string-name>
+<surname>Gippel</surname>, <given-names>C. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nathan</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2004</year>). <source xml:lang="en">Stream hydrology: An introduction for ecologists</source> (<edition>2nd ed.</edition>). <publisher-loc>West Sussex, UK</publisher-loc>: <publisher-name>John Wiley and Sons</publisher-name>.</mixed-citation></ref><ref id="ece35849-bib-0019"><mixed-citation publication-type="journal" id="ece35849-cit-0019">
+<string-name>
+<surname>Haag</surname>, <given-names>W. R.</given-names>
+</string-name> (<year>2012</year>). <article-title>North American freshwater mussels: Natural history, ecology, and conservation</article-title>. <source xml:lang="en">Freshwater Biology</source>, <volume>58</volume>(<issue>5</issue>), <fpage>1069</fpage>&#x02013;<lpage>1085</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0020"><mixed-citation publication-type="journal" id="ece35849-cit-0020">
+<string-name>
+<surname>Haag</surname>, <given-names>W. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Williams</surname>, <given-names>J. D.</given-names>
+</string-name> (<year>2014</year>). <article-title>Biodiversity on the brink: An assessment of conservation strategies for North American freshwater mussels</article-title>. <source xml:lang="en">Hydrobiologia</source>, <volume>735</volume>(<issue>1</issue>), <fpage>45</fpage>&#x02013;<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1007/s10750-013-1524-7</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0021"><mixed-citation publication-type="book" id="ece35849-cit-0021">
+<string-name>
+<surname>Hartfield</surname>, <given-names>E. E.</given-names>
+</string-name> (<year>2010</year>). <source xml:lang="en">Consequences of low&#x02010;head dams on crayfish distribution and gene flow in Alabama streams</source>. MS thesis, <publisher-name>Auburn University</publisher-name>, <publisher-loc>Auburn, AL</publisher-loc>.</mixed-citation></ref><ref id="ece35849-bib-0022"><mixed-citation publication-type="journal" id="ece35849-cit-0022">
+<string-name>
+<surname>Hastie</surname>, <given-names>L. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Young</surname>, <given-names>M. R.</given-names>
+</string-name> (<year>2003</year>). <article-title>Timing of spawning and glochidial release in Scottish freshwater pearl mussel (<italic>Margaritifera margaritifera</italic>) populations</article-title>. <source xml:lang="en">Freshwater Biology</source>, <volume>48</volume>(<issue>12</issue>), <fpage>2107</fpage>&#x02013;<lpage>2117</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2427.2003.01153.x</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0023"><mixed-citation publication-type="book" id="ece35849-cit-0023">
+<string-name>
+<surname>He</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhuang</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2013</year>). <source xml:lang="en">The freshwater bivalves of China</source>. <publisher-loc>Harxheim, Germany</publisher-loc>: <publisher-name>ConchBooks</publisher-name>.</mixed-citation></ref><ref id="ece35849-bib-0024"><mixed-citation publication-type="journal" id="ece35849-cit-0024">
+<string-name>
+<surname>Hu</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>W. B.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>M. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wei</surname>, <given-names>Z. W.</given-names>
+</string-name> (<year>2010</year>). <article-title>Inorganic nitrogen and potential eutrophication assessment in Lake Poyang</article-title>. <source xml:lang="en">Journal of Lake Science</source>, <volume>22</volume>, <fpage>723</fpage>&#x02013;<lpage>728</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0025"><mixed-citation publication-type="book" id="ece35849-cit-0025">
+<collab collab-type="authors">IUCN (International Union for Conservation of Nature)</collab>
+(<year>2019</year>). <source xml:lang="en">The IUCN Red List of Threatened Species. Version 2019&#x02013;3</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.iucnredlist.org">http://www.iucnredlist.org</ext-link>
+</mixed-citation></ref><ref id="ece35849-bib-0026"><mixed-citation publication-type="journal" id="ece35849-cit-0026">
+<string-name>
+<surname>Jerde</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Mahon</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Chadderton</surname>, <given-names>W. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lodge</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2011</year>). <article-title>&#x0201c;Sight&#x02010;unseen&#x0201d; detection of rare aquatic species using environmental DNA</article-title>. <source xml:lang="en">Conservation Letters</source>, <volume>4</volume>, <fpage>150</fpage>&#x02013;<lpage>157</lpage>. <pub-id pub-id-type="doi">10.1111/j.1755-263X.2010.00158.x</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0027"><mixed-citation publication-type="journal" id="ece35849-cit-0027">
+<string-name>
+<surname>Jin</surname>, <given-names>B. S.</given-names>
+</string-name>, <string-name>
+<surname>Nie</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhou</surname>, <given-names>W. B.</given-names>
+</string-name> (<year>2012</year>). <article-title>Basic characteristics, challenges and key scientific questions of the Poyang Lake basin</article-title>. <source xml:lang="en">Resources and Environment in the Yangtze Basin</source>, <volume>21</volume>, <fpage>268</fpage>&#x02013;<lpage>275</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0028"><mixed-citation publication-type="journal" id="ece35849-cit-0028">
+<string-name>
+<surname>Johnson</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>, <given-names>H. S.</given-names>
+</string-name>, <string-name>
+<surname>Carreiro</surname>, <given-names>M. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jack</surname>, <given-names>J. D.</given-names>
+</string-name> (<year>2012</year>). <article-title>Macroinvertebrate community structure, secondary production and trophic&#x02010;level dynamics in urban streams affected by non&#x02010;point&#x02010;source pollution</article-title>. <source xml:lang="en">Freshwater Biology</source>, <volume>58</volume>, <fpage>843</fpage>&#x02013;<lpage>857</lpage>. <pub-id pub-id-type="doi">10.1111/fwb.12090</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0029"><mixed-citation publication-type="journal" id="ece35849-cit-0029">
+<string-name>
+<surname>Jones</surname>, <given-names>J. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Neves</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2011</year>). <article-title>Influence of life&#x02013;history variation on demographic responses of three freshwater mussel species (Bivalvia: Unionidae) in the Clinch River, USA</article-title>. <source xml:lang="en">Aquatic Conservation: Marine and Freshwater Ecosystems</source>, <volume>21</volume>, <fpage>57</fpage>&#x02013;<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1002/aqc.1161</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0030"><mixed-citation publication-type="book" id="ece35849-cit-0030">
+<string-name>
+<surname>Legendre</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Legendre</surname>, <given-names>L.</given-names>
+</string-name> (<year>2012</year>). <source xml:lang="en">Numerical ecology</source> (<edition>3rd ed.</edition>). <publisher-loc>Amsterdam, The Netherlands</publisher-loc>: <publisher-name>Elsevier</publisher-name>.</mixed-citation></ref><ref id="ece35849-bib-0031"><mixed-citation publication-type="journal" id="ece35849-cit-0031">
+<string-name>
+<surname>Li</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>X. J.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lv</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Ouyang</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wu</surname>, <given-names>X. P.</given-names>
+</string-name> (<year>2019</year>). <article-title>Temporal and spatial changes in macrozoobenthos diversity in Poyang Lake Basin, China</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <fpage>1</fpage>&#x02013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5207</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0032"><mixed-citation publication-type="journal" id="ece35849-cit-0032">
+<string-name>
+<surname>Libois</surname>, <given-names>R. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hallet&#x02010;Libois</surname>, <given-names>C.</given-names>
+</string-name> (<year>1987</year>). <article-title>The unionid mussels (Mollusca, Bivalvia) of the Belgian upper river Meuse: An assessment of the impact of hydraulic works on the river water self&#x02010;purification</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>42</volume>(<issue>2</issue>), <fpage>115</fpage>&#x02013;<lpage>132</lpage>. <pub-id pub-id-type="doi">10.1016/0006-3207(87)90018-8</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0033"><mixed-citation publication-type="journal" id="ece35849-cit-0033">
+<string-name>
+<surname>Lin</surname>, <given-names>Z. T.</given-names>
+</string-name> (<year>1962</year>). <article-title>Unionidae (Mollusca) of Poyang Lake</article-title>. <source xml:lang="en">Acta Zoologica Sinica</source>, <volume>14</volume>, <fpage>249</fpage>&#x02013;<lpage>260</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0034"><mixed-citation publication-type="journal" id="ece35849-cit-0034">
+<string-name>
+<surname>Liu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>Y. U.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wu</surname>, <given-names>X.</given-names>
+</string-name> (<year>2017</year>). <article-title>Genetic structure and diversity of <italic>Nodularia douglasiae</italic> (Bivalvia: Unionida) from the middle and lower Yangtze River drainage</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>12</volume>, <elocation-id>e0189737</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0189737</pub-id>
+<pub-id pub-id-type="pmid">29261733</pub-id></mixed-citation></ref><ref id="ece35849-bib-0035"><mixed-citation publication-type="journal" id="ece35849-cit-0035">
+<string-name>
+<surname>Liu</surname>, <given-names>Y. J.</given-names>
+</string-name>, <string-name>
+<surname>Ouyang</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wu</surname>, <given-names>X. P.</given-names>
+</string-name> (<year>2008</year>). <article-title>Distribution and status of freshwater bivalves in the Poyang Lake</article-title>. <source xml:lang="en">Jiangxi Science</source>, <volume>26</volume>(<issue>2</issue>), <fpage>280</fpage>&#x02013;<lpage>283</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0036"><mixed-citation publication-type="book" id="ece35849-cit-0036">
+<string-name>
+<surname>Liu</surname>, <given-names>Y. Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>W. Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>Y. X.</given-names>
+</string-name> (<year>1979</year>). <source xml:lang="en">Economic fauna of China: Freshwater Mollusks</source>. <publisher-loc>Beijing, China</publisher-loc>: <publisher-name>Science Press</publisher-name>.</mixed-citation></ref><ref id="ece35849-bib-0037"><mixed-citation publication-type="journal" id="ece35849-cit-0037">
+<string-name>
+<surname>Lopes&#x02010;Lima</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bolotov</surname>, <given-names>I. N.</given-names>
+</string-name>, <string-name>
+<surname>Do</surname>, <given-names>V. T.</given-names>
+</string-name>, <string-name>
+<surname>Aldridge</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name>
+<surname>Fonseca</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Gan</surname>, <given-names>H. M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bogan</surname>, <given-names>A. E.</given-names>
+</string-name> (<year>2018</year>). <article-title>Expansion and systematics redefinition of the most threatened freshwater mussel family, the Margaritiferidae</article-title>. <source xml:lang="en">Molecular Phylogenetics &#x00026; Evolution</source>, <volume>127</volume>, <fpage>98</fpage>&#x02013;<lpage>118</lpage>. <pub-id pub-id-type="doi">10.1016/j.ympev.2018.04.041</pub-id>
+<pub-id pub-id-type="pmid">29729933</pub-id></mixed-citation></ref><ref id="ece35849-bib-0038"><mixed-citation publication-type="journal" id="ece35849-cit-0038">
+<string-name>
+<surname>Lopes&#x02010;Lima</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sousa</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Geist</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Aldridge</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name>
+<surname>Araujo</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bergengren</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zogaris</surname>, <given-names>S.</given-names>
+</string-name> (<year>2017</year>). <article-title>Conservation status of freshwater mussels in Europe: State of the art and future challenges</article-title>. <source xml:lang="en">Biological Reviews</source>, <volume>92</volume>(<issue>1</issue>), <fpage>572</fpage>&#x02013;<lpage>607</lpage>. <pub-id pub-id-type="doi">10.1111/brv.12244</pub-id>
+<pub-id pub-id-type="pmid">26727244</pub-id></mixed-citation></ref><ref id="ece35849-bib-0039"><mixed-citation publication-type="journal" id="ece35849-cit-0039">
+<string-name>
+<surname>Lydeard</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cowie</surname>, <given-names>R. H.</given-names>
+</string-name>, <string-name>
+<surname>Ponder</surname>, <given-names>W. F.</given-names>
+</string-name>, <string-name>
+<surname>Bogan</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name>
+<surname>Bouchet</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>, <given-names>S. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Thompson</surname>, <given-names>F. G.</given-names>
+</string-name> (<year>2004</year>). <article-title>The global decline of nonmarine mollusks</article-title>. <source xml:lang="en">BioScience</source>, <volume>54</volume>(<issue>4</issue>), <fpage>321</fpage>&#x02013;<lpage>330</lpage>. <pub-id pub-id-type="doi">10.1641/0006-3568(2004)054[0321:TGDONM]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0040"><mixed-citation publication-type="book" id="ece35849-cit-0040">
+<string-name>
+<surname>Magurran</surname>, <given-names>A. E.</given-names>
+</string-name> (<year>1988</year>). <source xml:lang="en">Ecological diversity and its measurement</source>. <publisher-loc>London, UK</publisher-loc>: <publisher-name>Princeton University Press</publisher-name>.</mixed-citation></ref><ref id="ece35849-bib-0041"><mixed-citation publication-type="journal" id="ece35849-cit-0041">
+<string-name>
+<surname>Martin</surname>, <given-names>O. E.</given-names>
+</string-name>, <string-name>
+<surname>Larry</surname>, <given-names>A. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bj&#x000f6;rnl</surname>, <given-names>A.</given-names>
+</string-name> (<year>2008</year>). <article-title>Relationship of biotic and abiotic factors to recruitment patterns in <italic>Margaritifera margaritifera</italic>
+</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>141</volume>(<issue>5</issue>), <fpage>1365</fpage>&#x02013;<lpage>1370</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2008.03.004</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0042"><mixed-citation publication-type="journal" id="ece35849-cit-0042">
+<string-name>
+<surname>Modesto</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Ilarri</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Souza</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<surname>Lopes&#x02010;Lima</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Douda</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Clavero</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sousa</surname>, <given-names>R.</given-names>
+</string-name> (<year>2018</year>). <article-title>Fish and mussels: Importance of fish for freshwater mussel conservation</article-title>. <source xml:lang="en">Fish &#x00026; Fisheries</source>, <volume>19</volume>(<issue>2</issue>), <fpage>244</fpage>&#x02013;<lpage>259</lpage>. <pub-id pub-id-type="doi">10.1111/faf.12252</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0043"><mixed-citation publication-type="journal" id="ece35849-cit-0043">
+<string-name>
+<surname>Morales</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name>
+<surname>Mynett</surname>, <given-names>A. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Newton</surname>, <given-names>T. J.</given-names>
+</string-name> (<year>2006</year>). <article-title>Effects of substrate and hydrodynamic conditions on the formation of mussel beds in a large river</article-title>. <source xml:lang="en">Journal of the North American Benthological Society</source>, <volume>25</volume>(<issue>3</issue>), <fpage>664</fpage>&#x02013;<lpage>676</lpage>. <pub-id pub-id-type="doi">10.1899/0887-3593(2006)25[664:EOSAHC]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0044"><mixed-citation publication-type="journal" id="ece35849-cit-0044">
+<string-name>
+<surname>Nakano</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Takakura</surname>, <given-names>K. I.</given-names>
+</string-name>, <string-name>
+<surname>Morii</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Urabe</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Unionid mussel composition and ditch environments in floodplain and alluvial fan geomorphic types: A case study of a Lake Biwa river basin</article-title>. <source xml:lang="en">Limnology</source>, <volume>18</volume>(<issue>1</issue>), <fpage>41</fpage>&#x02013;<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1007/s10201-016-0486-7</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0045"><mixed-citation publication-type="journal" id="ece35849-cit-0045">
+<string-name>
+<surname>Narin</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Michel</surname>, <given-names>J.</given-names>
+</string-name> (<year>2009</year>). <article-title>A biological and physical monitoring program to evaluate long&#x02010;term impacts from sand dredging operations in the United States outer continental shelf</article-title>. <source xml:lang="en">Journal of Coastal Research</source>, <volume>20</volume>, <fpage>126</fpage>&#x02013;<lpage>137</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0046"><mixed-citation publication-type="journal" id="ece35849-cit-0046">
+<string-name>
+<surname>Negi</surname>, <given-names>R. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mamgain</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Seasonal variation of benthic macroinvertebrates from Tons River of Garhwal Himalaya Uttarakhand</article-title>. <source xml:lang="en">Pakistan Journal of Biological Sciences</source>, <volume>16</volume>(<issue>22</issue>), <fpage>1510</fpage>&#x02013;<lpage>1516</lpage>. <pub-id pub-id-type="doi">10.3923/pjbs.2013.1510.1516</pub-id>
+<pub-id pub-id-type="pmid">24511693</pub-id></mixed-citation></ref><ref id="ece35849-bib-0047"><mixed-citation publication-type="book" id="ece35849-cit-0047">
+<string-name>
+<surname>Oksanen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Blanchet</surname>, <given-names>F. G.</given-names>
+</string-name>, <string-name>
+<surname>Kindt</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Legendre</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Minchin</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>O'Hara</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wagner</surname>, <given-names>H.</given-names>
+</string-name> (<year>2015</year>). <source xml:lang="en">Vegan: community ecology package. R package version 2.3&#x02010;2</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://cran.r-project.org">http://cran.r-project.org</ext-link>
+</mixed-citation></ref><ref id="ece35849-bib-0048"><mixed-citation publication-type="journal" id="ece35849-cit-0048">
+<string-name>
+<surname>&#x000d6;sterling</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>G. L. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Arvidsson</surname>, <given-names>B. L.</given-names>
+</string-name> (<year>2008</year>). <article-title>Relationship of biotic and abiotic factors to recruitment patterns in <italic>Margaritifera margaritifera</italic>
+</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>141</volume>, <fpage>1365</fpage>&#x02013;<lpage>1370</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2008.03.004</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0049"><mixed-citation publication-type="journal" id="ece35849-cit-0049">
+<string-name>
+<surname>Peet</surname>, <given-names>R. K.</given-names>
+</string-name> (<year>1974</year>). <article-title>Measurement of species diversity</article-title>. <source xml:lang="en">Annual Review of Ecology &#x00026; Systematics</source>, <volume>5</volume>, <fpage>285</fpage>&#x02013;<lpage>307</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0050"><mixed-citation publication-type="book" id="ece35849-cit-0050">
+<collab collab-type="authors">R Development Core Team</collab>
+(<year>2014</year>). <source xml:lang="en">R: A language and environment for statistical computing</source>. <publisher-loc>Vienna, Austria</publisher-loc>: <publisher-name>R Foundation for Statistical Computing</publisher-name> Retrieved from <ext-link ext-link-type="uri" xlink:href="http://Rproject.org">http://Rproject.org</ext-link>
+</mixed-citation></ref><ref id="ece35849-bib-0051"><mixed-citation publication-type="journal" id="ece35849-cit-0051">
+<string-name>
+<surname>Rahel</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hubert</surname>, <given-names>W.</given-names>
+</string-name> (<year>1991</year>). <article-title>Fish assemblages and habitat gradients in a rocky mountain&#x02013;great plains stream: Biotic zonation and additive patterns of community change</article-title>. <source xml:lang="en">Transactions of the American Fisheries Society</source>, <volume>120</volume>(<issue>3</issue>), <fpage>319</fpage>&#x02013;<lpage>332</lpage>. <pub-id pub-id-type="doi">10.1577/1548-8659(1991)120&#x0003c;0319:FAAHGI&#x0003e;2.3.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0052"><mixed-citation publication-type="journal" id="ece35849-cit-0052">
+<string-name>
+<surname>Sala</surname>, <given-names>O. E.</given-names>
+</string-name>, <string-name>
+<surname>Chapin</surname>, <given-names>F. S.</given-names>
+</string-name>, <string-name>
+<surname>Armesto</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Berlow</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Bloomfield</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dirzo</surname>, <given-names>R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wall</surname>, <given-names>D. H.</given-names>
+</string-name> (<year>2000</year>). <article-title>Biodiversity&#x02010;global biodiversity scenarios for the year 2100</article-title>. <source xml:lang="en">Science</source>, <volume>287</volume>, <fpage>1770</fpage>&#x02013;<lpage>1774</lpage>.<pub-id pub-id-type="pmid">10710299</pub-id></mixed-citation></ref><ref id="ece35849-bib-0053"><mixed-citation publication-type="journal" id="ece35849-cit-0053">
+<string-name>
+<surname>Sheldon</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Walker</surname>, <given-names>K. F.</given-names>
+</string-name> (<year>1989</year>). <article-title>Effects of hypoxia on oxygen consumption of two species of freshwater mussel (Unionacea: Hyriidae) from the river Murray</article-title>. <source xml:lang="en">Australian Journal of Marine and Freshwater Research</source>, <volume>40</volume>, <fpage>491</fpage>&#x02013;<lpage>499</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0054"><mixed-citation publication-type="journal" id="ece35849-cit-0054">
+<string-name>
+<surname>Shu</surname>, <given-names>F. Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>, <given-names>B. Z.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>X. Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>H. Z.</given-names>
+</string-name> (<year>2009</year>). <article-title>Assessment of species status of mollusca in the mid lower Yangtze lakes</article-title>. <source xml:lang="en">Acta Hydrobiologica Sinica</source>, <volume>33</volume>(<issue>6</issue>), <fpage>1051</fpage>&#x02013;<lpage>1058</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0055"><mixed-citation publication-type="journal" id="ece35849-cit-0055">
+<string-name>
+<surname>Strayer</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>1999</year>). <article-title>Use of flow refuges by unionid mussels in rivers</article-title>. <source xml:lang="en">Journal of the North American Benthological Society</source>, <volume>18</volume>(<issue>4</issue>), <fpage>468</fpage>&#x02013;<lpage>476</lpage>. <pub-id pub-id-type="doi">10.2307/1468379</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0056"><mixed-citation publication-type="book" id="ece35849-cit-0056">
+<string-name>
+<surname>Strayer</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>2008</year>). <source xml:lang="en">Freshwater mussel ecology: A multifactor approach to distribution and abundance</source> (pp. <fpage>43</fpage>&#x02013;<lpage>64</lpage>). <publisher-loc>Berkeley, CA</publisher-loc>: <publisher-name>Univ of California Press</publisher-name>.</mixed-citation></ref><ref id="ece35849-bib-0058"><mixed-citation publication-type="journal" id="ece35849-cit-0058">
+<string-name>
+<surname>Strayer</surname>, <given-names>D. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ralley</surname>, <given-names>J.</given-names>
+</string-name> (<year>1993</year>). <article-title>Microhabitat use by an assemblage of stream&#x02010;dwelling unionaceans (Bivalvia), including two rare species of <italic>Alasmidonta</italic>
+</article-title>. <source xml:lang="en">Journal of the North American Benthological Society</source>, <volume>12</volume>(<issue>3</issue>), <fpage>247</fpage>&#x02013;<lpage>258</lpage>. <pub-id pub-id-type="doi">10.2307/1467459</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0059"><mixed-citation publication-type="journal" id="ece35849-cit-0059">
+<string-name>
+<surname>Sun</surname>, <given-names>T. T.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Zanatta</surname>, <given-names>D. T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wu</surname>, <given-names>X. P.</given-names>
+</string-name> (<year>2018</year>). <article-title>Microsatellite analysis of genetic diversity and genetic structure of the Chinese freshwater mussel <italic>Solenaia carinata</italic> (Bivalvia: Unionidae)</article-title>. <source xml:lang="en">Aquatic Conservation: Marine and Freshwater Ecosystems</source>, <volume>28</volume>, <fpage>37</fpage>&#x02013;<lpage>44</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0060"><mixed-citation publication-type="journal" id="ece35849-cit-0060">
+<string-name>
+<surname>Tchang</surname>, <given-names>X.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Li</surname>, <given-names>S. C.</given-names>
+</string-name> (<year>1965</year>). <article-title>Bivalves (Mollusca) of the Poyang Lake and its surrounding waters with description of a new species</article-title>. <source xml:lang="en">Acta Zoological Sinica</source>, <volume>17</volume>(<issue>3</issue>), <fpage>82</fpage>&#x02013;<lpage>92</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0061"><mixed-citation publication-type="journal" id="ece35849-cit-0061">
+<string-name>
+<surname>ter Braak</surname>, <given-names>C. J. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Verdonschot</surname>, <given-names>P. F. M.</given-names>
+</string-name> (<year>1995</year>). <article-title>Canonical correspondence analysis and related multivariate methods in aquatic ecology</article-title>. <source xml:lang="en">Aquatic Science</source>, <volume>57</volume>, <fpage>255</fpage>&#x02013;<lpage>289</lpage>. <pub-id pub-id-type="doi">10.1007/BF00877430</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0062"><mixed-citation publication-type="journal" id="ece35849-cit-0062">
+<string-name>
+<surname>Tilman</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>D. R.</given-names>
+</string-name>, <string-name>
+<surname>Kimmel</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Polasky</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Packer</surname>, <given-names>C.</given-names>
+</string-name> (<year>2017</year>). <article-title>Future threats to biodiversity and pathways to their prevention</article-title>. <source xml:lang="en">Nature</source>, <volume>546</volume>, <fpage>73</fpage>&#x02013;<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1038/nature22900</pub-id>
+<pub-id pub-id-type="pmid">28569796</pub-id></mixed-citation></ref><ref id="ece35849-bib-0063"><mixed-citation publication-type="journal" id="ece35849-cit-0063">
+<string-name>
+<surname>Tittensor</surname>, <given-names>D. P.</given-names>
+</string-name>, <string-name>
+<surname>Walpole</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>, <given-names>S. L. L.</given-names>
+</string-name>, <string-name>
+<surname>Boyce</surname>, <given-names>D. G.</given-names>
+</string-name>, <string-name>
+<surname>Britten</surname>, <given-names>G. L.</given-names>
+</string-name>, <string-name>
+<surname>Burgess</surname>, <given-names>N. D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ye</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2014</year>). <article-title>A mid&#x02010;term analysis of progress toward international biodiversity targets</article-title>. <source xml:lang="en">Science</source>, <volume>346</volume>, <fpage>241</fpage>&#x02013;<lpage>244</lpage>. <pub-id pub-id-type="doi">10.1126/science.1257484</pub-id>
+<pub-id pub-id-type="pmid">25278504</pub-id></mixed-citation></ref><ref id="ece35849-bib-0064"><mixed-citation publication-type="journal" id="ece35849-cit-0064">
+<string-name>
+<surname>Vaughn</surname>, <given-names>C. C.</given-names>
+</string-name> (<year>2012</year>). <article-title>Life history traits and abundance can predict local colonisation and extinction rates of freshwater mussels</article-title>. <source xml:lang="en">Freshwater Biology</source>, <volume>57</volume>, <fpage>982</fpage>&#x02013;<lpage>992</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2427.2012.02759.x</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0065"><mixed-citation publication-type="journal" id="ece35849-cit-0065">
+<string-name>
+<surname>Vaughn</surname>, <given-names>C. C.</given-names>
+</string-name> (<year>2018</year>). <article-title>Ecosystem services provided by freshwater mussels</article-title>. <source xml:lang="en">Hydrobiologia</source>, <volume>810</volume>, <fpage>15</fpage>&#x02013;<lpage>27</lpage>. <pub-id pub-id-type="doi">10.1007/s10750-017-3139-x</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0066"><mixed-citation publication-type="journal" id="ece35849-cit-0066">
+<string-name>
+<surname>Vaughn</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Atkinson</surname>, <given-names>C. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Julian</surname>, <given-names>J. P.</given-names>
+</string-name> (<year>2015</year>). <article-title>Drought&#x02010;induced changes in flow regimes lead to long&#x02010;term losses in mussel&#x02010;provided ecosystem services</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>5</volume>(<issue>6</issue>), <fpage>1291</fpage>&#x02013;<lpage>1305</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.1442</pub-id>
+<pub-id pub-id-type="pmid">25859334</pub-id></mixed-citation></ref><ref id="ece35849-bib-0068"><mixed-citation publication-type="journal" id="ece35849-cit-0068">
+<string-name>
+<surname>Wan</surname>, <given-names>J. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jiang</surname>, <given-names>S. T.</given-names>
+</string-name> (<year>2005</year>). <article-title>Analysis and protecting countermeasures to water quatic about Poyang Lake</article-title>. <source xml:lang="en">Journal of Jiangxi Normal University (Natural Science)</source>, <volume>29</volume>, <fpage>260</fpage>&#x02013;<lpage>263</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0069"><mixed-citation publication-type="journal" id="ece35849-cit-0069">
+<string-name>
+<surname>Wentworth</surname>, <given-names>C. K. A.</given-names>
+</string-name> (<year>1922</year>). <article-title>A scale of grade and class terms for clastic sediments</article-title>. <source xml:lang="en">The Journal of Geology</source>, <volume>30</volume>(<issue>5</issue>), <fpage>377</fpage>&#x02013;<lpage>392</lpage>. <pub-id pub-id-type="doi">10.1086/622910</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0070"><mixed-citation publication-type="journal" id="ece35849-cit-0070">
+<string-name>
+<surname>Wiersma</surname>, <given-names>Y. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Urban</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>2005</year>). <article-title>Beta diversity and nature reserve system design in the Yukon, Canada</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>19</volume>, <fpage>1262</fpage>&#x02013;<lpage>1272</lpage>. <pub-id pub-id-type="doi">10.1111/j.1523-1739.2005.00099.x</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0071"><mixed-citation publication-type="book" id="ece35849-cit-0071">
+<string-name>
+<surname>Williams</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Bogan</surname>, <given-names>A. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Garner</surname>, <given-names>J. T.</given-names>
+</string-name> (<year>2008</year>). <source xml:lang="en">Freshwater Mussels of Alabama and the Mobile Basin in Georgia, Mississippi, and Tennessee</source>. <publisher-loc>Tuscaloosa, AL</publisher-loc>: <publisher-name>University of Alabama Press</publisher-name>.</mixed-citation></ref><ref id="ece35849-bib-0072"><mixed-citation publication-type="journal" id="ece35849-cit-0072">
+<string-name>
+<surname>Wu</surname>, <given-names>X. P.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>Y. L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>H. Z.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>Z. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ouyang</surname>, <given-names>S.</given-names>
+</string-name> (<year>2000</year>). <article-title>Distribution and species diversity of freshwater Mollosca of lakes along mid&#x02010;lower reaches of the Yangtze river</article-title>. <source xml:lang="en">Journal of Lake Sciences</source>, <volume>12</volume>, <fpage>111</fpage>&#x02013;<lpage>118</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0073"><mixed-citation publication-type="journal" id="ece35849-cit-0073">
+<string-name>
+<surname>Wu</surname>, <given-names>X. P.</given-names>
+</string-name>, <string-name>
+<surname>Ouyang</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hu</surname>, <given-names>Q. Y.</given-names>
+</string-name> (<year>1994</year>). <article-title>Bivalves (Mollusca) of the Poyang Lake</article-title>. <source xml:lang="en">Journal of Nanchang University</source>, <fpage>249</fpage>&#x02013;<lpage>252</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0074"><mixed-citation publication-type="journal" id="ece35849-cit-0074">
+<string-name>
+<surname>Xiao</surname>, <given-names>J. Z.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>X. M.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y. B.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ouyang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wu</surname>, <given-names>X. P.</given-names>
+</string-name> (<year>2013</year>). <article-title>Distribution and abundance of freshwater mussels along the middle and lower reaches of Ganjiang River in Jiangxi Province</article-title>. <source xml:lang="en">Resources and Environment in the Yangtze Basin</source>, <volume>21</volume>(<issue>11</issue>), <fpage>1330</fpage>&#x02013;<lpage>1335</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0075"><mixed-citation publication-type="journal" id="ece35849-cit-0075">
+<string-name>
+<surname>Xiong</surname>, <given-names>L. F.</given-names>
+</string-name>, <string-name>
+<surname>Ouyang</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wu</surname>, <given-names>X. P.</given-names>
+</string-name> (<year>2013</year>). <article-title>Fauna and standing crop of freshwater mussels in Poyang Lake, China</article-title>. <source xml:lang="en">Chinese Journal of Oceanology and Limnology</source>, <volume>30</volume>, <fpage>124</fpage>&#x02013;<lpage>135</lpage>. <pub-id pub-id-type="doi">10.1007/s00343-012-1070-6</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0076"><mixed-citation publication-type="book" id="ece35849-cit-0076">
+<string-name>
+<surname>Xu</surname>, <given-names>L.</given-names>
+</string-name> (<year>2013</year>). <source xml:lang="en">Species diversity of freshwater mussels in Poyang Lake and five rivers of Jiangxi Province and its response to changing water level</source>. <publisher-loc>Nanchang, China</publisher-loc>: <publisher-name>Nanchang University Press</publisher-name>.</mixed-citation></ref><ref id="ece35849-bib-0077"><mixed-citation publication-type="journal" id="ece35849-cit-0077">
+<string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>X. J.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>G. L.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>X. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ouyang</surname>, <given-names>S.</given-names>
+</string-name> (<year>2019</year>). <article-title>Beta diversity and factors that drive land&#x02010;snail patterns in Jiangxi Province, People's Republic of China</article-title>. <source xml:lang="en">Canada Journal of Zoology</source>, <volume>97</volume>, <fpage>705</fpage>&#x02013;<lpage>712</lpage>. <pub-id pub-id-type="doi">10.1139/cjz-2019-0002</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0078"><mixed-citation publication-type="journal" id="ece35849-cit-0078">
+<string-name>
+<surname>Zhang</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>G. L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y. B.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Ouyang</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wu</surname>, <given-names>X. P.</given-names>
+</string-name> (<year>2013</year>). <article-title>Species diversity, distribution and conservation of freshwater mollusk in Poyang Lake basin</article-title>. <source xml:lang="en">Marine Sciences</source>, <volume>37</volume>(<issue>8</issue>), <fpage>114</fpage>&#x02013;<lpage>124</lpage>.</mixed-citation></ref><ref id="ece35849-bib-0079"><mixed-citation publication-type="journal" id="ece35849-cit-0079">
+<string-name>
+<surname>Zieritz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bogan</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name>
+<surname>Froufe</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Klishko</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Kondo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kovitvadhi</surname>, <given-names>U.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zanatta</surname>, <given-names>D. T.</given-names>
+</string-name> (<year>2018</year>). <article-title>Diversity, biogeography and conservation of freshwater mussels (Bivalvia: Unionida) in East and Southeast Asia</article-title>. <source xml:lang="en">Hydrobiologia</source>, <volume>810</volume>, <fpage>29</fpage>&#x02013;<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1007/s10750-017-3104-8</pub-id>
+</mixed-citation></ref><ref id="ece35849-bib-0080"><mixed-citation publication-type="journal" id="ece35849-cit-0080">
+<string-name>
+<surname>Zieritz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lopes&#x02010;Lima</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bogan</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name>
+<surname>Sousa</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Walton</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rahim</surname>, <given-names>K. A. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>McGowan</surname>, <given-names>S.</given-names>
+</string-name> (<year>2016</year>). <article-title>Factors driving changes in freshwater mussel (Bivalvia, Unionida) diversity and distribution in Peninsular Malaysia</article-title>. <source xml:lang="en">Science of the Total Environment</source>, <volume>571</volume>, <fpage>1069</fpage>&#x02013;<lpage>1078</lpage>. <pub-id pub-id-type="doi">10.1016/j.scitotenv.2016.07.098</pub-id>
+<pub-id pub-id-type="pmid">27473771</pub-id></mixed-citation></ref><ref id="ece35849-bib-0081"><mixed-citation publication-type="journal" id="ece35849-cit-0081">
+<string-name>
+<surname>Zou</surname>, <given-names>Q. B.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>L. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chen</surname>, <given-names>J. R.</given-names>
+</string-name> (<year>2018</year>). <article-title>Study on calculation of scour downstream the dam of Bazizui hub of Xinjiang River</article-title>. <source xml:lang="en">Water Resources and Hydropower Engineering</source>, <volume>49</volume>(<issue>9</issue>), <fpage>155</fpage>&#x02013;<lpage>161</lpage>.</mixed-citation></ref></ref-list></back></article>

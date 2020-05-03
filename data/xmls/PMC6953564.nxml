@@ -1,0 +1,569 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938515</article-id><article-id pub-id-type="pmc">6953564</article-id><article-id pub-id-type="doi">10.1002/ece3.5857</article-id><article-id pub-id-type="publisher-id">ECE35857</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Differential roles of species richness versus species asynchrony in regulating community stability along a precipitation gradient</article-title><alt-title alt-title-type="left-running-head">CHI et al.</alt-title></title-group><contrib-group><contrib id="ece35857-cr-0001" contrib-type="author"><name><surname>Chi</surname><given-names>Yonggang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3418-1992</contrib-id><xref ref-type="aff" rid="ece35857-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35857-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="ece35857-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35857-cr-0002" contrib-type="author"><name><surname>Xu</surname><given-names>Zhuwen</given-names></name><xref ref-type="aff" rid="ece35857-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ece35857-cr-0003" contrib-type="author" corresp="yes"><name><surname>Zhou</surname><given-names>Lei</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8800-3614</contrib-id><xref ref-type="aff" rid="ece35857-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35857-aff-0005">
+<sup>5</sup>
+</xref><address><email>zhoulei@zjnu.cn</email></address></contrib><contrib id="ece35857-cr-0004" contrib-type="author"><name><surname>Yang</surname><given-names>Qingpeng</given-names></name><xref ref-type="aff" rid="ece35857-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="ece35857-cr-0005" contrib-type="author"><name><surname>Zheng</surname><given-names>Shuxia</given-names></name><xref ref-type="aff" rid="ece35857-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35857-cr-0006" contrib-type="author"><name><surname>Li</surname><given-names>Shao&#x02010;peng</given-names></name><xref ref-type="aff" rid="ece35857-aff-0007">
+<sup>7</sup>
+</xref><xref ref-type="aff" rid="ece35857-aff-0008">
+<sup>8</sup>
+</xref></contrib></contrib-group><aff id="ece35857-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">College of Geography and Environmental Sciences</named-content>
+<institution>Zhejiang Normal University</institution>
+<city>Jinhua</city>
+<country country="CN">China</country>
+</aff><aff id="ece35857-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory of Vegetation and Environmental Change</named-content>
+<named-content content-type="organisation-division">Institute of Botany</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="ece35857-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory of Resources and Environmental Information System</named-content>
+<named-content content-type="organisation-division">Institute of Geographic Sciences and Natural Resources Research</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="ece35857-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">School of Ecology and Environment</named-content>
+<institution>Inner Mongolia University</institution>
+<city>Hohhot</city>
+<country country="CN">China</country>
+</aff><aff id="ece35857-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Key Laboratory of Ecosystem Network Observation and Modeling</named-content>
+<named-content content-type="organisation-division">Institute of Geographic Sciences and Natural Resources Research</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="ece35857-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Key Laboratory of Forest Ecology and Management</named-content>
+<named-content content-type="organisation-division">Institute of Applied Ecology</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<city>Shenyang</city>
+<country country="CN">China</country>
+</aff><aff id="ece35857-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Zhejiang Tiantong Forest Ecosystem National Observation and Research Station</named-content>
+<named-content content-type="organisation-division">School of Ecological and Environmental Sciences</named-content>
+<institution>East China Normal University</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><aff id="ece35857-aff-0008">
+<label><sup>8</sup></label>
+<institution>Institute of Eco&#x02010;Chongming (IEC)</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Lei Zhou, College of Geography and Environmental Sciences, Zhejiang Normal University, Jinhua 321004, China.<break/>
+Email: <email>zhoulei@zjnu.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14244</fpage><lpage>14252</lpage><history><date date-type="received"><day>23</day><month>3</month><year>2019</year></date><date date-type="rev-recd"><day>18</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>28</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14244.pdf"/><abstract id="ece35857-abs-0001"><title>Abstract</title><p>Plant community may provide products and services to humans. However, patterns and drivers of community stability along a precipitation gradient remain unclear. A regional&#x02010;scale transect survey was conducted over a 3&#x02010;year period from 2013 to 2015, along a precipitation gradient from 275 to 555&#x000a0;mm and spanning 440&#x000a0;km in length from west to east in a temperate semiarid grassland of northern China, a central part of the Eurasian steppe. Our study provided regional&#x02010;scale evidence that the community stability increased with increasing precipitation in the semiarid ecosystem. The patterns of community stability along a precipitation gradient were ascribed to community composition and community dynamics, such as species richness and species asynchrony, rather than the abiotic effect of precipitation. Species richness regulated the temporal mean (<italic>&#x003bc;</italic>) of aboveground net primary productivity (ANPP), while species asynchrony regulated the temporal standard deviation (<italic>&#x003c3;</italic>) of ANPP, which in turn contributed to community stability. Our findings highlight the crucial role of community composition and community dynamics in regulating community stability under climate change.</p></abstract><abstract abstract-type="graphical" id="ece35857-abs-0002"><p>A regional&#x02010;scale transect survey was conducted over a 3&#x02010;year period from 2013 to 2015, along a precipitation gradient from 275 to 555&#x000a0;mm and spanning 440&#x000a0;km in length from west to east in a temperate semiarid grassland in northern China, a central part of the Eurasian steppe. Our study provided regional&#x02010;scale evidence that the community stability increased with increasing precipitation in the semiarid ecosystem.<boxed-text position="anchor" content-type="graphic" id="ece35857-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14244-g009.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35857-kwd-0001">climate change</kwd><kwd id="ece35857-kwd-0002">ecosystem functioning</kwd><kwd id="ece35857-kwd-0003">primary productivity</kwd><kwd id="ece35857-kwd-0004">semiarid ecosystem</kwd><kwd id="ece35857-kwd-0005">species evenness</kwd><kwd id="ece35857-kwd-0006">transect survey</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>National Key Research and Development Program of China</funding-source><award-id>2017YFB0504000</award-id><award-id>2016YFB0501501</award-id></award-group><award-group id="funding-0002"><funding-source>Natural Science Foundation of Zhejiang Province</funding-source><award-id>LY19C030004</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>National Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>31400393</award-id><award-id>41871084</award-id></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>State Key Laboratory of Resources and Environmental Information System </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100011131</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="9"/><word-count count="5669"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35857-cit-1001">
+<string-name>
+<surname>Chi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>S&#x02010;P</given-names>
+</string-name>. <article-title>Differential roles of species richness versus species asynchrony in regulating community stability along a precipitation gradient</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14244</fpage>&#x02013;<lpage>14252</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5857</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35857-body-0001"><sec id="ece35857-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Plant community may maintain biodiversity, conserve water resources, sequester carbon, and provide reliable products and services to humans (Li, Poisot, Waller, &#x00026; Baiser, <xref rid="ece35857-bib-0020" ref-type="ref">2018</xref>; Oliver et al., <xref rid="ece35857-bib-0027" ref-type="ref">2015</xref>). However, the earth has been observed to be experiencing unprecedented climate change, such as global warming and intensive drought (Geng et al., <xref rid="ece35857-bib-0008" ref-type="ref">2019</xref>; Zhou, Wang, Chi, &#x00026; Wang, <xref rid="ece35857-bib-0038" ref-type="ref">2018</xref>). Climate change would have profound effects on community composition and community dynamics (Chi, Xu, Shen, &#x00026; Wang, <xref rid="ece35857-bib-0003" ref-type="ref">2013</xref>), and subsequently influence community stability (Shi et al., <xref rid="ece35857-bib-0029" ref-type="ref">2016</xref>; Zhou, Wang, Chi, Ju, et al., <xref rid="ece35857-bib-0037" ref-type="ref">2018</xref>). Meanwhile, plant community with higher stability is expected to have stronger capacity to resist disturbances and quicker speed to return to its original state after disturbances (Willis, Jeffers, &#x00026; Tovar, <xref rid="ece35857-bib-0033" ref-type="ref">2018</xref>). Therefore, quantitative analysis of community stability is helpful for assessing ecosystem functioning and services under climate change.</p><p>Community stability is often defined as the constancy of the ecological variables over time and is usually described as the ratio of the temporal mean to the temporal standard deviation of aboveground net primary productivity (ANPP) (Lehman &#x00026; Tilman, <xref rid="ece35857-bib-0019" ref-type="ref">2000</xref>). The temporal mean of ANPP represents the photosynthetic capacity of plant community (Huang et al., <xref rid="ece35857-bib-0013" ref-type="ref">2018</xref>). In comparison, the temporal <italic>SD</italic> of ANPP indicates the sensitivity of plant community to climate change (Craven et al., <xref rid="ece35857-bib-0007" ref-type="ref">2018</xref>). In theory, the different magnitudes in the changes of the temporal mean and the temporal <italic>SD</italic> of ANPP will contribute to a shift in the community stability (Shi et al., <xref rid="ece35857-bib-0029" ref-type="ref">2016</xref>). However, little is known about the ecological processes regulating the temporal mean and the temporal <italic>SD</italic> of ANPP.</p><p>Precipitation is an essential factor that largely controls community stability, especially in semiarid ecosystems (Huston, <xref rid="ece35857-bib-0014" ref-type="ref">2012</xref>). On the one hand, precipitation affects community stability (Wilcox, Blair, Smith, &#x00026; Knapp, <xref rid="ece35857-bib-0032" ref-type="ref">2016</xref>) through the changes in abiotic drivers, such as soil water content (Knapp et al., <xref rid="ece35857-bib-0017" ref-type="ref">2008</xref>), temperature (Guo et al., <xref rid="ece35857-bib-0010" ref-type="ref">2015</xref>), incident radiation (Nijp et al., <xref rid="ece35857-bib-0025" ref-type="ref">2015</xref>), and soil nutrient availability (Niu et al., <xref rid="ece35857-bib-0026" ref-type="ref">2017</xref>). On the other hand, precipitation influences community stability via changes in community compositions and dynamics, such as species richness (Isbell, Polley, &#x00026; Wilsey, <xref rid="ece35857-bib-0015" ref-type="ref">2009</xref>), species evenness (Hallett et al., <xref rid="ece35857-bib-0011" ref-type="ref">2014</xref>), and species asynchrony (Xu et al., <xref rid="ece35857-bib-0035" ref-type="ref">2015</xref>). Although the effects of precipitation on community stability have been well documented, the patterns of community stability along a precipitation gradient are inconsistent, varying from neutral (Hallett et al., <xref rid="ece35857-bib-0011" ref-type="ref">2014</xref>) to positive (Bai et al., <xref rid="ece35857-bib-0001" ref-type="ref">2008</xref>). Therefore, disentangling the relative contributions of the direct versus indirect effects of precipitation on the community stability is essential for gaining a thorough understanding of ecosystem functioning in semiarid regions under climate change.</p><p>The semiarid grassland of northern China, with an area of 313 million&#x000a0;hm<sup>2</sup> and a plant species richness of 2,300 (Kang, Han, Zhang, &#x00026; Sun, <xref rid="ece35857-bib-0016" ref-type="ref">2007</xref>), plays an important role in serving the economy and well&#x02010;being of people residing in the region (Figure <xref rid="ece35857-fig-0001" ref-type="fig">1</xref>). The Inner Mongolian grasslands are now fenced off into individual pastures for two different management forms (mowing and grazing) (Chi, Zhou, Yang, Li, &#x00026; Zheng, <xref rid="ece35857-bib-0006" ref-type="ref">2019</xref>). The grass for mowing is cut by machines and compressed into hay bales that can be delivered to a herder's home. Herdsmen no longer need to find good pastures and have said goodbye to the traditional nomadic way. In addition, a decrease in precipitation amount is observed in this area under climate change (Xu et al., <xref rid="ece35857-bib-0034" ref-type="ref">2012</xref>). Drought is likely to cause deterioration in ecosystem functioning and services provided by grasslands (Chi et al., <xref rid="ece35857-bib-0005" ref-type="ref">2018</xref>). It is necessary to evaluate the community stability of this region under precipitation change.</p><fig fig-type="Figure" xml:lang="en" id="ece35857-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Herdsmen collected grass in East Ujimqin Banner (45.27&#x000b0;N, 116.72&#x000b0;E) on the temperate semiarid grassland in northern China, a central part of the Eurasian steppe</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14244-g001"/></fig><p>In this study, a regional&#x02010;scale transect survey was conducted over a 3&#x02010;year period from 2013 to 2015, along a precipitation gradient from 275 to 555&#x000a0;mm and spanning 440&#x000a0;km in length from west to east in a temperate semiarid grassland of northern China, a central part of the Eurasian steppe. We aimed to (a) explore the patterns of community stability along a precipitation gradient and (b) elucidate the drivers of community stability at the regional scale. To address the two questions, we hypothesize that drier sites have a lower ANPP, species richness, and community stability, while wetter sites have a higher ANPP, species richness, and community stability, because plant growth and community composition are regulated predominantly by precipitation in semiarid grassland.</p></sec><sec sec-type="materials-and-methods" id="ece35857-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35857-sec-0003"><label>2.1</label><title>Study area and experimental design</title><p>The study was conducted in temperate semiarid grassland in northern China (Figure <xref rid="ece35857-fig-0002" ref-type="fig">2</xref>). The study area is located at 43.46&#x000b0;N&#x02013;45.83&#x000b0;N, 115.78&#x000b0;E&#x02013;119.72&#x000b0;E, and the elevation is between 908 and 1,257&#x000a0;m. The long&#x02010;term (1980&#x02013;2015) mean annual precipitation (MAP) ranges from 275&#x000a0;mm for the drier western regions to 555&#x000a0;mm in the wetter eastern regions, approximately 80% of which falls during the growing season from May to August. The mean annual temperature (MAT) ranges from 0.02 to 2.27&#x000b0;C, with the lowest mean monthly temperature in January and the highest in July.</p><fig fig-type="Figure" xml:lang="en" id="ece35857-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Study area and locations of the 10 sites along a precipitation gradient from 275 to 555&#x000a0;mm and spanning 440&#x000a0;km in length from west to east in temperate semiarid grassland in northern China. The satellite image of Asia is from the National Aeronautics and Space Administration. The mean annual precipitation (MAP) in each site is indicated next to the circle. Individual site name abbreviations are as follows: AER, Aershan; BAI, Baiyinxile; BAY, Bayanbaolige; DAL, Dalinuoer; DON, Dongwu; GAN, Ganqiaobao; HAL, Halagaitu; HUO, Huolinguole; WUL, Wulagai; XIL, Xilinhot</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14244-g002"/></fig><p>A regional&#x02010;scale transect was established along a precipitation gradient, which spanned 440&#x000a0;km in length from west to east (Table <xref rid="ece35857-sup-0001" ref-type="supplementary-material">S1</xref>). A total of 10 sites were selected along this transect, including 6 typical steppe and 4 meadow steppe sites. The selected area was not grazed by large herbivores but mowed for hay harvest in the autumn. Land use and management were consistent across the ten sites. The typical steppe, located in the western part of the precipitation gradient, is dominated by <italic>Leymus chinensis</italic> (Trin.) Tzvel. (Graminoid), <italic>Carex enervis</italic> C. A. Mey. (Forbs), <italic>Cleistogenes squarrosa</italic> (Trin.) Keng (Graminoid), and <italic>Stipa grandis</italic> P. Smirn. (Graminoid), has lower species richness and productivity. The meadow steppe, located in the eastern part of the precipitation gradient, is dominated by <italic>C.&#x000a0;enervis</italic> C. A. Mey. (Forbs), <italic>L.&#x000a0;chinensis</italic> (Trin.) Tzvel. (Graminoid), <italic>C.&#x000a0;squarrosa</italic> (Trin.) Keng (Graminoid), and <italic>Agropyron cristatum</italic> (L.) Garrtn. (Graminoid), has higher species richness and productivity. A total of 99 species were found in the study area. However, not all species appeared across both types of steppe. For example, <italic>Artemisia tanacetigolia</italic> L. (Forbs) was found only in the typical steppe, while <italic>Iris ventricosa</italic> Pall. (Forbs) was found only in the meadow steppe. The precipitation range of typical steppe is 250&#x02013;400&#x000a0;mm, while that of meadow steppe is 350&#x02013;500&#x000a0;mm (Bai et al., <xref rid="ece35857-bib-0001" ref-type="ref">2008</xref>). Therefore, the 350&#x02013;400&#x000a0;mm precipitation occurs in the boundary between typical steppe and meadow steppe. In our current study, the main plant functional type in the sites AER, DON, BAY, WUL, XIL, and BAI are typical steppe, while the sites HAL, GAN, HUO, and DAL are situated in meadow steppe.</p><p>The soil in typical steppe and meadow steppe is classified as typical chestnut and dark chestnut, respectively, both of which are Calcic Chernozem according to International Society of Soil Science (Chi, Xu, Shen, Yang, et al., <xref rid="ece35857-bib-0004" ref-type="ref">2013</xref>). Soil pH in the top 10&#x000a0;cm layer decreased from 7.43&#x000a0;&#x000b1;&#x000a0;0.04 in the typical steppe to 7.03&#x000a0;&#x000b1;&#x000a0;0.06 in the meadow steppe (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001, Table <xref rid="ece35857-sup-0001" ref-type="supplementary-material">S1</xref>). However, no statistical difference in soil total nitrogen of the top 10&#x000a0;cm layer was observed for the typical steppe (1.26&#x000a0;&#x000b1;&#x000a0;0.08&#x000a0;g/kg) and the meadow steppe (1.21&#x000a0;&#x000b1;&#x000a0;0.09&#x000a0;g/kg) (<italic>p</italic>&#x000a0;=&#x000a0;.683, Table <xref rid="ece35857-sup-0001" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="ece35857-sec-0004"><label>2.2</label><title>Transect survey and field sampling</title><p>A transect survey was carried out during August, corresponding to the annual peak in standing biomass, over a 3&#x02010;year period from 2013 to 2015. The selected area in each site was relatively uniform based on plant&#x000a0;height and community composition. The 1&#x000a0;&#x000d7;&#x000a0;1&#x000a0;m quadrats were selected within a 100&#x000a0;&#x000d7;&#x000a0;100&#x000a0;m area on each study site in 2013. The distance between any two quadrats was more than 10&#x000a0;m. The quadrats of 2014 and 2015 were selected next to the quadrats of 2013 in order to reduce spatial heterogeneity of plant community. Species richness was recorded according to the total number of plant species found in each 1&#x000a0;&#x000d7;&#x000a0;1&#x000a0;m quadrat. The number of individuals of each species in each quadrat was counted. Then, all vascular plants within each 1&#x000a0;&#x000d7;&#x000a0;1&#x000a0;m quadrat were clipped and sorted into species. The aboveground biomass of each species in each quadrat was determined as the weight of the aboveground plant material after oven drying at 65&#x000ba;C for 48&#x000a0;hr. The annual ANPP of the community was the sum of the aboveground biomass of each species, which is an acceptable approximation in this region because aboveground plant tissues die during winter (Zhang et al., <xref rid="ece35857-bib-0036" ref-type="ref">2018</xref>). A total of 180 quadrats were sampled (i.e., 6 quadrats per site&#x000a0;&#x000d7;&#x000a0;10 sites per year&#x000a0;&#x000d7;&#x000a0;3&#x000a0;years&#x000a0;=&#x000a0;180 quadrats).</p></sec><sec id="ece35857-sec-0005"><label>2.3</label><title>Community stability and dynamics</title><p>The community stability was quantified as the ratio of the temporal mean (<italic>&#x003bc;</italic>) to the temporal <italic>SD</italic> (<italic>&#x003c3;</italic>) of ANPP over the 3&#x02010;year period of the transect survey (Tilman, <xref rid="ece35857-bib-0030" ref-type="ref">1999</xref>). The temporal mean (<italic>&#x003bc;</italic>) of ANPP was defined as the mean of each individual quadrat over 3&#x000a0;years. A larger value of community stability indicates smaller interannual variability in community biomass (Hautier et al., <xref rid="ece35857-bib-0012" ref-type="ref">2014</xref>).</p><p>Species richness (<italic>S</italic>) was defined as the total number of plant species detected in the quadrat. Species evenness (<italic>E</italic>) was quantified by Pielou's evenness index (Pielou, <xref rid="ece35857-bib-0028" ref-type="ref">1966</xref>), defined as:<disp-formula id="ece35857-disp-0001"><label>(1)</label><mml:math id="nlm-math-1"><mml:mrow><mml:mi>E</mml:mi><mml:mo>=</mml:mo><mml:mo>-</mml:mo><mml:msubsup><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>S</mml:mi></mml:msubsup><mml:mrow><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mi>ln</mml:mi><mml:msub><mml:mi>P</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mfenced><mml:mo stretchy="false">/</mml:mo><mml:mi>ln</mml:mi><mml:mi>S</mml:mi></mml:mrow></mml:mrow></mml:math></disp-formula>where <italic>S</italic> is the number of species, and <italic>P<sub>i</sub></italic> is the relative abundance of the <italic>i</italic>th species. This index is 1 when the relative abundances of each species are perfectly equal and 0 when the relative abundances of each species are perfectly unequal. Species asynchrony was quantified by the community&#x02010;wide asynchrony index (Loreau &#x00026; de Mazancourt, <xref rid="ece35857-bib-0021" ref-type="ref">2008</xref>), defined as:<disp-formula id="ece35857-disp-0002"><label>(2)</label><mml:math id="nlm-math-2"><mml:mrow><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msub><mml:mi>&#x003c6;</mml:mi><mml:mi>x</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msup><mml:mi>&#x003c3;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo stretchy="false">/</mml:mo><mml:msup><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:msubsup><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>S</mml:mi></mml:msubsup><mml:msub><mml:mi>&#x003c3;</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mfenced><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:math></disp-formula>where <italic>&#x003c6;<sub>x</sub></italic> is species synchrony, <italic>&#x003c3;</italic>
+<sup>2</sup> is the temporal variance of the annual ANPP, and <italic>&#x003c3;<sub>i</sub></italic> is the <italic>SD</italic> of the annual ANPP of the <italic>i</italic>th species in a plot with <italic>S</italic> species. This index is 1 when the interannual changes of species are perfectly asynchronized and 0 when the interannual changes of species are perfectly synchronized.</p></sec><sec id="ece35857-sec-0006"><label>2.4</label><title>Climate data</title><p>The MAP and MAT of each site from 1980 to 2015 were interpolated with a geographic information system (GIS)&#x02010;based multiple&#x02010;regression method using latitude, longitude, and altitude as predictors. Meteorological data from 47 meteorology stations in the temperate semiarid grassland of northern China were provided by the Chinese National Meteorological Information Centre.</p></sec><sec id="ece35857-sec-0007"><label>2.5</label><title>Statistical analysis</title><p>Linear mixed models were used to evaluate the effects of MAP, MAT, elevation, vegetation type and site on the community stability, species richness, and species asynchrony. In all models, MAP, MAT, elevation, and vegetation type served as fixed factors, and site was included as a random factor. The data of community stability were natural log transformed to meet the assumptions of normality and heterogeneity in linear mixed models. In addition, linear regression analyses were used to evaluate the effects of MAP, species richness, and species asynchrony on the community stability. A probability (<italic>p</italic>) value of &#x0003c;.05 was considered to be statistically significant. All statistical analyses were performed using SPSS 17.0 (SPSS Inc.).</p><p>Structural equation models (SEMs) were used to explore the direct effects of precipitation on the community stability versus the indirect effects through changes in species richness and species asynchrony. We focused on the two components of community stability (the temporal mean and the <italic>SD</italic> of ANPP) as our two response variables, to disentangle whether precipitation influenced community stability via changes in temporal mean and/or temporal variation. The temporal mean is a proxy for the level of ANPP, while the temporal <italic>SD</italic> is a proxy for the annual variation in ANPP. The two components of community stability are related to forage provision, forage store, economy, and well&#x02010;being of people residing in the region. The fit of the model was evaluated using the chi&#x02010;squared (<italic>&#x003c7;</italic>
+<sup>2</sup>) test and the root mean square error of approximation (RMSEA). SEMs analysis was performed with Amos 21.0 (Amos Development Corporation).</p><p>Redundancy analysis (RDA) was performed to evaluate community composition and dynamics shifted across sites and across years. Climatic, topographic, and soil properties were included in this analysis such as MAP, MAT, elevation, and soil pH. Environmental factors with significant influence on community structure were selected based on the results of forward selection. RDA was applied using Canoco Version 5.0 (CANOCO).</p></sec></sec><sec sec-type="results" id="ece35857-sec-0008"><label>3</label><title>RESULTS</title><sec id="ece35857-sec-0009"><label>3.1</label><title>Community stability and its drivers</title><p>The results produced by the linear mixed models indicated that MAP was a significant explanatory variable of community stability and species richness (both <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05), while MAT, elevation, and vegetation type were not significant factors (all <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05) (Table <xref rid="ece35857-sup-0001" ref-type="supplementary-material">S2</xref>). Community stability increased significantly from the drier to the wetter regions across a precipitation gradient (<italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.22, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001; Figure <xref rid="ece35857-fig-0003" ref-type="fig">3</xref>). The temporal mean (<italic>&#x003bc;</italic>) of ANPP was significantly positively related with MAP (<italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.24, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001; Figure <xref rid="ece35857-fig-0003" ref-type="fig">3</xref>). In contrast, the temporal <italic>SD</italic> (<italic>&#x003c3;</italic>) of ANPP was not significantly related with MAP, but showed a general decreasing trend from the drier to the wetter sites (<italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.03, <italic>p</italic>&#x000a0;=&#x000a0;.213; Figure <xref rid="ece35857-fig-0003" ref-type="fig">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35857-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>The relationships between mean annual precipitation (MAP) and community stability (a), the temporal mean (<italic>&#x003bc;</italic>) of aboveground net primary productivity (ANPP) (b), and the temporal <italic>SD</italic> (<italic>&#x003c3;</italic>) of ANPP (c) along a precipitation gradient from 275 to 555&#x000a0;mm and spanning 440&#x000a0;km in length from west to east in a temperate semiarid grassland in northern China. The gray lines show the linear fit within the 95% confidence interval. Each color corresponds to one site</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14244-g003"/></fig><p>Species richness and species asynchrony increased significantly from the drier to the wetter regions across a precipitation gradient (<italic>R</italic>
+<sup>2</sup>&#x000a0;&#x0003e;&#x000a0;0.08 and <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05 for both, Figure <xref rid="ece35857-fig-0004" ref-type="fig">4</xref>). Community stability was significantly positively related with species richness (<italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.17 and <italic>p</italic>&#x000a0;=&#x000a0;.001) and species asynchrony (<italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.37 and <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) (Figure <xref rid="ece35857-fig-0005" ref-type="fig">5</xref>). In addition, correlation analyses were performed to evaluate the relationships of species richness with species evenness (Figure <xref rid="ece35857-sup-0001" ref-type="supplementary-material">S1</xref>). Species richness was significantly positively correlated with species evenness (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001, Figure <xref rid="ece35857-sup-0001" ref-type="supplementary-material">S1</xref>). So, species richness was maintained as explanatory variable, while species evenness was removed.</p><fig fig-type="Figure" xml:lang="en" id="ece35857-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The relationships between mean annual precipitation (MAP) and species richness (a) and species asynchrony (b) along a precipitation gradient from 275 to 555&#x000a0;mm and spanning 440&#x000a0;km in length from west to east in temperate semiarid grassland of northern China. The gray lines show the linear fit within the 95% confidence interval. Each color corresponds to one site</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-14244-g004"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35857-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Community stability as a function of species richness (a) and species asynchrony (b) along a precipitation gradient from 275 to 555&#x000a0;mm and spanning 440&#x000a0;km in length from west to east in a temperate semiarid grassland in northern China. Each color corresponds to one site</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-9-14244-g005"/></fig></sec><sec id="ece35857-sec-0010"><label>3.2</label><title>Direct and indirect effects on community stability</title><p>The SEMs showed that precipitation had no direct effect on <italic>&#x003bc;</italic> of ANPP (SEMs; path coefficients&#x000a0;=&#x000a0;0.28, but <italic>p</italic>&#x000a0;=&#x000a0;.171) or <italic>&#x003c3;</italic> of ANPP (SEMs; path coefficients&#x000a0;=&#x000a0;&#x02212;0.08, but <italic>p</italic>&#x000a0;=&#x000a0;.611), but it had an indirect effect via community composition and dynamics (Figures <xref rid="ece35857-fig-0006" ref-type="fig">6</xref> and <xref rid="ece35857-fig-0007" ref-type="fig">7</xref>). Specifically, precipitation increased not only species richness (SEMs; path coefficients&#x000a0;=&#x000a0;0.85 and <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001), which in turn increased <italic>&#x003bc;</italic> of ANPP (SEMs; path coefficients&#x000a0;=&#x000a0;0.33 and <italic>p</italic>&#x000a0;=&#x000a0;.046), but also species asynchrony (SEMs; path coefficients&#x000a0;=&#x000a0;0.28 and <italic>p</italic>&#x000a0;=&#x000a0;.023), which in turn decreased <italic>&#x003bc;</italic> of ANPP (SEMs; path coefficients&#x000a0;=&#x000a0;&#x02212;0.23 and <italic>p</italic>&#x000a0;=&#x000a0;.041; Figure <xref rid="ece35857-fig-0006" ref-type="fig">6</xref>). Because the positive effect via species richness (0.85&#x000a0;&#x000d7;&#x000a0;0.33&#x000a0;=&#x000a0;0.28) was greater in magnitude than the negative effect via species asynchrony (0.28&#x000a0;&#x000d7;&#x000a0;&#x02212;0.23=&#x02212;0.06), the total effect of precipitation on <italic>&#x003bc;</italic> of ANPP was positive (0.28&#x000a0;&#x02013;&#x000a0;0.06&#x000a0;=&#x000a0;0.22; Figure <xref rid="ece35857-fig-0007" ref-type="fig">7</xref>). Conversely, precipitation increased species asynchrony (SEMs; path coefficients&#x000a0;=&#x000a0;0.28 and <italic>p</italic>&#x000a0;=&#x000a0;.023), which in turn decreased <italic>&#x003c3;</italic> of ANPP (SEMs; path coefficients&#x000a0;=&#x000a0;&#x02212;0.80 and <italic>p&#x000a0;&#x0003c;&#x000a0;</italic>.001; Figure <xref rid="ece35857-fig-0006" ref-type="fig">6</xref>). Therefore, the total effect of precipitation on <italic>&#x003c3;</italic> of ANPP was negative (0.28&#x000a0;&#x000d7;&#x000a0;&#x02212;0.80&#x000a0;=&#x000a0;&#x02212;0.22; Figure <xref rid="ece35857-fig-0007" ref-type="fig">7</xref>). When the two stability components, that is, <italic>&#x003bc;</italic> and <italic>&#x003c3;</italic> of ANPP, were evaluated together, the results suggest that the overall effect of precipitation on the community stability is positive (Figures <xref rid="ece35857-fig-0003" ref-type="fig">3</xref> and <xref rid="ece35857-fig-0006" ref-type="fig">6</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35857-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Structural equation models (SEMs) were used to examine the effects of precipitation on the two components of the community stability, the temporal mean (<italic>&#x003bc;</italic>) of aboveground net primary productivity (ANPP), and the temporal <italic>SD</italic> (<italic>&#x003c3;</italic>) of ANPP, via pathways of direct versus indirect effects (<italic>n</italic>&#x000a0;=&#x000a0;60, 6 quadrats per site&#x000a0;&#x000d7;&#x000a0;10 sites). The solid red arrows represent positive paths (<italic>p&#x000a0;&#x0003c;&#x000a0;</italic>.05), the solid blue arrows represent negative paths (<italic>p&#x000a0;&#x0003c;&#x000a0;</italic>.05), and the dotted gray arrows represent nonsignificant paths (<italic>p&#x000a0;&#x0003e;&#x000a0;</italic>.05). Values associated with the solid arrows represent standardized path coefficients, that is, partial regression coefficients. The arrow width is proportional to the strength of the relationship. The amount of variance explained (<italic>R</italic>
+<sup>2</sup>) in the two components (<italic>&#x003bc;</italic> and <italic>&#x003c3;</italic> of ANPP) of community stability is also shown</p></caption><graphic id="nlm-graphic-13" xlink:href="ECE3-9-14244-g006"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35857-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Standardized effects of precipitation on the (a) the temporal mean (<italic>&#x003bc;</italic>) of community biomass, and (b) the temporal <italic>SD</italic> (<italic>&#x003c3;</italic>) of aboveground net primary productivity (ANPP), derived from the structural equation models (SEMs) of Figure <xref rid="ece35857-fig-0006" ref-type="fig">6</xref>
+</p></caption><graphic id="nlm-graphic-15" xlink:href="ECE3-9-14244-g007"/></fig><p>The RDA showed that four environmental factors (MAP, MAT, elevation, and soil pH) were selected and included in the RDA framework (Figure <xref rid="ece35857-fig-0008" ref-type="fig">8</xref>). The RDA was globally significant (<italic>p</italic>&#x000a0;=&#x000a0;.006) with an adjusted coefficient of determination (<italic>R</italic>
+<sub>adj</sub>
+<sup>2</sup>) of 0.072. The first two axes of the RDA model explained 10.83% and 7.47% of the total variation, respectively (Figure <xref rid="ece35857-fig-0008" ref-type="fig">8</xref>). RDA correlation plot showed variance in plant community composition across the ten sites explained by significant environmental variables (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05, Figure <xref rid="ece35857-fig-0008" ref-type="fig">8</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35857-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Redundancy analysis (RDA) correlation plot showing variance in plant community composition across the ten sites explained by significant environmental variables (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05). Each color corresponds to one site. Sampling years are distinguished by circle sizes as following: 2013 (small), 2014 (medium), and 2015 (large). MAP, mean annual precipitation; MAT, mean annual temperature</p></caption><graphic id="nlm-graphic-17" xlink:href="ECE3-9-14244-g008"/></fig></sec></sec><sec sec-type="discussion" id="ece35857-sec-0011"><label>4</label><title>DISCUSSION</title><sec id="ece35857-sec-0012"><label>4.1</label><title>Patterns and drivers of community stability along a precipitation gradient</title><p>Our study showed that community stability increased from the drier to the wetter regions in the temperate semiarid grassland of northern China, a central part of the Eurasian steppe (Figure <xref rid="ece35857-fig-0003" ref-type="fig">3</xref>). The results of our study from the transect survey at the regional scale confirmed the positive precipitation&#x02013;stability relationships reported from the manipulation experiments at the local scale (Xu et al., <xref rid="ece35857-bib-0035" ref-type="ref">2015</xref>). Observational study predicts a decrease in annual precipitation amount in this area (Xu et al., <xref rid="ece35857-bib-0034" ref-type="ref">2012</xref>). Therefore, grassland community stability may be weakened in the future, providing lesser predictability of ecosystem functioning and services.</p><p>In the current study, the patterns of community stability along a precipitation gradient were ascribed to community composition and dynamics, such as species richness and species asynchrony, rather than the abiotic effect of precipitation (Figure <xref rid="ece35857-fig-0005" ref-type="fig">5</xref>). Although a few papers have reported that abiotic factors may directly influence the community stability (Bai et al., <xref rid="ece35857-bib-0001" ref-type="ref">2008</xref>), many studies found that community composition and dynamics were the dominant determinants that indirectly affected the variation in community stability under climate change (Hautier et al., <xref rid="ece35857-bib-0012" ref-type="ref">2014</xref>). For example, experimental warming lowered community stability by reducing the degree of species asynchrony on the Tibetan Plateau (Ma et al., <xref rid="ece35857-bib-0023" ref-type="ref">2017</xref>). An increase in precipitation elevated the community stability by increasing the stability of the dominant species in semiarid grassland (Xu et al., <xref rid="ece35857-bib-0035" ref-type="ref">2015</xref>). Nitrogen enrichment weakened community stability by decreasing the number of plant species on the Eurasian steppe (Lan &#x00026; Bai, <xref rid="ece35857-bib-0018" ref-type="ref">2012</xref>). Our results based on transect survey highlight the importance of community composition and dynamics in regulating community stability under climate&#x000a0;change. Biodiversity and their asynchronous responses might provide insurance effects for ecosystem functioning and services in Eurasian steppe.</p></sec><sec id="ece35857-sec-0013"><label>4.2</label><title>Differential drive mechanisms of species diversity versus species asynchrony</title><p>Although both species richness and species asynchrony drove the change in the community stability along a precipitation gradient, the two factors governed different components of community stability (Figures <xref rid="ece35857-fig-0006" ref-type="fig">6</xref> and <xref rid="ece35857-fig-0007" ref-type="fig">7</xref>). In principle, species richness may influence community stability because more diverse communities are more likely to contain species that are resistant to climate change (Loreau &#x00026; Hector, <xref rid="ece35857-bib-0022" ref-type="ref">2001</xref>; Tilman et al., <xref rid="ece35857-bib-0031" ref-type="ref">2001</xref>). Species asynchrony can mirror interspecific competition and heterogeneity in species responses to climate change (response diversity) (Bl&#x000fc;thgen et al., <xref rid="ece35857-bib-0002" ref-type="ref">2016</xref>). Our study based on the transect survey further quantified that species richness positively regulated the temporal mean (<italic>&#x003bc;</italic>) of ANPP, whereas species asynchrony negatively controlled the temporal <italic>SD</italic> (<italic>&#x003c3;</italic>) of ANPP (Figure <xref rid="ece35857-fig-0006" ref-type="fig">6</xref>). Furthermore, a positive relationship between species richness and <italic>&#x003bc;</italic> of ANPP has been reported from theoretical model (Mougi &#x00026; Kondoh, <xref rid="ece35857-bib-0024" ref-type="ref">2012</xref>), field observation (Bai et al., <xref rid="ece35857-bib-0001" ref-type="ref">2008</xref>), and a manipulative experiment (Gross et al., <xref rid="ece35857-bib-0009" ref-type="ref">2014</xref>). A negative relationship between species asynchrony and <italic>&#x003c3;</italic> of ANPP has also been found in a meta&#x02010;analysis of 39 grassland biodiversity experiments (Craven et al., <xref rid="ece35857-bib-0007" ref-type="ref">2018</xref>). Therefore, our study demonstrated the differential mechanisms of species richness versus species asynchrony in regulating community stability.</p></sec></sec><sec sec-type="conclusions" id="ece35857-sec-0014"><label>5</label><title>CONCLUSIONS</title><p>Our study found that community stability increased with increasing precipitation in the temperate semiarid grassland. This result suggested that a decrease in annual precipitation amount under climate change could reduce the ability of our study community to provide reliable products and services for humans. Furthermore, our study provided the evidence that species richness regulated <italic>&#x003bc;</italic> of ANPP, while species asynchrony regulated <italic>&#x003c3;</italic> of ANPP. These findings highlight the relationship between community composition and dynamics and ANPP in semiarid ecosystems under climate change.</p></sec><sec sec-type="COI-statement" id="ece35857-sec-0015"><title>CONFLICT OF INTERESTS</title><p>The authors have no conflict of interests to declare.</p></sec><sec id="ece35857-sec-0016"><title>AUTHOR CONTRIBUTIONS</title><p>Yonggang Chi (YC) designed the research. YC and Lei Zhou (LZ) conducted the field sampling and the sample analyses. YC, Zhuwen Xu (ZX), LZ, Qingpeng Yang (QY), Shuxia Zheng (SZ), and Shao&#x02010;peng Li (SL) analyzed the data and wrote the manuscript. All authors approved the final version of the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35857-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14244-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35857-sec-0019"><title>ACKNOWLEDGMENTS</title><p>This study was supported financially by National Key Research and Development Program of China (2017YFB0504000 and 2016YFB0501501), Natural Science Foundation of Zhejiang Province (LY19C030004), National Natural Science Foundation of China (31400393 and 41871084), and a grant from State Key Laboratory of Resources and Environmental Information System.</p></ack><sec sec-type="data-availability" id="ece35857-sec-0018"><title>DATA AVAILABILITY STATEMENT</title><p>Data available from the Dryad Digital Repository: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.qz612jm96" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.qz612jm96</ext-link>.</p></sec><ref-list content-type="cited-references" id="ece35857-bibl-0001"><title>REFERENCES</title><ref id="ece35857-bib-0001"><mixed-citation publication-type="journal" id="ece35857-cit-0001">
+<string-name>
+<surname>Bai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Xing</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Han</surname>, <given-names>X.</given-names>
+</string-name> (<year>2008</year>). <article-title>Primary production and rain use efficiency across a precipitation gradient on the Mongolia Plateau</article-title>. <source xml:lang="en">Ecology</source>, <volume>89</volume>, <fpage>2140</fpage>&#x02013;<lpage>2153</lpage>. <pub-id pub-id-type="doi">10.1890/07-0992.1</pub-id>
+<pub-id pub-id-type="pmid">18724724</pub-id></mixed-citation></ref><ref id="ece35857-bib-0002"><mixed-citation publication-type="journal" id="ece35857-cit-0002">
+<string-name>
+<surname>Bl&#x000fc;thgen</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Simons</surname>, <given-names>N. K.</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Prati</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Renner</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Boch</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Gossner</surname>, <given-names>M. M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Land use imperils plant and animal community stability through changes in asynchrony rather than diversity</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>7</volume>, <elocation-id>10697</elocation-id>
+<pub-id pub-id-type="doi">10.1038/ncomms10697</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0003"><mixed-citation publication-type="journal" id="ece35857-cit-0003">
+<string-name>
+<surname>Chi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Acclimation of leaf dark respiration to nocturnal and diurnal warming in a semiarid temperate steppe</article-title>. <source xml:lang="en">Functional Plant Biology</source>, <volume>40</volume>, <fpage>1159</fpage>&#x02013;<lpage>1167</lpage>. <pub-id pub-id-type="doi">10.1071/FP12369</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0004"><mixed-citation publication-type="journal" id="ece35857-cit-0004">
+<string-name>
+<surname>Chi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wan</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Acclimation of foliar respiration and photosynthesis in response to experimental warming in a temperate steppe in northern China</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>(<issue>2</issue>), <elocation-id>e56482</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0056482</pub-id>
+<pub-id pub-id-type="pmid">23457574</pub-id></mixed-citation></ref><ref id="ece35857-bib-0005"><mixed-citation publication-type="journal" id="ece35857-cit-0005">
+<string-name>
+<surname>Chi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>X.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Xu</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Rainfall&#x02010;dependent influence of snowfall on species loss</article-title>. <source xml:lang="en">Environmental Research Letters</source>, <volume>13</volume>, <elocation-id>094002</elocation-id>
+<pub-id pub-id-type="doi">10.1088/1748-9326/aad914</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0006"><mixed-citation publication-type="journal" id="ece35857-cit-0006">
+<string-name>
+<surname>Chi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zheng</surname>, <given-names>S.</given-names>
+</string-name> (<year>2019</year>). <article-title>Increased snowfall weakens complementarity of summer water use by different plant functional groups</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>9</volume>, <fpage>4264</fpage>&#x02013;<lpage>4274</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5058</pub-id>
+<pub-id pub-id-type="pmid">31016003</pub-id></mixed-citation></ref><ref id="ece35857-bib-0007"><mixed-citation publication-type="journal" id="ece35857-cit-0007">
+<string-name>
+<surname>Craven</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Eisenhauer</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Pearse</surname>, <given-names>W. D.</given-names>
+</string-name>, <string-name>
+<surname>Hautier</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Isbell</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Roscher</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Manning</surname>, <given-names>P.</given-names>
+</string-name> (<year>2018</year>). <article-title>Multiple facets of biodiversity drive the diversity&#x02010;stability relationship</article-title>. <source xml:lang="en">Nature Ecology and Evoltion</source>, <volume>2</volume>(<issue>10</issue>), <fpage>1579</fpage>&#x02013;<lpage>1587</lpage>. <pub-id pub-id-type="doi">10.1038/s41559-018-0647-7</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0008"><mixed-citation publication-type="journal" id="ece35857-cit-0008">
+<string-name>
+<surname>Geng</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zong</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Zu</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhu</surname>, <given-names>W.</given-names>
+</string-name> (<year>2019</year>). <article-title>Diversity of vegetation composition enhances ecosystem stability along elevational gradients in the Taihang Mountains, China</article-title>. <source xml:lang="en">Ecological Indicators</source>, <volume>104</volume>, <fpage>594</fpage>&#x02013;<lpage>603</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolind.2019.05.038</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0009"><mixed-citation publication-type="journal" id="ece35857-cit-0009">
+<string-name>
+<surname>Gross</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Cardinale</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Loreau</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Polley</surname>, <given-names>H. W.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>van Ruijven</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Species richness and the temporal stability of biomass production: A new analysis of recent biodiversity experiments</article-title>. <source xml:lang="en">American Naturalist</source>, <volume>183</volume>, <fpage>1</fpage>&#x02013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1086/673915</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0010"><mixed-citation publication-type="journal" id="ece35857-cit-0010">
+<string-name>
+<surname>Guo</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zhao</surname>, <given-names>W.</given-names>
+</string-name> (<year>2015</year>). <article-title>Contrasting responses of gross primary productivity to precipitation events in a water&#x02010;limited and a temperature&#x02010;limited grassland ecosystem</article-title>. <source xml:lang="en">Agricultural and Forest Meteorology</source>, <volume>214</volume>, <fpage>169</fpage>&#x02013;<lpage>177</lpage>. <pub-id pub-id-type="doi">10.1016/j.agrformet.2015.08.251</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0011"><mixed-citation publication-type="journal" id="ece35857-cit-0011">
+<string-name>
+<surname>Hallett</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Cleland</surname>, <given-names>E. E.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>Dickson</surname>, <given-names>T. L.</given-names>
+</string-name>, <string-name>
+<surname>Farrer</surname>, <given-names>E. C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Suding</surname>, <given-names>K. N.</given-names>
+</string-name> (<year>2014</year>). <article-title>Biotic mechanisms of community stability shift along a precipitation gradient</article-title>. <source xml:lang="en">Ecology</source>, <volume>95</volume>(<issue>6</issue>), <fpage>1693</fpage>&#x02013;<lpage>1700</lpage>. <pub-id pub-id-type="doi">10.1890/13-0895.1</pub-id>
+<pub-id pub-id-type="pmid">25039233</pub-id></mixed-citation></ref><ref id="ece35857-bib-0012"><mixed-citation publication-type="journal" id="ece35857-cit-0012">
+<string-name>
+<surname>Hautier</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Seabloom</surname>, <given-names>E. W.</given-names>
+</string-name>, <string-name>
+<surname>Borer</surname>, <given-names>E. T.</given-names>
+</string-name>, <string-name>
+<surname>Adler</surname>, <given-names>P. B.</given-names>
+</string-name>, <string-name>
+<surname>Harpole</surname>, <given-names>W. S.</given-names>
+</string-name>, <string-name>
+<surname>Hillebrand</surname>, <given-names>H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Hector</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Eutrophication weakens stabilizing effects of diversity in natural grasslands</article-title>. <source xml:lang="en">Nature</source>, <volume>508</volume>, <fpage>521</fpage>&#x02013;<lpage>525</lpage>. <pub-id pub-id-type="doi">10.1038/nature13014</pub-id>
+<pub-id pub-id-type="pmid">24531763</pub-id></mixed-citation></ref><ref id="ece35857-bib-0013"><mixed-citation publication-type="journal" id="ece35857-cit-0013">
+<string-name>
+<surname>Huang</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ahlstr&#x000f6;m</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>R. B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Luo</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2018</year>). <article-title>Enhanced peak growth of global vegetation and its key mechanisms</article-title>. <source xml:lang="en">Nature Ecology &#x00026; Evolution</source>, <volume>2</volume>(<issue>12</issue>), <fpage>1897</fpage>&#x02013;<lpage>1905</lpage>. <pub-id pub-id-type="doi">10.1038/s41559-018-0714-0</pub-id>
+<pub-id pub-id-type="pmid">30420745</pub-id></mixed-citation></ref><ref id="ece35857-bib-0014"><mixed-citation publication-type="journal" id="ece35857-cit-0014">
+<string-name>
+<surname>Huston</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Precipitation, soils, NPP, and biodiversity: Resurrection of Albrecht's curve</article-title>. <source xml:lang="en">Ecological Monographs</source>, <volume>82</volume>, <fpage>277</fpage>&#x02013;<lpage>296</lpage>. <pub-id pub-id-type="doi">10.1890/11-1927.1</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0015"><mixed-citation publication-type="journal" id="ece35857-cit-0015">
+<string-name>
+<surname>Isbell</surname>, <given-names>F. I.</given-names>
+</string-name>, <string-name>
+<surname>Polley</surname>, <given-names>H. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wilsey</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Biodiversity, productivity and the temporal stability of productivity: Patterns and processes</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>12</volume>, <fpage>443</fpage>&#x02013;<lpage>451</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2009.01299.x</pub-id>
+<pub-id pub-id-type="pmid">19379138</pub-id></mixed-citation></ref><ref id="ece35857-bib-0016"><mixed-citation publication-type="journal" id="ece35857-cit-0016">
+<string-name>
+<surname>Kang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sun</surname>, <given-names>O.</given-names>
+</string-name> (<year>2007</year>). <article-title>Grassland ecosystems in China: Review of current knowledge and research advancement</article-title>. <source xml:lang="en">Philosophical Transactions of the Royal Society B&#x02010;Biological Sciences</source>, <volume>362</volume>, <fpage>997</fpage>&#x02013;<lpage>1008</lpage>. <pub-id pub-id-type="doi">10.1098/rstb.2007.2029</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0017"><mixed-citation publication-type="journal" id="ece35857-cit-0017">
+<string-name>
+<surname>Knapp</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Beier</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Briske</surname>, <given-names>D. D.</given-names>
+</string-name>, <string-name>
+<surname>Classen</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Reichstein</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Weng</surname>, <given-names>E.</given-names>
+</string-name> (<year>2008</year>). <article-title>Consequences of more extreme precipitation regimes for terrestrial ecosystems</article-title>. <source xml:lang="en">BioScience</source>, <volume>58</volume>, <fpage>811</fpage>&#x02013;<lpage>821</lpage>. <pub-id pub-id-type="doi">10.1641/B580908</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0018"><mixed-citation publication-type="journal" id="ece35857-cit-0018">
+<string-name>
+<surname>Lan</surname>, <given-names>Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bai</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2012</year>). <article-title>Testing mechanisms of N-enrichment-induced species loss in a semiarid Inner Mongolia grassland: Critical thresholds and implications for long-term ecosystem responses</article-title>. <source xml:lang="en">Philosophical Transactions of the Royal Society B-Biological Sciences</source>, <volume>367</volume>, <fpage>3125</fpage>&#x02013;<lpage>3134</lpage>. <pub-id pub-id-type="doi">10.1098/rstb.2011.0352</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0019"><mixed-citation publication-type="journal" id="ece35857-cit-0019">
+<string-name>
+<surname>Lehman</surname>, <given-names>C. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tilman</surname>, <given-names>D.</given-names>
+</string-name> (<year>2000</year>). <article-title>Biodiversity, stability, and productivity in competitive communities</article-title>. <source xml:lang="en">American Naturalist</source>, <volume>156</volume>, <fpage>534</fpage>&#x02013;<lpage>552</lpage>. <pub-id pub-id-type="doi">10.1086/303402</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0020"><mixed-citation publication-type="journal" id="ece35857-cit-0020">
+<string-name>
+<surname>Li</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Poisot</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Waller</surname>, <given-names>D. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baiser</surname>, <given-names>B.</given-names>
+</string-name> (<year>2018</year>). <article-title>Homogenization of species composition and species association networks are decoupled</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>27</volume>(<issue>12</issue>), <fpage>1481</fpage>&#x02013;<lpage>1491</lpage>. <pub-id pub-id-type="doi">10.1111/geb.12825</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0021"><mixed-citation publication-type="journal" id="ece35857-cit-0021">
+<string-name>
+<surname>Loreau</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>de Mazancourt</surname>, <given-names>C.</given-names>
+</string-name> (<year>2008</year>). <article-title>Species synchrony and its drivers: Neutral and nonneutral community dynamics in fluctuating environments</article-title>. <source xml:lang="en">American Naturalist</source>, <volume>172</volume>, <fpage>E48</fpage>&#x02013;<lpage>E66</lpage>. <pub-id pub-id-type="doi">10.1086/589746</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0022"><mixed-citation publication-type="journal" id="ece35857-cit-0022">
+<string-name>
+<surname>Loreau</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hector</surname>, <given-names>A.</given-names>
+</string-name> (<year>2001</year>). <article-title>Partitioning selection and complementarity in biodiversity experiments</article-title>. <source xml:lang="en">Nature</source>, <volume>412</volume>, <fpage>72</fpage>&#x02013;<lpage>76</lpage>. <pub-id pub-id-type="doi">10.1038/35083573</pub-id>
+<pub-id pub-id-type="pmid">11452308</pub-id></mixed-citation></ref><ref id="ece35857-bib-0023"><mixed-citation publication-type="journal" id="ece35857-cit-0023">
+<string-name>
+<surname>Ma</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Mi</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>W.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>He</surname>, <given-names>J.&#x02010;S.</given-names>
+</string-name> (<year>2017</year>). <article-title>Climate warming reduces the temporal stability of plant community biomass production</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>8</volume>, <elocation-id>15378</elocation-id>
+<pub-id pub-id-type="doi">10.1038/ncomms15378</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0024"><mixed-citation publication-type="journal" id="ece35857-cit-0024">
+<string-name>
+<surname>Mougi</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kondoh</surname>, <given-names>M.</given-names>
+</string-name> (<year>2012</year>). <article-title>Diversity of interaction types and ecological community stability</article-title>. <source xml:lang="en">Science</source>, <volume>337</volume>, <fpage>349</fpage>&#x02013;<lpage>351</lpage>. <pub-id pub-id-type="doi">10.1126/science.1220529</pub-id>
+<pub-id pub-id-type="pmid">22822151</pub-id></mixed-citation></ref><ref id="ece35857-bib-0025"><mixed-citation publication-type="journal" id="ece35857-cit-0025">
+<string-name>
+<surname>Nijp</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Limpens</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Metselaar</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Peichl</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nilsson</surname>, <given-names>M. B.</given-names>
+</string-name>, <string-name>
+<surname>Zee</surname>, <given-names>S. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Berendse</surname>, <given-names>F.</given-names>
+</string-name> (<year>2015</year>). <article-title>Rain events decrease boreal peatland net CO<sub>2</sub> uptake through reduced light availability</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>21</volume>, <fpage>2309</fpage>&#x02013;<lpage>2320</lpage>.<pub-id pub-id-type="pmid">25580711</pub-id></mixed-citation></ref><ref id="ece35857-bib-0026"><mixed-citation publication-type="journal" id="ece35857-cit-0026">
+<string-name>
+<surname>Niu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Stoy</surname>, <given-names>P. C.</given-names>
+</string-name>, <string-name>
+<surname>Keenan</surname>, <given-names>T. F.</given-names>
+</string-name>, <string-name>
+<surname>Poulter</surname>, <given-names>B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Yu</surname>, <given-names>G.</given-names>
+</string-name> (<year>2017</year>). <article-title>Interannual variability of ecosystem carbon exchange: From observation to prediction</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>26</volume>(<issue>11</issue>), <fpage>1225</fpage>&#x02013;<lpage>1237</lpage>. <pub-id pub-id-type="doi">10.1111/geb.12633</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0027"><mixed-citation publication-type="journal" id="ece35857-cit-0027">
+<string-name>
+<surname>Oliver</surname>, <given-names>T. H.</given-names>
+</string-name>, <string-name>
+<surname>Isaac</surname>, <given-names>N. J. B.</given-names>
+</string-name>, <string-name>
+<surname>August</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Woodcock</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Roy</surname>, <given-names>D. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bullock</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2015</year>). <article-title>Declining resilience of ecosystem functions under biodiversity loss</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>6</volume>, <elocation-id>10122</elocation-id>
+<pub-id pub-id-type="doi">10.1038/ncomms10122</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0028"><mixed-citation publication-type="journal" id="ece35857-cit-0028">
+<string-name>
+<surname>Pielou</surname>, <given-names>E. C.</given-names>
+</string-name> (<year>1966</year>). <article-title>Measurement of diversity in different types of biological collections</article-title>. <source xml:lang="en">Journal of Theoretical Biology</source>, <volume>13</volume>, <fpage>131</fpage>&#x02013;<lpage>144</lpage>.</mixed-citation></ref><ref id="ece35857-bib-0029"><mixed-citation publication-type="journal" id="ece35857-cit-0029">
+<string-name>
+<surname>Shi</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Souza</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wilcox</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Luo</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2016</year>). <article-title>Dual mechanisms regulate ecosystem stability under decade&#x02010;long warming and hay harvest</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>7</volume>, <elocation-id>11973</elocation-id>.</mixed-citation></ref><ref id="ece35857-bib-0030"><mixed-citation publication-type="journal" id="ece35857-cit-0030">
+<string-name>
+<surname>Tilman</surname>, <given-names>D.</given-names>
+</string-name> (<year>1999</year>). <article-title>The ecological consequences of changes in biodiversity: A search for general principles</article-title>. <source xml:lang="en">Ecology</source>, <volume>80</volume>, <fpage>1455</fpage>&#x02013;<lpage>1474</lpage>. <pub-id pub-id-type="doi">10.2307/176540</pub-id>
+</mixed-citation></ref><ref id="ece35857-bib-0031"><mixed-citation publication-type="journal" id="ece35857-cit-0031">
+<string-name>
+<surname>Tilman</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>, <given-names>P. B.</given-names>
+</string-name>, <string-name>
+<surname>Knops</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wedin</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Mielke</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lehman</surname>, <given-names>C.</given-names>
+</string-name> (<year>2001</year>). <article-title>Diversity and productivity in a long&#x02010;term grassland experiment</article-title>. <source xml:lang="en">Science</source>, <volume>294</volume>, <fpage>843</fpage>&#x02013;<lpage>845</lpage>.<pub-id pub-id-type="pmid">11679667</pub-id></mixed-citation></ref><ref id="ece35857-bib-0032"><mixed-citation publication-type="journal" id="ece35857-cit-0032">
+<string-name>
+<surname>Wilcox</surname>, <given-names>K. R.</given-names>
+</string-name>, <string-name>
+<surname>Blair</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>M. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Knapp</surname>, <given-names>A. K.</given-names>
+</string-name> (<year>2016</year>). <article-title>Does ecosystem sensitivity to precipitation at the site&#x02010;level conform to regional&#x02010;scale predictions?</article-title>
+<source xml:lang="en">Ecology</source>, <volume>97</volume>(<issue>3</issue>), <fpage>561</fpage>&#x02013;<lpage>568</lpage>.<pub-id pub-id-type="pmid">27197383</pub-id></mixed-citation></ref><ref id="ece35857-bib-0033"><mixed-citation publication-type="journal" id="ece35857-cit-0033">
+<string-name>
+<surname>Willis</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Jeffers</surname>, <given-names>E. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tovar</surname>, <given-names>C.</given-names>
+</string-name> (<year>2018</year>). <article-title>What makes a terrestrial ecosystem resilient? A complex set of biotic and abiotic factors determines the resilience of an ecosystem</article-title>. <source xml:lang="en">Science</source>, <volume>359</volume>(<issue>6379</issue>), <fpage>988</fpage>&#x02013;<lpage>989</lpage>.<pub-id pub-id-type="pmid">29496865</pub-id></mixed-citation></ref><ref id="ece35857-bib-0034"><mixed-citation publication-type="journal" id="ece35857-cit-0034">
+<string-name>
+<surname>Xu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Piao</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ciais</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Myneni</surname>, <given-names>R. B.</given-names>
+</string-name> (<year>2012</year>). <article-title>Spatio&#x02010;temporal patterns of the area experiencing negative vegetation growth anomalies in China over the last three decades</article-title>. <source xml:lang="en">Environmental Research Letters</source>, <volume>7</volume>, <elocation-id>035701</elocation-id>.</mixed-citation></ref><ref id="ece35857-bib-0035"><mixed-citation publication-type="journal" id="ece35857-cit-0035">
+<string-name>
+<surname>Xu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>van Ruijven</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Jiang</surname>, <given-names>L.</given-names>
+</string-name> (<year>2015</year>). <article-title>Environmental changes drive the temporal stability of semi&#x02010;arid natural grasslands through altering species asynchrony</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>103</volume>, <fpage>1308</fpage>&#x02013;<lpage>1316</lpage>.</mixed-citation></ref><ref id="ece35857-bib-0036"><mixed-citation publication-type="journal" id="ece35857-cit-0036">
+<string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Loreau</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Han</surname>, <given-names>X.</given-names>
+</string-name> (<year>2018</year>). <article-title>Climate variability decreases species richness and community stability in a temperate grassland</article-title>. <source xml:lang="en">Oecologia</source>, <volume>188</volume>(<issue>1</issue>), <fpage>183</fpage>&#x02013;<lpage>192</lpage>.<pub-id pub-id-type="pmid">29943096</pub-id></mixed-citation></ref><ref id="ece35857-bib-0037"><mixed-citation publication-type="journal" id="ece35857-cit-0037">
+<string-name>
+<surname>Zhou</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ju</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Mickler</surname>, <given-names>R. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Yu</surname>, <given-names>Q.</given-names>
+</string-name> (<year>2018</year>). <article-title>Changes in the carbon and water fluxes of subtropical forest ecosystems in South&#x02010;Western China related to drought</article-title>. <source xml:lang="en">Water</source>, <volume>10</volume>(<issue>7</issue>), <fpage>821</fpage>.</mixed-citation></ref><ref id="ece35857-bib-0038"><mixed-citation publication-type="journal" id="ece35857-cit-0038">
+<string-name>
+<surname>Zhou</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chi</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Drought impacts on vegetation indices and productivity of terrestrial ecosystems in southwestern China during 2001&#x02013;2012</article-title>. <source xml:lang="en">Chinese Geographical Science</source>, <volume>28</volume>, <fpage>60</fpage>&#x02013;<lpage>72</lpage>.</mixed-citation></ref></ref-list></back></article>

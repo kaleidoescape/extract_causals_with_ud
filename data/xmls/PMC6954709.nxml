@@ -1,0 +1,676 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Stem Cells Transl Med</journal-id><journal-id journal-id-type="iso-abbrev">Stem Cells Transl Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2157-6580</journal-id><journal-id journal-id-type="publisher-id">SCT3</journal-id><journal-title-group><journal-title>Stem Cells Translational Medicine</journal-title></journal-title-group><issn pub-type="ppub">2157-6564</issn><issn pub-type="epub">2157-6580</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31804767</article-id><article-id pub-id-type="pmc">6954709</article-id><article-id pub-id-type="doi">10.1002/sctm.19-0202</article-id><article-id pub-id-type="publisher-id">SCT312610</article-id><article-categories><subj-group subj-group-type="overline"><subject>Human Clinical Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Human Clinical Articles</subject></subj-group></article-categories><title-group><article-title>Trends in mesenchymal stem cell clinical trials 2004&#x02010;2018: Is efficacy optimal in a narrow dose range?</article-title><alt-title alt-title-type="right-running-head">MSC TRENDS AND DOSING IN CLINICAL TRIALS</alt-title><alt-title alt-title-type="left-running-head">Kabat et al.</alt-title></title-group><contrib-group><contrib id="sct312610-cr-0001" contrib-type="author"><name><surname>Kabat</surname><given-names>Maciej</given-names></name><xref ref-type="aff" rid="sct312610-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312610-cr-0002" contrib-type="author"><name><surname>Bobkov</surname><given-names>Ivan</given-names></name><xref ref-type="aff" rid="sct312610-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312610-cr-0003" contrib-type="author"><name><surname>Kumar</surname><given-names>Suneel</given-names></name><xref ref-type="aff" rid="sct312610-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="sct312610-cr-0004" contrib-type="author" corresp="yes"><name><surname>Grumet</surname><given-names>Martin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0447-6634</contrib-id><xref ref-type="aff" rid="sct312610-aff-0001">
+<sup>1</sup>
+</xref><address><email>mgrumet@dls.rutgers.edu</email></address></contrib></contrib-group><aff id="sct312610-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">W. M. Keck Center for Collaborative Neuroscience, Rutgers Stem Cell Research Center, Department of Cell Biology &#x00026; Neuroscience</named-content>
+<institution>Rutgers University</institution>
+<city>Piscataway</city>
+<named-content content-type="country-part">New Jersey</named-content>
+</aff><aff id="sct312610-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Biomedical Engineering</named-content>
+<institution>Rutgers University</institution>
+<city>Piscataway</city>
+<named-content content-type="country-part">New Jersey</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Martin Grumet, PhD, W. M. Keck Center for Collaborative Neuroscience, Rutgers, State University of New Jersey, 604 Allison Rd, Piscataway, NJ 08854&#x02010;8082.<break/>
+Email: <email>mgrumet@dls.rutgers.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>12</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>9</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/sct3.v9.1</issue-id><fpage>17</fpage><lpage>27</lpage><history><date date-type="received"><day>04</day><month>7</month><year>2019</year></date><date date-type="accepted"><day>26</day><month>8</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 AlphaMed Press <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <sc>stem cells translational medicine</sc> published by Wiley Periodicals, Inc. on behalf of AlphaMed Press</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:SCT3-9-17.pdf"/><abstract><title>Abstract</title><p>The number of clinical trials using mesenchymal stem cells (MSCs) has increased since 2008, but this trend slowed in the past several years and dropped precipitously in 2018. Previous reports have analyzed MSC clinical trials by disease, phase, cell source, country of origin, and trial initiation date, all of which can be downloaded directly from <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link>. We have extended analyses to a larger group of 914 MSC trials reported through 2018. To search for potential factors that may influence the design of new trials, we extracted data on routes of administration and dosing from individual <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link> records as this information cannot be downloaded directly from the database. Intravenous (IV) injection is the most common, least invasive and most reproducible method, accounting for 43% of all trials. The median dose for IV delivery is 100 million MSCs/patient/dose. Analysis of all trials using IV injection that reported positive outcomes indicated minimal effective doses (MEDs) ranging from 70 to 190 million MSCs/patient/dose in 14/16 trials with the other two trials administering much higher doses of at least 900 million cells. Dose&#x02010;response data showing differential efficacy for improved outcomes were reported in only four trials, which indicated a narrower MED range of 100&#x02010;150 million MSCs/patient with lower and higher IV doses being less effective. The results suggest that it may be critical to determine MEDs in early trials before proceeding with large clinical trials.</p></abstract><abstract abstract-type="graphical"><p>
+<boxed-text position="anchor" content-type="graphic" id="sct312610-blkfxd-1001" orientation="portrait"><graphic xlink:href="SCT3-9-17-g006.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="sct312610-kwd-0004">ClinicalTrials.gov</kwd><kwd id="sct312610-kwd-0001">dose</kwd><kwd id="sct312610-kwd-0003">intravenous</kwd><kwd id="sct312610-kwd-0002">mesenchymal stromal cell</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>CytoStormRx LLC </funding-source></award-group></funding-group><counts><fig-count count="5"/><table-count count="1"/><page-count count="11"/><word-count count="9116"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:13.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="sct312610-cit-9001">
+<string-name>
+<surname>Kabat</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bobkov</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Grumet</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Trends in mesenchymal stem cell clinical trials 2004&#x02010;2018: Is efficacy optimal in a narrow dose range?</article-title>
+<source xml:lang="en">STEM CELLS Transl Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>17</fpage>&#x02013;<lpage>27</lpage>. <pub-id pub-id-type="doi">10.1002/sctm.19-0202</pub-id>
+<pub-id pub-id-type="pmid">31804767</pub-id></mixed-citation>
+</p><fn-group><fn id="sct312610-note-1002"><p>
+<bold>Funding information</bold> CytoStormRx LLC</p></fn></fn-group></notes></front><body id="sct312610-body-0001"><p>
+<boxed-text position="anchor" content-type="box" id="sct312610-blkfxd-0001" orientation="portrait"><caption><title>Lessons learned</title></caption><p>
+<list list-type="bullet" id="sct312610-list-0001"><list-item id="sct312610-li-0001"><p>Initially, the number of trials increased, then leveled off several years ago and dropped dramatically in 2018.</p></list-item><list-item id="sct312610-li-0002"><p>Many of the doses of cells being delivered may not be maximally effective because they are too low or high in some trials.</p></list-item><list-item id="sct312610-li-0003"><p>It is important to test for efficacy as well as safety in early trials.</p></list-item></list>
+</p></boxed-text>
+<boxed-text position="anchor" content-type="box" id="sct312610-blkfxd-0002" orientation="portrait"><caption><title>Significance statement</title></caption><p>The significance of this study is that critical numbers of cells may need to be used for the most effective stem cell therapies. The results suggest a range of minimally effective cell doses for intravenous injection, which is the method used in almost half of all therapies. Increasing doses are usually tested for safety, and the highest tolerated dose is often used in a clinical trial. Studies need to measure initial efficacy along with safety to use the most effective doses rather than the safest doses tolerated, which might be an overdose. Too many or few cells are not optimal.</p></boxed-text>
+</p><sec id="sct312610-sec-0004"><label>1</label><title>INTRODUCTION</title><p>Mesenchymal stem/stromal cells (MSCs) have gained great interest as new medical treatments. Clinical development of MSC therapies is based on extensive studies in animal models for human disorders and diseases demonstrating improved outcomes.<xref rid="sct312610-bib-0001" ref-type="ref">1</xref>, <xref rid="sct312610-bib-0002" ref-type="ref">2</xref>, <xref rid="sct312610-bib-0003" ref-type="ref">3</xref>, <xref rid="sct312610-bib-0004" ref-type="ref">4</xref>, <xref rid="sct312610-bib-0005" ref-type="ref">5</xref> MSCs act by three major classes of mechanisms (a) differentiation into specific types of cell lineages and integration into tissues, which have applications for regenerative medicine, (b) secretion of factors including cytokines and exosomes that promote cell survival and growth, and that modulate inflammation, and (c) direct MSC contact with host cells to modulate functions of effector cells.<xref rid="sct312610-bib-0006" ref-type="ref">6</xref>, <xref rid="sct312610-bib-0007" ref-type="ref">7</xref> Efficacy of MSCs in the clinic has been demonstrated for Graft vs Host Disease<xref rid="sct312610-bib-0008" ref-type="ref">8</xref> and anal fistula in Crohn's disease,<xref rid="sct312610-bib-0009" ref-type="ref">9</xref> which is believed to involve one or both of the latter two mechanisms modulating inflammation. However, the roles of MSC differentiation and long&#x02010;term integration in vivo have not been elucidated, and the relative contributions of these mechanisms for improving outcomes remain unclear.<xref rid="sct312610-bib-0006" ref-type="ref">6</xref>, <xref rid="sct312610-bib-0010" ref-type="ref">10</xref>
+</p><p>The first<xref rid="sct312610-bib-0011" ref-type="ref">11</xref> and most widely used source of MSCs in clinical trials is bone marrow (BM).<xref rid="sct312610-bib-0006" ref-type="ref">6</xref> MSCs are isolated by adherence to plastic dishes, are capable of differentiating into osteocytes, chondrocytes, and adipocytes, express the surface proteins CD105, CD73, and CD90, and lack CD45, CD34, CD14, CD19, and HLA class II.<xref rid="sct312610-bib-0012" ref-type="ref">12</xref> The next two most widely used sources of MSCs are adipose tissue and umbilical cord (UC), and combined with BM, these three sources account for the vast majority of clinical trials.<xref rid="sct312610-bib-0006" ref-type="ref">6</xref>, <xref rid="sct312610-bib-0008" ref-type="ref">8</xref> Hundreds of trials indicate that MSC therapy is safe<xref rid="sct312610-bib-0013" ref-type="ref">13</xref> but progress in clinical development has been slow.<xref rid="sct312610-bib-0008" ref-type="ref">8</xref> Unfortunately, the hope and hype of stem cell therapy has fostered an industry of unregulated &#x0201c;stem cell tourism&#x0201d; with poorly characterized cells and methods that have resulted in deleterious outcomes in some cases.<xref rid="sct312610-bib-0014" ref-type="ref">14</xref>
+</p><p>Major factors that make comparisons among different trials difficult and may slow translation of MSCs to the clinic include heterogeneity among MSCs from different sources, use of different cell preparation protocols, and different passage numbers.<xref rid="sct312610-bib-0008" ref-type="ref">8</xref>, <xref rid="sct312610-bib-0015" ref-type="ref">15</xref> Some of this variability will be minimized by adoption of standards for characterization of MSCs using reference materials.<xref rid="sct312610-bib-0012" ref-type="ref">12</xref>, <xref rid="sct312610-bib-0016" ref-type="ref">16</xref> Standardization of cells by individual companies that conduct multiple trials should improve reproducibility and comparability with similar MSCs among their different trials. However, companies often do not provide complete information regarding their cells to protect their intellectual property, which complicates comparisons among trials using different MSCs.</p><p>Studies using <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link> have reported quantitative data on the number of trials over time, for various indications, at different phases, using different cells and in different countries.<xref rid="sct312610-bib-0006" ref-type="ref">6</xref>, <xref rid="sct312610-bib-0017" ref-type="ref">17</xref>, <xref rid="sct312610-bib-0018" ref-type="ref">18</xref>, <xref rid="sct312610-bib-0019" ref-type="ref">19</xref> We conducted this study to generate a current database of clinical trials and results reported, and to analyze the routes of administration and the doses used for MSC, which has not been done previously. Analysis of this unique database indicated a range of minimal effective doses (MEDs), as well as non, or less, effective lower and higher doses, suggesting that it may be critical to perform dose&#x02010;response studies for efficacy before proceeding to large clinical trials.</p></sec><sec id="sct312610-sec-0005"><label>2</label><title>MATERIALS AND METHODS</title><sec id="sct312610-sec-0006"><label>2.1</label><title>Analysis of data from <ext-link ext-link-type="uri" xlink:href="http://www.ClinicalTrials.gov">http://www.ClinicalTrials.gov</ext-link>
+</title><p>Data were extracted on 19 March 2019, from <ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov">http://www.clinicaltrials.gov</ext-link> using the term &#x0201c;mesenchymal&#x0201d; for trials registered through 2018 and downloaded into an XML file yielding 1073 trials. The data include the NCT number (identifier for each trial), title of trial, recruitment status, sponsor, clinical phase, country of origin and registration date. We then manually extracted from individual trial records additional information on disease, cell source, match (autologous vs allogenic), route of administration and dose, which could not be downloaded directly from <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link>. Data for all of these categories were not found in many cases but was collected when possible, thus different numbers of trials were included for each parameter that was analyzed. Trials that did not use MSCs for therapy (eg, mesenchymal tumors) were excluded. We divided clinical trials into 14 groups by disease classification and the remainder was designated as other. The sources of MSCs were often found in <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link> in &#x0201c;Interventions&#x0201d; but in some cases it was not clear. The listing for sponsor in <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link> was the hospital, medical center, or company. However, not all trials conducted by companies, including Allocure, Anterogen, Apceth, Athersys, Corestem, Mesoblast, Pharmicell, Pluristem, SanBio, and Tigenix were detected with the search term &#x0201c;mesenchymal&#x0201d; because they refer to their own cells by their proprietary cell names. Therefore, company names were used to search for additional trials using MSCs, which we included in our database. For example, we included Multipotent Adult Progenitor Cells (MAPCs called Multistem, Athersys)<xref rid="sct312610-bib-0020" ref-type="ref">20</xref> and (MPCs, eg, MSC&#x02010;100&#x02010;IV, Mesoblast)<xref rid="sct312610-bib-0021" ref-type="ref">21</xref> derived from BM based on publications describing MSC&#x02010;like properties of these cells. Using a broad definition of MSCs our database includes 914 trials. All trials involving companies were tagged for analysis.</p><p>Multiple routes of MSC administration were found and were classified into eight groups for injections into blood&#x02014;Intravenous (IV) and Intra&#x02010;arterial (IA); into cerebrospinal fluid or CNS tissue&#x02014;Intra&#x02010;thecal (IT); and into tissues&#x02014;Intra&#x02010;Cardiac (IC), Intra&#x02010;Articular (IAT), Intra&#x02010;Muscular (IM), and Intra&#x02010;osseous (IO); and implant for cells incorporated into a matrix or an implanted device; the remaining routes, which were indicated &#x0003c;10 times, were designated as other. Doses in <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link> are not reported systematically and were found either as the total numbers of cells/patient or the number of cells/kg, in which case they were normalized using an adult weight of 70&#x02009;kg to compare doses among trials. In trials with delivery of multiple doses, each dose was included separately in the calculation of doses.</p></sec><sec id="sct312610-sec-0007"><label>2.2</label><title>Statistics</title><p>Nonparametric tests were performed because MSC dose does not follow a normal distribution. A Kruskal&#x02010;Wallis ANOVA, Dunn's post hoc Test (Graph&#x02010;Pad Prism) was used to compare doses between different modes of delivery. Because the Intra&#x02010;Venous group has a much larger sample size, it was randomly subsampled for equal sample sizes (MathWorks MATLAB).</p></sec></sec><sec id="sct312610-sec-0008"><label>3</label><title>RESULTS</title><sec id="sct312610-sec-0009"><label>3.1</label><title>MSC clinical trials recorded at <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link>
+</title><p>We downloaded directly from <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link> into Microsoft Excel MSC trial information that included the NCT number (identifier for each trial), title of the trial, recruitment status, sponsor, clinical phase, country of origin, and registration date. Additional data that could not be downloaded, including the sources of MSC, disease, route of administration and dose, were extracted from individual trial records. To our knowledge, this is the first systematic analysis of MSC dosing in clinical trials (Supplemental Table <xref rid="sct312610-supitem-0001" ref-type="supplementary-material">S1</xref>).</p><p>The total number of newly registered trials increased linearly in each year from 2007 to 2012, and more than quadrupled during this period (Figure <xref rid="sct312610-fig-0001" ref-type="fig">1</xref>A). The rate of increase in new trial listings slowed thereafter and dropped dramatically in 2018. When newly registered trials are divided by phase, the number of new phase 2 trials increased through 2011, after which they appear to have plateaued (Figure <xref rid="sct312610-fig-0001" ref-type="fig">1</xref>B). Given that phase 2 trials is the largest group, it is the main factor responsible for the slowing trend in numbers of new trials (Figure <xref rid="sct312610-fig-0001" ref-type="fig">1</xref>A). Phase 1 trials increased slowly but steadily through 2013, jumped in the next three years and decreased after 2016. The number of phase 3 trials increased transiently in 2012&#x02010;2014 to a peak of ~12% of all trials reported but only accounted for ~6% of all trials since 2015. The largest number of trials in <ext-link ext-link-type="uri" xlink:href="http://ClinicalTrials.gov">http://ClinicalTrials.gov</ext-link> are being sponsored by organizations in the US and China (Supplemental Figure <xref rid="sct312610-supitem-0002" ref-type="supplementary-material">S1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="sct312610-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Number of new mesenchymal stem cell (MSC) clinical trials registered in each year at <ext-link ext-link-type="uri" xlink:href="http://ClinicalTrials.gov">http://ClinicalTrials.gov</ext-link> divided by clinical phase (A). B, Data in (A) represented in a graph of the 3 phases plotted separately</p></caption><graphic id="nlm-graphic-3" xlink:href="SCT3-9-17-g001"/></fig></sec><sec id="sct312610-sec-0010"><label>3.2</label><title>Sources of MSCs for clinical trials</title><p>We searched for sources of MSCs in <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link> but in 11% of trials the source was not indicated, and those were excluded from this analysis. BM aspirates from the pelvis has been and continues to be the most frequently used source of MSC for clinical trials (Figure <xref rid="sct312610-fig-0002" ref-type="fig">2</xref>). UC is the second most common source of MSCs used in clinical trials with their numbers being modestly higher than trials using MSCs derived from adult adipose tissue by liposuction. Adipose&#x02010;derived MSCs, which are called by various names including adipose&#x02010;derived mesenchymal stem cell (ADSC),<xref rid="sct312610-bib-0022" ref-type="ref">22</xref> adipose&#x02010;derived adult stem cells (ASCs),<xref rid="sct312610-bib-0023" ref-type="ref">23</xref> adipose&#x02010;derived mesenchymal stem cells (ADMSCs),<xref rid="sct312610-bib-0024" ref-type="ref">24</xref> and human adipose&#x02010;derived MSCs (hASCs)<xref rid="sct312610-bib-0025" ref-type="ref">25</xref> have been combined in the group called adipose. Placental MSCs are fourth, representing &#x0003c;2% of all trials. Various other sources have been combined in a group called other. In each of these groups except placenta, the largest proportion of trials was reported to be in phase 2 (Figure <xref rid="sct312610-fig-0002" ref-type="fig">2</xref>). There are similar numbers of allogenic and autologous MSCs trials up until 2015, but thereafter more trials used allogenic than autologous MSC (Figure <xref rid="sct312610-fig-0002" ref-type="fig">2</xref>B). This trend may reflect an increasing number of trials using allogenic MSC from cell banks established by companies.</p><fig fig-type="Figure" xml:lang="en" id="sct312610-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Number of trials using MSCs from different sources divided by phase. A, UC and placenta derived MSC are only allogenic. Autologous MSC were derived mainly from BM and adipose tissue with small numbers from other sources including dental pulp, gingiva, oral mucosa, perinatal tissue, peripheral blood, skin, menstrual blood, and stromal vascular fraction designated as other. B, Number of new MSC autologous and allogenic trials in each year. BM, bone marrow; MSC, mesenchymal stem cell; UC, umbilical cord</p></caption><graphic id="nlm-graphic-5" xlink:href="SCT3-9-17-g002"/></fig></sec><sec id="sct312610-sec-0011"><label>3.3</label><title>Involvement of companies in MSC clinical trials</title><p>Company involvement usually was found under the listing for sponsor, but in many cases only the hospital or medical center performing the trial was noted. Therefore, we checked each trial record to extract information to identify the use of proprietary cells, which was found in 24% of all trials. For each of the four major sources of MSC noted above, the fractions using proprietary MSC from BM, UC, adipose, and placenta were 25%, 17%, 32%, and 64%, respectively (Figure <xref rid="sct312610-fig-0003" ref-type="fig">3</xref>A). Seven trials using placental&#x02010;derived MSCs are listed for Pluristem, which should enable comparisons among these trials that are using the same or similar types of cells, thereby reducing variability. A total of 82 companies have listings for MSCs in <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link> (Supplemental Figure <xref rid="sct312610-supitem-0003" ref-type="supplementary-material">S2</xref>) and three of these, Mesoblast, Anterogen, and Medipost, account for 30% of all company trials using MSCs primarily from BM, adipose tissue, and UC, respectively. However, more than half of all trials are single trials by one company (Supplemental Figure <xref rid="sct312610-supitem-0003" ref-type="supplementary-material">S2</xref>). This introduces unknown variability among the MSCs used in different trials, given that proprietary methods for production of each of these cells are rarely published in sufficient detail to compare them. The number of new trials with any company involvement (32% of all trials) increased in each year through 2012 (Figure <xref rid="sct312610-fig-0003" ref-type="fig">3</xref>B) and appeared to have plateaued thereafter, showing a trend similar to the phase 2 trials (Figure <xref rid="sct312610-fig-0001" ref-type="fig">1</xref>B). In 2018, only 18 new company trials were reported, which is a dramatic drop from the 40 in 2017 (Figure <xref rid="sct312610-fig-0003" ref-type="fig">3</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="sct312610-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Number of clinical trials using proprietary MSC and involving companies. A, Graph of number of new trials using proprietary (blue) and non&#x02010;proprietary (white) MSC shown for four major sources. Small number of additional trials using MSC from dental pulp, oral mucosa, menstrual blood, and stromal vascular fraction have been included in the category called other. B, Number of new trials recorded in each year conducted by, or sponsored by, companies with all sources of MSCs. BM, bone marrow; MSC, mesenchymal stem cell; UC, umbilical cord</p></caption><graphic id="nlm-graphic-7" xlink:href="SCT3-9-17-g003"/></fig></sec><sec id="sct312610-sec-0012"><label>3.4</label><title>MSC applications in disease and injuries</title><p>The diseases being treated with MSCs extracted from sections labeled &#x0201c;Condition&#x0201d; in the <ext-link ext-link-type="uri" xlink:href="http://ClinicalTrials.gov">http://ClinicalTrials.gov</ext-link> records were classified into 14 groups (Figure <xref rid="sct312610-fig-0004" ref-type="fig">4</xref>). &#x0201c;Neurological&#x0201d; is the largest group including 29 trials for spinal cord injury, 25 for multiple sclerosis, 20 for amyotrophic lateral sclerosis (ALS), 22 for stroke (Supplemental Table <xref rid="sct312610-supitem-0001" ref-type="supplementary-material">S2</xref>), 10 for Alzheimer's Disease, 5 for traumatic brain injury, 5 for Parkinson's Disease, and 4 for retinal degeneration, which account for 78% of all neurological trials. The most common routes for neurological treatments are via IT and IV injection, which account for 76% of the trials.</p><fig fig-type="Figure" xml:lang="en" id="sct312610-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Mesenchymal stem cell (MSC) clinical trials by disease category subdivided by phase. The 14 disease categories shown account for &#x0003e;90% of the trials in our database. The remaining trials were defined as other</p></caption><graphic id="nlm-graphic-9" xlink:href="SCT3-9-17-g004"/></fig><p>The second most common condition for MSC trials is &#x0201c;Joint&#x0201d; diseases including 66 for osteoarthritis, accounting for 47% of these trials; 13 for disc disease, 12 for rheumatoid arthritis, 11 for femoral head necrosis, and 9 for rotator cuff tear. Combined with cardiovascular disease (80 trials), these three disease categories account for 42% of all trials.</p><p>The relative number of trials compared to the population of affected patients varies widely. There are 76 trials reported for graft vs host disease (GvHD) for an annual patient population of ~30&#x02009;000, which is the highest ratio we found for the number of trials relative to the patient population (Supplemental Table <xref rid="sct312610-supitem-0001" ref-type="supplementary-material">S2</xref>). The intense focus on GvHD is likely due to the success in treating this disease with MSCs by IV in the clinic,<xref rid="sct312610-bib-0008" ref-type="ref">8</xref> which makes it a validated target for testing treatments with other types of MSCs. ALS also has many trials relative to the patient population probably because of the rapid progression of the disease and lack of any effective treatment. In contrast, sepsis is another condition that is responsive to MSCs acting likely by anti&#x02010;inflammatory and immune&#x02010;modulatory mechanisms<xref rid="sct312610-bib-0025" ref-type="ref">25</xref>, <xref rid="sct312610-bib-0026" ref-type="ref">26</xref> but there are only 6 trials relative to the large patient population of 1.7 million. The number of trials for other diseases being investigated with MSCs is more commensurate with the number of patients and the estimated markets (Supplemental Table <xref rid="sct312610-supitem-0001" ref-type="supplementary-material">S2</xref>).</p></sec><sec id="sct312610-sec-0013"><label>3.5</label><title>Route for MSC delivery</title><p>Data on the number of trials using different routes for MSC delivery are not readily available from <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link> and to our knowledge have not been reported systematically. Therefore, we examined each trial record and were able to determine the route of delivery in 84% of trials (Supplemental Table <xref rid="sct312610-supitem-0001" ref-type="supplementary-material">S1</xref>) with the most prevalent groups shown in Figure <xref rid="sct312610-fig-0005" ref-type="fig">5</xref>A. IV injection is the most commonly used method for delivering MSCs to the blood, accounting for 43% of trials with much fewer trials using IA injection. IT is the second most common route and is used primarily for the large number of neurological trials (Figure <xref rid="sct312610-fig-0004" ref-type="fig">4</xref>). Other MSC trials indicate local injections into tissues including IAT, IC, IM, and IO. Several trials indicate the use of MSCs embedded in biological matrices or synthetic materials, and have been designated as implants. The highest proportion of trials advancing to phase 3 are those that use IV, IC, and IO routes.</p><fig fig-type="Figure" xml:lang="en" id="sct312610-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Routes of MSC administration in clinical trials subdivided by phases and dosing. A, Trials were divided into the 8 most commonly used routes with the remaining routes defined as other. Intravenous (IV) is by far the largest group. Intra&#x02010;cardiac (IC), intra&#x02010;articular (IAT), intra&#x02010;muscular (IM), intra&#x02010;osseous (IO), intra&#x02010;thecal (IT), intra&#x02010;arterial (IA). Implant includes MSC embedded in biological matrices or synthetic materials. B, Doses of MSC using different routes of administration in clinical trials using Box&#x02010;and&#x02010;Whisker plot showing the average (dot), median (horizontal line), 10th to 90th percentile whiskers, and 25th to 75th percentile boxes (*<italic>P</italic> &#x0003c;&#x02009;.05, **<italic>P</italic> &#x0003c;&#x02009;.02, ****<italic>P</italic> &#x0003c;&#x02009;.005). C, Disorders are divided by frequencies of different routes of MSC delivery</p></caption><graphic id="nlm-graphic-11" xlink:href="SCT3-9-17-g005"/></fig></sec><sec id="sct312610-sec-0014"><label>3.6</label><title>MSC dose</title><p>The most difficult data to extract from the records at <ext-link ext-link-type="uri" xlink:href="http://ClinicalTrials.gov">http://ClinicalTrials.gov</ext-link> was the dose, which we were able to find in only 53% of the trials (Supplemental Table <xref rid="sct312610-supitem-0001" ref-type="supplementary-material">S1</xref>). The IV route has the highest average MSC dose (Figure <xref rid="sct312610-fig-0005" ref-type="fig">5</xref>B). Although IV is the least invasive method, most MSCs get trapped on first pass through the lungs,<xref rid="sct312610-bib-0027" ref-type="ref">27</xref> which may justify the use of very high doses. IA injection allows MSC uptake in tissues before reaching the lungs and trials by this route have significantly lower average doses in a narrower range than IV. IT and IM doses also ranged widely whereas IO and IAT doses are lower and in a narrower range (Figure <xref rid="sct312610-fig-0005" ref-type="fig">5</xref>B). The significant differences between doses for IV and IT, and IAT routes reflect the relatively low and narrow dose range for the latter.</p><p>Next, we determined which routes of delivery are indicated for various disorders (Figure <xref rid="sct312610-fig-0005" ref-type="fig">5</xref>C). The IV route is most prevalent in general and was most prevalent for disorders including neurological, GvHD, pulmonary, IBD, liver, diabetes, skin, and kidney. Other routes of delivery most frequently matched their tissue targets, for example, IAT for joint, IC for cardiovascular, and IM for muscle. Implants were most frequent for bone. The exception was that IT was not the most prevalent for neurological, perhaps because it is more invasive than IV.</p></sec><sec id="sct312610-sec-0015"><label>3.7</label><title>Analysis of MSC dose&#x02010;response in clinical trials</title><p>Given the wide range of doses (Figure <xref rid="sct312610-fig-0005" ref-type="fig">5</xref>B), we sought to determine whether there are optimal dose ranges for MSC treatment. Therefore, we selected individual trials that reported efficacy for multiple doses of the same cells, which enables direct comparison of doses without variability in cells and protocols used. This yielded 28 trials, all reporting safety, including nine phase 1 trials. Among the other 19 that indicated a phase 2 or 3 component in <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link> only 9 reported at least one dose that was significantly effective for an outcome measure and another dose that was less effective for at least one outcome measure. These included two groups, one with four trials for IV injection of MSCs and the second group of three using IAT injection. In the IV group (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>A) two trials were performed by Mesoblast, presumably with comparable MSCs. In the NCT01576328 type 2 diabetes single blind trial, three doses were tested and only the highest dose of 140 million cells/patient yielded significant reduction in the clinical target HbA1c.<xref rid="sct312610-bib-0028" ref-type="ref">28</xref> In the NCT01843387 diabetic neuropathy double blind trial, a dose of 150 million, but not of 300 million MSCs, significantly improved estimated glomerular filtration rate (eGFR) at week 12 within a subgroup with higher baseline eGFR.<xref rid="sct312610-bib-0029" ref-type="ref">29</xref> In the NCT02065245 trial for aging, a dose of 100 million cells, but not doses of 20 or 200 million MSCs, significantly increased the 6 minute walk time and improved the physical component of the SF&#x02010;36 quality of life assessment both at 3 and 6 months.<xref rid="sct312610-bib-0030" ref-type="ref">30</xref> In the NCT01525667 hip arthroplasty randomized, double blind, and placebo&#x02010;controlled trial, doses of 150 million, but not of 300 million, placenta&#x02010;derived MSCs significantly improved gluteus medius strength and weight at 26&#x02009;weeks.<xref rid="sct312610-bib-0031" ref-type="ref">31</xref> These dose&#x02010;response trials for efficacy have relatively small numbers of subjects (5&#x02010;15/group) and were not powered for significance (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>A). Nevertheless, the combined results suggest a minimal effective dose (MED) range between 100 and 150 million cells, whereas doses of 70 million or lower and doses of 200 million or higher were less or not effective.</p><table-wrap id="sct312610-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Doses of cells (in millions) for trials reporting data after IV administration of MSC. A, Individual trials testing multiple doses with at least one effective dose and at least another dose that is less effective in an outcome measure. The consensus range for the MEDs is 100&#x02013;150 million cells/patient. The last column, Outcomes, includes the disease condition, with number of subjects. B, Same as in (A) for single dose trials except there is a column for safety; no data on efficacy was reported for the dose of 400 (6 patients)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">A</th><th colspan="5" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Dose&#x02010;response effects</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Outcomes</th></tr><tr style="border-bottom:solid 1px #000000"><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">Sponsor (cell source)</th><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">Identifier</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Less effective dose</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Minimal effective dose</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Less effective dose</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Registration date</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Phase</th><th align="left" valign="bottom" rowspan="1" colspan="1">Condition (# subject treatment/control); outcome [reference]</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Mesoblast (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT01576328</td><td align="left" valign="top" rowspan="1" colspan="1">21, 70</td><td align="left" valign="top" rowspan="1" colspan="1">140<xref ref-type="fn" rid="sct312610-note-0003">a</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">09 April 2012</td><td align="left" valign="top" rowspan="1" colspan="1">1/2</td><td align="left" valign="top" rowspan="1" colspan="1">Type 2 diabetes (15/15/15/16); SIG reduced HbA1c at week 8, 12 vs Placebo<xref rid="sct312610-bib-0028" ref-type="ref">28</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mesoblast (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT01843387</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">150</td><td align="left" valign="top" rowspan="1" colspan="1">300</td><td align="left" valign="top" rowspan="1" colspan="1">23 April 2013</td><td align="left" valign="top" rowspan="1" colspan="1">1/2</td><td align="left" valign="top" rowspan="1" colspan="1">Diabetic nephropathy (10/10/10) SIG improved eGFR at week 12 in subgroup with higher baseline eGFR<xref rid="sct312610-bib-0029" ref-type="ref">29</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Longeveron (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT02065245</td><td align="left" valign="top" rowspan="1" colspan="1">20</td><td align="left" valign="top" rowspan="1" colspan="1">100</td><td align="left" valign="top" rowspan="1" colspan="1">200</td><td align="left" valign="top" rowspan="1" colspan="1">14 February 2014</td><td align="left" valign="top" rowspan="1" colspan="1">1/2</td><td align="left" valign="top" rowspan="1" colspan="1">Aging frailty (5/5/5); SIG increased 6MWT at 3 and 6 m and SF&#x02010;36 physical assessment at 1&#x02010;6 m<xref rid="sct312610-bib-0030" ref-type="ref">30</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pluristem (placenta)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT01525667</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">150</td><td align="left" valign="top" rowspan="1" colspan="1">300</td><td align="left" valign="top" rowspan="1" colspan="1">31 January 2012</td><td align="left" valign="top" rowspan="1" colspan="1">1/2</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Hip arthroplasty (7/6/7) SIG improved gluteus medius strength and weight at 26&#x02009;weeks<xref rid="sct312610-bib-0031" ref-type="ref">31</xref>
+</p>
+</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Multiple dose range</td><td align="left" valign="top" rowspan="1" colspan="1">20&#x02010;70</td><td align="left" valign="top" rowspan="1" colspan="1">100&#x02010;150</td><td align="left" valign="top" rowspan="1" colspan="1">200&#x02010;300</td><td colspan="3" align="left" valign="top" rowspan="1"/></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th colspan="2" align="left" valign="bottom" rowspan="1">B</th><th colspan="5" align="left" valign="bottom" rowspan="1">Single dose effects</th><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Sponsor (cell source)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Identifier</th><th align="left" valign="bottom" rowspan="1" colspan="1">Safety</th><th align="left" valign="bottom" rowspan="1" colspan="1">Effective dose</th><th align="left" valign="bottom" rowspan="1" colspan="1">Not effective</th><th align="left" valign="bottom" rowspan="1" colspan="1">Registration date</th><th align="left" valign="bottom" rowspan="1" colspan="1">Phase</th><th align="left" valign="bottom" rowspan="1" colspan="1">Condition (# subject treatment/control) outcome [reference]</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Athersys (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT01436487</td><td align="left" valign="top" rowspan="1" colspan="1">400</td><td align="left" valign="top" rowspan="1" colspan="1">1200</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">14 November 2010</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">Ischemic stroke (65/61) not improved SIG at 90&#x02009;days, SIG improvement at 1 year<xref rid="sct312610-bib-0033" ref-type="ref">33</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Athersys (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT01240915</td><td align="left" valign="top" rowspan="1" colspan="1">300</td><td align="left" valign="top" rowspan="1" colspan="1">None</td><td align="left" valign="top" rowspan="1" colspan="1">300&#x02010;750</td><td align="left" valign="top" rowspan="1" colspan="1">15 November 2010</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">Ulcerative Colitis (105) No effect (9 dose combinations see NCT01240915)<xref rid="sct312610-bib-0045" ref-type="ref">45</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Athersys (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT02611609</td><td align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">900</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">23 November 2015</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">Acute Respiratory Distress Syndrome (36) Higher ICU&#x02010;free days, lower mortality than controls<xref rid="sct312610-bib-0034" ref-type="ref">34</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Celgene (placenta)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT01155362</td><td align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>2&#x000d7;&#x02009;150</p>
+<p>2&#x000d7;&#x02009;600 {7&#x02009;days}</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">01 July 2010</td><td align="left" valign="top" rowspan="1" colspan="1">1/2</td><td align="left" valign="top" rowspan="1" colspan="1">Crohn's disease<xref ref-type="fn" rid="sct312610-note-0004">b</xref> (15/13/16) SIG improved CDAI with both doses,<xref rid="sct312610-bib-0032" ref-type="ref">32</xref> no less effective dose as in Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>A</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">U. of Cambridge (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT00395200</td><td align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">112<xref ref-type="fn" rid="sct312610-note-0003">a</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">01 November 2006</td><td align="left" valign="top" rowspan="1" colspan="1">2a</td><td align="left" valign="top" rowspan="1" colspan="1">Secondary progressive multiple sclerosis (10) SIG improved visual acuity<xref rid="sct312610-bib-0055" ref-type="ref">55</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">U. of Liege (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT00504803</td><td align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">2&#x000d7;&#x02009;100<xref ref-type="fn" rid="sct312610-note-0003">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="sct312610-note-0005">c</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">19 July 2007</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">GvHD (20/16) SIG improved survival, co&#x02010;inject as preventive<xref rid="sct312610-bib-0056" ref-type="ref">56</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fuzhou gen hospital (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT00658073</td><td align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">2&#x000d7;&#x02009;105<xref ref-type="fn" rid="sct312610-note-0003">a</xref> {14&#x02009;days}</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">08 April 2008</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Kidney allografts rejection (53/53/51), SIG improved early renal function recovery and decreased infections<xref rid="sct312610-bib-0057" ref-type="ref">57</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Osiris (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT00683722</td><td align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">4&#x000d7;&#x02009;100<xref ref-type="fn" rid="sct312610-note-0006">d</xref> {1 m}</td><td align="left" valign="top" rowspan="1" colspan="1">21 May 2008</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">COPD (19/27) no functional improvement<xref rid="sct312610-bib-0058" ref-type="ref">58</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nanjing U. (UC)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT00953485</td><td align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">70</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">04 August 2009</td><td align="left" valign="top" rowspan="1" colspan="1">1/2</td><td align="left" valign="top" rowspan="1" colspan="1">Sj&#x000f6;gren's Syndrome (20) SIG suppress disease activity<xref rid="sct312610-bib-0059" ref-type="ref">59</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nanjing U. (UC)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT00962923</td><td align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">70</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">19 August 2009</td><td align="left" valign="top" rowspan="1" colspan="1">1/2</td><td align="left" valign="top" rowspan="1" colspan="1">Systemic Sclerosis (14) SIG reduced Mean modified Rodnan skin score<xref rid="sct312610-bib-0060" ref-type="ref">60</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Uppsala U. (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT01068951</td><td align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">190<xref ref-type="fn" rid="sct312610-note-0003">a</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">16 February 2010</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">Type 1 Diabetes (20) SIG improved residual &#x000df;&#x02010;cell function<xref rid="sct312610-bib-0061" ref-type="ref">61</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Queen Elizabeth Hospital (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT01090817</td><td align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">4&#x000d7;&#x02009;140<xref ref-type="fn" rid="sct312610-note-0003">a</xref> {7&#x02009;days}</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">22 March 2010</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">Crohn's Disease (15) SIG reduced Active luminal CD score<xref rid="sct312610-bib-0062" ref-type="ref">62</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CardioCell LLC (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT02467387</td><td align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">105<xref ref-type="fn" rid="sct312610-note-0003">a</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">02 June 2015</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">Non&#x02010;ischemic heart failure (10/12) SIG improvements in health status and functional capacity<xref rid="sct312610-bib-0063" ref-type="ref">63</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mesoblast (BM)</td><td align="left" valign="top" rowspan="1" colspan="1">NCT02336230</td><td align="left" valign="top" rowspan="1" colspan="1">Yes</td><td align="left" valign="top" rowspan="1" colspan="1">8&#x000d7;&#x02009;140 {3.5&#x02009;days}</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">January 2015</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">Acute GVHD<xref ref-type="fn" rid="sct312610-note-0004">b</xref> (53) SIG improved day 28 overall response<xref rid="sct312610-bib-0008" ref-type="ref">8</xref>
+</td></tr><tr style="border-bottom:solid 1px #000000"><td colspan="3" align="left" valign="top" rowspan="1">Minimal effective dose range</td><td align="left" valign="top" rowspan="1" colspan="1">70&#x02010;190</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot id="sct312610-ntgp-0002"><fn id="sct312610-note-0002"><p>For multiple doses at different times, &#x000d7; indicates the number of doses, and {} indicate the interval between doses.</p></fn><fn id="sct312610-note-0003"><label>a</label><p>Total doses were calculated from doses indicated in cells/kg using an adult weight of 70 k.</p></fn><fn id="sct312610-note-0004"><label>b</label><p>Met primary clinical trial outcome.</p></fn><fn id="sct312610-note-0005"><label>c</label><p>Frederic Baron&#x02014;personal communication.</p></fn><fn id="sct312610-note-0006"><label>d</label><p>Early trial by Osiris (NCT00683722) did show efficacy but subsequent trials by Mesoblast (NCT01576328, NCT01843387, NCT02336230) that acquired Osirus technology showed efficacy.</p></fn><fn id="sct312610-note-0007"><p>Abbreviations: 6MWT, 6 minute walk time; CDAI, Crohn's disease activity index; COPD, chronic obstructive pulmonary disease; d, days; eGFR, estimated glomerular filtration rate; ICU, intensive care unit; m, month; NA, not available; SIG, significant outcomes.</p></fn></table-wrap-foot></table-wrap><p>To test further whether this is a meaningful range of doses, we examined other trials that reported improved outcomes using IV doses and found 12 reporting doses ranging from 70 to 1200 million cells/patient with 10 ranging from 70 to 190 million cells (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>B). In one of these, efficacy was reported at both 150 and 600 million cells/patient in a trial for Crohn's disease, and we consider the MED to be 150 million cells/patient (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>B) but additional doses need to be tested as noted by the authors.<xref rid="sct312610-bib-0032" ref-type="ref">32</xref> An early trial in 2008 by Osiris (NCT00683722) that used 100 million MSCs/patient did not yield significant improvement, however, subsequent trials by Mesoblast that acquired Osirus technology showed efficacy and their MSCs are being used clinically<xref rid="sct312610-bib-0008" ref-type="ref">8</xref> with twice as many doses delivered at much shorter intervals of ~3.5&#x02009;days vs 1&#x02009;month for the Osiris trial (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>B). Thus, the relevance of the Osiris trial is questionable, and it has been excluded from the dose analysis.</p><p>Three phase 2 clinical trials were conducted with MultiStem and all reported safety with IV doses ranging from 300 to 1200 million cells/patient. In a phase 2 double blind trial (NCT01436487) for ischemic stroke, a dose of 1200 million MultiStem cells/patient did not show significance for their primary outcome measured at day 90 but yielded significant improvement at day 365 in post hoc analysis for excellent outcome in a subgroup treated at &#x0003c;36&#x02009;hours<xref rid="sct312610-bib-0033" ref-type="ref">33</xref>; a large phase 3 trial is underway for this outcome measure with a bolus dose of 1200 million cells/patient (NCT03545607). In a phase 2 trial for ulcerative colitis (NCT01240915), doses from 300 to 750 million cells/patient failed to show efficacy (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>B). A recent double&#x02010;blind trial for acute respiratory distress syndrome (NCT02611609) using 900 million MSCs/patient reported higher intensive care unit&#x02010;free days and lower mortality than controls; with these encouraging results they have fast track designation from the FDA.<xref rid="sct312610-bib-0034" ref-type="ref">34</xref> Thus, the IV MED for Multistem may be as high as 900 million MSCs/patient given that the 750 million dose was not effective (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>B). It will be interesting to determine the MED for Multistem in a single dose escalation trial.</p><p>Besides the Multistem trials, we did not find reports of MEDs that were higher than 190 million or efficacy with doses lower than 70 million cells/patient, suggesting that MSCs may not have been effective at lower doses. The absence of such data may be due, in part, to reluctance to publish negative results. 58% of trial doses fall within the range of 70&#x02010;190 million cells/patient but 20% are lower and may be below an effective threshold, whereas 22% are higher (Figure <xref rid="sct312610-fig-0005" ref-type="fig">5</xref>B) and may not be optimal doses.</p><p>Another group of three phase 2 trials showed MSC dose effects after IAT injection, the major route for joint diseases. The MED range for these trials was 50&#x02010;100 million cells/patient with doses of 10 and 150 million cells/patient not being effective.<xref rid="sct312610-bib-0035" ref-type="ref">35</xref>, <xref rid="sct312610-bib-0036" ref-type="ref">36</xref>, <xref rid="sct312610-bib-0037" ref-type="ref">37</xref> The MED range for IAT is lower than that for IV delivery, probably because treatment within a small compartment requires fewer cells than the wider distribution of MSCs in the body with rapid loss after IV injection. Thus, IAT is a second route of delivery where a MED has been detected. There are insufficient data to do similar analyses for other routes of delivery.</p></sec></sec><sec id="sct312610-sec-0016"><label>4</label><title>DISCUSSION</title><p>We performed a comprehensive analysis of MSCs that are being developed for therapeutics using 914 trials from <ext-link ext-link-type="uri" xlink:href="http://clinicltrials.gov">http://clinicltrials.gov</ext-link> (Supplemental Table <xref rid="sct312610-supitem-0001" ref-type="supplementary-material">S1</xref>). A recent review of &#x0201c;MSC&#x02010;based trials&#x0201d; that collected data on June 30, 2015<xref rid="sct312610-bib-0006" ref-type="ref">6</xref> classified 493 trials by their clinical phases, disease indications, and the status of the trials; however, the exact term(s) used for their search are not clear. In any case, we found similarities to their conclusions using our larger database, confirming that the three most prevalent disease indications for MSC trials continue to be neurological, bone and joint, and cardiovascular disease, and that the majority of trials included a phase 2 component. A novelty of our study is detailed analysis of routes of MSC delivery and dosing, which showed a wide range of doses being investigated, but only a relatively narrow range of doses were reported to be effective for IV and IAT. When more data becomes available it will be possible to address the issue that different diseases may respond better to particular dose ranges.</p><p>Our results confirm previous trends showing an increasing number of trial registrations between 2004 and 2011<xref rid="sct312610-bib-0038" ref-type="ref">38</xref> with the majority of MSC trials including phase 2 components but there are relatively few phase 3 trials (Figure <xref rid="sct312610-fig-0001" ref-type="fig">1</xref>).<xref rid="sct312610-bib-0006" ref-type="ref">6</xref>, <xref rid="sct312610-bib-0008" ref-type="ref">8</xref> The number of new trials has plateaued in recent years and it remains to be seen whether the dramatic decrease in 2018 represents a new trend. It is remarkable that only three clinical approvals have been given so far, considering the large numbers of trials that have been conducted. First, Mesoblast received conditional approval to treat GvHD in Japan for an allogenic BM&#x02010;derived MSC product, Remestemcel&#x02010;L,<xref rid="sct312610-bib-0008" ref-type="ref">8</xref> with an extrapolated IV dose for an adult of 140 million cells, which is within the MED range that we determined (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>). Second, the European Commission approved in 2018 an allogenic MSC product, Alofisel, for the treatment of complex perianal fistula<xref rid="sct312610-bib-0039" ref-type="ref">39</xref> with a local dose of 120 million cells, which is close to the average doses found for injection into soft tissues (IC and IM, Figure <xref rid="sct312610-fig-0005" ref-type="fig">5</xref>B). Third, Japan's Pharmaceuticals and Medical Devices Agency has given approval for the use of an autologous BM&#x02010;derived MSC product, Stemirac, for the treatment of sub&#x02010;acute SCI<xref rid="sct312610-bib-0040" ref-type="ref">40</xref> using a broad range of IT doses from 50 to 200 million cells, which may yield a MED within this range. Cell manufacturing by companies provide banks of allogenic MSCs to facilitate storage and transport for clinical use.</p><p>A recent review discusses challenges with MSC clinical trials including variabilities among the large number of disease categories, different routes of delivery, range of doses, and types of MSCs being used. They suggest that the low success rate in meeting primary outcomes underscores the need for new designs to improve outcomes.<xref rid="sct312610-bib-0008" ref-type="ref">8</xref> To minimize variability, we focused on the IV route because it is the largest group of trials, the least invasive, the most technically simple, and the most reproducible method. However, after IV injection, the vast majority of MSCs get trapped primarily in the lungs, and it has been suggested that MSCs act systemically to modulate inflammation, at least in part, by secreting modulatory factors<xref rid="sct312610-bib-0041" ref-type="ref">41</xref> and exosomes.<xref rid="sct312610-bib-0042" ref-type="ref">42</xref> IA is another route to the blood that allows MSC uptake into tissues before reaching the lungs<xref rid="sct312610-bib-0041" ref-type="ref">41</xref>, <xref rid="sct312610-bib-0043" ref-type="ref">43</xref> and this provides a rationale for the 2.8&#x02010;fold lower median doses indicated for IA vs IV administration (Figure <xref rid="sct312610-fig-0005" ref-type="fig">5</xref>B). However, IA is a much more invasive than IV and is used in a small number of trials. The rapid clearance of the vast majority of MSCs from the blood and the body within days makes it difficult to discern the mechanism(s) responsible for prolonged effects of MSCs.<xref rid="sct312610-bib-0006" ref-type="ref">6</xref>, <xref rid="sct312610-bib-0007" ref-type="ref">7</xref>, <xref rid="sct312610-bib-0008" ref-type="ref">8</xref>, <xref rid="sct312610-bib-0044" ref-type="ref">44</xref>
+</p><p>Considering the rapid disappearance of MSCs delivered by IV, we suggest that repeated injections of MEDs of MSCs at intervals,<xref rid="sct312610-bib-0041" ref-type="ref">41</xref> extends what would otherwise be a short&#x02010;term into a longer&#x02010;term effect and is not equivalent to the same total aggregate dose given as a single bolus injection. This is particularly important in cases where a bolus dose (eg, of 1200 million cells, or 17 million cells/kg), which did not meet a primary outcome measure, may not be as effective as the same total dose injected as multiple smaller doses fractionated over time (eg, 8 &#x000d7;&#x02009;2 million cells/kg, Supplemental Table <xref rid="sct312610-supitem-0001" ref-type="supplementary-material">S3</xref>). No single trial has compared the efficacy of the same total dose as a bolus vs multiple doses fractionated over time to test whether the latter method is more effective.</p><p>To investigate optimal MSC dosing, we focused on individual trials that reported at least one effective and one less effective dose to avoid variability in comparisons among different trials. Four trials suggested a MED range between 100 and 150 million cells, whereas doses of 70 million or lower were ineffective and doses of 200 million were less effective. In 10 of 12 single dose trials, effective IV doses ranged from 70 to 190 million MSC (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>B). In 20% of IV trials, doses are &#x0003c;70 million cells, but we did not find efficacy reported in this group. However, three trials reported non&#x02010;significant or weaker effects at higher doses of 200<xref rid="sct312610-bib-0030" ref-type="ref">30</xref> and 300 million cells,<xref rid="sct312610-bib-0029" ref-type="ref">29</xref>, <xref rid="sct312610-bib-0032" ref-type="ref">32</xref> suggesting an inverted U&#x02010;shaped dose&#x02010;response curve with sub&#x02010;threshold and less effective higher doses relative to a MED. Doses of 200 million cells or higher are indicated for 22% of the trials and some are expected to be suboptimal.</p><p>Two MSC trials used the Crohn's disease activity index (CDAI) showed efficacy with 140 (NCT01090817)<xref rid="sct312610-bib-0028" ref-type="ref">28</xref> and 150 (NCT01155362) million cells/patient/dose<xref rid="sct312610-bib-0032" ref-type="ref">32</xref> suggesting this represents a tentative MED of ~&#x02009;150 million cells. However, a third trial a dose of 750 million Multistem/patient/dose (NCT01240915)<xref rid="sct312610-bib-0045" ref-type="ref">45</xref> was not effective suggesting that it might be too high. Alternatively, the Multistem dose of 750 million may be subthreshold compared to effective doses of 900&#x02010;1200 million cells (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>B) but this is based on comparisons among three different trials. A single dose&#x02010;response trial for Multistem may reveal whether these cells have several fold higher MEDs than all other BM derived MSC (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>).</p></sec><sec id="sct312610-sec-0017"><label>5</label><title>FUTURE DIRECTIONS FOR MSC THERAPY</title><p>This analysis presumed that different MSCs have comparable efficacies after IV administration, but we have already found differences in efficacy even among MSCs derived from BM prepared by different methods<xref rid="sct312610-bib-0046" ref-type="ref">46</xref> (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>). Differences in MSC treatment protocols, therapeutic targets, sources of MSCs, manufacturing protocols, routes of delivery and dosing needs improved standardization for better comparisons of results among related clinical trials.<xref rid="sct312610-bib-0047" ref-type="ref">47</xref> Nevertheless, in 14 of 16 MSC trials effective IV doses ranged from 70 to 190 million cells/patient/dose suggesting many MSC act with comparable efficacy by common mechanisms involving factor secretion and contact&#x02010;mediated immune cell modulation in many different inflammatory conditions (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>). Moreover, in four of these trials the MEDs are in a narrower range of 100&#x02010;150 million cells/patient. Higher doses that are less effective may provide too much immune modulation. More trials need to determine whether MEDs are similar for various types of MSCs for delivery by IV and other routes.</p><p>Although measurement of MEDs may slow early phase clinical trial progress and increase early costs, it may yield improved treatment protocols that will reduce long&#x02010;term costs (Supplemental Table <xref rid="sct312610-supitem-0001" ref-type="supplementary-material">S2</xref>) by determining more effective doses before starting larger trials.<xref rid="sct312610-bib-0008" ref-type="ref">8</xref> The time period after MSC delivery at which efficacy wanes may represent when additional doses should be delivered to prolong effects. The success in the clinic of multiple administrations of remestemcel&#x02010;L (Mesoblast) at relatively short intervals of ~3.5&#x02009;days demonstrates feasibility for this approach for IV delivery. Whereas GvHD may be a validated target for comparing MEDs for different MSCs, there is a disproportionate number of GvHD trials considering a relatively small patient population (Supplemental Table <xref rid="sct312610-supitem-0001" ref-type="supplementary-material">S2</xref>).</p><p>New approaches are needed to understand better MSC mechanisms of action in vivo.<xref rid="sct312610-bib-0047" ref-type="ref">47</xref> For example, secretory functions of MSC have been demonstrated using encapsulation, which restrict cells within the capsule and allows exchange of factors, while preventing cell&#x02010;cell interactions with the host.<xref rid="sct312610-bib-0048" ref-type="ref">48</xref> Encapsulated MSCs respond to pro&#x02010;inflammatory factors by paracrine mechanisms whereby secreted cytokines upregulate key anti&#x02010;inflammatory factors (eg, PGE2) and downregulate pro&#x02010;inflammatory cytokines in activated macrophages (eg, TNF&#x02010;&#x003b1;).<xref rid="sct312610-bib-0049" ref-type="ref">49</xref> This is likely to be a major factor in locomotor recovery from spinal cord injury after IT injection of encapsulated MSC, which reduced the number of activated macrophages, increased the number of M2 anti&#x02010;inflammatory macrophages, and preservation of white matter around the injury site at distances of &#x0003e;1&#x02009;cm from where the encapsulated MSC are located.<xref rid="sct312610-bib-0050" ref-type="ref">50</xref>, <xref rid="sct312610-bib-0051" ref-type="ref">51</xref> Attachment to the heart of encapsulated MSCs in a patch promoted recovery after myocardial infarction by a paracrine mechanism.<xref rid="sct312610-bib-0052" ref-type="ref">52</xref> Encapsulated MSCs have been transplanted into hematomas in the human brain demonstrating clinical feasibility.<xref rid="sct312610-bib-0053" ref-type="ref">53</xref> Moreover, capsules have be recovered after transplantation<xref rid="sct312610-bib-0051" ref-type="ref">51</xref>, <xref rid="sct312610-bib-0053" ref-type="ref">53</xref>, <xref rid="sct312610-bib-0054" ref-type="ref">54</xref> and cytokine secretion levels from the cells have been measured, which is not feasible with free MSCs injected by IV. Thus, encapsulated MSCs function via a paracrine mechanism in vivo without contributions from contact with host cells. Long&#x02010;term survival of MSCs in the capsules should enable sustained and extended release of soluble factors that would be particularly advantageous for chronic diseases.</p></sec><sec id="sct312610-sec-0018"><label>6</label><title>CONCLUSION</title><p>The number of new reported phase 1 and 2 MSC clinical trials expanded consistently from 2006 to 2012 but have plateaued since and decreased in 2018. Although it is difficult to explain this pattern, it may be due to limited success in achieving outcome measures for efficacy. Improved trial designs are needed because heterogeneity in many trial parameters makes systematic analysis difficult.<xref rid="sct312610-bib-0008" ref-type="ref">8</xref> A critical factor that can be controlled is cell dosing, but doses were reported in only 53% of trials listed at <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link>. Many trials indicate doses of &#x0003c;70 million MSC/patient, which may be below the threshold for efficacy. IV MSC dose escalation safety trials should also be designed to measure initial MEDs before moving to trials with large numbers of subjects. The MEDs determined here suggest that IV MSC doses to be tested such as ~75 million MSC/patient for a low dose, ~150 million MSC/patient for an expected effective dose, and a higher dose of ~300 million MSC/patient, would identify MEDs for several types of MSC in a wide range of inflammatory disorders for several types of MSCs (Table <xref rid="sct312610-tbl-0001" ref-type="table">1</xref>). Identification of MEDs for different routes of delivery is likely to decrease long&#x02010;term costs of clinical trials with large numbers of subjects by focusing on the most effective doses. Increased reporting of clinical trial results, especially negative results, which are rarely published, will help avoid potentially non&#x02010;effective doses and reduce unnecessary duplication of clinical trials.</p></sec><sec sec-type="COI-statement" id="sct312610-sec-0021"><title>CONFLICT OF INTEREST</title><p>M.G. declared equity in CytoStormRx LLC but there is no conflict of interest. The other authors indicated no potential conflicts of interest.</p></sec><sec id="sct312610-sec-0020"><title>AUTHOR CONTRIBUTIONS</title><p>M.K.: design, collection and assembly of data, data analysis and interpretation, and manuscript writing; I.B.: collection and assembly of data; S.K.: collection, assembly, and analysis of data; M.G.: conception and design, financial support, data collection, analysis and interpretation, manuscript writing, and final approval.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="sct312610-supitem-0001"><caption><p>
+<bold>Supplemental Table 1.</bold> Database of MSC clinical trials</p><p>
+<bold>Supplemental Table 2.</bold> Numbers of trials for several major conditions including numbers of patients in USA and annual cost to treat each group of patients/year. Sources for data are listed in the columns on the right.</p><p>
+<bold>Supplemental Table 3.</bold> Comparison of two trials using IV delivery of bone marrow derived MSC with similar total doses/kg but using different schedules of delivery. Multistem was administered as a bolus dose of ~17 million cells/Kg calculated from a total dose of 1,200 million cells using an adult weight of 70 Kg. Mesenchymal precursor cells (MPC) were injected 8 times at intervals of ~3.5&#x02009;days with 2 million cells/Kg; this protocol is being used in the clinic. Additional details for these trials are found in Table 1.</p></caption><media xlink:href="SCT3-9-17-s001.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sct312610-supitem-0002"><caption><p>
+<bold>Supplemental Figure 1</bold> Numbers of clinical trials using MSC registered in different countries. The numbers of trials registered by organizations were counted for each country and shown for the phases of the trials.</p></caption><media xlink:href="SCT3-9-17-s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sct312610-supitem-0003"><caption><p>
+<bold>Supplemental Figure 2</bold> Companies involved in clinical trials with MSC. All trials involving participation of companies were selected from our database and the number of trials were counted for each company. The total numbers of trials using different sources of MSC were calculated. This data set is the same shown as numbers of new trials registered in each year in Figure 3B and represents 32% of all trials.</p></caption><media xlink:href="SCT3-9-17-s003.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="sct312610-sec-0019"><title>ACKNOWLEDGMENTS</title><p>We thank Lynn Agre for help with statistical analysis and CytoStormRx LLC for funding.</p></ack><sec sec-type="data-availability" id="sct312610-sec-0023"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="sct312610-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="sct312610-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="sct312610-cit-0001">
+<string-name>
+<surname>Mastri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Enhancing the efficacy of mesenchymal stem cell therapy</article-title>. <source xml:lang="en">World J Stem Cell</source>. <year>2014</year>;<volume>6</volume>:<fpage>82</fpage>&#x02010;<lpage>93</lpage>.</mixed-citation></ref><ref id="sct312610-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="sct312610-cit-0002">
+<string-name>
+<surname>Oliveri</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Bello</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Biering&#x02010;Sorensen</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Mesenchymal stem cells improve locomotor recovery in traumatic spinal cord injury: systematic review with meta&#x02010;analyses of rat models</article-title>. <source xml:lang="en">Neurobiol Dis</source>. <year>2014</year>;<volume>62</volume>:<fpage>338</fpage>&#x02010;<lpage>353</lpage>.<pub-id pub-id-type="pmid">24148857</pub-id></mixed-citation></ref><ref id="sct312610-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="sct312610-cit-0003">
+<string-name>
+<surname>Walter</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ware</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name>
+<surname>Matthay</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Mesenchymal stem cells: mechanisms of potential therapeutic benefit in ARDS and sepsis</article-title>. <source xml:lang="en">Lancet Respir Med</source>. <year>2014</year>;<volume>2</volume>:<fpage>1016</fpage>&#x02010;<lpage>1026</lpage>.<pub-id pub-id-type="pmid">25465643</pub-id></mixed-citation></ref><ref id="sct312610-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="sct312610-cit-0004">
+<string-name>
+<surname>Yoo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>
+<given-names>DY</given-names>
+</string-name>. <article-title>Stem cells as promising therapeutic options for neurological disorders</article-title>. <source xml:lang="en">J Cell Biochem</source>. <year>2013</year>;<volume>114</volume>:<fpage>743</fpage>&#x02010;<lpage>753</lpage>.<pub-id pub-id-type="pmid">23097262</pub-id></mixed-citation></ref><ref id="sct312610-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="sct312610-cit-0005">
+<string-name>
+<surname>Lombardo</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>van der Poll</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>DelaRosa</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cells as a therapeutic tool to treat sepsis</article-title>. <source xml:lang="en">World J Stem Cells</source>. <year>2015</year>;<volume>7</volume>:<fpage>368</fpage>&#x02010;<lpage>379</lpage>.<pub-id pub-id-type="pmid">25815121</pub-id></mixed-citation></ref><ref id="sct312610-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="sct312610-cit-0006">
+<string-name>
+<surname>Squillaro</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Peluso</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Galderisi</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>Clinical trials with mesenchymal stem cells: an update</article-title>. <source xml:lang="en">Cell Transplant</source>. <year>2016</year>;<volume>25</volume>:<fpage>829</fpage>&#x02010;<lpage>848</lpage>.<pub-id pub-id-type="pmid">26423725</pub-id></mixed-citation></ref><ref id="sct312610-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="sct312610-cit-0007">
+<string-name>
+<surname>Wei</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>ZP</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cells: a new trend for cell therapy</article-title>. <source xml:lang="en">Acta Pharmacol Sin</source>. <year>2013</year>;<volume>34</volume>:<fpage>747</fpage>&#x02010;<lpage>754</lpage>.<pub-id pub-id-type="pmid">23736003</pub-id></mixed-citation></ref><ref id="sct312610-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="sct312610-cit-0008">
+<string-name>
+<surname>Galipeau</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sensebe</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Mesenchymal stromal cells: clinical challenges and therapeutic opportunities</article-title>. <source xml:lang="en">Cell Stem Cell</source>. <year>2018</year>;<volume>22</volume>:<fpage>824</fpage>&#x02010;<lpage>833</lpage>.<pub-id pub-id-type="pmid">29859173</pub-id></mixed-citation></ref><ref id="sct312610-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="sct312610-cit-0009">
+<string-name>
+<surname>Panes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Olmo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Van Assche</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Expanded allogeneic adipose&#x02010;derived mesenchymal stem cells (Cx601) for complex perianal fistulas in Crohn's disease: a phase 3 randomised, double&#x02010;blind controlled trial</article-title>. <source xml:lang="en">Lancet</source>. <year>2016</year>;<volume>388</volume>:<fpage>1281</fpage>&#x02010;<lpage>1290</lpage>.<pub-id pub-id-type="pmid">27477896</pub-id></mixed-citation></ref><ref id="sct312610-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="sct312610-cit-0010">
+<string-name>
+<surname>Caplan</surname>
+<given-names>AI</given-names>
+</string-name>. <article-title>Why are MSCs therapeutic? New data: new insight</article-title>. <source xml:lang="en">J Pathol</source>. <year>2009</year>;<volume>217</volume>:<fpage>318</fpage>&#x02010;<lpage>324</lpage>.<pub-id pub-id-type="pmid">19023885</pub-id></mixed-citation></ref><ref id="sct312610-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="sct312610-cit-0011">
+<string-name>
+<surname>Friedenstein</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Piatetzky</surname>
+<given-names>S</given-names>
+<suffix>II</suffix>
+</string-name>, <string-name>
+<surname>Petrakova</surname>
+<given-names>KV</given-names>
+</string-name>. <article-title>Osteogenesis in transplants of bone marrow cells</article-title>. <source xml:lang="en">J Embryol Exp Morphol</source>. <year>1966</year>;<volume>16</volume>:<fpage>381</fpage>&#x02010;<lpage>390</lpage>.<pub-id pub-id-type="pmid">5336210</pub-id></mixed-citation></ref><ref id="sct312610-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="sct312610-cit-0012">
+<string-name>
+<surname>Viswanathan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Keating</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Deans</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Soliciting strategies for developing cell&#x02010;based reference materials to advance mesenchymal stromal cell research and clinical translation</article-title>. <source xml:lang="en">Stem Cells Dev</source>. <year>2014</year>;<volume>23</volume>:<fpage>1157</fpage>&#x02010;<lpage>1167</lpage>.<pub-id pub-id-type="pmid">24422625</pub-id></mixed-citation></ref><ref id="sct312610-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="sct312610-cit-0013">
+<string-name>
+<surname>Bernardo</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Fibbe</surname>
+<given-names>WE</given-names>
+</string-name>. <article-title>Safety and efficacy of mesenchymal stromal cell therapy in autoimmune disorders</article-title>. <source xml:lang="en">Ann N Y Acad Sci</source>. <year>2012</year>;<volume>1266</volume>:<fpage>107</fpage>&#x02010;<lpage>117</lpage>.<pub-id pub-id-type="pmid">22901262</pub-id></mixed-citation></ref><ref id="sct312610-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="sct312610-cit-0014">
+<string-name>
+<surname>Julian</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Yuhasz</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hollingsworth</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>The "Growing" reality of the neurological complications of global "Stem Cell Tourism"</article-title>. <source xml:lang="en">Semin Neurol</source>. <year>2018</year>;<volume>38</volume>:<fpage>176</fpage>&#x02010;<lpage>181</lpage>.<pub-id pub-id-type="pmid">29791943</pub-id></mixed-citation></ref><ref id="sct312610-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="sct312610-cit-0015">
+<string-name>
+<surname>Cagliani</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Grande</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Molmenti</surname>
+<given-names>EP</given-names>
+</string-name>, et al. <article-title>Immunomodulation by mesenchymal stromal cells and their clinical applications</article-title>. <source xml:lang="en">J Stem Cell Regen Biol</source>. <year>2017</year>;<volume>3</volume>:<fpage>1</fpage>&#x02010;<lpage>26</lpage>.</mixed-citation></ref><ref id="sct312610-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="sct312610-cit-0016">
+<string-name>
+<surname>Galipeau</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Krampera</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Barrett</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>International Society for Cellular Therapy perspective on immune functional assays for mesenchymal stromal cells as potency release criterion for advanced phase clinical trials</article-title>. <source xml:lang="en">Cytotherapy</source>. <year>2016</year>;<volume>18</volume>:<fpage>151</fpage>&#x02010;<lpage>159</lpage>.<pub-id pub-id-type="pmid">26724220</pub-id></mixed-citation></ref><ref id="sct312610-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="sct312610-cit-0017">
+<string-name>
+<surname>Olsen</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Lock</surname>
+<given-names>LT</given-names>
+</string-name>, et al. <article-title>Peak MSC&#x02014;are we there yet?</article-title>
+<source xml:lang="en">Front Med</source>. <year>2018</year>;<volume>5</volume>:<fpage>178</fpage>.</mixed-citation></ref><ref id="sct312610-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="sct312610-cit-0018">
+<string-name>
+<surname>Couto</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Bersenev</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Verter</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>The first decade of advanced cell therapy clinical trials using perinatal cells (2005&#x02010;2015)</article-title>. <source xml:lang="en">Regen Med</source>. <year>2017</year>;<volume>12</volume>:<fpage>953</fpage>&#x02010;<lpage>968</lpage>.<pub-id pub-id-type="pmid">29139329</pub-id></mixed-citation></ref><ref id="sct312610-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="sct312610-cit-0019">
+<string-name>
+<surname>Leibacher</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Henschler</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Biodistribution, migration and homing of systemically applied mesenchymal stem/stromal cells</article-title>. <source xml:lang="en">Stem Cell Res Ther</source>. <year>2016</year>;<volume>7</volume>:<fpage>7</fpage>.<pub-id pub-id-type="pmid">26753925</pub-id></mixed-citation></ref><ref id="sct312610-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="sct312610-cit-0020">
+<string-name>
+<surname>Jellema</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Ophelders</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Zwanenburg</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Multipotent adult progenitor cells for hypoxic&#x02010;ischemic injury in the preterm brain</article-title>. <source xml:lang="en">J Neuroinflammation</source>. <year>2015</year>;<volume>12</volume>:<fpage>241</fpage>.<pub-id pub-id-type="pmid">26700169</pub-id></mixed-citation></ref><ref id="sct312610-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="sct312610-cit-0021">
+<string-name>
+<surname>Gronthos</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>McCarty</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Mrozik</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Heat shock protein&#x02010;90 beta is expressed at the surface of multipotential mesenchymal precursor cells: generation of a novel monoclonal antibody, STRO&#x02010;4, with specificity for mesenchymal precursor cells from human and ovine tissues</article-title>. <source xml:lang="en">Stem Cells Dev</source>. <year>2009</year>;<volume>18</volume>:<fpage>1253</fpage>&#x02010;<lpage>1262</lpage>.<pub-id pub-id-type="pmid">19327008</pub-id></mixed-citation></ref><ref id="sct312610-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="sct312610-cit-0022">
+<string-name>
+<surname>Veronesi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Maglio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tschon</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Adipose&#x02010;derived mesenchymal stem cells for cartilage tissue engineering: state&#x02010;of&#x02010;the&#x02010;art in in vivo studies</article-title>. <source xml:lang="en">J Biomed Mater Res A</source>. <year>2014</year>;<volume>102</volume>:<fpage>2448</fpage>&#x02010;<lpage>2466</lpage>.<pub-id pub-id-type="pmid">23894033</pub-id></mixed-citation></ref><ref id="sct312610-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="sct312610-cit-0023">
+<string-name>
+<surname>Thirumala</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gimble</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Devireddy</surname>
+<given-names>RV</given-names>
+</string-name>. <article-title>Evaluation of methylcellulose and dimethyl sulfoxide as the cryoprotectants in a serum&#x02010;free freezing media for cryopreservation of adipose&#x02010;derived adult stem cells</article-title>. <source xml:lang="en">Stem Cells Dev</source>. <year>2010</year>;<volume>19</volume>:<fpage>513</fpage>&#x02010;<lpage>522</lpage>.<pub-id pub-id-type="pmid">19788372</pub-id></mixed-citation></ref><ref id="sct312610-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="sct312610-cit-0024">
+<string-name>
+<surname>Hur</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>DH</given-names>
+</string-name>, et al. <article-title>Intrathecal transplantation of autologous adipose&#x02010;derived mesenchymal stem cells for treating spinal cord injury: a human trial</article-title>. <source xml:lang="en">J Spinal Cord Med</source>. <year>2015</year>;<volume>39</volume>:<fpage>655</fpage>&#x02010;<lpage>664</lpage>.<pub-id pub-id-type="pmid">26208177</pub-id></mixed-citation></ref><ref id="sct312610-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="sct312610-cit-0025">
+<string-name>
+<surname>Gonzalez&#x02010;Rey</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>
+<given-names>MA</given-names>
+</string-name>, et al. <article-title>Human adult stem cells derived from adipose tissue protect against experimental colitis and sepsis</article-title>. <source xml:lang="en">Gut</source>. <year>2009</year>;<volume>58</volume>:<fpage>929</fpage>&#x02010;<lpage>939</lpage>.<pub-id pub-id-type="pmid">19136511</pub-id></mixed-citation></ref><ref id="sct312610-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="sct312610-cit-0026">
+<string-name>
+<surname>Huet</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Chin&#x02010;Dusting</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Septic shock: desperately seeking treatment</article-title>. <source xml:lang="en">Clin Sci (Lond)</source>. <year>2014</year>;<volume>126</volume>:<fpage>31</fpage>&#x02010;<lpage>39</lpage>.<pub-id pub-id-type="pmid">24020445</pub-id></mixed-citation></ref><ref id="sct312610-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="sct312610-cit-0027">
+<string-name>
+<surname>Fischer</surname>
+<given-names>UM</given-names>
+</string-name>, <string-name>
+<surname>Harting</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Jimenez</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Pulmonary passage is a major obstacle for intravenous stem cell delivery: the pulmonary first&#x02010;pass effect</article-title>. <source xml:lang="en">Stem Cells Dev</source>. <year>2009</year>;<volume>18</volume>:<fpage>683</fpage>&#x02010;<lpage>692</lpage>.<pub-id pub-id-type="pmid">19099374</pub-id></mixed-citation></ref><ref id="sct312610-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="sct312610-cit-0028">
+<string-name>
+<surname>Skyler</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Fonseca</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name>
+<surname>Segal</surname>
+<given-names>KR</given-names>
+</string-name>, et al. <article-title>Allogeneic mesenchymal precursor cells in type 2 diabetes: a randomized, placebo&#x02010;controlled, dose&#x02010;escalation safety and tolerability pilot study</article-title>. <source xml:lang="en">Diabetes Care</source>. <year>2015</year>;<volume>38</volume>:<fpage>1742</fpage>&#x02010;<lpage>1749</lpage>.<pub-id pub-id-type="pmid">26153271</pub-id></mixed-citation></ref><ref id="sct312610-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="sct312610-cit-0029">
+<string-name>
+<surname>Packham</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Fraser</surname>
+<given-names>IR</given-names>
+</string-name>, <string-name>
+<surname>Kerr</surname>
+<given-names>PG</given-names>
+</string-name>, et al. <article-title>Allogeneic mesenchymal precursor cells (MPC) in diabetic nephropathy: a randomized, placebo&#x02010;controlled, dose escalation study</article-title>. <source xml:lang="en">EBioMedicine</source>. <year>2016</year>;<volume>12</volume>:<fpage>263</fpage>&#x02010;<lpage>269</lpage>.<pub-id pub-id-type="pmid">27743903</pub-id></mixed-citation></ref><ref id="sct312610-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="sct312610-cit-0030">
+<string-name>
+<surname>Golpanian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>DiFede</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Allogeneic human mesenchymal stem cell infusions for aging frailty</article-title>. <source xml:lang="en">J Gerontol A Biol Sci Med Sci</source>. <year>2017</year>;<volume>72</volume>:<fpage>1505</fpage>&#x02010;<lpage>1512</lpage>.<pub-id pub-id-type="pmid">28444181</pub-id></mixed-citation></ref><ref id="sct312610-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="sct312610-cit-0031">
+<string-name>
+<surname>Winkler</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Perka</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>von Roth</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Immunomodulatory placental&#x02010;expanded, mesenchymal stromal cells improve muscle function following hip arthroplasty</article-title>. <source xml:lang="en">J Cachexia Sarcopenia Muscle</source>. <year>2018</year>;<volume>9</volume>:<fpage>880</fpage>&#x02010;<lpage>897</lpage>.<pub-id pub-id-type="pmid">30230266</pub-id></mixed-citation></ref><ref id="sct312610-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="sct312610-cit-0032">
+<string-name>
+<surname>Melmed</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name>
+<surname>Pandak</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name>
+<surname>Casey</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Human placenta&#x02010;derived cells (PDA&#x02010;001) for the treatment of moderate&#x02010;to&#x02010;severe Crohn's disease: a phase 1b/2a study</article-title>. <source xml:lang="en">Inflamm Bowel Dis</source>. <year>2015</year>;<volume>21</volume>:<fpage>1809</fpage>&#x02010;<lpage>1816</lpage>.<pub-id pub-id-type="pmid">25985246</pub-id></mixed-citation></ref><ref id="sct312610-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="sct312610-cit-0033">
+<string-name>
+<surname>Hess</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Wechsler</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>WM</given-names>
+</string-name>, et al. <article-title>Safety and efficacy of multipotent adult progenitor cells in acute ischaemic stroke (MASTERS): a randomised, double&#x02010;blind, placebo&#x02010;controlled, phase 2 trial</article-title>. <source xml:lang="en">Lancet Neurol</source>. <year>2017</year>;<volume>16</volume>:<fpage>360</fpage>&#x02010;<lpage>368</lpage>.<pub-id pub-id-type="pmid">28320635</pub-id></mixed-citation></ref><ref id="sct312610-bib-0034"><label>34</label><mixed-citation publication-type="miscellaneous" id="sct312610-cit-0034">
+<collab collab-type="authors">Athersys</collab>
+. Athersys presents data from its acute respiratory distress syndrome clinical trial at American Thoracic Society International Conference. <year>2019</year>.</mixed-citation></ref><ref id="sct312610-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="sct312610-cit-0035">
+<string-name>
+<surname>Vangsness</surname>
+<given-names>CT</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Farr</surname>
+<given-names>J</given-names>
+<suffix>2nd</suffix>
+</string-name>, <string-name>
+<surname>Boyd</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Adult human mesenchymal stem cells delivered via intra&#x02010;articular injection to the knee following partial medial meniscectomy: a randomized, double&#x02010;blind, controlled study</article-title>. <source xml:lang="en">J Bone Joint Surg Am</source>. <year>2014</year>;<volume>96</volume>:<fpage>90</fpage>&#x02010;<lpage>98</lpage>.<pub-id pub-id-type="pmid">24430407</pub-id></mixed-citation></ref><ref id="sct312610-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="sct312610-cit-0036">
+<string-name>
+<surname>Lamo&#x02010;Espinosa</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Mora</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Blanco</surname>
+<given-names>JF</given-names>
+</string-name>, et al. <article-title>Intra&#x02010;articular injection of two different doses of autologous bone marrow mesenchymal stem cells versus hyaluronic acid in the treatment of knee osteoarthritis: multicenter randomized controlled clinical trial (phase I/II)</article-title>. <source xml:lang="en">J Transl Med</source>. <year>2016</year>;<volume>14</volume>:<fpage>246</fpage>.<pub-id pub-id-type="pmid">27565858</pub-id></mixed-citation></ref><ref id="sct312610-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="sct312610-cit-0037">
+<string-name>
+<surname>Jo</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Chai</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>
+<given-names>EC</given-names>
+</string-name>, et al. <article-title>Intra&#x02010;articular injection of mesenchymal stem cells for the treatment of osteoarthritis of the knee: a 2&#x02010;year follow&#x02010;up study</article-title>. <source xml:lang="en">Am J Sports Med</source>. <year>2017</year>;<volume>45</volume>:<fpage>2774</fpage>&#x02010;<lpage>2783</lpage>.<pub-id pub-id-type="pmid">28746812</pub-id></mixed-citation></ref><ref id="sct312610-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="sct312610-cit-0038">
+<string-name>
+<surname>Li</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Atkins</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Bubela</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>The global landscape of stem cell clinical trials</article-title>. <source xml:lang="en">Regen Med</source>. <year>2014</year>;<volume>9</volume>:<fpage>27</fpage>&#x02010;<lpage>39</lpage>.<pub-id pub-id-type="pmid">24236476</pub-id></mixed-citation></ref><ref id="sct312610-bib-0039"><label>39</label><mixed-citation publication-type="miscellaneous" id="sct312610-cit-0039">
+<collab collab-type="authors">European Medicines Agency</collab>
+. European public assessment report (EPAR) for Alofisel. Available at: <ext-link ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/medicines/human/EPAR/alofisel">https://www.ema.europa.eu/en/medicines/human/EPAR/alofisel</ext-link>. <year>2018</year>.</mixed-citation></ref><ref id="sct312610-bib-0040"><label>40</label><mixed-citation publication-type="miscellaneous" id="sct312610-cit-0040">
+<collab collab-type="authors">Pharmaceuticals and Medical Devices Agency</collab>
+. Stemirac, human (autologous) bone marrow&#x02010;derived mesenchymal stem cells. Available at: <ext-link ext-link-type="uri" xlink:href="http://www.pmda.go.jp/english/review-services/reviews/approved-information/0004.html">http://www.pmda.go.jp/english/review-services/reviews/approved-information/0004.html</ext-link>. <year>2015</year>.</mixed-citation></ref><ref id="sct312610-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="sct312610-cit-0041">
+<string-name>
+<surname>Lee</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Pulin</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Seo</surname>
+<given-names>MJ</given-names>
+</string-name>, et al. <article-title>Intravenous hMSCs improve myocardial infarction in mice because cells embolized in lung are activated to secrete the anti&#x02010;inflammatory protein TSG&#x02010;6</article-title>. <source xml:lang="en">Cell Stem Cell</source>. <year>2009</year>;<volume>5</volume>:<fpage>54</fpage>&#x02010;<lpage>63</lpage>.<pub-id pub-id-type="pmid">19570514</pub-id></mixed-citation></ref><ref id="sct312610-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="sct312610-cit-0042">
+<string-name>
+<surname>Matthay</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Pati</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JW</given-names>
+</string-name>. <article-title>Concise Review: mesenchymal stem (stromal) cells: biology and preclinical evidence for therapeutic potential for organ dysfunction following trauma or sepsis</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2017</year>;<volume>35</volume>:<fpage>316</fpage>&#x02010;<lpage>324</lpage>.<pub-id pub-id-type="pmid">27888550</pub-id></mixed-citation></ref><ref id="sct312610-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="sct312610-cit-0043">
+<string-name>
+<surname>Byun</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Kwak</surname>
+<given-names>BK</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>JK</given-names>
+</string-name>, et al. <article-title>Engraftment of human mesenchymal stem cells in a rat photothrombotic cerebral infarction model: comparison of intra&#x02010;arterial and intravenous infusion using MRI and histological analysis</article-title>. <source xml:lang="en">J Korean Neurosurg Soc</source>. <year>2013</year>;<volume>54</volume>:<fpage>467</fpage>&#x02010;<lpage>476</lpage>.<pub-id pub-id-type="pmid">24527188</pub-id></mixed-citation></ref><ref id="sct312610-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="sct312610-cit-0044">
+<string-name>
+<surname>Antebi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Mohammadipoor</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Batchinsky</surname>
+<given-names>AI</given-names>
+</string-name>, et al. <article-title>The promise of mesenchymal stem cell therapy for acute respiratory distress syndrome</article-title>. <source xml:lang="en">J Trauma Acute Care Surg</source>. <year>2018</year>;<volume>84</volume>:<fpage>183</fpage>&#x02010;<lpage>191</lpage>.<pub-id pub-id-type="pmid">29019797</pub-id></mixed-citation></ref><ref id="sct312610-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="sct312610-cit-0045">
+<string-name>
+<surname>Chinnadurai</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Velu</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Challenges in animal modelling of mesenchymal stromal cell therapy for inflammatory bowel disease</article-title>. <source xml:lang="en">World J Gastroenterol</source>. <year>2015</year>;<volume>21</volume>:<fpage>4779</fpage>&#x02010;<lpage>4787</lpage>.<pub-id pub-id-type="pmid">25944991</pub-id></mixed-citation></ref><ref id="sct312610-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="sct312610-cit-0046">
+<string-name>
+<surname>Reger</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Prockop</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Should publications on mesenchymal stem/progenitor cells include in&#x02010;process data on the preparation of the cells?</article-title>
+<source xml:lang="en">Stem Cells Translational Medicine</source>. <year>2014</year>;<volume>3</volume>:<fpage>632</fpage>&#x02010;<lpage>635</lpage>.<pub-id pub-id-type="pmid">24692588</pub-id></mixed-citation></ref><ref id="sct312610-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="sct312610-cit-0047">
+<string-name>
+<surname>Martin</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Galipeau</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kessler</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Challenges for mesenchymal stromal cell therapies</article-title>. <source xml:lang="en">Sci Transl Med</source>. <year>2019</year>;<volume>11</volume>:<fpage>1</fpage>&#x02010;<lpage>3</lpage>.</mixed-citation></ref><ref id="sct312610-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="sct312610-cit-0048">
+<string-name>
+<surname>Orive</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Pedraz</surname>
+<given-names>JL</given-names>
+</string-name>, et al. <article-title>Application of cell encapsulation for controlled delivery of biological therapeutics</article-title>. <source xml:lang="en">Adv Drug Deliv Rev</source>. <year>2014</year>;<volume>67&#x02010;68</volume>:<fpage>3</fpage>&#x02010;<lpage>14</lpage>.</mixed-citation></ref><ref id="sct312610-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="sct312610-cit-0049">
+<string-name>
+<surname>Gray</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Maguire</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Schloss</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Identification of IL&#x02010;1beta and LPS as optimal activators of monolayer and alginate&#x02010;encapsulated mesenchymal stromal cell immunomodulation using design of experiments and statistical methods</article-title>. <source xml:lang="en">Biotechnol Prog</source>. <year>2015</year>;<volume>31</volume>:<fpage>1058</fpage>&#x02010;<lpage>1070</lpage>.<pub-id pub-id-type="pmid">25958832</pub-id></mixed-citation></ref><ref id="sct312610-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="sct312610-cit-0050">
+<string-name>
+<surname>Barminko</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Otsuka</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Encapsulated mesenchymal stromal cells for in vivo transplantation</article-title>. <source xml:lang="en">Biotechnol Bioeng</source>. <year>2011</year>;<volume>108</volume>:<fpage>2747</fpage>&#x02010;<lpage>2758</lpage>.<pub-id pub-id-type="pmid">21656712</pub-id></mixed-citation></ref><ref id="sct312610-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="sct312610-cit-0051">
+<string-name>
+<surname>Kumar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Babiarz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Basak</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Sizes and sufficient quantities of MSC microspheres for intrathecal injection to modulate inflammation in spinal cord injury</article-title>. <source xml:lang="en">Nano Life</source>. <year>2015</year>;<volume>5</volume>:<fpage>1</fpage>&#x02010;<lpage>14</lpage>.</mixed-citation></ref><ref id="sct312610-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="sct312610-cit-0052">
+<string-name>
+<surname>Levit</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Landazuri</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Phelps</surname>
+<given-names>EA</given-names>
+</string-name>, et al. <article-title>Cellular encapsulation enhances cardiac repair</article-title>. <source xml:lang="en">J Am Heart Assoc</source>. <year>2013</year>;<volume>2</volume>:<elocation-id>e000367</elocation-id>.<pub-id pub-id-type="pmid">24113327</pub-id></mixed-citation></ref><ref id="sct312610-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="sct312610-cit-0053">
+<string-name>
+<surname>Heile</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Brinker</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Clinical translation of stem cell therapy in traumatic brain injury: the potential of encapsulated mesenchymal cell biodelivery of glucagon&#x02010;like peptide&#x02010;1</article-title>. <source xml:lang="en">Dialogues Clin Neurosci</source>. <year>2011</year>;<volume>13</volume>:<fpage>279</fpage>&#x02010;<lpage>286</lpage>.<pub-id pub-id-type="pmid">22034462</pub-id></mixed-citation></ref><ref id="sct312610-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="sct312610-cit-0054">
+<string-name>
+<surname>Landazuri</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Levit</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Joseph</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Alginate microencapsulation of human mesenchymal stem cells as a strategy to enhance paracrine&#x02010;mediated vascular recovery after hindlimb ischaemia</article-title>. <source xml:lang="en">J Tissue Eng Regen Med</source>. <year>2012</year>;<volume>10</volume>:<fpage>222</fpage>&#x02010;<lpage>232</lpage>.<pub-id pub-id-type="pmid">23281223</pub-id></mixed-citation></ref><ref id="sct312610-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="sct312610-cit-0055">
+<string-name>
+<surname>Connick</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kolappan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Crawley</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Autologous mesenchymal stem cells for the treatment of secondary progressive multiple sclerosis: an open&#x02010;label phase 2a proof&#x02010;of&#x02010;concept study</article-title>. <source xml:lang="en">Lancet Neurol</source>. <year>2012</year>;<volume>11</volume>:<fpage>150</fpage>&#x02010;<lpage>156</lpage>.<pub-id pub-id-type="pmid">22236384</pub-id></mixed-citation></ref><ref id="sct312610-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="sct312610-cit-0056">
+<string-name>
+<surname>Baron</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lechanteur</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Willems</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Cotransplantation of mesenchymal stem cells might prevent death from graft&#x02010;versus&#x02010;host disease (GVHD) without abrogating graft&#x02010;versus&#x02010;tumor effects after HLA&#x02010;mismatched allogeneic transplantation following nonmyeloablative conditioning</article-title>. <source xml:lang="en">Biol Blood Marrow Transplant</source>. <year>2010</year>;<volume>16</volume>:<fpage>838</fpage>&#x02010;<lpage>847</lpage>.<pub-id pub-id-type="pmid">20109568</pub-id></mixed-citation></ref><ref id="sct312610-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="sct312610-cit-0057">
+<string-name>
+<surname>Tan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Induction therapy with autologous mesenchymal stem cells in living&#x02010;related kidney transplants: a randomized controlled trial</article-title>. <source xml:lang="en">JAMA</source>. <year>2012</year>;<volume>307</volume>:<fpage>1169</fpage>&#x02010;<lpage>1177</lpage>.<pub-id pub-id-type="pmid">22436957</pub-id></mixed-citation></ref><ref id="sct312610-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="sct312610-cit-0058">
+<string-name>
+<surname>Weiss</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Casaburi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Flannery</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>A placebo&#x02010;controlled, randomized trial of mesenchymal stem cells in COPD</article-title>. <source xml:lang="en">Chest</source>. <year>2013</year>;<volume>143</volume>:<fpage>1590</fpage>&#x02010;<lpage>1598</lpage>.<pub-id pub-id-type="pmid">23172272</pub-id></mixed-citation></ref><ref id="sct312610-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="sct312610-cit-0059">
+<string-name>
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Allogeneic mesenchymal stem cell treatment alleviates experimental and clinical Sjogren syndrome</article-title>. <source xml:lang="en">Blood</source>. <year>2012</year>;<volume>120</volume>:<fpage>3142</fpage>&#x02010;<lpage>3151</lpage>.<pub-id pub-id-type="pmid">22927248</pub-id></mixed-citation></ref><ref id="sct312610-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="sct312610-cit-0060">
+<string-name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Sustained benefit from combined plasmapheresis and allogeneic mesenchymal stem cells transplantation therapy in systemic sclerosis</article-title>. <source xml:lang="en">Arthritis Res Ther</source>. <year>2017</year>;<volume>19</volume>:<fpage>165</fpage>.<pub-id pub-id-type="pmid">28724445</pub-id></mixed-citation></ref><ref id="sct312610-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="sct312610-cit-0061">
+<string-name>
+<surname>Carlsson</surname>
+<given-names>PO</given-names>
+</string-name>, <string-name>
+<surname>Schwarcz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Korsgren</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Preserved beta&#x02010;cell function in type 1 diabetes by mesenchymal stromal cells</article-title>. <source xml:lang="en">Diabetes</source>. <year>2015</year>;<volume>64</volume>:<fpage>587</fpage>&#x02010;<lpage>592</lpage>.<pub-id pub-id-type="pmid">25204974</pub-id></mixed-citation></ref><ref id="sct312610-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="sct312610-cit-0062">
+<string-name>
+<surname>Forbes</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Sturm</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Leong</surname>
+<given-names>RW</given-names>
+</string-name>, et al. <article-title>A phase 2 study of allogeneic mesenchymal stromal cells for luminal Crohn's disease refractory to biologic therapy</article-title>. <source xml:lang="en">Clin Gastroenterol Hepatol</source>. <year>2014</year>;<volume>12</volume>:<fpage>64</fpage>&#x02010;<lpage>71</lpage>.<pub-id pub-id-type="pmid">23872668</pub-id></mixed-citation></ref><ref id="sct312610-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="sct312610-cit-0063">
+<string-name>
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Epstein</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Greene</surname>
+<given-names>SJ</given-names>
+</string-name>, et al. <article-title>Intravenous allogeneic mesenchymal stem cells for nonischemic cardiomyopathy: safety and efficacy results of a phase II&#x02014;a randomized trial</article-title>. <source xml:lang="en">Circ Res</source>. <year>2017</year>;<volume>120</volume>:<fpage>332</fpage>&#x02010;<lpage>340</lpage>.<pub-id pub-id-type="pmid">27856497</pub-id></mixed-citation></ref></ref-list></back></article>

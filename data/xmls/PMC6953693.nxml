@@ -1,0 +1,639 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938474</article-id><article-id pub-id-type="pmc">6953693</article-id><article-id pub-id-type="doi">10.1002/ece3.5741</article-id><article-id pub-id-type="publisher-id">ECE35741</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>No evidence for early fitness penalty in glyphosate&#x02010;resistant biotypes of <italic>Conyza canadensis</italic>: Common garden experiments in the absence of glyphosate</article-title><alt-title alt-title-type="left-running-head">BERES et al.</alt-title></title-group><contrib-group><contrib id="ece35741-cr-0001" contrib-type="author" corresp="yes"><name><surname>Beres</surname><given-names>Zachery T.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6513-6142</contrib-id><xref ref-type="aff" rid="ece35741-aff-0001">
+<sup>1</sup>
+</xref><address><email>beres.36@osu.edu</email></address></contrib><contrib id="ece35741-cr-0002" contrib-type="author"><name><surname>Owen</surname><given-names>Micheal D. K.</given-names></name><xref ref-type="aff" rid="ece35741-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35741-cr-0003" contrib-type="author"><name><surname>Snow</surname><given-names>Allison A.</given-names></name><xref ref-type="aff" rid="ece35741-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ece35741-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Evolution, Ecology, and Organismal Biology</named-content>
+<institution>Ohio State University</institution>
+<city>Columbus</city>
+<named-content content-type="country-part">OH</named-content>
+<country country="US">USA</country>
+</aff><aff id="ece35741-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Agronomy</named-content>
+<institution>Iowa State University</institution>
+<city>Ames</city>
+<named-content content-type="country-part">IA</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Zachery T. Beres, Department of Evolution, Ecology, and Organismal Biology, Ohio State University, Columbus, OH 43210 USA.<break/>
+Email: <email>beres.36@osu.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>13678</fpage><lpage>13689</lpage><history><date date-type="received"><day>15</day><month>5</month><year>2019</year></date><date date-type="rev-recd"><day>25</day><month>7</month><year>2019</year></date><date date-type="accepted"><day>28</day><month>7</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-13678.pdf"/><abstract id="ece35741-abs-0001"><title>Abstract</title><p>Strong selection from herbicides has led to the rapid evolution of herbicide&#x02010;resistant weeds, greatly complicating weed management efforts worldwide. In particular, overreliance on glyphosate, the active ingredient in RoundUp<sup>&#x000ae;</sup>, has spurred the evolution of resistance to this herbicide in &#x02265;40 species. Previously, we reported that <italic>Conyza canadensis</italic> (horseweed) has evolved extreme resistance to glyphosate, surviving at 40&#x000d7; the original 1&#x000d7; effective dosage. Here, we tested for underlying fitness effects of glyphosate resistance to better understand whether resistance could persist indefinitely in this self&#x02010;pollinating, annual weed. We sampled seeds from a single maternal plant (&#x0201c;biotype&#x0201d;) at each of 26 horseweed populations in Iowa, representing nine susceptible biotypes (S), eight with low&#x02010;level resistance (LR), and nine with extreme resistance (ER). In 2016 and 2017, we compared early growth rates and bolting dates of these biotypes in common garden experiments at two sites near Ames, Iowa. Nested ANOVAs showed that, as a group, ER biotypes attained similar or larger rosette size after 6&#x000a0;weeks compared to S or LR biotypes, which were similar to each other in size. Also, ER biotypes bolted 1&#x02013;2&#x000a0;weeks earlier than S or LR biotypes. These fitness&#x02010;related traits also varied among biotypes within the same resistance category, and time to bolting was inversely correlated with rosette size across all biotypes. Disease symptoms affected 40% of all plants in 2016 and 78% in 2017, so we did not attempt to measure lifetime fecundity. In both years, the frequency of disease symptoms was greatest in S biotypes and similar in LR versus ER biotypes. Overall, our findings indicate there are no early growth penalty and possibly no lifetime fitness penalty associated with glyphosate resistance, including extremely strong resistance. We conclude that glyphosate resistance is likely to persist in horseweed populations, with or without continued selection pressure from exposure to glyphosate.</p></abstract><abstract abstract-type="graphical" id="ece35741-abs-0002"><p>Fitness effects related to varying levels of glyphosate resistance in <italic>Conyza canadensis</italic> were investigated over 2&#x000a0;years using common garden experiments in Iowa. Based on early growth measures, there appears to be no evidence for early fitness penalty in <italic>C. canadensis</italic> resistant to 40&#x000d7; glyphosate.<boxed-text position="anchor" content-type="graphic" id="ece35741-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-13678-g006.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35741-kwd-0001"><styled-content style="fixed-case" toggle="no"><italic>Conyza canadensis</italic></styled-content></kwd><kwd id="ece35741-kwd-0002">fitness</kwd><kwd id="ece35741-kwd-0003">glyphosate</kwd><kwd id="ece35741-kwd-0004">herbicide</kwd><kwd id="ece35741-kwd-0005">horseweed</kwd><kwd id="ece35741-kwd-0006">resistance</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Weedy and Invasive Plants Grant Program from the USDA National Institute of Food and Agriculture</funding-source><award-id>2016&#x02010;67013&#x02010;24804</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Institute of Food and Agriculture </institution><institution-id institution-id-type="open-funder-registry">10.13039/100005825</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Ohio State University </institution><institution-id institution-id-type="open-funder-registry">10.13039/100005776</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>Iowa State University </institution><institution-id institution-id-type="open-funder-registry">10.13039/100009227</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="5"/><table-count count="2"/><page-count count="12"/><word-count count="9204"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35741-cit-1001">
+<string-name>
+<surname>Beres</surname>
+<given-names>ZT</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>
+<given-names>MDK</given-names>
+</string-name>, <string-name>
+<surname>Snow</surname>
+<given-names>AA</given-names>
+</string-name>. <article-title>No evidence for early fitness penalty in glyphosate&#x02010;resistant biotypes of <italic>Conyza canadensis</italic>: Common garden experiments in the absence of glyphosate</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>13678</fpage>&#x02013;<lpage>13689</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5741</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35741-body-0001"><sec id="ece35741-sec-0001"><label>1</label><title>INTRODUCTION</title><p>The concomitant use of herbicides and genetically modified crops worldwide has altered the face of agriculture in recent decades. Increased exposure to a subset of available herbicides has spurred the rapid evolution of resistance in many weed species (Heap, <xref rid="ece35741-bib-0027" ref-type="ref">2019</xref>; Mortensen, Egan, Maxwell, Ryan, &#x00026; Smith, <xref rid="ece35741-bib-0031" ref-type="ref">2012</xref>). Arguably, no herbicide has had a greater impact on modern agriculture than glyphosate (the active ingredient in RoundUp<sup>&#x000ae;</sup>), which has been called &#x0201c;a once&#x02010;in&#x02010;a&#x02010;century herbicide&#x0201d; and is currently the most widely applied herbicide worldwide (Benbrook, <xref rid="ece35741-bib-0003" ref-type="ref">2016</xref>; Duke &#x00026; Powles, <xref rid="ece35741-bib-0020" ref-type="ref">2008</xref>). To date, at least 40 weed species have evolved resistance to glyphosate (Heap, <xref rid="ece35741-bib-0027" ref-type="ref">2019</xref>). This problem has led growers to use increased amounts of glyphosate and incorporate more toxic herbicides, such as 2,4&#x02010;D and dicamba, in weed management efforts (Benbrook, <xref rid="ece35741-bib-0002" ref-type="ref">2012</xref>, <xref rid="ece35741-bib-0003" ref-type="ref">2016</xref>).</p><p>The extent to which herbicide resistance spreads and persists in weed populations is heavily influenced by whether or not resistance mechanisms are associated with fitness effects in the absence of herbicide treatment (Bergelson &#x00026; Purrington, <xref rid="ece35741-bib-0007" ref-type="ref">1996</xref>; Vila&#x02010;Aiub, Neve, &#x00026; Roux, <xref rid="ece35741-bib-0054" ref-type="ref">2011</xref>). Thus, understanding fitness effects of resistance genes is important for developing weed management strategies and modeling approaches for mitigating the problem (Neve, <xref rid="ece35741-bib-0033" ref-type="ref">2008</xref>; Vila&#x02010;Aiub, Neve, &#x00026; Powles, <xref rid="ece35741-bib-0053" ref-type="ref">2009b</xref>). Herbicide resistance may entail a fitness cost due to pleiotropic and other effects on plant growth and reproduction (Pedersen, Neve, Andreasen, &#x00026; Powles, <xref rid="ece35741-bib-0038" ref-type="ref">2007</xref>; Vila&#x02010;Aiub, Neve, &#x00026; Powles, <xref rid="ece35741-bib-0052" ref-type="ref">2009a</xref>; <xref rid="ece35741-bib-0053" ref-type="ref">2009b</xref>), although this is not always the case (Vila&#x02010;Aiub et al., <xref rid="ece35741-bib-0050" ref-type="ref">2014</xref>). When herbicide resistance does not confer a fitness cost, and may even be associated with a fitness benefit in the absence of an herbicide (Beres, Yang, et al., <xref rid="ece35741-bib-0006" ref-type="ref">2018</xref>; Wang et al., <xref rid="ece35741-bib-0056" ref-type="ref">2014</xref>), this trait has the potential to persist indefinitely in weed populations.</p><p>Unfortunately, many previous studies that have tested for fitness effects of herbicide resistance have not controlled for genetic background and often included comparisons between a single resistant population versus a single susceptible population. Vila&#x02010;Aiub et al. (<xref rid="ece35741-bib-0054" ref-type="ref">2011</xref>), Vila&#x02010;Aiub, Gundel, and Preston (<xref rid="ece35741-bib-0051" ref-type="ref">2015</xref>) and others have summarized best practices for this type of research and noted common deviations from best practices including: (a) comparisons based on only one or a few susceptible (S) and resistant (R) biotypes that could have differed in genetic background, (b) accessions represented by pooled samples from populations that could have included a mixture of S and R individuals, (c) resistance was not quantified beyond simple designations of S and R (ignoring possible variation in the degree of resistance), and/or (d) relatively small sample sizes that made statistical inferences difficult. A further challenge is that most studies, including the current study, measure components of fitness such as biomass or seed production, often referred to as fitness&#x02010;related traits, rather than using a full life&#x02010;cycle approach under realistic field conditions. Nonetheless, many earlier publications and those reporting only growth rates, biomass, or fecundity provide a starting point for understanding whether resistance traits are likely to persist after herbicide applications are discontinued.</p><p>Previous studies on the fitness effects of glyphosate resistance in agricultural weeds have reported either a fitness penalty or no fitness cost associated with resistance. Fitness costs have been found in some glyphosate&#x02010;resistant populations of <italic>Kochia scoparia</italic> in greenhouse studies, but not in others (Martin et al., <xref rid="ece35741-bib-0029" ref-type="ref">2017</xref>; Osipitan &#x00026; Dille, <xref rid="ece35741-bib-0036" ref-type="ref">2017</xref>). Fitness&#x02010;related costs of glyphosate resistance also have been reported in glyphosate&#x02010;resistant populations of perennial ryegrass (<italic>Lolium perenne</italic> L.) and morning glory (<italic>Ipomoea purpurea</italic>; Yaniccari, Vila&#x02010;Aiub, Istilart, Acciaresi, &#x00026; Castro, <xref rid="ece35741-bib-0060" ref-type="ref">2016</xref>; Debban, Okum, Pieper, Wilson, &#x00026; Baucom, <xref rid="ece35741-bib-0018" ref-type="ref">2015</xref>). Another study by Wu, Davis, and Tranel (<xref rid="ece35741-bib-0059" ref-type="ref">2017</xref>) found fitness costs associated with one mechanism of glyphosate resistance (EPSPS, EC2.5.1.19, gene amplification) but not for others in greenhouse&#x02010;grown, synthetic populations of <italic>Amaranthus tuberculatus</italic>. However, two well&#x02010;designed studies found no fitness costs associated with glyphosate resistance in Palmer amaranth (<italic>Amaranthus palmeri</italic>), a major problem weed in US agriculture (Giacomini, Westra, &#x00026; Ward, <xref rid="ece35741-bib-0024" ref-type="ref">2014</xref>; Vila&#x02010;Aiub et al., <xref rid="ece35741-bib-0050" ref-type="ref">2014</xref>).</p><p>In the past several decades, glyphosate&#x02010;resistant horseweed (<italic>Conyza canadensis</italic>; Figure <xref rid="ece35741-fig-0001" ref-type="fig">1</xref>) has become an important weed problem in no&#x02010;tillage and low&#x02010;tillage crops, including soybean, vineyards, and orchards (Davis, Gibson, Bauman, Weller, &#x00026; Johnson, <xref rid="ece35741-bib-0015" ref-type="ref">2009</xref>; Webster &#x00026; Nichols, <xref rid="ece35741-bib-0058" ref-type="ref">2012</xref>). Horseweed can be managed by spring and fall tillage, and seeds fail to germinate when buried at depths greater than ~0.5&#x000a0;cm (Brown &#x00026; Whitwell, <xref rid="ece35741-bib-0010" ref-type="ref">1988</xref>; Nandula, Eubank, Poston, Koger, &#x00026; Reddy, <xref rid="ece35741-bib-0032" ref-type="ref">2006</xref>). However, after the commercialization of RoundUp Ready<sup>&#x000ae;</sup> crops facilitated the increased adoption of no&#x02010;tillage crop production systems, horseweed became more abundant and more difficult to manage, especially after many populations evolved resistance to glyphosate (Beres, Ernst, et al., <xref rid="ece35741-bib-0004" ref-type="ref">2018</xref>; Davis et al., <xref rid="ece35741-bib-0015" ref-type="ref">2009</xref>; Davis, Gibson, &#x00026; Johnson, <xref rid="ece35741-bib-0016" ref-type="ref">2008</xref>; Webster &#x00026; Nichols, <xref rid="ece35741-bib-0058" ref-type="ref">2012</xref>). Uncontrolled or poorly managed horseweed populations can form nearly monospecific stands with high&#x02010;population densities and may reduce soybean yields by 90% (Bruce &#x00026; Kells, <xref rid="ece35741-bib-0011" ref-type="ref">1990</xref>). Glyphosate&#x02010;resistant horseweed now occurs in at least 25 states in the United States and in 12 other countries (Heap, <xref rid="ece35741-bib-0027" ref-type="ref">2019</xref>). In Iowa, glyphosate&#x02010;resistant (GR) horseweed was first reported in 2011 (Heap, <xref rid="ece35741-bib-0027" ref-type="ref">2019</xref>), and some of the biotypes that we sampled in 2015 were able to survive when sprayed with 40 times the original manufacturer's recommended dosage (Beres, Ernst, et al., <xref rid="ece35741-bib-0004" ref-type="ref">2018</xref>). Several mechanisms for resistance have been reported in horseweed, including reduced translocation and vacuolar sequestration of the herbicide (Feng et al., <xref rid="ece35741-bib-0021" ref-type="ref">2004</xref>; Ge, d'Avignon, Ackerman, &#x00026; Sammons, <xref rid="ece35741-bib-0023" ref-type="ref">2010</xref>; Koger &#x00026; Reddy, <xref rid="ece35741-bib-0028" ref-type="ref">2005</xref>), increased production of EPSPS (Dinelli et al., <xref rid="ece35741-bib-0019" ref-type="ref">2006</xref>; Mei, Xu, Wang, Qiu, &#x00026; Zheng, <xref rid="ece35741-bib-0030" ref-type="ref">2018</xref>; Tani, Chachalis, &#x00026; Travlos, <xref rid="ece35741-bib-0046" ref-type="ref">2015</xref>), and a target&#x02010;site point mutation (Page et al., <xref rid="ece35741-bib-0037" ref-type="ref">2018</xref>; Beres et al., <xref rid="ece35741-bib-0005" ref-type="ref">2019</xref>). In California, multiple independent origins of glyphosate&#x02010;resistant horseweed have been documented using genetic markers (Okada et al., <xref rid="ece35741-bib-0035" ref-type="ref">2013</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35741-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Representative photographs of <italic>Conyza canadensis</italic> as (a) rosette and (b) flowering</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-13678-g001"/></fig><p>Previous studies have tested for fitness costs in glyphosate&#x02010;resistant horseweed, but inferences from these studies are limited because they compared only one or two resistant (R) versus susceptible (S) populations, some of which may have included plants with varying levels of resistance. In California, a single resistant population had greater root biomass, greater total biomass, and/or faster growth than a single susceptible population (Alcorta, Fidelbus, Steenwerth, &#x00026; Shrestha, <xref rid="ece35741-bib-0001" ref-type="ref">2011</xref>; Grantz, Shrestha, &#x00026; Vu, <xref rid="ece35741-bib-0025" ref-type="ref">2008</xref>; Shrestha, Hanson, Fidelibus, &#x00026; Alcorta, <xref rid="ece35741-bib-0041" ref-type="ref">2010</xref>; Shrestha, Hembree, &#x00026; Va, <xref rid="ece35741-bib-0042" ref-type="ref">2007</xref>). Although it is not possible to generalize from single populations, these reports of fitness&#x02010;related <italic>benefits</italic>, rather than <italic>costs</italic>, are noteworthy, especially in the context of our findings reported here. Two other studies compared two susceptible versus two resistant populations; Davis et al. (<xref rid="ece35741-bib-0015" ref-type="ref">2009</xref>) found negligible differences between S and R populations in terms of biomass, height, or seed production, while Gage et al. (<xref rid="ece35741-bib-0022" ref-type="ref">2015</xref>) reported that one of two R populations produced significantly more seeds compared to other populations.</p><p>Unlike previous studies comparing S versus R horseweed biotypes at the level of populations, here we considered each maternal seed family to be a biotype, which we characterized as susceptible (S), low&#x02010;level resistant (LR), or extremely resistant (ER) to glyphosate, as described below. Because maternal biotypes are likely to represent full&#x02010;sib progeny due to self&#x02010;pollination (Okada et al., <xref rid="ece35741-bib-0035" ref-type="ref">2013</xref>; Smisek, <xref rid="ece35741-bib-0044" ref-type="ref">1995</xref>), genetic differences among biotypes are expected to be heritable and subject to selection following exposure to glyphosate. Thus, our approach provided a fine&#x02010;grained assessment of the extent of glyphosate resistance and associated phenotypic characteristics at the level of maternal seed families.</p><p>The main goals of our current study were to:
+<list list-type="order" id="ece35741-list-0001"><list-item><p>Compare fitness&#x02010;related traits of susceptible biotypes with those that were known to have low&#x02010;level versus extreme resistance to glyphosate.</p></list-item><list-item><p>Test for consistent differences in fitness&#x02010;related traits among biotypes in common garden experiments over two consecutive years.</p></list-item></list>
+</p></sec><sec sec-type="materials-and-methods" id="ece35741-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35741-sec-0003"><label>2.1</label><title>Study species</title><p>
+<italic>Conzya canadensis</italic> L. Cronq. (also known as horseweed, marestail, or Canada fleabane) was the first broadleaf weed species reported to evolve resistance to glyphosate and did so after only three years of repeated field applications in Delaware (VanGessel, <xref rid="ece35741-bib-0049" ref-type="ref">2001</xref>). Horseweed is a summer annual or facultative winter annual that is native to North America and has become prevalent worldwide (Weaver, <xref rid="ece35741-bib-0057" ref-type="ref">2001</xref>). This species is common in field margins, abandoned fields, roadsides, industrial areas, and other disturbed sites, in addition to row crops, orchards, vineyards, and other perennial crops (Dauer, Mortensen, &#x00026; VanGessel, <xref rid="ece35741-bib-0014" ref-type="ref">2007</xref>; Hanson, Shrestha, &#x00026; Shaner, <xref rid="ece35741-bib-0026" ref-type="ref">2009</xref>). Seed germination occurs whenever conditions are favorable (Buhler &#x00026; Owen, <xref rid="ece35741-bib-0012" ref-type="ref">1997</xref>; Weaver, <xref rid="ece35741-bib-0057" ref-type="ref">2001</xref>). Rosettes bolt to produce a ~1&#x02013;2&#x000a0;m tall, multibranched flowering stem (Figure <xref rid="ece35741-fig-0001" ref-type="fig">1</xref>; Regehr &#x00026; Bazzaz, <xref rid="ece35741-bib-0039" ref-type="ref">1979</xref>; Weaver, <xref rid="ece35741-bib-0057" ref-type="ref">2001</xref>), and the small florets are highly self&#x02010;pollinating, with about 1%&#x02013;4% outcrossing (Davis, Kruger, Hallett, Tranel, &#x00026; Johnson, <xref rid="ece35741-bib-0017" ref-type="ref">2010</xref>; Zelaya, Owen, &#x00026; VanGessel, <xref rid="ece35741-bib-0062" ref-type="ref">2004</xref>). Individual plants can produce &#x0003e;200,000 tiny, wind&#x02010;dispersed seeds that exhibit no dormancy and are relatively short&#x02010;lived in soil seed banks (Tozzi, Lyons, &#x00026; Acker, <xref rid="ece35741-bib-0047" ref-type="ref">2014</xref>; Weaver, <xref rid="ece35741-bib-0057" ref-type="ref">2001</xref>). The seeds can disperse &#x0003e;500&#x000a0;km via the upper atmosphere (Shields, Dauer, VanGessel, &#x00026; Neumann, <xref rid="ece35741-bib-0040" ref-type="ref">2006</xref>), but only ~1% of seeds disperse &#x0003e;100&#x000a0;m from their maternal plants (Dauer et al., <xref rid="ece35741-bib-0014" ref-type="ref">2007</xref>). Nonetheless, seeds from large, heavily infested fields could potentially disperse ~1&#x02013;5&#x000a0;km per year (Dauer, Luschei, &#x00026; Mortensen, <xref rid="ece35741-bib-0013" ref-type="ref">2009</xref>; Dauer et al., <xref rid="ece35741-bib-0014" ref-type="ref">2007</xref>).</p></sec><sec id="ece35741-sec-0004"><label>2.2</label><title>Seed collections and biotype resistance</title><p>As noted above, we assumed that seeds from the same maternal plant were full sibs and we referred to these maternal seed families as individual biotypes. In a previous study, we confirmed that progeny from the same maternal plant had consistent levels of resistance to glyphosate (Beres, Ernst, et al., <xref rid="ece35741-bib-0004" ref-type="ref">2018</xref>). Here, we used common garden experiments to compare fitness&#x02010;related traits among a subset of the 74 biotypes described in Beres, Ernst, et al. (<xref rid="ece35741-bib-0004" ref-type="ref">2018</xref>). Seeds were collected from one maternal plant per population from both agricultural and nonagricultural habitats in southern Iowa in 2015 (Figure <xref rid="ece35741-fig-0002" ref-type="fig">2</xref>). Glyphosate resistance for each biotype was characterized by spraying greenhouse&#x02010;grown rosettes with one of five dosages: 0&#x000d7;, 1&#x000d7; (840&#x000a0;g ae ha<sup>&#x02212;1</sup>; manufacturer's recommended application rate, which equates to 0.6725% glyphosate (v/v); AquaMaster<sup>&#x000ae;</sup>, 648&#x000a0;g/L, Monsanto Co.), 8&#x000d7;, 20&#x000d7;, and 40&#x000d7; (see Beres, Ernst, et al., <xref rid="ece35741-bib-0004" ref-type="ref">2018</xref> for details).</p><fig fig-type="Figure" xml:lang="en" id="ece35741-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Collection site locations for 26 <italic>Conyza canadensis</italic> biotypes (maternal seed families) that were used in common garden experiments in southern Iowa, showing the glyphosate resistance category for each biotype. Triangles (&#x025b2;) correspond to biotypes from soybean field habitats, and circles (&#x025cf;) correspond to those from nonagricultural habitats; further site details are listed in Table <xref rid="ece35741-sup-0001" ref-type="supplementary-material">S1</xref>. Adapted from Figure <xref rid="ece35741-fig-0001" ref-type="fig">1</xref> in Beres, Ernst, et al., <xref rid="ece35741-bib-0004" ref-type="ref">2018</xref>; maps were generated using ArcGIS<sup>&#x000ae;</sup> software ver. 10.2.2 for Desktop (Environmental Systems Research Institute Inc., <ext-link ext-link-type="uri" xlink:href="http://www.esri.com">http://www.esri.com</ext-link>)</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-13678-g002"/></fig><p>We selected 10 biotypes from each of three resistance categories: susceptible (S, &#x0003c;80% survival at 1&#x000d7;), low&#x02010;level resistant (LR, at least 80% survival at 1&#x000d7; but &#x0003c;80% survival at 8&#x000d7;), and extremely resistant (ER, &#x0003e;80% survival at 40&#x000d7;) for the common garden experiments. Due to limited seed supply and unequal germination, the final numbers of biotypes used in the current study were 9 S, 8 LR, and 9 ER, each sampled from a different location (Figure <xref rid="ece35741-fig-0002" ref-type="fig">2</xref>). We attempted to include a broad geographic range for each category, but most of the ER biotypes were from populations in southeastern Iowa, where no&#x02010;till soybean production is common, while the S and LR biotypes were more evenly dispersed. Seven of the S biotypes were collected from nonagricultural habitats, while only two LR biotypes and one ER biotype came from nonagricultural habitats (Figure <xref rid="ece35741-fig-0002" ref-type="fig">2</xref>). The agricultural habitats were soybean fields, most of which were likely sprayed with glyphosate prior to seed collection (Beres, Ernst, et al., <xref rid="ece35741-bib-0004" ref-type="ref">2018</xref>). GPS coordinates of the collection sites are listed in Table <xref rid="ece35741-sup-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="ece35741-sec-0005"><label>2.3</label><title>Common garden experiments</title><p>To compare fitness&#x02010;related traits of S, LR, and ER biotypes in the absence of glyphosate, we conducted two common garden experiments, Experiment A and Experiment B, in the summers of 2016 and 2017, respectively. In each year, we used the same two field sites near Ames, Iowa, Site 1 (42.0040&#x000a0;N, 93.3957&#x000a0;W) and Site 2 (41.5847&#x000a0;N, 93.4151&#x000a0;W). Both sites were tilled prior to beginning the experiments, and no fertilizers or herbicides were used at either site for the duration of the experiments.</p><p>For each experiment, we used a randomized, complete block design in which 25 initial greenhouse trays and corresponding designated rows in each field were considered as blocks (i.e., plants in the same tray were used in the same row). Thus, the design for each year included 2 field sites&#x000a0;&#x000d7;&#x000a0;25 blocks per site&#x000a0;&#x000d7;&#x000a0;26 biotypes, for a total of 1,300 plants per year. Seeds for each site were germinated one week apart, with Site 1 seeds planted first. Seeds were germinated in 3&#x02033; round, biodegradable Jiffy pots (BFG Supply; <ext-link ext-link-type="uri" xlink:href="http://www.bfgsupply.com">http://www.bfgsupply.com</ext-link>) filled with moistened Fafard #2 soil (<ext-link ext-link-type="uri" xlink:href="http://www.fafard.com">http://www.fafard.com</ext-link>) and were thinned to one seedling per pot one week after planting. Pots were randomly positioned within trays, with one plant per biotype in each tray. Trays were watered as needed and rotated weekly to mitigate effects of any environmental variation in the greenhouse. The greenhouse was maintained at 18&#x02010;21/23&#x02010;26 C (night/day), and supplemental lights (400&#x02010;watt metal halide) were used for 14&#x000a0;hr per day. After 3&#x000a0;weeks in the greenhouse, trays were moved outdoors to acclimate the plants to full sunlight for 3&#x000a0;days prior to transplanting into common gardens.</p><p>To avoid variation due to competition with other plants, each field site was covered with Heavyweight Woven Pro&#x02010;5 Weed Barrier fabric (Gempler's; <ext-link ext-link-type="uri" xlink:href="http://www.gemplers.com">http://www.gemplers.com</ext-link>), with holes cut for the potted plants every 1.2&#x000a0;m along each of 25 rows. Each row had one plant per biotype randomly assigned a position in the row. Transplanting was staggered between Site 1 and Site 2 by 8&#x000a0;days (2016) or 10&#x000a0;days (2017) during May. During transplanting, the plants were prewatered and the outer edge of each peat pot was removed to allow direct soil&#x02010;to&#x02010;soil contact in the ground. After transplanting, each plant was hand&#x02010;watered again, and watering continued for the first two weeks as needed. Sickly or dead plants were removed and replaced with healthy alternates during the first week after transplanting to account for transplant shock (a total of six transplants were replaced in 2016 and four in 2017).</p><p>After transplanting, all plants were monitored weekly to record survival and disease symptoms. More than 99% of the plants survived to bolting, but a large portion developed disease symptoms in both years (40% in 2016 and 78% in 2017), as described further below. Therefore, we focused our analyses on early growth and days to bolting for both years. We measured the length of the longest rosette leaf to characterize relative differences in rosette size among biotypes over time. Leaf length measurements were taken at 6&#x000a0;weeks after transplant (WAT). We also recorded the number of days from transplanting to the onset of bolting for each plant. A plant was recorded as bolting when the stem had grown at least 2&#x000a0;cm above the basal rosette.</p><p>In 2017, we measured the dry above&#x02010;ground biomass of nondiseased plants that were harvested at the end of the growing season in mid&#x02010;October. These measurements were used in a regression analysis to determine the degree to which rosette size at 6 WAT was correlated with the end&#x02010;of&#x02010;season biomass of nondiseased plants (for all biotypes combined due to small sample sizes within biotypes).</p></sec><sec id="ece35741-sec-0006"><label>2.4</label><title>Statistical analyses</title><sec id="ece35741-sec-0007"><label>2.4.1</label><title>ANOVAs</title><p>For rosette size at 6 WAT and the number of days to bolting, significant differences among biotypes at <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05 were inferred using ANOVAs and Tukey's multiple comparisons. No data transformations were needed to meet assumptions of normality or homogeneity of variance. Each experiment (i.e., each year) was analyzed separately to simplify the models and focus on within&#x02010;year effects.</p><p>For each experiment, we ran two statistical models: one to compare biotypes nested within the three resistance categories (S, LR, and ER), and the other to compare all biotypes with each other. Both models began as full models using all terms and interactions, and we dropped nonsignificant terms until we had the reduced models presented here. In the first model (PROC GLIMMIX, SAS version 9.4; SAS Institute Inc., 2019), we treated the effects of field site, row (nested within field site), and biotype (nested within glyphosate resistance categories) as random variables, while glyphosate resistance category was considered fixed. For this general linear mixed model, we did not necessarily care about the variation among the biotypes, but rather wanted to test for differences among glyphosate resistance categories (S, LR, ER). Each random factor was tested with a log&#x02010;likelihood ratio test to determine whether its variation was significantly different from zero (Bolker et al., <xref rid="ece35741-bib-0009" ref-type="ref">2009</xref>). Because horseweed rosettes are circular, we also explored using the longest leaf length as the radius to estimate rosette area (=&#x003c0;<italic>r</italic>
+<sup>2</sup>). However, for this analysis and others, using estimated rosette area instead of longest leaf length did not change the outcome of any statistical comparisons, so only leaf length data are summarized here.</p><p>In the second model (PROC GLM, SAS version 9.4; SAS Institute Inc., 2019), we specifically wanted to test for differences among the biotypes. Here, we treated field site, row, and position within rows as random variables while biotype was considered fixed. This model also included two interaction terms: one between field and row, and another between field and biotype. We considered biotype as a fixed factor here because we are interested in the variation that exists among these particular biotypes, independent of their glyphosate resistance category.</p></sec><sec id="ece35741-sec-0008"><label>2.4.2</label><title>Regression analyses</title><p>We were interested in the relationship between the rosette size at 6&#x000a0;weeks after transplanting and the number of days to bolting because bolting marks the transition from vegetative to reproductive growth and may be related to plant size. An exponential line of best fit was fit to the data for Experiment A and Experiment B. The relationship between the mean number of days to bolting and mean longest rosette leaf length at 6 WAT was inferred using ANOVA (PROC GLM, SAS version 9.4, SAS Institute Inc., 2019).</p><p>We also wanted to characterize the relationship between rosette size at 6&#x000a0;weeks after transplanting and final above&#x02010;ground dry biomass to determine the extent to which rosette size was correlated with final biomass. Due to the prevalence of diseased plants late in the growing season, a subset of phenotypically &#x0201c;normal&#x0201d; plants (i.e., those that exhibited no disease symptoms postbolting) from Experiment B was selected. A linear line of best fit was fit to the data. The relationship between rosette size at 6 WAT and dry, above&#x02010;ground biomass was inferred using ANOVA (PROC GLM, SAS version 9.4; SAS Institute Inc., 2019).</p></sec><sec id="ece35741-sec-0009"><label>2.4.3</label><title>Frequency of disease symptoms</title><p>Disease symptoms were monitored throughout each growing season. Within each glyphosate resistance category and year, the final percentage of plants with disease symptoms was calculated. A chi&#x02010;square test of independence followed by pairwise comparisons with a Bonferroni correction was used to determine significant differences in percent diseased among the three resistance categories for each experiment.</p></sec></sec></sec><sec sec-type="results" id="ece35741-sec-0010"><label>3</label><title>RESULTS</title><sec id="ece35741-sec-0011"><label>3.1</label><title>Longest rosette leaf length</title><p>We used the length of the longest rosette leaf (hereafter, &#x0201c;longest leaf length&#x0201d;) as a nondestructive measure of plant size prior to bolting. Leaf length at 6&#x000a0;weeks after transplanting (WAT) was positively correlated with final above&#x02010;ground dry biomass of nondiseased plants (Experiment B: <italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.46, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001, <italic>N</italic>&#x000a0;=&#x000a0;314). Because of the prevalence of disease later in the growing season, we focus on rosette size prior to bolting as a proxy for lifetime fitness.</p><p>Analysis from the nested ANOVA model applied to longest leaf lengths at 6 WAT showed significant differences among the three resistance categories (Table <xref rid="ece35741-tbl-0001" ref-type="table">1</xref>, Figure <xref rid="ece35741-fig-0003" ref-type="fig">3</xref>a, b). In Experiment A, ER biotypes had significantly longer leaves than LR, while S biotypes were intermediate (mean lengths were 10.7, 8.7, and 9.6&#x000a0;cm, respectively). In Experiment B, leaves of ER biotypes were significantly longer than both LR and S biotypes, which did not differ from each other (mean lengths of 10.1, 7.9, and 8.4&#x000a0;cm, respectively). Thus, these results were relatively consistent in both years, with ER biotypes attaining relatively larger rosette sizes, especially compared to the LR biotypes.</p><table-wrap id="ece35741-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Nested ANOVAs for main effects of glyphosate resistance categories on the length of the longest rosette leaf at six weeks after transplanting in Experiment A (2016) and Experiment B (2017)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" colspan="5" rowspan="1">Experiment A</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Random effects</td><td align="left" rowspan="1" colspan="1">
+<italic>df</italic>
+</td><td align="left" rowspan="1" colspan="1">*&#x02212;2Res log like</td><td align="left" rowspan="1" colspan="1">
+<italic>X</italic>
+<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Field</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">5,560</td><td align="left" rowspan="1" colspan="1">33.1</td><td align="left" rowspan="1" colspan="1">&#x0003c;.0001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Row (field)</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">5,560</td><td align="left" rowspan="1" colspan="1">33.1</td><td align="left" rowspan="1" colspan="1">&#x0003c;.0001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Biotype (category)</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">5,708</td><td align="left" rowspan="1" colspan="1">180.7</td><td align="left" rowspan="1" colspan="1">&#x0003c;.0001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fixed effects</td><td align="left" rowspan="1" colspan="1">
+<italic>df</italic> (num, den)</td><td align="left" rowspan="1" colspan="1">
+<italic>F</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Category</td><td align="left" rowspan="1" colspan="1">2, 23</td><td align="left" rowspan="1" colspan="1">5.61</td><td align="left" rowspan="1" colspan="1">.0104</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">Experiment B</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Random effects</td><td align="left" rowspan="1" colspan="1">
+<italic>df</italic>
+</td><td align="left" rowspan="1" colspan="1">*&#x02212;2Res log like</td><td align="left" rowspan="1" colspan="1">
+<italic>X</italic>
+<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Field</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">5,059</td><td align="left" rowspan="1" colspan="1">30.2</td><td align="left" rowspan="1" colspan="1">&#x0003c;.0001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Row (field)</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">5,059</td><td align="left" rowspan="1" colspan="1">30.2</td><td align="left" rowspan="1" colspan="1">&#x0003c;.0001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Biotype (category)</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">5,160</td><td align="left" rowspan="1" colspan="1">130.9</td><td align="left" rowspan="1" colspan="1">&#x0003c;.0001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fixed effects</td><td align="left" rowspan="1" colspan="1">
+<italic>df</italic> (num, den)</td><td align="left" rowspan="1" colspan="1">
+<italic>F</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Category</td><td align="left" rowspan="1" colspan="1">2, 23</td><td align="left" rowspan="1" colspan="1">10.38</td><td align="left" rowspan="1" colspan="1">.0006</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr></tbody></table><table-wrap-foot id="ece35741-ntgp-0001"><title>Note</title><fn id="ece35741-note-0001"><p>Rows are nested within fields; biotypes are nested within categories. See Figure <xref rid="ece35741-fig-0003" ref-type="fig">3</xref> for category means and Tukey's test comparisons.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35741-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Differences among glyphosate resistance categories in (a) the longest rosette leaf at 6&#x000a0;weeks after transplanting and (b) the number of days from transplanting to bolting in Experiments A and B. Resistance categories are S (susceptible), LR (low&#x02010;level resistant), and ER (extremely resistant). Data from both sites in each year are combined, and least&#x02010;squares means&#x000a0;+&#x000a0;1 <italic>SE</italic> are shown; <italic>N</italic> (plants per resistance category)&#x000a0;=&#x000a0;445 S, 384 LR, and 439 ER for Experiment A; <italic>N</italic>&#x000a0;=&#x000a0;437 S, 349 LR, and 447 ER for Experiment B. In each comparison, means with different superscripts are significantly different at <italic>p</italic>&#x000a0;&#x02264;&#x000a0;.05 (Tukey's tests following nested ANOVAs)</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-13678-g003"/></fig><p>Analysis of longest leaf lengths from the second, non&#x02010;nested ANOVA model showed significant differences among the 26 biotypes, including differences among biotypes within each resistance category (Figure <xref rid="ece35741-fig-0004" ref-type="fig">4</xref>a, b.). At 6 WAT, the mean longest leaf length for each biotype ranged from 7.3 to 12.2&#x000a0;cm in Experiment A and 6.0 to 11.7&#x000a0;cm in Experiment B (Figure <xref rid="ece35741-fig-0004" ref-type="fig">4</xref>a, b). In general, relative differences among biotypes were similar in both years. For example, biotypes S32 and N13 were relatively small in both years, whereas S25, S11, and S10 were relatively large among the group of 26 biotypes. Across all 26 biotypes, however, many biotypes were not significantly different from one another despite being from different resistance categories, reflecting a large amount of overlap in the performance of S, LR, and ER biotypes.</p><fig fig-type="Figure" xml:lang="en" id="ece35741-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Differences among the 26 horseweed biotypes in length of the longest rosette leaf at 6&#x000a0;weeks after transplanting and days to bolting in Experiment A (a, c) and Experiment B (b, d). Biotypes are denoted as S for susceptible (green bars), LR for low&#x02010;level resistant (yellow bars), and ER for extremely resistant (red bars). Biotype ID labels beginning with &#x0201c;S&#x0201d; are from agricultural habitats, and those beginning with &#x0201c;N&#x0201d; are from nonagricultural habitats. Least&#x02010;squares means&#x000a0;&#x000b1;&#x000a0;1 <italic>SE</italic> are shown, with data from both sites in each year combined; <italic>N</italic>&#x000a0;=&#x000a0;48&#x02013;50 plants per biotype except for six means with <italic>N</italic>&#x000a0;=&#x000a0;32&#x02013;46 (see Table <xref rid="ece35741-sup-0001" ref-type="supplementary-material">S1</xref>). Means that do not share superscripts are significantly different at <italic>p</italic>&#x000a0;&#x02264;&#x000a0;.05 (Tukey's tests)</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-13678-g004"/></fig></sec><sec id="ece35741-sec-0012"><label>3.2</label><title>Time to bolting</title><p>More than 99% of the plants in both experiments survived to bolting, which began about 7&#x000a0;weeks after transplanting. Analyses of bolting time using the nested ANOVA model showed significant and consistent differences among the three resistance categories (Table <xref rid="ece35741-tbl-0002" ref-type="table">2</xref>, Figure <xref rid="ece35741-fig-0003" ref-type="fig">3</xref>). In both Experiment A and Experiment B, ER biotypes bolted significantly earlier than both S and LR biotypes, which were not significantly different from each other. In Experiment A, ER biotypes bolted 6.9&#x000a0;days earlier on average than S biotypes and 11.7&#x000a0;days earlier than LR biotypes (Figure <xref rid="ece35741-fig-0003" ref-type="fig">3</xref>b). Similarly, in Experiment B, ER biotypes bolted 13.4&#x000a0;days earlier on average than S biotypes and 17.2&#x000a0;days earlier than LR biotypes (Figure <xref rid="ece35741-fig-0003" ref-type="fig">3</xref>b).</p><table-wrap id="ece35741-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Nested ANOVAs for main effects of resistance categories on the number of days to bolting in Experiment A (2016) and Experiment B (2017)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" colspan="5" rowspan="1">Experiment A</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Random effects:</td><td align="left" rowspan="1" colspan="1">
+<italic>df</italic>
+</td><td align="left" rowspan="1" colspan="1">*&#x02212;2Res log like</td><td align="left" rowspan="1" colspan="1">
+<italic>X</italic>
+<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Row (field)</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">9,714</td><td align="left" rowspan="1" colspan="1">11.0</td><td align="left" rowspan="1" colspan="1">.0009</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Biotype (category)</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">10,245</td><td align="left" rowspan="1" colspan="1">542.1</td><td align="left" rowspan="1" colspan="1">&#x0003c;.0001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fixed effects:</td><td align="left" rowspan="1" colspan="1">
+<italic>df</italic> (num, den)</td><td align="left" rowspan="1" colspan="1">
+<italic>F</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Category</td><td align="left" rowspan="1" colspan="1">2, 23</td><td align="left" rowspan="1" colspan="1">3.36</td><td align="left" rowspan="1" colspan="1">.052</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" colspan="5" rowspan="1">Experiment B</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Random Effects:</td><td align="left" rowspan="1" colspan="1">
+<italic>df</italic>
+</td><td align="left" rowspan="1" colspan="1">*&#x02212;2Res log like</td><td align="left" rowspan="1" colspan="1">
+<italic>X</italic>
+<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Field</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">9,792.02</td><td align="left" rowspan="1" colspan="1">13.0</td><td align="left" rowspan="1" colspan="1">.0003</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Row (field)</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">9,792.02</td><td align="left" rowspan="1" colspan="1">13.0</td><td align="left" rowspan="1" colspan="1">.0003</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Biotype (category)</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">9,836.19</td><td align="left" rowspan="1" colspan="1">57.2</td><td align="left" rowspan="1" colspan="1">&#x0003c;.0001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fixed effects:</td><td align="left" rowspan="1" colspan="1">
+<italic>df</italic> (num, den)</td><td align="left" rowspan="1" colspan="1">
+<italic>F</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>p</italic>
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Category</td><td align="left" rowspan="1" colspan="1">2, 23</td><td align="left" rowspan="1" colspan="1">7.62</td><td align="left" rowspan="1" colspan="1">.0029</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr></tbody></table><table-wrap-foot id="ece35741-ntgp-0002"><title>Note</title><fn id="ece35741-note-0002"><p>Rows are nested within fields; biotypes are nested within categories. See Figure <xref rid="ece35741-fig-0003" ref-type="fig">3</xref> for category means and Tukey's test comparisons.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Across all 26 biotypes, the earliest biotype to bolt was S10 (means of 55.1 and 50.0&#x000a0;days in Experiments A and B, respectively; Figure <xref rid="ece35741-fig-0004" ref-type="fig">4</xref>c, d), while the latest was S32 (means of 95.6 and 93.1&#x000a0;days, respectively). Mean bolting times for each biotype were consistent across years and differed significantly among some of the biotypes in the same resistance categories based on the non&#x02010;nested ANOVA model (Figure <xref rid="ece35741-fig-0004" ref-type="fig">4</xref>c, d). Regardless of resistance categories, biotypes that bolted earliest were those that had the longest leaf lengths at 6 WAT (Figure <xref rid="ece35741-fig-0004" ref-type="fig">4</xref>). For example, S6 (LR) and S10 (ER) were among the largest rosettes at 6 WAT and were among the first to bolt. Exponential regressions for mean bolting date as a function of mean longest leaf length had <italic>R</italic>
+<sup>2</sup> values of 0.76 for Experiment A and 0.86 for Experiment B (<italic>N</italic>&#x000a0;=&#x000a0;26 biotypes; <italic>y</italic>&#x000a0;=&#x000a0;174.63e<sup>&#x02212;0.094</sup>
+<italic><sup>x</sup></italic> and <italic>y</italic>&#x000a0;=&#x000a0;171.11e<sup>&#x02212;0.105</sup>
+<italic><sup>x</sup></italic>, respectively).</p></sec><sec id="ece35741-sec-0013"><label>3.3</label><title>Frequency of disease symptoms</title><p>After bolting, disease symptoms were common, representing 40% of all plants in Experiment A and 78% of all plants in Experiment B (Figure <xref rid="ece35741-fig-0005" ref-type="fig">5</xref>). The most common symptoms included thickened ribboning of the stem, irregularly branched flower heads, often in stunted clusters, and/or partial or complete sudden necrosis of stems and leaves, similar to symptoms of a mycoplasma disease known as aster yellows (Regehr &#x00026; Bazzaz, <xref rid="ece35741-bib-0039" ref-type="ref">1979</xref>). In each year, disease levels were similar at the two field sites (data not shown). Combining data for each resistance category, we found that the frequency of disease symptoms in Experiment A was ~2&#x000d7; greater for S plants compared to LR and ER plants, which were similar to each other (Figure <xref rid="ece35741-fig-0005" ref-type="fig">5</xref>). A similar pattern was seen in Experiment B, when many more plants were diseased, and differences between S plants and the two resistant categories were not as pronounced. Frequencies of disease symptoms were highly variable among biotypes and were not consistent for each biotype between years (Table <xref rid="ece35741-sup-0001" ref-type="supplementary-material">S1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35741-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Percent of plants with disease symptoms in each glyphosate resistance category for Experiment A (2016) and Experiment B (2017). Resistance categories are S (susceptible), LR (low&#x02010;level resistant), and ER (extremely resistant). Data from both sites in each year are combined; <italic>N</italic> (plants per resistance category)&#x000a0;=&#x000a0;445 S, 384 LR, and 439 ER for Experiment A; <italic>N</italic>&#x000a0;=&#x000a0;437 S, 349 LR, and 447 ER for Experiment B. Within each experiment, means that do not share superscripts are significantly different at <italic>p</italic>&#x000a0;&#x02264;&#x000a0;.05. See Table <xref rid="ece35741-sup-0001" ref-type="supplementary-material">S1</xref> for percent diseased for each of the 26 biotypes in Experiments A and B</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-9-13678-g005"/></fig></sec></sec><sec sec-type="discussion" id="ece35741-sec-0014"><label>4</label><title>DISCUSSION</title><p>Understanding underlying fitness effects associated with herbicide resistance is useful for recommending weed management strategies and anticipating whether such traits could persist indefinitely (Vila&#x02010;Aiub et al., <xref rid="ece35741-bib-0050" ref-type="ref">2014</xref>). Here, we found no evidence for early fitness costs of glyphosate resistance in <italic>Conyza canadensis</italic>, a major weed of low&#x02010;till agricultural crops. Instead, we found several indications of potential fitness benefits. As discussed further below, the ER biotypes consistently grew as well if not better than the low&#x02010;level resistant and susceptible biotypes in both experiments. Also, the ER and LR biotypes were less likely to exhibit disease symptoms compared to susceptible biotypes in both experiments.</p><sec id="ece35741-sec-0015"><label>4.1</label><title>Rosette size and days to bolting</title><p>By including two levels of glyphosate resistance, low&#x02010;level versus extreme resistance, we were able to identify interesting differences between these two resistance categories in fitness&#x02010;related traits. Our findings were somewhat counter&#x02010;intuitive in that the extremely resistant (ER) biotypes grew as well or better than those that were less resistant. As a group, LR biotypes were similar to S biotypes in rosette size and the number of days to bolting, while ER biotypes were about 12%&#x02013;20% larger in rosette diameter at 6 WAT, and bolted 1&#x02013;2&#x000a0;weeks earlier compared to S biotypes. If greater rosette size is correlated with greater lifetime fecundity, this trait can be considered as a component of overall fitness. We found a positive correlation between rosette size and end&#x02010;of&#x02010;season biomass in nondiseased plants, and previous studies of horseweed showed that both biomass and height of the flowering shoot are positively correlated with seed production per plant (Regehr &#x00026; Bazzaz, <xref rid="ece35741-bib-0039" ref-type="ref">1979</xref>; Shrestha et al., <xref rid="ece35741-bib-0041" ref-type="ref">2010</xref>). Therefore, we expect that biotypes with larger rosettes would have produced more seeds per plant, had we been able to measure this.</p><p>We also found a strong correlation between large rosette size and earlier bolting across all 26 biotypes, suggesting a causal connection between these traits, similar to studies of other annuals such as Indian tobacco (<italic>Lobelia inflata)</italic> and smooth rockcress (<italic>Arabis laevigata</italic> var. <italic>laevigata</italic>; Bloom, Baskin, &#x00026; Baskin, <xref rid="ece35741-bib-0008" ref-type="ref">2003</xref>; Simons &#x00026; Johnston, <xref rid="ece35741-bib-0043" ref-type="ref">2003</xref>). Earlier flowering could lead to greater fecundity if later flowering is associated with deteriorating growing conditions, greater herbivore pressure, greater disease pressure, and/or a competitive disadvantage compared to neighboring plants (Snow &#x00026; Stanton, <xref rid="ece35741-bib-0045" ref-type="ref">1988</xref>). Davis et al. (<xref rid="ece35741-bib-0016" ref-type="ref">2008</xref>) found that horseweed plants with flowering shoots that emerged above the leaf canopy in soybean fields had better survival and seed production than those that remained below the canopy. Emergence above the soybean canopy could be influenced by both the timing of seedling emergence and the growth rates of young plants.</p><p>Previous studies involving comparisons between S and R biotypes of horseweed are consistent with our findings. In California, a series of studies with the same two populations, an S population from Fresno County and an R population from Tulare County, found that the R biotypes flowered earlier, were more competitive, attained greater biomass, and produced more seeds per plant than the S biotype (Alcorta et al., <xref rid="ece35741-bib-0001" ref-type="ref">2011</xref>; Grantz et al., <xref rid="ece35741-bib-0025" ref-type="ref">2008</xref>; Shrestha et al., <xref rid="ece35741-bib-0041" ref-type="ref">2010</xref>, <xref rid="ece35741-bib-0042" ref-type="ref">2007</xref>). Other studies with relatively low statistical power reported no clear differences between R and S biotypes in these traits (Davis et al., <xref rid="ece35741-bib-0015" ref-type="ref">2009</xref>; Gage et al., <xref rid="ece35741-bib-0022" ref-type="ref">2015</xref>; Zelaya et al., <xref rid="ece35741-bib-0062" ref-type="ref">2004</xref>). In a close relative, <italic>Conyza bonariensis</italic>, Travlos and Chachalis (<xref rid="ece35741-bib-0048" ref-type="ref">2013</xref>) found no significant difference in the competitive ability of plants from one R population versus one S population in a deWit replacement series experiment. An advantage of the current study is that we used field&#x02010;grown maternal lines from 8 to 9 populations in each resistance category to examine heritable variation in fitness&#x02010;related traits.</p></sec><sec id="ece35741-sec-0016"><label>4.2</label><title>Disease prevalence</title><p>Horseweed is known to be susceptible to several fungal and microbial diseases, a common one being aster yellows (Weaver, <xref rid="ece35741-bib-0057" ref-type="ref">2001</xref>). Aster yellows is caused by a mycoplasma transmitted by the aster leaf hopper, <italic>Macrosteles fascifrons</italic> Stal. (Regehr &#x00026; Bazzaz, <xref rid="ece35741-bib-0039" ref-type="ref">1979</xref>). Disease symptoms that affected a large portion of the plants in our common garden experiments were similar to those reported for aster yellows by Regehr and Bazzaz (<xref rid="ece35741-bib-0039" ref-type="ref">1979</xref>). They monitored naturally seeded populations of horseweed in Illinois and estimated that 80% of the plants were infected by aster yellows, resulting in a 53% reduction in seed production. We observed similarly high frequencies of disease symptoms in pilot field experiments with susceptible and resistant biotypes in Ohio (unpublished data).</p><p>In the current study, frequencies of disease symptoms increased from 40% of all plants in 2016 to 78% in 2017 (Figure <xref rid="ece35741-fig-0005" ref-type="fig">5</xref>). In both years, S biotypes were significantly more likely to have disease symptoms that LR or ER biotypes, which were generally similar to each other (Figure <xref rid="ece35741-fig-0005" ref-type="fig">5</xref>). It does not appear that slower growth or later bolting contributed to greater infection rates in S biotypes because they were similar to LR biotypes in terms of size and bolting times. In any case, we conclude that glyphosate resistance was not associated with a disease&#x02010;related fitness cost, and may even be associated with a fitness benefit in terms of disease symptoms.</p></sec><sec id="ece35741-sec-0017"><label>4.3</label><title>Limitations</title><p>Several aspects of our study should be considered when drawing general conclusions about possible fitness effects of glyphosate resistance in <italic>C. canadensis</italic>. One caveat is that if the 8&#x02013;9 biotypes that we sampled are not representative of their respective resistance categories, significant differences among categories in the traits we examined could be due to other factors, perhaps related to their sites of origin. For example, these biotypes were collected from a mixture of agricultural and nonagricultural sites (Figure <xref rid="ece35741-fig-0002" ref-type="fig">2</xref>). Most of the LR and ER biotypes occurred in soybean fields and may have been exposed to glyphosate earlier in the season, but several were collected from nonagricultural sites (Figures <xref rid="ece35741-fig-0002" ref-type="fig">2</xref> and <xref rid="ece35741-fig-0004" ref-type="fig">4</xref>). Because horseweed has wind&#x02010;dispersed seeds capable of long&#x02010;distance movement, we assume that seeds can disperse between agricultural and nonagricultural sites, thereby limiting the potential for local adaptation to these contrasting habitats. In terms of the traits we examined, no clear patterns were seen in comparisons between biotypes from agricultural versus nonagricultural sites (Figure <xref rid="ece35741-fig-0004" ref-type="fig">4</xref>). Also, all but one ER biotype originated from the southeastern portion of the sampled area, where low&#x02010;till soybean production involving RoundUp Ready<sup>&#x000ae;</sup> soybean seed sources is most common. However, because the nested ANOVAs detected significant differences among the three resistance categories, and because similar results were obtained in Experiments A and B, we suggest that such differences are robust for the biotypes included in this study.</p><p>Another caveat regarding our common garden experiments, which were planted in May, is that horseweed can be a summer or winter annual (Weaver, <xref rid="ece35741-bib-0057" ref-type="ref">2001</xref>). Both spring and autumn germination peaks can occur in the same populations, and the relative importance of these cohorts to overall population&#x02010;level seed production is thought to depend on environmental conditions for germination, winter survival, and the timing of tillage in agricultural fields (Buhler &#x00026; Owen, <xref rid="ece35741-bib-0012" ref-type="ref">1997</xref>; Davis et al., <xref rid="ece35741-bib-0016" ref-type="ref">2008</xref>; Regehr &#x00026; Bazzaz, <xref rid="ece35741-bib-0039" ref-type="ref">1979</xref>). We do not know whether the relative differences among glyphosate resistance categories that we observed in rosette size, days to bolting, and disease levels would be similar for plants that germinate in the autumn. Furthermore, the planting dates of our spring&#x02010;germinated plants overlapped with naturally occurring local plants, but their rosettes took longer to bolt and flower than what we observed in local populations (as in Davis et al., <xref rid="ece35741-bib-0015" ref-type="ref">2009</xref>). This delay could be related to the lack of competition imposed by using weed&#x02010;block fabric around each plant. Future experiments could more closely mimic naturally occurring horseweed populations, but we suspect that the general findings from our study would be confirmed.</p></sec></sec><sec sec-type="conclusions" id="ece35741-sec-0018"><label>5</label><title>CONCLUSIONS</title><p>Like many other weed species, horseweed has evolved several mechanisms for glyphosate resistance and the fitness effects associated with specific mechanisms have not been studied to date. In Beres et al. (<xref rid="ece35741-bib-0005" ref-type="ref">2019</xref>), we report that ER biotypes from Iowa and Ohio have a point mutation at p185 of EPSPS2. This target&#x02010;site mutation has not been reported previously in horseweed populations in the United States (Nol, Tsikou, Eid, Livieratos, &#x00026; Giannopolitis, <xref rid="ece35741-bib-0034" ref-type="ref">2012</xref>) or China (Mei et al., <xref rid="ece35741-bib-0030" ref-type="ref">2018</xref>), but it is known to occur in Ontario, Canada, where GR horseweed was first documented in 2010 (Page et al., <xref rid="ece35741-bib-0037" ref-type="ref">2018</xref>). We hypothesize, and the latest review by Vila&#x02010;Aiub, Yu, and Powles (<xref rid="ece35741-bib-0055" ref-type="ref">2019</xref>) suggests, that different mechanisms of glyphosate resistance, such as point mutations, EPSPS gene amplification, and vacuolar sequestration, may have different fitness effects in the absence of glyphosate in horseweed and other species. In the current study, we did not attempt to identify specific resistance mechanisms in the sampled horseweed biotypes and this would be a fruitful avenue for further research.</p><p>In any case, it is clear that current ER horseweed biotypes do not appear to suffer any early fitness costs, and some may exhibit fitness benefits in terms of having larger rosettes, earlier bolting, and less susceptibility to pathogens compared to S biotypes. We assume that the selective pressures leading to the evolution of these traits are strongest in agricultural fields where glyphosate applications are common and surviving biotypes have high fecundity. Seed dispersal then distributes these biotypes across the landscape, where they also colonized nonagricultural habitats. In a previous study, for example, we detected ER biotypes in 9% of nonagricultural sites in Iowa and 62% in Ohio (<italic>N</italic>&#x000a0;=&#x000a0;33 and 43, respectively; Beres, Ernst, et al., <xref rid="ece35741-bib-0004" ref-type="ref">2018</xref>).</p><p>In summary, the widespread and repeated evolution of herbicide resistance in weed species represents a textbook example of rapid evolutionary adaptation in the face of strong selection pressures. Previous studies suggest that glyphosate resistance can evolve repeatedly (Okada et al., <xref rid="ece35741-bib-0035" ref-type="ref">2013</xref>) and fairly quickly (VanGessel, <xref rid="ece35741-bib-0049" ref-type="ref">2001</xref>) in horseweed. Mounting evidence from this species and others indicates that fitness costs associated with resistance to glyphosate and other herbicides can be negligible, in which case overreliance on these herbicides has left a lasting evolutionary imprint on the gene pools of resistant weed populations. When this occurs in weeds that are capable of severely reducing crop yields, as with horseweed, growers must rely on alternative management strategies such as spring tillage, crop rotation, herbicide rotation, and/or cover crops to suppress weed populations.</p></sec><sec sec-type="COI-statement" id="ece35741-sec-0019"><title>CONFLICT OF INTEREST</title><p>The authors declare that they have no competing interests.</p></sec><sec id="ece35741-sec-0020"><title>AUTHOR CONTRIBUTIONS</title><p>AAS, ZTB, and MDKO conceptualized the study. ZTB curated the data. ZTB involved in formal analysis. AAS and MDKO acquired funding. ZTB investigated the study. AAS, ZTB, and MDKO contributed to the methodology. AAS administrated the project. AAS and MDKO provided the resources. ZTB contributed software. AAS and MDKO supervised the study. ZTB validated the data. AAS and ZTB visualized the data. ZTB, AAS, and MDKO wrote the original draft of the manuscript. ZTB, AAS, and MDKO reviewed and edited the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35741-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13678-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35741-sec-0023"><title>ACKNOWLEDGMENTS</title><p>We thank J. Lux, J. Lee, and I. Macvilay for field and greenhouse management services; E. Ernst for assistance with ARC GIS; and S. Hovick and K. Mercer for editorial comments on the manuscript. This project was funded by the Weedy and Invasive Plants Grant Program, Grant No. 2016&#x02010;67013&#x02010;24804, from the USDA National Institute of Food and Agriculture (recipients: Ohio State University, A. A. Snow and D. M. Mackey; Iowa State University, M. D. K. Owen).</p></ack><sec sec-type="data-availability" id="ece35741-sec-0022"><title>DATA AVAILABILITY STATEMENT</title><p>Data for this study are available at <ext-link ext-link-type="uri" xlink:href="https://DataDryad.org" specific-use="software is-supplemented-by">https://DataDryad.org</ext-link>: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.fj6q573q1" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.fj6q573q1</ext-link>.</p></sec><ref-list content-type="cited-references" id="ece35741-bibl-0001"><title>REFERENCES</title><ref id="ece35741-bib-0001"><mixed-citation publication-type="journal" id="ece35741-cit-0001">
+<string-name>
+<surname>Alcorta</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fidelbus</surname>, <given-names>M. W.</given-names>
+</string-name>, <string-name>
+<surname>Steenwerth</surname>, <given-names>K. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shrestha</surname>, <given-names>A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Competitive effects of glyphosate&#x02010;resistant and glyphosate&#x02010;susceptible horseweed (<italic>Conyza canadensis</italic>) on young grapevines (<italic>Vitis vinifera</italic>)</article-title>. <source xml:lang="en">Weed Science</source>, <volume>59</volume>, <fpage>489</fpage>&#x02013;<lpage>494</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0002"><mixed-citation publication-type="journal" id="ece35741-cit-0002">
+<string-name>
+<surname>Benbrook</surname>, <given-names>C. M.</given-names>
+</string-name> (<year>2012</year>). <article-title>Impacts of genetically engineered crops on pesticide use in the U.S.&#x02014;the first sixteen years</article-title>. <source xml:lang="en">Environmental Sciences Europe</source>, <volume>24</volume>, <fpage>1</fpage>&#x02013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1186/2190-4715-24-24</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0003"><mixed-citation publication-type="journal" id="ece35741-cit-0003">
+<string-name>
+<surname>Benbrook</surname>, <given-names>C. M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Trends in glyphosate herbicide use in the United States and globally</article-title>. <source xml:lang="en">Environmental Sciences Europe</source>, <volume>28</volume>, <fpage>1</fpage>&#x02013;<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1186/s12302-016-0070-0</pub-id>
+<pub-id pub-id-type="pmid">27752436</pub-id></mixed-citation></ref><ref id="ece35741-bib-0004"><mixed-citation publication-type="journal" id="ece35741-cit-0004">
+<string-name>
+<surname>Beres</surname>, <given-names>Z. T.</given-names>
+</string-name>, <string-name>
+<surname>Ernst</surname>, <given-names>E. E.</given-names>
+</string-name>, <string-name>
+<surname>Ackley</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Loux</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>, <given-names>M. D. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Snow</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>2018</year>). <article-title>High levels of glyphosate resistance in <italic>Conyza canadensis</italic> from agricultural and non&#x02010;agricultural sites in Ohio and Iowa</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>8</volume>, <fpage>10483</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-018-28163-w</pub-id>
+<pub-id pub-id-type="pmid">29992952</pub-id></mixed-citation></ref><ref id="ece35741-bib-0005"><mixed-citation publication-type="journal" id="ece35741-cit-0005">
+<string-name>
+<surname>Beres</surname>, <given-names>Z. T.</given-names>
+</string-name>, <string-name>
+<surname>Giese</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Mackey</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>, <given-names>M. D. K.</given-names>
+</string-name>, <string-name>
+<surname>Page</surname>, <given-names>E. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Snow</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>2019</year>). <article-title>Target&#x02010;site EPSPS Pro&#x02010;106&#x02010;Ser mutation in <italic>Conyza canadensis</italic> biotypes with extreme resistance to glyphosate in Ohio and Iowa, USA</article-title>. <source xml:lang="en">Scientific Reports</source>.</mixed-citation></ref><ref id="ece35741-bib-0006"><mixed-citation publication-type="journal" id="ece35741-cit-0006">
+<string-name>
+<surname>Beres</surname>, <given-names>Z. T.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Mackey</surname>, <given-names>D. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Snow</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>2018</year>). <article-title>Over&#x02010;expression of a native gene encoding 5&#x02010;enolpyruvylshikimate&#x02010;3&#x02010;phosphate synthase (EPSPS) may enhance fecundity in <italic>Arabidopsis thaliana</italic> in the absence of glyphosate</article-title>. <source xml:lang="en">International Journal of Plant Sciences</source>, <volume>179</volume>(<issue>4</issue>), <fpage>390</fpage>&#x02013;<lpage>401</lpage>. <pub-id pub-id-type="doi">10.1086/696701</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0007"><mixed-citation publication-type="journal" id="ece35741-cit-0007">
+<string-name>
+<surname>Bergelson</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Purrington</surname>, <given-names>C. B.</given-names>
+</string-name> (<year>1996</year>). <article-title>Surveying patterns in the cost of resistance in plants</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>148</volume>, <fpage>536</fpage>&#x02013;<lpage>558</lpage>. <pub-id pub-id-type="doi">10.1086/285938</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0008"><mixed-citation publication-type="journal" id="ece35741-cit-0008">
+<string-name>
+<surname>Bloom</surname>, <given-names>T. C.</given-names>
+</string-name>, <string-name>
+<surname>Baskin</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baskin</surname>, <given-names>C. C.</given-names>
+</string-name> (<year>2003</year>). <article-title>Physiological determinants of bolting/flowering in the facultative woodland <italic>Arabis laevigata</italic> var. <italic>laevigata</italic> (Brassicaceae)</article-title>. <source xml:lang="en">Southern Appalachian Botanical Society</source>, <volume>68</volume>, <fpage>84</fpage>&#x02013;<lpage>87</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0009"><mixed-citation publication-type="journal" id="ece35741-cit-0009">
+<string-name>
+<surname>Bolker</surname>, <given-names>B. M.</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Geange</surname>, <given-names>S. W.</given-names>
+</string-name>, <string-name>
+<surname>Poulsen</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Stevens</surname>, <given-names>M. H. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>White</surname>, <given-names>J. S. S.</given-names>
+</string-name> (<year>2009</year>). <article-title>Generalized linear mixed models: A practical guide for evolution and ecology</article-title>. <source xml:lang="en">Trends in Ecology and Evolution</source>, <volume>24</volume>, <fpage>127</fpage>&#x02013;<lpage>135</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2008.10.008</pub-id>
+<pub-id pub-id-type="pmid">19185386</pub-id></mixed-citation></ref><ref id="ece35741-bib-0010"><mixed-citation publication-type="journal" id="ece35741-cit-0010">
+<string-name>
+<surname>Brown</surname>, <given-names>S. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Whitwell</surname>, <given-names>T.</given-names>
+</string-name> (<year>1988</year>). <article-title>Influence of tillage on horseweed (<italic>Conyza canadensis</italic>)</article-title>. <source xml:lang="en">Weed Technology</source>, <volume>2</volume>, <fpage>269</fpage>&#x02013;<lpage>270</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0011"><mixed-citation publication-type="journal" id="ece35741-cit-0011">
+<string-name>
+<surname>Bruce</surname>, <given-names>J. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kells</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>1990</year>). <article-title>Horseweed (<italic>Conyza canadensis</italic>) control in no&#x02010;tillage soybeans (<italic>Glycine max</italic>) with preplant and preemergence herbicides</article-title>. <source xml:lang="en">Weed Technology</source>, <volume>4</volume>, <fpage>642</fpage>&#x02013;<lpage>647</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0012"><mixed-citation publication-type="journal" id="ece35741-cit-0012">
+<string-name>
+<surname>Buhler</surname>, <given-names>D. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Owen</surname>, <given-names>M. D. K.</given-names>
+</string-name> (<year>1997</year>). <article-title>Emergence and survival of horseweed (<italic>Conyza canadensis</italic>)</article-title>. <source xml:lang="en">Weed Science</source>, <volume>45</volume>, <fpage>98</fpage>&#x02013;<lpage>101</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0013"><mixed-citation publication-type="journal" id="ece35741-cit-0013">
+<string-name>
+<surname>Dauer</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name>
+<surname>Luschei</surname>, <given-names>E. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mortensen</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2009</year>). <article-title>Effects of landscape composition on the spread of an herbicide&#x02010;resistant weed</article-title>. <source xml:lang="en">Landscape Ecology</source>, <volume>24</volume>, <fpage>735</fpage>&#x02013;<lpage>747</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0014"><mixed-citation publication-type="journal" id="ece35741-cit-0014">
+<string-name>
+<surname>Dauer</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name>
+<surname>Mortensen</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>VanGessel</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2007</year>). <article-title>Temporal and spatial dynamics of long&#x02010;distance <italic>Conyza canadensis</italic> seed dispersal</article-title>. <source xml:lang="en">Journal of Applied Ecology</source>, <volume>44</volume>, <fpage>105</fpage>&#x02013;<lpage>114</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2664.2006.01256.x</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0015"><mixed-citation publication-type="journal" id="ece35741-cit-0015">
+<string-name>
+<surname>Davis</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>, <given-names>K. D.</given-names>
+</string-name>, <string-name>
+<surname>Bauman</surname>, <given-names>T. T.</given-names>
+</string-name>, <string-name>
+<surname>Weller</surname>, <given-names>S. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Johnson</surname>, <given-names>W. G.</given-names>
+</string-name> (<year>2009</year>). <article-title>Influence of weed management practices and crop rotation on glyphosate&#x02010;resistant horseweed (<italic>Conyza canadensis</italic>) population dynamics and crop yield&#x02013;years III and IV</article-title>. <source xml:lang="en">Weed Science</source>, <volume>57</volume>, <fpage>417</fpage>&#x02013;<lpage>426</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0016"><mixed-citation publication-type="journal" id="ece35741-cit-0016">
+<string-name>
+<surname>Davis</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>, <given-names>K. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Johnson</surname>, <given-names>W. G.</given-names>
+</string-name> (<year>2008</year>). <article-title>A field survey to determine distribution and frequency of glyphosate&#x02010;resistant horseweed (<italic>Conyza canadensis</italic>) in Indiana</article-title>. <source xml:lang="en">Weed Technology</source>, <volume>22</volume>, <fpage>331</fpage>&#x02013;<lpage>338</lpage>. <pub-id pub-id-type="doi">10.1614/WT-07-147.1</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0017"><mixed-citation publication-type="journal" id="ece35741-cit-0017">
+<string-name>
+<surname>Davis</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name>
+<surname>Kruger</surname>, <given-names>G. R.</given-names>
+</string-name>, <string-name>
+<surname>Hallett</surname>, <given-names>S. G.</given-names>
+</string-name>, <string-name>
+<surname>Tranel</surname>, <given-names>P. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Johnson</surname>, <given-names>W. G.</given-names>
+</string-name> (<year>2010</year>). <article-title>Heritability of glyphosate resistance in Indiana horseweed (<italic>Conyza canadensis</italic>) populations</article-title>. <source xml:lang="en">Weed Science</source>, <volume>58</volume>, <fpage>30</fpage>&#x02013;<lpage>38</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0018"><mixed-citation publication-type="journal" id="ece35741-cit-0018">
+<string-name>
+<surname>Debban</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Okum</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Pieper</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baucom</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2015</year>). <article-title>An examination of fitness costs of glyphosate resistance in the common morning glory, <italic>Ipomoea purpurea</italic>
+</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>5</volume>, <fpage>5284</fpage>&#x02013;<lpage>5294</lpage>.<pub-id pub-id-type="pmid">30151131</pub-id></mixed-citation></ref><ref id="ece35741-bib-0019"><mixed-citation publication-type="journal" id="ece35741-cit-0019">
+<string-name>
+<surname>Dinelli</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Marotti</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Bonetti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Minelli</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Catizone</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barnes</surname>, <given-names>J.</given-names>
+</string-name> (<year>2006</year>). <article-title>Physiological and molecular insight on the mechanisms of resistant to glyphosate in <italic>Conyza canadensis</italic> (L.) Cronq. biotypes</article-title>. <source xml:lang="en">Pesticide Biochemistry and Physiology</source>, <volume>86</volume>, <fpage>30</fpage>&#x02013;<lpage>41</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0020"><mixed-citation publication-type="journal" id="ece35741-cit-0020">
+<string-name>
+<surname>Duke</surname>, <given-names>S. O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Powles</surname>, <given-names>S. B.</given-names>
+</string-name> (<year>2008</year>). <article-title>Glyphosate: A once&#x02010;in&#x02010;a&#x02010;century herbicide</article-title>. <source xml:lang="en">Pest Management Science</source>, <volume>64</volume>, <fpage>319</fpage>&#x02013;<lpage>325</lpage>. <pub-id pub-id-type="doi">10.1002/ps.1518</pub-id>
+<pub-id pub-id-type="pmid">18273882</pub-id></mixed-citation></ref><ref id="ece35741-bib-0021"><mixed-citation publication-type="journal" id="ece35741-cit-0021">
+<string-name>
+<surname>Feng</surname>, <given-names>P. C. C.</given-names>
+</string-name>, <string-name>
+<surname>Tran</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chiu</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sammons</surname>, <given-names>R. D.</given-names>
+</string-name>, <string-name>
+<surname>Heck</surname>, <given-names>G. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>CaJacob</surname>, <given-names>C. A.</given-names>
+</string-name> (<year>2004</year>). <article-title>Investigations into glyphosate&#x02010;resistant horseweed (<italic>Conyza canadensis</italic>): Retention, uptake, translocation, and metabolism</article-title>. <source xml:lang="en">Weed Science</source>, <volume>52</volume>, <fpage>498</fpage>&#x02013;<lpage>505</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0022"><mixed-citation publication-type="journal" id="ece35741-cit-0022">
+<string-name>
+<surname>Gage</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>, <given-names>B. G.</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Matthews</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Weller</surname>, <given-names>S. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wilson</surname>, <given-names>R. G.</given-names>
+</string-name> (<year>2015</year>). <article-title>Occurrence of an herbicide&#x02010;resistant plant trait in agricultural field margins</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>5</volume>, <fpage>4161</fpage>&#x02013;<lpage>4173</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.1667</pub-id>
+<pub-id pub-id-type="pmid">26445665</pub-id></mixed-citation></ref><ref id="ece35741-bib-0023"><mixed-citation publication-type="journal" id="ece35741-cit-0023">
+<string-name>
+<surname>Ge</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>d'Avignon</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Ackerman</surname>, <given-names>J. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sammons</surname>, <given-names>R. D.</given-names>
+</string-name> (<year>2010</year>). <article-title>Rapid vacuolar sequestration: The horseweed glyphosate resistance mechanism</article-title>. <source xml:lang="en">Pest Management Science</source>, <volume>86</volume>, <fpage>30</fpage>&#x02013;<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1002/ps.1911</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0024"><mixed-citation publication-type="journal" id="ece35741-cit-0024">
+<string-name>
+<surname>Giacomini</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Westra</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ward</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Impact of genetic background in fitness cost studies: An example from glyphosate&#x02010;resistant palmer amaranth</article-title>. <source xml:lang="en">Weed Science</source>, <volume>62</volume>, <fpage>29</fpage>&#x02013;<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1614/WS-D-13-00066.1</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0025"><mixed-citation publication-type="journal" id="ece35741-cit-0025">
+<string-name>
+<surname>Grantz</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Shrestha</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vu</surname>, <given-names>H.&#x02010;B.</given-names>
+</string-name> (<year>2008</year>). <article-title>Early vigor and ozone response in horseweed (<italic>Conyza canadensis</italic>) biotypes differing in glyphosate resistance</article-title>. <source xml:lang="en">Weed Science</source>, <volume>56</volume>, <fpage>224</fpage>&#x02013;<lpage>230</lpage>. <pub-id pub-id-type="doi">10.1614/WS-07-130.1</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0026"><mixed-citation publication-type="journal" id="ece35741-cit-0026">
+<string-name>
+<surname>Hanson</surname>, <given-names>B. D.</given-names>
+</string-name>, <string-name>
+<surname>Shrestha</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shaner</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>2009</year>). <article-title>Distribution of glyphosate&#x02010;resistant horseweed (<italic>Conyza canadensis</italic>) and relationship to cropping systems in the Central Valley of California</article-title>. <source xml:lang="en">Weed Science</source>, <volume>57</volume>, <fpage>48</fpage>&#x02013;<lpage>53</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0027"><mixed-citation publication-type="miscellaneous" id="ece35741-cit-0027">
+<string-name>
+<surname>Heap</surname>, <given-names>I.</given-names>
+</string-name> (<year>2019</year>). <article-title>The International Survey of Herbicide Resistant Weeds</article-title>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.weedscience.com">http://www.weedscience.com</ext-link>
+</mixed-citation></ref><ref id="ece35741-bib-0028"><mixed-citation publication-type="journal" id="ece35741-cit-0028">
+<string-name>
+<surname>Koger</surname>, <given-names>C. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Reddy</surname>, <given-names>K. N.</given-names>
+</string-name> (<year>2005</year>). <article-title>Role of absorption and translocation in the mechanism of glyphosate resistance in horseweed (<italic>Conyza canadensis</italic>)</article-title>. <source xml:lang="en">Weed Science</source>, <volume>53</volume>, <fpage>84</fpage>&#x02013;<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1614/WS-04-102R</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0029"><mixed-citation publication-type="journal" id="ece35741-cit-0029">
+<string-name>
+<surname>Martin</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>Benedict</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sauder</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>da Costa</surname>, <given-names>L. O.</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>, <given-names>L. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beckie</surname>, <given-names>H. J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Glyphosate resistance reduces kochia fitness: Comparison of segregating resistant and susceptible F2 populations</article-title>. <source xml:lang="en">Plant Science</source>, <volume>261</volume>, <fpage>69</fpage>&#x02013;<lpage>79</lpage>. <pub-id pub-id-type="doi">10.1016/j.plantsci.2017.04.010</pub-id>
+<pub-id pub-id-type="pmid">28554695</pub-id></mixed-citation></ref><ref id="ece35741-bib-0030"><mixed-citation publication-type="journal" id="ece35741-cit-0030">
+<string-name>
+<surname>Mei</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zheng</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Investigation of glyphosate resistance levels and target&#x02010;site based resistance (TSR) mechanisms in <italic>Conyza canadensis</italic> (L.) from apple orchards around areas of Bohai seas and Loess Plateau in China</article-title>. <source xml:lang="en">Pesticide Biochemistry and Physiology</source>, <volume>146</volume>, <fpage>7</fpage>&#x02013;<lpage>12</lpage>.<pub-id pub-id-type="pmid">29626994</pub-id></mixed-citation></ref><ref id="ece35741-bib-0031"><mixed-citation publication-type="journal" id="ece35741-cit-0031">
+<string-name>
+<surname>Mortensen</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Egan</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Maxwell</surname>, <given-names>B. D.</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>, <given-names>M. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>R. G.</given-names>
+</string-name> (<year>2012</year>). <article-title>Navigating a critical juncture for sustainable weed management</article-title>. <source xml:lang="en">BioScience</source>, <volume>62</volume>, <fpage>75</fpage>&#x02013;<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1525/bio.2012.62.1.12</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0032"><mixed-citation publication-type="journal" id="ece35741-cit-0032">
+<string-name>
+<surname>Nandula</surname>, <given-names>V. K.</given-names>
+</string-name>, <string-name>
+<surname>Eubank</surname>, <given-names>T. W.</given-names>
+</string-name>, <string-name>
+<surname>Poston</surname>, <given-names>D. H.</given-names>
+</string-name>, <string-name>
+<surname>Koger</surname>, <given-names>C. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Reddy</surname>, <given-names>K. N.</given-names>
+</string-name> (<year>2006</year>). <article-title>Factors affecting germination of horseweed (<italic>Conyza canadensis</italic>)</article-title>. <source xml:lang="en">Weed Science</source>, <volume>54</volume>, <fpage>898</fpage>&#x02013;<lpage>902</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0033"><mixed-citation publication-type="journal" id="ece35741-cit-0033">
+<string-name>
+<surname>Neve</surname>, <given-names>P.</given-names>
+</string-name> (<year>2008</year>). <article-title>Simulation modelling to understand the evolution and management of glyphosate resistance in weeds</article-title>. <source xml:lang="en">Pest Management Sciences</source>, <volume>64</volume>, <fpage>392</fpage>&#x02013;<lpage>401</lpage>. <pub-id pub-id-type="doi">10.1002/ps.1495</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0034"><mixed-citation publication-type="journal" id="ece35741-cit-0034">
+<string-name>
+<surname>Nol</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Tsikou</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Eid</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Livieratos</surname>, <given-names>I. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giannopolitis</surname>, <given-names>C. N.</given-names>
+</string-name> (<year>2012</year>). <article-title>Shikimate leaf disc assay for early detection of glyphosate resistance in <italic>Conyza canadensis</italic> and relative transcript levels of EPSPS and ABC transporter genes</article-title>. <source xml:lang="en">Weed Research</source>, <volume>52</volume>, <fpage>233</fpage>&#x02013;<lpage>241</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-3180.2012.00911.x</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0035"><mixed-citation publication-type="journal" id="ece35741-cit-0035">
+<string-name>
+<surname>Okada</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hanson</surname>, <given-names>B. D.</given-names>
+</string-name>, <string-name>
+<surname>Hembree</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Shrestha</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>
+<suffix>Jr</suffix>, <given-names>C. N.</given-names> &#x02026;</string-name>
+<string-name>
+<surname>Jasieniuk</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Evolution and spread of glyphosate resistance in <italic>Conyza canadensis</italic> in California</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>6</volume>, <fpage>761</fpage>&#x02013;<lpage>777</lpage>.<pub-id pub-id-type="pmid">29387164</pub-id></mixed-citation></ref><ref id="ece35741-bib-0036"><mixed-citation publication-type="journal" id="ece35741-cit-0036">
+<string-name>
+<surname>Osipitan</surname>, <given-names>O. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dille</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Fitness outcomes related to glyphosate resistance in kochia (<italic>Kochia scoparia</italic>): What life history stage to examine?</article-title>
+<source xml:lang="en">Frontiers in Plant Science</source>, <volume>8</volume>, <fpage>1</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">28220127</pub-id></mixed-citation></ref><ref id="ece35741-bib-0037"><mixed-citation publication-type="journal" id="ece35741-cit-0037">
+<string-name>
+<surname>Page</surname>, <given-names>E. R.</given-names>
+</string-name>, <string-name>
+<surname>Grainger</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Laforest</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nurse</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Rajcan</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Bae</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tardif</surname>, <given-names>F. J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Target and non&#x02010;target site mechanisms confer resistance to glyphosate in Canadian accessions of <italic>Conyza canadensis</italic>
+</article-title>. <source xml:lang="en">Weed Science</source>, <volume>66</volume>, <fpage>234</fpage>&#x02013;<lpage>245</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0038"><mixed-citation publication-type="journal" id="ece35741-cit-0038">
+<string-name>
+<surname>Pedersen</surname>, <given-names>B. P.</given-names>
+</string-name>, <string-name>
+<surname>Neve</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Andreasen</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Powles</surname>, <given-names>S. B.</given-names>
+</string-name> (<year>2007</year>). <article-title>Ecological fitness of a glyphosate&#x02010;resistant <italic>Lolium rigidum</italic> population: Growth and seed production along a competition gradient</article-title>. <source xml:lang="en">Basic and Applied Biology</source>, <volume>8</volume>, <fpage>258</fpage>&#x02013;<lpage>268</lpage>. <pub-id pub-id-type="doi">10.1016/j.baae.2006.01.002</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0039"><mixed-citation publication-type="journal" id="ece35741-cit-0039">
+<string-name>
+<surname>Regehr</surname>, <given-names>D. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bazzaz</surname>, <given-names>F. A.</given-names>
+</string-name> (<year>1979</year>). <article-title>The population dynamics of <italic>Erigeron canadensis</italic>, a successional winter annual</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>6</volume>, <fpage>923</fpage>&#x02013;<lpage>933</lpage>. <pub-id pub-id-type="doi">10.2307/2259221</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0040"><mixed-citation publication-type="journal" id="ece35741-cit-0040">
+<string-name>
+<surname>Shields</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name>
+<surname>Dauer</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name>
+<surname>VanGessel</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Neumann</surname>, <given-names>G.</given-names>
+</string-name> (<year>2006</year>). <article-title>Horseweed (<italic>Conyza canadensis</italic>) seed collected in the planetary boundary layer</article-title>. <source xml:lang="en">Weed Science</source>, <volume>54</volume>, <fpage>1063</fpage>&#x02013;<lpage>1067</lpage>. <pub-id pub-id-type="doi">10.1614/WS-06-097R1.1</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0041"><mixed-citation publication-type="journal" id="ece35741-cit-0041">
+<string-name>
+<surname>Shrestha</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hanson</surname>, <given-names>B. D.</given-names>
+</string-name>, <string-name>
+<surname>Fidelibus</surname>, <given-names>M. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Alcorta</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Growth, phenology, and intraspecific competition between glyphosate&#x02010;resistant and glyphosate&#x02010;susceptible horseweeds (<italic>Conyza canadensis</italic>) in the San Joaquin Valley of California</article-title>. <source xml:lang="en">Weed Science</source>, <volume>58</volume>, <fpage>147</fpage>&#x02013;<lpage>153</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0042"><mixed-citation publication-type="journal" id="ece35741-cit-0042">
+<string-name>
+<surname>Shrestha</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hembree</surname>, <given-names>K. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Va</surname>, <given-names>N.</given-names>
+</string-name> (<year>2007</year>). <article-title>Growth stage influences levels of resistance in glyphosate&#x02010;resistant horseweed</article-title>. <source xml:lang="en">California Agriculture</source>, <volume>61</volume>, <fpage>67</fpage>&#x02013;<lpage>70</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0043"><mixed-citation publication-type="journal" id="ece35741-cit-0043">
+<string-name>
+<surname>Simons</surname>, <given-names>A. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Johnston</surname>, <given-names>M. O.</given-names>
+</string-name> (<year>2003</year>). <article-title>Suboptimal timing of reproduction in <italic>Lobelia inflata</italic> may be a conservative bet&#x02010;hedging strategy</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>16</volume>, <fpage>233</fpage>&#x02013;<lpage>243</lpage>. <pub-id pub-id-type="doi">10.1046/j.1420-9101.2003.00530.x</pub-id>
+<pub-id pub-id-type="pmid">14635862</pub-id></mixed-citation></ref><ref id="ece35741-bib-0044"><mixed-citation publication-type="book" id="ece35741-cit-0044">
+<string-name>
+<surname>Smisek</surname>, <given-names>A. J. J.</given-names>
+</string-name> (<year>1995</year>). <source xml:lang="en">The evolution of resistance to paraquat in populations of <italic toggle="yes">Erigeron canadensis</italic> L</source>. Master's thesis. <publisher-loc>London, UK</publisher-loc>: <publisher-name>The University of Western Ontario</publisher-name>.</mixed-citation></ref><ref id="ece35741-bib-0045"><mixed-citation publication-type="journal" id="ece35741-cit-0045">
+<string-name>
+<surname>Snow</surname>, <given-names>A. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stanton</surname>, <given-names>M. L.</given-names>
+</string-name> (<year>1988</year>). <article-title>Aphids limit fecundity of a weedy annual (<italic>Raphanus sativus</italic>)</article-title>. <source xml:lang="en">American Journal of Botany</source>, <volume>75</volume>, <fpage>1</fpage>
+<pub-id pub-id-type="doi">10.1002/j.1537-2197.1988.tb13478.x</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0046"><mixed-citation publication-type="journal" id="ece35741-cit-0046">
+<string-name>
+<surname>Tani</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Chachalis</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Travlos</surname>, <given-names>I. S.</given-names>
+</string-name> (<year>2015</year>). <article-title>A glyphosate resistance mechanism in <italic>Conyza canadensis</italic> involves synchronization of EPSPS and ABC&#x02010;transporter genes</article-title>. <source xml:lang="en">Plant Molecular Biology Reporter</source>, <volume>33</volume>, <fpage>1721</fpage>&#x02013;<lpage>1730</lpage>. <pub-id pub-id-type="doi">10.1007/s11105-015-0868-8</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0047"><mixed-citation publication-type="journal" id="ece35741-cit-0047">
+<string-name>
+<surname>Tozzi</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lyons</surname>, <given-names>E. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Van Acker</surname>, <given-names>R. C.</given-names>
+</string-name> (<year>2014</year>). <article-title>The effect of simulated winter warming spells on Canada fleabane [<italic>Conyza canadensis</italic> (L.) Cronq. var. <italic>canadensis</italic>] seeds and plants</article-title>. <source xml:lang="en">Canadian Journal of Plant Science</source>, <volume>94</volume>, <fpage>963</fpage>&#x02013;<lpage>969</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0048"><mixed-citation publication-type="journal" id="ece35741-cit-0048">
+<string-name>
+<surname>Travlos</surname>, <given-names>I. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chachalis</surname>, <given-names>D.</given-names>
+</string-name> (<year>2013</year>). <article-title>Relative competitiveness of glyphosate&#x02010;resistant and glyphosate&#x02010;susceptible populations of hairy fleabane, Conyza bonariensis</article-title>. <source xml:lang="en">Journal of Pest Sciences</source>, <volume>86</volume>, <fpage>345</fpage>&#x02013;<lpage>351</lpage>. <pub-id pub-id-type="doi">10.1007/s10340-012-0446-x</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0049"><mixed-citation publication-type="journal" id="ece35741-cit-0049">
+<string-name>
+<surname>VanGessel</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2001</year>). <article-title>Glyphosate&#x02010;resistant horseweed from Delaware</article-title>. <source xml:lang="en">Weed Science</source>, <volume>49</volume>, <fpage>703</fpage>&#x02013;<lpage>705</lpage>. <pub-id pub-id-type="doi">10.1614/0043-1745(2001)049[0703:RPRHFD]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0050"><mixed-citation publication-type="journal" id="ece35741-cit-0050">
+<string-name>
+<surname>Vila&#x02010;Aiub</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Goh</surname>, <given-names>S. S.</given-names>
+</string-name>, <string-name>
+<surname>Gaines</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Busi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Powles</surname>, <given-names>S. B.</given-names>
+</string-name> (<year>2014</year>). <article-title>No fitness cost of glyphosate resistance endowed by massive <italic>EPSPS</italic> gene amplification in <italic>Amaranthus palmeri</italic>
+</article-title>. <source xml:lang="en">Planta</source>, <volume>239</volume>, <fpage>793</fpage>&#x02013;<lpage>801</lpage>. <pub-id pub-id-type="doi">10.1007/s00425-013-2022-x</pub-id>
+<pub-id pub-id-type="pmid">24385093</pub-id></mixed-citation></ref><ref id="ece35741-bib-0051"><mixed-citation publication-type="journal" id="ece35741-cit-0051">
+<string-name>
+<surname>Vila&#x02010;Aiub</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Gundel</surname>, <given-names>P. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Preston</surname>, <given-names>C.</given-names>
+</string-name> (<year>2015</year>). <article-title>Experimental methods for estimation of plant fitness costs associated with herbicide&#x02010;resistance genes</article-title>. <source xml:lang="en">Weed Science</source>, <volume>63</volume>, <fpage>203</fpage>&#x02013;<lpage>216</lpage>. <pub-id pub-id-type="doi">10.1614/WS-D-14-00062.1</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0052"><mixed-citation publication-type="journal" id="ece35741-cit-0052">
+<string-name>
+<surname>Vila&#x02010;Aiub</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Neve</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Powles</surname>, <given-names>S. B.</given-names>
+</string-name> (<year>2009a</year>). <article-title>Evidence for an ecological cost of enhanced herbicide metabolism in <italic>Lolium rigidum</italic>
+</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>97</volume>, <fpage>772</fpage>&#x02013;<lpage>780</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0053"><mixed-citation publication-type="journal" id="ece35741-cit-0053">
+<string-name>
+<surname>Vila&#x02010;Aiub</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Neve</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Powles</surname>, <given-names>S. B.</given-names>
+</string-name> (<year>2009b</year>). <article-title>Fitness costs associated with evolved herbicide resistance alleles in plants</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>184</volume>, <fpage>751</fpage>&#x02013;<lpage>767</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2009.03055.x</pub-id>
+<pub-id pub-id-type="pmid">19825013</pub-id></mixed-citation></ref><ref id="ece35741-bib-0054"><mixed-citation publication-type="journal" id="ece35741-cit-0054">
+<string-name>
+<surname>Vila&#x02010;Aiub</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Neve</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Roux</surname>, <given-names>F.</given-names>
+</string-name> (<year>2011</year>). <article-title>A unified approach to the estimation and interpretation of resistance costs in plants</article-title>. <source xml:lang="en">Heredity</source>, <volume>107</volume>, <fpage>386</fpage>&#x02013;<lpage>394</lpage>. <pub-id pub-id-type="doi">10.1038/hdy.2011.29</pub-id>
+<pub-id pub-id-type="pmid">21540885</pub-id></mixed-citation></ref><ref id="ece35741-bib-0055"><mixed-citation publication-type="journal" id="ece35741-cit-0055">
+<string-name>
+<surname>Vila&#x02010;Aiub</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Powles</surname>, <given-names>S. B.</given-names>
+</string-name> (<year>2019</year>). <article-title>Do plants pay a fitness cost to be resistant to glyphosate?</article-title>
+<source xml:lang="en">New Phytologist</source>, <volume>2</volume>, <fpage>532</fpage>&#x02013;<lpage>547</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0056"><mixed-citation publication-type="journal" id="ece35741-cit-0056">
+<string-name>
+<surname>Wang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Si</surname>, <given-names>H. K.</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>, <given-names>X. X.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bao&#x02010;Rong</surname>, <given-names>L.</given-names>
+</string-name> (<year>2014</year>). <article-title>A novel 5&#x02010;enolpyruvoylshikimate&#x02010;3&#x02010;phosphate (EPSP) synthase transgene for glyphosate resistance stimulates growth and fecundity in weedy rice (<italic>Oryza sativa</italic>) without herbicide</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>202</volume>, <fpage>679</fpage>&#x02013;<lpage>688</lpage>.<pub-id pub-id-type="pmid">23905647</pub-id></mixed-citation></ref><ref id="ece35741-bib-0057"><mixed-citation publication-type="journal" id="ece35741-cit-0057">
+<string-name>
+<surname>Weaver</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>2001</year>). <article-title>The biology of Canadian weeds</article-title>. <source xml:lang="en">Canadian Journal of Plant Science</source>, <volume>81</volume>, <fpage>867</fpage>&#x02013;<lpage>875</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0058"><mixed-citation publication-type="journal" id="ece35741-cit-0058">
+<string-name>
+<surname>Webster</surname>, <given-names>T. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nichols</surname>, <given-names>R. L.</given-names>
+</string-name> (<year>2012</year>). <article-title>Changes in the prevalence of weed species in the major agronomic crops of the Southern United States: 1994/1995 to 2008/2009</article-title>. <source xml:lang="en">Weed Science</source>, <volume>60</volume>, <fpage>145</fpage>&#x02013;<lpage>157</lpage>. <pub-id pub-id-type="doi">10.1614/WS-D-11-00092.1</pub-id>
+</mixed-citation></ref><ref id="ece35741-bib-0059"><mixed-citation publication-type="journal" id="ece35741-cit-0059">
+<string-name>
+<surname>Wu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>A. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tranel</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Limited fitness costs of herbicide&#x02010;resistance traits in <italic>Amaranthus tuberculatus</italic> facilitate resistance evolution</article-title>. <source xml:lang="en">Pest Management Science</source>, <volume>74</volume>, <fpage>293</fpage>&#x02013;<lpage>301</lpage>.<pub-id pub-id-type="pmid">28834134</pub-id></mixed-citation></ref><ref id="ece35741-bib-0060"><mixed-citation publication-type="journal" id="ece35741-cit-0060">
+<string-name>
+<surname>Yanniccari</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vila&#x02010;Aiub</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Istilart</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Acciaresi</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Castro</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Glyphosate resistance in perennial ryegrass (<italic>Lolium perenne</italic> L.) is associated with a fitness penalty</article-title>. <source xml:lang="en">Weed Science</source>, <volume>64</volume>, <fpage>71</fpage>&#x02013;<lpage>79</lpage>.</mixed-citation></ref><ref id="ece35741-bib-0062"><mixed-citation publication-type="journal" id="ece35741-cit-0062">
+<string-name>
+<surname>Zelaya</surname>, <given-names>I. A.</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>, <given-names>M. D. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>VanGessel</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2004</year>). <article-title>Inheritance of evolved glyphosate resistance in horseweed (<italic>Conyza canadensis</italic> (I.) Cronq.)</article-title>. <source xml:lang="en">Theoretical Applied Genetics</source>, <volume>100</volume>, <fpage>58</fpage>&#x02013;<lpage>70</lpage>.</mixed-citation></ref></ref-list></back></article>

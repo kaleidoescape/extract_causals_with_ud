@@ -1,0 +1,542 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Magn Reson Imaging</journal-id><journal-id journal-id-type="iso-abbrev">J Magn Reson Imaging</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1522-2586</journal-id><journal-id journal-id-type="publisher-id">JMRI</journal-id><journal-title-group><journal-title>Journal of Magnetic Resonance Imaging</journal-title></journal-title-group><issn pub-type="ppub">1053-1807</issn><issn pub-type="epub">1522-2586</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31342614</article-id><article-id pub-id-type="pmc">6954880</article-id><article-id pub-id-type="doi">10.1002/jmri.26869</article-id><article-id pub-id-type="publisher-id">JMRI26869</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Cardiac</subject></subj-group></subj-group></article-categories><title-group><article-title>FASt single&#x02010;breathhold 2D multislice myocardial T<sub>1</sub> mapping (FAST1) at 1.5T for full left ventricular coverage in three breathholds</article-title><alt-title alt-title-type="right-running-head">FASt Single&#x02010;breathhold 2D Multislice Myocardial T<sub>1</sub> Mapping (FAST1)</alt-title><alt-title alt-title-type="left-running-head">Huang et al.</alt-title></title-group><contrib-group><contrib id="jmri26869-cr-0001" contrib-type="author"><name><surname>Huang</surname><given-names>Li</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3657-0799</contrib-id><xref ref-type="aff" rid="jmri26869-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jmri26869-cr-0002" contrib-type="author"><name><surname>Neji</surname><given-names>Radhouene</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jmri26869-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmri26869-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jmri26869-cr-0003" contrib-type="author"><name><surname>Nazir</surname><given-names>Muhummad Sohaib</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jmri26869-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jmri26869-cr-0004" contrib-type="author"><name><surname>Whitaker</surname><given-names>John</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5361-5725</contrib-id><xref ref-type="aff" rid="jmri26869-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jmri26869-cr-0005" contrib-type="author"><name><surname>Duong</surname><given-names>Phuoc</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jmri26869-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jmri26869-cr-0006" contrib-type="author"><name><surname>Reid</surname><given-names>Fiona</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jmri26869-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jmri26869-cr-0007" contrib-type="author"><name><surname>Bosio</surname><given-names>Filippo</given-names></name><degrees>BSc</degrees><xref ref-type="aff" rid="jmri26869-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jmri26869-cr-0008" contrib-type="author"><name><surname>Chiribiri</surname><given-names>Amedeo</given-names></name><degrees>PhD, MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3394-4289</contrib-id><xref ref-type="aff" rid="jmri26869-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jmri26869-cr-0009" contrib-type="author"><name><surname>Razavi</surname><given-names>Reza</given-names></name><degrees>PhD, MD</degrees><xref ref-type="aff" rid="jmri26869-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jmri26869-cr-0010" contrib-type="author" corresp="yes"><name><surname>Roujol</surname><given-names>S&#x000e9;bastien</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jmri26869-aff-0001">
+<sup>1</sup>
+</xref><address><email>sebastien.roujol@kcl.ac.uk</email></address></contrib></contrib-group><aff id="jmri26869-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">The School of Biomedical Engineering and Imaging Sciences, Faculty of Life Sciences and Medicine</named-content>
+<institution>King's College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="jmri26869-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">MR Research Collaborations</named-content>
+<institution>Siemens Healthcare Limited</institution>
+<city>Frimley</city>
+<country country="GB">UK</country>
+</aff><aff id="jmri26869-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">School of Population Health and Environmental Sciences, Faculty of Life Sciences and Medicine</named-content>
+<institution>King's College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Address reprint requests to: S.R., 3rd Floor, Lambeth Wing, St Thomas' Hospital, Westminster Bridge Road, London, SE1 7EH, UK. E&#x02010;mail: <email>sebastien.roujol@kcl.ac.uk</email></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>7</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2020</year></pub-date><volume>51</volume><issue>2</issue><issue-id pub-id-type="doi">10.1002/jmri.v51.2</issue-id><fpage>492</fpage><lpage>504</lpage><history><date date-type="received"><day>16</day><month>5</month><year>2019</year></date><date date-type="accepted"><day>02</day><month>7</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 International Society for Magnetic Resonance in Medicine <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Journal of Magnetic Resonance Imaging</italic> published by Wiley Periodicals, Inc. on behalf of International Society for Magnetic Resonance in Medicine.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JMRI-51-492.pdf"/><abstract><sec id="jmri26869-sec-0002"><title>Background</title><p>Conventional myocardial T<sub>1</sub> mapping techniques such as modified Look&#x02013;Locker inversion recovery (MOLLI) generate one T<sub>1</sub> map per breathhold. T<sub>1</sub> mapping with full left ventricular coverage may be desirable when spatial T<sub>1</sub> variations are expected. This would require multiple breathholds, increasing patient discomfort and prolonging scan time.</p></sec><sec id="jmri26869-sec-0003"><title>Purpose</title><p>To develop and characterize a novel FASt single&#x02010;breathhold 2D multislice myocardial T<sub>1</sub> mapping (FAST1) technique for full left ventricular coverage.</p></sec><sec id="jmri26869-sec-0004"><title>Study Type</title><p>Prospective.</p></sec><sec id="jmri26869-sec-0005"><title>Population/Phantom</title><p>Numerical simulation, agarose/NiCl<sub>2</sub> phantom, 9 healthy volunteers, and 17 patients.</p></sec><sec id="jmri26869-sec-0006"><title>Field Strength/Sequence</title><p>1.5T/FAST1.</p></sec><sec id="jmri26869-sec-0007"><title>Assessment</title><p>Two FAST1 approaches, FAST1&#x02010;BS and FAST1&#x02010;IR, were characterized and compared with standard 5&#x02010;(3)&#x02010;3 MOLLI in terms of accuracy, precision/spatial variability, and repeatability.</p></sec><sec id="jmri26869-sec-0008"><title>Statistical Tests</title><p>Kruskal&#x02010;Wallis, Wilcoxon signed rank tests, intraclass correlation coefficient analysis, analysis of variance, Student's <italic>t</italic>&#x02010;tests, Pearson correlation analysis, and Bland&#x02013;Altman analysis.</p></sec><sec id="jmri26869-sec-0009"><title>Results</title><p>In simulation/phantom, FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI had an accuracy (expressed as T<sub>1</sub> error) of 0.2%/4%, 6%/9%, and 4%/7%, respectively, while FAST1&#x02010;BS and FAST1&#x02010;IR had a precision penalty of 1.7/1.5 and 1.5/1.4 in comparison with MOLLI, respectively. In healthy volunteers, FAST1&#x02010;BS/FAST1&#x02010;IR/MOLLI led to different native myocardial T<sub>1</sub> times (1016&#x02009;&#x000b1;&#x02009;27 msec/952 &#x000b1;22 msec/987&#x02009;&#x000b1;&#x02009;23 msec, <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.0001) and spatial variability (66&#x02009;&#x000b1;&#x02009;10 msec/57&#x02009;&#x000b1;&#x02009;8 msec/46&#x02009;&#x000b1;&#x02009;7 msec, <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001). There were no statistically significant differences between all techniques for T<sub>1</sub> repeatability (<italic>P</italic> = 0.18). In vivo native and postcontrast myocardial T<sub>1</sub> times in both healthy volunteers and patients using FAST1&#x02010;BS/FAST1&#x02010;IR were highly correlated with MOLLI (Pearson correlation coefficient&#x02009;&#x02265;0.93).</p></sec><sec id="jmri26869-sec-0010"><title>Data Conclusion</title><p>FAST1 enables myocardial T<sub>1</sub> mapping with full left ventricular coverage in three separated breathholds. In comparison with MOLLI, FAST1 yield a 5&#x02010;fold increase of spatial coverage, limited penalty of T<sub>1</sub> precision/spatial variability, no significant difference of T<sub>1</sub> repeatability, and highly correlated T<sub>1</sub> times. FAST1&#x02010;IR provides improved T<sub>1</sub> precision/spatial variability but reduced accuracy when compared with FAST1&#x02010;BS.</p><p>
+<bold>Level of Evidence:</bold> 1</p><p>
+<bold>Technical Efficacy:</bold> Stage 3</p><p>J. Magn. Reson. Imaging 2020;51:492&#x02013;504.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jmri26869-kwd-0001">myocardial tissue characterization</kwd><kwd id="jmri26869-kwd-0002">T1 mapping</kwd><kwd id="jmri26869-kwd-0003">multislice</kwd><kwd id="jmri26869-kwd-0004">slice&#x02010;selective</kwd><kwd id="jmri26869-kwd-0005">MOLLI</kwd><kwd id="jmri26869-kwd-0006">inversion recovery</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Engineering and Physical Sciences Research Council </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000266</institution-id></institution-wrap></funding-source><award-id>EP/R010935/1</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Guy's and St Thomas' NHS Foundation Trust </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100004941</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0003"><funding-source>Health Innovation Challenge Fund</funding-source><award-id>HICF&#x02010;R10&#x02010;698</award-id></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>National Institute for Health Research </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000272</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>Wellcome Trust </institution><institution-id institution-id-type="open-funder-registry">10.13039/100010269</institution-id></institution-wrap></funding-source><award-id>WT 203148/Z/16/Z</award-id></award-group></funding-group><counts><fig-count count="10"/><table-count count="0"/><page-count count="13"/><word-count count="8290"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.5 mode:remove_FC converted:06.02.2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="jmri26869-body-0001"><p>ALTERATION OF NATIVE MYOCARDIAL T<sub>1</sub> times has been observed in the presence of a variety of heart diseases such as acute and chronic myocardial infarction, myocarditis, amyloidosis, or Anderson&#x02013;Fabry disease.<xref rid="jmri26869-bib-0001" ref-type="ref">1</xref> Myocardial T<sub>1</sub> mapping techniques enable pixelwise quantification of myocardial T<sub>1</sub> times,<xref rid="jmri26869-bib-0002" ref-type="ref">2</xref> which has promising value for diagnosis and prognosis.<xref rid="jmri26869-bib-0001" ref-type="ref">1</xref>
+</p><p>The desired spatial coverage of myocardial T<sub>1</sub> mapping (single&#x02010;slice vs. multislice vs. full left ventricular [LV] coverage) may depend on the cardiac conditions, as stated by an expert consensus statement.<xref rid="jmri26869-bib-0001" ref-type="ref">1</xref> Full LV coverage may be beneficial when spatial variations in LV wall thickness and/or fibrosis are expected, such as in the presence of hypertrophic cardiomyopathy<xref rid="jmri26869-bib-0003" ref-type="ref">3</xref> or chronic myocardial infarction.<xref rid="jmri26869-bib-0004" ref-type="ref">4</xref>, <xref rid="jmri26869-bib-0005" ref-type="ref">5</xref>
+</p><p>Several methods have been proposed for myocardial T<sub>1</sub> mapping, including techniques based on inversion,<xref rid="jmri26869-bib-0002" ref-type="ref">2</xref>, <xref rid="jmri26869-bib-0006" ref-type="ref">6</xref> saturation,<xref rid="jmri26869-bib-0007" ref-type="ref">7</xref> or hybrid preparation pulses.<xref rid="jmri26869-bib-0008" ref-type="ref">8</xref> In these approaches, multiple images with different T<sub>1</sub>&#x02010;weightings are acquired and fit in a pixelwise manner to a physical model of the MR signal evolution.<xref rid="jmri26869-bib-0002" ref-type="ref">2</xref> Inversion recovery (IR)&#x02010;based approaches such as modified Look&#x02013;Locker inversion recovery (MOLLI)<xref rid="jmri26869-bib-0002" ref-type="ref">2</xref> are commonly used due to their high precision, reproducibility, and map quality.<xref rid="jmri26869-bib-0009" ref-type="ref">9</xref>, <xref rid="jmri26869-bib-0010" ref-type="ref">10</xref>, <xref rid="jmri26869-bib-0011" ref-type="ref">11</xref>, <xref rid="jmri26869-bib-0012" ref-type="ref">12</xref> In these techniques, multiple (usually 7&#x02013;13) 2D single&#x02010;shot electrocardiogram (ECG)&#x02010;triggered images of the same slice are acquired at different inversion times (TIs) in a single breathhold and used to generate one T<sub>1</sub> map. In these conditions, myocardial T<sub>1</sub> mapping with full LV coverage requires repeated breathheld acquisitions, each for one slice, thus increasing patient discomfort, prolonging scan time, and resulting in potential slice misalignment if 3D processing is necessary.</p><p>3D or advanced 2D multislice techniques can be used to achieve native myocardial T<sub>1</sub> mapping with full LV coverage.<xref rid="jmri26869-bib-0013" ref-type="ref">13</xref>, <xref rid="jmri26869-bib-0014" ref-type="ref">14</xref>, <xref rid="jmri26869-bib-0015" ref-type="ref">15</xref>, <xref rid="jmri26869-bib-0016" ref-type="ref">16</xref>, <xref rid="jmri26869-bib-0017" ref-type="ref">17</xref>, <xref rid="jmri26869-bib-0018" ref-type="ref">18</xref>, <xref rid="jmri26869-bib-0019" ref-type="ref">19</xref>, <xref rid="jmri26869-bib-0020" ref-type="ref">20</xref> 3D breathheld myocardial T<sub>1</sub> mapping approaches may need to compromise between spatial resolution and/or artifact level due to limited breathhold duration and limited acquisition window within the cardiac cycle.<xref rid="jmri26869-bib-0013" ref-type="ref">13</xref>, <xref rid="jmri26869-bib-0018" ref-type="ref">18</xref> On the other hand, 3D<xref rid="jmri26869-bib-0014" ref-type="ref">14</xref>, <xref rid="jmri26869-bib-0015" ref-type="ref">15</xref>, <xref rid="jmri26869-bib-0017" ref-type="ref">17</xref>, <xref rid="jmri26869-bib-0019" ref-type="ref">19</xref>, <xref rid="jmri26869-bib-0020" ref-type="ref">20</xref> and 2D multislice<xref rid="jmri26869-bib-0016" ref-type="ref">16</xref> free&#x02010;breathing myocardial T<sub>1</sub> mapping require long scan times and advanced motion correction strategies, which can result in reduced map quality and increased intersegment variability compared with standard breathheld techniques such as MOLLI.<xref rid="jmri26869-bib-0017" ref-type="ref">17</xref>
+</p><p>In this work, we sought to develop and characterize a novel FASt single&#x02010;breathhold 2D multislice myocardial T<sub>1</sub> mapping (FAST1) for myocardial T<sub>1</sub> mapping with full LV coverage in three breathholds at 1.5T.</p><sec id="jmri26869-sec-0014"><title>Materials and Methods</title><sec id="jmri26869-sec-0015"><title>
+<italic>Pulse Sequence</italic>
+</title><p>The FAST1 pulse sequence diagram is illustrated in Fig. <xref rid="jmri26869-fig-0001" ref-type="fig">1</xref>, where five T<sub>1</sub> maps are acquired in one breathhold. A slice&#x02010;selective inversion pulse (phase&#x02010;modulated hyperbolic secant) is applied in the first heartbeat (HB). Two ECG&#x02010;triggered single&#x02010;shot images of the same slice are then acquired over the first and second HBs at TIs of TI<sub>1</sub> and TI<sub>2</sub>, respectively. The delay time between the slice&#x02010;selective inversion pulse and the first image (TI<sub>1</sub>) is minimized to reduce the impact of motion. This imaging block is then repeated five times for different slices within the same breathhold.</p><fig fig-type="Figure" xml:lang="en" id="jmri26869-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>FAST1 sequence diagram and acquisition scheme. Five T<sub>1</sub> maps are acquired in one breathhold, each based on a two&#x02010;heartbeat imaging block including a slice&#x02010;selective inversion pulse and the acquisition of two ECG&#x02010;triggered single&#x02010;shot images. Minimal inversion time is used for each imaging block to reduce the impact of cardiac motion between the slice&#x02010;selective inversion pulse and the first image acquisition. An inversion slice thickness larger than the imaging slice thickness is used to minimize the impact of cardiac motion. Recovery heartbeats are introduced between the third and fourth imaging blocks to minimize potential slice crosstalk between the slice&#x02010;selective inversion pulses. In the physiological HR range (50&#x02013;110 bpm), the corresponding nominal breathhold duration is 9&#x02013;13 sec.</p></caption><graphic id="nlm-graphic-1" xlink:href="JMRI-51-492-g001"/></fig><p>To reduce the slice mismatch in the presence of residual motion occurring between the inversion and imaging, the ratio of inversion to imaging slice thickness was increased from one to a factor of R<sub>THK</sub>. Furthermore, the five imaging blocks were acquired in a slice&#x02010;interleaved fashion using the following slice order (#1, #3, #5, #2, #4) and a slice gap (twice the imaging slice thickness in this work) to minimize slice crosstalk.</p><p>To allow for large R<sub>THK</sub> values and thus improved robustness against motion while minimizing slice crosstalk, recovery HBs were inserted between the third and fourth imaging blocks (between slices #5 and #2, respectively). The number of recovery HBs (N<sub>R</sub>) is adjusted based on each subject's heart rate (HR) to ensure quasi full recovery of the longitudinal magnetization of the last two slices (slices #2, #4) before application of their associated slice&#x02010;selective inversion pulses. This adjustment is achieved based on a worst&#x02010;case scenario defined as one slice&#x02010;selective inversion pulse in the first three imaging blocks (for slices #1, #3, or #5) fully inverted one of its adjacent slices (slices #2 or #4). Considering a normal native myocardial T<sub>1</sub> at 1.5T (~1200 msec), recovery HBs were added to ensure a minimum delay of five times the native myocardial T<sub>1</sub> time between the inversion pulses for two adjacent slices (ie, T<sub>RD</sub>&#x02009;&#x02265;6 sec). As an example, with an HR of 60 bpm, two recovery HBs were used (ie, N<sub>R</sub> = 2). In the physiological HR range (50&#x02013;110 bpm), the corresponding nominal breathhold duration is 9&#x02013;13 sec.</p></sec><sec id="jmri26869-sec-0016"><title>
+<italic>T<sub>1</sub> Map Reconstruction</italic>
+</title><p>T<sub>1</sub> map reconstruction was performed using an exhaustive search over a signal dictionary. Two models were developed and evaluated for the creation of the signal dictionary using Bloch equations simulation (BS) of the pulse sequence and an IR&#x02010;based model. The corresponding reconstructions are thereafter referred to as FAST1&#x02010;BS and FAST1&#x02010;IR, respectively. Each model was created using a T<sub>1</sub> range of 1&#x02013;4000 msec in steps of 1 msec.</p><sec id="jmri26869-sec-0017"><title>
+<italic>BS Model</italic>
+</title><p>The signal dictionary was generated using Bloch equations simulation of FAST1. The signal of each T<sub>1</sub>&#x02010;weighted image was simulated as the transversal magnetization at the <italic>k</italic>&#x02010;space center (ie, TI<sub>1</sub> and TI<sub>2</sub>). An initial longitudinal magnetization of 1 was used. T<sub>1</sub>&#x02010;dependent slice profiles of the inversion pulse (phase&#x02010;modulated hyperbolic secant) and the excitation pulse (nonmodulated Hann&#x02010;filtered sinc) were integrated. T<sub>1</sub>&#x02010;dependent slice profiles were estimated using Bloch equations simulation of each pulse with a myocardial T<sub>2</sub> = 45 msec and B0/B1 inhomogeneities [80%,100%]/[&#x02013;150,150] Hz in steps of 1%/10 Hz. T<sub>1</sub>&#x02010;dependent effective flip angles were approximated based on the average longitudinal magnetization over the slice profiles and all simulated T<sub>2</sub>/B0/B1 regimes.</p></sec><sec id="jmri26869-sec-0018"><title>
+<italic>IR Model</italic>
+</title><p>The dictionary was created using a previously proposed normalized one&#x02010;parameter model<xref rid="jmri26869-bib-0021" ref-type="ref">21</xref> defined as:<disp-formula id="jmri26869-disp-0001"><label>(1)</label><mml:math id="nlm-math-1"><mml:mi mathvariant="normal">S</mml:mi><mml:mfenced open="(" close=")"><mml:mi mathvariant="normal">t</mml:mi></mml:mfenced><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mfenced open="(" close=")"><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mi mathvariant="normal">&#x003b4;</mml:mi></mml:mrow></mml:mfenced><mml:msup><mml:mi mathvariant="normal">e</mml:mi><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mi mathvariant="normal">t</mml:mi><mml:mo>/</mml:mo><mml:mi mathvariant="normal">T</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo>,</mml:mo></mml:math></disp-formula>where &#x003b4; is a constant term representing the inversion factor of the inversion pulse and was determined as ~0.93 using Bloch equations simulation of the inversion pulse in predefined T<sub>1</sub>/T<sub>2</sub>/B0/B1 regimes.<xref rid="jmri26869-bib-0021" ref-type="ref">21</xref>
+</p></sec><sec id="jmri26869-sec-0019"><title>
+<italic>Fitting Process</italic>
+</title><p>The same fitting process was used for both models. Prior to dictionary matching, the signal polarity of the measured signal was restored using a phase sensitive inversion recovery (PSIR) reconstruction approach.<xref rid="jmri26869-bib-0022" ref-type="ref">22</xref> The first image with the shortest TI (TI<sub>1</sub> = 100 msec) was selected as the reference phase image and was assumed to have "negative" polarity. Based on Bloch equations simulation, this assumption has been shown to be valid for any T<sub>1</sub> time&#x02009;&#x0003e;172 msec (in the presence of any T<sub>2</sub> time&#x02009;&#x02265;30 msec and imaging flip angle &#x02264;85&#x000b0;).<xref rid="jmri26869-bib-0021" ref-type="ref">21</xref> Since both signal dictionaries are normalized, the polarity&#x02010;restored measured signal S<sub>meas</sub> was individually scaled to each dictionary entry S<sub>dict</sub> as:<disp-formula id="jmri26869-disp-0002"><label>(2)</label><mml:math id="nlm-math-2"><mml:msubsup><mml:mi mathvariant="normal">S</mml:mi><mml:mtext>meas</mml:mtext><mml:mfenced open="(" close=")"><mml:mtext>scaled</mml:mtext></mml:mfenced></mml:msubsup><mml:mo>=</mml:mo><mml:msub><mml:mi mathvariant="normal">S</mml:mi><mml:mtext>meas</mml:mtext></mml:msub><mml:mo>&#x022c5;</mml:mo><mml:mfrac><mml:mover accent="true"><mml:mfenced open="|" close="|"><mml:msub><mml:mi mathvariant="normal">S</mml:mi><mml:mtext>dict</mml:mtext></mml:msub></mml:mfenced><mml:mo stretchy="false">&#x000af;</mml:mo></mml:mover><mml:mover accent="true"><mml:mfenced open="|" close="|"><mml:msub><mml:mi mathvariant="normal">S</mml:mi><mml:mtext>meas</mml:mtext></mml:msub></mml:mfenced><mml:mo stretchy="false">&#x000af;</mml:mo></mml:mover></mml:mfrac><mml:mo>,</mml:mo></mml:math></disp-formula>where <mml:math id="nlm-math-3"><mml:mover accent="true"><mml:mfenced open="|" close="|"><mml:msub><mml:mi mathvariant="normal">S</mml:mi><mml:mtext>dict</mml:mtext></mml:msub></mml:mfenced><mml:mo stretchy="false">&#x000af;</mml:mo></mml:mover></mml:math> is the signal amplitude average of a dictionary entry over all TIs (ie, TI<sub>1</sub> and TI<sub>2</sub>) and <mml:math id="nlm-math-4"><mml:mover accent="true"><mml:mfenced open="|" close="|"><mml:msub><mml:mi mathvariant="normal">S</mml:mi><mml:mtext>meas</mml:mtext></mml:msub></mml:mfenced><mml:mo stretchy="false">&#x000af;</mml:mo></mml:mover></mml:math> is the signal amplitude average of the polarity&#x02010;restored measured signal over all TIs (ie, TI<sub>1</sub> and TI<sub>2</sub>). Dictionary matching was finally performed by minimizing the L2&#x02010;norm between <mml:math id="nlm-math-5"><mml:msubsup><mml:mi mathvariant="normal">S</mml:mi><mml:mtext>meas</mml:mtext><mml:mfenced open="(" close=")"><mml:mtext>scaled</mml:mtext></mml:mfenced></mml:msubsup></mml:math> and each dictionary entry. Graphic processing unit (GPU) implementation of both the dictionary creation and fitting process was developed using the compute unified device architecture (CUDA) (NVIDIA, Quadro K620 2GB) to enable fast T<sub>1</sub> map reconstruction. For comparison, a standard central processing unit (CPU)&#x02010;based implementation was also developed.</p></sec><sec id="jmri26869-sec-0020"><title>
+<italic>HR Correction</italic>
+</title><p>The IR model led to substantial T<sub>1</sub>&#x02010;dependence on HR.<xref rid="jmri26869-bib-0021" ref-type="ref">21</xref> Therefore, T<sub>1</sub> estimates obtained from this model were HR&#x02010;corrected as in previous work<xref rid="jmri26869-bib-0021" ref-type="ref">21</xref> and summarized in the <xref rid="jmri26869-supitem-0001" ref-type="supplementary-material">Supplementary Materials</xref>. No HR correction was performed for the BS model.</p></sec></sec><sec id="jmri26869-sec-0021"><title>
+<italic>Monte Carlo Simulation</italic>
+</title><p>Monte Carlo simulation (<italic>N</italic> = 50,000 repetitions) was performed to investigate T<sub>1</sub>/T<sub>2</sub>&#x02010;dependent T<sub>1</sub> accuracy and precision of FAST1&#x02010;BS, FAST1&#x02010;IR, and standard 5&#x02010;(3)&#x02010;3 MOLLI. The signal of FAST1 and MOLLI was generated using Bloch equations simulation with the following parameter ranges: T<sub>1</sub> ([200,2000] msec in steps of 25 msec), and T<sub>2</sub> ([30,70] msec in steps of 5 msec). Random Gaussian noise was introduced to simulate a typical signal&#x02010;to&#x02010;noise ratio (SNR) of 50 in the longest TI image of the MOLLI sequence. T<sub>1</sub> accuracy was calculated as the average over all repetitions of the difference between estimated and actual T<sub>1</sub> times. T<sub>1</sub> precision was measured as the standard deviation (SD) over all repetitions of the estimated T<sub>1</sub> times.</p></sec><sec id="jmri26869-sec-0022"><title>
+<italic>Experimental Evaluation</italic>
+</title><p>All imaging experiments were performed using a 1.5T MRI scanner (Magnetom Aera, Siemens Healthcare, Erlangen, Germany). FAST1&#x02010;BS and FAST1&#x02010;IR were compared with the standard MOLLI sequence (5&#x02010;(3)&#x02010;3 scheme) in phantom, in healthy volunteers as well as in patients. The in vivo studies were approved by a local Research Ethics Committee (approval number 01/11/12 for the healthy volunteer study and approval number 15/NS/0030 for the patient study), with written informed consent obtained from all participants.</p><sec id="jmri26869-sec-0023"><title>
+<italic>Phantom Experiments</italic>
+</title><p>FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI were initially compared in a phantom (T1MES, Resonance Health, Burswood, WA, Australia) with six vials of different T<sub>1</sub>/T<sub>2</sub> times representing typical ranges of native and postcontrast myocardial T<sub>1</sub> times.<xref rid="jmri26869-bib-0023" ref-type="ref">23</xref> Both FAST1 and MOLLI sequences were acquired using the same single&#x02010;shot 2D balanced steady&#x02010;state free&#x02010;precession (bSSFP) readout: repetition time (TR)/ echo time (TE)/ flip angle 2.70 msec/1.12 msec/35&#x000b0;, field of view (FOV) 360&#x02009;&#x000d7;&#x02009;306 mm<sup>2</sup>, acquisition matrix 256&#x02009;&#x000d7;&#x02009;144, acquired pixel size 1.4&#x02009;&#x000d7; 2.1 mm<sup>2</sup>, reconstructed pixel size 1.4&#x02009;&#x000d7;&#x02009;1.4 mm<sup>2</sup>, slice thickness/gap 8/16mm, GRAPPA acceleration factor 2, partial Fourier factor 7/8, bandwidth 1085 Hz/px, TI<sub>1</sub> 100 msec. Five slices were acquired using FAST1, while a single slice (the central slice in FAST1) was acquired using MOLLI. Additionally, an IR spin echo (SE) experiment was performed on another day to obtain reference T<sub>1</sub> times using the following parameters: TE/TR = 15/15000 msec, 15 TIs = [50 msec, 100&#x02013;900 msec in steps of 100 msec, 1000&#x02013;5000 msec in steps of 1000 msec], pixel size 1.4&#x02009;&#x000d7;&#x02009;1.4 mm<sup>2</sup>, slice thickness 5 mm, and bandwidth 130 Hz/px. Data analysis was performed based on vial&#x02010;wise region of interest (ROI) in the common slice unless stated otherwise.</p><sec id="jmri26869-sec-0024"><title>
+<italic>Experiment #1: Influences of T<sub>RD</sub> and R<sub>THK</sub></italic>
+</title><p>FAST1 was acquired multiple times using different values of T<sub>RD</sub> ([4,10] sec in steps of 1 sec) and R<sub>THK</sub> ([2,8] in steps of 1). A simulated HR of 60 bpm was used for this experiment. The maximum interslice T<sub>1</sub> variation (max(|&#x00394;<sub>SLICE</sub>T<sub>1</sub>|)) was measured for each set of parameters to identify potential slice crosstalk effects. An empirically optimized pair of T<sub>RD</sub> (6 sec) and R<sub>THK</sub> (4) was used for FAST1 in all the following experiments in phantom and in vivo.</p></sec><sec id="jmri26869-sec-0025"><title>
+<italic>Experiment #2: HR sensitivity</italic>
+</title><p>FAST1 and MOLLI were repeated for different simulated HRs ([40,120] bpm in steps of 10 bpm). Mean T<sub>1</sub> variation across HRs (with respect to T<sub>1</sub> at 60 bpm) was compared for FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI.</p></sec><sec id="jmri26869-sec-0026"><title>
+<italic>Experiment #3: Characterization of T<sub>1</sub> accuracy, spatial variability, and repeatability</italic>
+</title><p>FAST1 and MOLLI were each acquired five times using a simulated HR of 60 bpm. T<sub>1</sub> accuracy, spatial variability, and repeatability were evaluated for FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI. T<sub>1</sub> accuracy was computed for each vial as the interrepetition average of difference between T<sub>1</sub> mean in ROI and reference T<sub>1</sub> obtained in IR SE experiments. T<sub>1</sub> spatial variability was measured for each vial as the interrepetition average of T<sub>1</sub> SD in ROI. T<sub>1</sub> repeatability was evaluated for each vial as the interrepetition SD of T<sub>1</sub> mean in ROI.</p></sec></sec><sec id="jmri26869-sec-0027"><title>
+<italic>Healthy Volunteer Experiments</italic>
+</title><p>In vivo characterization of native myocardial T<sub>1</sub> mapping using FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI was performed in nine healthy volunteers (six males, 29&#x02009;&#x000b1;&#x02009;1 years). Both FAST1 and MOLLI were acquired in the short&#x02010;axis orientation using the imaging parameters described in the phantom experiments with T<sub>RD</sub> of 6 sec and R<sub>THK</sub> of 4. FAST1 was acquired three times to cover the entire LV. To this end, the second and third FAST1 acquisitions were positively and negatively shifted in the slice direction by the employed slice thickness, respectively. This thus resulted in the acquisition of 15 contiguous slices covering the entire LV in a total of three separated breathholds. For comparison, three slices were acquired using MOLLI in another three separated breathholds, matching the three central slices in the first FAST1 acquisition, mimicking a conventional clinical MOLLI protocol.</p><p>This entire protocol was performed twice within the same session without subject repositioning to assess the repeatability of in vivo native myocardial T<sub>1</sub> mapping. Qualitative and quantitative comparisons between both techniques were undertaken in the three common slices (ie, three central slices in the first slice group using FAST1 and three slices using MOLLI).</p><sec id="jmri26869-sec-0028"><title>
+<italic>Qualitative assessment</italic>
+</title><p>No data were discarded for the qualitative assessment. Subjective assessment of map quality for FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI was performed independently by three experienced cardiac MRI readers (M.S.N./J.W./P.D.: &#x0003e;3/4/3 years of cardiac MRI experience) blinded to the techniques. Since blood T<sub>1</sub> times measured with FAST1 and MOLLI are very different (as FAST1 cannot estimate blood T<sub>1</sub> due to the in&#x02010;flow effect caused by the slice&#x02010;selective inversion pulses), the assessment was restrained to the evaluation of map quality only within the myocardium for all techniques to ensure that the readers remain blinded to the acquisition techniques. To this end, endocardial and epicardial contours were manually delineated in the first T<sub>1</sub>&#x02010;weighted image of each slice and used to generate a binary mask of the myocardium. The myocardium from each T<sub>1</sub> map was overlaid to the first T<sub>1</sub>&#x02010;weighted image to prevent any bias in the subjective analysis. Each resulting image was then rated using a 4&#x02010;point&#x02010;scale scoring system defined as: 1, nondiagnostic: artifacts in &#x0003e;50% of AHA (American Heart Association) myocardial segments<xref rid="jmri26869-bib-0024" ref-type="ref">24</xref>; 2, fair: artifacts in &#x0003e;1 segments and&#x02009;&#x02264;50% of segments; 3, good: artifacts in 1 segment; 4, excellent: no artifacts. Artifacts were defined as regions of inhomogeneous myocardial T<sub>1</sub> occurring in areas assessed to be normal tissue.</p></sec><sec id="jmri26869-sec-0029"><title>
+<italic>Quantitative assessment</italic>
+</title><p>All data were visually inspected to detect the presence of severe artifacts or motion among the T<sub>1</sub>&#x02010;weighted images. Slices with apparent severe artifacts in any of FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI were discarded from the quantitative analysis of all techniques in that specific subject. Native T<sub>1</sub> measures, spatial variability, and repeatability of the three techniques were calculated for each AHA myocardial segment.<xref rid="jmri26869-bib-0024" ref-type="ref">24</xref> Native T<sub>1</sub> measures were calculated as the interrepetition average of the T<sub>1</sub> mean in a given myocardial segment. Spatial variability was measured as the interrepetition average of the T<sub>1</sub> SD in a given myocardial segment. Repeatability was evaluated as the interrepetition absolute difference of the T<sub>1</sub> mean in a given myocardial segment. Subject&#x02010;wise T<sub>1</sub> measures, spatial variability, and repeatability were then computed by averaging the segmental values over all nondiscarded segments for each subject. Segment&#x02010;wise T<sub>1</sub> measures, spatial variability, and repeatability were also computed by averaging the nondiscarded segmental values over all subjects for each myocardial segment. Finally, intersegment variations of native T<sub>1</sub> measures, spatial variability, and repeatability were calculated as the average over all subjects of the intersegment SD of native T<sub>1</sub> measures, spatial variability, and repeatability, respectively.</p></sec></sec><sec id="jmri26869-sec-0030"><title>
+<italic>Patient Experiments</italic>
+</title><p>Seventeen consecutive patients (eleven males, 51&#x02009;&#x000b1;&#x02009;17 years) referred for cardiac MRI examination in our center were recruited. The clinical indication for the study included cardiomyopathy (twelve patients), assessment of volumes and function (two patients), assessment for aortopathy (two patients), and investigation of myocarditis (one patient). Native and postcontrast myocardial T<sub>1</sub> mapping were performed in the short&#x02010;axis orientation using FAST1 (15 contiguous slices covering the entire LV in three separated breathholds) and MOLLI (three slices in three separated breathholds, the same as the three central slices in the first slice group of FAST1). Imaging parameters were as described as in the healthy volunteer experiments. Thirteen of these patients (eight males, 51&#x02009;&#x000b1;&#x02009;17 years) received an injection of 0.1 mmol/kg of gadobutrol (Gadovist, Bayer Vital, Leverkusen, Germany) in which postcontrast T<sub>1</sub> mapping was also performed using FAST1 and MOLLI with the protocol described above.</p><sec id="jmri26869-sec-0031"><title>
+<italic>Qualitative assessment</italic>
+</title><p>Subjective assessment of map quality was performed for native T<sub>1</sub> maps as described above for the healthy volunteer study.</p></sec><sec id="jmri26869-sec-0032"><title>
+<italic>Quantitative assessment</italic>
+</title><p>Subject&#x02010;wise native and postcontrast T<sub>1</sub> measures were assessed using FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI, as described in the healthy volunteer study.</p></sec></sec></sec><sec id="jmri26869-sec-0033"><title>
+<italic>Statistical Analysis</italic>
+</title><p>Data are expressed as mean&#x02009;&#x000b1;&#x02009;SD. the Kruskal&#x02013;Wallis test was used to evaluate the null hypothesis that there is no difference in in vivo subjective map quality scores between FAST1&#x02010;BS, FAST&#x02010;IR, and MOLLI, with statistical significance defined at <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05. When the Kruskal&#x02013;Wallis test found statistical significance, Wilcoxon signed rank tests with Bonferroni correction were performed for each pair of techniques, with statistical significance threshold of <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05/3 = 0.0167. Interreader variability was assessed using a two&#x02010;way mixed single&#x02010;measure intraclass correlation coefficient (ICC).</p><p>A one&#x02010;way analysis of variance (ANOVA) test was used to evaluate the null hypothesis that there is no difference between the three techniques in terms of myocardial T<sub>1</sub> times in healthy volunteers, with statistical significance defined at <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05. When the ANOVA test found statistical significance, Student's <italic>t</italic>&#x02010;tests with Bonferroni correction were performed for each pair of techniques, with statistical significance threshold of <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05/3 = 0.0167. The same methodology was used for analysis of myocardial T<sub>1</sub> spatial variability and T<sub>1</sub> repeatability in healthy subjects, as well as for analysis of native and postcontrast myocardial T<sub>1</sub> times in patients.</p><p>Pearson correlation and Bland&#x02013;Altman analyses were also performed between each of the two FAST1 techniques and MOLLI in terms of subject&#x02010;wise native/postcontrast myocardial T<sub>1</sub> times. Bland&#x02013;Altman 95% limits of agreement were calculated as the mean difference between methods &#x000b1;1.96&#x02009;&#x000d7;&#x02009;(SD of differences).</p></sec></sec><sec id="jmri26869-sec-0034"><title>Results</title><sec id="jmri26869-sec-0035"><title>
+<italic>Reconstruction Time</italic>
+</title><p>For a single T<sub>1</sub> map with a matrix size of 256&#x02009;&#x000d7;&#x02009;256, T<sub>1</sub> map reconstruction of FAST1&#x02010;BS/FAST1&#x02010;IR took 6.5 sec using CPU implementation and 0.2 sec using GPU implementation. The reconstruction time of an entire FAST1&#x02010;BS/FAST1&#x02010;IR dataset (ie, five slices) was reduced from 31 sec using CPU implementation to 0.6 sec using GPU implementation. The reconstruction time of three FAST1&#x02010;BS/FAST1&#x02010;IR datasets for full LV coverage (ie, 15 slices in three slices groups) was reduced from 94 sec using CPU implementation to 1.4 sec using GPU implementation.</p></sec><sec id="jmri26869-sec-0036"><title>
+<italic>Monte Carlo Simulation</italic>
+</title><p>Fig. <xref rid="jmri26869-fig-0002" ref-type="fig">2</xref> shows the impact of T<sub>2</sub> on the T<sub>1</sub> accuracy and precision of FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI. FAST1&#x02010;BS led to higher accuracy (mean error: 0.2%) than FAST1&#x02010;IR (mean error: 6%) and MOLLI (mean error: 4%). All techniques were T<sub>2</sub>&#x02010;dependent. Over the entire studied range of T<sub>1</sub> and T<sub>2</sub> times, FAST1&#x02010;BS and FAST&#x02010;IR led to reduced precision with respect to MOLLI by factors of 1.7 and 1.5, respectively.</p><fig fig-type="Figure" xml:lang="en" id="jmri26869-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Accuracy and precision of FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI in numerical simulation. FAST1&#x02010;BS provided higher accuracy and reduced precision than FAST1&#x02010;IR and MOLLI. FAST1&#x02010;IR led to reduced accuracy and precision when compared with MOLLI. All techniques were T<sub>2</sub>&#x02010;dependent.</p></caption><graphic id="nlm-graphic-3" xlink:href="JMRI-51-492-g002"/></fig></sec><sec id="jmri26869-sec-0037"><title>
+<italic>Phantom Experiments</italic>
+</title><sec id="jmri26869-sec-1038"><sec id="jmri26869-sec-0038"><title>
+<italic>Experiment #1: Influences of T<sub>RD</sub> and R<sub>THK</sub></italic>
+</title><p>Maximum interslice T<sub>1</sub> variation (max(|&#x00394;<sub>SLICE</sub>T<sub>1</sub>|)) as a function of T<sub>RD</sub> and R<sub>THK</sub> is shown in Fig. <xref rid="jmri26869-fig-0003" ref-type="fig">3</xref>. For both FAST1&#x02010;BS and FAST1&#x02010;IR, large interslice T<sub>1</sub> variations of up to 62 msec were observed using a short T<sub>RD</sub> of 4 sec, while maximum interslice T<sub>1</sub> variations were substantially reduced to less than 11 msec for T<sub>RD</sub> exceeding 6 sec. For both techniques, large maximum interslice variations of up to 204 msec were observed using a large R<sub>THK</sub> of at least 7, while maximum interslice T<sub>1</sub> variations were substantially reduced to less than 11 msec for R<sub>THK</sub> not exceeding 4.</p><fig fig-type="Figure" xml:lang="en" id="jmri26869-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Slice crosstalk using different T<sub>RD</sub> and R<sub>THK</sub> using FAST1&#x02010;BS and FAST1&#x02010;IR in phantom. <bold>(a)</bold> Maximum interslice T<sub>1</sub> variations among all vials using different T<sub>RD</sub> from 4 sec to 10 sec and a fixed R<sub>THK</sub> of 4. With T<sub>RD</sub> exceeding 6 sec, maximum interslice T<sub>1</sub> variations were restricted to &#x0003c;13 msec. <bold>(b)</bold> Maximum interslice T<sub>1</sub> variations among all vials using different R<sub>THK</sub> from 2 to 8 and a fixed T<sub>RD</sub> of 6 sec. With R<sub>THK</sub> not exceeding 4, maximum interslice T<sub>1</sub> variations were restricted to &#x0003c;11 msec.</p></caption><graphic id="nlm-graphic-5" xlink:href="JMRI-51-492-g003"/></fig></sec><sec id="jmri26869-sec-0039"><title>
+<italic>Experiment #2: HR sensitivity</italic>
+</title><p>Mean T<sub>1</sub> variation across HRs obtained using FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI are shown in the <xref rid="jmri26869-supitem-0001" ref-type="supplementary-material">Supplementary Materials</xref>. All techniques demonstrated minimal HR dependence with mean T<sub>1</sub> variations across all HRs &#x0003c;13 msec for all vials and all techniques.</p></sec><sec id="jmri26869-sec-0040"><title>
+<italic>Experiment #3: Characterization of T<sub>1</sub> accuracy, spatial variability, and repeatability</italic>
+</title><p>T<sub>1</sub> accuracy, spatial variability, and repeatability of FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI are shown in Fig. <xref rid="jmri26869-fig-0004" ref-type="fig">4</xref>. FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI led to T<sub>1</sub> error of &#x02013;26&#x02009;&#x000b1;&#x02009;5 msec vs. &#x02013;73&#x02009;&#x000b1;&#x02009;53 msec vs. &#x02013;56&#x02009;&#x000b1; 36 msec (mean error: 4% vs. 9% vs. 7%), T<sub>1</sub> spatial variability of 9&#x02009;&#x000b1;&#x02009;6 msec vs. 8&#x02009;&#x000b1;&#x02009;4 msec vs. 6&#x02009;&#x000b1;&#x02009;4 msec (mean penalty factors of FAST1&#x02010;BS/IR with respect to MOLLI: 1.5/1.4) and T<sub>1</sub> repeatability of 1.6&#x02009;&#x000b1;&#x02009;0.8 msec vs. 1.4&#x02009;&#x000b1;&#x02009;0.6 msec vs. 0.8&#x02009;&#x000b1;&#x02009;0.3 msec, respectively.</p><fig fig-type="Figure" xml:lang="en" id="jmri26869-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>T<sub>1</sub> accuracy <bold>(a)</bold>, spatial variability <bold>(b)</bold>, and repeatability <bold>(c)</bold> of FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI in phantom. T<sub>1</sub> error was &#x02013;26&#x02009;&#x000b1;&#x02009;5 msec vs. &#x02013;73&#x02009;&#x000b1;&#x02009;53 msec vs. &#x02013;56&#x02009;&#x000b1;&#x02009;36 msec, T<sub>1</sub> spatial variability was 9&#x02009;&#x000b1;&#x02009;6 msec vs. 8&#x02009;&#x000b1;&#x02009;4 msec vs. 6&#x02009;&#x000b1;&#x02009;4 msec and T<sub>1</sub> repeatability was 2&#x02009;&#x000b1;&#x02009;1 msec vs. 1&#x02009;&#x000b1;&#x02009;1 msec vs. 1&#x02009;&#x000b1;&#x02009;0 msec, respectively.</p></caption><graphic id="nlm-graphic-7" xlink:href="JMRI-51-492-g004"/></fig></sec></sec></sec><sec id="jmri26869-sec-0041"><title>
+<italic>Healthy Volunteer Experiments</italic>
+</title><p>HR among all healthy volunteers was 66&#x02009;&#x000b1;&#x02009;9 bpm ([51,78] bpm). Breathhold length using FAST1 among all healthy volunteers was 12&#x02009;&#x000b1;&#x02009;1 sec. Example T<sub>1</sub> maps obtained using FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI in one healthy volunteer are shown in Fig. <xref rid="jmri26869-fig-0005" ref-type="fig">5</xref>. The three techniques provided similar visual map quality across all slices and myocardial segments. Over all subjects, no statistically significant differences were found between subjective map quality obtained using FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI for each reader (reader #1: 3.3&#x02009;&#x000b1;&#x02009;0.7 vs. 3.6&#x02009;&#x000b1;&#x02009;0.6 vs. 3.4&#x02009;&#x000b1;&#x02009;0.8, respectively, <italic>P</italic> = 0.48; reader #2: 3.4&#x02009;&#x000b1;&#x02009;0.7 vs. 3.6&#x02009;&#x000b1;&#x02009;0.5 vs. 3.6&#x02009;&#x000b1;&#x02009;0.6, respectively, <italic>P</italic> = 0.49; reader #3: 3.6&#x02009;&#x000b1;&#x02009;0.6 vs. 3.9&#x02009;&#x000b1;&#x02009;0.4 vs. 3.7&#x02009;&#x000b1;&#x02009;0.6, respectively, <italic>P</italic> = 0.23; ICC = 0.66).</p><fig fig-type="Figure" xml:lang="en" id="jmri26869-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Example native myocardial T<sub>1</sub> maps measured in one healthy volunteer using FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI. Each row for FAST1&#x02010;BS and FAST1&#x02010;IR represents one FAST1 acquisition in a separated breathhold. Both FAST1 techniques enabled the acquisition of 15 contiguous slices covering the entire left ventricle in the same time as the acquisition of three slices using MOLLI (ie, 3 breathholds). Note the blue rectangles indicate the three common slice locations in FAST1 and MOLLI.</p></caption><graphic id="nlm-graphic-9" xlink:href="JMRI-51-492-g005"/></fig><p>Among all healthy volunteers, no slices were excluded due to severe artifact level from the data analysis of FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI. Fig. <xref rid="jmri26869-fig-0006" ref-type="fig">6</xref> shows the comparison of the three techniques in terms of subject&#x02010;wise analysis of native myocardial T<sub>1</sub> times, spatial variability, and repeatability. Each technique led to different native myocardial T<sub>1</sub> times (FAST1&#x02010;BS: 1016&#x02009;&#x000b1;&#x02009;27 msec, FAST&#x02010;IR: 952&#x02009;&#x000b1;&#x02009;22 msec, MOLLI: 987&#x02009;&#x000b1;&#x02009;23 msec, <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.0001) and spatial variability (FAST1&#x02010;BS: 66&#x02009;&#x000b1;&#x02009;10 msec, FAST&#x02010;IR: 57&#x02009;&#x000b1;&#x02009;8 msec, MOLLI: 46&#x02009;&#x000b1;&#x02009;7 msec, <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001). Spatial variability increases of FAST1&#x02010;BS and FAST1&#x02010;IR with respect to MOLLI were by factors of 1.4 and 1.2, respectively. There were no statistically significant differences between all techniques in terms of T<sub>1</sub> repeatability (FAST1&#x02010;BS: 18&#x02009;&#x000b1;&#x02009;6 msec, FAST1&#x02010;IR: 16&#x02009;&#x000b1;&#x02009;5 msec, MOLLI: 14&#x02009;&#x000b1;&#x02009;5 msec, <italic>P</italic> = 0.18).</p><fig fig-type="Figure" xml:lang="en" id="jmri26869-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Native myocardial T<sub>1</sub> times <bold>(a)</bold>, spatial variability <bold>(b)</bold>, and repeatability <bold>(c)</bold> using FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI in healthy volunteers. Average (bar plots) and SD (error bars) over all healthy volunteers are presented. FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI provided different native myocardial T<sub>1</sub> times (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.0001). FAST1&#x02010;BS and FAST1&#x02010;IR led to higher spatial variability than MOLLI (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001). There were no statistically significant differences between all techniques for T<sub>1</sub> repeatability (<italic>P</italic> = 0.18).</p></caption><graphic id="nlm-graphic-11" xlink:href="JMRI-51-492-g006"/></fig><p>Myocardial segment&#x02010;based analysis is shown in Fig. <xref rid="jmri26869-fig-0007" ref-type="fig">7</xref>. There were no statistically significant differences between FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI in terms of segmental variations of native T<sub>1</sub> measures (31&#x02009;&#x000b1;&#x02009;9 msec vs. 25&#x02009;&#x000b1;&#x02009;7 msec vs. 24&#x02009;&#x000b1;&#x02009;8 msec, respectively, <italic>P</italic> = 0.20), segmental variations of T<sub>1</sub> spatial variability (13&#x02009;&#x000b1;&#x02009;2 msec vs. 11&#x02009;&#x000b1;&#x02009;2 msec vs. 12&#x02009;&#x000b1;&#x02009;4 msec, <italic>P</italic> = 0.32), and segmental variations of T<sub>1</sub> repeatability (13&#x02009;&#x000b1;&#x02009;6 msec vs. 11&#x02009;&#x000b1;&#x02009;5 msec vs. 11&#x02009;&#x000b1;&#x02009;6 msec, <italic>P</italic> = 0.58).</p><fig fig-type="Figure" xml:lang="en" id="jmri26869-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Segment&#x02010;wise native myocardial T<sub>1</sub> measures, spatial variability, and repeatability using FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI in healthy volunteers. There were no statistically significant differences between all techniques in terms of segmental variations of native T<sub>1</sub> measures (<italic>P</italic> = 0.20), spatial variability (<italic>P</italic> = 0.32), and repeatability (<italic>P</italic> = 0.58).</p></caption><graphic id="nlm-graphic-13" xlink:href="JMRI-51-492-g007"/></fig></sec><sec id="jmri26869-sec-0042"><title>
+<italic>Patient Experiments</italic>
+</title><p>HR among all patients was 68&#x02009;&#x000b1;&#x02009;12 bpm ([52,92] bpm). Breathhold length using FAST1 among all patients was 12&#x02009;&#x000b1;&#x02009;2 sec. Figs. <xref rid="jmri26869-fig-0008" ref-type="fig">8</xref> and <xref rid="jmri26869-fig-0009" ref-type="fig">9</xref> show example native and postcontrast T<sub>1</sub> maps obtained using FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI in a 31&#x02010;year&#x02010;old male patient admitted for suspected myocarditis. Over all patients, FAST1&#x02010;BS resulted in higher subjective map quality than MOLLI (reader #1: 3.7&#x02009;&#x000b1;&#x02009;0.5 vs. 3.4&#x02009;&#x000b1;&#x02009;0.8, <italic>P</italic> = 0.004; reader #2: 3.8&#x02009;&#x000b1;&#x02009;0.5 vs. 3.5&#x02009;&#x000b1;&#x02009;0.7, <italic>P</italic> = 0.002; reader #3: 3.4&#x02009;&#x000b1;&#x02009;0.8 vs. 3.2&#x02009;&#x000b1;&#x02009;0.8, <italic>P</italic> = 0.20), although these differences only reached statistical significances for readers #1 and #2. FAST1&#x02010;IR resulted in higher subjective map quality than MOLLI (reader #1: 3.7&#x02009;&#x000b1;&#x02009;0.5 vs. 3.4&#x02009;&#x000b1;&#x02009;0.8, <italic>P</italic> = 0.003; reader #2: 3.8&#x02009;&#x000b1;&#x02009;0.5 vs. 3.5&#x02009;&#x000b1;&#x02009;0.7, <italic>P</italic> = 0.006; reader #3: 3.6&#x02009;&#x000b1;&#x02009;0.6 vs. 3.2&#x02009;&#x000b1;&#x02009;0.8, <italic>P</italic> = 0.0005). The interreader ICC was 0.58.</p><fig fig-type="Figure" xml:lang="en" id="jmri26869-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Example native myocardial T<sub>1</sub> maps obtained using FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI in a 31&#x02010;year&#x02010;old male patient admitted for suspected myocarditis. Each row for FAST1&#x02010;BS and FAST1&#x02010;IR represents one FAST1 acquisition in a separated breathhold. Both FAST1 techniques enabled the acquisition of 15 contiguous slices covering the entire left ventricle in the same time as the acquisition of three slices using MOLLI (ie, three breathholds). Note that the blue rectangles indicate the three common slice locations in FAST1 and MOLLI.</p></caption><graphic id="nlm-graphic-15" xlink:href="JMRI-51-492-g008"/></fig><fig fig-type="Figure" xml:lang="en" id="jmri26869-fig-0009" orientation="portrait" position="float"><label>Figure 9</label><caption><p>Example postcontrast myocardial T<sub>1</sub> maps obtained using FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI in a 31&#x02010;year&#x02010;old male patient admitted for suspected myocarditis. Each row for FAST1&#x02010;BS and FAST1&#x02010;IR represents one FAST1 acquisition in a separated breathhold. Both FAST1 techniques enabled the acquisition of 15 contiguous slices covering the entire left ventricle in the same time as the acquisition of three slices using MOLLI (ie, three breathholds). Note the blue rectangles indicate the three common slice locations in FAST1 and MOLLI.</p></caption><graphic id="nlm-graphic-17" xlink:href="JMRI-51-492-g009"/></fig><p>No slices in FAST1&#x02010;BS and FAST1&#x02010;IR were found with a severe artifact level, while a total of eight slices in MOLLI were identified with severe respiratory motion artifacts (8.9% of 90 slices) and subsequently discarded for all techniques for the quantitative analysis. Native myocardial T<sub>1</sub> times using FAST1&#x02010;BS, FAST1&#x02010;IR, and MOLLI were 1057&#x02009;&#x000b1;&#x02009;50 msec, 987&#x02009;&#x000b1;&#x02009;42 msec, and 1036&#x02009;&#x000b1;&#x02009;39 msec, respectively (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.0001). On the other hand, there were no statistically significant differences between all techniques for postcontrast T<sub>1</sub> times (469&#x02009;&#x000b1;&#x02009;54 msec, 455&#x02009;&#x000b1;&#x02009;52 msec and 454&#x02009;&#x000b1;&#x02009;49 msec, respectively, <italic>P</italic> = 0.72).</p><p>Pearson correlation and Bland&#x02013;Altman analyses of subject&#x02010;wise native and postcontrast myocardial T<sub>1</sub> times (in healthy volunteers and patients) between FAST1&#x02010;BS and MOLLI as well as between FAST&#x02010;IR and MOLLI are shown in Fig. <xref rid="jmri26869-fig-0010" ref-type="fig">10</xref>. FAST1&#x02010;BS/FAST1&#x02010;IR were highly linearly correlated with MOLLI for both native and postcontrast myocardial T<sub>1</sub> estimates (Pearson correlation coefficient = 0.93/0.93 with <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001 for native and 0.98/0.98 with <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001 for postcontrast). For native myocardial T<sub>1</sub> estimates, FAST1&#x02010;BS and FAST1&#x02010;IR led to a bias of 24&#x02009;&#x000b1;&#x02009;18 msec and &#x02013;44&#x02009;&#x000b1;&#x02009;15 msec with respect to MOLLI, respectively, with a narrow width of 95% limits of agreement (70 msec and 59 msec, respectively). For postcontrast myocardial T<sub>1</sub> estimates, FAST1&#x02010;BS and FAST1&#x02010;IR led to a bias of 15&#x02009;&#x000b1;&#x02009;12 msec and 1&#x02009;&#x000b1;&#x02009;11 msec with respect to MOLLI, respectively, with a narrow width of 95% limits of agreement (46 msec and 45 msec, respectively).</p><fig fig-type="Figure" xml:lang="en" id="jmri26869-fig-0010" orientation="portrait" position="float"><label>Figure 10</label><caption><p>Pearson correlation and Bland&#x02013;Altman analyses between FAST&#x02010;BS and MOLLI <bold>(a,c)</bold> as well as between FAST1&#x02010;IR and MOLLI <bold>(b,d)</bold> for both native and postcontrast myocardial T<sub>1</sub> times measured in both healthy volunteers and patients. In Pearson correlation analysis plots, confidence interval (solid lines) and identity line (y = x, dashed line) are also plotted besides the linear regression line (solid line). FAST1&#x02010;BS and FAST1&#x02010;IR yielded highly linearly correlated T<sub>1</sub> times with MOLLI (Pearson correlation coefficient = 0.93 for native and 0.98 for postcontrast myocardial T<sub>1</sub> times).</p></caption><graphic id="nlm-graphic-19" xlink:href="JMRI-51-492-g010"/></fig></sec></sec><sec id="jmri26869-sec-0043"><title>Discussion</title><p>FAST1 enables multislice myocardial T<sub>1</sub> mapping in one breathhold and full LV coverage in three breathholds. Two FAST1 reconstructions were developed, characterized, and compared with MOLLI in simulation, phantom, healthy volunteers, and patients. The resulting native and postcontrast myocardial T<sub>1</sub> times obtained using FAST1&#x02010;BS/FAST1&#x02010;IR and MOLLI showed strong linear correlation. In comparison to MOLLI, FAST1&#x02010;BS/FAST1&#x02010;IR led to a 5&#x02010;fold increase of spatial coverage within the same time frame, limited precision penalty, and no statically significant difference of repeatability.</p><p>The sequence parameters T<sub>RD</sub> and R<sub>THK</sub> were optimized to ensure the robustness of the sequence in the presence of potential slice crosstalk due to cardiac/respiratory motion and imperfect slice profile with side lobes. T<sub>RD</sub> was optimized based on normal native myocardial T<sub>1</sub> times at 1.5T. The application of FAST1 at different field strengths or for different tissues of interest may require adjustment of this parameter. The optimized R<sub>THK</sub> was directly related to the employed imaging slice thickness and slice gap. In this work, R<sub>THK</sub> of 4, ie, an inversion slice thickness of 32 mm, was found suitable to account for elevated HR. A slice gap of twice the imaging slice thickness was used in this work to avoid gaps or overlaps between slice groups within different breathholds, as we aimed to achieve full LV coverage in three separated breathholds. This parameter should be carefully selected with respect to R<sub>THK</sub>, the employed imaging slice thickness, and the slice profile of the slice&#x02010;selective inversion pulse in order to avoid slice crosstalk. The development of a slice&#x02010;selective inversion pulse with improved slice profile could, however, increase the flexibility of the sequence with respect to these parameters.</p><p>In this work, 15 contiguous slices were acquired, which resulted in a spatial coverage of 120 mm in the long&#x02010;axis dimension. As most hearts are less than 100 mm in the long&#x02010;axis dimension, slightly reduced coverage may be sufficient for most patients. Although not directly demonstrated in this work, two different strategies could be envisioned to reduce spatial coverage. First, reduced slice thickness/slice gap of 7/14 mm could be used, leading to a total spatial coverage of 15&#x02009;&#x000d7;&#x02009;7 mm = 105 mm. Reducing the slice gap could increase the sensitivity of FAST1 to slice crosstalk. However, a small slice gap reduction of 2 mm (from 16 mm to 14 mm) as proposed in this alternative strategy is expected to have minimal impact on slice crosstalk. Reducing the spatial resolution would reduce the SNR in the T<sub>1</sub>&#x02010;weighted images, and thus the precision of T<sub>1</sub> estimates. However, the relative precision penalty of FAST1 with respect to MOLLI is expected to be SNR&#x02010;independent based on our previous work using a two&#x02010;heartbeat T<sub>1</sub> mapping scheme (see Ref. <xref rid="jmri26869-bib-0021" ref-type="ref">21</xref>, <xref rid="jmri26869-supitem-0001" ref-type="supplementary-material">Supplementary Material 6</xref>). Alternatively, reduced spatial coverage could be achieved by acquiring only four slices per FAST1 scan (instead of five), which would result in a total spatial coverage of 12&#x02009;&#x000d7;&#x02009;8 mm = 96 mm. This could be achieved by discarding the first two heartbeats (ie, slice #1), which would also shorten the required breathholds.</p><p>FAST1&#x02010;BS was more accurate than FAST&#x02010;IR and MOLLI, which is likely due to its more accurate modeling of the imaging pulses. FAST1&#x02010;BS was found to be HR&#x02010;independent. FAST1&#x02010;IR required the use of a novel HR correction approach to reduce its original HR&#x02010;dependence.<xref rid="jmri26869-bib-0021" ref-type="ref">21</xref> The HR correction designed for FAST1&#x02010;IR was calibrated using phantom data to provide a method easily translatable to a different scanner. Therefore, it is possible that this model may be suboptimal when applied in vivo. However, the high correlation between FAST1&#x02010;IR and MOLLI suggests that this correction performed relatively well. Furthermore, FAST1&#x02010;BS and FAST1&#x02010;IR may be sensitive to myocardial blood flow due to the use of slice&#x02010;selective inversion pulses.<xref rid="jmri26869-bib-0025" ref-type="ref">25</xref> As FAST1 and MOLLI use analogous acquisition schemes, FAST1&#x02010;BS and FAST1&#x02010;IR may also be sensitive to magnetization transfer, which was shown to be the main contributor for the underestimation of in vivo native myocardial T<sub>1</sub> time using MOLLI.<xref rid="jmri26869-bib-0026" ref-type="ref">26</xref> FAST1&#x02010;BS may thus have an advantage over FAST1&#x02010;IR, as it could enable the integration of the magnetization transfer effect in the creation of the signal dictionary.<xref rid="jmri26869-bib-0027" ref-type="ref">27</xref>
+</p><p>T<sub>1</sub> spatial variability is an important criterion for clinical applicability of any T<sub>1</sub> mapping technique. FAST&#x02010;IR led to an increase of T<sub>1</sub> spatial variability by a factor of 1.2 for in vivo native myocardial T<sub>1</sub> times when compared with MOLLI. This result is in the same order as those reported for the widely used ShMOLLI technique compared with MOLLI for native myocardial T<sub>1</sub> mapping at 1.5T.<xref rid="jmri26869-bib-0006" ref-type="ref">6</xref> Since ShMOLLI usually only considers the first five T<sub>1</sub>&#x02010;weighted images only for native myocardial T<sub>1</sub> setting, this suggests that long TI T<sub>1</sub>&#x02010;weighted images have reduced contributions to the precision of T<sub>1</sub> estimates due to their reduced T<sub>1</sub>&#x02010;weighted contrast. FAST1&#x02010;BS leads to slightly higher increase of T<sub>1</sub> spatial variability (by a factor of 1.4 when compared with MOLLI), but has higher accuracy, as discussed above.</p><p>Although FAST1 is based on inversion pulses, this sequence could be modified to use saturation pulses instead. Myocardial T<sub>1</sub> mapping using two images only and a saturation recovery approach has been previously proposed using the arrhythmia insensitive rapid (AIR) T<sub>1</sub> mapping technique, although this technique only enabled the acquisition of one T<sub>1</sub> map per breathhold.<xref rid="jmri26869-bib-0028" ref-type="ref">28</xref> A saturation recovery&#x02010;based FAST1 sequence could be developed using slice&#x02010;selective saturation pulses or the acquisition of all nonmagnetization prepared images at the beginning of the scan. Nevertheless, AIR was shown to considerably increase the spatial variability of native myocardial T<sub>1</sub> mapping by a factor of 2.5 when compared with MOLLI.<xref rid="jmri26869-bib-0029" ref-type="ref">29</xref> The proposed IR&#x02010;based FAST1 approach resulted in a limited increase of spatial variability for native myocardial T<sub>1</sub> mapping by a factor of 1.4 (FAST1&#x02010;BS) and 1.2 (FAST1&#x02010;IR) when compared with MOLLI. Furthermore, the HR&#x02010;independence of FAST1&#x02010;BS and FAST1&#x02010;IR also suggests their insensitivity to arrhythmia, as only two images are acquired per slice. Although not directly demonstrated in this study, these findings suggest that an IR&#x02010;based FAST1 approach may have substantial advantages over a saturation recovery&#x02010;based FAST1 approach.</p><p>In this work, only the short&#x02010;axis orientation was investigated to minimize the sensitivity to the partial volume effect compared with the other orientations. However, the short&#x02010;axis orientation is suboptimal for imaging at the apical level, and the use of an additional long&#x02010;axis slice may be beneficial if mapping of the apex is intended.</p><p>Motion correction was not performed for FAST1 and MOLLI. Since each T<sub>1</sub> map is reconstructed from only two images in FAST1 and eight images in MOLLI, it is possible than FAST1 provide better native image registration, which could have potentially explained the slightly reduced T<sub>1</sub> map quality of MOLLI with respect to FAST1 in patients. Existing image registration algorithms may provide different performance based on the number of T<sub>1</sub>&#x02010;weighted images and the presence of an in&#x02010;flow effect in the LV blood pool such as in FAST1. Therefore, to prevent any bias between the techniques induced by the choice of the image registration algorithm, this step was not applied in this work. Nevertheless, image registration algorithms were shown to improve myocardial T<sub>1</sub> map quality.<xref rid="jmri26869-bib-0030" ref-type="ref">30</xref>, <xref rid="jmri26869-bib-0031" ref-type="ref">31</xref> Therefore, the development of an image registration step in the FAST1 reconstruction will be investigated in future work.</p><p>FAST1 does not allow for quantification of blood T<sub>1</sub> times due to the in&#x02010;flow effect caused by the slice&#x02010;selective inversion pulse. Therefore, FAST1 cannot be directly applied for extracellular volume (ECV) quantification. The combination of FAST1 with an additional mid&#x02010;ventricular T<sub>1</sub> map acquired using nonselective inversion for blood T<sub>1</sub> quantification could enable multislice ECV mapping with FAST1 and will be investigated in future work.</p><p>This work was performed at 1.5T. Future work will investigate the feasibility of FAST1 at 3T with the potential benefit for scar assessment in patients with chronic myocardial infarction.<xref rid="jmri26869-bib-0005" ref-type="ref">5</xref> Due to the longer native myocardial T<sub>1</sub> times at 3T, a longer T<sub>RD</sub> may be necessary to achieve nearly full recovery of the longitudinal magnetization. The combination of FAST1 with a gradient recalled echo (GRE) readout could also be beneficial to reduce off&#x02010;resonance artifacts at higher fields.<xref rid="jmri26869-bib-0032" ref-type="ref">32</xref>, <xref rid="jmri26869-bib-0033" ref-type="ref">33</xref>
+</p><p>This work has several limitations. First, the approximation of the slice profile was approximated by one flip angle only. More advanced modeling could be considered in future work to better represent the nonlinear signal response to the flip angle.<xref rid="jmri26869-bib-0033" ref-type="ref">33</xref> Second, postcontrast myocardial T<sub>1</sub> mapping using FAST1 was not characterized in healthy volunteers. However, the phantom and patient experiments demonstrated the feasibility of postcontrast myocardial T<sub>1</sub> mapping using FAST1. Third, no statistical analysis was performed for the phantom study, as only six vials with realistic myocardial T<sub>1</sub> times were available, thus limiting the available power. However, the trend observed in the phantom experiments was confirmed in both numerical simulations and in vivo studies. Finally, the patient study was used for studying feasibility. Further studies in larger patient cohorts are now warranted.</p><p>In conclusion, FAST1 enables myocardial T<sub>1</sub> mapping with full LV coverage in three separated breathholds. In comparison with MOLLI, FAST1&#x02010;BS and FAST1&#x02010;IR yield a 5&#x02010;fold increase of spatial coverage, limited penalty of T<sub>1</sub> precision/spatial variability, no significant difference of T<sub>1</sub> repeatability, and highly correlated T<sub>1</sub> times. FAST1&#x02010;IR provides improved T<sub>1</sub> precision/spatial variability but reduced accuracy when compared with FAST1&#x02010;BS.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jmri26869-supitem-0001"><caption><p>
+<bold>Appendix S1</bold>: Supplementary Materials</p></caption><media xlink:href="JMRI-51-492-s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jmri26869-sec-0100"><title>Acknowledgment</title><p>Contract grant sponsor Health Innovation Challenge Fund; Contract grant number: HICF&#x02010;R10&#x02010;698; Contract grant sponsor: a parallel funding partnership between the Department of Health and the Wellcome Trust, the Wellcome Engineering and Physical Sciences Research Council (EPSRC) Centre for Medical Engineering at King's College London; Contract grant number: WT 203148/Z/16/Z; Contract grant sponsor: EPSRC; Contract grant number: EP/R010935/1; Contract grant sponsor: National Institute for Health Research (NIHR) Biomedical Research Centre award to Guy's and St Thomas' National Health Service (NHS) Foundation Trust in partnership with King's College London, and by the NIHR Healthcare Technology Co&#x02010;operative for Cardiovascular Disease at Guy's and St Thomas' NHS Foundation Trust.</p></ack><ref-list id="jmri26869-bibl-0001" content-type="cited-references"><title>References</title><ref id="jmri26869-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jmri26869-cit-0001">
+<string-name>
+<surname>Moon</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Messroghli</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Kellman</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Myocardial T1 mapping and extracellular volume quantification: A Society for Cardiovascular Magnetic Resonance (SCMR) and CMR Working Group of the European Society of Cardiology consensus statement</article-title>. <source xml:lang="en">J Cardiovasc Magn Reson</source>
+<year>2013</year>;<volume>15</volume>:<fpage>92</fpage>.<pub-id pub-id-type="pmid">24124732</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jmri26869-cit-0002">
+<string-name>
+<surname>Messroghli</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Radjenovic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kozerke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Higgins</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Sivananthan</surname>
+<given-names>MU</given-names>
+</string-name>, <string-name>
+<surname>Ridgway</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Modified Look&#x02010;Locker inversion recovery (MOLLI) for high&#x02010;resolution T1 mapping of the heart</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2004</year>;<volume>52</volume>:<fpage>141</fpage>&#x02013;<lpage>146</lpage>.<pub-id pub-id-type="pmid">15236377</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jmri26869-cit-0003">
+<string-name>
+<surname>Kato</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nakamori</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bellm</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Myocardial native T1 time in patients with hypertrophic cardiomyopathy</article-title>. <source xml:lang="en">Am J Cardiol</source>
+<year>2016</year>;<volume>118</volume>:<fpage>1057</fpage>&#x02013;<lpage>1062</lpage>.<pub-id pub-id-type="pmid">27567135</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jmri26869-cit-0004">
+<string-name>
+<surname>Messroghli</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Walters</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Plein</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Myocardial T1 mapping: Application to patients with acute and chronic myocardial infarction</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2007</year>;<volume>58</volume>:<fpage>34</fpage>&#x02013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">17659622</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jmri26869-cit-0005">
+<string-name>
+<surname>Kali</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>EY</given-names>
+</string-name>, <string-name>
+<surname>Sharif</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Native T1 mapping by 3&#x02010;T CMR imaging for characterization of chronic myocardial infarctions</article-title>. <source xml:lang="en">JACC Cardiovasc Imaging</source>
+<year>2015</year>;<volume>8</volume>:<fpage>1019</fpage>&#x02013;<lpage>1030</lpage>.<pub-id pub-id-type="pmid">26298071</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jmri26869-cit-0006">
+<string-name>
+<surname>Piechnik</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Dall'Armellina</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Shortened modified Look&#x02010;Locker inversion recovery (ShMOLLI) for clinical myocardial T1&#x02010;mapping at 1.5 and 3 T within a 9 heartbeat breathhold</article-title>. <source xml:lang="en">J Cardiovasc Magn Reson</source>
+<year>2010</year>;<volume>12</volume>:<fpage>69</fpage>.<pub-id pub-id-type="pmid">21092095</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jmri26869-cit-0007">
+<string-name>
+<surname>Chow</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Flewitt</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Pagano</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Friedrich</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>RB</given-names>
+</string-name>. <article-title>Saturation recovery single&#x02010;shot acquisition (SASHA) for myocardial T(1) mapping</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2014</year>;<volume>71</volume>:<fpage>2082</fpage>&#x02013;<lpage>2095</lpage>.<pub-id pub-id-type="pmid">23881866</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jmri26869-cit-0008">
+<string-name>
+<surname>Weingartner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Akcakaya</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Basha</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Combined saturation/inversion recovery sequences for improved evaluation of scar and diffuse fibrosis in patients with arrhythmia or heart rate variability</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2014</year>;<volume>71</volume>:<fpage>1024</fpage>&#x02013;<lpage>1034</lpage>.<pub-id pub-id-type="pmid">23650078</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jmri26869-cit-0009">
+<string-name>
+<surname>Roujol</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Weing&#x000e4;rtner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Foppa</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Accuracy, precision, and reproducibility of four T1 mapping sequences: A head&#x02010;to&#x02010;head comparison of MOLLI, ShMOLLI, SASHA, and SAPPHIRE</article-title>. <source xml:lang="en">Radiology</source>
+<year>2014</year>;<volume>272</volume>:<fpage>683</fpage>&#x02013;<lpage>689</lpage>.<pub-id pub-id-type="pmid">24702727</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jmri26869-cit-0010">
+<string-name>
+<surname>Teixeira</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hafyane</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Stikov</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Comparison of different cardiovascular magnetic resonance sequences for native myocardial T1 mapping at 3T</article-title>. <source xml:lang="en">J Cardiovasc Magn Reson</source>
+<year>2016</year>;<volume>18</volume>:<fpage>65</fpage>.<pub-id pub-id-type="pmid">27716344</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jmri26869-cit-0011">
+<string-name>
+<surname>Kellman</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>T1&#x02010;mapping in the heart: Accuracy and precision</article-title>. <source xml:lang="en">J Cardiovasc Magn Reson</source>
+<year>2014</year>;<volume>16</volume>:<issue>2</issue>.</mixed-citation></ref><ref id="jmri26869-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jmri26869-cit-0012">
+<string-name>
+<surname>Weing&#x000e4;rtner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Me&#x000df;ner</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Budjan</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Myocardial T 1&#x02010;mapping at 3T using saturation&#x02010;recovery: Reference values, precision and comparison with MOLLI</article-title>. <source xml:lang="en">J Cardiovasc Magn Reson</source>
+<year>2017</year>;<volume>18</volume>:<fpage>84</fpage>.</mixed-citation></ref><ref id="jmri26869-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jmri26869-cit-0013">
+<string-name>
+<surname>Kvernby</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Warntjes</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Haraldsson</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Carlhall</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Engvall</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ebbers</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Simultaneous three&#x02010;dimensional myocardial T1 and T2 mapping in one breath hold with 3D&#x02010;QALAS</article-title>. <source xml:lang="en">J Cardiovasc Magn Reson</source>
+<year>2014</year>;<volume>16</volume>:<fpage>102</fpage>.<pub-id pub-id-type="pmid">25526880</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jmri26869-cit-0014">
+<string-name>
+<surname>Coniglio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Di Renzi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Vilches Freixas</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Multiple 3D inversion recovery imaging for volume T1 mapping of the heart</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2013</year>;<volume>69</volume>:<fpage>163</fpage>&#x02013;<lpage>170</lpage>.<pub-id pub-id-type="pmid">22488966</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jmri26869-cit-0015">
+<string-name>
+<surname>Clique</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>HLM</given-names>
+</string-name>, <string-name>
+<surname>Marie</surname>
+<given-names>PY</given-names>
+</string-name>, <string-name>
+<surname>Felblinger</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Beaumont</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>3D myocardial T1 mapping at 3T using variable flip angle method: Pilot study</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2014</year>;<volume>71</volume>:<fpage>823</fpage>&#x02013;<lpage>829</lpage>.<pub-id pub-id-type="pmid">23440632</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jmri26869-cit-0016">
+<string-name>
+<surname>Weing&#x000e4;rtner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Roujol</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ak&#x000e7;akaya</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Basha</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Nezafat</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Free&#x02010;breathing multislice native myocardial T1 mapping using the slice&#x02010;interleaved T1 (STONE) sequence</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2015</year>;<volume>74</volume>:<fpage>115</fpage>&#x02013;<lpage>124</lpage>.<pub-id pub-id-type="pmid">25131652</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jmri26869-cit-0017">
+<string-name>
+<surname>Nordio</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Henningsson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Chiribiri</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Villa</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Botnar</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>3D myocardial T1 mapping using saturation recovery</article-title>. <source xml:lang="en">J Magn Reson Imaging</source>
+<year>2017</year>;<volume>46</volume>:<fpage>218</fpage>&#x02013;<lpage>227</lpage>.<pub-id pub-id-type="pmid">28152227</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jmri26869-cit-0018">
+<string-name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lo</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Hamilton</surname>
+<given-names>JI</given-names>
+</string-name>, et al. <article-title>Single breath&#x02010;hold 3D cardiac T1 mapping using through&#x02010;time spiral GRAPPA</article-title>. <source xml:lang="en">NMR Biomed</source>
+<year>2018</year>;<volume>31</volume>:<elocation-id>e3923</elocation-id>.<pub-id pub-id-type="pmid">29637637</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jmri26869-cit-0019">
+<string-name>
+<surname>Guo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Herzka</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Three&#x02010;dimensional free breathing whole heart cardiovascular magnetic resonance T 1 mapping at 3 T</article-title>. <source xml:lang="en">J Cardiovasc Magn Reson</source>
+<year>2018</year>;<volume>20</volume>:<fpage>64</fpage>.<pub-id pub-id-type="pmid">30220254</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jmri26869-cit-0020">
+<string-name>
+<surname>Mehta</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Bilchick</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Salerno</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Epstein</surname>
+<given-names>FH</given-names>
+</string-name>. <article-title>Accelerated and navigator&#x02010;gated look&#x02010;locker imaging for cardiac t1 estimation (ANGIE): Development and application to T1 mapping of the right ventricle</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2015</year>;<volume>73</volume>:<fpage>150</fpage>&#x02013;<lpage>160</lpage>.<pub-id pub-id-type="pmid">24515952</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jmri26869-cit-0021">
+<string-name>
+<surname>Huang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Neji</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nazir</surname>
+<given-names>MS</given-names>
+</string-name>, et al. <article-title>Fast myocardial T1 mapping using shortened inversion recovery based schemes</article-title>. <source xml:lang="en">Journal of Magnetic Resonance Imaging</source>
+<year>2019</year> [Epub ahead of print].</mixed-citation></ref><ref id="jmri26869-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jmri26869-cit-0022">
+<string-name>
+<surname>Xue</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Greiser</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zuehlsdorff</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Phase&#x02010;sensitive inversion recovery for myocardial T1 mapping with motion correction and parametric fitting</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2013</year>;<volume>69</volume>:<fpage>1408</fpage>&#x02013;<lpage>1420</lpage>.<pub-id pub-id-type="pmid">22736380</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jmri26869-cit-0023">
+<string-name>
+<surname>Captur</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Gatehouse</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Keenan</surname>
+<given-names>KE</given-names>
+</string-name>, et al. <article-title>A medical device&#x02010;grade T1 and ECV phantom for global T1 mapping quality assurance&#x02014;The T1 Mapping and ECV Standardization in cardiovascular magnetic resonance (T1MES) program</article-title>. <source xml:lang="en">J Cardiovasc Magn Reson</source>
+<year>2016</year>;<volume>18</volume>:<fpage>58</fpage>.<pub-id pub-id-type="pmid">27660042</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jmri26869-cit-0024">
+<string-name>
+<surname>Cerqueira</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Weissman</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Dilsizian</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>American Heart Association Writing Group on Myocardial S, Registration for Cardiac I. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on</article-title>
+<source xml:lang="en">Clinical Cardiology of the American Heart Association. Circulation</source>
+<year>2002</year>;<volume>105</volume>:<fpage>539</fpage>&#x02013;<lpage>542</lpage>.<pub-id pub-id-type="pmid">11815441</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jmri26869-cit-0025">
+<string-name>
+<surname>Keith</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Rodgers</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name>
+<surname>Chappell</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Robson</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>A Look&#x02010;Locker acquisition scheme for quantitative myocardial perfusion imaging with FAIR arterial spin labeling in humans at 3 Tesla</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2017</year>;<volume>78</volume>:<fpage>541</fpage>&#x02013;<lpage>549</lpage>.<pub-id pub-id-type="pmid">27604183</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jmri26869-cit-0026">
+<string-name>
+<surname>Robson</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Piechnik</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Tunnicliffe</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Neubauer</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>T1 measurements in the human myocardium: The effects of magnetization transfer on the SASHA and MOLLI sequences</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2013</year>;<volume>70</volume>:<fpage>664</fpage>&#x02013;<lpage>670</lpage>.<pub-id pub-id-type="pmid">23857710</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jmri26869-cit-0027">
+<string-name>
+<surname>Malik</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Teixeira</surname>
+<given-names>RPA</given-names>
+</string-name>, <string-name>
+<surname>Hajnal</surname>
+<given-names>JV</given-names>
+</string-name>. <article-title>Extended phase graph formalism for systems with magnetization transfer and exchange</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2018</year>;<volume>80</volume>:<fpage>767</fpage>&#x02013;<lpage>779</lpage>.<pub-id pub-id-type="pmid">29243295</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jmri26869-cit-0028">
+<string-name>
+<surname>Fitts</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Breton</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kholmovski</surname>
+<given-names>EG</given-names>
+</string-name>, et al. <article-title>Arrhythmia insensitive rapid cardiac T1 mapping pulse sequence</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2013</year>;<volume>70</volume>:<fpage>1274</fpage>&#x02013;<lpage>1282</lpage>.<pub-id pub-id-type="pmid">23280998</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jmri26869-cit-0029">
+<string-name>
+<surname>Hong</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>MOLLI and AIR T1 mapping pulse sequences yield different myocardial T1 and ECV measurements</article-title>. <source xml:lang="en">NMR Biomed</source>
+<year>2014</year>;<volume>27</volume>:<fpage>1419</fpage>&#x02013;<lpage>1426</lpage>.<pub-id pub-id-type="pmid">25323070</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jmri26869-cit-0030">
+<string-name>
+<surname>Xue</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Greiser</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Motion correction for myocardial T1 mapping using image registration with synthetic image estimation</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2012</year>;<volume>67</volume>:<fpage>1644</fpage>&#x02013;<lpage>1655</lpage>.<pub-id pub-id-type="pmid">22135227</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jmri26869-cit-0031">
+<string-name>
+<surname>Roujol</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Foppa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Weingartner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Manning</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Nezafat</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Adaptive registration of varying contrast&#x02010;weighted images for improved tissue characterization (ARCTIC): Application to T1 mapping</article-title>. <source xml:lang="en">Magn Reson Med</source>
+<year>2015</year>;<volume>73</volume>:<fpage>1469</fpage>&#x02013;<lpage>1482</lpage>.<pub-id pub-id-type="pmid">24798588</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jmri26869-cit-0032">
+<string-name>
+<surname>Jang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bellm</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Roujol</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Comparison of spoiled gradient echo and steady&#x02010;state free&#x02010;precession imaging for native myocardial T1 mapping using the slice&#x02010;interleaved T1 mapping (STONE) sequence</article-title>. <source xml:lang="en">NMR Biomed</source>
+<year>2016</year>;<volume>29</volume>:<fpage>1486</fpage>&#x02013;<lpage>1496</lpage>.<pub-id pub-id-type="pmid">27658506</pub-id></mixed-citation></ref><ref id="jmri26869-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jmri26869-cit-0033">
+<string-name>
+<surname>Shao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rapacchi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Myocardial T1 mapping at 3.0 tesla using an inversion recovery spoiled gradient echo readout and Bloch equation simulation with slice profile correction (BLESSPC) T1 estimation algorithm</article-title>. <source xml:lang="en">J Magn Reson Imaging</source>
+<year>2016</year>;<volume>43</volume>:<fpage>414</fpage>&#x02013;<lpage>425</lpage>.<pub-id pub-id-type="pmid">26214152</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,1241 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Stem Cells Transl Med</journal-id><journal-id journal-id-type="iso-abbrev">Stem Cells Transl Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2157-6580</journal-id><journal-id journal-id-type="publisher-id">SCT3</journal-id><journal-title-group><journal-title>Stem Cells Translational Medicine</journal-title></journal-title-group><issn pub-type="ppub">2157-6564</issn><issn pub-type="epub">2157-6580</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31647191</article-id><article-id pub-id-type="pmc">6954712</article-id><article-id pub-id-type="doi">10.1002/sctm.19-0205</article-id><article-id pub-id-type="publisher-id">SCT312618</article-id><article-categories><subj-group subj-group-type="overline"><subject>Concise Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Concise Review</subject></subj-group></article-categories><title-group><article-title>Mesenchymal stem cell&#x02010;derived extracellular vesicles for the treatment of acute respiratory distress syndrome</article-title><alt-title alt-title-type="right-running-head">MSC extracellular vesicles in ARDS</alt-title><alt-title alt-title-type="left-running-head">Abraham and Krasnodembskaya</alt-title></title-group><contrib-group><contrib id="sct312618-cr-0001" contrib-type="author"><name><surname>Abraham</surname><given-names>Aswin</given-names></name><xref ref-type="aff" rid="sct312618-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312618-cr-0002" contrib-type="author" corresp="yes"><name><surname>Krasnodembskaya</surname><given-names>Anna</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2380-5069</contrib-id><xref ref-type="aff" rid="sct312618-aff-0001">
+<sup>1</sup>
+</xref><address><email>a.krasnodembskaya@qub.ac.uk</email></address></contrib></contrib-group><aff id="sct312618-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Wellcome&#x02010;Wolfson Institute for Experimental Medicine</named-content>
+<institution>Queen's University of Belfast</institution>
+<city>Belfast</city>
+<country country="GB">United Kingdom</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Anna Krasnodembskaya, PhD, Wellcome&#x02010;Wolfson Institute for Experimental Medicine Queen's University Belfast, 97 Lisburn road, Belfast, UK, BT9 7BL.<break/>
+Email: <email>a.krasnodembskaya@qub.ac.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>10</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>9</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/sct3.v9.1</issue-id><fpage>28</fpage><lpage>38</lpage><history><date date-type="received"><day>08</day><month>7</month><year>2019</year></date><date date-type="accepted"><day>26</day><month>9</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 AlphaMed Press <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <sc>stem cells translational medicine</sc> published by Wiley Periodicals, Inc. on behalf of AlphaMed Press</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:SCT3-9-28.pdf"/><abstract><title>Abstract</title><p>Acute respiratory distress syndrome (ARDS) is a serious and potentially fatal acute inflammatory lung condition which currently has no specific treatments targeting its pathophysiology. However, mesenchymal stem cells have been shown to have very promising therapeutic potential, and recently, it has been established that their effect is largely due to the transfer of extracellular vesicles (EVs). EVs have been shown to transfer a variety of substances such as mRNA, miRNA, and even organelles such as mitochondria in order to ameliorate ARDS in preclinical models. In addition, the fact that they have been proven to have the same effect as their parent cells combined with their numerous advantages over whole cell administration means that they are a promising candidate for clinical application that merits further research.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="sct312618-kwd-0001">cellular therapy</kwd><kwd id="sct312618-kwd-0002">clinical translation</kwd><kwd id="sct312618-kwd-0003">mesenchymal stem cells (MSCs)</kwd><kwd id="sct312618-kwd-0004">respiratory tract</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>UK Medical Research Council </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000265</institution-id></institution-wrap></funding-source><award-id>MR/R025096</award-id><award-id>MR/S009426/1</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="1"/><page-count count="11"/><word-count count="9888"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:13.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="sct312618-cit-9001">
+<string-name>
+<surname>Abraham</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Krasnodembskaya</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Mesenchymal stem cell&#x02010;derived extracellular vesicles for the treatment of acute respiratory distress syndrome</article-title>. <source xml:lang="en">STEM CELLS Transl Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>28</fpage>&#x02013;<lpage>38</lpage>. <pub-id pub-id-type="doi">10.1002/sctm.19-0205</pub-id>
+<pub-id pub-id-type="pmid">31647191</pub-id></mixed-citation>
+</p><fn-group><fn id="sct312618-note-1002"><p>
+<bold>Funding information</bold> UK Medical Research Council, Grant/Award Numbers: MR/R025096, MR/S009426/1</p></fn></fn-group></notes></front><body id="sct312618-body-0001"><p>
+<boxed-text position="anchor" content-type="box" id="sct312618-blkfxd-0001" orientation="portrait"><caption><title>Significance statement</title></caption><p>Extracellular vesicles (EVs) are being actively explored as an alternative to whole&#x02010;cell therapy. Acute respiratory distress syndrome is a devastating clinical condition with high mortality rate and no pharmacological treatment; therefore, novel therapies for this condition are critically needed. This review discusses preclinical studies where the therapeutic potential of mesenchymal stem cell (MSC) EVs was investigated in models of lung injury. Evidence suggests that MSC EVs demonstrate potent protective effects mediated through a variety of mechanisms related to the transfer of EVs cargo to the recipient cells. Further research into the mechanism of action, biodistribution, standardization, and biomanufacturing is needed to facilitate clinical translation of this exciting new cell therapy product.</p></boxed-text>
+</p><sec id="sct312618-sec-0003"><label>1</label><title>INTRODUCTION</title><sec id="sct312618-sec-0004"><label>1.1</label><title>Acute respiratory distress syndrome</title><p>Acute respiratory distress syndrome (ARDS) was first described in 1967 but its definition has changed over time<xref rid="sct312618-bib-0001" ref-type="ref">1</xref> with it currently being defined by the Berlin definition, which splits it into three severity levels: mild, moderate, and severe.<xref rid="sct312618-bib-0002" ref-type="ref">2</xref>
+</p><p>Worldwide, ARDS affects approximately 3 million people each year and makes up 24% of all patients being ventilated mechanically in intensive care units.<xref rid="sct312618-bib-0003" ref-type="ref">3</xref> Currently, the 60&#x02010;day mortality rate stands at 32%<xref rid="sct312618-bib-0004" ref-type="ref">4</xref> and even for survivors, their long&#x02010;term quality of life and ability to do exercise is reduced. In addition, many survivors also suffer from neuropsychological deterioration.<xref rid="sct312618-bib-0005" ref-type="ref">5</xref>
+</p><p>Although sepsis and pneumonia are the most common causes, ARDS can be initiated by a variety of other factors such as aspiration of gastric contents.<xref rid="sct312618-bib-0006" ref-type="ref">6</xref>
+</p><p>ARDS pathophysiology is underpinned by an acute pro&#x02010;inflammatory response accompanied by damage to the alveolar epithelial&#x02010;endothelial barrier, resulting in the accumulation of protein&#x02010;rich oedema fluid in the alveoli which in turn leads to an impairment in gas exchange, leading to hypoxemia.<xref rid="sct312618-bib-0007" ref-type="ref">7</xref>
+</p><p>Despite being such a serious illness with a large rate of incidence, treatment is limited to supportive measures, with no treatments directly targeting the pathophysiology of ARDS. Today, the most commonly used therapy involves mechanical ventilation as its foundation. This is combined with fluid management using diuretics to alleviate the buildup of oedema in the lungs and the patient is often placed in the prone position as this has been shown to improve oxygen perfusion in the lungs.<xref rid="sct312618-bib-0008" ref-type="ref">8</xref>
+</p><p>Recently, ARDS has been recognized as a heterogeneous syndrome characterized by subphenotypes with distinct clinical, radiographic, and biologic differences, distinct outcomes, and potentially distinct responses to therapy. Biologic subphenotypes or endo&#x02010;types have been identified using plasma biomarkers, genetics, and unbiased approaches such as latent class analysis.<xref rid="sct312618-bib-0009" ref-type="ref">9</xref> It is this heterogeneity that is hypothesized to underlie many failures in translation of promising preclinical therapeutics to patient populations. Recently, two distinct subphenotypes have been identified within ARDS by Calfee et al, using latent class modeling in previously conducted ARDS randomized controlled trials. The subphenotypes have been termed hyperinflammatory and hypoinflammatory.<xref rid="sct312618-bib-0010" ref-type="ref">10</xref> The hyperinflammatory subphenotype is present in around 30% of ARDS cases and is indicated by factors such as raised levels of inflammatory biomarkers, higher prevalence of vasopressor usage and lower levels of serum bicarbonate. In addition, the hyperinflammatory subphenotype is marked by higher rates of sepsis as well as a higher mortality rate.<xref rid="sct312618-bib-0010" ref-type="ref">10</xref>
+</p><p>After the existence of the subphenotypes was established, several large ARDS RC trials have been retrospectively analyzed, taking into account the presence of subphenotypes, and this has led to differences being observed in the responses to treatment between the phenotypes. For example, the preliminary study which established the subphenotypes found that low positive end&#x02010;expiratory pressure (PEEP) gave better results for mortality than high PEEP in the hypoinflammatory subphenotype whereas high PEEP gave better results in the hyperinflammatory subphenotype in the ALVEOLI trial.<xref rid="sct312618-bib-0010" ref-type="ref">10</xref> This was despite the original analysis of the trial showing no benefit to mortality.<xref rid="sct312618-bib-0011" ref-type="ref">11</xref>
+</p><p>Further post hoc analysis of the FACCT trial<xref rid="sct312618-bib-0012" ref-type="ref">12</xref> has also shown significant differences in responses between phenotypes to liberal and conservative fluid management strategies.<xref rid="sct312618-bib-0013" ref-type="ref">13</xref> In addition, although the HARP&#x02010;2 study had previously found no significant difference in 28&#x02010;day survival in ARDS between a placebo and simvastatin,<xref rid="sct312618-bib-0014" ref-type="ref">14</xref> reanalysis incorporating subphenotypes found that simvastatin led to significantly higher 28&#x02010;day survival in the hyperinflammatory subphenotype.<xref rid="sct312618-bib-0015" ref-type="ref">15</xref>
+</p><p>The potential of precision medicine lies in identifying novel therapeutics aimed at the subpopulation within ARDS most likely to respond and new therapies should be developed in the view of these findings.</p></sec><sec id="sct312618-sec-0005"><label>1.2</label><title>Mesenchymal stem cells (MSCs) in ARDS</title><p>MSCs&#x02010;based therapy is considered as a promising approach for ARDS because of their ability to target major aspects of ARDS pathophysiology.</p><p>When used in preclinical models of ARDS, MSCs have been shown to greatly reduce inflammation and while the mechanism behind this is still not known precisely, it is known that MSCs reduce the levels of many pro&#x02010;inflammatory cytokines such as TNF&#x02010;&#x003b1;, IL&#x02010;1&#x003b2;, and IL&#x02010;6 while increasing the levels of cytokines which reduce inflammation like IL&#x02010;4, IL&#x02010;5, and IL&#x02010;10.<xref rid="sct312618-bib-0016" ref-type="ref">16</xref> In addition, MSCs promote bacterial clearance both directly by secreting antimicrobial peptides and proteins such as LL&#x02010;37<xref rid="sct312618-bib-0017" ref-type="ref">17</xref> and lipocalin<xref rid="sct312618-bib-0018" ref-type="ref">18</xref> as well as indirectly by activating host monocytes, macrophages and neutrophils which then phagocytose the bacteria.<xref rid="sct312618-bib-0019" ref-type="ref">19</xref>, <xref rid="sct312618-bib-0020" ref-type="ref">20</xref>, <xref rid="sct312618-bib-0021" ref-type="ref">21</xref>, <xref rid="sct312618-bib-0022" ref-type="ref">22</xref>, <xref rid="sct312618-bib-0023" ref-type="ref">23</xref>, <xref rid="sct312618-bib-0024" ref-type="ref">24</xref> Their secretion of substances such as keratinocyte growth factor (KGF) has been shown to be essential in alveolar fluid clearance and restoration of epithelial permeability.<xref rid="sct312618-bib-0019" ref-type="ref">19</xref>, <xref rid="sct312618-bib-0025" ref-type="ref">25</xref> For further information about the properties of MSCs in ARDS, consider consulting the reviews by Johnson et al<xref rid="sct312618-bib-0016" ref-type="ref">16</xref> and Walter et al.<xref rid="sct312618-bib-0026" ref-type="ref">26</xref>
+</p><p>Due to these therapeutic effects, MSCs are being actively developed toward clinical application. MSCs have been shown to be safe in early phase clinical trials such as the START trial phase 1 and 2a.<xref rid="sct312618-bib-0027" ref-type="ref">27</xref>, <xref rid="sct312618-bib-0028" ref-type="ref">28</xref> In addition, a study known as MUST&#x02010;ARDS conducted by Athersys Inc. with a patented bone marrow derived adult multipotent progenitor cell product named &#x0201c;MultiStem&#x0201d; found a lowering of 28&#x02010;day mortality and an increase in both ventilator and ICU free days using the treatment.<xref rid="sct312618-bib-0029" ref-type="ref">29</xref> As well as these, the parallel trial, REALIST studying the administration of umbilical cord derived mesenchymal stem cells in ARDS is currently at the recruitment stage for phase 1 (NCT03042143).</p><p>MSCs have been proven to have an immunomodulatory effect through multiple mechanisms.<xref rid="sct312618-bib-0030" ref-type="ref">30</xref> Although initially, it was thought that they would promote regeneration of the injured lung tissue through engraftment and trans&#x02010;differentiation, now it has become apparent that engraftment plays little to no role in their therapeutic action.<xref rid="sct312618-bib-0031" ref-type="ref">31</xref>
+</p><p>However, it is known that they modulate host cells through direct cell&#x02010;to&#x02010;cell interactions and through the release of paracrine factors including biologically active agents such as KGF,<xref rid="sct312618-bib-0025" ref-type="ref">25</xref> indoleamine 2,3&#x02010;dihydrogenase,<xref rid="sct312618-bib-0032" ref-type="ref">32</xref> and prostaglandin E2.<xref rid="sct312618-bib-0033" ref-type="ref">33</xref> Accumulating evidence suggests that one of the most important effectors in paracrine mechanisms of MSC effect are extracellular vesicles (EVs) which seem to be able to recapitulate the therapeutic effect of their parent MSCs.<xref rid="sct312618-bib-0034" ref-type="ref">34</xref>
+</p></sec><sec id="sct312618-sec-0006"><label>1.3</label><title>Issues with MSCs: Reasons to investigate MSC EVs</title><p>The need to investigate MSC EVs stems from the issues found with whole cell administration. Until recently, the tumor formation risk due to MSCs has been assumed to be fairly low owing to their short life span in vivo with many studies suggesting that they have an inhibitory effect on tumor growth,<xref rid="sct312618-bib-0035" ref-type="ref">35</xref> such as in liver cancer caused by hepatocyte growth factor (HGF).<xref rid="sct312618-bib-0036" ref-type="ref">36</xref> This makes it all the more surprising that there is now a growing field of evidence which suggests that they have the ability to promote the growth of tumors. These studies suggest that MSCs are able to travel to the site of a tumor and change the microenvironment around it, causing the stromal cells surrounding the tumor to move into the tumor itself and produce cytokines which stimulate tumor growth. Although no tumors have ever been detected which have been formed directly due to MSCs in clinical trials involving MSCs, the fact remains that they do possess ability to promote the growth of tumors and this property requires further research before MSCs can be considered safe for use in patients.<xref rid="sct312618-bib-0037" ref-type="ref">37</xref>
+</p><p>Furthermore, despite their low immunogenicity, MSCs have been shown by Romieu&#x02010;Mourez et al<xref rid="sct312618-bib-0038" ref-type="ref">38</xref> and Chan et al<xref rid="sct312618-bib-0039" ref-type="ref">39</xref> to become antigen&#x02010;presenting cells, expressing MHC II antigens when stimulated by low concentrations of IFN&#x02010;&#x003bb;. Although the expression on MHC II antigens occurs only within a small interval of IFN&#x02010;&#x003bb; concentrations, this, alongside other factors such as low levels of TGF&#x02010;&#x003b2; or high cell density have been shown to cause immune responses against the MSCs which has led to them becoming rejected in some mouse models.<xref rid="sct312618-bib-0040" ref-type="ref">40</xref> This opens up the possibility that MSCs could trigger an immune response in patients, which may exacerbate ARDS.</p><p>Moreover, the storage of MSCs using cryopreservation requires preservatives such as DMSO. DMSO treatment produces fewer MSC colonies when plated and the survival of those colonies is reduced, especially with higher DMSO concentrations. In addition, the expression of some genes such as Bak and Bcl2 were increased when using the DMSO compared to the fresh MSCs.<xref rid="sct312618-bib-0041" ref-type="ref">41</xref>
+</p><p>Furthermore, the process of freezing and thawing has been found to lower the viability of MSCs which could have an adverse effect on their therapeutic efficacy in patients.<xref rid="sct312618-bib-0028" ref-type="ref">28</xref>
+</p><p>It is due to these concerns that new treatments that do not involve the administration of live cells are increasingly being investigated. It is widely accepted that MSCs provide protective paracrine effects, which are in large mediated by the secretion of EVs and therefore therapeutic potential of EV&#x02010;based therapy is being actively explored. The use of MSC&#x02010;derived EVs as a cell&#x02010;free therapeutic offer several advantages compared to MSCs: (a) EVs are non&#x02010;self&#x02010;replicating, reducing the risk of iatrogenic tumor formation; (b) EVs can be stored without DMSO at &#x02212;80&#x000b0;C and remain biologically active; (c) MSC EVs do not express MHC I or II antigens, nor can it be induced to, allowing allogeneic transplantation; (d) EVs are less susceptible to damage by hostile environment at the site of injury (eg, hypoxia or inflammatory milieu); (e) the vesicles are small and circulate readily whereas many MSCs do not get beyond the first pass capillary bed; and (f) the dose of infused MSCs quickly diminishes post&#x02010;transplant, and it may be that the delivery of MSC&#x02010;derived vesicles can achieve a higher &#x0201c;dose&#x0201d; that circulates to a greater extent than the larger cells.</p></sec><sec id="sct312618-sec-0007"><label>1.4</label><title>Definition and nomenclature of EVs</title><p>EVs are small circular structures surrounded by a phospholipid membrane which are released by cells and act as a package for various substances. When they were first discovered and for considerable time afterward, EVs were thought to be pieces of debris. It was assumed that they originate as a result of damage to the cell or due to the process of replacement of the cell membrane.<xref rid="sct312618-bib-0042" ref-type="ref">42</xref> However, it is now known that EVs are vital in intercellular communication as they can transport a variety of substances large distances across the body and modulate functional activities of the target cells.</p><p>As of yet, there is no consensus on the classification of EVs. However, EVs can be categorized broadly using three criteria: their size, the method by which they are formed in the parent cell, and the contents which they carry. One of the categories of EVs are &#x0201c;microvesicles (MV).&#x0201d; These are normally fairly heterogeneous, and their diameter ranges from 50 to 1000&#x02009;nm.<xref rid="sct312618-bib-0043" ref-type="ref">43</xref> They are formed when the cell membrane projects outward from the cell and detaches, budding off the membrane, forming a closed sphere containing cytoplasm. The release of microvesicles can be stimulated by many factors such as oxidative or shear stress, hypoxia, or injury. At a molecular level, the cause of stimulation of microvesicle release depends on the cell type. In many cells, such as dendritic cells, calcium ions can act as a second messenger to stimulate the release of microvesicles, whereas in others, the phorbol ester activation of protein kinase C can have the same effect.<xref rid="sct312618-bib-0044" ref-type="ref">44</xref>, <xref rid="sct312618-bib-0045" ref-type="ref">45</xref>
+</p><p>Another category of EVs are exosomes. In contrast to microvesicles, the diameter of exosomes is reasonably homogeneous with the diameter range being from 30 to 100&#x02009;nm.<xref rid="sct312618-bib-0043" ref-type="ref">43</xref> Another way in which exosomes differ from microvesicles is that although microvesicles are formed by budding off from the cell membrane, exosomes have their origins within multivesicular bodies in an endosome, in which multiple exosomes are kept while inside the cell. They are then released out of the cell through exocytosis when the multivesicular bodies fuse with the cell membrane.<xref rid="sct312618-bib-0045" ref-type="ref">45</xref> This process is reliant on regulation of cytoskeletal changes by p53.<xref rid="sct312618-bib-0046" ref-type="ref">46</xref>
+</p><p>The third category of EVs is apoptotic bodies. These are EVs which are released by cells as they are undergoing apoptosis and contain material that is about to be phagocytosed such as organelles and sections of DNA. Unlike the other EVs, these are over 1 &#x003bc;m in diameter.<xref rid="sct312618-bib-0047" ref-type="ref">47</xref>
+</p></sec><sec id="sct312618-sec-0008"><label>1.5</label><title>EV isolation, characterization, and purification</title><p>Currently, there is no globally accepted standard for the isolation, characterization or purification of EVs and methods used depend on the material from which EVs are extracted, the volume of the sample and the application of the EVs.<xref rid="sct312618-bib-0048" ref-type="ref">48</xref>
+</p><p>Although EVs are often extracted from a variety of biofluids such as plasma, serum, or urine, according to a survey carried out by the ISEV (International Society for Extracellular Vesicles), the most common starting material for EV extraction used by their members was conditioned cell culture media.<xref rid="sct312618-bib-0049" ref-type="ref">49</xref>
+</p><p>According to the same survey, the most common isolation method was ultracentrifugation, particularly among researchers using conditioned cell culture media. This typically involves two stages with the first stage composed of spins at increasing speeds to sediment structures which have a higher buoyant density than EVs. The second stage involves speeds of over 100&#x02009;000<italic>g</italic> in order to sediment EVs. This is followed by washing and microfiltration of the EV suspension in order to purify the EVs.<xref rid="sct312618-bib-0050" ref-type="ref">50</xref>, <xref rid="sct312618-bib-0051" ref-type="ref">51</xref>
+</p><p>Although this method is the one used most often, it is not without problems. While washing increases purity, the number of EVs obtained is lower.<xref rid="sct312618-bib-0051" ref-type="ref">51</xref> Also, factors such as centrifugation speed, type of rotor and centrifugation time have an effect on the purity, yield and sedimentation efficiency and therefore must be optimized according to the experiment, making standardization difficult.<xref rid="sct312618-bib-0052" ref-type="ref">52</xref>, <xref rid="sct312618-bib-0053" ref-type="ref">53</xref> This, combined with the fact that it cannot be scaled make it unsuitable for large scale EV isolation for therapeutic purposes.</p><p>In contrast, density gradient centrifugation, the second most widely used technique gives a greater EV purity and also higher amounts of EV proteins and RNA than ultracentrifugation.<xref rid="sct312618-bib-0051" ref-type="ref">51</xref> Although sucrose is the most commonly used cushion material, recently, it has been demonstrated that iodixanol can better preserve the size of the vesicles.<xref rid="sct312618-bib-0054" ref-type="ref">54</xref> However, this is likely not applicable in a clinical setting either due to its complexity, cost and amount of time consumed.</p><p>Ultrafiltration, the next most commonly used method separates EVs by size and is arguably a simpler process, and a viable alternative to ultracentrifugation, especially when combined with size exclusion chromatography.<xref rid="sct312618-bib-0055" ref-type="ref">55</xref>
+</p><p>In addition to these techniques, precipitation of EVs through the use of various substances such as PEG (polyethylene glycol) is also used often. This has the benefit of being scalable and when combined with ultracentrifugation, gives sufficient EV purity.<xref rid="sct312618-bib-0056" ref-type="ref">56</xref> Hence, this is a viable method for large scale production of EVs for clinical use and has been used in one clinical study.<xref rid="sct312618-bib-0057" ref-type="ref">57</xref>
+</p><p>This scalability is also seen with techniques such as size exclusion chromatography which can also be combined with ultrafiltration or ultracentrifugation to create EVs in an efficient way which has potential for standardization according to the ISEV.<xref rid="sct312618-bib-0034" ref-type="ref">34</xref>, <xref rid="sct312618-bib-0058" ref-type="ref">58</xref>, <xref rid="sct312618-bib-0059" ref-type="ref">59</xref>, <xref rid="sct312618-bib-0060" ref-type="ref">60</xref>
+</p><p>The characterization of EVs can be done by four distinct methods according to guidelines from the ISEV.<xref rid="sct312618-bib-0060" ref-type="ref">60</xref> First, the cell source of the EVs (MSCs in the case of MSC EVs) should be quantified; next, the amount of EVs, derived from specific number of cells, should also be quantified. This can be achieved through techniques measuring EV number such as nanoparticle tracking analysis and flow cytometry and supplemented by quantification of the total levels of protein, lipids, or RNA.<xref rid="sct312618-bib-0061" ref-type="ref">61</xref> According to the MISEV2018 guidelines, the presence of EVs should be demonstrated by the analysis of at least one transmembrane protein associated to the plasma membrane (eg, CD9, CD63, CD81) and one cytosolic protein in EVs (eg, TSG101 and ALIX).</p><p>Next, the subtype to which the EVs belong should be characterized by analysis of the protein composition of the EVs using Western blotting and by analysis of nucleic acids using PCR.<xref rid="sct312618-bib-0061" ref-type="ref">61</xref> Single EV analysis may also be carried out using imaging techniques like transmission electron microscopy.<xref rid="sct312618-bib-0062" ref-type="ref">62</xref>
+</p><p>In addition, co&#x02010;isolated components present in the sample should also be characterized as it is questioned whether these could contribute to the effect of EVs.<xref rid="sct312618-bib-0034" ref-type="ref">34</xref>
+</p></sec><sec id="sct312618-sec-0009"><label>1.6</label><title>Mechanisms of action of EVs</title><p>EVs interact with their target cells through receptor&#x02010;mediated binding after which they can either fuse with the cell membrane to release the contents into the cell or be taken into the cell through endocytosis, a process in which they are placed into an endocytosed vesicle.<xref rid="sct312618-bib-0045" ref-type="ref">45</xref>
+</p><p>EVs can carry a variety of substances such as lipids, multiple species of RNA, various proteins including enzymes, and transcription factors and even organelles such as mitochondria. In addition to acting as complexes that essentially carry signals between cells, EVs also transfer receptors from one cell to another. This has been shown for example by Barry et al who observed that EVs were able to transfer CD41 originally made in platelets to target endothelial cells.<xref rid="sct312618-bib-0063" ref-type="ref">63</xref>
+</p><p>Their ability to deliver proteins means that they can target specific mechanisms within the cell. For example, it has been shown by Sarkar et al that EVs can deliver caspase&#x02010;1 which acts to induce cell death in smooth muscle cells.<xref rid="sct312618-bib-0064" ref-type="ref">64</xref> Their ability to transfer mRNA and miRNA also means that they can alter the transcriptional landscapes of target cells. The delivery of mRNA to cells induces the production of proteins through mRNA translation within the target cell. In addition, they can change the epigenetic environment within cells, causing the regulation of certain genes. This has been shown using EVs isolated from murine embryonic stem cells which were applied to murine hematopoietic progenitor cells. The EVs had the effect of upregulating markers in the hematopoietic progenitor cells associated with pluripotent cells such as Oct&#x02010;4 and Nanog. In addition, the levels of mRNA for transcription factors associated with embryonic stem cells were also increased greatly and the authors believe that the pluripotency of the hematopoietic progenitor cells may have been increased. This shows that many of the characteristics of the parent cells from which EVs are extracted can be passed on to target cells through the EVs themselves, not just through the transfer of proteins but also by epigenetic means.<xref rid="sct312618-bib-0065" ref-type="ref">65</xref>
+</p><p>Phinney et al<xref rid="sct312618-bib-0066" ref-type="ref">66</xref> reported that MSCs secrete EVs which contain functionally active mitochondria and multiple miRNAs. This finding is extremely important as ARDS often results in Multiple Organ Dysfunction Syndrome which is associated with mitochondrial dysfunction. Survivors have better mitochondrial function with preservation of ATP and biogenesis markers.<xref rid="sct312618-bib-0067" ref-type="ref">67</xref>, <xref rid="sct312618-bib-0068" ref-type="ref">68</xref> Hence, strategies aiming to protect mitochondria from injury or to increase mitochondrial biogenesis are increasingly being explored as promising therapeutic opportunities, and MSC EV&#x02010;mediated mitochondria transfer is among the most exciting.<xref rid="sct312618-bib-0069" ref-type="ref">69</xref>
+</p></sec><sec id="sct312618-sec-0010"><label>1.7</label><title>MSC EVs in early phase clinical trials</title><p>Multiple recent studies have presented preclinical data addressing the reparative and regenerative properties of MSC vesicles following injuries to the kidney, heart, liver, brain, lung, hind limb ischemia injury<xref rid="sct312618-bib-0070" ref-type="ref">70</xref> as well as various immune disorders.<xref rid="sct312618-bib-0071" ref-type="ref">71</xref>, <xref rid="sct312618-bib-0072" ref-type="ref">72</xref>, <xref rid="sct312618-bib-0073" ref-type="ref">73</xref> The mechanisms have been primarily mediated through the transfer of the content from the vesicles to the recipient cells, changing the function and/or phenotype. The first evidence of clinical administration of MSC EVs to patient was reported in GvHD in 2014 with promising results.<xref rid="sct312618-bib-0057" ref-type="ref">57</xref> Currently, there is one ongoing phase 1 study investigating the therapeutic effect of MSC EVs (exosomes and microvesicles) in type 1 diabetes (NCT02138331). However, the study has passed its completion date and the status has not been updated yet. The same team conducted a subsequent randomized, placebo&#x02010;controlled, phase 2/3 clinical study to investigate the safety and therapeutic efficacy of human cord blood&#x02010;derived EVs in inhibiting the progression of grade III and IV chronic kidney disease. The results of the trial suggest that MSC&#x02010;EV administration was safe, had a significant effect on the amelioration of overall kidney function as well as the modulation of inflammation.<xref rid="sct312618-bib-0074" ref-type="ref">74</xref> In addition, a phase 1 clinical trial to assess the safety and efficacy of MSCs and MSC EVs for promoting healing of large and refractory macular holes is currently at the recruitment stage (NCT03437759).</p></sec><sec id="sct312618-sec-0011"><label>1.8</label><title>MSC EVs in preclinical models of ARDS</title><p>Although the effect of MSCs themselves in preclinical models of ARDS has been studied very well, the study of the therapeutic effect of MSC&#x02010;derived EVs in ARDS is fairly new and the knowledge base is not currently extensive (Figure <xref rid="sct312618-fig-0001" ref-type="fig">1</xref> and Table <xref rid="sct312618-tbl-0001" ref-type="table">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="sct312618-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Transfer of miRNA, mRNA, and mitochondria from mesenchymal stem cells (MSCs) to different target cells by extracellular vesicles (EVs)</p></caption><graphic id="nlm-graphic-1" xlink:href="SCT3-9-28-g001"/></fig><table-wrap id="sct312618-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Studies investigating the effect of MSC&#x02010;derived EVs in preclinical models of ALI and ARDS</p></caption><table frame="hsides" rules="cols"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Study</th><th align="left" valign="bottom" rowspan="1" colspan="1">Model</th><th align="left" valign="bottom" rowspan="1" colspan="1">Treatment</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mechanism</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Zhu et al (2013)<xref rid="sct312618-bib-0075" ref-type="ref">75</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Mouse</p>
+<p>ALI</p>
+<p>
+<italic>E. coli</italic> endotoxin induced</p>
+<p>ATII cells (primary culture)</p>
+<p>Injured with cytomix</p>
+<p>Ex vivo perfused human lung</p>
+<p>RAW 264.7 mouse macrophage cells</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">EVs from human bone marrow MSCs</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x02193; Inflammatory cell influx</p>
+<p>&#x02193; Alveolar MIP&#x02010;2, protein</p>
+<p>&#x02193; EVLW</p>
+<p>Restoration of protein permeability similar to MSCs</p>
+<p>Expression of KGF mRNA</p>
+<p>&#x02191; KGF (in both mice + ATII)</p>
+<p>&#x02191;&#x02191; IL&#x02010;10</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Morrison et al (2017)<xref rid="sct312618-bib-0024" ref-type="ref">24</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>In vitro primary human monocyte derived macrophages stimulated with LPS or BALF samples from ARDS patients</p>
+<p>Mouse model of LPS&#x02010;induced lung injury</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Bone marrow MSC conditioned medium, MSC EVs, EVs were used to treat murine alveolar macrophages which were then adoptively transferred to mice</td><td align="left" valign="top" rowspan="1" colspan="1">Transfer of functional mitochondria via EVs resulted in &#x02191;Oxidative phosphorylation which led to enhanced phagocytosis and &#x02193;TNF&#x02010;a and &#x02193;IL&#x02010;8 secretion by macrophages in vitro and in vivo</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Tang et al (2017)<xref rid="sct312618-bib-0077" ref-type="ref">77</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Mouse</p>
+<p>ALI</p>
+<p>
+<italic>P. aeruginosa</italic> induced</p>
+<p>RAW 264.7 mouse macrophage cells</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">EVs from human bone marrow MSCs</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x02193; WBC influx</p>
+<p>&#x02193; MIP&#x02010;2 secretion</p>
+<p>Restoration of pulmonary capillary permeability, BALF albumin level similar to MSCs</p>
+<p>Expression of Ang&#x02010;1 mRNA</p>
+<p>&#x02191; Alveolar Ang&#x02010;1</p>
+<p>&#x02193; TNF&#x02010;&#x003b1;</p>
+<p>&#x02191; IL&#x02010;10</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gennai et al (2015)<xref rid="sct312618-bib-0080" ref-type="ref">80</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Ex vivo perfused human lung (rejected for transplant)</td><td align="left" valign="top" rowspan="1" colspan="1">EVs from human bone marrow MSCs</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x02191; AFC rate</p>
+<p>&#x02193; Lung weight gain</p>
+<p>Prevention of tracheal pressure elevation</p>
+<p>&#x02191; Lung compliance</p>
+<p>&#x02193; Pulmonary artery pressure and resistance</p>
+<p>&#x02191; NO in perfusate</p>
+<p>&#x02193; pH of perfusate</p>
+<p>&#x02193; Elevation of lactate</p>
+<p>CD44 shown to be essential to effect</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Monsel et al (2015)<xref rid="sct312618-bib-0078" ref-type="ref">78</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Mouse</p>
+<p>ALI due to severe pneumonia</p>
+<p>
+<italic>E. coli</italic> induced</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>EVs from human bone marrow MSCs</p>
+<p>With and without Poly (I:C) pretreatment</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x02193; Total bacterial load</p>
+<p>&#x02193; Inflammation</p>
+<p>&#x02193; Lung protein permeability</p>
+<p>&#x02191; Monocyte phagocytosis (improved even further with Poly (I:C) pretreatment)</p>
+<p>&#x02193; TNF&#x02010;&#x003b1; by LPS primed human monocytes (decreased further by Poly (I:C) EVs)</p>
+<p>Restored intracellular ATP levels in injured human ATII cells</p>
+<p>TLR3 pre&#x02010;stimulation:</p>
+<p>&#x02191; COX2 and IL&#x02010;10 mRNA expression in MSCs and human monocytes exposed to Poly (I:C) treated EVs</p>
+<p>Poly (I:C):</p>
+<p>&#x02191; IL&#x02010;10 secretion by monocytes</p>
+<p>&#x02193; Bacterial CFU further than by normal EVs</p>
+<p>CD44 shown to be essential to effect</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Khatri et al (2018)<xref rid="sct312618-bib-0079" ref-type="ref">79</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Pig</p>
+<p>ALI</p>
+<p>Influenza virus</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">EVs from swine bone marrow MSCs</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>In lung epithelial cells:</p>
+<p>&#x02193;Haemagglutination activity of influenza viruses</p>
+<p>&#x02193; Virus replication</p>
+<p>In virus&#x02010;infected pig lungs:</p>
+<p>&#x02193; Lung inflammation</p>
+<p>&#x02193; Virus replication</p>
+<p>&#x02193; Pro&#x02010;inflammatory cytokine production</p>
+<p>&#x02191; IL&#x02010;10</p>
+<p>mRNA shown to be essential to effect</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Park et al (2019)<xref rid="sct312618-bib-0082" ref-type="ref">82</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Ex vivo perfused human lung</p>
+<p>ALI</p>
+<p>
+<italic>E. coli</italic> induced</p>
+<p>Human alveolar macrophages</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>EVs from human bone marrow MSCs</p>
+<p>With and without Poly (I:C) pretreatment</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x02191; AFC rate</p>
+<p>&#x02193; Lug protein permeability</p>
+<p>Poly (I:C) pretreatment:</p>
+<p>&#x02193; Bacterial CFU</p>
+<p>&#x02191; Antimicrobial effect</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hu et al (2018)<xref rid="sct312618-bib-0083" ref-type="ref">83</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Human lung microvascular endothelial cells (HLMVECs) (primary culture)</p>
+<p>Injured by cytomix (IL&#x02010;1&#x003b2;, TNF&#x02010;&#x003b1;, and IFN&#x02010;&#x003b3;)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">EVs from human bone marrow MSCs</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Protein permeability across injured HLMVECs restored</p>
+<p>Prevention of actin stress fibers formation</p>
+<p>Restoration of VE&#x02010;cadherin (adherens junction) and ZO&#x02010;1 (tight junction)</p>
+<p>Internalization of EVs found to be essential for effect</p>
+<p>Ang&#x02010;1 mRNA transfer and Ang&#x02010;1 expression shown to be essential for effect</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Varkouhi et al (2019)<xref rid="sct312618-bib-0084" ref-type="ref">84</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Rat</p>
+<p>ALI</p>
+<p>
+<italic>E. coli</italic> induced</p>
+<p>In human acute monocytic leukemia cell line (THP&#x02010;1)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>EVs from human umbilical cord MSCs</p>
+<p>With and without interferon &#x003b3; priming</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Only primed and not na&#x000ef;ve:</p>
+<p>&#x02193; Alveolar&#x02010;arterial oxygen gradient</p>
+<p>&#x02193; Alveolar protein leak</p>
+<p>&#x02191; Lung mononuclear phagocytes</p>
+<p>&#x02193; Alveolar TNF&#x02010;&#x003b1; concentration</p>
+<p>&#x02191; Endothelial nitric oxide synthase production</p>
+<p>Both na&#x000ef;ve and primed:</p>
+<p>&#x02193; Mortality</p>
+<p>&#x02191; <italic>E. coli</italic> phagocytosis</p>
+<p>&#x02191; Bacterial killing</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Wei et al (2019)<xref rid="sct312618-bib-0089" ref-type="ref">89</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Murine</p>
+<p>Lung ischemia/reperfusion injury</p>
+<p>Murine primary pulmonary endothelial cells&#x02014;hypoxia/reoxygenation model</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Exosomes from murine bone marrow MSCs</p>
+<p>miR&#x02010;21&#x02010;5p agomir</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x02193; Lung oedema</p>
+<p>&#x02193; Alveolar macrophage M1 polarization</p>
+<p>&#x02193; HMGB1</p>
+<p>&#x02193; IL&#x02010;8</p>
+<p>&#x02193; IL&#x02010;1&#x003b2;</p>
+<p>&#x02193;IL&#x02010;6</p>
+<p>&#x02193; IL&#x02010;17</p>
+<p>&#x02193; TNF&#x02010;&#x003b1;</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Yi et al (2019)<xref rid="sct312618-bib-0090" ref-type="ref">90</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Type II alveolar epithelium cells (AEC) injured with LPS (both ex&#x02010;vivo and in vivo in a mouse ALI model)</td><td align="left" valign="top" rowspan="1" colspan="1">Exosomes from bone marrow MSCs overexpressing miR&#x02010;30b&#x02010;3p</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x02193; SAA3 expression</p>
+<p>&#x02193; LPS induced AEC apoptosis</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Song et al (2017)<xref rid="sct312618-bib-0091" ref-type="ref">91</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Murine</p>
+<p>Caecal ligation and puncture induced sepsis</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Human umbilical cord MSCs retreated with IL&#x02010;1&#x003b2;</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>&#x02191; Survival rate</p>
+<p>&#x02191; Polarization of macrophages to M2 (both compared to na&#x000ef;ve MSCs)</p>
+<p>&#x02191; Exosomal miR&#x02010;146a when pretreated with IL&#x02010;1&#x003b2;</p>
+<p>Transfer of exosomal miR&#x02010;146a shown to be important in therapeutic effect</p>
+</td></tr></tbody></table><table-wrap-foot id="sct312618-ntgp-0001"><fn id="sct312618-note-0001"><p>Abbreviations: ALI, acute lung injury; ARDS, acute respiratory distress syndrome; EVs, extracellular vesicles; MSC, mesenchymal stem cell.</p></fn></table-wrap-foot></table-wrap><p>One of the seminal studies on the therapeutic potential of MSC EVs for the treatment of lung injury was carried out by Zhu et al.<xref rid="sct312618-bib-0075" ref-type="ref">75</xref> In their experiment, they induced ARDS in mice using the intratracheal administration of endotoxin from <italic>Escherichia coli</italic>. EVs were isolated from bone marrow&#x02010;derived MSC&#x02010;conditioned medium using ultracentrifugation, which is the standard method followed by most studies. The effect that the EVs had on the mice was compared with the effect of MSCs. It was found that MSC EVs reduced lung inflammation and reduced oedema to the same levels as MSCs.</p><p>Interestingly, it was demonstrated that KGF mRNA was transferred from the EVs to mouse lung cells and expressed. However, the authors themselves admit that the way in which KGF concentration was determined (using ELISA) may not have been sufficient to come to this conclusion as it is not certain whether it detected only human KGF or whether it also detected mouse KGF.</p><p>Our group has found that EVs are the major component of the MSC secretome responsible for MSC modulation of macrophages in ARDS in vitro and in vivo. Mouse alveolar macrophages treated ex vivo by MSC derived EVs conferred protection in the mouse model of LPS&#x02010;induced lung injury. We have demonstrated for the first time that transfer of functional mitochondria in EVs resulted in macrophage polarization from a pro&#x02010;inflammatory toward an anti&#x02010;inflammatory phenotype through enhancement in oxidative phosphorylation.<xref rid="sct312618-bib-0024" ref-type="ref">24</xref>
+</p><p>Also, we have recently<xref rid="sct312618-bib-0076" ref-type="ref">76</xref> demonstrated that the transfer of functional mitochondria from MSC via EVs improves mitochondrial function (membrane potential and ATP production) in primary human distal lung epithelial cells and improves their capacity to close wounds. Importantly, we also found that hypercapnia, a condition often associated with low tidal volume ventilation in ARDS, induces mitochondrial dysfunction and although the rate of mitochondrial transfer from MSCs to recipient cells is not changed, these dysfunctional mitochondria are not able to improve recipient cell bioenergetics and promote reparative capacity of the lung epithelial cells. This finding implies that MSCs may not be therapeutically beneficial in patients with ARDS who develop hypercapnia.</p><p>An experiment by Tang et al<xref rid="sct312618-bib-0077" ref-type="ref">77</xref> also used human bone marrow&#x02010;derived MSC EVs in vivo in mouse model. ARDS was induced using lipopolysaccharide from <italic>Pseudomonas aeruginosa</italic>. This experiment found that the transfer of angiopoietin&#x02010;1 (Ang&#x02010;1) mRNA is essential for the reduction of inflammation and the restoration of alveolar capillary barrier. This was shown by the fact that silencing Ang&#x02010;1 miRNA in EVs using siRNA significantly increased both the influx of neutrophils and the level of MIP&#x02010;2. Furthermore, they also studied the effect of EVs on mouse macrophages and human lung endothelial cells and found that they have immunomodulatory effects in the macrophages by suppressing TNF&#x02010;&#x003b1; secretion and increasing IL&#x02010;10 secretion.</p><p>Monsel et al used <italic>E. coli</italic> to induce pneumonia in mice.<xref rid="sct312618-bib-0078" ref-type="ref">78</xref> It was the first study on the effect of MSC EVs done in an infectious lung injury model. The experiment structure was very similar to that conducted by Zhu et al. In addition to testing in mice, the effect of EVs was also investigated in human monocytes and human alveolar type II cells. The results showed that EVs reduced inflammation, indicated by a 73% reduction in the influx of neutrophils and macrophages as well as a 49% reduction in the level of MIP&#x02010;2. They also showed a reduction in oedema and the permeability of endothelial&#x02010;epithelial barrier to protein. It was also shown that CD44 receptors are essential for the uptake of EVs into cells.</p><p>Khatri et al conducted an experiment investigating the effect of MSC EVs in influenza virus induced ARDS in a pig model.<xref rid="sct312618-bib-0079" ref-type="ref">79</xref> They found that in pigs, the replication of the viruses was reduced by the administration of EVs. They also found that there was a reduction in the death of alveolar epithelium cells. This effect was shown to be, in part, due to RNA transfer via EVs. However, this was shown by the effect being abrogated by pre&#x02010;incubation of EVs with RNase, so no specific RNA was found to mediate the effect. As in other studies, a reduction in pro&#x02010;inflammatory cytokines was also observed.</p><p>Gennai et al carried out an experiment in ex vivo perfused human lungs.<xref rid="sct312618-bib-0080" ref-type="ref">80</xref> These were lungs that had been rejected for transplantation and the purpose of the study was to find out if injured lungs could be improved to a potentially transplantable standard using MSC EVs. It had been known already that MSCs could restore fluid clearance in ex vivo lungs,<xref rid="sct312618-bib-0081" ref-type="ref">81</xref> but the effect of EVs was unknown. It was found that EV treatment reduced the level of oedema and improved the compliance of the lung.</p><p>Park et al also used EVs in an ex vivo perfused human lung.<xref rid="sct312618-bib-0082" ref-type="ref">82</xref> The lungs were infected by <italic>E. coli</italic> to induce pneumonia. In addition to using EVs extracted from untreated MSCs, they also used EVs from MSCs that were pretreated with Poly (I:C), a Toll&#x02010;like receptor 3 (TLRP3) agonist. This was done in light of previous studies which showed that pretreatment with Poly (I:C) could possibly enhance the therapeutic properties of MSCs.<xref rid="sct312618-bib-0078" ref-type="ref">78</xref> Although the EVs led to a significant reduction in lung protein permeability and an increase in AFC (alveolar fluid clearance), there was no significant improvement in tracheal pressure, lung compliance, or PaO<sub>2</sub>. In addition, a reduction in bacterial burden was only observed with Poly (I:C) pretreated MSC EVs. Although this study yielded positive results, it does not offer any investigation into the mechanisms behind the effect. In particular, the mechanism by which Poly (I:C) may be improving the effect of EVs should be explored further.</p><p>Hu et al demonstrated that EVs are able to restore barrier properties of human lung microvascular endothelial cells (HLMVECs) that were injured with cytomix (IL&#x02010;1&#x003b2;, TNF&#x02010;&#x003b1;, and IFN&#x02010;&#x003b3;).<xref rid="sct312618-bib-0083" ref-type="ref">83</xref> It was revealed that there was an increase in the level of angiopoetin&#x02010;1 (Ang1) mRNA and protein in the injured endothelium which was treated with the EVs, and it was also found that the pretreatment of the EVs with Ang1 siRNA stopped their effect, indicating that the transfer of Ang1 mRNA from EVs plays a crucial role in the mechanism of EVs. In addition, it was also found that the internalization of EVs was required for the MSCs to produce their effect.</p><p>Although previously mentioned studies all used bone marrow derived MSCs EVs, Varkouhi et al used EVs extracted from MSCs derived from umbilical cord and found that they attenuated acute lung injury in rats.<xref rid="sct312618-bib-0084" ref-type="ref">84</xref> This carries significance as umbilical cord MSCs are less invasive to obtain, have a higher proliferation capacity, and can be cultured for longer.<xref rid="sct312618-bib-0085" ref-type="ref">85</xref>
+</p><p>The same study compared the effect of normal EVs with those primed with interferon&#x02010;&#x003b3;. Although both led to a lowering of mortality, the primed EVs were much better than normal EVs in improving multiple parameters of lung injury such as the alveolar protein leak and alveolar&#x02010;arterial oxygen gradient.</p><p>The study also identified an improvement of macrophage phagocytosis, an increase in bacterial killing, and an increased production of endothelial nitric oxide synthase as possible mechanisms. However, more detailed mechanisms of these effects remain to be elucidated. In addition, it was found that the primed EVs were larger on average than the normal EVs. However, the reason for this is unknown and requires further investigation.</p><p>The role of EV&#x02010;mediated transfer of microRNAs is also being increasingly recognized as an important mechanism of their biological effect. MicroRNAs (miRNAs or miRs) are a class of noncoding small RNAs with approximately 22 nucleotides in length. MiRNAs bind to the 3&#x02032;&#x02010;untranslated region (3&#x02032;&#x02010;UTR) of mRNA, resulting in either mRNA degradation or reduced protein translation. MiRNAs are implicated in the regulation of more than 60% of mammalian mRNAs, thus their shuttling in EVs represents a potent mechanism for modulation of recipient cells. In recent years, the potential involvement of miRNAs in ARDS pathophysiology has been investigated,<xref rid="sct312618-bib-0086" ref-type="ref">86</xref>, <xref rid="sct312618-bib-0087" ref-type="ref">87</xref>, <xref rid="sct312618-bib-0088" ref-type="ref">88</xref> providing evidence that miRNAs act as potent regulators of the inflammatory pathways. Several studies have reported that transfer of specific miRNA in MSC EVs has alleviated severity of lung injury in preclinical models.</p><p>Wei et al<xref rid="sct312618-bib-0089" ref-type="ref">89</xref> demonstrated that transfer of anti&#x02010;apoptotic miR&#x02010;21&#x02010;5p was responsible for the protective effect of MSC EVs in a mouse model of lung ischemia/reperfusion injury. Exosomal miR&#x02010;21&#x02010;5p reduced oxidative stress&#x02010;induced apoptosis through targeting PTEN and PDCD4 in the lung tissues.</p><p>In the recent study by Yi et al,<xref rid="sct312618-bib-0090" ref-type="ref">90</xref> it was found that exosomal transfer of miR&#x02010;30b&#x02010;3p resulted in inhibition of serum amyloid A3 (SAA3). miR&#x02010;30b&#x02010;3p transfer resulted in an anti&#x02010;inflammatory and pro&#x02010;reparative effect in mouse alveolar epithelial cells both in vivo and in vitro and overexpression of miR&#x02010;30&#x02010;3p in MSC exosomes resulted in an enhancement of the therapeutic effect of MSC EVs.</p><p>Song et al<xref rid="sct312618-bib-0091" ref-type="ref">91</xref> showed that exosomal miR&#x02010;146a contributed to the enhanced therapeutic efficacy of interleukin&#x02010;1&#x003b2;&#x02010;primed MSCs in a caecal ligation and puncture&#x02010;induced sepsis model. They found that miR&#x02010;146a was upregulated by IL&#x02010;1&#x003b2; stimulation and selectively packaged into exosomes. This exosomal miR&#x02010;146a was then transferred to macrophages, resulting in M2 polarization, and finally led to increased survival in septic mice. Therefore, modification of exosomes from MSCs with overexpression of specific miRNAs represents a promising new direction for developing therapeutic treatments for ARDS.</p></sec><sec id="sct312618-sec-0012"><label>1.9</label><title>Current challenges in translation of MSC EVs to clinical practice</title><p>The main challenge with translating MSC EVs to clinical practice is that differences in EV isolation, purification, and characterization methods mean that there is often a large degree of heterogeneity in EV preparations. This is at odds with the homogeneity required for clinical application. Therefore, criteria for the standardization and optimization of EV production should be established. Proper characterization would allow further study into the differences between the efficacy of the different types of EVs. In a position paper, members of four societies (SOCRATES, ISEV, ISCT, and ISBT) propose harmonization criteria for MSC EVs to facilitate data sharing and comparison, which should help to bring the field closer toward clinical applications.<xref rid="sct312618-bib-0034" ref-type="ref">34</xref>
+</p><p>This includes suggestions such as the possibility of immortalizing MSC cell lines to ensure reproducibility although more study is required into the changes that immortalization may cause. Although EV production is not stopped due to immortalization, immortalized MSCs have been found to have features such as lower plastic adherence,<xref rid="sct312618-bib-0092" ref-type="ref">92</xref> so the changes in EV composition needs to be examined.</p><p>Furthermore, additional studies are required to find ways to scale up the production of EVs as they are needed in large quantities to be therapeutically effective and development of GMP protocols for EV production is also essential. Moreover, although a few protocols for the biomanufacturing of exosomes have been reported,<xref rid="sct312618-bib-0093" ref-type="ref">93</xref>, <xref rid="sct312618-bib-0094" ref-type="ref">94</xref> biomanufacturing of larger microvesicles remains largely unexplored.</p><p>To use EVs as an off&#x02010;the&#x02010;shelf therapy, their stability and storage must also be examined further. In addition, the potency of the isolated EVs must be assessed using standardized disease&#x02010;specific potency assays, which are currently lacking.</p><p>Although multiple mechanisms have been discovered which modulate the function of EVs, more work also needs to be carried out to further understand the contents within EVs, especially the differences between na&#x000ef;ve and pretreated EVs. Also, their distribution within the body after administration and the ways in which they move through endothelial barriers need further investigation.</p><p>Moreover, the establishment of subphenotypes within ARDS patients represents a major shift in the way ARDS is viewed and future therapies, including MSC EVs should be developed in line with this emerging evidence.</p><p>In addition, research so far seems to have focused mostly on bone marrow MSC EVs. Hence, other sources should also be explored.</p></sec></sec><sec id="sct312618-sec-0013"><label>2</label><title>CONCLUSIONS</title><p>In conclusion, the ability of MSC&#x02010;derived EVs to ameliorate the causal factors of ARDS in preclinical conditions, both in vivo and ex vivo, is clear. However, although studies have concluded that EVs have similar therapeutic effects to MSCs themselves, further research into the mechanisms of action of EV&#x02010;based therapeutics and manufacturing methods as well as disease&#x02010;specific potency assays is essential.</p><p>Despite these problems that must be solved, the use of EVs holds promise and merits further research due to their therapeutic potential.</p></sec><sec sec-type="COI-statement" id="sct312618-sec-0015"><title>CONFLICT OF INTEREST</title><p>The authors declared no potential conflict of interest.</p></sec></body><back><ack id="sct312618-sec-0014"><title>ACKNOWLEDGMENTS</title><p>A.K. is supported by UK Medical Research Council Research Awards (MRC MR/R025096/1 and MR/S009426/1).</p></ack><ref-list id="sct312618-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="sct312618-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="sct312618-cit-0001">
+<string-name>
+<surname>Ashbaugh</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bigelow</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Petty</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Levine</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Acute respiratory distress in adults</article-title>. <source xml:lang="en">Lancet</source>. <year>1967</year>;<volume>290</volume>:<fpage>319</fpage>&#x02010;<lpage>323</lpage>.</mixed-citation></ref><ref id="sct312618-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="sct312618-cit-0002">
+<string-name>
+<surname>Force</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Ranieri</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Rubenfeld</surname>
+<given-names>GD</given-names>
+</string-name>. <article-title>Acute respiratory distress syndrome</article-title>. <source xml:lang="en">JAMA</source>. <year>2012</year>;<volume>307</volume>:<fpage>2526</fpage>&#x02010;<lpage>2533</lpage>.<pub-id pub-id-type="pmid">22797452</pub-id></mixed-citation></ref><ref id="sct312618-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="sct312618-cit-0003">
+<string-name>
+<surname>Fan</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Brodie</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Slutsky</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>Acute respiratory distress syndrome: advances in diagnosis and treatment</article-title>. <source xml:lang="en">JAMA</source>. <year>2018</year>;<volume>319</volume>:<fpage>698</fpage>&#x02010;<lpage>710</lpage>.<pub-id pub-id-type="pmid">29466596</pub-id></mixed-citation></ref><ref id="sct312618-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="sct312618-cit-0004">
+<string-name>
+<surname>M&#x000e1;ca</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jor</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Holub</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Past and present ARDS mortality rates: a systematic review</article-title>. <source xml:lang="en">Respir Care</source>. <year>2017</year>;<volume>62</volume>:<fpage>113</fpage>&#x02010;<lpage>122</lpage>.<pub-id pub-id-type="pmid">27803355</pub-id></mixed-citation></ref><ref id="sct312618-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="sct312618-cit-0005">
+<string-name>
+<surname>Herridge</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Tansey</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Matt&#x000e9;</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Functional disability 5&#x02009;years after acute respiratory distress syndrome</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2011</year>;<volume>364</volume>:<fpage>1293</fpage>&#x02010;<lpage>1304</lpage>.<pub-id pub-id-type="pmid">21470008</pub-id></mixed-citation></ref><ref id="sct312618-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="sct312618-cit-0006">
+<string-name>
+<surname>Rawal</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Yadav</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Acute respiratory distress syndrome: an update and review</article-title>. <source xml:lang="en">J Trans Intern Med</source>. <year>2018</year>;<volume>6</volume>:<fpage>74</fpage>&#x02010;<lpage>77</lpage>.</mixed-citation></ref><ref id="sct312618-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="sct312618-cit-0007">
+<string-name>
+<surname>Matthay</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Zemans</surname>
+<given-names>RL</given-names>
+</string-name>. <article-title>The acute respiratory distress syndrome: pathogenesis and treatment</article-title>. <source xml:lang="en">Annu Rev Pathol</source>. <year>2011</year>;<volume>6</volume>:<fpage>147</fpage>&#x02010;<lpage>163</lpage>.<pub-id pub-id-type="pmid">20936936</pub-id></mixed-citation></ref><ref id="sct312618-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="sct312618-cit-0008">
+<string-name>
+<surname>Griffiths</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>McAuley</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name>
+<surname>Perkins</surname>
+<given-names>GD</given-names>
+</string-name>, et al. <article-title>Guidelines on the management of acute respiratory distress syndrome</article-title>. <source xml:lang="en">BMJ Open Respir Res</source>. <year>2019</year>;<volume>6</volume>:<elocation-id>e000420</elocation-id>.</mixed-citation></ref><ref id="sct312618-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="sct312618-cit-0009">
+<string-name>
+<surname>Reilly</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Calfee</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Christie</surname>
+<given-names>JD</given-names>
+</string-name>. <article-title>Acute respiratory distress syndrome phenotypes</article-title>. <source xml:lang="en">Semin Respir Crit Care Med</source>. <year>2019</year>;<volume>40</volume>:<fpage>019</fpage>&#x02010;<lpage>030</lpage>.</mixed-citation></ref><ref id="sct312618-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="sct312618-cit-0010">
+<string-name>
+<surname>Calfee</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Delucchi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Parsons</surname>
+<given-names>PE</given-names>
+</string-name>, et al. <article-title>Latent class analysis of ARDS subphenotypes: analysis of data from two randomized controlled trials</article-title>. <source xml:lang="en">Lancet Respir Med</source>. <year>2014</year>;<volume>2</volume>:<fpage>611</fpage>&#x02010;<lpage>620</lpage>.<pub-id pub-id-type="pmid">24853585</pub-id></mixed-citation></ref><ref id="sct312618-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="sct312618-cit-0011">
+<collab collab-type="authors">National Heart, Lung, and Blood Institute ARDS Clinical Trials Network</collab>
+. <article-title>Higher versus lower positive end&#x02010;expiratory pressures in patients with the acute respiratory distress syndrome</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2004</year>;<volume>351</volume>:<fpage>327</fpage>&#x02010;<lpage>336</lpage>.<pub-id pub-id-type="pmid">15269312</pub-id></mixed-citation></ref><ref id="sct312618-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="sct312618-cit-0012">
+<collab collab-type="authors">National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network</collab>
+. <article-title>Comparison of two fluid&#x02010;management strategies in acute lung injury</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2006</year>;<volume>354</volume>:<fpage>2564</fpage>&#x02010;<lpage>2575</lpage>.<pub-id pub-id-type="pmid">16714767</pub-id></mixed-citation></ref><ref id="sct312618-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="sct312618-cit-0013">
+<string-name>
+<surname>Famous</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Delucchi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ware</surname>
+<given-names>LB</given-names>
+</string-name>, et al. <article-title>Acute respiratory distress syndrome subphenotypes respond differently to randomized fluid management strategy</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>. <year>2017</year>;<volume>195</volume>:<fpage>331</fpage>&#x02010;<lpage>338</lpage>.<pub-id pub-id-type="pmid">27513822</pub-id></mixed-citation></ref><ref id="sct312618-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="sct312618-cit-0014">
+<string-name>
+<surname>McAuley</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name>
+<surname>Laffey</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>O'kane</surname>
+<given-names>CM</given-names>
+</string-name>, et al. <article-title>Simvastatin in the acute respiratory distress syndrome</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2014</year>;<volume>371</volume>:<fpage>1695</fpage>&#x02010;<lpage>1703</lpage>.<pub-id pub-id-type="pmid">25268516</pub-id></mixed-citation></ref><ref id="sct312618-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="sct312618-cit-0015">
+<string-name>
+<surname>Calfee</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Delucchi</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Sinha</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Acute respiratory distress syndrome subphenotypes and differential response to simvastatin: secondary analysis of a randomised controlled trial</article-title>. <source xml:lang="en">Lancet Respir Med</source>. <year>2018</year>;<volume>6</volume>:<fpage>691</fpage>&#x02010;<lpage>698</lpage>.<pub-id pub-id-type="pmid">30078618</pub-id></mixed-citation></ref><ref id="sct312618-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="sct312618-cit-0016">
+<string-name>
+<surname>Johnson</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Soeder</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Dahlke</surname>
+<given-names>MH</given-names>
+</string-name>. <article-title>Concise review: mesenchymal stromal cell&#x02010;based approaches for the treatment of acute respiratory distress and sepsis syndromes</article-title>. <source xml:lang="en">Stem Cells Translational Medicine</source>. <year>2017</year>;<volume>6</volume>:<fpage>1141</fpage>&#x02010;<lpage>1151</lpage>.<pub-id pub-id-type="pmid">28186706</pub-id></mixed-citation></ref><ref id="sct312618-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="sct312618-cit-0017">
+<string-name>
+<surname>Krasnodembskaya</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Antibacterial effect of human mesenchymal stem cells is mediated in part from secretion of the antimicrobial peptide LL&#x02010;37</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2010</year>;<volume>28</volume>:<fpage>2229</fpage>&#x02010;<lpage>2238</lpage>.<pub-id pub-id-type="pmid">20945332</pub-id></mixed-citation></ref><ref id="sct312618-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="sct312618-cit-0018">
+<string-name>
+<surname>Gupta</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Krasnodembskaya</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kapetanaki</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cells enhance survival and bacterial clearance in murine <italic>Escherichia coli</italic> pneumonia</article-title>. <source xml:lang="en">Thorax</source>. <year>2012</year>;<volume>67</volume>:<fpage>533</fpage>&#x02010;<lpage>539</lpage>.<pub-id pub-id-type="pmid">22250097</pub-id></mixed-citation></ref><ref id="sct312618-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="sct312618-cit-0019">
+<string-name>
+<surname>Lee</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Krasnodembskaya</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>McKenna</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Abbott</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Matthay</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Therapeutic effects of human mesenchymal stem cells in ex vivo human lungs injured with live bacteria</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>. <year>2013</year>;<volume>187</volume>:<fpage>751</fpage>&#x02010;<lpage>760</lpage>.<pub-id pub-id-type="pmid">23292883</pub-id></mixed-citation></ref><ref id="sct312618-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="sct312618-cit-0020">
+<string-name>
+<surname>Curley</surname>
+<given-names>GF</given-names>
+</string-name>, <string-name>
+<surname>Ansari</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hayes</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Effects of intratracheal mesenchymal stromal cell therapy during recovery and resolution after ventilator&#x02010;induced lung injury</article-title>. <source xml:lang="en">Anesthesiology</source>. <year>2013</year>;<volume>118</volume>:<fpage>924</fpage>&#x02010;<lpage>932</lpage>.<pub-id pub-id-type="pmid">23377221</pub-id></mixed-citation></ref><ref id="sct312618-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="sct312618-cit-0021">
+<string-name>
+<surname>Hall</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Tsoyi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ith</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Mesenchymal stromal cells improve survival during sepsis in the absence of heme oxygenase&#x02010;1: the importance of neutrophils</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2013</year>;<volume>31</volume>:<fpage>397</fpage>&#x02010;<lpage>407</lpage>.<pub-id pub-id-type="pmid">23132816</pub-id></mixed-citation></ref><ref id="sct312618-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="sct312618-cit-0022">
+<string-name>
+<surname>Krasnodembskaya</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Samarani</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Human mesenchymal stem cells reduce mortality and bacteremia in gram&#x02010;negative sepsis in mice in part by enhancing the phagocytic activity of blood monocytes</article-title>. <source xml:lang="en">Am J Physiol Lung Cell Mol Physiol</source>. <year>2012</year>;<volume>302</volume>:<fpage>L1003</fpage>&#x02010;<lpage>L1013</lpage>.<pub-id pub-id-type="pmid">22427530</pub-id></mixed-citation></ref><ref id="sct312618-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="sct312618-cit-0023">
+<string-name>
+<surname>Jackson</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Morrison</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Doherty</surname>
+<given-names>DF</given-names>
+</string-name>, et al. <article-title>Mitochondrial transfer via tunneling nanotubes is an important mechanism by which mesenchymal stem cells enhance macrophage phagocytosis in the in vitro and in vivo models of ARDS</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2016</year>;<volume>34</volume>:<fpage>2210</fpage>&#x02010;<lpage>2223</lpage>.<pub-id pub-id-type="pmid">27059413</pub-id></mixed-citation></ref><ref id="sct312618-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="sct312618-cit-0024">
+<string-name>
+<surname>Morrison</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Cunningham</surname>
+<given-names>EK</given-names>
+</string-name>, et al. <article-title>Mesenchymal stromal cells modulate macrophages in clinically relevant lung injury models by extracellular vesicle mitochondrial transfer</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>. <year>2017</year>;<volume>196</volume>:<fpage>1275</fpage>&#x02010;<lpage>1286</lpage>.<pub-id pub-id-type="pmid">28598224</pub-id></mixed-citation></ref><ref id="sct312618-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="sct312618-cit-0025">
+<string-name>
+<surname>Lee</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Gupta</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Serikov</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Matthay</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Allogeneic human mesenchymal stem cells for treatment of <italic>E. coli</italic> endotoxin&#x02010;induced acute lung injury in the ex vivo perfused human lung</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2009</year>;<volume>106</volume>:<fpage>16357</fpage>&#x02010;<lpage>16362</lpage>.<pub-id pub-id-type="pmid">19721001</pub-id></mixed-citation></ref><ref id="sct312618-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="sct312618-cit-0026">
+<string-name>
+<surname>Walter</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ware</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name>
+<surname>Matthay</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Mesenchymal stem cells: mechanisms of potential therapeutic benefit in ARDS and sepsis</article-title>. <source xml:lang="en">Lancet Respir Med</source>. <year>2014</year>;<volume>2</volume>:<fpage>1016</fpage>&#x02010;<lpage>1026</lpage>.<pub-id pub-id-type="pmid">25465643</pub-id></mixed-citation></ref><ref id="sct312618-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="sct312618-cit-0027">
+<string-name>
+<surname>Wilson</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Zhuo</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem (stromal) cells for treatment of ARDS: a phase 1 clinical trial</article-title>. <source xml:lang="en">Lancet Respir Med</source>. <year>2015</year>;<volume>3</volume>:<fpage>24</fpage>&#x02010;<lpage>32</lpage>.<pub-id pub-id-type="pmid">25529339</pub-id></mixed-citation></ref><ref id="sct312618-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="sct312618-cit-0028">
+<string-name>
+<surname>Matthay</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Calfee</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Zhuo</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Treatment with allogeneic mesenchymal stromal cells for moderate to severe acute respiratory distress syndrome (START study): a randomised phase 2a safety trial</article-title>. <source xml:lang="en">Lancet Respir Med</source>. <year>2019</year>;<volume>7</volume>:<fpage>154</fpage>&#x02010;<lpage>162</lpage>.<pub-id pub-id-type="pmid">30455077</pub-id></mixed-citation></ref><ref id="sct312618-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="sct312618-cit-0029">
+<string-name>
+<surname>Bellingan</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Jacono</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bannard&#x02010;Smith</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Primary analysis of a phase 1/2 study to assess MultiStem&#x000ae; cell therapy, a regenerative Advanced Therapy Medicinal Product (ATMP), in Acute Respiratory Distress Syndrome (MUST&#x02010;ARDS)</article-title>. <source xml:lang="en">B14. Late Break Clin Trials</source>. <year>2019</year>;<volume>199</volume>:<fpage>A7353</fpage>
+<pub-id pub-id-type="doi">10.1164/ajrccm-conference.2019.199.1_MeetingAbstracts.A7353</pub-id>.</mixed-citation></ref><ref id="sct312618-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="sct312618-cit-0030">
+<string-name>
+<surname>Weiss</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Dahlke</surname>
+<given-names>MH</given-names>
+</string-name>. <article-title>Immunomodulation by mesenchymal stem cells (MSCs): mechanisms of action of living, apoptotic, and dead MSCs</article-title>. <source xml:lang="en">Front Immunol</source>. <year>2019</year>;<volume>10</volume>:<fpage>1191</fpage>.<pub-id pub-id-type="pmid">31214172</pub-id></mixed-citation></ref><ref id="sct312618-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="sct312618-cit-0031">
+<string-name>
+<surname>Eggenhofer</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Luk</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Dahlke</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Hoogduijn</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>The life and fate of mesenchymal stem cells</article-title>. <source xml:lang="en">Front Immunol</source>. <year>2014</year>;<volume>5</volume>:<fpage>148</fpage>.<pub-id pub-id-type="pmid">24904568</pub-id></mixed-citation></ref><ref id="sct312618-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="sct312618-cit-0032">
+<string-name>
+<surname>Meisel</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zibert</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Laryea</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f6;bel</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>D&#x000e4;ubener</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Dilloo</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Human bone marrow stromal cells inhibit allogeneic T&#x02010;cell responses by indoleamine 2,3&#x02010;dioxygenase&#x02010;mediated tryptophan degradation</article-title>. <source xml:lang="en">Blood</source>. <year>2004</year>;<volume>103</volume>:<fpage>4619</fpage>&#x02010;<lpage>4621</lpage>.<pub-id pub-id-type="pmid">15001472</pub-id></mixed-citation></ref><ref id="sct312618-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="sct312618-cit-0033">
+<string-name>
+<surname>N&#x000e9;meth</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Leelahavanichkul</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Yuen</surname>
+<given-names>PS</given-names>
+</string-name>, et al. <article-title>Bone marrow stromal cells attenuate sepsis via prostaglandin E 2&#x02013;dependent reprogramming of host macrophages to increase their interleukin&#x02010;10 production</article-title>. <source xml:lang="en">Nat Med</source>. <year>2009</year>;<volume>15</volume>:<fpage>42</fpage>&#x02010;<lpage>49</lpage>.<pub-id pub-id-type="pmid">19098906</pub-id></mixed-citation></ref><ref id="sct312618-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="sct312618-cit-0034">
+<string-name>
+<surname>Witwer</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Van Balkom</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name>
+<surname>Bruno</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Defining mesenchymal stromal cell (MSC)&#x02010;derived small extracellular vesicles for therapeutic applications</article-title>. <source xml:lang="en">J Extracell Vesicles</source>. <year>2019</year>;<volume>8</volume>:<fpage>1609206</fpage>.<pub-id pub-id-type="pmid">31069028</pub-id></mixed-citation></ref><ref id="sct312618-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="sct312618-cit-0035">
+<string-name>
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cells engineered to secrete pigment epithelium&#x02010;derived factor inhibit tumor metastasis and the formation of malignant ascites in a murine colorectal peritoneal carcinomatosis model</article-title>. <source xml:lang="en">Hum Gene Ther</source>. <year>2016</year>;<volume>27</volume>:<fpage>267</fpage>&#x02010;<lpage>277</lpage>.<pub-id pub-id-type="pmid">26756933</pub-id></mixed-citation></ref><ref id="sct312618-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="sct312618-cit-0036">
+<string-name>
+<surname>Cai</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>The inhibitory effect of mesenchymal stem cells with rAd&#x02010;NK4 on liver cancer</article-title>. <source xml:lang="en">Appl Biochem Biotechnol</source>. <year>2017</year>;<volume>183</volume>:<fpage>444</fpage>&#x02010;<lpage>459</lpage>.<pub-id pub-id-type="pmid">28353041</pub-id></mixed-citation></ref><ref id="sct312618-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="sct312618-cit-0037">
+<string-name>
+<surname>Lee</surname>
+<given-names>HY</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>
+<given-names>IS</given-names>
+</string-name>. <article-title>Double&#x02010;edged sword of mesenchymal stem cells: cancer&#x02010;promoting versus therapeutic potential</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2017</year>;<volume>108</volume>:<fpage>1939</fpage>&#x02010;<lpage>1946</lpage>.<pub-id pub-id-type="pmid">28756624</pub-id></mixed-citation></ref><ref id="sct312618-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="sct312618-cit-0038">
+<string-name>
+<surname>Romieu&#x02010;Mourez</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Fran&#x000e7;ois</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Boivin</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name>
+<surname>Stagg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Galipeau</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Regulation of MHC class II expression and antigen processing in murine and human mesenchymal stromal cells by IFN&#x02010;&#x003b3;, TGF&#x02010;&#x003b2;, and cell density</article-title>. <source xml:lang="en">J Immunol</source>. <year>2007</year>;<volume>179</volume>:<fpage>1549</fpage>&#x02010;<lpage>1558</lpage>.<pub-id pub-id-type="pmid">17641021</pub-id></mixed-citation></ref><ref id="sct312618-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="sct312618-cit-0039">
+<string-name>
+<surname>Chan</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>AP</given-names>
+</string-name>, et al. <article-title>Antigen&#x02010;presenting property of mesenchymal stem cells occurs during a narrow window at low levels of interferon&#x02010;&#x003b3;</article-title>. <source xml:lang="en">Blood</source>. <year>2006</year>;<volume>107</volume>:<fpage>4817</fpage>&#x02010;<lpage>4824</lpage>.<pub-id pub-id-type="pmid">16493000</pub-id></mixed-citation></ref><ref id="sct312618-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="sct312618-cit-0040">
+<string-name>
+<surname>Eliopoulos</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Stagg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lejeune</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pommey</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Galipeau</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Allogeneic marrow stromal cells are immune rejected by MHC class I&#x02013;and class II&#x02013;mismatched recipient mice</article-title>. <source xml:lang="en">Blood</source>. <year>2005</year>;<volume>106</volume>:<fpage>4057</fpage>&#x02010;<lpage>4065</lpage>.<pub-id pub-id-type="pmid">16118325</pub-id></mixed-citation></ref><ref id="sct312618-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="sct312618-cit-0041">
+<string-name>
+<surname>Ock</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Rho</surname>
+<given-names>GJ</given-names>
+</string-name>. <article-title>Effect of dimethyl sulfoxide (DMSO) on cryopreservation of porcine mesenchymal stem cells (pMSCs)</article-title>. <source xml:lang="en">Cell Transplant</source>. <year>2011</year>;<volume>20</volume>:<fpage>1231</fpage>&#x02010;<lpage>1239</lpage>.<pub-id pub-id-type="pmid">21294964</pub-id></mixed-citation></ref><ref id="sct312618-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="sct312618-cit-0042">
+<string-name>
+<surname>Siekevitz</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Biological membranes: the dynamics of their organization</article-title>. <source xml:lang="en">Annu Rev Physiol</source>. <year>1972</year>;<volume>34</volume>:<fpage>117</fpage>&#x02010;<lpage>140</lpage>.<pub-id pub-id-type="pmid">4334845</pub-id></mixed-citation></ref><ref id="sct312618-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="sct312618-cit-0043">
+<string-name>
+<surname>Van Niel</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>D'Angelo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Raposo</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Shedding light on the cell biology of extracellular vesicles</article-title>. <source xml:lang="en">Nat Rev Mol Cell Biol</source>. <year>2018</year>;<volume>19</volume>:<fpage>213</fpage>&#x02010;<lpage>228</lpage>.<pub-id pub-id-type="pmid">29339798</pub-id></mixed-citation></ref><ref id="sct312618-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="sct312618-cit-0044">
+<string-name>
+<surname>Ratajczak</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wysoczynski</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hayek</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Janowska&#x02010;Wieczorek</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ratajczak</surname>
+<given-names>MZ</given-names>
+</string-name>. <article-title>Membrane&#x02010;derived microvesicles: important and underappreciated mediators of cell&#x02010;to&#x02010;cell communication</article-title>. <source xml:lang="en">Leukemia</source>. <year>2006</year>;<volume>20</volume>:<fpage>1487</fpage>&#x02010;<lpage>1495</lpage>.<pub-id pub-id-type="pmid">16791265</pub-id></mixed-citation></ref><ref id="sct312618-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="sct312618-cit-0045">
+<string-name>
+<surname>Cocucci</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Racchetti</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Meldolesi</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Shedding microvesicles: artefacts no more</article-title>. <source xml:lang="en">Trends Cell Biol</source>. <year>2009</year>;<volume>19</volume>:<fpage>43</fpage>&#x02010;<lpage>51</lpage>.<pub-id pub-id-type="pmid">19144520</pub-id></mixed-citation></ref><ref id="sct312618-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="sct312618-cit-0046">
+<string-name>
+<surname>Yu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Levine</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>The regulation of exosome secretion: a novel function of the p53 protein</article-title>. <source xml:lang="en">Cancer Res</source>. <year>2006</year>;<volume>66</volume>:<fpage>4795</fpage>&#x02010;<lpage>4801</lpage>.<pub-id pub-id-type="pmid">16651434</pub-id></mixed-citation></ref><ref id="sct312618-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="sct312618-cit-0047">
+<string-name>
+<surname>Monsel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>YG</given-names>
+</string-name>, <string-name>
+<surname>Gudapati</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JW</given-names>
+</string-name>. <article-title>Mesenchymal stem cell derived secretome and extracellular vesicles for acute lung injury and other inflammatory lung diseases</article-title>. <source xml:lang="en">Expert Opin Biol Ther</source>. <year>2016</year>;<volume>16</volume>:<fpage>859</fpage>&#x02010;<lpage>871</lpage>.<pub-id pub-id-type="pmid">27011289</pub-id></mixed-citation></ref><ref id="sct312618-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="sct312618-cit-0048">
+<string-name>
+<surname>L&#x000f6;tvall</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Hochberg</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Minimal experimental requirements for definition of extracellular vesicles and their functions: a position statement from the International Society for Extracellular Vesicles</article-title>. <source xml:lang="en">J Extracell Vesicles</source>. <year>2014</year>;<volume>3</volume>:<fpage>26913</fpage>.<pub-id pub-id-type="pmid">25536934</pub-id></mixed-citation></ref><ref id="sct312618-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="sct312618-cit-0049">
+<string-name>
+<surname>Gardiner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Vizio</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Sahoo</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Techniques used for the isolation and characterization of extracellular vesicles: results of a worldwide survey</article-title>. <source xml:lang="en">J Extracell Vesicles</source>. <year>2016</year>;<volume>5</volume>:<fpage>32945</fpage>.<pub-id pub-id-type="pmid">27802845</pub-id></mixed-citation></ref><ref id="sct312618-bib-0050"><label>50</label><mixed-citation publication-type="book" id="sct312618-cit-0050">
+<string-name>
+<surname>Momen&#x02010;Heravi</surname>
+<given-names>F</given-names>
+</string-name>. <chapter-title>Isolation of extracellular vesicles by ultracentrifugation</chapter-title>
+<source xml:lang="en">Extracellular Vesicles</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Humana Press</publisher-name>; <year>2017</year>:<fpage>25</fpage>&#x02010;<lpage>32</lpage>.</mixed-citation></ref><ref id="sct312618-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="sct312618-cit-0051">
+<string-name>
+<surname>Konoshenko</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name>
+<surname>Lekchnov</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Vlassov</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Laktionov</surname>
+<given-names>PP</given-names>
+</string-name>. <article-title>Isolation of extracellular vesicles: general methodologies and latest trends</article-title>. <source xml:lang="en">Biomed Res Int</source>. <year>2018</year>;<volume>2018</volume>:<fpage>1</fpage>&#x02010;<lpage>27</lpage>.</mixed-citation></ref><ref id="sct312618-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="sct312618-cit-0052">
+<string-name>
+<surname>Cvjetkovic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f6;tvall</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>L&#x000e4;sser</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>The influence of rotor type and centrifugation time on the yield and purity of extracellular vesicles</article-title>. <source xml:lang="en">J Extracell Vesicles</source>. <year>2014</year>;<volume>3</volume>:<fpage>23111</fpage>.</mixed-citation></ref><ref id="sct312618-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="sct312618-cit-0053">
+<string-name>
+<surname>Momen&#x02010;Heravi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Balaj</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Alian</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Current methods for the isolation of extracellular vesicles</article-title>. <source xml:lang="en">Biol Chem</source>. <year>2013</year>;<volume>394</volume>:<fpage>1253</fpage>&#x02010;<lpage>1262</lpage>.<pub-id pub-id-type="pmid">23770532</pub-id></mixed-citation></ref><ref id="sct312618-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="sct312618-cit-0054">
+<string-name>
+<surname>Van Deun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mestdagh</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sormunen</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>The impact of disparate isolation methods for extracellular vesicles on downstream RNA profiling</article-title>. <source xml:lang="en">J Extracell Vesicles</source>. <year>2014</year>;<volume>3</volume>:<fpage>24858</fpage>.</mixed-citation></ref><ref id="sct312618-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="sct312618-cit-0055">
+<string-name>
+<surname>Benedikter</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Bouwman</surname>
+<given-names>FG</given-names>
+</string-name>, <string-name>
+<surname>Vajen</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Ultrafiltration combined with size exclusion chromatography efficiently isolates extracellular vesicles from cell culture media for compositional and functional studies</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2017</year>;<volume>7</volume>:<fpage>15297</fpage>.<pub-id pub-id-type="pmid">29127410</pub-id></mixed-citation></ref><ref id="sct312618-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="sct312618-cit-0056">
+<string-name>
+<surname>Ludwig</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>De Miroschedji</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Doeppner</surname>
+<given-names>TR</given-names>
+</string-name>, et al. <article-title>Precipitation with polyethylene glycol followed by washing and pelleting by ultracentrifugation enriches extracellular vesicles from tissue culture supernatants in small and large scales</article-title>. <source xml:lang="en">J Extracell Vesicles</source>. <year>2018</year>;<volume>7</volume>:<fpage>1528109</fpage>.<pub-id pub-id-type="pmid">30357008</pub-id></mixed-citation></ref><ref id="sct312618-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="sct312618-cit-0057">
+<string-name>
+<surname>Kordelas</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Rebmann</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Ludwig</surname>
+<given-names>AK</given-names>
+</string-name>, et al. <article-title>MSC&#x02010;derived exosomes: a novel tool to treat therapy&#x02010;refractory graft&#x02010;versus&#x02010;host disease</article-title>. <source xml:lang="en">Leukemia</source>. <year>2014</year>;<volume>28</volume>:<fpage>970</fpage>&#x02010;<lpage>973</lpage>.<pub-id pub-id-type="pmid">24445866</pub-id></mixed-citation></ref><ref id="sct312618-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="sct312618-cit-0058">
+<string-name>
+<surname>Salih</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zietse</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hoorn</surname>
+<given-names>EJ</given-names>
+</string-name>. <article-title>Urinary extracellular vesicles and the kidney: biomarkers and beyond</article-title>. <source xml:lang="en">Am J Physiol Renal Physiol</source>. <year>2014</year>;<volume>306</volume>:<fpage>F1251</fpage>&#x02010;<lpage>F1259</lpage>.<pub-id pub-id-type="pmid">24694589</pub-id></mixed-citation></ref><ref id="sct312618-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="sct312618-cit-0059">
+<string-name>
+<surname>Nordin</surname>
+<given-names>JZ</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Vader</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Ultrafiltration with size&#x02010;exclusion liquid chromatography for high yield isolation of extracellular vesicles preserving intact biophysical and functional properties</article-title>. <source xml:lang="en">Nanomedicine</source>. <year>2015</year>;<volume>11</volume>:<fpage>879</fpage>&#x02010;<lpage>883</lpage>.<pub-id pub-id-type="pmid">25659648</pub-id></mixed-citation></ref><ref id="sct312618-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="sct312618-cit-0060">
+<string-name>
+<surname>Th&#x000e9;ry</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Witwer</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Aikawa</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines</article-title>. <source xml:lang="en">J Extracell Vesicles</source>. <year>2018</year>;<volume>7</volume>:<fpage>1535750</fpage>.<pub-id pub-id-type="pmid">30637094</pub-id></mixed-citation></ref><ref id="sct312618-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="sct312618-cit-0061">
+<string-name>
+<surname>Hartjes</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Mytnyk</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jenster</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>van Steijn</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>van Royen</surname>
+<given-names>ME</given-names>
+</string-name>. <article-title>Extracellular vesicle quantification and characterization: common methods and emerging approaches</article-title>. <source xml:lang="en">Bioengineering</source>. <year>2019</year>;<volume>6</volume>:<fpage>7</fpage>.</mixed-citation></ref><ref id="sct312618-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="sct312618-cit-0062">
+<string-name>
+<surname>Shao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Im</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Castro</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Breakefield</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Weissleder</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>New technologies for analysis of extracellular vesicles</article-title>. <source xml:lang="en">Chem Rev</source>. <year>2018</year>;<volume>118</volume>:<fpage>1917</fpage>&#x02010;<lpage>1950</lpage>.<pub-id pub-id-type="pmid">29384376</pub-id></mixed-citation></ref><ref id="sct312618-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="sct312618-cit-0063">
+<string-name>
+<surname>Barry</surname>
+<given-names>OP</given-names>
+</string-name>, <string-name>
+<surname>Pratic&#x000f2;</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Savani</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>FitzGerald</surname>
+<given-names>AG</given-names>
+</string-name>. <article-title>Modulation of monocyte&#x02010;endothelial cell interactions by platelet microparticles</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>1998</year>;<volume>102</volume>:<fpage>136</fpage>&#x02010;<lpage>144</lpage>.<pub-id pub-id-type="pmid">9649567</pub-id></mixed-citation></ref><ref id="sct312618-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="sct312618-cit-0064">
+<string-name>
+<surname>Sarkar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mitra</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mehta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Raices</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wewers</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Monocyte derived microvesicles deliver a cell death message via encapsulated caspase&#x02010;1</article-title>. <source xml:lang="en">PLoS One</source>. <year>2009</year>;<volume>4</volume>:<elocation-id>e7140</elocation-id>.<pub-id pub-id-type="pmid">19779610</pub-id></mixed-citation></ref><ref id="sct312618-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="sct312618-cit-0065">
+<string-name>
+<surname>Ratajczak</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Miekus</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kucia</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Embryonic stem cell&#x02010;derived microvesicles reprogram hematopoietic progenitors: evidence for horizontal transfer of mRNA and protein delivery</article-title>. <source xml:lang="en">Leukemia</source>. <year>2006</year>;<volume>20</volume>:<fpage>847</fpage>&#x02010;<lpage>856</lpage>.<pub-id pub-id-type="pmid">16453000</pub-id></mixed-citation></ref><ref id="sct312618-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="sct312618-cit-0066">
+<string-name>
+<surname>Phinney</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Di Giuseppe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Njah</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cells use extracellular vesicles to outsource mitophagy and shuttle microRNAs</article-title>. <source xml:lang="en">Nat Commun</source>. <year>2015</year>;<volume>6</volume>:<fpage>8472</fpage>.<pub-id pub-id-type="pmid">26442449</pub-id></mixed-citation></ref><ref id="sct312618-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="sct312618-cit-0067">
+<string-name>
+<surname>Brealey</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Brand</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hargreaves</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Association between mitochondrial dysfunction and severity and outcome of septic shock</article-title>. <source xml:lang="en">Lancet</source>. <year>2002</year>;<volume>360</volume>:<fpage>219</fpage>&#x02010;<lpage>223</lpage>.<pub-id pub-id-type="pmid">12133657</pub-id></mixed-citation></ref><ref id="sct312618-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="sct312618-cit-0068">
+<string-name>
+<surname>Carr&#x000e9;</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Orban</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Re</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Survival in critical illness is associated with early activation of mitochondrial biogenesis</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>. <year>2010</year>;<volume>182</volume>:<fpage>745</fpage>&#x02010;<lpage>751</lpage>.<pub-id pub-id-type="pmid">20538956</pub-id></mixed-citation></ref><ref id="sct312618-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="sct312618-cit-0069">
+<string-name>
+<surname>Agrawal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mabalirajan</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>Rejuvenating cellular respiration for optimizing respiratory function: targeting mitochondria</article-title>. <source xml:lang="en">Am J Physiol Lung Cell Mol Physiol</source>. <year>2015</year>;<volume>310</volume>:<fpage>L103</fpage>&#x02010;<lpage>L113</lpage>.<pub-id pub-id-type="pmid">26566906</pub-id></mixed-citation></ref><ref id="sct312618-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="sct312618-cit-0070">
+<string-name>
+<surname>Gangadaran</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Rajendran</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>HW</given-names>
+</string-name>, et al. <article-title>Extracellular vesicles from mesenchymal stem cells activates VEGF receptors and accelerates recovery of hindlimb ischemia</article-title>. <source xml:lang="en">J Control Release</source>. <year>2017</year>;<volume>264</volume>:<fpage>112</fpage>&#x02010;<lpage>126</lpage>.<pub-id pub-id-type="pmid">28837823</pub-id></mixed-citation></ref><ref id="sct312618-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="sct312618-cit-0071">
+<string-name>
+<surname>Wiklander</surname>
+<given-names>OP</given-names>
+</string-name>, <string-name>
+<surname>Brennan</surname>
+<given-names>M&#x000c1;</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f6;tvall</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Breakefield</surname>
+<given-names>XO</given-names>
+</string-name>, <string-name>
+<surname>Andaloussi</surname>
+<given-names>SE</given-names>
+</string-name>. <article-title>Advances in therapeutic applications of extracellular vesicles</article-title>. <source xml:lang="en">Sci Transl Med</source>. <year>2019</year>;<volume>11</volume>:<elocation-id>eaav8521</elocation-id>.<pub-id pub-id-type="pmid">31092696</pub-id></mixed-citation></ref><ref id="sct312618-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="sct312618-cit-0072">
+<string-name>
+<surname>Murray</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Krasnodembskaya</surname>
+<given-names>AD</given-names>
+</string-name>. <article-title>Concise review: intercellular communication via organelle transfer in the biology and therapeutic applications of stem cells</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2019</year>;<volume>37</volume>:<fpage>14</fpage>&#x02010;<lpage>25</lpage>.<pub-id pub-id-type="pmid">30353966</pub-id></mixed-citation></ref><ref id="sct312618-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="sct312618-cit-0073">
+<string-name>
+<surname>Weiss</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>English</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Krasnodembskaya</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Isaza&#x02010;Correa</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Hawthorne</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name>
+<surname>Mahon</surname>
+<given-names>BP</given-names>
+</string-name>. <article-title>The necrobiology of mesenchymal stromal cells affects therapeutic efficacy</article-title>. <source xml:lang="en">Front Immunol</source>. <year>2019</year>;<volume>10</volume>:<fpage>1228</fpage>.<pub-id pub-id-type="pmid">31214185</pub-id></mixed-citation></ref><ref id="sct312618-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="sct312618-cit-0074">
+<string-name>
+<surname>Nassar</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>El&#x02010;Ansary</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sabry</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Umbilical cord mesenchymal stem cells derived extracellular vesicles can safely ameliorate the progression of chronic kidney diseases</article-title>. <source xml:lang="en">Biomater Res</source>. <year>2016</year>;<volume>20</volume>:<fpage>21</fpage>.<pub-id pub-id-type="pmid">27499886</pub-id></mixed-citation></ref><ref id="sct312618-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="sct312618-cit-0075">
+<string-name>
+<surname>Zhu</surname>
+<given-names>YG</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>XM</given-names>
+</string-name>, <string-name>
+<surname>Abbott</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Human mesenchymal stem cell microvesicles for treatment of <italic>Escherichia coli</italic> endotoxin&#x02010;induced acute lung injury in mice</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2014</year>;<volume>32</volume>:<fpage>116</fpage>&#x02010;<lpage>125</lpage>.<pub-id pub-id-type="pmid">23939814</pub-id></mixed-citation></ref><ref id="sct312618-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="sct312618-cit-0076">
+<string-name>
+<surname>Fergie</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Todd</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>McClements</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>McAuley</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>O'Kane</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Krasnodembskaya</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Hypercapnic acidosis induces mitochondrial dysfunction and impairs the ability of mesenchymal stem cells to promote distal lung epithelial repair</article-title>. <source xml:lang="en">FASEB J</source>. <year>2019</year>;<volume>33</volume>:<fpage>5585</fpage>&#x02010;<lpage>5598</lpage>.<pub-id pub-id-type="pmid">30649987</pub-id></mixed-citation></ref><ref id="sct312618-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="sct312618-cit-0077">
+<string-name>
+<surname>Tang</surname>
+<given-names>XD</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Monsel</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cell microvesicles attenuate acute lung injury in mice partly mediated by Ang&#x02010;1 mRNA</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2017</year>;<volume>35</volume>:<fpage>1849</fpage>&#x02010;<lpage>1859</lpage>.<pub-id pub-id-type="pmid">28376568</pub-id></mixed-citation></ref><ref id="sct312618-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="sct312618-cit-0078">
+<string-name>
+<surname>Monsel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>YG</given-names>
+</string-name>, <string-name>
+<surname>Gennai</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Therapeutic effects of human mesenchymal stem cell&#x02013;derived microvesicles in severe pneumonia in mice</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>. <year>2015</year>;<volume>192</volume>:<fpage>324</fpage>&#x02010;<lpage>336</lpage>.<pub-id pub-id-type="pmid">26067592</pub-id></mixed-citation></ref><ref id="sct312618-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="sct312618-cit-0079">
+<string-name>
+<surname>Khatri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Meulia</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Mesenchymal stem cell&#x02010;derived extracellular vesicles attenuate influenza virus&#x02010;induced acute lung injury in a pig model</article-title>. <source xml:lang="en">Stem Cell Res Ther</source>. <year>2018</year>;<volume>9</volume>:<fpage>17</fpage>.<pub-id pub-id-type="pmid">29378639</pub-id></mixed-citation></ref><ref id="sct312618-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="sct312618-cit-0080">
+<string-name>
+<surname>Gennai</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Monsel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Matthay</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JW</given-names>
+</string-name>. <article-title>Microvesicles derived from human mesenchymal stem cells restore alveolar fluid clearance in human lungs rejected for transplantation</article-title>. <source xml:lang="en">Am J Transplant</source>. <year>2015</year>;<volume>15</volume>:<fpage>2404</fpage>&#x02010;<lpage>2412</lpage>.<pub-id pub-id-type="pmid">25847030</pub-id></mixed-citation></ref><ref id="sct312618-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="sct312618-cit-0081">
+<string-name>
+<surname>McAuley</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name>
+<surname>Curley</surname>
+<given-names>GF</given-names>
+</string-name>, <string-name>
+<surname>Hamid</surname>
+<given-names>UI</given-names>
+</string-name>, et al. <article-title>Clinical grade allogeneic human mesenchymal stem cells restore alveolar fluid clearance in human lungs rejected for transplantation</article-title>. <source xml:lang="en">Am J Physiol Lung Cell Mol Physiol</source>. <year>2014</year>;<volume>306</volume>:<fpage>L809</fpage>&#x02010;<lpage>L815</lpage>.<pub-id pub-id-type="pmid">24532289</pub-id></mixed-citation></ref><ref id="sct312618-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="sct312618-cit-0082">
+<string-name>
+<surname>Park</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Therapeutic effects of human mesenchymal stem cell microvesicles in an ex vivo perfused human lung injured with severe <italic>E. coli</italic> pneumonia</article-title>. <source xml:lang="en">Thorax</source>. <year>2019</year>;<volume>74</volume>:<fpage>43</fpage>&#x02010;<lpage>50</lpage>.<pub-id pub-id-type="pmid">30076187</pub-id></mixed-citation></ref><ref id="sct312618-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="sct312618-cit-0083">
+<string-name>
+<surname>Hu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cell microvesicles restore protein permeability across primary cultures of injured human lung microvascular endothelial cells</article-title>. <source xml:lang="en">Stem Cells Translational Medicine</source>. <year>2018</year>;<volume>7</volume>:<fpage>615</fpage>&#x02010;<lpage>624</lpage>.<pub-id pub-id-type="pmid">29737632</pub-id></mixed-citation></ref><ref id="sct312618-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="sct312618-cit-0084">
+<string-name>
+<surname>Varkouhi</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Jerkic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ormesher</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Extracellular vesicles from interferon&#x02010;&#x003b3;&#x02013;primed human umbilical cord mesenchymal stromal cells reduce <italic>Escherichia coli</italic>&#x02013;induced acute lung injury in rats</article-title>. <source xml:lang="en">Anesthesiology</source>. <year>2019</year>;<volume>130</volume>:<fpage>778</fpage>&#x02010;<lpage>790</lpage>.<pub-id pub-id-type="pmid">30870158</pub-id></mixed-citation></ref><ref id="sct312618-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="sct312618-cit-0085">
+<string-name>
+<surname>Kern</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Eichler</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Stoeve</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kl&#x000fc;ter</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Bieback</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Comparative analysis of mesenchymal stem cells from bone marrow, umbilical cord blood, or adipose tissue</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2006</year>;<volume>24</volume>:<fpage>1294</fpage>&#x02010;<lpage>1301</lpage>.<pub-id pub-id-type="pmid">16410387</pub-id></mixed-citation></ref><ref id="sct312618-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="sct312618-cit-0086">
+<string-name>
+<surname>Cao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lyu</surname>
+<given-names>YI</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>MicroRNAs: novel regulatory molecules in acute lung injury/acute respiratory distress syndrome</article-title>. <source xml:lang="en">Biomed Rep</source>. <year>2016</year>;<volume>4</volume>:<fpage>523</fpage>&#x02010;<lpage>527</lpage>.<pub-id pub-id-type="pmid">27123242</pub-id></mixed-citation></ref><ref id="sct312618-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="sct312618-cit-0087">
+<string-name>
+<surname>Xie</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>ncRNA&#x02010;regulated immune response and its role in inflammatory lung diseases</article-title>. <source xml:lang="en">Am J Physiol Lung Cell Mol Physiol</source>. <year>2015</year>;<volume>309</volume>:<fpage>L1076</fpage>&#x02010;<lpage>L1087</lpage>.<pub-id pub-id-type="pmid">26432871</pub-id></mixed-citation></ref><ref id="sct312618-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="sct312618-cit-0088">
+<string-name>
+<surname>Zhu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Whole blood microRNA markers are associated with acute respiratory distress syndrome</article-title>. <source xml:lang="en">Intensive Care Med Exp</source>. <year>2017</year>;<volume>5</volume>:<fpage>38</fpage>.<pub-id pub-id-type="pmid">28856588</pub-id></mixed-citation></ref><ref id="sct312618-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="sct312618-cit-0089">
+<string-name>
+<surname>Wei Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Mesenchymal stromal cells&#x02010;derived exosomes alleviate ischemia/reperfusion injury in mouse lung by transporting anti&#x02010;apoptotic miR&#x02010;21&#x02010;5p</article-title>. <source xml:lang="en">Eur J Pharmacol</source>. <year>2019</year>;<volume>852</volume>:<fpage>68</fpage>&#x02010;<lpage>76</lpage>.<pub-id pub-id-type="pmid">30682335</pub-id></mixed-citation></ref><ref id="sct312618-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="sct312618-cit-0090">
+<string-name>
+<surname>Yi</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Lv</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Exosomes derived from microRNA&#x02010;30b&#x02010;3p&#x02010;overexpressing mesenchymal stem cells protect against lipopolysaccharide&#x02010;induced acute lung injury by inhibiting SAA3</article-title>. <source xml:lang="en">Exp Cell Res</source>. <year>2019</year>;<volume>383</volume>:<fpage>111454</fpage>.<pub-id pub-id-type="pmid">31170401</pub-id></mixed-citation></ref><ref id="sct312618-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="sct312618-cit-0091">
+<string-name>
+<surname>Song</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Dou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Exosomal miR&#x02010;146a contributes to the enhanced therapeutic efficacy of interleukin&#x02010;1&#x003b2;&#x02010;primed mesenchymal stem cells against sepsis</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2017</year>;<volume>35</volume>:<fpage>1208</fpage>&#x02010;<lpage>1221</lpage>.<pub-id pub-id-type="pmid">28090688</pub-id></mixed-citation></ref><ref id="sct312618-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="sct312618-cit-0092">
+<string-name>
+<surname>Chen</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Arslan</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Enabling a robust scalable manufacturing process for therapeutic exosomes through oncogenic immortalization of human ESC&#x02010;derived MSCs</article-title>. <source xml:lang="en">J Transl Med</source>. <year>2011</year>;<volume>9</volume>:<fpage>47</fpage>.<pub-id pub-id-type="pmid">21513579</pub-id></mixed-citation></ref><ref id="sct312618-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="sct312618-cit-0093">
+<string-name>
+<surname>Pachler</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Lener</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Streif</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>A good manufacturing practice&#x02013;grade standard protocol for exclusively human mesenchymal stromal cell&#x02013;derived extracellular vesicles</article-title>. <source xml:lang="en">Cytotherapy</source>. <year>2017</year>;<volume>19</volume>:<fpage>458</fpage>&#x02010;<lpage>472</lpage>.<pub-id pub-id-type="pmid">28188071</pub-id></mixed-citation></ref><ref id="sct312618-bib-0094"><label>94</label><mixed-citation publication-type="journal" id="sct312618-cit-0094">
+<string-name>
+<surname>Mendt</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kamerkar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sugimoto</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Generation and testing of clinical&#x02010;grade exosomes for pancreatic cancer</article-title>. <source xml:lang="en">JCI Insight</source>. <year>2018</year>;<volume>3</volume>:<fpage>99263</fpage>.<pub-id pub-id-type="pmid">29669940</pub-id></mixed-citation></ref></ref-list></back></article>

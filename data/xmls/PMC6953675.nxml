@@ -1,0 +1,920 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938506</article-id><article-id pub-id-type="pmc">6953675</article-id><article-id pub-id-type="doi">10.1002/ece3.5846</article-id><article-id pub-id-type="publisher-id">ECE35846</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Glacial cycles drive rapid divergence of cryptic field vole species</article-title><alt-title alt-title-type="left-running-head">FLETCHER et al.</alt-title></title-group><contrib-group><contrib id="ece35846-cr-0001" contrib-type="author" corresp="yes"><name><surname>Fletcher</surname><given-names>Nicholas K.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8583-819X</contrib-id><xref ref-type="aff" rid="ece35846-aff-0001">
+<sup>1</sup>
+</xref><address><email>nkf32@cornell.edu</email></address></contrib><contrib id="ece35846-cr-0002" contrib-type="author"><name><surname>Acevedo</surname><given-names>Pelayo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3509-7696</contrib-id><xref ref-type="aff" rid="ece35846-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35846-cr-0003" contrib-type="author"><name><surname>Herman</surname><given-names>Jeremy S.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4104-2322</contrib-id><xref ref-type="aff" rid="ece35846-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35846-cr-0004" contrib-type="author"><name><surname>Paup&#x000e9;rio</surname><given-names>Joana</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2569-0768</contrib-id><xref ref-type="aff" rid="ece35846-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ece35846-cr-0005" contrib-type="author"><name><surname>Alves</surname><given-names>Paulo C.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4797-0939</contrib-id><xref ref-type="aff" rid="ece35846-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="ece35846-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="ece35846-cr-0006" contrib-type="author"><name><surname>Searle</surname><given-names>Jeremy B.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7710-5204</contrib-id><xref ref-type="aff" rid="ece35846-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35846-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="ece35846-aff-0005">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="ece35846-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Ecology and Evolutionary Biology</named-content>
+<institution>Cornell University</institution>
+<city>Ithaca</city>
+<named-content content-type="country-part">NY</named-content>
+<country country="US">USA</country>
+</aff><aff id="ece35846-aff-0002">
+<label><sup>2</sup></label>
+<institution>Instituto de Investigaci&#x000f3;n en Recursos Cineg&#x000e9;ticos, IREC (UCLM&#x02010;CSIC&#x02010;JCCM)</institution>
+<city>Ciudad Real</city>
+<country country="ES">Spain</country>
+</aff><aff id="ece35846-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Natural Sciences</named-content>
+<institution>National Museums Scotland</institution>
+<city>Edinburgh</city>
+<country country="GB">UK</country>
+</aff><aff id="ece35846-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">CIBIO/InBio, Centro de Investiga&#x000e7;&#x000e3;o em Biodiversidade e Recursos Gen&#x000e9;ticos</named-content>
+<institution>Universidade do Porto, Campus de Vair&#x000e3;o</institution>
+<city>Vair&#x000e3;o</city>
+<country country="PT">Portugal</country>
+</aff><aff id="ece35846-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Departamento de Biologia</named-content>
+<named-content content-type="organisation-division">Faculdade de Ci&#x000ea;ncias</named-content>
+<institution>Universidade do Porto</institution>
+<city>Porto</city>
+<country country="PT">Portugal</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Nicholas K. Fletcher, Department of Ecology and Evolutionary Biology, Dale R. Corson Hall, Cornell University, Ithaca, NY 14850, USA.<break/>
+Email: <email>nkf32@cornell.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14101</fpage><lpage>14113</lpage><history><date date-type="received"><day>24</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>24</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14101.pdf"/><abstract id="ece35846-abs-0001"><title>Abstract</title><p>Understanding the factors that contribute to the generation of reproductively isolated forms is a fundamental goal of evolutionary biology. Cryptic species are an especially interesting challenge to study in this context since they lack obvious morphological differentiation that provides clues to adaptive divergence that may drive reproductive isolation. Geographical isolation in refugial areas during glacial cycling is known to be important for generating genetically divergent populations, but its role in the origination of new species is still not fully understood and likely to be situation dependent. We combine analysis of 35,434 single&#x02010;nucleotide polymorphisms (SNPs) with environmental niche modeling (ENM) to investigate genomic and ecological divergence in three cryptic species formerly classified as the field vole (<italic>Microtus agrestis</italic>). The SNPs demonstrate high genomic divergence (pairwise <italic>F</italic>
+<sub>ST</sub> values of 0.45&#x02013;0.72) and little evidence of gene flow among the three field vole cryptic species, and we argue that genetic drift may have been a particularly important mechanism for divergence in the group. The ENM reveals three areas as potential glacial refugia for the cryptic species and differing climatic niches, although with spatial overlap between species pairs. This evidence underscores the role that glacial cycling has in promoting genetic differentiation and reproductive isolation by subdivision into disjunct distributions at glacial maxima in areas relatively close to ice sheets. Future investigation of the intrinsic barriers to gene flow between the field vole cryptic species is required to fully assess the mechanisms that contribute to reproductive isolation. In addition, the Portuguese field vole (<italic>M.&#x000a0;rozianus</italic>) shows a high inbreeding coefficient and a restricted climatic niche, and warrants investigation into its conservation status.</p></abstract><abstract abstract-type="graphical" id="ece35846-abs-0002"><p>We combine analysis of 35,434 single&#x02010;nucleotide polymorphisms (SNPs) with environmental niche modeling (ENM) to investigate genomic and ecological divergence in three cryptic species formerly classified as the field vole (<italic>Microtus agrestis</italic>). The genomic data demonstrate divergence and little evidence of gene flow among the three field vole cryptic species, and we argue that genetic drift may have been a particularly important mechanism for divergence in the group. The ENM reveals three areas as potential glacial refugia for the cryptic species and differing climatic niches, although with spatial overlap between species pairs, underscoring the role that glacial cycles play in driving divergence between these species.<boxed-text position="anchor" content-type="graphic" id="ece35846-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14101-g008.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35846-kwd-0001">environmental niche modeling</kwd><kwd id="ece35846-kwd-0002">genetic drift</kwd><kwd id="ece35846-kwd-0003">genotyping&#x02010;by&#x02010;sequencing</kwd><kwd id="ece35846-kwd-0004">glacial refugia</kwd><kwd id="ece35846-kwd-0005"><styled-content style="fixed-case" toggle="no"><italic>Microtus agrestis</italic></styled-content></kwd><kwd id="ece35846-kwd-0006">speciation</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>American Society of Mammalogists' Grants&#x02010;in&#x02010;Aid </institution><institution-id institution-id-type="open-funder-registry">10.13039/100010389</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Society for the Study of Evolution Rosemary Grant </institution><institution-id institution-id-type="open-funder-registry">10.13039/100012454</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Spanish Ministerio de Econom&#x000ed;a y Competitividad (MINECO) </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100003329</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>Universidad de Castilla&#x02010;La Mancha (UCLM) </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100007480</institution-id></institution-wrap></funding-source><award-id>RYC&#x02010;2012&#x02010;11970</award-id></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>European Union's Horizon 2020 Research and Innovation Program </institution><institution-id institution-id-type="open-funder-registry">10.13039/100010661</institution-id></institution-wrap></funding-source><award-id>668981</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="2"/><page-count count="13"/><word-count count="10213"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35846-cit-1001">
+<string-name>
+<surname>Fletcher</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name>
+<surname>Acevedo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Herman</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Paup&#x000e9;rio</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Alves</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Searle</surname>
+<given-names>JB</given-names>
+</string-name>. <article-title>Glacial cycles drive rapid divergence of cryptic field vole species</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14101</fpage>&#x02013;<lpage>14113</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5846</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35846-body-0001"><sec id="ece35846-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Genetic variation in contemporary taxa is often heterogeneous across space, with a patchwork of genetically distinct lineages that have been shaped by various historical and ecological processes (Avise, <xref rid="ece35846-bib-0005" ref-type="ref">2000</xref>; Moritz, <xref rid="ece35846-bib-0061" ref-type="ref">1994</xref>). These processes not only determine the geographic distribution of the entities that make up a species but also mold their adaptive potential and evolutionary trajectories (Funk, McKay, Hohenlohe, &#x00026; Allendorf, <xref rid="ece35846-bib-0029" ref-type="ref">2012</xref>; Moritz, <xref rid="ece35846-bib-0061" ref-type="ref">1994</xref>; Waples, <xref rid="ece35846-bib-0082" ref-type="ref">1991</xref>). Genetically divergent lineages are the precursors of new reproductively isolated forms and can be considered the true origin of species (Broughton &#x00026; Harrison, <xref rid="ece35846-bib-0013" ref-type="ref">2003</xref>; Feder, Egan, &#x00026; Nosil, <xref rid="ece35846-bib-0025" ref-type="ref">2012</xref>).</p><p>In the case of cryptic species, that is two or more similar species that were previously conspecific and essentially indistinguishable in gross morphology, the assessment of genetic differentiation is the foundation of their discovery (Bickford et al., <xref rid="ece35846-bib-0008" ref-type="ref">2007</xref>; S&#x000e1;ez &#x00026; Lozano, <xref rid="ece35846-bib-0073" ref-type="ref">2005</xref>). Cryptic species complexes form a critical, yet understudied, component of biodiversity and while (by definition) they are morphologically similar, life history, ecological, or behavioral differences may impact their role in the ecosystem and their susceptibility to extirpation or need for conservation (Bickford et al., <xref rid="ece35846-bib-0008" ref-type="ref">2007</xref>; Geller, <xref rid="ece35846-bib-0030" ref-type="ref">1999</xref>; Ravaoarimanana, Tiedemann, Montagnon, &#x00026; Rumpler, <xref rid="ece35846-bib-0069" ref-type="ref">2004</xref>). Behavioral differences may also allow members of cryptic species to distinguish their own kind through nonvisual communication such as electrophysiological, auditory, or chemical cues (e.g., Card&#x000e9; et al., <xref rid="ece35846-bib-0014" ref-type="ref">1978</xref>; Feulner, Kirschbaum, Schugardt, Ketmaier, &#x00026; Tiedemann, <xref rid="ece35846-bib-0026" ref-type="ref">2006</xref>; Narins, <xref rid="ece35846-bib-0063" ref-type="ref">1983</xref>). The genetic distinctiveness that allows cryptic species to be identified may be substantial, driven by the same processes of isolation and accumulation of genetic differences as in &#x0201c;noncryptic&#x0201d; species complexes (Paup&#x000e9;rio et al., <xref rid="ece35846-bib-0064" ref-type="ref">2012</xref>; Sanders, Malhotra, &#x00026; Thorpe, <xref rid="ece35846-bib-0075" ref-type="ref">2004</xref>), with implications for their ecological and evolutionary potential (Geller, <xref rid="ece35846-bib-0030" ref-type="ref">1999</xref>; Ravaoarimanana et al., <xref rid="ece35846-bib-0069" ref-type="ref">2004</xref>).</p><p>Genetic divergence between contemporary cryptic species may have been driven by geographic isolation during Pleistocene glacial maxima (e.g., Haffer, <xref rid="ece35846-bib-0032" ref-type="ref">1969</xref>; Lovette, <xref rid="ece35846-bib-0053" ref-type="ref">2005</xref>; Rand, <xref rid="ece35846-bib-0068" ref-type="ref">1948</xref>; Stewart, Lister, Barnes, &#x00026; Dal&#x000e9;n, <xref rid="ece35846-bib-0077" ref-type="ref">2010</xref>). Europe offers a particular opportunity to study cryptic speciation due to close proximity of ice sheets at glacial maxima, and geographic complexity of the region that resulted in multiple independent glacial refugia and subsequent northward expansions during interglacials (Hewitt, <xref rid="ece35846-bib-0037" ref-type="ref">2000</xref>; Stewart et al., <xref rid="ece35846-bib-0077" ref-type="ref">2010</xref>). Populations in different refugia would have experienced different selective pressures during isolation that, along with genetic drift, would have promoted genetic divergence (Stewart et al., <xref rid="ece35846-bib-0077" ref-type="ref">2010</xref>). The amount of genomic differentiation between separated refugial populations may reflect a variety of evolutionary processes, including but not limited to: local adaptation and divergent selection during isolation, the amount of gene flow between the refugia, and the extent of historic reductions in population size (Funk et al., <xref rid="ece35846-bib-0029" ref-type="ref">2012</xref>; Kohn, Murphy, Ostrander, &#x00026; Wayne, <xref rid="ece35846-bib-0045" ref-type="ref">2006</xref>; Thomas &#x00026; Klaper, <xref rid="ece35846-bib-0079" ref-type="ref">2004</xref>). Genetic drift is especially likely to have been important in refugia where population sizes were small enough to overwhelm the forces of natural selection (Stewart et al., <xref rid="ece35846-bib-0077" ref-type="ref">2010</xref>). These multiple microevolutionary processes created the opportunity for accelerated speciation during the glacial cycles (Weir &#x00026; Schluter, <xref rid="ece35846-bib-0084" ref-type="ref">2004</xref>).</p><p>The integration of genomic analyses and environmental niche modeling (ENM) may allow a powerful investigation of cryptic speciation during the Pleistocene. In the absence of direct observations, genomic analyses can serve as essential proxies for assessing both historic differentiation and current reproductive isolation between forms (Bickford et al., <xref rid="ece35846-bib-0008" ref-type="ref">2007</xref>; Kohn et al., <xref rid="ece35846-bib-0045" ref-type="ref">2006</xref>; Thomas &#x00026; Klaper, <xref rid="ece35846-bib-0079" ref-type="ref">2004</xref>). Additionally, ENM provides a valuable assessment of the ecogeographical gradients that limit a species' distribution, providing insight into the aggregate environmental and geographical spaces of the species that may be important in distinguishing characteristics between cryptic species. Moreover, ENM can provide the information needed to generate and test hypotheses concerning the structure of genetic diversity that can be relevant to evaluate hypotheses of glacial refuges (e.g., Richards, Carstens, &#x00026; Knowles, <xref rid="ece35846-bib-0071" ref-type="ref">2007</xref>).</p><p>The system of cryptic speciation that we analyze here is within the vole genus <italic>Microtus</italic>. This genus includes more than 65 species that originated roughly 2&#x000a0;million years ago (based on a robust fossil record), indicating that <italic>Microtus</italic> has an exceptionally high speciation rate, ~60&#x02013;100 times higher than typical vertebrates (Chaline, Brunet&#x02010;Lecomte, Montuire, Viriot, &#x00026; Courant, <xref rid="ece35846-bib-0015" ref-type="ref">1999</xref>; Triant &#x00026; DeWoody, <xref rid="ece35846-bib-0080" ref-type="ref">2006</xref>). This speciation rate is matched in only a few other vertebrate groups, perhaps most notably the African cichlids (Brawand et al., <xref rid="ece35846-bib-0012" ref-type="ref">2014</xref>). Unlike cichlids, whose rapid radiation has been attributed to selection at multiple regions of the genome (Brawand et al., <xref rid="ece35846-bib-0012" ref-type="ref">2014</xref>), the mechanisms underlying the high speciation rate in <italic>Microtus</italic> are poorly known. The genus has a Holarctic distribution and many species occur in areas abutting the maximum glacial extent (Jaarola et al., <xref rid="ece35846-bib-0040" ref-type="ref">2004</xref>). Therefore, the <italic>Microtus</italic> radiation offers an intriguing system to study complementary and potentially different mechanisms for rapid speciation compared to other classic vertebrate models of speciation.</p><p>In particular, the traditional Eurasian &#x0201c;field vole <italic>Microtus agrestis</italic>&#x0201d; (Wilson &#x00026; Reeder, <xref rid="ece35846-bib-0086" ref-type="ref">2005</xref>) includes three major evolutionary lineages that split very recently, are morphologically and karyotypically similar, yet show up to 6% divergence at cytochrome <italic>b</italic> and reciprocal monophyly at multiple nuclear loci (Gim&#x000e9;nez, Paup&#x000e9;rio, Alves, &#x00026; Searle, <xref rid="ece35846-bib-0031" ref-type="ref">2012</xref>; Jaarola &#x00026; Searle, <xref rid="ece35846-bib-0042" ref-type="ref">2004</xref>; Paup&#x000e9;rio et al., <xref rid="ece35846-bib-0064" ref-type="ref">2012</xref>). Following Paup&#x000e9;rio et al. (<xref rid="ece35846-bib-0064" ref-type="ref">2012</xref>) and Kry&#x00161;tufek (<xref rid="ece35846-bib-0046" ref-type="ref">2017</xref>), these three divergent lineages will be considered cryptic species: The newly named Portuguese field vole (<italic>M.&#x000a0;rozianus</italic>) and Mediterranean field vole (<italic>M.&#x000a0;lavernedii</italic>), with the most widespread form, the short&#x02010;tailed field vole, retaining <italic>M.&#x000a0;agrestis</italic> as a Linnean name. According to Paup&#x000e9;rio et al. (<xref rid="ece35846-bib-0064" ref-type="ref">2012</xref>), the Portuguese lineage became separated from the combined Mediterranean and short&#x02010;tailed field vole lineages around ~70,000&#x000a0;years ago, at the maximum glacial extent in northern Iberia, while the latter two lineages subsequently originated during the Last Glacial Maximum (LGM) in Europe ~25,000&#x000a0;years ago. The Portuguese and Mediterranean cryptic species have relatively restricted distributions within the Iberian Peninsula and Southern Europe, while the short&#x02010;tailed field vole is present in much of Eurasia, from Britain and France in the west to central Siberia in the east. Within the short&#x02010;tailed field vole, six genetic lineages split during the Younger Dryas&#x000a0;~&#x000a0;12,000&#x000a0;years ago and subsequently expanded to fill this range (Herman &#x00026; Searle, <xref rid="ece35846-bib-0035" ref-type="ref">2011</xref>). The dates for these splits are based on robust mtDNA molecular clock rate calibrated from the dates of postglacial ice sheet retreat and sea level rise that limited the potential time of colonization of Britain (Herman et al., <xref rid="ece35846-bib-0034" ref-type="ref">2014</xref>) and consistent with ancient DNA analysis of another <italic>Microtus</italic> species (Mart&#x000ed;nkov&#x000e1; et al., <xref rid="ece35846-bib-0056" ref-type="ref">2013</xref>). Therefore, the field vole cryptic species complex includes a hierarchy of differentiation caused by lineage splits associated with different climatic events and locations during the Late Pleistocene, making it an excellent system to understand the basis of rapid speciation and the role of recent glacial cycles in population divergence and speciation.</p><p>In this study, we investigated the rapid divergence of the field vole cryptic species by using genotyping&#x02010;by&#x02010;sequencing (GBS; Elshire et al., <xref rid="ece35846-bib-0023" ref-type="ref">2011</xref>) to sequence anonymous single&#x02010;nucleotide polymorphisms (SNPs) across the genome of 83 individuals. Our sampling includes individuals of all three field vole cryptic species from western Europe (Figure <xref rid="ece35846-fig-0001" ref-type="fig">1</xref>a, Table <xref rid="ece35846-sup-0008" ref-type="supplementary-material">S1</xref>). We aim to characterize the level of genomic divergence that has led to the formation of cryptic species within the last glacial cycle, presumably driven by geographic isolation in glacial refugia. In order to assess the putative climatic basis of differentiation, we performed ENM to estimate the climate favorability for the field vole at Last Glacial Maximum (LGM) and, finally, we studied the biogeographic relationships among its cryptic species at present. Using these analyses, we characterized broad&#x02010;scale genomic and ecological differentiation among the three field vole cryptic species and confirm the high levels of both genomic divergence and differences in their climatic envelope. These analyses contribute to our understanding of how isolation during glacial cycling can cause rapid, yet high genome&#x02010;wide divergence between populations that result in new (cryptic) species.</p><fig fig-type="Figure" xml:lang="en" id="ece35846-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>(a) Western European sampling localities for the three species included in SNP analyses. (b) Procrustes transformed genetic and geographic coordinates (details of procrustes transformation in methods). Portuguese (yellow), Mediterranean (red), and short&#x02010;tailed (blue) field voles</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14101-g001"/></fig></sec><sec sec-type="methods" id="ece35846-sec-0002"><label>2</label><title>METHODS</title><sec id="ece35846-sec-0003"><label>2.1</label><title>DNA extraction and genotyping&#x02010;by&#x02010;sequencing</title><p>Genomic DNA was extracted from ethanol&#x02010;preserved vole tissues (ears or digits) from 83 specimens, collected between 1995 and 2009 in western Europe (Figure <xref rid="ece35846-fig-0001" ref-type="fig">1</xref>a, Table <xref rid="ece35846-sup-0008" ref-type="supplementary-material">S1</xref>), using the DNeasy Blood and Tissue kit (Qiagen) following standard protocols. GBS was conducted on extracted DNA by the Cornell Institute for Genomic Diversity (Elshire et al., <xref rid="ece35846-bib-0023" ref-type="ref">2011</xref>). The enzyme PstI (CTGCAG) was used for digestion, and the fragmented DNA was then ligated to a bar&#x02010;coded adaptor and a common adaptor with the appropriate &#x0201c;sticky ends.&#x0201d; Each individual was given a unique barcode combination and, after ligation, all individuals were pooled into a single Eppendorf tube. The libraries were then subjected to PCR, using primers that matched the barcoded and common adaptors, to amplify appropriately sized sequence fragments and to add sequencing primers to the libraries. Libraries were cleaned using a Qiaquick PCR Purification Kit (Qiagen). They were sequenced using single&#x02010;end 100&#x000a0;bp reads on two separate lanes of an Illumina HiSeq 2000 at Cornell University Life Sciences Core Laboratories Center.</p></sec><sec id="ece35846-sec-0004"><label>2.2</label><title>SNP genotyping and filtering</title><p>Raw FASTQ files from the Illumina run were converted to individual SNP genotypes using the TASSEL GBS pipeline, as part of the TASSEL 5.0 software (Bradbury et al., <xref rid="ece35846-bib-0011" ref-type="ref">2007</xref>). We implemented the standard TASSEL pipeline with the following parameters. First, we found all reads with barcodes that match the index file and trimmed them to 64&#x000a0;bp to create tags. Only tags with a minimum number of five reads were retained and subsequently merged into a master tag list for each individual. Only tags with one SNP per fragment were included in this analysis. All reads were aligned to the <italic>Microtus ochrogaster</italic> reference genome (McGraw, Davis, Young, &#x00026; Thomas, <xref rid="ece35846-bib-0059" ref-type="ref">2011</xref>) using BWA (Li &#x00026; Durbin, <xref rid="ece35846-bib-0048" ref-type="ref">2009</xref>). The error rate for SNP calling was set to 0.03, with a genotypic mismatch rate set to 0.1. To minimize sequencing error, triallelic minor alleles were excluded, as well as SNPs with a minor allele frequency&#x000a0;&#x0003c;&#x000a0;0.05. Only SNPs that were present in &#x0003e;60 of 83 individuals (~72%), and therefore shared across all three cryptic species, were included. It should be noted that changing this missing data threshold to 80%, 90%, and 100% did not change the pattern of our results (data not shown). Individuals with a proportion of missing SNP data &#x0003e;0.25% were excluded, and the average proportion of missing SNP data per individual was 0.066% across all individuals after filtering. Data were converted to vcf files for subsequent analyses. To filter out SNPs from paralogous loci, SNPs were excluded if they showed significant (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05) excess heterozygosity and deviation from Hardy&#x02013;Weinberg equilibrium as calculated using vcftools (Danecek et al., <xref rid="ece35846-bib-0016" ref-type="ref">2011</xref>).</p></sec><sec id="ece35846-sec-0005"><label>2.3</label><title>Genetic diversity patterns</title><p>Weir and Cockerham's <italic>F</italic>
+<sub>ST</sub> and the inbreeding coefficient F were calculated using <italic>vcftools</italic> (Danecek et al., <xref rid="ece35846-bib-0016" ref-type="ref">2011</xref>). To visualize genetic clusters, principal component analysis (PCA) was performed with the TASSEL 5.0 software using standard parameters (Elshire et al., <xref rid="ece35846-bib-0023" ref-type="ref">2011</xref>). File conversion for subsequent analyses was done using the software PGDspider (Lischer &#x00026; Excoffier, <xref rid="ece35846-bib-0050" ref-type="ref">2012</xref>). To examine patterns of genetic differentiation and admixture, we used STRUCTURE version 2.3 with a 50,000&#x02010;cycle run burn&#x02010;in period followed by 50,000 cycles using an admixture model and correlated allele frequencies among groups (Pritchard, Stephens, &#x00026; Donnelly, <xref rid="ece35846-bib-0066" ref-type="ref">2000</xref>). This was repeated for <italic>K</italic>&#x000a0;=&#x000a0;1&#x02013;5. STRUCTURE HARVESTER (Earl, <xref rid="ece35846-bib-0020" ref-type="ref">2012</xref>) was used to determine the <italic>K</italic> with highest log&#x02010;likelihood. Data outputs were visualized using custom R scripts (R Development Core Team, <xref rid="ece35846-bib-0067" ref-type="ref">2008</xref>) included on our Data Dryad submission. To investigate if genome&#x02010;wide differentiation patterns are driven by geographic sampling of the individuals, we compared genomic PCA distributions to geographic distributions using a Procrustes transformation technique (Wang et al., <xref rid="ece35846-bib-0081" ref-type="ref">2010</xref>). The first two PCA eigenvectors and the latitude and longitude of the individual sample locations were superimposed, with the PC axes rotated to maximize similarity to the geographic distribution of sampled locations. The significance of the association was evaluated based on 10,000 permutations. Procrustes transformations and maps were implemented in R using the &#x0201c;MCMCpack&#x0201d; and &#x0201c;vegan&#x0201d; packages (R Development Core Team, <xref rid="ece35846-bib-0067" ref-type="ref">2008</xref>).</p></sec><sec id="ece35846-sec-0006"><label>2.4</label><title>Environmental niche modeling</title><p>Environmental niche modeling can provide information needed to understand the past structure of genetic diversity (e.g., Richards et al., <xref rid="ece35846-bib-0071" ref-type="ref">2007</xref>), supplying complementary information to that obtained from phylogeography (e.g., Diniz&#x02010;Filho, Gouveia, &#x00026; Lima&#x02010;Ribeiro, <xref rid="ece35846-bib-0017" ref-type="ref">2013</xref>). In this context, we used ENM to: (a) Parameterize a model to be hindcasted for the LGM to make inferences about glacial refugia for the species and (b) parameterize models for each cryptic species of field vole to determine their biogeographical relationships.</p><sec id="ece35846-sec-0007"><label>2.4.1</label><title>Glacial refugia</title><p>The starting point for these analyses was distribution data from the Atlas of European Mammals (Mitchell&#x02010;Jones et al., <xref rid="ece35846-bib-0060" ref-type="ref">1999</xref>) where the field vole is reported in 1,439 UTM 50&#x000a0;km&#x000a0;&#x000d7;&#x000a0;50&#x000a0;km (out of the 2,553 squares in western Europe). Analyses were restricted to western Europe in order to exclude the most incomplete sampling areas identified by the authors of the Atlas (A. J. Mitchell&#x02010;Jones, personal communication). Fl&#x000f8;jgaard, Normand, Skov, and Svenning (<xref rid="ece35846-bib-0028" ref-type="ref">2009</xref>) studied the main environmental gradients constraining the species distribution range and showed that a model including water balance and growing degree&#x02010;days provided the best predictive ability for the occurrence of the field vole (AUC&#x000a0;=&#x000a0;0.802) that was closely followed by a model based on annual mean temperature and annual precipitation (AUC&#x000a0;=&#x000a0;0.766). However, in revisiting their data for western Europe, the two models are virtually equivalent (only when considering Siberia did the models differ). Therefore, given the interpretability of the predictor variables and the restriction to western Europe of our approach, we feel justified in the present study to parameterize a model including annual mean temperature (BIO1) and annual precipitation (BIO12) as climatic predictors, obtained from the Worldclim project (<ext-link ext-link-type="uri" xlink:href="http://www.worldclim.org/bioclim">http://www.worldclim.org/bioclim</ext-link>; Hijmans, Cameron, Parra, Jones, &#x00026; Jarvis, <xref rid="ece35846-bib-0038" ref-type="ref">2005</xref>). Accordingly, four models using the selected predictors were compared (quadratic terms were estimated by centring the variables on the mean, and they were included in order to account for nonlinear responses of the species to these climatic gradients):
+<list list-type="simple" id="ece35846-list-0001"><list-item><p>model.1: ~BIO1&#x000a0;+&#x000a0;BIO12.</p></list-item><list-item><p>model.2: ~BIO1&#x000a0;+&#x000a0;BIO1<sup>2</sup>&#x000a0;+&#x000a0;BIO12.</p></list-item><list-item><p>model.3: ~BIO1&#x000a0;+&#x000a0;BIO12&#x000a0;+&#x000a0;BIO12<sup>2</sup>.</p></list-item><list-item><p>model.4: ~BIO1&#x000a0;+&#x000a0;BIO1<sup>2</sup>&#x000a0;+&#x000a0;BIO12&#x000a0;+&#x000a0;BIO12<sup>2</sup>.</p></list-item></list>
+</p><p>For ENM, the geographic area of analysis was first delimited using a Trend Surface Analysis (TSA; see details in Acevedo, Jim&#x000e9;nez&#x02010;Valverde, Lobo, &#x00026; Real, <xref rid="ece35846-bib-0001" ref-type="ref">2012</xref>). Then, the dataset with the localities selected after TSA was split and each model was parameterized on the training dataset (80%) and its predictive performance was evaluated on the validation dataset (20%). For each model, logistic regression was used to relate the predictors with species distribution range since it has proved to produce consistent results when models are hindcasted to past climatic scenarios (Acevedo et al., <xref rid="ece35846-bib-0002" ref-type="ref">2015</xref>). Their performance was assessed on the validation dataset both in terms of discrimination (AUC) and reliability (Hosmer and Lemeshow test, and calibration plots), the latter being more informative of their predictive capacity (see Jim&#x000e9;nez&#x02010;Valverde, Acevedo, Barbosa, Lobo, &#x00026; Real, <xref rid="ece35846-bib-0043" ref-type="ref">2013</xref>). Models were compared in terms of predictive performance, and the best model was selected. The selected model was then transferred by projecting the model on bioclimatic variables for the LGM (Braconnot et al., <xref rid="ece35846-bib-0010" ref-type="ref">2007</xref>). For this purpose, we considered the CNRM&#x02010;CM5 Global Circulation Model for models transference. Previously, as the models are not able to accurately predict beyond the range of values of the predictors used for training (Werkowska, M&#x000e1;rquez, Real, &#x00026; Acevedo, <xref rid="ece35846-bib-0085" ref-type="ref">2016</xref>), a multivariate environmental similarity surface (MESS) analysis was developed (Elith, Kearney, &#x00026; Phillips, <xref rid="ece35846-bib-0022" ref-type="ref">2010</xref>). Therefore, the model was not projected to the past in those squares outside the climatic range represented in the training dataset.</p></sec><sec id="ece35846-sec-0008"><label>2.4.2</label><title>Biogeographical relationships</title><p>To determine the biogeographical relationships between cryptic species, we constructed a dataset including the distributions of the cryptic species based on 377 voles previously assessed using diagnostic mtDNA and nuclear markers sampled throughout the range (Portuguese [P]&#x000a0;=&#x000a0;67 localities, Mediterranean [M]&#x000a0;=&#x000a0;84 and short&#x02010;tailed [St]&#x000a0;=&#x000a0;226, data from: Hellborg, G&#x000fc;nd&#x000fc;z, &#x00026; Jaarola, <xref rid="ece35846-bib-0033" ref-type="ref">2005</xref>; Herman &#x00026; Searle, <xref rid="ece35846-bib-0035" ref-type="ref">2011</xref>; Herman et al., <xref rid="ece35846-bib-0034" ref-type="ref">2014</xref>; Jaarola &#x00026; Searle, <xref rid="ece35846-bib-0041" ref-type="ref">2002</xref>; Jaarola &#x00026; Searle, <xref rid="ece35846-bib-0042" ref-type="ref">2004</xref>; Paup&#x000e9;rio et al., <xref rid="ece35846-bib-0064" ref-type="ref">2012</xref>, J. Paup&#x000e9;rio, unpublished data). The first stage was to model, at locality level, pairs of adjacent cryptic species (i.e., P vs. M and M vs. St), using bioclimatic variables as predictors, in order to obtain models able to discriminate between each pair of species. The probabilities of species presence were then projected to the entire species distribution range and used to assign a particular cryptic species to each 50&#x000a0;km&#x000a0;&#x000d7;&#x000a0;50&#x000a0;km UTM squares with presence of the field vole (Mitchell&#x02010;Jones et al., <xref rid="ece35846-bib-0060" ref-type="ref">1999</xref>); for this purpose, the threshold that minimizes the difference between sensitivity and specificity was used (Liu, White, &#x00026; Newell, <xref rid="ece35846-bib-0051" ref-type="ref">2013</xref>).</p><p>In the next stage, the distribution of each cryptic species in western Europe at 50&#x000a0;&#x000d7;&#x000a0;50&#x000a0;km UTM square resolution was modeled. This procedure permitted a more complete range of species distributions in the ENMs, avoiding the sampling effort bias that would be included when directly modeling raw data at a sampling locality scale. To obtain the 50&#x000a0;&#x000d7;&#x000a0;50&#x000a0;km UTM square resolution, we used the presence/absence data predicted in the previous stage. Modeling each cryptic species independently can result in an incomplete environmental response of the species to climatic conditions (e.g., S&#x000e1;nchez&#x02010;Fern&#x000e1;ndez, Lobo, &#x00026; Hern&#x000e1;ndez&#x02010;Manrique, <xref rid="ece35846-bib-0074" ref-type="ref">2011</xref>). Thus, a new model for each cryptic species was parameterized including just the predictors selected in the previous model including the overall species distribution plus the spatial factor (longitude and latitude) to account for the current spatial range in the predictions. Models for each cryptic species were developed using logistic regressions.</p><p>Finally, to establish direct comparisons between ranges of cryptic species distribution, the logistic probabilities were included in the favorability function described by Real, Barbosa, and Vargas (<xref rid="ece35846-bib-0070" ref-type="ref">2006</xref>). The favorability function is a valuable tool to study biogeographical relationships between models whatever the sample prevalence in the calibration datasets (e.g., see Acevedo and Real, <xref rid="ece35846-bib-0003" ref-type="ref">2012</xref>). The biogeographical relationships between two cryptic species were assessed from the favorabilities and using the fuzzy overlap index (FOvI; see details Acevedo, Ward, Real, &#x00026; Smith, <xref rid="ece35846-bib-0004" ref-type="ref">2010</xref>), that is, the ratio between the degree to which the study area is favorable to the two studied cryptic species simultaneously and the degree to which it is favorable for either species (Dubois &#x00026; Prade, <xref rid="ece35846-bib-0019" ref-type="ref">1980</xref>; Kunchenva, <xref rid="ece35846-bib-0047" ref-type="ref">2001</xref>). This index varies from 0 (no overlap in favourability) to 1 (complete overlap in favorability). The FOvI can be decomposed into absolute local overlap values (FOvI&#x02010;L) that represent the contribution of each locality (Universal Transverse Mercator (UTM) square) to the FOvI. Thus, the FOvI&#x02010;L shows the spatial location of the areas where spatial overlap between species is expected to occur (Acevedo et al., <xref rid="ece35846-bib-0004" ref-type="ref">2010</xref>). According to these authors, three thresholds in FOvI&#x02010;L can be defined: FOvI&#x02010;L&#x000a0;&#x0003c;&#x000a0;0.2 autoecological segregation, 0.2&#x000a0;&#x0003e;&#x000a0;FOvI&#x02010;L&#x000a0;&#x0003e;&#x000a0;0.8 competitive exclusion, and FOvI&#x02010;L&#x000a0;&#x0003e;&#x000a0;0.8 coexistence. Absolute local overlap values indicate the minimum environmental favorability that a given locality achieves for the two species, and whether one is predicted to have higher favorability than the other. These analyses of biogeographical relationship between interacting species were carried out with the favorability values derived for ENM reported in Figure <xref rid="ece35846-sup-0005" ref-type="supplementary-material">S5</xref>.</p></sec></sec></sec><sec sec-type="results" id="ece35846-sec-0009"><label>3</label><title>RESULTS</title><sec id="ece35846-sec-0010"><label>3.1</label><title>Sequence data quality control and filtering</title><p>We sequenced a total of 198,371,000 reads across 83 individuals. Of these, 166,336,045 reads contained unique barcodes and cut sites, and contained no &#x0201c;N&#x0201d;s. These reads corresponded to 692,765 tags across all individuals that met the minimum 5&#x000d7; threshold coverage. Of these tags, a total of 338,732 could be aligned to unique positions in the <italic>M.&#x000a0;ochrogaster</italic> genome. After filtering for missing data, minor allele frequency and excess heterozygosity, there were 35,434 loci, with an average of 6.55% missing data across all sites and individuals.</p></sec><sec id="ece35846-sec-0011"><label>3.2</label><title>Genetic diversity patterns</title><p>Global <italic>F</italic>
+<sub>ST</sub> among the three cryptic field vole species, using the 35,434 loci, was 0.453 and the frequency distribution of <italic>F</italic>
+<sub>ST</sub> across sites is shown in Figure <xref rid="ece35846-sup-0001" ref-type="supplementary-material">S1</xref>. Weir and Cockerham's weighted pairwise <italic>F</italic>
+<sub>ST</sub> estimates between cryptic species pairs and the average inbreeding coefficient (<italic>F</italic>) are summarized in Table <xref rid="ece35846-tbl-0001" ref-type="table">1</xref>. Pairwise <italic>F</italic>
+<sub>ST</sub> was highest between the Portuguese and other cryptic species of field vole (vs. Mediterranean&#x000a0;=&#x000a0;0.72; vs. short&#x02010;tailed&#x000a0;=&#x000a0;0.69). There was a somewhat lower pairwise <italic>F</italic>
+<sub>ST</sub>&#x000a0;=&#x000a0;0.45 between the Mediterranean and short&#x02010;tailed cryptic species. The average inbreeding coefficient was distinctly higher for the Portuguese cryptic species (<italic>F</italic>&#x000a0;=&#x000a0;0.75) than the others (Table <xref rid="ece35846-tbl-0001" ref-type="table">1</xref>).</p><table-wrap id="ece35846-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Average individual inbreeding coefficient (<italic>F</italic>) and Weir and Cockerham's weighted pairwise <italic>F</italic>
+<sub>ST</sub> for the Portuguese, Mediterranean, and short&#x02010;tailed cryptic species of the field vole</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>F</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>SD</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>Portuguese</p>
+<p>
+<italic>F</italic>
+<sub>ST</sub>
+</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>Mediterranean</p>
+<p>
+<italic>F</italic>
+<sub>ST</sub>
+</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>Short&#x02010;tailed</p>
+<p>
+<italic>F</italic>
+<sub>ST</sub>
+</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Portuguese</td><td align="char" char="." rowspan="1" colspan="1">0.75</td><td align="char" char="." rowspan="1" colspan="1">0.033</td><td align="char" char="." rowspan="1" colspan="1">0.00</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">Mediterranean</td><td align="char" char="." rowspan="1" colspan="1">0.63</td><td align="char" char="." rowspan="1" colspan="1">0.068</td><td align="char" char="." rowspan="1" colspan="1">0.72</td><td align="char" char="." rowspan="1" colspan="1">0.00</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">Short&#x02010;tailed</td><td align="char" char="." rowspan="1" colspan="1">0.60</td><td align="char" char="." rowspan="1" colspan="1">0.090</td><td align="char" char="." rowspan="1" colspan="1">0.69</td><td align="char" char="." rowspan="1" colspan="1">0.45</td><td align="char" char="." rowspan="1" colspan="1">0.00</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Our STRUCTURE analysis of 35,434 loci supported <italic>K</italic>&#x000a0;=&#x000a0;3, as Structure Harvester showed highest &#x00394;<italic>K</italic> log&#x02010;likelihood change from <italic>K</italic>&#x000a0;=&#x000a0;2 to <italic>K</italic>&#x000a0;=&#x000a0;3 as per the Evanno, Regnaut, and Goudet (<xref rid="ece35846-bib-0024" ref-type="ref">2005</xref>) method. The most probable <italic>K</italic> reflected the distribution of our three predicted cryptic species. The STRUCTURE clusters are composed of populations with extremely low admixture between the short&#x02010;tailed and Mediterranean cryptic species of field vole, and no admixed individuals with both Mediterranean and Portuguese cryptic species ancestry (Figure <xref rid="ece35846-fig-0002" ref-type="fig">2</xref>). These results are supported by PCA analysis; clear separation of all three cryptic species, with tight clustering of individuals within each species (Figure <xref rid="ece35846-fig-0003" ref-type="fig">3</xref>). PC1 explained 39.5% of the variation among individuals and the PC1 axis clearly separated the Portuguese cryptic species from the Mediterranean and short&#x02010;tailed. PC2 explained 15.7% of the variation among individuals, and the Mediterranean cryptic species was distinctive along this axis. The rotated genetic coordinates shown graphically in the Procrustes analyses revealed that the individual cryptic species cluster more tightly by refugial origin than would be predicted by geography alone (Figure <xref rid="ece35846-fig-0001" ref-type="fig">1</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="ece35846-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>STRUCTURE plot showing <italic>K</italic>&#x000a0;=&#x000a0;3 for short&#x02010;tailed (blue), Mediterranean (red), and Portuguese (yellow) field voles</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14101-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35846-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>PCA summarizing 35,434 SNP loci for Portuguese (yellow), Mediterranean (red), and short&#x02010;tailed (blue) field vole individuals</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14101-g003"/></fig></sec><sec id="ece35846-sec-0012"><label>3.3</label><title>Environmental niche modeling</title><sec id="ece35846-sec-0013"><label>3.3.1</label><title>Glacial refugia</title><p>The bioclimatic predictors showed significant effects in all niche models (Table <xref rid="ece35846-sup-0009" ref-type="supplementary-material">S2</xref>). AICs for the models, their predictive performances and a cartographic representation of the predicted probabilities are shown in Figure <xref rid="ece35846-sup-0003" ref-type="supplementary-material">S3</xref>. Model.4 was selected based on explanatory capacity and predictive performance. After MESS, model.4 was projected onto the LGM only in the areas within its environmental domain (Figure <xref rid="ece35846-fig-0004" ref-type="fig">4</xref>). Predictions for the LGM can be used to delimit potential refugia for the species (predicted <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.8; see Figure <xref rid="ece35846-fig-0005" ref-type="fig">5</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35846-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>(a) Individuals used for parameterizing climatic niche models (<italic>N</italic>&#x000a0;=&#x000a0;377) and the distribution of cryptic species of field vole [P: Portuguese (gray squares), M: Mediterranean (white circles), and St: short&#x02010;tailed (black diamonds)] in western Europe (our area for modeling; see text for details). Area in gray shows the field vole distribution in western Europe (Mitchell&#x02010;Jones et al., <xref rid="ece35846-bib-0060" ref-type="ref">1999</xref>). (b) Predicted cryptic species distribution in Europe according to environmental niche modeling (see text for details) and the species distribution recorded by Mitchell&#x02010;Jones et al. (<xref rid="ece35846-bib-0060" ref-type="ref">1999</xref>). Hatching&#x000a0;=&#x000a0;short&#x02010;tailed, solid black&#x000a0;=&#x000a0;Mediterranean, and solid gray&#x000a0;=&#x000a0;Portuguese. Grid cells represent the UTM 50&#x000a0;&#x000d7;&#x000a0;50&#x000a0;km squares</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-14101-g004"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35846-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Predicted probability of occurrence of the field vole during the Last Glacial Maximum (LGM) in western Europe according to climatic niche model 4 (individual cryptic species not identified). Hatched areas were excluded for model transferability according to a MESS analysis. Grid cells represent the UTM 50&#x000a0;&#x000d7;&#x000a0;50&#x000a0;km squares</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-9-14101-g005"/></fig></sec><sec id="ece35846-sec-0014"><label>3.3.2</label><title>Biogeographical relationships</title><p>The models at locality level (see Table <xref rid="ece35846-sup-0010" ref-type="supplementary-material">S3</xref>) discriminated well between the Portuguese and Mediterranean cryptic species of field vole (AUC: 0.999 and H&#x02010;L: 5.78, <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05) and between Mediterranean and short&#x02010;tailed cryptic species (AUC: 0.999 and H&#x02010;L: 10.94, <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05). These models were used to assign a cryptic species to each UTM square (Figure <xref rid="ece35846-fig-0005" ref-type="fig">5</xref>). Results of the subsequent independent models for each species distribution at UTM square level are shown in Table <xref rid="ece35846-tbl-0002" ref-type="table">2</xref> (see also Figure <xref rid="ece35846-fig-0006" ref-type="fig">6</xref>). Models showed that the climatic factors modulating the species distribution at a global scale are affecting each cryptic species differently (Table <xref rid="ece35846-tbl-0002" ref-type="table">2</xref>).</p><table-wrap id="ece35846-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Statistical parameters for validation (discrimination, area under the curve [AUC]; reliability, Hosmer and Lemeshow test [H&#x02013;L]), as well as individual predictors (AUC/H&#x02013;L) of the climatic niche models for the Portuguese, Mediterranean, and short&#x02010;tailed cryptic species of the field vole</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="left" valign="top" rowspan="1" colspan="1">Portuguese</th><th align="left" valign="top" rowspan="1" colspan="1">Mediterranean</th><th align="left" valign="top" rowspan="1" colspan="1">Short&#x02010;tailed</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">Parameter</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Model</td><td align="left" rowspan="1" colspan="1">
+<p>~BIO1&#x02010;BIO1<sup>2</sup>&#x000a0;+&#x000a0;BIO12&#x02010;BIO12<sup>2</sup>
+</p>
+<p>&#x02010;X&#x02010;Y</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>~&#x02010;BIO1&#x02010;BIO1<sup>2</sup>&#x000a0;+&#x000a0;BIO12&#x02010;BIO12<sup>2</sup>
+</p>
+<p>&#x02010;X&#x02010;Y</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>~&#x02010;BIO1&#x02010;BIO1<sup>2</sup>&#x02010;BIO12&#x02010;BIO12<sup>2</sup>
+</p>
+<p>&#x02010;X&#x000a0;+&#x000a0;Y</p>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">AUC</td><td align="left" rowspan="1" colspan="1">0.995</td><td align="left" rowspan="1" colspan="1">0.888</td><td align="left" rowspan="1" colspan="1">0.882</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">H&#x02010;L</td><td align="left" rowspan="1" colspan="1">4.21 n.s</td><td align="left" rowspan="1" colspan="1">12.46 n.s.</td><td align="left" rowspan="1" colspan="1">16.14<xref ref-type="fn" rid="ece35846-note-0002">*</xref>
+</td></tr><tr><td align="left" colspan="4" rowspan="1">Predictor</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">BIO1</td><td align="left" rowspan="1" colspan="1">1.2e&#x02212;01/2.04<xref ref-type="fn" rid="ece35846-note-0002">*</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;3.9e&#x02212;03/&#x02212;0.61 n.s.</td><td align="left" rowspan="1" colspan="1">&#x02212;3.6e&#x02212;02/&#x02212;9.32<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">BIO1<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;2.2e&#x02212;03/&#x02212;3.55<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;5.3e&#x02212;04/&#x02212;6.02<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;5.9e&#x02212;04/&#x02212;15.56<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">BIO12</td><td align="left" rowspan="1" colspan="1">5.2e&#x02212;03/3.07<xref ref-type="fn" rid="ece35846-note-0003">**</xref>
+</td><td align="left" rowspan="1" colspan="1">3.8e&#x02212;03/7.54<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;2.7e&#x02212;03/&#x02212;7.58<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">BIO12<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;1.1e&#x02212;05/&#x02212;2.94<xref ref-type="fn" rid="ece35846-note-0003">**</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;16e&#x02212;06/&#x02212;5.12<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;7.8e&#x02212;07/&#x02212;1.76n.s.</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Longitude</td><td align="left" rowspan="1" colspan="1">&#x02212;1.0/&#x02212;4.62<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;7.2e&#x02212;02/&#x02212;7.70<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;6.4e&#x02212;02/&#x02212;8.38<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Latitude</td><td align="left" rowspan="1" colspan="1">&#x02212;6.5e&#x02212;01/&#x02212;5.22<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;3.2e&#x02212;01/&#x02212;12.06<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td><td align="left" rowspan="1" colspan="1">1.2e&#x02212;01/9.20<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">(Intercept)</td><td align="left" rowspan="1" colspan="1">1.7e&#x000a0;+&#x000a0;01/1.90<xref ref-type="fn" rid="ece35846-note-0002">*</xref>
+</td><td align="left" rowspan="1" colspan="1">1.2e&#x000a0;+&#x000a0;01/7.90<xref ref-type="fn" rid="ece35846-note-0004">***</xref>
+</td><td align="left" rowspan="1" colspan="1">9.3e&#x02212;01/0.82 n.s.</td></tr></tbody></table><table-wrap-foot id="ece35846-ntgp-0001"><fn id="ece35846-note-0001"><p>Abbreviation: n.s., not significant.</p></fn><fn id="ece35846-note-0002"><label>*</label><p>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05.</p></fn><fn id="ece35846-note-0003"><label>**</label><p>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01.</p></fn><fn id="ece35846-note-0004"><label>***</label><p>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35846-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Biogeographical relationships between the cryptic species of the field vole. (P: Portuguese, M: Mediterranean, and St: short&#x02010;tailed). Mean favorability scores (defined for each species) are plotted against gradients defined by the absolute local overlap values. The gradients were divided in natural intervals, and mean favorability values (&#x000b1;<italic>SD</italic>) are shown. The number of sampling sites at each interval is also shown in columns. Areas with higher local overlap of favorability scores between species increase on the <italic>x</italic>&#x02010;axis. Fixed intervals are defined (dotted vertical lines) in the charts and mapped, with light green being the lowest, orange and maroon being median, and dark green being the highest local overlap. Grid cells represent the UTM 50&#x000a0;&#x000d7;&#x000a0;50&#x000a0;km squares</p></caption><graphic id="nlm-graphic-13" xlink:href="ECE3-9-14101-g006"/></fig><p>The biogeographical relationships between cryptic species are shown in Figure <xref rid="ece35846-fig-0006" ref-type="fig">6</xref>. The results suggest the existence of zones of potential co&#x02010;occurrence in most of the core area of the distribution of the Portuguese cryptic species. Areas where the Portuguese cryptic species could be excluded by the Mediterranean are limited and currently distributed close to the edge of the Portuguese cryptic species distribution. By contrast, areas of coexistence for the Mediterranean and short&#x02010;tailed cryptic species are not predicted by the models. Predicted areas of coexistence are those in which the environmental conditions are highly favorable for both species. The scarcity of the predicted areas of coexistence for the short&#x02010;tailed and Mediterranean cryptic species is explained by the small area in which the two species overlap and interact, being in localities that are far from each of their optimal niches and at the edge of their ranges. In addition, even when models show a wide area of potential overlap between the two cryptic species, neither species has high favorability in those overlap areas.</p></sec></sec></sec><sec sec-type="discussion" id="ece35846-sec-0015"><label>4</label><title>DISCUSSION</title><p>We showed substantial genome&#x02010;wide differentiation between the Mediterranean, short&#x02010;tailed and Portuguese cryptic species of the field vole, which were until recently considered a single species (Mathias, Hart, Ramalhinho, &#x00026; Jaarola, <xref rid="ece35846-bib-0057" ref-type="ref">2017</xref>). This high genetic differentiation is reflected in their high levels of <italic>F</italic>
+<sub>ST</sub> across the genome as well as by the clear separation of clusters in the PCA. The Procrustes analysis comparing separation in PCA space to the geographic separation of individuals sampled confirms that current geographic sampling location alone cannot explain these patterns, and that they cluster instead according to different LGM refugial origin of each cryptic species. Previous studies have shown that although the field vole range extends far east into Siberia, those eastern individuals represent an expansion from a single post&#x02010;LGM population and are closely related to voles in northern Scandinavia and central Europe, which are represented in this study (Herman &#x00026; Searle, <xref rid="ece35846-bib-0035" ref-type="ref">2011</xref>). Our sampling was restricted to western Europe to try and pinpoint the environmental factors limiting gene flow between the cryptic species in the area where they all co&#x02010;occur. Analyses of short&#x02010;tailed field vole populations alone revealed high intraspecific genetic structure, suggesting that even more recent climatic oscillations may play a role in driving divergence within species, including the Younger Dryas cold period (Figure <xref rid="ece35846-sup-0007" ref-type="supplementary-material">S7</xref>, Herman &#x00026; Searle, <xref rid="ece35846-bib-0035" ref-type="ref">2011</xref>). The divergence is genome&#x02010;wide across most loci as shown in Figure <xref rid="ece35846-sup-0001" ref-type="supplementary-material">S1</xref> and is unlikely that it is driven by selection alone. The levels of pairwise <italic>F</italic>
+<sub>ST</sub> between the cryptic species of the field vole are extremely high, especially when considering that these lineages have only been separated for 30&#x02013;70,000&#x000a0;years (Paup&#x000e9;rio et al., <xref rid="ece35846-bib-0064" ref-type="ref">2012</xref>). High levels of genetic drift along with low levels of admixture between the cryptic species are most likely to have driven these divergence patterns. A short generation time (less than 1&#x000a0;year; Mathias et al., <xref rid="ece35846-bib-0057" ref-type="ref">2017</xref>) is likely important for the rapid evolution and, importantly, this species is also known for its multi&#x02010;year population cycling, which if occurring in isolated populations during refugial isolation, may increase fixation of alternative alleles and drive divergence between lineages (Ehrich, Yoccoz, &#x00026; Ims, <xref rid="ece35846-bib-0021" ref-type="ref">2009</xref>).</p><p>Our data also indicate a divergence in the environmental niche among the three cryptic species, although at a lower level than that observed from the genomic data. Interestingly, this is particularly true when comparing the environmental niche between the Portuguese and Mediterranean cryptic species, which shows low divergence despite the genomic differentiation being the highest observed. The short&#x02010;tailed cryptic species occupies a relatively cooler and more humid niche than the others, and the Portuguese cryptic species a relatively hotter and more humid niche than the Mediterranean. Although there are differences between the climatic niches of each cryptic species, our models predict a wide geographic area of potential overlap between the Portuguese and Mediterranean cryptic species, but this is not reflected in the contemporary distribution of the genetic lineages. This suggests some pre&#x02010; or postzygotic barrier to reproduction between these groups. These intrinsic barriers to reproduction would promote species boundaries, despite similar external morphologies and climatic niches (Rowe, Aplin, Baverstock, &#x00026; Moritz, <xref rid="ece35846-bib-0072" ref-type="ref">2011</xref>). A recent fine&#x02010;scale study on the contact zone between the Portuguese and Mediterranean cryptic species also supports our conclusions, where no hybrid individuals were found and the contact zone is estimated to be less than 15&#x000a0;km wide, despite no obvious geographic or ecological barriers (J. Paup&#x000e9;rio, unpublished data). Both of these lines of evidence suggest that the Mediterranean and Portuguese cryptic species are essentially reproductively isolated despite less than ~70,000&#x000a0;years of divergence. This is contrasted with the pattern of differentiation we find between the more recently diverged Mediterranean and short&#x02010;tailed field voles, which have lower genetic differentiation, but also much less overlap in our models (Figure <xref rid="ece35846-fig-0006" ref-type="fig">6</xref>). Although the results suggest that reproductive isolation is acting as a barrier to gene flow and limiting the distribution of each of the species, they may also differ in other aspects of their ecology or behavior that could have led to other axes of niche specialization that are not measured in our environmental niche models.</p><p>It has previously been shown that allopatry during glacial refugial periods allows for the accumulation of genetic differences between lineages, including differences that impact reproductive isolation, determining the amount of subsequent gene flow between forms (Barton &#x00026; Hewitt, <xref rid="ece35846-bib-0007" ref-type="ref">1985</xref>; Weir &#x00026; Schluter, <xref rid="ece35846-bib-0084" ref-type="ref">2004</xref>). Reproductive isolation is even more likely to occur when small population sizes in isolated refugia allow for the fixation of genetic variants (including chromosomal rearrangements, but also genic incompatibilities) that affect the fitness of hybrids upon secondary contact (Dion&#x02010;C&#x000f4;t&#x000e9; &#x00026; Barbash, <xref rid="ece35846-bib-0018" ref-type="ref">2017</xref>; Hewitt, <xref rid="ece35846-bib-0036" ref-type="ref">1996</xref>; Rowe et al., <xref rid="ece35846-bib-0072" ref-type="ref">2011</xref>; Searle, <xref rid="ece35846-bib-0076" ref-type="ref">1993</xref>). Although isolation during glacial cycling and subsequent secondary contact has been suspected as a scenario that promotes rapid speciation (Hewitt, <xref rid="ece35846-bib-0036" ref-type="ref">1996</xref>), the particular geographic context matters to determine whether speciation will occur (Klicka &#x00026; Zink, <xref rid="ece35846-bib-0044" ref-type="ref">1997</xref>).</p><p>This study elucidates one potential factor that has contributed to speciation in microtine rodents. Voles in the genus <italic>Microtus</italic> represent one of the most speciose genera of rodents (and mammals) in the world, with over 65 species that arose in the last ~2 million years (Chaline et al., <xref rid="ece35846-bib-0015" ref-type="ref">1999</xref>; Musser &#x00026; Carleton, <xref rid="ece35846-bib-0062" ref-type="ref">2005</xref>). This suggests a speciation rate that is matched by few other vertebrate groups that are typically attributed to adaptive radiations resulting in rapid divergence in morphology and ecology (Brawand et al., <xref rid="ece35846-bib-0012" ref-type="ref">2014</xref>). Many species groups within <italic>Microtus</italic> have distributions relatively close to where ice sheets occur during glacial maxima and isolation during cyclical glacial maxima may have caused divergence, reproduction isolation and ultimately speciation, between these closely related lineages (Chaline et al., <xref rid="ece35846-bib-0015" ref-type="ref">1999</xref>; Weir, Haddrath, Robertson, Colbourne, &#x00026; Baker, <xref rid="ece35846-bib-0083" ref-type="ref">2016</xref>). Environmental niche modeling hindcasted to the LGM shows multiple potential refugial areas for the field vole, each population evolving in allopatry: one in the northeastern Iberia (delimited by Ebro river; the Portuguese cryptic species), another in France or northern Italy (the Mediterranean cryptic species), and finally another in the Balkans (short&#x02010;tailed cryptic species; Figure <xref rid="ece35846-fig-0005" ref-type="fig">5</xref>). These distributions of refugia are in line with previous hypotheses of refugial locations for the field vole (Paup&#x000e9;rio et al., <xref rid="ece35846-bib-0064" ref-type="ref">2012</xref>). The current distribution of these cryptic species of the field vole reflects common phylogeographic breaks in western Europe, which underscores the role that glacial cycles have played in structuring genetic diversity in the region (Taberlet, Fumagalli, Wust&#x02010;Saucy, &#x00026; Cosson, <xref rid="ece35846-bib-0078" ref-type="ref">1998</xref>). In particular, the highly divergent Portuguese field vole species represents another mammal endemic to the Iberian Peninsula, a region harboring the highest level of endemicity in Europe, and already home to another endemic vole in the genus (<italic>M.&#x000a0;cabrerae</italic>, Baquero &#x00026; Teller&#x000ed;a, <xref rid="ece35846-bib-0006" ref-type="ref">2001</xref>; Bilton et al., <xref rid="ece35846-bib-0009" ref-type="ref">1998</xref>). The large amount of divergence across the genome between cryptic species of the field vole points to substantial genetic drift and fixation of alternative alleles during isolation in refugial areas.</p><p>If the divergence between forms results in changes that promote reproductive isolation, such as fixation of alternative chromosomal arrangements as is seen in many voles in the genus <italic>Microtus</italic> (Mazurok et al., <xref rid="ece35846-bib-0058" ref-type="ref">2001</xref>), lineages will continue to remain evolutionarily distinct even after secondary contact. The three cryptic vole species analyzed in this study have the same number of chromosomes, and similar giant sex chromosomes (Gim&#x000e9;nez et al., <xref rid="ece35846-bib-0031" ref-type="ref">2012</xref>), but it is possible that there are undetected chromosomal rearrangements that could have contributed to reproductive isolation. These cryptic vole species may also have fixed genetic differences that result in genetic incompatibilities in hybrid individuals. For example, heterochromatin differences are thought to contribute to reproductive isolation between diverging lineages by triggering genome instability in hybrids, and the field vole is known for its large blocks of heterochromatin repeats, especially on their giant sex chromosomes (Dion&#x02010;C&#x000f4;t&#x000e9; &#x00026; Barbash, <xref rid="ece35846-bib-0018" ref-type="ref">2017</xref>; Marchal et al., <xref rid="ece35846-bib-0055" ref-type="ref">2004</xref>). There could also be other isolating mechanisms in this group, such as pheromones or urinary proteins that are known to be important for species recognition in rodents, or in genes involved with seminal proteins that may result in incompatibilities expressed in hybrids (Logan, Marton, &#x00026; Stowers, <xref rid="ece35846-bib-0052" ref-type="ref">2008</xref>; Payseur &#x00026; Nachman, <xref rid="ece35846-bib-0065" ref-type="ref">2005</xref>).</p><p>Subdivision into isolated glacial refugia may be particularly important in the generation of cryptic species complexes (Hope, Speer, Demboski, Talbot, &#x00026; Cook, <xref rid="ece35846-bib-0039" ref-type="ref">2012</xref>; Weir et al., <xref rid="ece35846-bib-0083" ref-type="ref">2016</xref>). There may be a lag between genetic and morphological differentiation in systems where there is no strong selection for gross phenotypic divergence, although divergence may occur in other traits important for maintaining reproductive isolation between these cryptic species (Card&#x000e9; et al., <xref rid="ece35846-bib-0014" ref-type="ref">1978</xref>; Fi&#x00161;er, Robinson, &#x00026; Malard, <xref rid="ece35846-bib-0027" ref-type="ref">2018</xref>). This contributes to the growing number of examples of seemingly &#x0201c;nonadaptive&#x0201d; radiations of cryptic species on continents, in which speciation lacks the accompanying morphological differentiation typically epitomized by adaptive radiations (Mathias et al., <xref rid="ece35846-bib-0057" ref-type="ref">2017</xref>; Zelditch, Li, Tran, &#x00026; Swiderski, <xref rid="ece35846-bib-0087" ref-type="ref">2015</xref>). However, environmental niche modeling has shown that these voles have indeed diverged in some aspects of their ecology and therefore labeling this radiation as &#x0201c;nonadaptive&#x0201d; does not capture differences in their ecology and physiology that underlie their differences in climatic niche. Other rodent groups, such as the speciose genus <italic>Rattus</italic>, have likewise shown high rates of speciation without obvious morphological differentiation, and this may represent a common trend in rodent groups with rapid speciation (Maestri et al., <xref rid="ece35846-bib-0054" ref-type="ref">2017</xref>; Rowe et al., <xref rid="ece35846-bib-0072" ref-type="ref">2011</xref>). This trend is already becoming apparent within <italic>Microtus</italic>. A recent study has revealed two highly genetically distinct populations of <italic>M.&#x000a0;californicus</italic>, which are also currently considered one population and lack obvious morphological differentiation (Lin et al., <xref rid="ece35846-bib-0049" ref-type="ref">2018</xref>). These populations diverged less than 50,000&#x000a0;years ago have no obvious ecological or geographic barriers separating them, and yet show no evidence of nuclear gene flow (Lin et al., <xref rid="ece35846-bib-0049" ref-type="ref">2018</xref>).</p><p>Cryptic species are often overlooked, yet they are an important component of biodiversity, and the identification of cryptic species can reveal their unique ecological roles and evolutionary potential (Bickford et al., <xref rid="ece35846-bib-0008" ref-type="ref">2007</xref>; Geller, <xref rid="ece35846-bib-0030" ref-type="ref">1999</xref>). Genomic tools have much potential in the discovery of cryptic species and genomic differences reveal the underlying processes that restrict gene flow and cause differentiation between forms (Funk et al., <xref rid="ece35846-bib-0029" ref-type="ref">2012</xref>). The three cryptic species of field vole complex not only differ greatly at a genome&#x02010;wide level, but they have diverged in ecological traits that underpin differences in individual climatic niches. Clearly, it would be interesting in the future to link genotype and phenotype and establish the genomic basis of climatic adaptation in these cryptic species.</p><p>The field vole is a key primary herbivore and component of the food web in the grasslands where they occur and has been described as &#x0201c;the most important dietary part of more species of predators than perhaps any other mammal due mainly to its numerical abundance&#x0201d; (Mathias et al., <xref rid="ece35846-bib-0057" ref-type="ref">2017</xref>). Our study provides further evidence in support of three recently recognized, taxonomically distinct, cryptic species in the field vole (Kry&#x00161;tufek, <xref rid="ece35846-bib-0046" ref-type="ref">2017</xref>; Paup&#x000e9;rio et al., <xref rid="ece35846-bib-0064" ref-type="ref">2012</xref>). On these grounds, it is important to understand the basis of ecological and physiological divergence in these cryptic species and the specific role that they have in their respective environments. Environmental modeling shows that the niche of the Portuguese cryptic species is shrinking under current climate change (Figure <xref rid="ece35846-sup-0006" ref-type="supplementary-material">S6</xref>), and this lineage already shows the highest level of inbreeding of any of the cryptic taxa. As recommended in Paup&#x000e9;rio et al. (<xref rid="ece35846-bib-0064" ref-type="ref">2012</xref>), further evaluation of the Portuguese cryptic species in particular is needed to examine the future viability of populations in its range, and the putative need to implement conservation measures to preserve this species. This species may be locally adapted to a habitat that is disappearing given current climate change scenarios.</p></sec><sec sec-type="COI-statement" id="ece35846-sec-0016"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35846-sec-0017"><title>AUTHOR CONTRIBUTIONS</title><p>N.K.F. designed and performed research, analyzed data, and wrote the paper. P.A. performed research and analyzed data. J.S.H. helped design research and contributed samples. J.P and P.C.A. contributed samples. J.B.S. helped design research and write the paper. All authors have read and commented on the paper.</p></sec><sec id="ece35773-sec-0018"><sec disp-level="2" id="ece35773-sec-0019"><title>OPEN RESEARCH BADGES</title><p content-type="openScience">
+<inline-graphic xlink:href="ECE3-9-14101-g007.jpg" xlink:title="image"/>This article has been awarded Open Materials and Open Data Badges. All materials and data are publicly accessible via the Open Science Framework at SNP VCF Dataset: Dryad <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.zcrjdfn6n">https://doi.org/10.5061/dryad.zcrjdfn6n</ext-link>; R script for STRUCTURE visualization: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.x3ffbg7dw">https://doi.org/10.5061/dryad.x3ffbg7dw</ext-link>.</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35846-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14101-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35846-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14101-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35846-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14101-s003.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35846-sup-0004"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14101-s004.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35846-sup-0005"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14101-s005.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35846-sup-0006"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14101-s006.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35846-sup-0007"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14101-s007.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35846-sup-0008"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14101-s008.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35846-sup-0009"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14101-s009.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35846-sup-0010"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14101-s010.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35846-sup-0011"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14101-s011.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35846-sec-0021"><title>ACKNOWLEDGMENTS</title><p>N.K.F was supported by an American Society of Mammalogists' Grants&#x02010;in&#x02010;Aid and Society for the Study of Evolution Rosemary Grant Award. P.A. is supported by the Spanish Ministerio de Econom&#x000ed;a y Competitividad (MINECO) and Universidad de Castilla&#x02010;La Mancha (UCLM) through a &#x0201c;Ram&#x000f3;n y Cajal&#x0201d; contract (RYC&#x02010;2012&#x02010;11970). J.P. is supported by the European Union's Horizon 2020 Research and Innovation Program under project EnvMetaGen (grant agreement no 668981).</p></ack><sec sec-type="data-availability" id="ece35846-sec-0020"><title>DATA AVAILABILITY STATEMENT</title><p>SNP VCF Dataset: Dryad <ext-link ext-link-type="uri" xlink:href="http://doi.org/10.5061/dryad.zcrjdfn6n" specific-use="dataset is-supplemented-by">http://doi.org/10.5061/dryad.zcrjdfn6n</ext-link>. R script for STRUCTURE visualization: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.x3ffbg7dw" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.x3ffbg7dw</ext-link>. Sampling IDs, locations, and specimen information: Table <xref rid="ece35846-sup-0008" ref-type="supplementary-material">S1</xref>. The data that support the findings of this study will be openly available in Dryad at&#x000a0;<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.zcrjdfn6n" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.zcrjdfn6n</ext-link>.</p></sec><ref-list content-type="cited-references" id="ece35846-bibl-0001"><title>REFERENCES</title><ref id="ece35846-bib-0001"><mixed-citation publication-type="journal" id="ece35846-cit-0001">
+<string-name>
+<surname>Acevedo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Jim&#x000e9;nez-Valverde</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lobo</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Real</surname>, <given-names>R.</given-names>
+</string-name> (<year>2012</year>). <article-title>Delimiting the geographical background in species distribution modelling</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>39</volume>, <fpage>1383</fpage>&#x02013;<lpage>1390</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0002"><mixed-citation publication-type="journal" id="ece35846-cit-0002">
+<string-name>
+<surname>Acevedo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Melo&#x02010;Ferreira</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Farelo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Beltran&#x02010;Beck</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Real</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Campos</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Alves</surname>, <given-names>P. C.</given-names>
+</string-name> (<year>2015</year>). <article-title>Range dynamics driven by Quaternary climate oscillations explain the distribution of introgressed mt DNA of <italic>Lepus timidus</italic> origin in hares from the Iberian Peninsula</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>42</volume>, <fpage>1727</fpage>&#x02013;<lpage>1735</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0003"><mixed-citation publication-type="journal" id="ece35846-cit-0003">
+<string-name>
+<surname>Acevedo</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Real</surname>, <given-names>R.</given-names>
+</string-name> (<year>2012</year>). <article-title>Favourability: Concept, distinctive characteristics and potential usefulness</article-title>. <source xml:lang="en">Naturwissenschaften</source>, <volume>99</volume>, <fpage>515</fpage>&#x02013;<lpage>522</lpage>.<pub-id pub-id-type="pmid">22660474</pub-id></mixed-citation></ref><ref id="ece35846-bib-0004"><mixed-citation publication-type="journal" id="ece35846-cit-0004">
+<string-name>
+<surname>Acevedo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>, <given-names>A. I.</given-names>
+</string-name>, <string-name>
+<surname>Real</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>G. C.</given-names>
+</string-name> (<year>2010</year>). <article-title>Assessing biogeographical relationships of ecologically related species using favourability functions: A case study on British deer</article-title>. <source xml:lang="en">Diversity and Distributions</source>, <volume>16</volume>, <fpage>515</fpage>&#x02013;<lpage>528</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0005"><mixed-citation publication-type="book" id="ece35846-cit-0005">
+<string-name>
+<surname>Avise</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>2000</year>). <source xml:lang="en">Phylogeography: The history and formation of species</source>. <publisher-loc>Cambridge, MA</publisher-loc>: <publisher-name>Harvard University Press</publisher-name>.</mixed-citation></ref><ref id="ece35846-bib-0006"><mixed-citation publication-type="journal" id="ece35846-cit-0006">
+<string-name>
+<surname>Baquero</surname>, <given-names>R. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Teller&#x000ed;a</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2001</year>). <article-title>Species richness, rarity and endemicity of European mammals: A biogeographical approach</article-title>. <source xml:lang="en">Biodiversity &#x00026; Conservation</source>, <volume>10</volume>, <fpage>29</fpage>&#x02013;<lpage>44</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0007"><mixed-citation publication-type="journal" id="ece35846-cit-0007">
+<string-name>
+<surname>Barton</surname>, <given-names>N. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hewitt</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>1985</year>). <article-title>Analysis of hybrid zones</article-title>. <source xml:lang="en">Annual Review of Ecology and Systematics</source>, <volume>16</volume>, <fpage>113</fpage>&#x02013;<lpage>148</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.es.16.110185.000553</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0008"><mixed-citation publication-type="journal" id="ece35846-cit-0008">
+<string-name>
+<surname>Bickford</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lohman</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Sodhi</surname>, <given-names>N. S.</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>, <given-names>P. K.</given-names>
+</string-name>, <string-name>
+<surname>Meier</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Winker</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Das</surname>, <given-names>I.</given-names>
+</string-name> (<year>2007</year>). <article-title>Cryptic species as a window on diversity and conservation</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>22</volume>, <fpage>148</fpage>&#x02013;<lpage>155</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2006.11.004</pub-id>
+<pub-id pub-id-type="pmid">17129636</pub-id></mixed-citation></ref><ref id="ece35846-bib-0009"><mixed-citation publication-type="journal" id="ece35846-cit-0009">
+<string-name>
+<surname>Bilton</surname>, <given-names>D. T.</given-names>
+</string-name>, <string-name>
+<surname>Mirol</surname>, <given-names>P. M.</given-names>
+</string-name>, <string-name>
+<surname>Mascheretti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Fredga</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Zima</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Searle</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>1998</year>). <article-title>Mediterranean Europe as an area of endemism for small mammals rather than a source for northwards postglacial colonization</article-title>. <source xml:lang="en">Proceedings of the Royal Society of London. Series B: Biological Sciences</source>, <volume>265</volume>, <fpage>1219</fpage>&#x02013;<lpage>1226</lpage>.<pub-id pub-id-type="pmid">9699314</pub-id></mixed-citation></ref><ref id="ece35846-bib-0010"><mixed-citation publication-type="journal" id="ece35846-cit-0010">
+<string-name>
+<surname>Braconnot</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Otto-Bliesner</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Joussaume</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Peterchmitt</surname>, <given-names>J.-Y.</given-names>
+</string-name>, <string-name>
+<surname>Abe-Ouchi</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zhao</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2007</year>). <article-title>Results of PMIP2 coupled simulations of the Mid-Holocene and Last Glacial Maximum &#x02013; Part 1: Experiments and large-scale features</article-title>. <source xml:lang="en">Climate of the Past</source>, <volume>3</volume>, <fpage>261</fpage>&#x02013;<lpage>277</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0011"><mixed-citation publication-type="journal" id="ece35846-cit-0011">
+<string-name>
+<surname>Bradbury</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Kroon</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name>
+<surname>Casstevens</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Ramdoss</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Buckler</surname>, <given-names>E. S.</given-names>
+</string-name> (<year>2007</year>). <article-title>TASSEL: Software for association mapping of complex traits in diverse samples</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>23</volume>, <fpage>2633</fpage>&#x02013;<lpage>2635</lpage>.<pub-id pub-id-type="pmid">17586829</pub-id></mixed-citation></ref><ref id="ece35846-bib-0012"><mixed-citation publication-type="journal" id="ece35846-cit-0012">
+<string-name>
+<surname>Brawand</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y. I.</given-names>
+</string-name>, <string-name>
+<surname>Malinsky</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Di Palma</surname>, <given-names>F.</given-names>
+</string-name> (<year>2014</year>). <article-title>The genomic substrate for adaptive radiation in African cichlid fish</article-title>. <source xml:lang="en">Nature</source>, <volume>513</volume>, <fpage>375</fpage>&#x02013;<lpage>381</lpage>. <pub-id pub-id-type="doi">10.1038/nature13726</pub-id>
+<pub-id pub-id-type="pmid">25186727</pub-id></mixed-citation></ref><ref id="ece35846-bib-0013"><mixed-citation publication-type="journal" id="ece35846-cit-0013">
+<string-name>
+<surname>Broughton</surname>, <given-names>R. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Harrison</surname>, <given-names>R. G.</given-names>
+</string-name> (<year>2003</year>). <article-title>Nuclear gene genealogies reveal historical, demographic and selective factors associated with speciation in field crickets</article-title>. <source xml:lang="en">Genetics</source>, <volume>163</volume>, <fpage>1389</fpage>&#x02013;<lpage>1401</lpage>.<pub-id pub-id-type="pmid">12702683</pub-id></mixed-citation></ref><ref id="ece35846-bib-0014"><mixed-citation publication-type="journal" id="ece35846-cit-0014">
+<string-name>
+<surname>Card&#x000e9;</surname>, <given-names>R. T.</given-names>
+</string-name>, <string-name>
+<surname>Roelofs</surname>, <given-names>W. L.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>R. G.</given-names>
+</string-name>, <string-name>
+<surname>Vawter</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<surname>Brussard</surname>, <given-names>P. F.</given-names>
+</string-name>, <string-name>
+<surname>Mutuura</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Munroe</surname>, <given-names>E.</given-names>
+</string-name> (<year>1978</year>). <article-title>European corn borer: Pheromone polymorphism or sibling species?</article-title>
+<source xml:lang="en">Science</source>, <volume>199</volume>, <fpage>555</fpage>&#x02013;<lpage>556</lpage>. <pub-id pub-id-type="doi">10.1126/science.199.4328.555</pub-id>
+<pub-id pub-id-type="pmid">17750022</pub-id></mixed-citation></ref><ref id="ece35846-bib-0015"><mixed-citation publication-type="journal" id="ece35846-cit-0015">
+<string-name>
+<surname>Chaline</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Brunet&#x02010;Lecomte</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Montuire</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Viriot</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Courant</surname>, <given-names>F.</given-names>
+</string-name> (<year>1999</year>). <article-title>Anatomy of the arvicoline radiation (Rodentia): Palaeogeographical, palaeoecological history and evolutionary data</article-title>. <source xml:lang="en">Annales Zoologici Fennici</source>, <volume>36</volume>, <fpage>239</fpage>&#x02013;<lpage>267</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0016"><mixed-citation publication-type="journal" id="ece35846-cit-0016">
+<string-name>
+<surname>Danecek</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Auton</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Abecasis</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Albers</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Banks</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>DePristo</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Durbin</surname>, <given-names>R.</given-names>
+</string-name> (<year>2011</year>). <article-title>The variant call format and VCFtools</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>27</volume>, <fpage>2156</fpage>&#x02013;<lpage>2158</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btr330</pub-id>
+<pub-id pub-id-type="pmid">21653522</pub-id></mixed-citation></ref><ref id="ece35846-bib-0017"><mixed-citation publication-type="journal" id="ece35846-cit-0017">
+<string-name>
+<surname>Diniz&#x02010;Filho</surname>, <given-names>J. A. F.</given-names>
+</string-name>, <string-name>
+<surname>Gouveia</surname>, <given-names>S. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lima&#x02010;Ribeiro</surname>, <given-names>M. S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Evolutionary macroecology</article-title>. <source xml:lang="en">Frontiers of Biogeography</source>, <volume>5</volume>, <fpage>195</fpage>&#x02013;<lpage>203</lpage>. <pub-id pub-id-type="doi">10.21425/F55318886</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0018"><mixed-citation publication-type="journal" id="ece35846-cit-0018">
+<string-name>
+<surname>Dion&#x02010;C&#x000f4;t&#x000e9;</surname>, <given-names>A. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barbash</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Beyond speciation genes: An overview of genome stability in evolution and speciation</article-title>. <source xml:lang="en">Current Opinion in Genetics &#x00026; Development</source>, <volume>47</volume>, <fpage>17</fpage>&#x02013;<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1016/j.gde.2017.07.014</pub-id>
+<pub-id pub-id-type="pmid">28830007</pub-id></mixed-citation></ref><ref id="ece35846-bib-0019"><mixed-citation publication-type="journal" id="ece35846-cit-0019">
+<string-name>
+<surname>Dubois</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Prade</surname>, <given-names>H.</given-names>
+</string-name> (<year>1980</year>). <article-title>Systems of linear fuzzy constraints</article-title>. <source xml:lang="en">Fuzzy Sets and Systems</source>, <volume>3</volume>, <fpage>37</fpage>&#x02013;<lpage>48</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0020"><mixed-citation publication-type="journal" id="ece35846-cit-0020">
+<string-name>
+<surname>Earl</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>STRUCTURE HARVESTER: A website and program for visualizing STRUCTURE output and implementing the Evanno method</article-title>. <source xml:lang="en">Conservation Genetics Resources</source>, <volume>4</volume>, <fpage>359</fpage>&#x02013;<lpage>361</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0021"><mixed-citation publication-type="journal" id="ece35846-cit-0021">
+<string-name>
+<surname>Ehrich</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Yoccoz</surname>, <given-names>N. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ims</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2009</year>). <article-title>Multi&#x02010;annual density fluctuations and habitat size enhance genetic variability in two northern voles</article-title>. <source xml:lang="en">Oikos</source>, <volume>118</volume>, <fpage>1441</fpage>&#x02013;<lpage>1452</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0706.2009.17532.x</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0022"><mixed-citation publication-type="journal" id="ece35846-cit-0022">
+<string-name>
+<surname>Elith</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kearney</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Phillips</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>). <article-title>The art of modelling range-shifting species</article-title>. <source xml:lang="en">Methods in Ecology and Evolution</source>, <volume>1</volume>, <fpage>330</fpage>&#x02013;<lpage>342</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0023"><mixed-citation publication-type="journal" id="ece35846-cit-0023">
+<string-name>
+<surname>Elshire</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Glaubitz</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Poland</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Kawamoto</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Buckler</surname>, <given-names>E. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mitchell</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>2011</year>). <article-title>A robust, simple genotyping&#x02010;by&#x02010;sequencing (GBS) approach for high diversity species</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>6</volume>, <elocation-id>e19379</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0019379</pub-id>
+<pub-id pub-id-type="pmid">21573248</pub-id></mixed-citation></ref><ref id="ece35846-bib-0024"><mixed-citation publication-type="journal" id="ece35846-cit-0024">
+<string-name>
+<surname>Evanno</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Regnaut</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Goudet</surname>, <given-names>J.</given-names>
+</string-name> (<year>2005</year>). <article-title>Detecting the number of clusters of individuals using the software STRUCTURE: A simulation study</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>14</volume>, <fpage>2611</fpage>&#x02013;<lpage>2620</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2005.02553.x</pub-id>
+<pub-id pub-id-type="pmid">15969739</pub-id></mixed-citation></ref><ref id="ece35846-bib-0025"><mixed-citation publication-type="journal" id="ece35846-cit-0025">
+<string-name>
+<surname>Feder</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Egan</surname>, <given-names>S. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nosil</surname>, <given-names>P.</given-names>
+</string-name> (<year>2012</year>). <article-title>The genomics of speciation&#x02010;with&#x02010;gene&#x02010;flow</article-title>. <source xml:lang="en">Trends in Genetics</source>, <volume>28</volume>, <fpage>342</fpage>&#x02013;<lpage>350</lpage>. <pub-id pub-id-type="doi">10.1016/j.tig.2012.03.009</pub-id>
+<pub-id pub-id-type="pmid">22520730</pub-id></mixed-citation></ref><ref id="ece35846-bib-0026"><mixed-citation publication-type="journal" id="ece35846-cit-0026">
+<string-name>
+<surname>Feulner</surname>, <given-names>P. G. D.</given-names>
+</string-name>, <string-name>
+<surname>Kirschbaum</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Schugardt</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ketmaier</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tiedemann</surname>, <given-names>R.</given-names>
+</string-name> (<year>2006</year>). <article-title>Electrophysiological and molecular genetic evidence for sympatrically occurring cryptic species in African weakly electric fishes (Teleostei: Mormyridae: <italic>Campylomormyrus</italic>)</article-title>. <source xml:lang="en">Molecular Phylogenetics and Evolution</source>, <volume>39</volume>, <fpage>198</fpage>&#x02013;<lpage>208</lpage>.<pub-id pub-id-type="pmid">16271299</pub-id></mixed-citation></ref><ref id="ece35846-bib-0027"><mixed-citation publication-type="journal" id="ece35846-cit-0027">
+<string-name>
+<surname>Fi&#x00161;er</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>, <given-names>C. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Malard</surname>, <given-names>F.</given-names>
+</string-name> (<year>2018</year>). <article-title>Cryptic species as a window into the paradigm shift of the species concept</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>27</volume>, <fpage>1</fpage>&#x02013;<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1111/mec.14486</pub-id>
+<pub-id pub-id-type="pmid">29396920</pub-id></mixed-citation></ref><ref id="ece35846-bib-0028"><mixed-citation publication-type="journal" id="ece35846-cit-0028">
+<string-name>
+<surname>Fl&#x000f8;jgaard</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Normand</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Skov</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Svenning</surname>, <given-names>J.&#x02010;C.</given-names>
+</string-name> (<year>2009</year>). <article-title>Ice age distributions of European small mammals: Insights from species distribution modelling</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>36</volume>, <fpage>1152</fpage>&#x02013;<lpage>1163</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2699.2009.02089.x</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0029"><mixed-citation publication-type="journal" id="ece35846-cit-0029">
+<string-name>
+<surname>Funk</surname>, <given-names>W. C.</given-names>
+</string-name>, <string-name>
+<surname>McKay</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Hohenlohe</surname>, <given-names>P. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Allendorf</surname>, <given-names>F. W.</given-names>
+</string-name> (<year>2012</year>). <article-title>Harnessing genomics for delineating conservation units</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>27</volume>, <fpage>489</fpage>&#x02013;<lpage>496</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2012.05.012</pub-id>
+<pub-id pub-id-type="pmid">22727017</pub-id></mixed-citation></ref><ref id="ece35846-bib-0030"><mixed-citation publication-type="journal" id="ece35846-cit-0030">
+<string-name>
+<surname>Geller</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>1999</year>). <article-title>Decline of a native mussel masked by sibling species invasion</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>13</volume>, <fpage>661</fpage>&#x02013;<lpage>664</lpage>. <pub-id pub-id-type="doi">10.1046/j.1523-1739.1999.97470.x</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0031"><mixed-citation publication-type="journal" id="ece35846-cit-0031">
+<string-name>
+<surname>Gim&#x000e9;nez</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Paup&#x000e9;rio</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Alves</surname>, <given-names>P. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Searle</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>2012</year>). <article-title>Giant sex chromosomes retained within the Portuguese lineage of the field vole (<italic>Microtus agrestis</italic>)</article-title>. <source xml:lang="en">Acta Theriologica</source>, <volume>57</volume>, <fpage>377</fpage>&#x02013;<lpage>382</lpage>. <pub-id pub-id-type="doi">10.1007/s13364-012-0087-8</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0032"><mixed-citation publication-type="journal" id="ece35846-cit-0032">
+<string-name>
+<surname>Haffer</surname>, <given-names>J.</given-names>
+</string-name> (<year>1969</year>). <article-title>Speciation in Amazonian forest birds</article-title>. <source xml:lang="en">Science</source>, <volume>165</volume>, <fpage>131</fpage>&#x02013;<lpage>137</lpage>. <pub-id pub-id-type="doi">10.1126/science.165.3889.131</pub-id>
+<pub-id pub-id-type="pmid">17834730</pub-id></mixed-citation></ref><ref id="ece35846-bib-0033"><mixed-citation publication-type="journal" id="ece35846-cit-0033">
+<string-name>
+<surname>Hellborg</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>G&#x000fc;nd&#x000fc;z</surname>, <given-names>&#x00130;.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jaarola</surname>, <given-names>M.</given-names>
+</string-name> (<year>2005</year>). <article-title>Analysis of sex&#x02010;linked sequences supports a new mammal species in Europe</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>14</volume>, <fpage>2025</fpage>&#x02013;<lpage>2031</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2005.02559.x</pub-id>
+<pub-id pub-id-type="pmid">15910324</pub-id></mixed-citation></ref><ref id="ece35846-bib-0034"><mixed-citation publication-type="journal" id="ece35846-cit-0034">
+<string-name>
+<surname>Herman</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>McDevitt</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Kawa&#x00142;ko</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jaarola</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>W&#x000f3;jcik</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Searle</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>2014</year>). <article-title>Land&#x02010;bridge calibration of molecular clocks and the post&#x02010;glacial colonization of Scandinavia by the Eurasian field vole <italic>Microtus agrestis</italic>
+</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>9</volume>, <elocation-id>e103949</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0103949</pub-id>
+<pub-id pub-id-type="pmid">25111840</pub-id></mixed-citation></ref><ref id="ece35846-bib-0035"><mixed-citation publication-type="journal" id="ece35846-cit-0035">
+<string-name>
+<surname>Herman</surname>, <given-names>J. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Searle</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>2011</year>). <article-title>Post&#x02010;glacial partitioning of mitochondrial genetic variation in the field vole</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>278</volume>, <fpage>3601</fpage>&#x02013;<lpage>3607</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0036"><mixed-citation publication-type="journal" id="ece35846-cit-0036">
+<string-name>
+<surname>Hewitt</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>1996</year>). <article-title>Some genetic consequences of ice ages, and their role in divergence and speciation</article-title>. <source xml:lang="en">Biological Journal of the Linnean Society</source>, <volume>58</volume>, <fpage>247</fpage>&#x02013;<lpage>276</lpage>. <pub-id pub-id-type="doi">10.1006/bijl.1996.0035</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0037"><mixed-citation publication-type="journal" id="ece35846-cit-0037">
+<string-name>
+<surname>Hewitt</surname>, <given-names>G.</given-names>
+</string-name> (<year>2000</year>). <article-title>The genetic legacy of the Quaternary ice ages</article-title>. <source xml:lang="en">Nature</source>, <volume>405</volume>, <fpage>907</fpage>&#x02013;<lpage>913</lpage>. <pub-id pub-id-type="doi">10.1038/35016000</pub-id>
+<pub-id pub-id-type="pmid">10879524</pub-id></mixed-citation></ref><ref id="ece35846-bib-0038"><mixed-citation publication-type="journal" id="ece35846-cit-0038">
+<string-name>
+<surname>Hijmans</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Cameron</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Parra</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>P. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jarvis</surname>, <given-names>A.</given-names>
+</string-name> (<year>2005</year>). <article-title>Very high resolution interpolated climate surfaces for global land areas</article-title>. <source xml:lang="en">International Journal of Climatology</source>, <volume>25</volume>, <fpage>1965</fpage>&#x02013;<lpage>1978</lpage>. <pub-id pub-id-type="doi">10.1002/joc.1276</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0039"><mixed-citation publication-type="journal" id="ece35846-cit-0039">
+<string-name>
+<surname>Hope</surname>, <given-names>A. G.</given-names>
+</string-name>, <string-name>
+<surname>Speer</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Demboski</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Talbot</surname>, <given-names>S. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cook</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>A climate for speciation: Rapid spatial diversification within the <italic>Sorex cinereus</italic> complex of shrews</article-title>. <source xml:lang="en">Molecular Phylogenetics and Evolution</source>, <volume>64</volume>, <fpage>671</fpage>&#x02013;<lpage>684</lpage>. <pub-id pub-id-type="doi">10.1016/j.ympev.2012.05.021</pub-id>
+<pub-id pub-id-type="pmid">22652055</pub-id></mixed-citation></ref><ref id="ece35846-bib-0040"><mixed-citation publication-type="journal" id="ece35846-cit-0040">
+<string-name>
+<surname>Jaarola</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;nkov&#x000e1;</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>G&#x000fc;nd&#x000fc;z</surname>, <given-names>&#x00130;.</given-names>
+</string-name>, <string-name>
+<surname>Brunhoff</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zima</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Nadachowski</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Searle</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>2004</year>). <article-title>Molecular phylogeny of the speciose vole genus <italic>Microtus</italic> (Arvicolinae, Rodentia) inferred from mitochondrial DNA sequences</article-title>. <source xml:lang="en">Molecular Phylogenetics and Evolution</source>, <volume>33</volume>, <fpage>647</fpage>&#x02013;<lpage>663</lpage>. <pub-id pub-id-type="doi">10.1016/j.ympev.2004.07.015</pub-id>
+<pub-id pub-id-type="pmid">15522793</pub-id></mixed-citation></ref><ref id="ece35846-bib-0041"><mixed-citation publication-type="journal" id="ece35846-cit-0041">
+<string-name>
+<surname>Jaarola</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Searle</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>2002</year>). <article-title>Phylogeography of field voles (<italic>Microtus agrestis</italic>) in Eurasia inferred from mitochondrial DNA sequences</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>11</volume>, <fpage>2613</fpage>&#x02013;<lpage>2621</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-294X.2002.01639.x</pub-id>
+<pub-id pub-id-type="pmid">12453244</pub-id></mixed-citation></ref><ref id="ece35846-bib-0042"><mixed-citation publication-type="journal" id="ece35846-cit-0042">
+<string-name>
+<surname>Jaarola</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Searle</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>2004</year>). <article-title>A highly divergent mitochondrial DNA lineage of <italic>Microtus agrestis</italic> in southern Europe</article-title>. <source xml:lang="en">Heredity</source>, <volume>92</volume>, <fpage>228</fpage>&#x02013;<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1038/sj.hdy.6800400</pub-id>
+<pub-id pub-id-type="pmid">14666134</pub-id></mixed-citation></ref><ref id="ece35846-bib-0043"><mixed-citation publication-type="journal" id="ece35846-cit-0043">
+<string-name>
+<surname>Jim&#x000e9;nez&#x02010;Valverde</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Acevedo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Barbosa</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Lobo</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Real</surname>, <given-names>R.</given-names>
+</string-name> (<year>2013</year>). <article-title>Discrimination capacity in species distribution models depends on the representativeness of the environmental domain</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>22</volume>, <fpage>508</fpage>&#x02013;<lpage>516</lpage>. <pub-id pub-id-type="doi">10.1111/geb.12007</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0044"><mixed-citation publication-type="journal" id="ece35846-cit-0044">
+<string-name>
+<surname>Klicka</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zink</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>1997</year>). <article-title>The importance of recent ice ages in speciation: A failed paradigm</article-title>. <source xml:lang="en">Science</source>, <volume>277</volume>, <fpage>1666</fpage>&#x02013;<lpage>1669</lpage>. <pub-id pub-id-type="doi">10.1126/science.277.5332.1666</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0045"><mixed-citation publication-type="journal" id="ece35846-cit-0045">
+<string-name>
+<surname>Kohn</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Ostrander</surname>, <given-names>E. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wayne</surname>, <given-names>R. K.</given-names>
+</string-name> (<year>2006</year>). <article-title>Genomics and conservation genetics</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>21</volume>, <fpage>629</fpage>&#x02013;<lpage>637</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2006.08.001</pub-id>
+<pub-id pub-id-type="pmid">16908089</pub-id></mixed-citation></ref><ref id="ece35846-bib-0046"><mixed-citation publication-type="book" id="ece35846-cit-0046">
+<string-name>
+<surname>Kry&#x00161;tufek</surname>, <given-names>B.</given-names>
+</string-name> (<year>2017</year>). In <person-group person-group-type="editor"><name name-style="western"><surname>Wilson</surname><given-names>D. E.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Lacher</surname><given-names>T. E.</given-names><suffix>Jr.</suffix></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Mittermeier</surname><given-names>R. A.</given-names></name></person-group> (Chief Eds.), <source xml:lang="en">Handbook of the mammals of the world. Vol. 7. Rodents II</source>. <publisher-loc>Barcelona, Spain</publisher-loc>: <publisher-name>Lynx Edicions</publisher-name>.</mixed-citation></ref><ref id="ece35846-bib-0047"><mixed-citation publication-type="journal" id="ece35846-cit-0047">
+<string-name>
+<surname>Kunchenva</surname>, <given-names>L. I.</given-names>
+</string-name> (<year>2001</year>). <article-title>Using measures of similarity and inclusion for multiple classifier fusion by decision templates</article-title>. <source xml:lang="en">Fuzzy Sets and Systems</source>, <volume>122</volume>, <fpage>401</fpage>&#x02013;<lpage>407</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0048"><mixed-citation publication-type="journal" id="ece35846-cit-0048">
+<string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Durbin</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>). <article-title>Fast and accurate short read alignment with Burrows&#x02010;Wheeler transform</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>25</volume>, <fpage>1754</fpage>&#x02013;<lpage>1760</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btp324</pub-id>
+<pub-id pub-id-type="pmid">19451168</pub-id></mixed-citation></ref><ref id="ece35846-bib-0049"><mixed-citation publication-type="journal" id="ece35846-cit-0049">
+<string-name>
+<surname>Lin</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Conroy</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Lacey</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Schraiber</surname>, <given-names>J. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bowie</surname>, <given-names>R. C.</given-names>
+</string-name> (<year>2018</year>). <article-title>Mito&#x02010;nuclear discordance across a recent contact zone for California voles</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>8</volume>, <fpage>6226</fpage>&#x02013;<lpage>6241</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.4129</pub-id>
+<pub-id pub-id-type="pmid">29988439</pub-id></mixed-citation></ref><ref id="ece35846-bib-0050"><mixed-citation publication-type="journal" id="ece35846-cit-0050">
+<string-name>
+<surname>Lischer</surname>, <given-names>H. E. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Excoffier</surname>, <given-names>L.</given-names>
+</string-name> (<year>2012</year>). <article-title>PGDSpider: An automated data conversion tool for connecting population genetics and genomics programs</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>28</volume>, <fpage>298</fpage>&#x02013;<lpage>299</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btr642</pub-id>
+<pub-id pub-id-type="pmid">22110245</pub-id></mixed-citation></ref><ref id="ece35846-bib-0051"><mixed-citation publication-type="journal" id="ece35846-cit-0051">
+<string-name>
+<surname>Liu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Newell</surname>, <given-names>G.</given-names>
+</string-name> (<year>2013</year>). <article-title>Selecting thresholds for the prediction of species occurrence with presence-only data</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>40</volume>, <fpage>778</fpage>&#x02013;<lpage>789</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0052"><mixed-citation publication-type="journal" id="ece35846-cit-0052">
+<string-name>
+<surname>Logan</surname>, <given-names>D. W.</given-names>
+</string-name>, <string-name>
+<surname>Marton</surname>, <given-names>T. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stowers</surname>, <given-names>L.</given-names>
+</string-name> (<year>2008</year>). <article-title>Species specificity in major urinary proteins by parallel evolution</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>3</volume>, <elocation-id>e3280</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0003280</pub-id>
+<pub-id pub-id-type="pmid">18815613</pub-id></mixed-citation></ref><ref id="ece35846-bib-0053"><mixed-citation publication-type="journal" id="ece35846-cit-0053">
+<string-name>
+<surname>Lovette</surname>, <given-names>I. J.</given-names>
+</string-name> (<year>2005</year>). <article-title>Glacial cycles and the tempo of avian speciation</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>20</volume>, <fpage>57</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2004.11.011</pub-id>
+<pub-id pub-id-type="pmid">16701342</pub-id></mixed-citation></ref><ref id="ece35846-bib-0054"><mixed-citation publication-type="journal" id="ece35846-cit-0054">
+<string-name>
+<surname>Maestri</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Monteiro</surname>, <given-names>L. R.</given-names>
+</string-name>, <string-name>
+<surname>Fornel</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Upham</surname>, <given-names>N. S.</given-names>
+</string-name>, <string-name>
+<surname>Patterson</surname>, <given-names>B. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Freitas</surname>, <given-names>T. R. O.</given-names>
+</string-name> (<year>2017</year>). <article-title>The ecology of a continental evolutionary radiation: Is the radiation of sigmodontine rodents adaptive?</article-title>
+<source xml:lang="en">Evolution</source>, <volume>71</volume>, <fpage>610</fpage>&#x02013;<lpage>632</lpage>. <pub-id pub-id-type="doi">10.1111/evo.13155</pub-id>
+<pub-id pub-id-type="pmid">28025827</pub-id></mixed-citation></ref><ref id="ece35846-bib-0055"><mixed-citation publication-type="journal" id="ece35846-cit-0055">
+<string-name>
+<surname>Marchal</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Acosta</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Nietzel</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Sperling</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Bullejos</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>de la Guardia</surname>, <given-names>R. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>S&#x000e1;nchez</surname>, <given-names>A.</given-names>
+</string-name> (<year>2004</year>). <article-title>X chromosome painting in <italic>Microtus</italic>: Origin and evolution of the giant sex chromosomes</article-title>. <source xml:lang="en">Chromosome Research</source>, <volume>12</volume>, <fpage>767</fpage>&#x02013;<lpage>776</lpage>. <pub-id pub-id-type="doi">10.1007/s10577-005-5077-0</pub-id>
+<pub-id pub-id-type="pmid">15702415</pub-id></mixed-citation></ref><ref id="ece35846-bib-0056"><mixed-citation publication-type="journal" id="ece35846-cit-0056">
+<string-name>
+<surname>Mart&#x000ed;nkov&#x000e1;</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Barnett</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Cucchi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Struchen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Pascal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pascal</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Searle</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>2013</year>). <article-title>Divergent evolutionary processes associated with colonization of offshore islands</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>22</volume>, <fpage>5205</fpage>&#x02013;<lpage>5220</lpage>. <pub-id pub-id-type="doi">10.1111/mec.12462</pub-id>
+<pub-id pub-id-type="pmid">23998800</pub-id></mixed-citation></ref><ref id="ece35846-bib-0057"><mixed-citation publication-type="journal" id="ece35846-cit-0057">
+<string-name>
+<surname>Mathias</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Hart</surname>, <given-names>E. B.</given-names>
+</string-name>, <string-name>
+<surname>Ramalhinho</surname>, <given-names>M. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jaarola</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>
+<italic>Microtus agrestis</italic> (Rodentia: Cricetidae)</article-title>. <source xml:lang="en">Mammalian Species</source>, <volume>49</volume>, <fpage>23</fpage>&#x02013;<lpage>39</lpage>. <pub-id pub-id-type="doi">10.1093/mspecies/sex003</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0058"><mixed-citation publication-type="journal" id="ece35846-cit-0058">
+<string-name>
+<surname>Mazurok</surname>, <given-names>N. A.</given-names>
+</string-name>, <string-name>
+<surname>Rubtsova</surname>, <given-names>N. V.</given-names>
+</string-name>, <string-name>
+<surname>Isaenko</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Pavlova</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Slobodyanyuk</surname>, <given-names>S. Y.</given-names>
+</string-name>, <string-name>
+<surname>Nesterova</surname>, <given-names>T. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zakian</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2001</year>). <article-title>Comparative chromosome and mitochondrial DNA analyses and phylogenetic relationships within common voles (<italic>Microtus</italic>, Arvicolidae)</article-title>. <source xml:lang="en">Chromosome Research</source>, <volume>9</volume>, <fpage>107</fpage>&#x02013;<lpage>120</lpage>.<pub-id pub-id-type="pmid">11321366</pub-id></mixed-citation></ref><ref id="ece35846-bib-0059"><mixed-citation publication-type="journal" id="ece35846-cit-0059">
+<string-name>
+<surname>McGraw</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>, <given-names>L. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thomas</surname>, <given-names>J. W.</given-names>
+</string-name> (<year>2011</year>). <article-title>A genetic linkage map and comparative mapping of the prairie vole (<italic>Microtus ochrogaster</italic>) genome</article-title>. <source xml:lang="en">BMC Genetics</source>, <volume>12</volume>, <fpage>60</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2156-12-60</pub-id>
+<pub-id pub-id-type="pmid">21736755</pub-id></mixed-citation></ref><ref id="ece35846-bib-0060"><mixed-citation publication-type="book" id="ece35846-cit-0060">
+<string-name>
+<surname>Mitchell&#x02010;Jones</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Amori</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Bogdanowicz</surname>, <given-names>W.</given-names>, </string-name>
+<string-name>
+<surname>Krystufek</surname>, <given-names>B.</given-names>, </string-name>
+<string-name>
+<surname>Reijnders</surname>, <given-names>P. J. H.</given-names>,</string-name>
+<string-name>
+<surname>Spitzenberger</surname>, <given-names>F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zima</surname>, <given-names>J.</given-names>
+</string-name> (<year>1999</year>). <source xml:lang="en">The atlas of European mammals</source>. <publisher-loc>London, UK</publisher-loc>: <publisher-name>Academic Press</publisher-name>.</mixed-citation></ref><ref id="ece35846-bib-0061"><mixed-citation publication-type="journal" id="ece35846-cit-0061">
+<string-name>
+<surname>Moritz</surname>, <given-names>C.</given-names>
+</string-name> (<year>1994</year>). <article-title>Defining &#x02018;evolutionarily significant units&#x02019; for conservation</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>9</volume>, <fpage>373</fpage>&#x02013;<lpage>375</lpage>. <pub-id pub-id-type="doi">10.1016/0169-5347(94)90057-4</pub-id>
+<pub-id pub-id-type="pmid">21236896</pub-id></mixed-citation></ref><ref id="ece35846-bib-0062"><mixed-citation publication-type="book" id="ece35846-cit-0062">
+<string-name>
+<surname>Musser</surname>, <given-names>G. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Carleton</surname>, <given-names>M. D.</given-names>
+</string-name> (<year>2005</year>). <chapter-title>Superfamily Muroidea</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Wilson</surname><given-names>D. E.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Reeder</surname><given-names>D. M.</given-names></name></person-group> (Eds.), <source xml:lang="en">Mammal species of the world: A taxonomic and geographic reference</source> (pp. <fpage>989</fpage>&#x02013;<lpage>1020</lpage>). <publisher-loc>Baltimore, MD</publisher-loc>: <publisher-name>Johns Hopkins University Press</publisher-name>.</mixed-citation></ref><ref id="ece35846-bib-0063"><mixed-citation publication-type="journal" id="ece35846-cit-0063">
+<string-name>
+<surname>Narins</surname>, <given-names>P. M.</given-names>
+</string-name> (<year>1983</year>). <article-title>Divergence of acoustic communication systems of two sibling species of eleutherodactylid frogs</article-title>. <source xml:lang="en">Copeia</source>, <volume>4</volume>, <fpage>1089</fpage>&#x02013;<lpage>1090</lpage>. <pub-id pub-id-type="doi">10.2307/1445115</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0064"><mixed-citation publication-type="journal" id="ece35846-cit-0064">
+<string-name>
+<surname>Paup&#x000e9;rio</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Herman</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Melo&#x02010;Ferreira</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jaarola</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Alves</surname>, <given-names>P. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Searle</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>2012</year>). <article-title>Cryptic speciation in the field vole: A multilocus approach confirms three highly divergent lineages in Eurasia</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>21</volume>, <fpage>6015</fpage>&#x02013;<lpage>6032</lpage>. <pub-id pub-id-type="doi">10.1111/mec.12024</pub-id>
+<pub-id pub-id-type="pmid">23163319</pub-id></mixed-citation></ref><ref id="ece35846-bib-0065"><mixed-citation publication-type="journal" id="ece35846-cit-0065">
+<string-name>
+<surname>Payseur</surname>, <given-names>B. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nachman</surname>, <given-names>M. W.</given-names>
+</string-name> (<year>2005</year>). <article-title>The genomics of speciation: Investigating the molecular correlates of X chromosome introgression across the hybrid zone between <italic>Mus domesticus</italic> and <italic>Mus musculus</italic>
+</article-title>. <source xml:lang="en">Biological Journal of the Linnean Society</source>, <volume>84</volume>, <fpage>523</fpage>&#x02013;<lpage>534</lpage>. <pub-id pub-id-type="doi">10.1111/j.1095-8312.2005.00453.x</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0066"><mixed-citation publication-type="journal" id="ece35846-cit-0066">
+<string-name>
+<surname>Pritchard</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Stephens</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Donnelly</surname>, <given-names>P.</given-names>
+</string-name> (<year>2000</year>). <article-title>Inference of population structure using multilocus genotype data</article-title>. <source xml:lang="en">Genetics</source>, <volume>155</volume>, <fpage>945</fpage>&#x02013;<lpage>959</lpage>.<pub-id pub-id-type="pmid">10835412</pub-id></mixed-citation></ref><ref id="ece35846-bib-0067"><mixed-citation publication-type="book" id="ece35846-cit-0067">
+<collab collab-type="authors">R Development Core Team</collab>
+(<year>2008</year>). <source xml:lang="en">R: A language and environment for statistical computing</source>. <publisher-loc>Vienna, Austria</publisher-loc>: <publisher-name>R Foundation for Statistical Computing</publisher-name> Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.R-project.org">http://www.R-project.org</ext-link>
+</mixed-citation></ref><ref id="ece35846-bib-0068"><mixed-citation publication-type="journal" id="ece35846-cit-0068">
+<string-name>
+<surname>Rand</surname>, <given-names>A. L.</given-names>
+</string-name> (<year>1948</year>). <article-title>Glaciation, an isolating factor in speciation</article-title>. <source xml:lang="en">Evolution</source>, <volume>2</volume>, <fpage>314</fpage>&#x02013;<lpage>321</lpage>. <pub-id pub-id-type="doi">10.1111/j.1558-5646.1948.tb02749.x</pub-id>
+<pub-id pub-id-type="pmid">18104589</pub-id></mixed-citation></ref><ref id="ece35846-bib-0069"><mixed-citation publication-type="journal" id="ece35846-cit-0069">
+<string-name>
+<surname>Ravaoarimanana</surname>, <given-names>I. B.</given-names>
+</string-name>, <string-name>
+<surname>Tiedemann</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Montagnon</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rumpler</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2004</year>). <article-title>Molecular and cytogenetic evidence for cryptic speciation within a rare endemic Malagasy lemur, the northern sportive lemur (<italic>Lepilemur septentrionalis</italic>)</article-title>. <source xml:lang="en">Molecular Phylogenetics and Evolution</source>, <volume>31</volume>, <fpage>440</fpage>&#x02013;<lpage>448</lpage>. <pub-id pub-id-type="doi">10.1016/j.ympev.2003.08.020</pub-id>
+<pub-id pub-id-type="pmid">15062786</pub-id></mixed-citation></ref><ref id="ece35846-bib-0070"><mixed-citation publication-type="journal" id="ece35846-cit-0070">
+<string-name>
+<surname>Real</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Barbosa</surname>, <given-names>A. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vargas</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2006</year>). <article-title>Obtaining environmental favourability functions from logistic regression</article-title>. <source xml:lang="en">Environmental and Ecological Statistics</source>, <volume>13</volume>, <fpage>237</fpage>&#x02013;<lpage>245</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0071"><mixed-citation publication-type="journal" id="ece35846-cit-0071">
+<string-name>
+<surname>Richards</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Carstens</surname>, <given-names>B. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Knowles</surname>, <given-names>L. L.</given-names>
+</string-name> (<year>2007</year>). <article-title>Distribution modelling and statistical phylogeography: An integrative framework for generating and testing alternative biogeographical hypotheses</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>34</volume>, <fpage>1833</fpage>&#x02013;<lpage>1845</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2699.2007.01814.x</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0072"><mixed-citation publication-type="journal" id="ece35846-cit-0072">
+<string-name>
+<surname>Rowe</surname>, <given-names>K. C.</given-names>
+</string-name>, <string-name>
+<surname>Aplin</surname>, <given-names>K. P.</given-names>
+</string-name>, <string-name>
+<surname>Baverstock</surname>, <given-names>P. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Moritz</surname>, <given-names>C.</given-names>
+</string-name> (<year>2011</year>). <article-title>Recent and rapid speciation with limited morphological disparity in the genus <italic>Rattus</italic>
+</article-title>. <source xml:lang="en">Systematic Biology</source>, <volume>60</volume>, <fpage>188</fpage>&#x02013;<lpage>203</lpage>. <pub-id pub-id-type="doi">10.1093/sysbio/syq092</pub-id>
+<pub-id pub-id-type="pmid">21239388</pub-id></mixed-citation></ref><ref id="ece35846-bib-0073"><mixed-citation publication-type="journal" id="ece35846-cit-0073">
+<string-name>
+<surname>S&#x000e1;ez</surname>, <given-names>A. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lozano</surname>, <given-names>E.</given-names>
+</string-name> (<year>2005</year>). <article-title>Body doubles</article-title>. <source xml:lang="en">Nature</source>, <volume>433</volume>, <fpage>111</fpage>
+<pub-id pub-id-type="doi">10.1038/433111a</pub-id>
+<pub-id pub-id-type="pmid">15650721</pub-id></mixed-citation></ref><ref id="ece35846-bib-0074"><mixed-citation publication-type="journal" id="ece35846-cit-0074">
+<string-name>
+<surname>S&#x000e1;nchez&#x02010;Fern&#x000e1;ndez</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lobo</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hern&#x000e1;ndez&#x02010;Manrique</surname>, <given-names>O. L.</given-names>
+</string-name> (<year>2011</year>). <article-title>Species distribution models that do not incorporate global data misrepresent potential distributions: A case study using Iberian diving beetles</article-title>. <source xml:lang="en">Diversity and Distributions</source>, <volume>17</volume>, <fpage>163</fpage>&#x02013;<lpage>171</lpage>. <pub-id pub-id-type="doi">10.1111/j.1472-4642.2010.00716.x</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0075"><mixed-citation publication-type="journal" id="ece35846-cit-0075">
+<string-name>
+<surname>Sanders</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Malhotra</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thorpe</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2004</year>). <article-title>Ecological diversification in a group of Indomalayan pitvipers (<italic>Trimeresurus</italic>): Convergence in taxonomically important traits has implications for species identification</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>17</volume>, <fpage>721</fpage>&#x02013;<lpage>731</lpage>. <pub-id pub-id-type="doi">10.1111/j.1420-9101.2004.00735.x</pub-id>
+<pub-id pub-id-type="pmid">15271071</pub-id></mixed-citation></ref><ref id="ece35846-bib-0076"><mixed-citation publication-type="book" id="ece35846-cit-0076">
+<string-name>
+<surname>Searle</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>1993</year>). <chapter-title>Chromosomal hybrid zones in eutherian mammals</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Harrison</surname><given-names>R. G.</given-names></name></person-group> (Ed.), <source xml:lang="en">Hybrid zones and the evolutionary process</source> (pp. <fpage>309</fpage>&#x02013;<lpage>353</lpage>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece35846-bib-0077"><mixed-citation publication-type="journal" id="ece35846-cit-0077">
+<string-name>
+<surname>Stewart</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Lister</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Barnes</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dal&#x000e9;n</surname>, <given-names>L.</given-names>
+</string-name> (<year>2010</year>). <article-title>Refugia revisited: Individualistic responses of species in space and time</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>277</volume>, <fpage>661</fpage>&#x02013;<lpage>671</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2009.1272</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0078"><mixed-citation publication-type="journal" id="ece35846-cit-0078">
+<string-name>
+<surname>Taberlet</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Fumagalli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wust&#x02010;Saucy</surname>, <given-names>A. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cosson</surname>, <given-names>J. F.</given-names>
+</string-name> (<year>1998</year>). <article-title>Comparative phylogeography and postglacial colonization routes in Europe</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>7</volume>, <fpage>453</fpage>&#x02013;<lpage>464</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-294x.1998.00289.x</pub-id>
+<pub-id pub-id-type="pmid">9628000</pub-id></mixed-citation></ref><ref id="ece35846-bib-0079"><mixed-citation publication-type="journal" id="ece35846-cit-0079">
+<string-name>
+<surname>Thomas</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Klaper</surname>, <given-names>R.</given-names>
+</string-name> (<year>2004</year>). <article-title>Genomics for the ecological toolbox</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>19</volume>, <fpage>439</fpage>&#x02013;<lpage>445</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2004.06.010</pub-id>
+<pub-id pub-id-type="pmid">16701302</pub-id></mixed-citation></ref><ref id="ece35846-bib-0080"><mixed-citation publication-type="journal" id="ece35846-cit-0080">
+<string-name>
+<surname>Triant</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>DeWoody</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2006</year>). <article-title>Accelerated molecular evolution in <italic>Microtus</italic> (Rodentia) as assessed via complete mitochondrial genome sequences</article-title>. <source xml:lang="en">Genetica</source>, <volume>128</volume>, <fpage>95</fpage>&#x02013;<lpage>108</lpage>. <pub-id pub-id-type="doi">10.1007/s10709-005-5538-6</pub-id>
+<pub-id pub-id-type="pmid">17028943</pub-id></mixed-citation></ref><ref id="ece35846-bib-0081"><mixed-citation publication-type="journal" id="ece35846-cit-0081">
+<string-name>
+<surname>Wang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Szpiech</surname>, <given-names>Z. A.</given-names>
+</string-name>, <string-name>
+<surname>Degnan</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Jakobsson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pemberton</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>, <given-names>J. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Rosenberg</surname>, <given-names>N. A.</given-names>
+</string-name> (<year>2010</year>). <article-title>Comparing spatial maps of human population&#x02010;genetic variation using Procrustes analysis</article-title>. <source xml:lang="en">Statistical Applications in Genetics and Molecular Biology</source>, <volume>9</volume>, <fpage>1</fpage>
+<pub-id pub-id-type="doi">10.2202/1544-6115.1493</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0082"><mixed-citation publication-type="journal" id="ece35846-cit-0082">
+<string-name>
+<surname>Waples</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>1991</year>). <article-title>Pacific salmon, <italic>Oncorhynchus</italic> spp., and the definition of &#x0201c;species&#x0201d; under the Endangered Species Act</article-title>. <source xml:lang="en">Marine Fisheries Review</source>, <volume>53</volume>, <fpage>11</fpage>&#x02013;<lpage>22</lpage>.</mixed-citation></ref><ref id="ece35846-bib-0083"><mixed-citation publication-type="journal" id="ece35846-cit-0083">
+<string-name>
+<surname>Weir</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name>
+<surname>Haddrath</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Robertson</surname>, <given-names>H. A.</given-names>
+</string-name>, <string-name>
+<surname>Colbourne</surname>, <given-names>R. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baker</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Explosive ice age diversification of kiwi</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>113</volume>, <fpage>E5580</fpage>&#x02013;<lpage>E5587</lpage>.<pub-id pub-id-type="pmid">27573837</pub-id></mixed-citation></ref><ref id="ece35846-bib-0084"><mixed-citation publication-type="journal" id="ece35846-cit-0084">
+<string-name>
+<surname>Weir</surname>, <given-names>J. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schluter</surname>, <given-names>D.</given-names>
+</string-name> (<year>2004</year>). <article-title>Ice sheets promote speciation in boreal birds</article-title>. <source xml:lang="en">Proceedings of the Royal Society of London. Series B: Biological Sciences</source>, <volume>271</volume>, <fpage>1881</fpage>&#x02013;<lpage>1887</lpage>.<pub-id pub-id-type="pmid">15347509</pub-id></mixed-citation></ref><ref id="ece35846-bib-0085"><mixed-citation publication-type="journal" id="ece35846-cit-0085">
+<string-name>
+<surname>Werkowska</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000e1;rquez</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Real</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Acevedo</surname>, <given-names>P.</given-names>
+</string-name> (<year>2016</year>). <article-title>A practical overview of transferability in species distribution modeling</article-title>. <source xml:lang="en">Environmental Reviews</source>, <volume>25</volume>, <fpage>127</fpage>&#x02013;<lpage>133</lpage>. <pub-id pub-id-type="doi">10.1139/er-2016-0045</pub-id>
+</mixed-citation></ref><ref id="ece35846-bib-0086"><mixed-citation publication-type="book" id="ece35846-cit-0086">
+<string-name>
+<surname>Wilson</surname>, <given-names>D. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Reeder</surname>, <given-names>D. M.</given-names>
+</string-name> (Eds.) (<year>2005</year>). <source xml:lang="en">Mammal species of the world: A taxonomic and geographic reference</source> (vol. <volume>2</volume>). <publisher-loc>Baltimore, MD</publisher-loc>: <publisher-name>John Hopkins University Press</publisher-name>.</mixed-citation></ref><ref id="ece35846-bib-0087"><mixed-citation publication-type="journal" id="ece35846-cit-0087">
+<string-name>
+<surname>Zelditch</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Tran</surname>, <given-names>L. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Swiderski</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>2015</year>). <article-title>Relationships of diversity, disparity, and their evolutionary rates in squirrels (Sciuridae)</article-title>. <source xml:lang="en">Evolution</source>, <volume>69</volume>, <fpage>1284</fpage>&#x02013;<lpage>1300</lpage>. <pub-id pub-id-type="doi">10.1111/evo.12642</pub-id>
+<pub-id pub-id-type="pmid">25787014</pub-id></mixed-citation></ref></ref-list></back></article>

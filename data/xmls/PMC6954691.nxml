@@ -1,0 +1,817 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Stem Cells Transl Med</journal-id><journal-id journal-id-type="iso-abbrev">Stem Cells Transl Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2157-6580</journal-id><journal-id journal-id-type="publisher-id">SCT3</journal-id><journal-title-group><journal-title>Stem Cells Translational Medicine</journal-title></journal-title-group><issn pub-type="ppub">2157-6564</issn><issn pub-type="epub">2157-6580</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31411820</article-id><article-id pub-id-type="pmc">6954691</article-id><article-id pub-id-type="doi">10.1002/sctm.19-0114</article-id><article-id pub-id-type="publisher-id">SCT312587</article-id><article-categories><subj-group subj-group-type="overline"><subject>Concise Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Concise Review</subject></subj-group></article-categories><title-group><article-title>Mesenchymal stromal cell&#x02010;derived extracellular vesicles for regenerative therapy and immune modulation: Progress and challenges toward clinical application</article-title><alt-title alt-title-type="right-running-head">MSC&#x02010;derived EV therapy</alt-title><alt-title alt-title-type="left-running-head">Allan et al.</alt-title></title-group><contrib-group><contrib id="sct312587-cr-0001" contrib-type="author" corresp="yes"><name><surname>Allan</surname><given-names>David</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3261-8289</contrib-id><xref ref-type="aff" rid="sct312587-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="sct312587-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="sct312587-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="sct312587-aff-0004">
+<sup>4</sup>
+</xref><address><email>daallan@toh.ca</email></address></contrib><contrib id="sct312587-cr-0002" contrib-type="author"><name><surname>Tieu</surname><given-names>Alvin</given-names></name><xref ref-type="aff" rid="sct312587-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="sct312587-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="sct312587-cr-0003" contrib-type="author"><name><surname>Lalu</surname><given-names>Manoj</given-names></name><xref ref-type="aff" rid="sct312587-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="sct312587-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="sct312587-cr-0004" contrib-type="author"><name><surname>Burger</surname><given-names>Dylan</given-names></name><xref ref-type="aff" rid="sct312587-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="sct312587-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="sct312587-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Hematology and Blood and Marrow Transplantation</named-content>
+<institution>The Ottawa Hospital</institution>
+<city>Ottawa</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="sct312587-aff-0002">
+<label><sup>2</sup></label>
+<institution>Clinical Epidemiology</institution>
+<institution>Ottawa Hospital Research Institute</institution>
+<city>Ottawa</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="sct312587-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Regenerative Medicine Programs</named-content>
+<institution>Ottawa Hospital Research Institute</institution>
+<city>Ottawa</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="sct312587-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Faculty of Medicine</named-content>
+<institution>University of Ottawa</institution>
+<city>Ottawa</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+David Allan, MD, FRCPC, 501 Smyth Road, Box 704 Ottawa, Ontario K1H 8L6, Canada.<break/>
+Email: <email>daallan@toh.ca</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>14</day><month>8</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>9</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/sct3.v9.1</issue-id><fpage>39</fpage><lpage>46</lpage><history><date date-type="received"><day>10</day><month>4</month><year>2019</year></date><date date-type="accepted"><day>19</day><month>7</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 AlphaMed Press <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <sc>stem cells translational medicine</sc> published by Wiley Periodicals, Inc. on behalf of AlphaMed Press</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:SCT3-9-39.pdf"/><abstract><title>Abstract</title><p>Extracellular vesicles (EVs) derived from mesenchymal stromal cells (MSCs) have emerged as a promising form of regenerative therapy and immune modulation. Fundamental advances in our understanding of MSCs and EVs have allowed these fields to merge and create potential cell&#x02010;free therapy options that are cell&#x02010;based. EVs contain active cargo including proteins, microRNA, and mRNA species that can impact signaling responses in target cells to modify inflammatory and repair responses. Increasing numbers of preclinical studies in animals with various types of injury models have been published that demonstrate the potential impact of MSC&#x02010;EV therapy. Although the emergence of registered clinical protocols suggests translation to clinical application has already begun, several barriers to more widespread clinical adoption remain. In this review, we highlight the progress made in MSC&#x02010;derived small EV&#x02010;based therapy by summarizing aspects pertaining to the starting material for MSC expansion, EV production, and isolation methods, studies from preclinical models that have established a foundation of knowledge to support translation into the patient setting, and potential barriers to overcome on the path to clinical application.</p></abstract><abstract abstract-type="graphical"><p>Cumulative number of published articles investigating the therapeutic efficacy of extracellular vesicles derived from mesenchymal stem cells in preclinical animal models of disease.*Number of articles published in 2018 was extrapolated based on the total number of published articles until May of 2018.<boxed-text position="anchor" content-type="graphic" id="sct312587-blkfxd-0001" orientation="portrait"><graphic xlink:href="SCT3-9-39-g004.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="sct312587-kwd-0001">extracellular vesicles</kwd><kwd id="sct312587-kwd-0002">immune modulation</kwd><kwd id="sct312587-kwd-0003">mesenchymal stromal cells</kwd><kwd id="sct312587-kwd-0004">preclinical</kwd><kwd id="sct312587-kwd-0005">regenerative therapy</kwd></kwd-group><counts><fig-count count="3"/><table-count count="0"/><page-count count="8"/><word-count count="7022"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:13.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="sct312587-cit-9001">
+<string-name>
+<surname>Allan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tieu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lalu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Burger</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Mesenchymal stromal cell&#x02010;derived extracellular vesicles for regenerative therapy and immune modulation: Progress and challenges toward clinical application</article-title>. <source xml:lang="en">STEM CELLS Transl Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>39</fpage>&#x02013;<lpage>46</lpage>. <pub-id pub-id-type="doi">10.1002/sctm.19-0114</pub-id>
+<pub-id pub-id-type="pmid">31411820</pub-id></mixed-citation>
+</p></notes></front><body id="sct312587-body-0001"><sec sec-type="opening-section" id="sct312587-sec-0001"><label>1</label><p>
+<boxed-text position="anchor" content-type="box" id="sct312587-blkfxd-0002" orientation="portrait"><caption><title>Significance statement</title></caption><p>Mesenchymal stromal cell&#x02010;derived extracellular vesicles are a promising cell&#x02010;free therapy for regenerative medicine and immune modulation with growing evidence from preclinical animal studies. Bioactive cargo in extracellular vesicles, including proteins, microRNA, and mRNA species, can impact signaling responses in target cells to modify inflammatory and repair responses. Although translation to clinical application has already begun, several barriers to more widespread clinical adoption remain.</p></boxed-text>
+</p></sec><sec id="sct312587-sec-0003"><label>2</label><title>EXTRACELLULAR VESICLES&#x02014;DEFINITIONS, CLASSIFICATION, HISTORY</title><p>Extracellular vesicles (EVs) have a phospholipid bilayer membrane encapsulating cargo from their cell of origin and are released as paracrine effectors to influence target cells as a form of intercellular communication. Mesenchymal stromal cells (MSCs) give rise to stromal and microenvironmental supporting cells found in many tissues of the body and release small EVs as a means of supporting tissue growth such as hematopoiesis in the bone marrow but also modulate inflammatory responses and facilitate tissue repair across a range of tissue injury and organ dysfunction. Since the initial observations that small EVs could facilitate tissue repair, we have learned that most cells release EVs and that signaling molecules such as microRNA, mRNA, proteins, and other small bioactive compounds are packaged as cargo.<xref rid="sct312587-bib-0001" ref-type="ref">1</xref> A recent classification system has been proposed by the International Society of Extracellular Vesicles that provides a more robust framework for consistent classification than existed previously.<xref rid="sct312587-bib-0002" ref-type="ref">2</xref> Terms such as exosomes and microvesicles imply knowledge of the origins of the particles but are generally identified by size and surface marker expression. As such, the new guidelines advocate that the terms &#x0201c;small EVs&#x0201d; and &#x0201c;large EVs&#x0201d; be used when origin is not certain. Large EVs (traditionally referred to as microvesicles or microparticles) are often shed from cells under stress following radiation treatment, chemotherapy, ischemic injury, or other stressors.<xref rid="sct312587-bib-0003" ref-type="ref">3</xref> They may arise from membrane blebbing and are characterized by similar outer cell membrane surface markers as their cell of origin with cytoplasmic contents packaged within their cargo. Large EVs can serve as biomarkers of tissue injury or prognostic markers of adverse events but are rarely considered as potential cell&#x02010;derived therapeutic products. Indeed, some evidence suggests that large EVs may counteract the beneficial effects of small EVs.<xref rid="sct312587-bib-0004" ref-type="ref">4</xref> Small EVs (often referred to as exosomes), in contrast, may arise within endosomes following a programmed cell&#x02010;intrinsic pathway that can be altered by external stimuli.<xref rid="sct312587-bib-0005" ref-type="ref">5</xref> Small EVs can be isolated and used as a therapeutic cell&#x02010;derived product for repair of tissue injury or modulation of immune responses and have generated much excitement regarding their potential role in clinical applications.<xref rid="sct312587-bib-0003" ref-type="ref">3</xref> In this review, we highlight the progress made in MSC&#x02010;derived small EV&#x02010;based therapy by summarizing aspects pertaining to the starting material for MSC expansion, EV production and isolation methods, studies from preclinical models that have established a foundation of knowledge to support translation into the patient setting, and potential barriers to overcome on the path to clinical application.</p></sec><sec id="sct312587-sec-0004"><label>3</label><title>STARTING MATERIAL</title><p>MSCs can be readily expanded from bone marrow, adipose tissue, and placental tissues such as Wharton's jelly or umbilical cord blood. The International Society for Cellular Therapy established minimal criteria to distinguish MSCs from other stromal cells or plastic&#x02010;adhering fibroblast&#x02010;like cells based on specific cell surface marker expression and retention of multilineage differentiation capacity.<xref rid="sct312587-bib-0006" ref-type="ref">6</xref> Moreover, the use of early passage MSCs for studies of regenerative therapy has proven essential to avoid issues related to cellular senescence of more extensive MSC passaging.<xref rid="sct312587-bib-0007" ref-type="ref">7</xref> The development of serum&#x02010;free conditions appears encouraging for translation of MSC&#x02010;based therapies, and numerous clinical trials of MSCs for regenerative therapy and immune modulation have been conducted using approved media and other reagents.<xref rid="sct312587-bib-0008" ref-type="ref">8</xref> Heterogeneity, however, in the source of MSCs, dosing, administration schedules, and outcome reporting continues to hamper definitive conclusions regarding the efficacy of MSCs in certain indications such as graft&#x02010;versus&#x02010;host disease (GVHD).<xref rid="sct312587-bib-0009" ref-type="ref">9</xref> The observation that conditioned media from MSCs retains much of the therapeutic effects of MSCs themselves has contributed to the development and interest in MSC&#x02010;derived small EVs as a therapeutic tool, highlighted by initial studies in acute kidney injury<xref rid="sct312587-bib-0010" ref-type="ref">10</xref> and myocardial ischemia/reperfusion injury.<xref rid="sct312587-bib-0011" ref-type="ref">11</xref> Indeed, we recently updated a systematic search of preclinical trials of MSC&#x02010;based small EVs in animals with organ injury or immune dysfunction and identified a marked increase in published studies from 17 to 205 between 2013 and 2018 (Figure <xref rid="sct312587-fig-0001" ref-type="fig">1</xref>).<xref rid="sct312587-bib-0012" ref-type="ref">12</xref> Many of these studies used human cells in animal models, and the most common source of cells for the expansion of MSCs is from bone marrow. Most preclinical studies are reporting benefit in one form or another which is encouraging but suggests possible publication bias. A more in&#x02010;depth analysis and meta&#x02010;analysis of results from these studies is ongoing.</p><fig fig-type="Figure" xml:lang="en" id="sct312587-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Method of extracellular vesicle isolation. Number of published articles per year subgrouped by method used for isolating extracellular vesicles from mesenchymal stromal cells in preclinical animal models of immune modulation or repair of organ injury</p></caption><graphic id="nlm-graphic-3" xlink:href="SCT3-9-39-g001"/></fig><p>The role that specific ex vivo culture conditions exert on MSC&#x02010;derived EV production is interesting and may be a major component of future EV manufacturing and production methods. Hypoxia, for instance, can activate signaling pathways in MSCs to enrich EV content of specific signaling molecules that augment their capacity to promote angiogenesis and facilitate tissue repair in animal models.<xref rid="sct312587-bib-0013" ref-type="ref">13</xref>, <xref rid="sct312587-bib-0014" ref-type="ref">14</xref> Hypoxia can also enhance immune modulation by MSCs through increased secretion of indoleamine&#x02010;pyrrole 2,3&#x02010;dioxygenase (IDO) and increased Treg induction.<xref rid="sct312587-bib-0015" ref-type="ref">15</xref> Inflammatory conditions, meanwhile, were associated with increased IDO secretion by MSCs, but Treg induction was unchanged.<xref rid="sct312587-bib-0015" ref-type="ref">15</xref> Other signaling pathways can also be influenced by exogenous signals introduced during the culture phase of EV&#x02010;producing cells. Adipose&#x02010;derived MSC treated with platelet&#x02010;derived growth factor release EVs with enhanced levels of stem cell factor and its ligand, c&#x02010;kit, inducing greater angiogenic repair activity,<xref rid="sct312587-bib-0016" ref-type="ref">16</xref> while exposure of adipose MSCs to basic fibroblast growth factors attenuated the angiogenic activity.<xref rid="sct312587-bib-0017" ref-type="ref">17</xref> The tissue of origin can also influence the content of MSC&#x02010;derived EVs. MSCs derived from bone marrow as compared with cord blood, for example, retain secretome signatures that have a greater influence on bone growth and differentiation, as recently summarized by Rosu&#x02010;Myles et al<xref rid="sct312587-bib-0018" ref-type="ref">18</xref> and others.<xref rid="sct312587-bib-0019" ref-type="ref">19</xref> Adipose tissue&#x02010;derived MSCs, however, appear to maintain similar immune&#x02010;modulatory function compared with bone marrow&#x02010;derived MSCs.<xref rid="sct312587-bib-0020" ref-type="ref">20</xref> Combining strategic choices in the starting material to expand MSCs with selective growth conditions may be the optimal approach to influence the therapeutic effects of EVs. Gene transfection and other approaches that target packaging or enrichment of EV production also remain under active study and appear likely to influence EV&#x02010;based therapies. MSCs can be easily transduced using lentiviral vectors for overexpressing specific proteins such as angiopoietin 1,<xref rid="sct312587-bib-0021" ref-type="ref">21</xref> insulin growth factor 1,<xref rid="sct312587-bib-0022" ref-type="ref">22</xref> and akt<xref rid="sct312587-bib-0023" ref-type="ref">23</xref> to impact tissue remodeling and organ function, for instance, and other groups have shown enhanced efficacy of MSC&#x02010;derived EVs by altering their packaged content with proteins such as CXCR4<xref rid="sct312587-bib-0024" ref-type="ref">24</xref> and GATA&#x02010;binding transcription factor&#x02010;4,<xref rid="sct312587-bib-0025" ref-type="ref">25</xref> or microRNAs such as mIR133b,<xref rid="sct312587-bib-0026" ref-type="ref">26</xref> miR223,<xref rid="sct312587-bib-0027" ref-type="ref">27</xref> and miR140.<xref rid="sct312587-bib-0028" ref-type="ref">28</xref> One important consideration for cell culture conditions is the potential contamination of bovine EVs from serum in growth media.<xref rid="sct312587-bib-0029" ref-type="ref">29</xref> Hence, the use of serum&#x02010;free conditions when isolating cell&#x02010;derived EVs are likely necessary to align manufacturing methods with the ever&#x02010;increasing stringency of regulatory requirements for accreditation standards.</p><sec id="sct312587-sec-0005"><label>3.1</label><title>Isolating and characterizing EVs</title><p>Initial studies of EV isolation used ultracentrifugation (UC) to separate EVs based on their size. Very high forces in excess of 100&#x02009;000<italic>g</italic> for prolonged periods are needed to separate the small particles that are &#x0003c;200&#x02009;nm in size. Unfortunately, UC has been associated with contamination by non&#x02010;EV cellular material and reduced yield of RNA compared with density gradient isolation methods which could impact therapeutic efficacy.<xref rid="sct312587-bib-0030" ref-type="ref">30</xref> More study is needed to understand the impact of different isolation methods on EV content and treatment efficacy. UC remains the most common approach to EV isolation, but is cumbersome and time consuming and not ideally suited to large&#x02010;scale production. For these reasons, there has been much interest in developing alternatives. Several kits have been developed for different types of fluids using proprietary polymers to combine and precipitate small EVs. Polymer&#x02010;based methods may be used for very small sample volumes and has been associated with biomarker and profiling studies.<xref rid="sct312587-bib-0031" ref-type="ref">31</xref> The issue of potential contamination with other small particles remains a concern, and impact of polymers on downstream targets that could alter efficacy has been raised in preclinical animal models, which limits enthusiasm. Tangential flow filtration (TFF) has emerged as a relatively easy method of isolating &#x0201c;pure&#x0201d; small EVs that are not complexed with any other molecule and represents a more gentle procedure that appears unlikely to physically alter the EVs.<xref rid="sct312587-bib-0032" ref-type="ref">32</xref> High yields have been reported<xref rid="sct312587-bib-0033" ref-type="ref">33</xref> and the potential to apply TFF for larger scale EV production is under active study. Methods reported to date, however, in published preclinical trials of MSC&#x02010;EV treatment remain largely based on UC with increasing numbers of studies using TFF in studies published since 2015 (Figure <xref rid="sct312587-fig-0002" ref-type="fig">2</xref>). Registered clinical trials that are actively recruiting patients do not provide sufficient technical information, and we will have to await publication of these results or study protocols to gain more insight regarding the clinical relevance of different isolation methods.</p><fig fig-type="Figure" xml:lang="en" id="sct312587-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Cumulative number of published articles investigating the therapeutic efficacy of extracellular vesicles (EVs) derived from mesenchymal stem cells in preclinical animal models of disease. The systematic search included Ovid MEDLINE, Ovid MEDLINE in&#x02010;process and other nonindexed citations, Embase classic&#x02009;+&#x02009;Embase, and BIOSIS from inception to May 7, 2018, and included studies that addressed interventional in vivo studies using EVs derived from MSCs that were expanded from any tissue source and studied an organ or tissue injury. *Number of articles published in 2018 was extrapolated based on total number of published articles until May of 2018</p></caption><graphic id="nlm-graphic-5" xlink:href="SCT3-9-39-g002"/></fig></sec><sec id="sct312587-sec-0006"><label>3.2</label><title>Rationale for how MSC&#x02010;derived EVs can modulate immune responses and facilitate organ repair</title><p>Initial studies that demonstrated how MSCs could modulate immune responses reported a range of cell&#x02010;cell contact dependent or independent mechanisms to induce anti&#x02010;inflammatory signals and immune tolerance states. In brief, secreted factors such as IL6, IL10, prostaglandin E2 (PGE2), transforming growth factor &#x003b2; (TGF&#x003b2;), hepatocyte growth factor and IDO have been implicated in affecting target cells of the innate and adaptive immune system.<xref rid="sct312587-bib-0019" ref-type="ref">19</xref> Collectively, MSC&#x02010;derived signaling can inhibit natural killer cell proliferation and activity, reduce B lymphocyte activation, and promote T cells to differentiate into IL17&#x02010;producing effector T cells.<xref rid="sct312587-bib-0034" ref-type="ref">34</xref>, <xref rid="sct312587-bib-0035" ref-type="ref">35</xref> At the same time, MSC&#x02010;associated signaling has been associated with the induction of CD25&#x02010;expressing FoxP3&#x02010;positive T regulatory cells.<xref rid="sct312587-bib-0036" ref-type="ref">36</xref> Although some reports have described similar immune&#x02010;modulatory responses associated with conditioned media or EVs from cultured MSCs, not all reports are consistent and the mediators of MSC&#x02010;EV&#x02010;based immune modulation remains incompletely described. Initial reports of MSC&#x02010;EVs immune modulation identified several mediators that were similar to MSC&#x02010;associated tolerogenic effects, including programmed death ligand&#x02010;1, galectin&#x02010;1, and TGF&#x003b2;.<xref rid="sct312587-bib-0037" ref-type="ref">37</xref> In patients with type 1 diabetes, MSCs expanded from bone marrow samples yielded EVs that contained mRNA and protein of TGF&#x003b2; and were able to increase the production of TGF&#x003b2; and PGE2 from T cells treated with MSC&#x02010;EVs. Moreover, MSC&#x02010;EVs were able to decrease interferon &#x003b3; (IFN&#x003b3;) secretion which is associated with downregulation of Th1 responses, increased proportion of Tregs, and reduction in Th17 differentiation.<xref rid="sct312587-bib-0038" ref-type="ref">38</xref>
+</p><p>MSC&#x02010;derived EVs have also been implicated in vascular repair following ischemic injury in various animal models. Although mechanisms of vascular repair remain under active study, activation of vascular endothelial growth factor receptors and downstream angiogenesis pathways has been reported<xref rid="sct312587-bib-0039" ref-type="ref">39</xref> in association with hind limb ischemia repair in a mouse model. MSC&#x02010;EVs were also used to ameliorate blood flow recovery, reduce infarct size, and preserve cardiac function in a rat model of myocardial infarction.<xref rid="sct312587-bib-0040" ref-type="ref">40</xref> Also, small EVs derived from MSCs overexpressing hypoxia&#x02010;inducible factor&#x02010;1&#x003b1; have increased packaging of Jagged&#x02010;1 and can activate Notch&#x02010;mediated pathways in target endothelial cells in ischemia&#x02010;related diseases.<xref rid="sct312587-bib-0041" ref-type="ref">41</xref>
+</p><p>In a recent study addressing scalable production of MSC&#x02010;derived EVs,<xref rid="sct312587-bib-0042" ref-type="ref">42</xref> profiling of EV cargo was performed and demonstrated robust packaging of immune&#x02010;modulatory cytokines including IFN&#x02010;&#x003b3;&#x02010;induced protein 10, macrophage inflammatory protein&#x02010;1 &#x003b2;, interleukin&#x02010;8, the chemokine growth&#x02010;regulated oncogene, and tissue inhibitor of metalloproteinase&#x02010;1. Moreover, they identified cytokines related to vascular repair including intercellular adhesion molecule&#x02010;1, bFGF, and CD105 and microRNA miR210 which is implicated in vascular repair signaling. Starting material, culture conditions and isolation methods appear to impact EV content and potency as demonstrated by a change in cytokine packaging with the addition of angiogenic supplements such as ischemic brain extract.<xref rid="sct312587-bib-0042" ref-type="ref">42</xref> Assessing the content of EVs will undoubtedly emerge as an important aspect of regulatory oversight related to production methods for MSC&#x02010;EVs.</p></sec><sec id="sct312587-sec-0007"><label>3.3</label><title>Preclinical studies</title><p>In a systematic review of published studies (up to May 2013) of MSC&#x02010;derived EVs, we identified 13 controlled preclinical studies addressing MSC&#x02010;derived EV therapy in acute kidney injury, myocardial infarction, hind limb ischemia, liver injury, and hypoxic lung injury while four studies addressed the immune&#x02010;modulatory effects of MSC&#x02010;EVs in models of cancer.<xref rid="sct312587-bib-0012" ref-type="ref">12</xref> In fact, only half of the studies isolated EVs that were 40&#x02010;200&#x02009;nm, whereas the remainder used EVs that ranged in size up to 1000&#x02009;nm. Although the majority of studies (79%) provided explicit information regarding the number of animals allocated to treatment or control groups, only a minority (29%) randomly assigned animals and just one study reported on blinding in any aspect of the study.</p><p>An update to our systematic search was recently performed and reveals a significant increase in the number of publications (Figure <xref rid="sct312587-fig-0001" ref-type="fig">1</xref>). A total 205 studies were identified spanning a broader range of organ and tissue injury, including immune&#x02010;related conditions such as GVHD, skin allograft rejection, autoimmune conditions and sepsis (Figure <xref rid="sct312587-fig-0003" ref-type="fig">3</xref>). Methods of isolating EVs continue to focus mainly on UC, likely due to the ubiquitous availability of equipment and the smaller quantities of EVs needed for small animal studies. Many aspects of experimental approaches, however, remain highly variable from study to study. Parameters including route of administration and dosing of the MSC&#x02010;derived EVs have yet to be standardized. Most studies report intravenous delivery of the product (although this can vary in location from jugular vein to tail vein), while many others administer EVs by direct tissue or subcutaneous injection. A number of different dosing strategies are reported, including total absolute protein content of the product, total particle number, dosing by weight of the recipient animal and by amount of EVs produced from a certain quantity of MSCs over a specified time period. Among studies that dosed the EV product from total protein or particle number, the dosage used was highly variable. Future preclinical studies may benefit from dose&#x02010;response analyses and biodistribution experiments to gain better pharmacologic insight prior to clinical translation. Although controversial, there has been speculation that MSC therapy may lead to augmented tumorigenesis or ectopic tissue growth. Although some in vitro and in vivo studies have highlighted the potential role of EVs to contribute to tumor growth,<xref rid="sct312587-bib-0043" ref-type="ref">43</xref>, <xref rid="sct312587-bib-0044" ref-type="ref">44</xref> the opposite has also been demonstrated where MSC&#x02010;derived EVs have led to attenuated tumor size and improved survival in animal models of cancer.<xref rid="sct312587-bib-0045" ref-type="ref">45</xref>, <xref rid="sct312587-bib-0046" ref-type="ref">46</xref>, <xref rid="sct312587-bib-0047" ref-type="ref">47</xref> More detailed studies addressing potential long&#x02010;term sequelae of MSC&#x02010;derived EVs (whether beneficial or adverse) is needed.</p><fig fig-type="Figure" xml:lang="en" id="sct312587-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Number of published preclinical studies on mesenchymal stromal cell&#x02010;extracellular vesicles by disease domain. Total number of published articles subgrouped by disease domain up to June 1, 2018. Studies investigated extracellular vesicles derived from mesenchymal stem cells as a novel intervention in preclinical animal models. Conditions categorized as &#x0201c;other&#x0201d; include diabetes, ophthalmic conditions, organ transplantation, graft&#x02010;versus&#x02010;host disease, septic shock, autoimmune conditions, and others</p></caption><graphic id="nlm-graphic-7" xlink:href="SCT3-9-39-g003"/></fig></sec></sec><sec id="sct312587-sec-0008"><label>4</label><title>FOCUS ON CARDIAC REPAIR AND RECOVERY FROM ACUTE KIDNEY INJURY</title><p>In our recently published systematic review, the most commonly studied models of organ injury for MSC&#x02010;EV therapy were myocardial ischemia and acute kidney injury.<xref rid="sct312587-bib-0012" ref-type="ref">12</xref> Four studies in cardiac disease<xref rid="sct312587-bib-0011" ref-type="ref">11</xref>, <xref rid="sct312587-bib-0048" ref-type="ref">48</xref>, <xref rid="sct312587-bib-0049" ref-type="ref">49</xref>, <xref rid="sct312587-bib-0050" ref-type="ref">50</xref> focused chiefly on ischemia/reperfusion injury and all four studies used human fetal tissue&#x02010;derived or human embryonic stem cell&#x02010;derived MSCs as starting material for EV isolation. All the studies isolated EVs using UC and performed left coronary artery occlusion as their model of ischemia, and all four studies reported significant benefit in terms of perfusion. Safety and longer&#x02010;term outcomes were not reported. In our updated search, all cardiac studies again centered around myocardial infarction, either using a permanent ligation or ischemia&#x02010;reperfusion model. To date, no clinical studies of cardiac disorders have been published and there are no registered clinical trials on <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov/">http://clinicaltrials.gov/</ext-link> addressing cardiac dysfunction, to the best of our knowledge. A forthcoming meta&#x02010;analysis of MSC&#x02010;EVs as a potential therapy will provide an unbiased estimate of the benefits of this novel cell&#x02010;free treatment in the context of cardiac disorders.</p><p>We identified a total of six preclinical studies of kidney injury in mice (three studies) or rats (three studies) using human (four studies), mouse (one study) or rat&#x02010;derived (one study) MSCs to generate EVs that were isolated by UC (five studies) or density gradient centrifugation (one study).<xref rid="sct312587-bib-0010" ref-type="ref">10</xref>, <xref rid="sct312587-bib-0051" ref-type="ref">51</xref>, <xref rid="sct312587-bib-0052" ref-type="ref">52</xref>, <xref rid="sct312587-bib-0053" ref-type="ref">53</xref>, <xref rid="sct312587-bib-0054" ref-type="ref">54</xref>, <xref rid="sct312587-bib-0055" ref-type="ref">55</xref> Kidney injury was induced by a variety of means including glycerol injection, cisplatin, gentamicin, or partial nephrectomy. All studies reported benefit in biochemical evidence of renal function and histologic improvement of tubular necrosis. A single clinical study of MSC&#x02010;derived EV therapy in 40 patients with chronic kidney disease was identified.<xref rid="sct312587-bib-0056" ref-type="ref">56</xref> Patients receiving EVs had reduced inflammation with increased TGF&#x02010;&#x003b2;1 and IL&#x02010;10 with reduced tumor necrosis factor (TNF)&#x02010;&#x003b1; and improved kidney creatinine clearance compared with placebo&#x02010;treated controls.</p></sec><sec id="sct312587-sec-0009"><label>5</label><title>FOCUS ON GVHD</title><p>Interest in the role of MSC&#x02010;EVs in attenuating alloimmune responses may be best exemplified through studies of GVHD following hematopoietic cell transplantation in mice. A total of four controlled preclinical studies of MSC&#x02010;EVs addressing the treatment or prevention of GHVD were recently identified in our updated search of literature.<xref rid="sct312587-bib-0057" ref-type="ref">57</xref>, <xref rid="sct312587-bib-0058" ref-type="ref">58</xref>, <xref rid="sct312587-bib-0059" ref-type="ref">59</xref>, <xref rid="sct312587-bib-0060" ref-type="ref">60</xref> All studies used human MSCs expanded from bone marrow, umbilical cord blood, or embryonic stem cells, and studies isolated EVs using UC or TFF. GVHD was induced by transplanting human leukocyte antigen&#x02010;incompatible mouse bone marrow into conditioned recipient mice. The size and characterization of EVs varied and the dosage and administration of EVs was not consistent; however, all studies reported benefit in terms of clinical responses and/or a reduction in the number and severity of mice with GVHD. Moreover, the median survival of treated mice was improved in mice receiving MSC&#x02010;EVs compared with controls.</p><sec id="sct312587-sec-0010"><label>5.1</label><title>Comparing MSC&#x02010;derived EVs with MSCs</title><p>In our systematic review published in 2015, we identified four studies addressing acute kidney injury (two studies; 10, 53), hind limb ischemia (one study; 61) and tumor growth (one study; 47) that included MSCs as a control. The remaining studies used placebo as controls and/or used EVs derived from other cell types in the control group. In the studies using MSCs as controls, MSC&#x02010;EVs were at least as effective as MSCs and in one case they were more effective, suggesting much of the therapeutic efficacy associated with MSCs can be ascribed to EVs, however, we and the authors recognize that MSCs retain homing abilities that may be superior to EVs and collectively, small numbers of animals were treated in these studies. An updated analysis of control groups used in preclinical studies is forthcoming in our updated systematic review of preclinical studies which may add more insight to this question. On the other hand, MSCs have been associated with potential risks including infusion&#x02010;related adverse events such as respiratory compromise and fever, and longer&#x02010;term issues such as organ system complications, risk of ectopic tissue formation and malignancy that have required extended follow&#x02010;up in clinical trials of MSCs. A meta&#x02010;analysis of the safety of MSCs used in clinical trials was reviewed in 2012 and included data from eight randomized controlled trials enrolling a total of 321 patients,<xref rid="sct312587-bib-0061" ref-type="ref">61</xref> and only fever associated with infusion occurred more often in patients treated with MSCs compared with placebo. More studies with additional patients and longer follow&#x02010;up are needed and clinical studies with MSC&#x02010;EVs will also require safety and adverse event reporting.</p></sec><sec id="sct312587-sec-0011"><label>5.2</label><title>Clinical studies</title><p>There are scant reports of MSC&#x02010;derived EV administration to patients. In one case report, a patient with steroid&#x02010;refractory acute GVHD following allogeneic hematopoietic cell transplantation received MSC&#x02010;derived exosomes.<xref rid="sct312587-bib-0062" ref-type="ref">62</xref> Although a positive response was reported with a reduction in concomitant corticosteroid dosage, the patient died of pneumonia several months after receiving exosome treatment. In a second published report,<xref rid="sct312587-bib-0056" ref-type="ref">56</xref> 40 patients were enrolled in a controlled clinical trial and 20 patients with chronic kidney disease received two doses of MSC&#x02010;EVs given 1 week apart. Treated patients had a 50% improvement in creatinine clearance compared with baseline levels and patients in the placebo group did not experience any change in renal function. Inflammatory markers suggested immune&#x02010;modulatory responses in treated patients compared with controls, including increased levels of TGF&#x02010;&#x003b2; and IL&#x02010;10 and reduced levels of TNF&#x02010;&#x003b1;. We are not aware of any other clinical reports, however, we identified four clinical protocols registered with the US National Library of Congress <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov/">http://clinicaltrials.gov/</ext-link> (searched February 1, 2019) with at least two of these protocols actively recruiting and/or enrolling patients. In one registered trial (NCT03437759) from a group in China that was first posted in 2018, the investigators are actively recruiting patients with macular holes and significant vision loss who will receive umbilical cord blood MSC&#x02010;derived exosomes isolated by UC and will be compared with patients receiving MSCs in a control group. In a second study from Egypt (NCT02138331), the impact of umbilical cord blood&#x02010;derived microvesicles on &#x003b2; cell mass in patients with type I diabetes is being examined and continues to enroll patients by invitation. An Iranian team has registered a planned trial (NCT03384433) of intravenous MSC&#x02010;derived exosome treatment in patients with acute ischemic stroke using allogeneic MSCs transfected with miR&#x02010;124 to enhance neurite remodeling and neurogenesis. Lastly, a study registered by a group at the National Cancer Institute in conjunction with a team at the MD Anderson Cancer Centre in the United States (NCT03608631) outlines a clinical protocol for treatment of patients with metastatic pancreatic cancer harboring a KrasG12D mutation using MSC&#x02010;derived exosomes that contain small interference RNA against KrasG12D. Although we are not aware of other published clinical experience with MSC&#x02010;derived EVs, it is possible that other investigators have not yet communicated their protocols, results, or experience. With reference to methodological details from these clinical reports, only one of the clinical protocols identified on <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov/">http://clinicaltrials.gov/</ext-link> outlined a method for EV isolation (e.g., UC). Furthermore, there is a lack of clear information regarding EV characterization and dosing at this juncture. The final publications from these completed studies should offer more insight.</p></sec><sec id="sct312587-sec-0012"><label>5.3</label><title>Translating to the clinic</title><p>Preclinical reports of MSC&#x02010;EV therapy are highly encouraging across a range of tissue injuries and for modulation of immune responses in disorders such as GVHD and cancer. It appears evident that translational studies in patients are imminent and there are multiple ongoing clinical trials that are actively recruiting patients. Although regulatory approval of EV&#x02010;based treatments appears highly feasible and may be simplified in comparison with cell&#x02010;based therapies, several possible barriers may contribute to challenges in translating MSC&#x02010;EV therapy into the clinical domain. The International Society of Extracellular Vesicles recently published a position paper that provides a thorough discussion of important considerations regarding regulatory and safety issues for EV&#x02010;based therapeutics in clinical trials.<xref rid="sct312587-bib-0005" ref-type="ref">5</xref> Aspects of the starting cellular material remain highly relevant, however, increasing numbers of manufacturing facilities that are accredited by the Foundation for the Accreditation of Cellular Therapy produce MSCs that meet FDA and international regulatory standards. The isolation of EVs from MSCs will require greater standardization and efforts to scale up EV production to levels that can support studies in patients. Characterization of EVs will need to be robust, using methods and approaches that can be validated and approved by regulatory bodies. This will likely include a combination of flow cytometry&#x02010;based methods for membrane surface markers and quantitation of EVs for assessment of purity and yield. If MSC&#x02010;derived EV products can be used as a third party &#x0201c;off the shelf&#x0201d; product, it may make sense to manufacture and store the product in advance. Storage conditions will need to be optimized and validated to ensure post&#x02010;thaw potency using assays that reflect the application being considered, whether it is vascular repair or immune modulation. Any intervention to augment or tailor EV content will require added stringency in terms of validation and approval. In addition to the product, early clinical trials should endeavor to demonstrate safety and tolerability. Efficacy studies will need to include appropriate control groups and standard outcome reporting for each disease domain to facilitate pooling of data for meta&#x02010;analysis and development of evidence networks. It has been previously reported that identification of appropriate patient populations, such as in patients with acute kidney injury, can be a challenge for identifying opportunities for translation of preclinical trials.<xref rid="sct312587-bib-0063" ref-type="ref">63</xref>
+</p></sec></sec><sec id="sct312587-sec-0013"><label>6</label><title>SUMMARY</title><p>MSC&#x02010;derived EVs have been studied increasingly in preclinical models of organ injury and immune disorders and appear as a promising cell&#x02010;free regenerative cell&#x02010;based therapy for clinical application. More definitive preclinical trials that overcome potential threats to bias by using random allocation of animals to treatment groups and blinding of outcome assessments will accelerate the design of informative initial clinical trials. Translation to clinical studies that meet regulatory approval appears readily feasible. Manufacturing facilities capable of large&#x02010;scale EV production will be needed in the near future to support this growing field of study.</p></sec><sec sec-type="COI-statement" id="sct312587-sec-0015"><title>CONFLICT OF INTEREST</title><p>D.A. declares consultancy/advisory role with Canadian Blood Services. The remaining authors declare no potential conflict of interest.</p></sec><sec id="sct312587-sec-0014"><title>AUTHOR CONTRIBUTIONS</title><p>All authors contributed to the manuscript and approved the final version.</p></sec><sec id="sct312587-sec-0016"><label>7</label></sec></body><back><sec sec-type="data-availability" id="sct312587-sec-0017"><title>DATA AVAILABILITY STATEMENT</title><p>Data sharing is not applicable to this article as no new data were created or analyzed in this study.</p></sec><ref-list id="sct312587-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="sct312587-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="sct312587-cit-0001">
+<string-name>
+<surname>Yanez&#x02010;Mo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Siljander</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Andreu</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Biological properties of extracellular vesicles and their physiological functions</article-title>. <source xml:lang="en">J Extracell Vesicles</source>. <year>2015</year>;<volume>4</volume>:<fpage>27066</fpage>.<pub-id pub-id-type="pmid">25979354</pub-id></mixed-citation></ref><ref id="sct312587-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="sct312587-cit-0002">
+<string-name>
+<surname>Thery</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Witwer</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Aikawa</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines</article-title>. <source xml:lang="en">J Extracell Vesicles</source>. <year>2018</year>;<volume>7</volume>:<fpage>1535750</fpage>.<pub-id pub-id-type="pmid">30637094</pub-id></mixed-citation></ref><ref id="sct312587-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="sct312587-cit-0003">
+<string-name>
+<surname>Kao</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Papoutsakis</surname>
+<given-names>ET</given-names>
+</string-name>. <article-title>Extracellular vesicles: exosomes, microparticles, their parts, and their targets to enable their biomanufacturing and clinical applications</article-title>. <source xml:lang="en">Curr Opin Biotechnol</source>. <year>2019</year>;<volume>60</volume>:<fpage>89</fpage>&#x02010;<lpage>98</lpage>.<pub-id pub-id-type="pmid">30851486</pub-id></mixed-citation></ref><ref id="sct312587-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="sct312587-cit-0004">
+<string-name>
+<surname>Burger</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Vi&#x000f1;as</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Akbari</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Human cord blood&#x02010;derived endothelial colony forming cells are protective in ischemic acute kidney injury in mice</article-title>. <source xml:lang="en">Am J Pathol</source>. <year>2015</year>;<volume>185</volume>:<fpage>2309</fpage>&#x02010;<lpage>2323</lpage>.<pub-id pub-id-type="pmid">26073035</pub-id></mixed-citation></ref><ref id="sct312587-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="sct312587-cit-0005">
+<string-name>
+<surname>Lener</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Gimona</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Aigner</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Applying extracellular vesicles based therapeutics in clinical trials&#x02014;an ISEV position paper</article-title>. <source xml:lang="en">J Extracell Vesicles</source>. <year>2015</year>;<volume>4</volume>:<fpage>30087</fpage>.<pub-id pub-id-type="pmid">26725829</pub-id></mixed-citation></ref><ref id="sct312587-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="sct312587-cit-0006">
+<string-name>
+<surname>Dominici</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Le Blanc</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mueller</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Minimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statement</article-title>. <source xml:lang="en">Cytotherapy</source>. <year>2006</year>;<volume>8</volume>:<fpage>315</fpage>&#x02010;<lpage>317</lpage>.<pub-id pub-id-type="pmid">16923606</pub-id></mixed-citation></ref><ref id="sct312587-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="sct312587-cit-0007">
+<string-name>
+<surname>Schellenberg</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Stiehl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Horn</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Population dynamics of mesenchymal stromal cells during culture expansion</article-title>. <source xml:lang="en">Cytotherapy</source>. <year>2012</year>;<volume>14</volume>:<fpage>401</fpage>&#x02010;<lpage>411</lpage>.<pub-id pub-id-type="pmid">22149184</pub-id></mixed-citation></ref><ref id="sct312587-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="sct312587-cit-0008">
+<string-name>
+<surname>McIntyre</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Mei</surname>
+<given-names>SHJ</given-names>
+</string-name>, et al. <article-title>Cellular immunotherapy for septic shock. A phase I clinical trial</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>. <year>2018</year>;<volume>197</volume>:<fpage>337</fpage>&#x02010;<lpage>347</lpage>.<pub-id pub-id-type="pmid">28960096</pub-id></mixed-citation></ref><ref id="sct312587-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="sct312587-cit-0009">
+<string-name>
+<surname>Rizk</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Monaghan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shorr</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kekre</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bredeson</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Allan</surname>
+<given-names>DS</given-names>
+</string-name>. <article-title>Heterogeneity in studies of mesenchymal stromal cells to treat or prevent GVHD: a scoping review of the literature</article-title>. <source xml:lang="en">Biol Blood Marrow Transplant</source>. <year>2016</year>;<volume>22</volume>:<fpage>1416</fpage>&#x02010;<lpage>1423</lpage>.<pub-id pub-id-type="pmid">27130504</pub-id></mixed-citation></ref><ref id="sct312587-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="sct312587-cit-0010">
+<string-name>
+<surname>Bruno</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Grange</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Deregibus</surname>
+<given-names>MC</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cell&#x02010;derived microvesicles protect against acute tubular injury</article-title>. <source xml:lang="en">J Am Soc Nephrol</source>. <year>2009</year>;<volume>20</volume>:<fpage>1053</fpage>&#x02010;<lpage>1067</lpage>.<pub-id pub-id-type="pmid">19389847</pub-id></mixed-citation></ref><ref id="sct312587-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="sct312587-cit-0011">
+<string-name>
+<surname>Lai</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Arslan</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>MM</given-names>
+</string-name>, et al. <article-title>Exosome secreted by MSC reduces myocardial ischemia/reperfusion injury</article-title>. <source xml:lang="en">Stem Cell Res</source>. <year>2010</year>;<volume>4</volume>:<fpage>214</fpage>&#x02010;<lpage>222</lpage>.<pub-id pub-id-type="pmid">20138817</pub-id></mixed-citation></ref><ref id="sct312587-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="sct312587-cit-0012">
+<string-name>
+<surname>Akyurekli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Le</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Fergusson</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Allan</surname>
+<given-names>DS</given-names>
+</string-name>. <article-title>A systematic review of preclinical studies on the therapeutic potential of mesenchymal stromal cell&#x02010;derived microvesicles</article-title>. <source xml:lang="en">Stem Cell Rev Rep</source>. <year>2015</year>;<volume>11</volume>:<fpage>150</fpage>&#x02010;<lpage>160</lpage>.<pub-id pub-id-type="pmid">25091427</pub-id></mixed-citation></ref><ref id="sct312587-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="sct312587-cit-0013">
+<string-name>
+<surname>Park</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Mun</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Extracellular vesicles derived from hypoxic human mesenchymal stem cells attenuate GSK3&#x003b2; expression via miRNA&#x02010;26a in an ischemia&#x02010;reperfusion injury model</article-title>. <source xml:lang="en">Yonsei Med J</source>. <year>2018</year>;<volume>59</volume>:<fpage>736</fpage>&#x02010;<lpage>745</lpage>.<pub-id pub-id-type="pmid">29978610</pub-id></mixed-citation></ref><ref id="sct312587-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="sct312587-cit-0014">
+<string-name>
+<surname>Zhu</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>JY</given-names>
+</string-name>, et al. <article-title>Hypoxia&#x02010;elicited mesenchymal stem cell&#x02010;derived exosomes facilitates cardiac repair through miR&#x02010;125b&#x02010;mediated prevention of cell death in myocardial infarction</article-title>. <source xml:lang="en">Theranostics</source>. <year>2018</year>;<volume>8</volume>:<fpage>6163</fpage>&#x02010;<lpage>6177</lpage>.<pub-id pub-id-type="pmid">30613290</pub-id></mixed-citation></ref><ref id="sct312587-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="sct312587-cit-0015">
+<string-name>
+<surname>Kadle</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Abdou</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Villarreal&#x02010;Ponce</surname>
+<given-names>AP</given-names>
+</string-name>, et al. <article-title>Microenvironmental cues enhance mesenchymal stem cell&#x02010;mediated immunomodulation and regulatory T&#x02010;cell expansion</article-title>. <source xml:lang="en">PLoS One</source>. <year>2018</year>;<volume>13</volume>:e<fpage>0193178</fpage>.</mixed-citation></ref><ref id="sct312587-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="sct312587-cit-0016">
+<string-name>
+<surname>Lopatina</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Bruno</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tetta</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kalinina</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Porta</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Camussi</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Platelet&#x02010;derived growth factor regulates the secretion of extracellular vesicles by adipose mesenchymal stem cells and enhances their angiogenic potential</article-title>. <source xml:lang="en">Cell Commun Signal</source>. <year>2014</year>;<volume>12</volume>:<fpage>26</fpage>.<pub-id pub-id-type="pmid">24725987</pub-id></mixed-citation></ref><ref id="sct312587-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="sct312587-cit-0017">
+<string-name>
+<surname>Lopatina</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mazzeo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bruno</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The angiogenic potential of adipose mesenchymal stem cell&#x02010;derived extracellular vesicles is modulated by basic fibroblast growth factor</article-title>. <source xml:lang="en">J Stem Cells Res Ther</source>. <year>2014</year>;<volume>4</volume>:<fpage>245</fpage>.</mixed-citation></ref><ref id="sct312587-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="sct312587-cit-0018">
+<string-name>
+<surname>Lavoie</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Rosu&#x02010;Myles</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Uncovering the secretes of mesenchymal stem cells</article-title>. <source xml:lang="en">Biochimie</source>. <year>2013</year>;<volume>95</volume>:<fpage>2212</fpage>&#x02010;<lpage>2221</lpage>.<pub-id pub-id-type="pmid">23810910</pub-id></mixed-citation></ref><ref id="sct312587-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="sct312587-cit-0019">
+<string-name>
+<surname>Bruno</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Deregibus</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Camussi</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The secretome of mesenchymal stromal cells: role of extracellular vesicles in immunomodulation</article-title>. <source xml:lang="en">Immunol Lett</source>. <year>2015</year>;<volume>168</volume>:<fpage>154</fpage>&#x02010;<lpage>158</lpage>.<pub-id pub-id-type="pmid">26086886</pub-id></mixed-citation></ref><ref id="sct312587-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="sct312587-cit-0020">
+<string-name>
+<surname>Blazquez</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sanchez&#x02010;Margallo</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>de la Rosa</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Immunomodulatory potential of human adipose mesenchymal stem cells derived exosomes on in vitro stimulated T cells</article-title>. <source xml:lang="en">Front Immunol</source>. <year>2014</year>;<volume>5</volume>:<fpage>556</fpage>.<pub-id pub-id-type="pmid">25414703</pub-id></mixed-citation></ref><ref id="sct312587-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="sct312587-cit-0021">
+<string-name>
+<surname>Mei</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>McCarter</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Liles</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Prevention of LPS&#x02010;induced acute lung injury in mice by mesenchymal stem cells overexpressing angiopoietin 1</article-title>. <source xml:lang="en">PLoS Med</source>. <year>2007</year>;<volume>4</volume>:e<fpage>269</fpage>.</mixed-citation></ref><ref id="sct312587-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="sct312587-cit-0022">
+<string-name>
+<surname>Haider</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Idris</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Ashraf</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>IGF&#x02010;1&#x02010;overexpressing mesenchymal stem cells accelerate bone marrow stem cell mobilization via paracrine activation of SDF&#x02010;1alpha/CXCR4 signalling to promote myocardial repair</article-title>. <source xml:lang="en">Circ Res</source>. <year>2008</year>;<volume>103</volume>:<fpage>1300</fpage>&#x02010;<lpage>1308</lpage>.<pub-id pub-id-type="pmid">18948617</pub-id></mixed-citation></ref><ref id="sct312587-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="sct312587-cit-0023">
+<string-name>
+<surname>Mangi</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Noiseaux</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cells modified with Akt prevent remodelling and restore performance of infarcted hearts</article-title>. <source xml:lang="en">Nat Med</source>. <year>2003</year>;<volume>9</volume>:<fpage>1195</fpage>&#x02010;<lpage>1201</lpage>.<pub-id pub-id-type="pmid">12910262</pub-id></mixed-citation></ref><ref id="sct312587-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="sct312587-cit-0024">
+<string-name>
+<surname>Kang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Exosomes secreted from CXCR4 overexpressing mesenchymal stem cells promote cardioprotection via Akt signaling pathway following myocardial infarction</article-title>. <source xml:lang="en">Stem Cells Int</source>. <year>2015</year>;<volume>2015</volume>:<fpage>659890</fpage>.<pub-id pub-id-type="pmid">26074976</pub-id></mixed-citation></ref><ref id="sct312587-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="sct312587-cit-0025">
+<string-name>
+<surname>Yu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>HW</given-names>
+</string-name>, <string-name>
+<surname>Gong</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Exosomes secreted from GATA&#x02010;4 overexpressing mesenchymal stem cells serve as a reservoir of anti&#x02010;apoptotic microRNAs for cardioprotection</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2015</year>;<volume>182</volume>:<fpage>349</fpage>&#x02010;<lpage>360</lpage>.<pub-id pub-id-type="pmid">25590961</pub-id></mixed-citation></ref><ref id="sct312587-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="sct312587-cit-0026">
+<string-name>
+<surname>Xin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Secondary release of exosomes from astrocytes contributes to the increase in neural plasticity and improvement of functional recovery after stroke in rats treated with exosomes harvested from microRNA 133b&#x02010;overexpressing multipotent mesenchymal stromal cells</article-title>. <source xml:lang="en">Cell Transplant</source>. <year>2017</year>;<volume>26</volume>:<fpage>243</fpage>&#x02010;<lpage>257</lpage>.<pub-id pub-id-type="pmid">27677799</pub-id></mixed-citation></ref><ref id="sct312587-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="sct312587-cit-0027">
+<string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>FB</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>DZ</given-names>
+</string-name>, et al. <article-title>BMSC&#x02010;derived miR&#x02010;233&#x02010;containing exosomes contribute to liver protection in experimental autoimmune hepatitis</article-title>. <source xml:lang="en">Mol Immunol</source>. <year>2018</year>;<volume>93</volume>:<fpage>38</fpage>&#x02010;<lpage>46</lpage>.<pub-id pub-id-type="pmid">29145157</pub-id></mixed-citation></ref><ref id="sct312587-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="sct312587-cit-0028">
+<string-name>
+<surname>Tao</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>CQ</given-names>
+</string-name>. <article-title>Exosomes derived from miR&#x02010;140&#x02010;5p&#x02010;overexpressing human synovial mesenchymal stem cells enhance cartilage tissue regeneration and prevent osteoarthritis of the knee in a rat model</article-title>. <source xml:lang="en">Theranostics</source>. <year>2017</year>;<volume>7</volume>:<fpage>180</fpage>&#x02010;<lpage>195</lpage>.<pub-id pub-id-type="pmid">28042326</pub-id></mixed-citation></ref><ref id="sct312587-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="sct312587-cit-0029">
+<string-name>
+<surname>Kornilov</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Puhka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mannerstrom</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Efficient ultrafiltration&#x02010;based protocol to deplete extracellular vesicles from fetal bovine serum</article-title>. <source xml:lang="en">J Extracell Vesicles</source>. <year>2018</year>;<volume>7</volume>:<fpage>1422674</fpage>.<pub-id pub-id-type="pmid">29410778</pub-id></mixed-citation></ref><ref id="sct312587-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="sct312587-cit-0030">
+<string-name>
+<surname>Van Deun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mestdagh</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sormunen</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>The impact of disparate isolation methods for extracellular vesicles on downstream RNA profiling</article-title>. <source xml:lang="en">J Extracell Vesicles</source>. <year>2014</year>;<volume>3</volume>
+<pub-id pub-id-type="doi">10.3402/jev.v3.24858</pub-id>.</mixed-citation></ref><ref id="sct312587-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="sct312587-cit-0031">
+<string-name>
+<surname>Serrano&#x02010;Pertierra</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Oliviera&#x02010;Rodriguez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rivas</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Characterization of plasma&#x02010;derived extracellular vesicles isolated by different methods: a comparison study</article-title>. <source xml:lang="en">Bioengineering</source>. <year>2019</year>;<volume>5</volume>:<fpage>E8</fpage>.</mixed-citation></ref><ref id="sct312587-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="sct312587-cit-0032">
+<string-name>
+<surname>Busatto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Vilanilam</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ticer</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Tangential flow filtration for highly efficient concentration of extracellular vesicles from large volumes of fluid</article-title>. <source xml:lang="en">Cells</source>. <year>2018</year>;<volume>7</volume>:<fpage>E273</fpage>.<pub-id pub-id-type="pmid">30558352</pub-id></mixed-citation></ref><ref id="sct312587-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="sct312587-cit-0033">
+<string-name>
+<surname>Nordin</surname>
+<given-names>JZ</given-names>
+</string-name>, <string-name>
+<surname>Bostancioglu</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Corso</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>El Andaloussi</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Tangential flow filtration with or without subsequent bind&#x02010;elute size exclusion chromatography for purification of extracellular vesicles</article-title>. <source xml:lang="en">Methods Mol Biol</source>. <year>2019</year>;<volume>1953</volume>:<fpage>287</fpage>&#x02010;<lpage>299</lpage>.<pub-id pub-id-type="pmid">30912029</pub-id></mixed-citation></ref><ref id="sct312587-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="sct312587-cit-0034">
+<string-name>
+<surname>Najar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Raicevic</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Fayyad&#x02010;Kazan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Bron</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Toungouz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lagneaux</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Mesenchymal stromal cells and immunomodulation: a gathering of regulatory immune cells</article-title>. <source xml:lang="en">Cytotherapy</source>. <year>2016</year>;<volume>18</volume>:<fpage>160</fpage>&#x02010;<lpage>171</lpage>.<pub-id pub-id-type="pmid">26794710</pub-id></mixed-citation></ref><ref id="sct312587-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="sct312587-cit-0035">
+<string-name>
+<surname>Keating</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Mesenchymal stromal cells: new directions</article-title>. <source xml:lang="en">Cell Stem Cell</source>. <year>2012</year>;<volume>10</volume>:<fpage>709</fpage>&#x02010;<lpage>716</lpage>.<pub-id pub-id-type="pmid">22704511</pub-id></mixed-citation></ref><ref id="sct312587-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="sct312587-cit-0036">
+<string-name>
+<surname>English</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Tobin</surname>
+<given-names>MJ</given-names>
+</string-name>, et al. <article-title>Cell contact, prostaglandin E(2) and transforming growth factor beta 1 play non&#x02010;redundant roles in human mesenchymal stem cell induction of CD4+CD25(high) forkhead box P3+ regulatory T cells</article-title>. <source xml:lang="en">Clin Exp Immunol</source>. <year>2009</year>;<volume>156</volume>:<fpage>149</fpage>&#x02010;<lpage>160</lpage>.<pub-id pub-id-type="pmid">19210524</pub-id></mixed-citation></ref><ref id="sct312587-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="sct312587-cit-0037">
+<string-name>
+<surname>Mokarizadeh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Delirezh</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Morshedi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mosayebi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Farshid</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Mardami</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Microvesicles derived from mesenchymal stem cells: potent organelles for induction of tolerogenic signaling</article-title>. <source xml:lang="en">Immunol Lett</source>. <year>2012</year>;<volume>147</volume>:<fpage>47</fpage>&#x02010;<lpage>54</lpage>.<pub-id pub-id-type="pmid">22705267</pub-id></mixed-citation></ref><ref id="sct312587-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="sct312587-cit-0038">
+<string-name>
+<surname>Favaro</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Carapanetto</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lamorte</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Human mesenchymal stem cell&#x02010;derived microvesicles modulate T cell response to islet antigen glutamic acid decarboxylase in patients with type 1 diabetes</article-title>. <source xml:lang="en">Diabetologia</source>. <year>2014</year>;<volume>57</volume>:<fpage>1664</fpage>&#x02010;<lpage>1673</lpage>.<pub-id pub-id-type="pmid">24838680</pub-id></mixed-citation></ref><ref id="sct312587-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="sct312587-cit-0039">
+<string-name>
+<surname>Gangadaran</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Rajendran</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>HW</given-names>
+</string-name>, et al. <article-title>Extracellular vesicles from mesenchymal stem cells activates VEGF receptors and accelerates recovery of hindlimb ischemia</article-title>. <source xml:lang="en">J Control Release</source>. <year>2017</year>;<volume>264</volume>:<fpage>112</fpage>&#x02010;<lpage>126</lpage>.<pub-id pub-id-type="pmid">28837823</pub-id></mixed-citation></ref><ref id="sct312587-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="sct312587-cit-0040">
+<string-name>
+<surname>Bian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Duan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Min</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Extracellular vesicles derived from human bone marrow mesenchymal stem cells promote angiogenesis in a rat myocardial infarction model</article-title>. <source xml:lang="en">J Mol Med</source>. <year>2014</year>;<volume>92</volume>:<fpage>387</fpage>&#x02010;<lpage>397</lpage>.<pub-id pub-id-type="pmid">24337504</pub-id></mixed-citation></ref><ref id="sct312587-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="sct312587-cit-0041">
+<string-name>
+<surname>Gonzalez&#x02010;King</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Ontoria&#x02010;Oviedo</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Ciria</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Montero</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Sepulveda</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Hypoxia inducible factor&#x02010;1&#x003b1; potentiates jagged 1&#x02010;mediated angiogenesis by mesenchymal stem cell derived&#x02010;exosomes</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2017</year>;<volume>35</volume>:<fpage>1747</fpage>&#x02010;<lpage>1759</lpage>.<pub-id pub-id-type="pmid">28376567</pub-id></mixed-citation></ref><ref id="sct312587-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="sct312587-cit-0042">
+<string-name>
+<surname>Cha</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name>
+<surname>Sung</surname>
+<given-names>JH</given-names>
+</string-name>, et al. <article-title>Efficient scalable production of therapeutic microvesicles derived from human mesenchymal stem cells</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2018</year>;<volume>8</volume>:<fpage>1171</fpage>.<pub-id pub-id-type="pmid">29352188</pub-id></mixed-citation></ref><ref id="sct312587-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="sct312587-cit-0043">
+<string-name>
+<surname>Du</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ju</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Microvesicles derived from human Wharton's jelly mesenchymal stem cells promote human renal cancer cell growth and aggressiveness through induction of hepatocyte growth factor</article-title>. <source xml:lang="en">PLoS One</source>. <year>2014</year>;<volume>9</volume>:e<fpage>96836</fpage>.</mixed-citation></ref><ref id="sct312587-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="sct312587-cit-0044">
+<string-name>
+<surname>Shi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cell&#x02010;derived exosomes facilitate nasopharyngeal carcinoma progression</article-title>. <source xml:lang="en">Am J Cancer Res</source>. <year>2016</year>;<volume>6</volume>:<fpage>459</fpage>&#x02010;<lpage>472</lpage>.<pub-id pub-id-type="pmid">27186416</pub-id></mixed-citation></ref><ref id="sct312587-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="sct312587-cit-0045">
+<string-name>
+<surname>Lang</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Hossain</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gumin</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cells as natural biofactories for exosomes carrying miR&#x02010;124a in the treatment of gliomas</article-title>. <source xml:lang="en">Neuro Oncol</source>. <year>2018</year>;<volume>20</volume>:<fpage>380</fpage>&#x02010;<lpage>390</lpage>.<pub-id pub-id-type="pmid">29016843</pub-id></mixed-citation></ref><ref id="sct312587-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="sct312587-cit-0046">
+<string-name>
+<surname>Kalimuthu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gangadaran</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>XJ</given-names>
+</string-name>, et al. <article-title>In vivo therapeutic potential of mesenchymal stem cell&#x02010;derived extracellular vesicles with optical imaging reporter in tumor mice model</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2016</year>;<volume>6</volume>:<fpage>30418</fpage>.<pub-id pub-id-type="pmid">27452924</pub-id></mixed-citation></ref><ref id="sct312587-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="sct312587-cit-0047">
+<string-name>
+<surname>Wu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ju</surname>
+<given-names>GQ</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>GH</given-names>
+</string-name>. <article-title>Microvesicles derived from human umbilical cord Wharton's jelly mesenchymal stem cells attenuate bladder tumor cell growth in vitro and in vivo</article-title>. <source xml:lang="en">PLoS One</source>. <year>2013</year>;<volume>8</volume>:e<fpage>61366</fpage>.</mixed-citation></ref><ref id="sct312587-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="sct312587-cit-0048">
+<string-name>
+<surname>Arslan</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Smeets</surname>
+<given-names>MB</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cell&#x02010;derived exosomes increase ATP levels, decrease oxidative stress and activate PI3K/Akt pathway to enhance myocardial viability and prevent adverse remodeling after myocardial ischemia/reperfusion injury</article-title>. <source xml:lang="en">Stem Cell Res</source>. <year>2013</year>;<volume>10</volume>:<fpage>301</fpage>&#x02010;<lpage>312</lpage>.<pub-id pub-id-type="pmid">23399448</pub-id></mixed-citation></ref><ref id="sct312587-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="sct312587-cit-0049">
+<string-name>
+<surname>Lai</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Arslan</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>SS</given-names>
+</string-name>, et al. <article-title>Derivation and characterization of human fetal MSCs: an alternative cell source for large&#x02010;scale production of cardioprotective microparticles</article-title>. <source xml:lang="en">J Mol Cell Cardiol</source>. <year>2010</year>;<volume>48</volume>:<fpage>1215</fpage>&#x02010;<lpage>1224</lpage>.<pub-id pub-id-type="pmid">20064522</pub-id></mixed-citation></ref><ref id="sct312587-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="sct312587-cit-0050">
+<string-name>
+<surname>Chen</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Choo</surname>
+<given-names>ABH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>Mesenchymal stem cell secretes microparticles enriched in pre&#x02010;microRNAs</article-title>. <source xml:lang="en">Nucleic Acids Res</source>. <year>2010</year>;<volume>38</volume>:<fpage>215</fpage>&#x02010;<lpage>224</lpage>.<pub-id pub-id-type="pmid">19850715</pub-id></mixed-citation></ref><ref id="sct312587-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="sct312587-cit-0051">
+<string-name>
+<surname>Bruno</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Grange</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Collino</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Microvesicles derived from mesenchymal stem cells enhance survival in a lethal model of acute kidney injury</article-title>. <source xml:lang="en">PLoS One</source>. <year>2012</year>;<volume>7</volume>:e<fpage>33115</fpage>.</mixed-citation></ref><ref id="sct312587-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="sct312587-cit-0052">
+<string-name>
+<surname>Gatti</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bruno</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Deregibus</surname>
+<given-names>MC</given-names>
+</string-name>, et al. <article-title>Microvesicles derived from human adult mesenchymal stem cells protect against ischaemia&#x02010;reperfusion&#x02010;induced acute and chronic kidney injury</article-title>. <source xml:lang="en">Nephrol Dial Transplant</source>. <year>2011</year>;<volume>26</volume>:<fpage>1474</fpage>&#x02010;<lpage>1483</lpage>.<pub-id pub-id-type="pmid">21324974</pub-id></mixed-citation></ref><ref id="sct312587-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="sct312587-cit-0053">
+<string-name>
+<surname>He</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Bone marrow stem cells&#x02010;derived microvesicles protect against renal injury in the mouse remnant kidney model</article-title>. <source xml:lang="en">Nephrol Ther</source>. <year>2012</year>;<volume>17</volume>:<fpage>493</fpage>&#x02010;<lpage>500</lpage>.</mixed-citation></ref><ref id="sct312587-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="sct312587-cit-0054">
+<string-name>
+<surname>Reis</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Borges</surname>
+<given-names>FT</given-names>
+</string-name>, <string-name>
+<surname>Simoes</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Borges</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Sinigaglia&#x02010;Coimbra</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Schor</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Bone marrow&#x02010;derived mesenchymal stem cells repaired but did not prevent gentamicin&#x02010;induced acute kidney injury through paracrine effects in rats</article-title>. <source xml:lang="en">PLoS One</source>. <year>2012</year>;<volume>7</volume>:e<fpage>44092</fpage>.</mixed-citation></ref><ref id="sct312587-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="sct312587-cit-0055">
+<string-name>
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Exosomes released by human umbilical cord mesenchymal stem cells protect against cisplatin&#x02010;induced renal oxidative stress and apoptosis in vivo and in vitro</article-title>. <source xml:lang="en">Stem Cell Res Ther</source>. <year>2013</year>;<volume>4</volume>:<fpage>34</fpage>.<pub-id pub-id-type="pmid">23618405</pub-id></mixed-citation></ref><ref id="sct312587-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="sct312587-cit-0056">
+<string-name>
+<surname>Nassar</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>El&#x02010;Ansary</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sabry</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Umbilical cord mesenchymal stem cells derived extracellular vesicles can safely ameliorate the progression of chronic kidney diseases</article-title>. <source xml:lang="en">Biomater Res</source>. <year>2016</year>;<volume>20</volume>:<fpage>21</fpage>.<pub-id pub-id-type="pmid">27499886</pub-id></mixed-citation></ref><ref id="sct312587-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="sct312587-cit-0057">
+<string-name>
+<surname>Zhang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Yeo</surname>
+<given-names>RWY</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Sim</surname>
+<given-names>EWK</given-names>
+</string-name>, <string-name>
+<surname>Chin</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>Mesenchymal stromal cell exosome&#x02010;enhanced regulatory T&#x02010;cell production through an antigen&#x02010;presenting cell mediated pathway</article-title>. <source xml:lang="en">Cytotherapy</source>. <year>2018</year>;<volume>20</volume>:<fpage>687</fpage>&#x02010;<lpage>696</lpage>.<pub-id pub-id-type="pmid">29622483</pub-id></mixed-citation></ref><ref id="sct312587-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="sct312587-cit-0058">
+<string-name>
+<surname>Fujii</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Miura</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Fujishiro</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Graft&#x02010;versus&#x02010;host disease amelioration by human bone marrow mesenchymal stromal/stem cell&#x02010;derived extracellular vesicles is associated with peripheral preservation of na&#x000ef;ve T cell populations</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2018</year>;<volume>36</volume>:<fpage>434</fpage>&#x02010;<lpage>445</lpage>.<pub-id pub-id-type="pmid">29239062</pub-id></mixed-citation></ref><ref id="sct312587-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="sct312587-cit-0059">
+<string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Extracellular vesicles released from human umbilical cord&#x02010;derived mesenchymal stromal cells prevent life&#x02010;threatening acute graft&#x02010;versus&#x02010;host disease in a mouse model of allogeneic hematopoietic stem cell transplantation</article-title>. <source xml:lang="en">Stem Cells Dev</source>. <year>2016</year>;<volume>25</volume>:<fpage>1874</fpage>&#x02010;<lpage>1883</lpage>.<pub-id pub-id-type="pmid">27649744</pub-id></mixed-citation></ref><ref id="sct312587-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="sct312587-cit-0060">
+<string-name>
+<surname>Lai</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>A potent immunomodulatory role of exosomes derived from mesenchymal stromal cells in preventing cGVHD</article-title>. <source xml:lang="en">J Hematol Oncol</source>. <year>2018</year>;<volume>11</volume>:<fpage>135</fpage>.<pub-id pub-id-type="pmid">30526632</pub-id></mixed-citation></ref><ref id="sct312587-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="sct312587-cit-0061">
+<string-name>
+<surname>Lalu</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>McIntyre</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pugliese</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Safety of cell therapy with mesenchymal stromal cells (SafeCell): a systematic review and meta&#x02010;analysis of clinical trials</article-title>. <source xml:lang="en">PLoS One</source>. <year>2012</year>;<volume>7</volume>:e<fpage>47559</fpage>.</mixed-citation></ref><ref id="sct312587-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="sct312587-cit-0062">
+<string-name>
+<surname>Kordelas</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Rebmann</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Ludwig</surname>
+<given-names>AK</given-names>
+</string-name>, et al. <article-title>MSC&#x02010;derived exosomes: a novel tool to treat therapy&#x02010;refractory graft&#x02010;versus&#x02010;host disease</article-title>. <source xml:lang="en">Leukemia</source>. <year>2014</year>;<volume>28</volume>:<fpage>970</fpage>&#x02010;<lpage>973</lpage>.<pub-id pub-id-type="pmid">24445866</pub-id></mixed-citation></ref><ref id="sct312587-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="sct312587-cit-0063">
+<string-name>
+<surname>Silver</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Cardinal</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Colwell</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Burger</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Dickhout</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>Acute kidney injury: Preclinical innovations, challenges, and opportunities for translation</article-title>. <source xml:lang="en">Can J Kidney Health Dis</source>. <year>2015</year>;<volume>2</volume>:<fpage>3</fpage>.<pub-id pub-id-type="pmid">25780626</pub-id></mixed-citation></ref></ref-list></back></article>

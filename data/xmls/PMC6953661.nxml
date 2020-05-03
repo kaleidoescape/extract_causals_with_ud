@@ -1,0 +1,716 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938522</article-id><article-id pub-id-type="pmc">6953661</article-id><article-id pub-id-type="doi">10.1002/ece3.5870</article-id><article-id pub-id-type="publisher-id">ECE35870</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Disturbance and the elevation ranges of woody plant species in the mountains of Costa Rica</article-title><alt-title alt-title-type="left-running-head">MU&#x000d1;OZ MAZ&#x000d3;N et al.</alt-title></title-group><contrib-group><contrib id="ece35870-cr-0001" contrib-type="author" corresp="yes"><name><surname>Mu&#x000f1;oz Maz&#x000f3;n</surname><given-names>Miguel</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2426-2761</contrib-id><xref ref-type="aff" rid="ece35870-aff-0001">
+<sup>1</sup>
+</xref><address><email>mmunozmazon@gmail.com</email><email>migmunoz@nmbu.no</email></address></contrib><contrib id="ece35870-cr-0002" contrib-type="author"><name><surname>Klanderud</surname><given-names>Kari</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1049-7025</contrib-id><xref ref-type="aff" rid="ece35870-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35870-cr-0003" contrib-type="author"><name><surname>Finegan</surname><given-names>Bryan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7035-255X</contrib-id><xref ref-type="aff" rid="ece35870-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35870-cr-0004" contrib-type="author"><name><surname>Veintimilla</surname><given-names>Dar&#x000ed;o</given-names></name><xref ref-type="aff" rid="ece35870-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="ece35870-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35870-cr-0005" contrib-type="author"><name><surname>Bermeo</surname><given-names>Diego</given-names></name><xref ref-type="aff" rid="ece35870-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35870-cr-0006" contrib-type="author"><name><surname>Murrieta</surname><given-names>Eduardo</given-names></name><xref ref-type="aff" rid="ece35870-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35870-cr-0007" contrib-type="author"><name><surname>Delgado</surname><given-names>Diego</given-names></name><xref ref-type="aff" rid="ece35870-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35870-cr-0008" contrib-type="author"><name><surname>Sheil</surname><given-names>Douglas</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1166-6591</contrib-id><xref ref-type="aff" rid="ece35870-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ece35870-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Faculty of Environmental Sciences and Natural Resource Management</named-content>
+<institution>Norwegian University of Life Sciences (NMBU)</institution>
+<city>&#x000c5;s</city>
+<country country="NO">Norway</country>
+</aff><aff id="ece35870-aff-0002">
+<label><sup>2</sup></label>
+<institution>CATIE&#x02010;Centro Agron&#x000f3;mico Tropical de Investigaci&#x000f3;n y Ense&#x000f1;anza</institution>
+<city>Turrialba</city>
+<country country="CR">Costa Rica</country>
+</aff><aff id="ece35870-aff-0003">
+<label><sup>3</sup></label>
+<institution>Johann Heinrich von Th&#x000fc;nen Institute Federal Research Institute for Rural Areas, Forestry and Fisheries</institution>
+<city>Braunschweig</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Miguel Mu&#x000f1;oz Maz&#x000f3;n, Faculty of Environmental Sciences and Natural Resource Management, Norwegian University of Life Sciences (NMBU), PO Box 5003, 1432 &#x000c5;s, Norway.<break/>
+Emails: <email>mmunozmazon@gmail.com</email>; <email>migmunoz@nmbu.no</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14330</fpage><lpage>14340</lpage><history><date date-type="received"><day>09</day><month>5</month><year>2019</year></date><date date-type="rev-recd"><day>20</day><month>8</month><year>2019</year></date><date date-type="accepted"><day>29</day><month>8</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14330.pdf"/><abstract id="ece35870-abs-0001"><title>Abstract</title><sec id="ece35870-sec-0001"><title>Aim</title><p>To understand how disturbance&#x02014;here defined as a transient reduction in competition&#x02014;can shape plant distributions along elevation gradients. Theory suggests that disturbance may increase elevation ranges, especially at the lower range limits, through reduced competitive exclusion. Nevertheless, to date this relationship remains unclear.</p></sec><sec id="ece35870-sec-0002"><title>Location</title><p>Mountains of Costa Rica.</p></sec><sec id="ece35870-sec-0003"><title>Methods</title><p>We compared the elevation range of woody stems over 10&#x000a0;cm dbh (&#x0201c;trees&#x0201d;) observed in plots along two transects spanning a range of elevations in secondary (regrowth) and old&#x02010;growth forest (409 and 249 species, respectively). We also estimated these elevation ranges using nationwide data. In addition, we examined the influence of stem size and plot scale basal area (as a measure of competition) on species elevation range limits in the two gradients.</p></sec><sec id="ece35870-sec-0004"><title>Results</title><p>In general, tree species ranges increased with elevation. Species in the secondary forest had broader elevation ranges (100&#x02013;318&#x000a0;m broader than species in the old&#x02010;growth forest; Wilcoxon: <italic>p</italic>&#x02010;value &#x0003c;.001). Also, in the secondary transect, individuals with greater diameters had broader elevation ranges than those observed as smaller trees (137&#x000a0;m broader; Kruskal&#x02013;Wallis: <italic>p</italic>&#x02010;value&#x000a0;=&#x000a0;.03). The lower range limit of species occurred more frequently in plots with lower (vs. higher) basal area than expected by chance in both forest types. We also observed higher elevation upper limits in old growth, but not in secondary forests, with lower (vs. higher) basal area.</p></sec><sec id="ece35870-sec-0005"><title>Main conclusion</title><p>Disturbance relaxes the constraints imposed by competition and extends effective elevation ranges of species, particularly those in secondary forest, to warmer and cooler climates (minimum increase equivalent to about 0.6&#x02013;1.4&#x000b0;C). Thus, suitable disturbance may assist species persistence under climate change. We believe this is the first study indicating a consistent relation between disturbance and woody plant species distributions along elevation gradients.</p></sec></abstract><abstract abstract-type="graphical" id="ece35870-abs-0002"><p>Disturbance expands the distribution of woody plants in Costa Rica to higher and lower elevations.<boxed-text position="anchor" content-type="graphic" id="ece35870-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14330-g006.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35870-kwd-0001">biotic interactions</kwd><kwd id="ece35870-kwd-0002">competition</kwd><kwd id="ece35870-kwd-0003">distributions</kwd><kwd id="ece35870-kwd-0004">disturbance</kwd><kwd id="ece35870-kwd-0005">elevation ranges</kwd><kwd id="ece35870-kwd-0006">range boundaries</kwd><kwd id="ece35870-kwd-0007">secondary forest</kwd><kwd id="ece35870-kwd-0008">succession</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Norges Milj&#x000f8;&#x02010; og Biovitenskapelige Universitet </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100008119</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source>National Institute for Forest Sciences, Republic of Korea</funding-source></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="11"/><word-count count="8519"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35870-cit-1001">
+<string-name>
+<surname>Mu&#x000f1;oz Maz&#x000f3;n</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Klanderud</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Finegan</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Disturbance and the elevation ranges of woody plant species in the mountains of Costa Rica</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14330</fpage>&#x02013;<lpage>14340</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5870</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35870-body-0001"><sec id="ece35870-sec-0006"><label>1</label><title>INTRODUCTION</title><p>The idea that tree species distribution patterns in tropical forest are influenced by disturbance is long established&#x02014;many observations indicate a context&#x02010;dependent effect of competition on species persistence along environmental gradients (Budowski, <xref rid="ece35870-bib-0006" ref-type="ref">1965</xref>, Van Steenis, <xref rid="ece35870-bib-0069" ref-type="ref">1958</xref> see further examples in Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>). Disturbance events, which we define as a transient reduction in competition (resulting from vegetation death or removal), can reduce or slow competition and the resulting exclusion of inferior competitors by freeing up space or resources and by eliminating superior competitors (Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>). The role of disturbance in promoting species diversity and (temporary) coexistence is generally accepted at local scales (Fox, <xref rid="ece35870-bib-0019" ref-type="ref">2013</xref>; Sheil &#x00026; Burslem, <xref rid="ece35870-bib-0061" ref-type="ref">2003</xref>, <xref rid="ece35870-bib-0062" ref-type="ref">2013</xref>), though there is little agreement on how and in what contexts disturbance affects distributions at larger scales (Liang, Duveneck, Gustafson, Serra&#x02010;Diaz, &#x00026; Thompson, <xref rid="ece35870-bib-0033" ref-type="ref">2018</xref>; Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>; Vayreda, Martinez&#x02010;Vilalta, Gracia, Canadell, &#x00026; Retana, <xref rid="ece35870-bib-0070" ref-type="ref">2016</xref>). In theory at least, disturbance might promote the establishment and persistence of species at elevations where they would otherwise be excluded by competitors (e.g., lowlands, see Figure <xref rid="ece35870-fig-0001" ref-type="fig">1</xref>). These range expansions imply that some species may be able to persist &#x0201c;in situ&#x0201d; in a warmer future if competition is reduced through a suitable disturbance regime (Johansson, Frisk, Nemomissa, &#x00026; Hylander, <xref rid="ece35870-bib-0027" ref-type="ref">2018</xref>; Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>). Predictions of extinctions through contractions in the elevation range of species (e.g., Dirnb&#x000f6;ck, Essl, &#x00026; Rabitsch, <xref rid="ece35870-bib-0013" ref-type="ref">2011</xref>) highlight the importance of considering disturbance as a conservation tool (Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>). However, as far as we know, nobody has quantified the influence of disturbance on species distributions along elevation gradients and estimated how they may influence potential persistence under warmer (or colder) conditions.</p><fig fig-type="Figure" xml:lang="en" id="ece35870-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Schematic representation of how competitive hierarchies and disturbance may influence the elevation range of three species. The upper row represents the probability of persistence of three species along a gradient at three different scenarios (no competition, competition, and disturbance). The lower row shows how their ranges would be distributed along an elevation gradient. Under a theoretical scenario of no competition between the three species, their ranges will follow the environmental conditions corresponding to each species' fundamental niche. Competitive interactions would constrain their distributions along elevation gradients, particularly their lower range limits and the realized niche are smaller than the fundamental niche. Disturbance may allow these three species to expand their ranges to upper and lower elevations by altering the already established competitive hierarchies and reducing priority effects so that the realized niche is larger (based on Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>)</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14330-g001"/></fig><p>Biotic interactions can constrain species distributions and influence range limits (Ara&#x000fa;jo &#x00026; Luoto, <xref rid="ece35870-bib-0004" ref-type="ref">2007</xref>; Louthan, Doak, &#x00026; Angert, <xref rid="ece35870-bib-0037" ref-type="ref">2015</xref>; Svenning et al., <xref rid="ece35870-bib-0066" ref-type="ref">2014</xref>). For example, there is evidence from temperate and boreal locations that competitive exclusion affects the distribution of plant species along elevation gradients (Ettinger &#x00026; HilleRisLambers, <xref rid="ece35870-bib-0016" ref-type="ref">2017</xref>; Olsen, T&#x000f6;pper, Skarpaas, Vandvik, &#x00026; Klanderud, <xref rid="ece35870-bib-0049" ref-type="ref">2016</xref>; Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>). While climate often appears to impose a physiological limit to growth and survival at the upper distribution limit (Ettinger, Ford, &#x00026; HilleRisLambers, <xref rid="ece35870-bib-0015" ref-type="ref">2011</xref>; K&#x000f6;rner et al., <xref rid="ece35870-bib-0032" ref-type="ref">2016</xref>; Normand et al., <xref rid="ece35870-bib-0048" ref-type="ref">2009</xref>; Wen, Qin, Leng, Zhu, &#x00026; Cao, <xref rid="ece35870-bib-0073" ref-type="ref">2018</xref>), this is less clear for lower range limits where competition may play a greater role (Choler, Michalet, &#x00026; Callaway, <xref rid="ece35870-bib-0009" ref-type="ref">2001</xref>; Defossez, Courbaud, Lasbouygues, Schiffers, &#x00026; Kunstler, <xref rid="ece35870-bib-0012" ref-type="ref">2016</xref>; HilleRisLambers, Harsch, Ettinger, Ford, &#x00026; Theobald, <xref rid="ece35870-bib-0023" ref-type="ref">2013</xref>; Pellissier et al., <xref rid="ece35870-bib-0051" ref-type="ref">2013</xref>). Such relationships between competition and species elevation ranges are potentially important for conservation as distributions may respond to managed disturbances (reviewed in Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>). Currently, as disturbance processes are seldom incorporated in formal distribution studies, we know little about such influences and their wider implications.</p><p>Managed disturbance offers a potential means to manipulate and extend species range limits, slowing the arrival of more competitive lower elevation species and facilitating species migrations to new areas with suitable environment (Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>). As in managed habitats that are already burned, grazed, or mown so as to facilitate certain species and communities over others, practices may be adjusted in various ways. Of course, not all species will respond to disturbance in the same way. The nature, intensity, frequency, scales, and timing of the disturbance regime would be adapted to favor target species. There are likely to be other factors to consider too, for example in a changing climate disturbance will influence replacement processes and influence how species can spread and track both biotic and environmental conditions (Royo &#x00026; Carson, <xref rid="ece35870-bib-0057" ref-type="ref">2006</xref>; Serra&#x02010;Diaz, Scheller, Syphard, &#x00026; Franklin, <xref rid="ece35870-bib-0059" ref-type="ref">2015</xref>; Thom, Rammer, &#x00026; Seidl, <xref rid="ece35870-bib-0068" ref-type="ref">2017</xref>). Furthermore, disturbance could accentuate climatic extremes, promoting the persistence of those species more tolerant to drought or frost. There may also be undesirable persistent vegetation states that are favored by certain disturbance processes (Ssali, Moe, &#x00026; Sheil, <xref rid="ece35870-bib-0064" ref-type="ref">2018</xref>). In any case, the use of disturbance would need to be guided by the best available information and would need to be reevaluated locally. Thus, it is crucial to understand how disturbance can modify species range limits so that we know if these options can be adopted for landscape management and conservation.</p><p>Plant species distributed over an extended environmental gradient, such as elevation, are typically thought to sort themselves according to a competitive hierarchy in which inferior competitors are displaced to sites supporting less optimal growth (i.e., higher or lower elevations; Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>; Shipley &#x00026; Keddy, <xref rid="ece35870-bib-0063" ref-type="ref">1994</xref>; Wisheu, <xref rid="ece35870-bib-0076" ref-type="ref">1998</xref>). This reasoning follows from observations that a trade&#x02010;off occurs between the competitive ability of a species and its ability to persist under limiting environmental conditions (Michalet et al., <xref rid="ece35870-bib-0041" ref-type="ref">2006</xref>; Morin &#x00026; Chuine, <xref rid="ece35870-bib-0042" ref-type="ref">2006</xref>; Salguero&#x02010;G&#x000f3;mez et al., <xref rid="ece35870-bib-0058" ref-type="ref">2016</xref>). At the same time, this trade&#x02010;off implies that species are seldom good competitors over their entire fundamental range (Grime, <xref rid="ece35870-bib-0021" ref-type="ref">1973</xref>; Wilson &#x00026; Keddy, <xref rid="ece35870-bib-0075" ref-type="ref">1986</xref>), depending on disturbance events to establish and persist at the less stressful parts of the gradient (Figure <xref rid="ece35870-fig-0001" ref-type="fig">1</xref>; Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>). Even if several species have similar competitive ability, colonization and priority effects are likely to favor some over others so that few can thrive throughout their fundamental range. In this context, disturbance allows species to expand their range by temporarily removing competitors and priority effects.</p><p>Responses to disturbance vary among tree species. Such responses depend on their ability to colonize and to compete (Cadotte, <xref rid="ece35870-bib-0007" ref-type="ref">2007</xref>; Connell &#x00026; Slatyer, <xref rid="ece35870-bib-0010" ref-type="ref">1977</xref>; Swaine &#x00026; Whitmore, <xref rid="ece35870-bib-0067" ref-type="ref">1988</xref>). Tree responses thus depend on the competition&#x02010;colonization trade&#x02010;offs among the species present (Huston &#x00026; Smith, <xref rid="ece35870-bib-0025" ref-type="ref">1987</xref>; Muscarella et al., <xref rid="ece35870-bib-0046" ref-type="ref">2017</xref>; Zhang, Qi, &#x00026; Liu, <xref rid="ece35870-bib-0077" ref-type="ref">2018</xref>). In nature, tree species' strategies typically appear scattered along a conceptualized &#x0201c;colonization&#x02010;competition axis&#x0201d; representing a broad range of competition and dispersal abilities and strategies (Adler et al., <xref rid="ece35870-bib-0001" ref-type="ref">2014</xref>; Salguero&#x02010;G&#x000f3;mez et al., <xref rid="ece35870-bib-0058" ref-type="ref">2016</xref>). For simplicity, this range of strategies is often simplified and divided into pioneer (disturbance dependent) and nonpioneer species (e.g., Swaine &#x00026; Whitmore, <xref rid="ece35870-bib-0067" ref-type="ref">1988</xref>).</p><p>Our objective is to assess and understand the elevation distribution of tree species, specifically their elevation range limits, and how this is influenced by disturbance histories (and inferred competition). We recognized that there will always be alternative explanations for observed ranges and that good replication of gradients would be needed to distill the effects of disturbance and competition from such observations. Nonetheless, we note that two well sample gradients in the same region offers a &#x0201c;proof of concept&#x0201d; and reveals the ability to detect consistent patterns in real data. We examined distributions over two transects located in old&#x02010;growth and secondary (regrowth) forests in Costa Rica. Our assumption is that when competitive exclusion restricts species to certain elevations, disturbance may permit them to occur more widely (Figure <xref rid="ece35870-fig-0001" ref-type="fig">1</xref>). Thus, we predict that species present in secondary forest will typically have broader elevation ranges than species present in old&#x02010;growth forest. Moreover, we predict that within the secondary forest, tree species that include large diameter individuals (vs. those without) will tend to have broader elevation ranges since a greater proportion of these will have established sooner after disturbance and were thus able to establish and grow with less competition. We recognize that some species only represented by small&#x02010;diameter stems may also have established early but believe that the comparison between the range sizes of species with different diameters remains a useful statistical generalization as large stems are seldom young. We also evaluated the relationship between species elevation range limits and local (plot defined) basal area with the prediction that range limits will be more frequent in lower versus higher basal area plots (representing lower vs. higher competition).</p></sec><sec sec-type="methods" id="ece35870-sec-0007"><label>2</label><title>METHODS</title><sec id="ece35870-sec-0008"><label>2.1</label><title>Study area</title><p>We used records of trees, palms, ferns, and lianas with diameters (at 1.3&#x000a0;m, &#x0201c;dbh&#x0201d;) &#x0003e;10&#x000a0;cm from plots placed along two elevation transects established in Costa Rica in secondary and old&#x02010;growth forest during 2013. The old&#x02010;growth transect comprises 32 0.25&#x000a0;ha plots from 430 to 2,900&#x000a0;m asl along the Atlantic slope of the Talamanca Mountains. The secondary forest comprises 29 0.1&#x000a0;ha plots from 650 to 1,800&#x000a0;m asl and nine 0.25&#x000a0;ha plots from 1,800 to 2,700&#x000a0;m asl along the northern face of the Turrialba Volcano. The height of the mountain ranges where the transects are located is similar (3,324&#x000a0;m asl for the Turrialba Volcano and 3,451&#x000a0;m asl for Talamanca Cordillera transect), with the treeline occurring between 3,000 and 3,200&#x000a0;m asl (B. Finegan &#x00026; D. Delgado, personal observation). Mean annual temperature varies from&#x000a0;10 to 25 &#x000b0;C along both transects. Precipitation ranges from 2,000 to 5,000&#x000a0;mm per year, peaking at middle elevations (Hijmans, Cameron, Parra, Jones, &#x00026; Jarvis, <xref rid="ece35870-bib-0022" ref-type="ref">2005</xref>). There is a short dry season between January and March (Kappelle, Uffelen, &#x00026; Cleef, <xref rid="ece35870-bib-0029" ref-type="ref">1995</xref>). Although the length of the dry season does not appear to vary along the elevation gradient, the plots at higher elevations typically receive less precipitation than plots at lower elevations during this period (see Appendix <xref rid="ece35870-sup-0001" ref-type="supplementary-material">S1</xref>). Soils at higher elevations tend to be shallower, richer in organic matter and are more often associated with volcanic ash (typically Andosols). At lower elevations, soils are deeper and are typically have a higher proportion of clay (typically Ultisols, CATIE, unpublished data; Veintimilla et al., <xref rid="ece35870-bib-0072" ref-type="ref">2019</xref>).</p><p>Both transects include Lowland (&#x0003e;700&#x000a0;m. asl), Premontane (700&#x02013;1,500), Lower montane (1,500&#x02013;2,200), and Upper montane forest (2,200&#x02013;2,900; Holdridge, <xref rid="ece35870-bib-0024" ref-type="ref">1987</xref>). The lowland old&#x02010;growth forest includes many palms such as <italic>Euterpe precatoria</italic> and <italic>Welfia regia</italic> (Veintimilla et al., <xref rid="ece35870-bib-0072" ref-type="ref">2019</xref>). With increasing elevation, the forest transitions to montane forest, where lianas disappear, palms are scarce and species with more temperate affinities like the oaks (<italic>Quercus bumeloides</italic> and <italic>Quercus costarricensis</italic>) tend to dominate along with <italic>Podocarpus</italic> spp., <italic>Magnolia</italic> spp., <italic>Ilex</italic> spp., <italic>Drymis granadensis</italic> and <italic>Ocotea</italic> spp (Kappelle, Kennis, &#x00026; Vries, <xref rid="ece35870-bib-0028" ref-type="ref">1995</xref>; Kappelle, Uffelen, et al., <xref rid="ece35870-bib-0029" ref-type="ref">1995</xref>). Oaks (<italic>Quercus</italic> spp.)&#x000a0;are absent in the secondary forest, though other species with temperate affinities still dominate at higher elevations (e.g., <italic>Viburnum costaricanum</italic>, <italic>Cornus schiedianus</italic>, CATIE, unpublished data; Murrieta, Finegan, Delgado, Villalobos, &#x00026; Campos, <xref rid="ece35870-bib-0045" ref-type="ref">2007</xref>).</p><p>The secondary forest had 21&#x02013;30&#x000a0;years regrowth postagriculture, according to interviews with the landowners (see Murrieta et al., <xref rid="ece35870-bib-0045" ref-type="ref">2007</xref>). Land use before abandonment was pastured at higher elevations, and coffee and sugar cane plantations at lower elevations. Unfortunately, we lack detailed information about prior land use; but we assume that forest trees were scarce or absent. We also lack information on subsequent disturbance processes in the regrowth. There may have been some low&#x02010;intensity fuelwood harvesting, but we are confident that there were no fires in this landscape. Secondary forests following coffee plantations likely contain some favored shade trees&#x02014;typically <italic>Erythrina poepiggiana</italic> and <italic>Cordia alliodora</italic> (Florian, Harvey, Finegan, Benjamin, &#x00026; Soto, <xref rid="ece35870-bib-0018" ref-type="ref">2008</xref>). Although the presence of relic trees along the secondary transect remains uncertain, there are only 41 stems with a dbh &#x0003e;60&#x000a0;cm (of 3,338 stems in total).</p><p>Plots were located at least 300&#x000a0;m apart and at least 150&#x000a0;m from the forest edge and avoided obvious disturbances such as larger tree fall gaps. Also, all the plots were established &#x0003e;50&#x000a0;m from watercourses and we avoided very steep areas (slopes &#x0003e;100%). The dominant aspect was east&#x02010;facing slopes. In each plot, all stems with a diameter at breast height (dbh) &#x0003e;10&#x000a0;cm were measured, identified at least to morphospecies level, and recorded. Records from Costa Rica of all species identified in the field were extracted from the GBIF database on the 24/05/2018. These GBIF records include field observations, herbarium collections, and occurrences reported in the literature.</p></sec><sec id="ece35870-sec-0009"><label>2.2</label><title>Analyses</title><p>The observed elevation range of each species was calculated as the difference between the maximum and the minimum elevation in which they occur in our own plot data and according to national data (GBIF). National data include occurrences of species in all kinds of vegetation and therefore do not represent old&#x02010;growth forest alone. Nevertheless, the comparison between field versus nationwide elevation ranges is still useful to understand the generality of the observed patterns. The midpoint of the distribution is the halfway point between the highest and lowest record for each species. Due to concerns over uneven sampling, we only consider species with ranges of at least 200&#x000a0;m asl. We tested the relationship between range sizes and their elevation midpoint with a Pearson correlation. In order to compare the different ranges sizes of species present at old&#x02010;growth versus the ones at secondary forest, we used Wilcoxon test. We also performed these analyses for the species that occur more than twice in both forests and span ranges &#x0003e;200&#x000a0;m asl. For the relationship between range size and dbh, we first divided each dataset into three dbh categories (10&#x02013;15&#x000a0;cm; 15&#x02013;30&#x000a0;cm; and &#x0003e;30&#x000a0;cm, note that a species can belong to more than one category). Individuals with a dbh &#x0003e;60&#x000a0;cm (only 41 stems) were excluded from the analysis in the secondary forest since they may represent remnant trees that established before the disturbance. Range sizes of each species were then calculated and compared with Kruskal&#x02013;Wallis test, and if the <italic>p</italic>&#x02010;value &#x0003c;.05 we used a Dunn test to check the difference between each of the categories.</p><p>We analyzed plot level basal area versus elevation along each transect with a gamma generalized linear model using an identity link for both old&#x02010;growth and secondary forest gradients. Plots with negative residuals were categorized as &#x0201c;Low&#x0201d; basal area and those with positive residuals as &#x0201c;High&#x0201d; basal area. Then, we determined the number of species with an upper or lower range limit within these categories. We also counted stems in each plot as the null probabilities of finding a stem that is the highest or lowest for its species depends on the number of stems observed. To avoid artifacts, we removed implied range&#x02010;limit observations in the highest and lowest elevation plots of each gradient from our analysis. Through modeling the basal area changes along the elevation gradient and using the residuals of the regression instead of the real basal area values, we were able to control the effect of any directional change of basal area with elevation on our results. We counted the number of upper and lower range limits in each of the two categories of basal area and compared them to expected values under two different assumptions with a chi&#x02010;squared goodness of fit test. The first assumption is that the probability of finding a range limit at Low and High basal area is the same. The second assumption considers that the probability of finding a range limit is greater in plots with more individuals. We calculated this probability by dividing the number of stems in each category of basal area by the total number of stems in both categories per transect. All the analyses were performed with R 3.4.3.0.</p></sec></sec><sec sec-type="results" id="ece35870-sec-0010"><label>3</label><title>RESULTS</title><p>A total of 4,412 and 3,338 stems were recorded and 491 and 275 tree species identified in the old&#x02010;growth and secondary transects, respectively. Species with only one record (82 in the old&#x02010;growth and 26 in the secondary forest) were excluded. After removing species with ranges &#x02264;200&#x000a0;m, 239 and 105 remained for analyses. The old&#x02010;growth and secondary transects share 21 species that occur at multiple sites and have a range over 200&#x000a0;m in both&#x000a0;(None of the species are tree ferns, palms or lianas)&#x000a0;.</p><sec id="ece35870-sec-0011"><label>3.1</label><title>Ranges versus elevation</title><p>Though plot observations in the old growth are an exception (Figure <xref rid="ece35870-fig-0002" ref-type="fig">2</xref>a), we generally observe a significant positive relation between the range size of a species and their elevation midpoint (field data old growth (Pearson correlation coefficient [<italic>r</italic>]&#x000a0;=&#x000a0;.153, <italic>p</italic>&#x000a0;=&#x000a0;.075, field data secondary: <italic>r</italic>&#x000a0;=&#x000a0;.377, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001, Figure <xref rid="ece35870-fig-0002" ref-type="fig">2</xref>a,b); for nationwide occurrences in old growth: <italic>r</italic>&#x000a0;=&#x000a0;.464, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001; and in secondary forest: <italic>r</italic>&#x000a0;=&#x000a0;.445, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001, Figure <xref rid="ece35870-fig-0002" ref-type="fig">2</xref>c,d). Species with narrow elevation ranges (i.e., spanning &#x0003c;500&#x000a0;m) occur through the entire old&#x02010;growth elevation gradient (Figure <xref rid="ece35870-fig-0002" ref-type="fig">2</xref>a) but appear scarce in secondary forest at higher elevation (Figure <xref rid="ece35870-fig-0002" ref-type="fig">2</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="ece35870-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Elevation ranges for tree species from the field data (a) and (b) and from occurrences nationwide (GBIF) (c) and (d) versus elevation midpoint for species with ranges &#x0003e;200&#x000a0;m. asl present in the old&#x02010;growth (a and c) and secondary forest (b and d). Linear trend added to aid interpretation. Dashed lines represent nonsignificant relations. *<italic>p</italic>&#x02010;value &#x02264;.05, **<italic>p</italic>&#x02010;value &#x02264;.01, ***<italic>p</italic>&#x02010;value &#x02264;.001</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14330-g002"/></fig></sec><sec id="ece35870-sec-0012"><label>3.2</label><title>Elevation ranges in secondary versus old growth</title><p>Species in the old&#x02010;growth transect generally had narrower elevation ranges than those in the secondary transect. The pattern is apparent using the observed distributions within the sampled ranges (median values 370 and 675&#x000a0;m for old growth vs. secondary, Wilcoxon, <italic>w</italic>&#x000a0;=&#x000a0;40,455, <italic>p</italic>&#x02010;value&#x000a0;=&#x000a0;.036) and in the nationwide data (1,603 vs. 1,726&#x000a0;m, <italic>w</italic>&#x000a0;=&#x000a0;8,414, <italic>p</italic>&#x02010;value &#x0003c;.001, Figure <xref rid="ece35870-fig-0003" ref-type="fig">3</xref>a,b), though the differences in range size are greater when using the field data (305&#x000a0;m) than the nationwide data (123&#x000a0;m; Figure <xref rid="ece35870-fig-0003" ref-type="fig">3</xref>). When we compare the 21 species with ranges &#x0003e;200&#x000a0;m present in both transects, we find that the median range size is about 200&#x000a0;m greater in the secondary transect though there is considerable variation among observations and the difference is not significant (median range size 650 vs. 851&#x000a0;m for old growth vs. secondary, w&#x000a0;=&#x000a0;188, <italic>p</italic>&#x02010;value&#x000a0;=&#x000a0;.4).</p><fig fig-type="Figure" xml:lang="en" id="ece35870-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Elevation range sizes for old&#x02010;growth and secondary forest species using field (a) and nation level (nationwide) (b) occurrences data from the two elevation gradients</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14330-g003"/></fig></sec><sec id="ece35870-sec-0013"><label>3.3</label><title>Ranges and tree size</title><p>The observed elevation ranges of species by tree size show no consistent trend in the old&#x02010;growth transect (median values 565, 510, 560&#x000a0;m for small, mid, and big sized stems, Kruskal&#x02013;Wallis w&#x000a0;=&#x000a0;1.03, <italic>p</italic>&#x02010;value&#x000a0;=&#x000a0;.668). In the secondary transect, trees bigger than 30&#x000a0;cm dbh have broader distributions (137&#x000a0;m broader, median values 787, 762, 920&#x000a0;m for small, mid, and big sized stems; Kruskal&#x02013;Wallis w&#x000a0;=&#x000a0;7.23, <italic>p</italic>&#x02010;value&#x000a0;=&#x000a0;.03, see Figure <xref rid="ece35870-fig-0004" ref-type="fig">4</xref>). All fifteen species observed to reach sizes over 30&#x000a0;cm dbh in the secondary forest are fast&#x02010;growing pioneer species (i.e., <italic>Castilla elastica</italic> Sess&#x000e9; ex Cerv., <italic>Cecropia peltata</italic> L., <italic>C.&#x000a0;alliodora</italic> [Ruiz &#x00026; Pav.] Oken, <italic>Croton draco</italic> Schltdl. &#x00026; Cham, <italic>Hampea apendiculata</italic> [Donn. Sm.] Standl, <italic>Heliocarpus apendiculatus</italic> Turcz., <italic>Inga oerstediana</italic> Benth. ex Seem., <italic>Myrcianthes rhopaloides</italic> [Kunth] McVaugh, <italic>Ocotea austinii</italic> C.K. Allen, <italic>Oreopanax xalapensis</italic> [Kunth] Decne. &#x00026; Planch, <italic>Symplocos serrulata</italic> Bonpl., <italic>Trema micrantha</italic> [L.] Blume, <italic>Trichospermum grewiifolium</italic> [A. Rich.] Kosterm., and <italic>V.&#x000a0;costaricanum</italic> [Oerst.] Hemsl, <italic>Virola koschnyi</italic> Warb.).</p><fig fig-type="Figure" xml:lang="en" id="ece35870-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Species elevation range size per diameter class (between parentheses the number of species present at each diameter class) for old&#x02010;growth (a) and secondary forest (b)</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-14330-g004"/></fig></sec><sec id="ece35870-sec-0014"><label>3.4</label><title>Range limits and relative basal area</title><p>Plot level basal area increases with elevation in both transects (old&#x02010;growth forest: coef&#x000a0;=&#x000a0;0.006, <italic>SE</italic>&#x000a0;=&#x000a0;0.001, <italic>t</italic>&#x000a0;=&#x000a0;3.973, <italic>p</italic>&#x02010;value &#x0003c;.001; secondary forest: coef&#x000a0;=&#x000a0;0.006, <italic>SE</italic>&#x000a0;=&#x000a0;0.003, <italic>t</italic>&#x000a0;=&#x000a0;2.826, <italic>p</italic>&#x02010;value &#x0003c;.001). More species have their lower range limit in plots with below&#x02010;average versus above&#x02010;average basal areas in both old&#x02010;growth (<italic>&#x003c7;</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;11.9, <italic>p</italic>&#x02010;value &#x0003c;.001) and secondary transects (<italic>&#x003c7;</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;19.5, <italic>p</italic>&#x02010;value &#x0003c;.001, Figure <xref rid="ece35870-fig-0005" ref-type="fig">5</xref>). We also observe an excess of highest elevation occurrences in below average basal area sites in old growth (<italic>&#x003c7;</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;15.7, <italic>p</italic>&#x02010;value &#x0003c;.001), but this difference decreases in the secondary forest (<italic>&#x003c7;</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;5.1, <italic>p</italic>&#x02010;value &#x0003c;.05; and under the assumption of an effect of the stem number <italic>&#x003c7;</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.2 <italic>p</italic>&#x02010;value&#x000a0;=&#x000a0;.637).</p><fig fig-type="Figure" xml:lang="en" id="ece35870-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Number of species with their lower (a) and upper (b) elevation range limit observed within plots with a basal area higher (&#x0201c;High&#x0201d;) or lower (&#x0201c;Low&#x0201d;) than predicted by a generalized linear model at that elevation. (c) and (d) show the average number of stems in plots where species have their lower (a and c) and upper (b and d) range limits, respectively</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-9-14330-g005"/></fig></sec></sec><sec sec-type="discussion" id="ece35870-sec-0015"><label>4</label><title>DISCUSSION</title><p>We found that typical elevation ranges of the species present tended to increase with elevation. Furthermore, species found in the secondary forest exhibited broader elevation ranges than those in old growth. Within the secondary forest, species present as larger stems also tended to possess broader elevation ranges than species present only as smaller stems. We also found that species tended to have both their upper and lower elevation range&#x02010;limit occurrences in plots with lower than average basal area at that elevation. This tendency was particularly marked at the lower range limit. Taken together, these results are consistent with our predictions concerning the role of competition constraining (reducing) species elevation ranges and disturbance expanding them (Figure <xref rid="ece35870-fig-0001" ref-type="fig">1</xref>). Though there is noise and uncertainty in these data, the implied elevation changes are of the order of hundreds of meters and thus have implications for species occurrence and persistence.</p><sec id="ece35870-sec-0016"><label>4.1</label><title>Elevation ranges versus elevation</title><p>Increasing species elevation ranges with elevation has been noted previously using herbarium records from Costa Rica (see Stevens, <xref rid="ece35870-bib-0065" ref-type="ref">1992</xref>) and the Andes (Feeley &#x00026; Silman, <xref rid="ece35870-bib-0017" ref-type="ref">2010</xref>), but see also (Lieberman, Lieberman, Peralta, &#x00026; Hartshorn, <xref rid="ece35870-bib-0034" ref-type="ref">1996</xref>). What determines these patterns? Geometric constraints play a role&#x02014;we cannot observe a broad range for species that are restricted to the ends of the observed (or available) gradients. While this limits the observed lower elevation species, it is less evident why we lack narrow range species at high elevations (Figure <xref rid="ece35870-fig-0002" ref-type="fig">2</xref>). Ranges at higher elevations may reflect the broad climatic tolerances required to persist at those elevations (Janzen, <xref rid="ece35870-bib-0026" ref-type="ref">1967</xref>; Morin &#x00026; Lechowicz, <xref rid="ece35870-bib-0043" ref-type="ref">2013</xref>; Stevens, <xref rid="ece35870-bib-0065" ref-type="ref">1992</xref>). In our study, temperature decrease and precipitation seasonality increases with elevation (see Appendices <xref rid="ece35870-sup-0001" ref-type="supplementary-material">S1 </xref>and<xref rid="ece35870-sup-0001" ref-type="supplementary-material"> S2</xref>). Trees with a greater tolerance to frost and seasonal drought have been observed to be more widely distributed than less tolerant species (Anderegg &#x00026; HilleRisLambers, <xref rid="ece35870-bib-0003" ref-type="ref">2016</xref>; Esquivel&#x02010;Muelbert et al., <xref rid="ece35870-bib-0014" ref-type="ref">2017</xref>; Pither, <xref rid="ece35870-bib-0052" ref-type="ref">2003</xref>). Nonetheless, the greater investment in tolerance and adaptations required of species able to persist at higher elevation may limit their ability to grow fast and avoid competitors under conditions that do not require such tolerance and adaptations (Koehler, Center, &#x00026; Cavender&#x02010;Bares, <xref rid="ece35870-bib-0031" ref-type="ref">2012</xref>; Loehle, <xref rid="ece35870-bib-0035" ref-type="ref">1998</xref>). The same trade&#x02010;offs are believed to explain the range size of trees in North America (Ettinger &#x00026; HilleRisLambers, <xref rid="ece35870-bib-0016" ref-type="ref">2017</xref>; Morin &#x00026; Chuine, <xref rid="ece35870-bib-0042" ref-type="ref">2006</xref>; Morin &#x00026; Lechowicz, <xref rid="ece35870-bib-0043" ref-type="ref">2013</xref>) and in the Neotropics (Bemmels et al., <xref rid="ece35870-bib-0005" ref-type="ref">2018</xref>). Such patterns and trade&#x02010;offs are consistent with the presence of a competitive hierarchy.</p><p>The presence of narrow&#x02010;ranged species along the whole elevation gradient in the old&#x02010;growth forest seems to explain the lack of a marked correlation between elevation range size and elevation midpoint in the old&#x02010;growth forest (Figure <xref rid="ece35870-fig-0002" ref-type="fig">2</xref>). While broad&#x02010;range species must possess broad environmental tolerances, narrow&#x02010;ranged species may be constrained by narrow environmental tolerances or competition (Ghalambor, Huey, Martin, Tewksbury, &#x00026; Wang, <xref rid="ece35870-bib-0020" ref-type="ref">2006</xref>; Kessler, <xref rid="ece35870-bib-0030" ref-type="ref">2001</xref>). We also see that species with narrow elevation ranges become less frequent with increasing elevation in the secondary forest, where competition was temporarily reduced. The ability to establish in previously cleared sites may have released some otherwise narrow range species from competitive restrictions, or the history in these areas may have eliminated them, since open sites can accentuate climatic extremes when compared to closed forest, increasing exposure to drought, frost, and other factors (Rehm &#x00026; Feeley, <xref rid="ece35870-bib-0055" ref-type="ref">2015a</xref>).</p></sec><sec id="ece35870-sec-0017"><label>4.2</label><title>Disturbance and elevation ranges</title><p>The relation between disturbance and species ranges becomes clearer when comparing old&#x02010;growth and secondary forest. The broader elevation range sizes (about 100&#x02013;318&#x000a0;m, equivalent to about 0.6&#x02013;1.4&#x000b0;C in temperature) of species in the secondary forest, compared to the species in old&#x02010;growth forest, suggest that the initial period of regrowth when the forest started regrowing from open land allowed them to expand their ranges. Many species observed in secondary forest, especially the larger trees, are pioneers with good dispersal that depend on open habitat to establish. Consequently, in a secondary forest, those species that establish first benefit most from the temporary absence of competition, which permits them to expand their ranges beyond what is observed under more intense competition. For instance, we found that species with stems larger than 30&#x000a0;cm dbh in the secondary forest (but omitting any likely relics with a dbh &#x0003e;60&#x000a0;cm), that is, those species that we assume arrived soonest and grew fastest as a result of limited competition, have broader elevation ranges than those with only smaller stems (averaging 137&#x000a0;m or around 0.6 C<sup>0</sup> broader; Figure <xref rid="ece35870-fig-0004" ref-type="fig">4</xref>b). Although the size of a stem does not always reflect when it established, it seems safe to assume that most stems &#x0003e;30&#x000a0;cm dbh in the studied secondary forest represent early arrivals that established when these areas were just abandoned and still open. To our knowledge, only one of the species, <italic>Cordia alliadora</italic>, might plausibly have been transplanted along the elevation gradient, given its use as a shade tree in coffee plantations. Surprisingly, the elevation ranges of the 22 species present in both the old&#x02010;growth and secondary transects were not statistically different, although on average these species occurred over a broader elevation range in the secondary forest (200&#x000a0;m broader). This group is composed by a small number of pioneer (e.g., <italic>Cecropia</italic> spp., <italic>Hedyosmum</italic> spp., <italic>Schefflera rodriguesiana</italic>) and late successional species (e.g., <italic>Pouteria reticulata</italic>, <italic>Guarea</italic> spp.). The relatively small sample sizes likely explain the lack of a statistical difference. While dispersal plays some role in the patterns, we have observed (discussed below) it is unlikely to be the sole explanation as it fails to account for the high frequency of range&#x02010;limit observations occurring in low basal area sites. While other authors have noted links between species distributions and competitive abilities (see Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>), we believe ours is the first to test a theoretical link with disturbance and elevation ranges in natural communities.</p><p>Propagule availability limits potential range expansion. Propagules may only be present in a portion of a range where they would otherwise establish and grow. Since we cannot distinguish the influence of propagule availability and dispersal limitation from environmental limits, the difference in elevation range sizes between species in old&#x02010;growth and secondary forest provides a minimum estimate of what might be possible if propagule availability were unlimited. This underestimation appears particularly important for species with short localized dispersal and short&#x02010;lived seeds. We know for example that many old&#x02010;growth species have median dispersal distances of only a few tens of meters (Muller&#x02010;Landau, Wright, Calder&#x000f3;n, Condit, &#x00026; Hubbell, <xref rid="ece35870-bib-0044" ref-type="ref">2008</xref>) and their seeds lack long&#x02010;term viability in the soil (Long et al., <xref rid="ece35870-bib-0036" ref-type="ref">2015</xref>; V&#x000e1;zquez&#x02010;Yanes &#x00026; Orozco&#x02010;Segovia, <xref rid="ece35870-bib-0071" ref-type="ref">1993</xref>). When the climate is changing, we can ask both whether the species can track suitable climates over the landscape (e.g., moving upslope in warming conditions) and also whether they can tolerate the new conditions in situ (Corlett &#x00026; Westcott, <xref rid="ece35870-bib-0011" ref-type="ref">2013</xref>). The first depends on good dispersal, but the second does not. We speculate that in a warmer climate, disturbance may not only facilitate range shifts in species with good dispersal but may also improve the in situ persistence of species with limited dispersal (Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>).</p></sec><sec id="ece35870-sec-0018"><label>4.3</label><title>Competition and range limits</title><p>Competition reduces lower elevation range limits. Species in both old&#x02010;growth and secondary forest had their lower range limit in plots with lower (vs. higher) basal area more frequently than expected if competition was irrelevant (Figure <xref rid="ece35870-fig-0005" ref-type="fig">5</xref>a). We infer that reduced basal area favors the establishment of species that are otherwise excluded by competition. Other studies have described a similar relation between high tree cover, competition for light, and elevation range limits in shrub and nonwoody plant species at temperate (Nieto&#x02010;Lugilde et al., <xref rid="ece35870-bib-0047" ref-type="ref">2015</xref>) and tropical ecosystems (Johansson et al., <xref rid="ece35870-bib-0027" ref-type="ref">2018</xref>). These studies found that reductions in tree cover helped shrub species to expand their range to lower elevations. Furthermore, observations show that many higher elevation plant species are sometimes observed in disturbed sites at lower elevations (Kappelle, Kennis, et al., <xref rid="ece35870-bib-0028" ref-type="ref">1995</xref>; Lovett, <xref rid="ece35870-bib-0038" ref-type="ref">1996</xref>; Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>; White, <xref rid="ece35870-bib-0074" ref-type="ref">2013</xref>). Our observations indicate that many species can establish and persist in lower and warmer conditions if competition is reduced, in this case in the open habitat after land is abandoned, but presumably in any open sites created by disturbance.</p><p>Upper range limits appear less clearly influenced by competition than the lower limits. Nonetheless, in the old&#x02010;growth observations, disturbance appears to increase the upper range limit with species having their upper elevation range limits in plots with lower (vs. higher) basal area more frequently than otherwise expected (Figure <xref rid="ece35870-fig-0005" ref-type="fig">5</xref>b). We again infer competitive displacement given that any species is likely to be less competitive near to their physiological range limits (McGill, <xref rid="ece35870-bib-0040" ref-type="ref">2012</xref>). On the other hand, competition has less apparent influence on upper limits in the secondary forest (Figure <xref rid="ece35870-fig-0005" ref-type="fig">5</xref>b), suggesting that, if competition remains important, opposing positive interactions may also be present. Positive interactions may protect species from drought stress, frost, and other threats that are more severe in more open locations (Callaway et al., <xref rid="ece35870-bib-0008" ref-type="ref">2002</xref>; Maestre, Callaway, Valladares, &#x00026; Lortie, <xref rid="ece35870-bib-0039" ref-type="ref">2009</xref>; Rehm &#x00026; Feeley, <xref rid="ece35870-bib-0056" ref-type="ref">2015b</xref>). Our interpretation is that depending on the nature and vulnerability of the biotic interactions (negative or positive) disturbance can modify these relationships with consequences (positive or negative) for each species' upper range limits.</p></sec><sec id="ece35870-sec-0019"><label>4.4</label><title>Methodological limits and lessons</title><p>Our comparison of elevation ranges of tree species in secondary and old&#x02010;growth forest represents an exceptional opportunity for an initial exploration of how disturbance histories may influence species distributions. From our perspective, it provides a &#x0201c;proof of concept&#x0201d; that these theorized patterns can be detected and explored in these real world data. We acknowledge limitations that should be addressed in future work. Though climatically similar, our two gradients were not perfectly matched and were not replicated at a regional scale: Thus, environmental influences cannot be formally accounted for. For example, we cannot account for the difference in soils while studies elsewhere in the tropics have shown that these can influence species distributions and competition (e.g., Paoli, Curran, &#x00026; Slik, <xref rid="ece35870-bib-0050" ref-type="ref">2008</xref>). Another concern is the influence of sampling effort. The number of stems recorded at each elevation governs the probability of detecting a species. Greater coverage and replication would improve our data and permit broader generalization. Furthermore, we have not examined the many disturbance processes, both natural and human&#x02010;made, that impact on these forests. Nonetheless, while these uncertainties matter, and robust statistical inferences require greater replication, we remain confident in our general conclusions as they are not readily explained by artifacts, and match our expectations and more ad hoc observations elsewhere (see Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>). Finally, we note that while species occurrence is necessary for persistence, it is not sufficient&#x02014;further work would be required to clarify if these occurrences at range limits contribute to population maintenance and growth (Pulliam, <xref rid="ece35870-bib-0053" ref-type="ref">1988</xref>; Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>). We encourage others with suitable data to further explore these relationships.</p></sec></sec><sec sec-type="conclusions" id="ece35870-sec-0020"><label>5</label><title>CONCLUSION</title><p>We have found patterns that appear largely consistent with how we expect competition may influence (limit) the upper and lower distribution of tree species in the mountains of Costa Rica. We also demonstrate that, as previously suggested (Sheil, <xref rid="ece35870-bib-0060" ref-type="ref">2016</xref>), under suitable conditions a release from competition that opens up areas for recolonization (as might result from a disturbance event or from the abandonment of previously cleared land) can expand the elevation ranges that result from these competitive influences (Figure <xref rid="ece35870-fig-0001" ref-type="fig">1</xref>). This process can increase the elevation ranges for some species, with a consequent increase in their climatic range of occurrence by 100&#x02013;300&#x000a0;m in elevation or 0.6&#x000b0;C and 1.6&#x000b0;C. These values may be a substantial underestimate due to the confounding influence of dispersal limitation. Under rapid climate change, any means to improve the persistence of species outside their normal climatic range merits consideration. Our evidence suggests that disturbance, by reducing competitive exclusion, can permit at least some species to occur at lower elevations than otherwise. Therefore, disturbance offers a possible means to manage and maintain distributions and possibly improve species persistence in a warmer future, where competitive exclusion may contribute to local and global extinctions. Although our results are best viewed as a proof of concept, rather than a last word, we underline that of the role of disturbance histories is a vital, though often missing, element in understanding and potentially managing species distributions. To develop these approaches into a practical form of conservation management would require further evaluation of the response of particular species to particular forms, scales, and frequencies of disturbance at their range margins.</p></sec><sec sec-type="COI-statement" id="ece35870-sec-0021"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35870-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14330-s001.tiff"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35870-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14330-s002.tiff"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35870-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-14330-s003.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35870-sec-0024"><title>ACKNOWLEDGMENTS</title><p>We thank Leonel Coto and Vicente Herra and all the other staff of CATIE whose help and support made this work possible. We are grateful also to SINAC for the permits collect the data. Miguel Mu&#x000f1;oz Maz&#x000f3;n was funded by the PhD program of NMBU, and CATIE's research in the Talamanca Cordillera is co&#x02010;funded by the National Institute for Forest Sciences, Republic of Korea.</p></ack><sec sec-type="data-availability" id="ece35870-sec-0023"><title>DATA AVAILABILITY STATEMENT</title><p>All the information related to the species composition of the transects is available at CONAGEBIO data repository: <ext-link ext-link-type="uri" xlink:href="http://datos.conagebio.go.cr/collectory/public/showDataResource/dr1" specific-use="software is-supplemented-by">http://datos.conagebio.go.cr/collectory/public/showDataResource/dr1</ext-link>. The exact data have been published in the DataverseNO public repository: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.18710/72JI22" specific-use="dataset is-supplemented-by">https://doi.org/10.18710/72JI22</ext-link>
+</p></sec><ref-list content-type="cited-references" id="ece35870-bibl-0001"><title>REFERENCES</title><ref id="ece35870-bib-0001"><mixed-citation publication-type="journal" id="ece35870-cit-0001">
+<string-name>
+<surname>Adler</surname>, <given-names>P. B.</given-names>
+</string-name>, <string-name>
+<surname>Salguero&#x02010;G&#x000f3;mez</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Compagnoni</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Ray&#x02010;Mukherjee</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mbeau&#x02010;Ache</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Franco</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Functional traits explain variation in plant life history strategies</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>111</volume>(<issue>2</issue>), <fpage>740</fpage>&#x02013;<lpage>745</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1315179111</pub-id>
+<pub-id pub-id-type="pmid">24379395</pub-id></mixed-citation></ref><ref id="ece35870-bib-0003"><mixed-citation publication-type="journal" id="ece35870-cit-0003">
+<string-name>
+<surname>Anderegg</surname>, <given-names>L. D. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>HilleRisLambers</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Drought stress limits the geographic ranges of two tree species via different physiological mechanisms</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>22</volume>(<issue>3</issue>), <fpage>1029</fpage>&#x02013;<lpage>1045</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.13148</pub-id>
+<pub-id pub-id-type="pmid">26663665</pub-id></mixed-citation></ref><ref id="ece35870-bib-0004"><mixed-citation publication-type="journal" id="ece35870-cit-0004">
+<string-name>
+<surname>Ara&#x000fa;jo</surname>, <given-names>M. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Luoto</surname>, <given-names>M.</given-names>
+</string-name> (<year>2007</year>). <article-title>The importance of biotic interactions for modelling species distributions under climate change</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>16</volume>(<issue>6</issue>), <fpage>743</fpage>&#x02013;<lpage>753</lpage>. <pub-id pub-id-type="doi">10.1111/j.1466-8238.2007.00359.x</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0005"><mixed-citation publication-type="journal" id="ece35870-cit-0005">
+<string-name>
+<surname>Bemmels</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Garwood</surname>, <given-names>N. C.</given-names>
+</string-name>, <string-name>
+<surname>Queenborough</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Valencia</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dick</surname>, <given-names>C. W.</given-names>
+</string-name> (<year>2018</year>). <article-title>Filter&#x02010;dispersal assembly of lowland Neotropical rainforests across the Andes</article-title>. <source xml:lang="en">Ecography</source>, <volume>41</volume>(<issue>11</issue>), <fpage>1763</fpage>&#x02013;<lpage>1775</lpage>. <pub-id pub-id-type="doi">10.1111/ecog.03473</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0006"><mixed-citation publication-type="book" id="ece35870-cit-0006">
+<string-name>
+<surname>Budowski</surname>, <given-names>G.</given-names>
+</string-name> (<year>1965</year>). <source xml:lang="en">Distribution of tropical American rain&#x02010;forest species in the light of successional processes</source>. <publisher-loc>Turrialba</publisher-loc> (No. 10254).</mixed-citation></ref><ref id="ece35870-bib-0007"><mixed-citation publication-type="journal" id="ece35870-cit-0007">
+<string-name>
+<surname>Cadotte</surname>, <given-names>M. W.</given-names>
+</string-name> (<year>2007</year>). <article-title>Competition&#x02010;colonization trade&#x02010;offs and disturbance effects at multiple scales</article-title>. <source xml:lang="en">Ecology</source>, <volume>88</volume>(<issue>4</issue>), <fpage>823</fpage>&#x02013;<lpage>829</lpage>. <pub-id pub-id-type="doi">10.1890/06-1117</pub-id>
+<pub-id pub-id-type="pmid">17536699</pub-id></mixed-citation></ref><ref id="ece35870-bib-0008"><mixed-citation publication-type="journal" id="ece35870-cit-0008">
+<string-name>
+<surname>Callaway</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Brooker</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Choler</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Kikvidze</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Lortie</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Michalet</surname>, <given-names>R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Cook</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2002</year>). <article-title>Positive interactions among alpine plants increase with stress</article-title>. <source xml:lang="en">Nature</source>, <volume>417</volume>(<issue>6891</issue>), <fpage>844</fpage>&#x02013;<lpage>848</lpage>. <pub-id pub-id-type="doi">10.1038/nature00812</pub-id>
+<pub-id pub-id-type="pmid">12075350</pub-id></mixed-citation></ref><ref id="ece35870-bib-0009"><mixed-citation publication-type="journal" id="ece35870-cit-0009">
+<string-name>
+<surname>Choler</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Michalet</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Callaway</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>2001</year>). <article-title>Facilitation and competition on gradients in alpine plant communities</article-title>. <source xml:lang="en">Ecology</source>, <volume>82</volume>(<issue>12</issue>), <fpage>3295</fpage>&#x02013;<lpage>3308</lpage>. <pub-id pub-id-type="doi">10.1890/0012-9658(2001)082[3295:FACOGI]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0010"><mixed-citation publication-type="journal" id="ece35870-cit-0010">
+<string-name>
+<surname>Connell</surname>, <given-names>J. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Slatyer</surname>, <given-names>R. O.</given-names>
+</string-name> (<year>1977</year>). <article-title>Mechanisms of succession in natural communities and their role in community stability and organization</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>111</volume>(<issue>982</issue>), <fpage>1119</fpage>&#x02013;<lpage>1144</lpage>. <pub-id pub-id-type="doi">10.1086/283241</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0011"><mixed-citation publication-type="journal" id="ece35870-cit-0011">
+<string-name>
+<surname>Corlett</surname>, <given-names>R. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Westcott</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Will plant movements keep up with climate change?</article-title>
+<source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>28</volume>(<issue>8</issue>), <fpage>482</fpage>&#x02013;<lpage>488</lpage>. <pub-id pub-id-type="doi">10.1016/J.TREE.2013.04.003</pub-id>
+<pub-id pub-id-type="pmid">23721732</pub-id></mixed-citation></ref><ref id="ece35870-bib-0012"><mixed-citation publication-type="journal" id="ece35870-cit-0012">
+<string-name>
+<surname>Defossez</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Courbaud</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Lasbouygues</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Schiffers</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kunstler</surname>, <given-names>G.</given-names>
+</string-name> (<year>2016</year>). <article-title>Are variations of direct and indirect plant interactions along a climatic gradient dependent on species' strategies? An experiment on tree seedlings</article-title>. <source xml:lang="en">Oikos</source>, <volume>125</volume>(<issue>5</issue>), <fpage>708</fpage>&#x02013;<lpage>717</lpage>. <pub-id pub-id-type="doi">10.1111/oik.02331</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0013"><mixed-citation publication-type="journal" id="ece35870-cit-0013">
+<string-name>
+<surname>Dirnb&#x000f6;ck</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Essl</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rabitsch</surname>, <given-names>W.</given-names>
+</string-name> (<year>2011</year>). <article-title>Disproportional risk for habitat loss of high&#x02010;altitude endemic species under climate change</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>17</volume>(<issue>2</issue>), <fpage>990</fpage>&#x02013;<lpage>996</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2486.2010.02266.x</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0014"><mixed-citation publication-type="journal" id="ece35870-cit-0014">
+<string-name>
+<surname>Esquivel&#x02010;Muelbert</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>, <given-names>T. R.</given-names>
+</string-name>, <string-name>
+<surname>Dexter</surname>, <given-names>K. G.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>ter Steege</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Lopez&#x02010;Gonzalez</surname>, <given-names>G.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Phillips</surname>, <given-names>O. L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Seasonal drought limits tree species across the Neotropics</article-title>. <source xml:lang="en">Ecography</source>, <volume>40</volume>(<issue>5</issue>), <fpage>618</fpage>&#x02013;<lpage>629</lpage>. <pub-id pub-id-type="doi">10.1111/ecog.01904</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0015"><mixed-citation publication-type="journal" id="ece35870-cit-0015">
+<string-name>
+<surname>Ettinger</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>, <given-names>K. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>HilleRisLambers</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>). <article-title>Climate determines upper, but not lower, altitudinal range limits of Pacific Northwest conifers</article-title>. <source xml:lang="en">Ecology</source>, <volume>92</volume>(<issue>6</issue>), <fpage>1323</fpage>&#x02013;<lpage>1331</lpage>. <pub-id pub-id-type="doi">10.1890/10-1639.1</pub-id>
+<pub-id pub-id-type="pmid">21797160</pub-id></mixed-citation></ref><ref id="ece35870-bib-0016"><mixed-citation publication-type="journal" id="ece35870-cit-0016">
+<string-name>
+<surname>Ettinger</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>HilleRisLambers</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Competition and facilitation may lead to asymmetric range shift dynamics with climate change</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>23</volume>(<issue>9</issue>), <fpage>3921</fpage>&#x02013;<lpage>3933</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.13649</pub-id>
+<pub-id pub-id-type="pmid">28161909</pub-id></mixed-citation></ref><ref id="ece35870-bib-0017"><mixed-citation publication-type="journal" id="ece35870-cit-0017">
+<string-name>
+<surname>Feeley</surname>, <given-names>K. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Silman</surname>, <given-names>M. R.</given-names>
+</string-name> (<year>2010</year>). <article-title>Biotic attrition from tropical forests correcting for truncated temperature niches</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>16</volume>(<issue>6</issue>), <fpage>1830</fpage>&#x02013;<lpage>1836</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2486.2009.02085.x</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0018"><mixed-citation publication-type="journal" id="ece35870-cit-0018">
+<string-name>
+<surname>Florian</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Harvey</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Finegan</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Benjamin</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Soto</surname>, <given-names>G.</given-names>
+</string-name> (<year>2008</year>). <article-title>Efecto de la complejidad estructural y el contexto paisaj&#x000ed;stico en la avifauna de sistemas agroforestales cafetaleros</article-title>. <source xml:lang="en">Ornitolog&#x000ed;a Neotropical</source>, <volume>19</volume>(<issue>suppl.</issue>), <fpage>541</fpage>&#x02013;<lpage>548</lpage>.</mixed-citation></ref><ref id="ece35870-bib-0019"><mixed-citation publication-type="journal" id="ece35870-cit-0019">
+<string-name>
+<surname>Fox</surname>, <given-names>J. W.</given-names>
+</string-name> (<year>2013</year>). <article-title>The intermediate disturbance hypothesis should be abandoned</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>28</volume>(<issue>2</issue>), <fpage>86</fpage>&#x02013;<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1016/J.TREE.2012.08.014</pub-id>
+<pub-id pub-id-type="pmid">22981468</pub-id></mixed-citation></ref><ref id="ece35870-bib-0020"><mixed-citation publication-type="journal" id="ece35870-cit-0020">
+<string-name>
+<surname>Ghalambor</surname>, <given-names>C. K.</given-names>
+</string-name>, <string-name>
+<surname>Huey</surname>, <given-names>R. B.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>Tewksbury</surname>, <given-names>J. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>G.</given-names>
+</string-name> (<year>2006</year>). <article-title>Are mountain passes higher in the tropics? Janzen's hypothesis revisited</article-title>. <source xml:lang="en">Integrative and Comparative Biology</source>, <volume>46</volume>(<issue>1</issue>), <fpage>5</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1093/icb/icj003</pub-id>
+<pub-id pub-id-type="pmid">21672718</pub-id></mixed-citation></ref><ref id="ece35870-bib-0021"><mixed-citation publication-type="journal" id="ece35870-cit-0021">
+<string-name>
+<surname>Grime</surname>, <given-names>J. P.</given-names>
+</string-name> (<year>1973</year>). <article-title>Competitive exclusion in herbaceous vegetation</article-title>. <source xml:lang="en">Nature</source>, <volume>242</volume>(<issue>5396</issue>), <fpage>344</fpage>&#x02013;<lpage>347</lpage>. <pub-id pub-id-type="doi">10.1038/242344a0</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0022"><mixed-citation publication-type="journal" id="ece35870-cit-0022">
+<string-name>
+<surname>Hijmans</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Cameron</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Parra</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>P. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jarvis</surname>, <given-names>A.</given-names>
+</string-name> (<year>2005</year>). <article-title>Very high resolution interpolated climate surfaces for global land areas</article-title>. <source xml:lang="en">International Journal of Climatology</source>, <volume>25</volume>, <fpage>1965</fpage>&#x02013;<lpage>1978</lpage>. <pub-id pub-id-type="doi">10.1002/joc.1276</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0023"><mixed-citation publication-type="journal" id="ece35870-cit-0023">
+<string-name>
+<surname>HilleRisLambers</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Harsch</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Ettinger</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>, <given-names>K. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Theobald</surname>, <given-names>E. J.</given-names>
+</string-name> (<year>2013</year>). <article-title>How will biotic interactions influence climate change&#x02010;induced range shifts?</article-title>
+<source xml:lang="en">Annals of the New York Academy of Sciences</source>, <volume>1297</volume>(<issue>1</issue>), <fpage>112</fpage>&#x02013;<lpage>125</lpage>. <pub-id pub-id-type="doi">10.1111/nyas.12182</pub-id>
+<pub-id pub-id-type="pmid">23876073</pub-id></mixed-citation></ref><ref id="ece35870-bib-0024"><mixed-citation publication-type="book" id="ece35870-cit-0024">
+<string-name>
+<surname>Holdridge</surname>, <given-names>L. R.</given-names>
+</string-name> (<year>1987</year>). <source xml:lang="en">Ecolog&#x000ed;a basada en zonas de vida. 28 Edici&#x000f3;n</source>. <publisher-loc>San Jos&#x000e9;, Costa Rica</publisher-loc>: <publisher-name>Editorial IICA</publisher-name>.</mixed-citation></ref><ref id="ece35870-bib-0025"><mixed-citation publication-type="journal" id="ece35870-cit-0025">
+<string-name>
+<surname>Huston</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>T.</given-names>
+</string-name> (<year>1987</year>). <article-title>Plant succession: Life history and competition</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>130</volume>(<issue>2</issue>), <fpage>168</fpage>&#x02013;<lpage>198</lpage>. <pub-id pub-id-type="doi">10.1086/284704</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0026"><mixed-citation publication-type="journal" id="ece35870-cit-0026">
+<string-name>
+<surname>Janzen</surname>, <given-names>D. H.</given-names>
+</string-name> (<year>1967</year>). <article-title>Why mountain passes are higher in the tropics</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>101</volume>(<issue>919</issue>), <fpage>233</fpage>&#x02013;<lpage>249</lpage>. <pub-id pub-id-type="doi">10.1086/282487</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0027"><mixed-citation publication-type="journal" id="ece35870-cit-0027">
+<string-name>
+<surname>Johansson</surname>, <given-names>M. U.</given-names>
+</string-name>, <string-name>
+<surname>Frisk</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Nemomissa</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hylander</surname>, <given-names>K.</given-names>
+</string-name> (<year>2018</year>). <article-title>Disturbance from traditional fire management in subalpine heathlands increases Afro&#x02010;alpine plant resilience to climate change</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>24</volume>(<issue>7</issue>), <fpage>2952</fpage>&#x02013;<lpage>2964</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.14121</pub-id>
+<pub-id pub-id-type="pmid">29635859</pub-id></mixed-citation></ref><ref id="ece35870-bib-0028"><mixed-citation publication-type="journal" id="ece35870-cit-0028">
+<string-name>
+<surname>Kappelle</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kennis</surname>, <given-names>P. A. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>de Vries</surname>, <given-names>R. A. J.</given-names>
+</string-name> (<year>1995</year>). <article-title>Changes in diversity along a successional gradient in a Costa Rican upper montane Quercus forest</article-title>. <source xml:lang="en">Biodiversity &#x00026; Conservation</source>, <volume>4</volume>(<issue>1</issue>), <fpage>10</fpage>&#x02013;<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1007/BF00115312</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0029"><mixed-citation publication-type="journal" id="ece35870-cit-0029">
+<string-name>
+<surname>Kappelle</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Uffelen</surname>, <given-names>J.&#x02010;G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cleef</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>1995</year>). <article-title>Altitudinal zonation of montane Quercus forests along two transects in Chirrip&#x000f3; National Park, Costa Rica</article-title>. <source xml:lang="en">Vegetatio</source>, <volume>119</volume>(<issue>2</issue>), <fpage>119</fpage>&#x02013;<lpage>153</lpage>. <pub-id pub-id-type="doi">10.1007/BF00045594</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0030"><mixed-citation publication-type="journal" id="ece35870-cit-0030">
+<string-name>
+<surname>Kessler</surname>, <given-names>M.</given-names>
+</string-name> (<year>2001</year>). <article-title>Maximum plant&#x02010;community endemism at intermediate intensities of anthropogenic disturbance in Bolivian montane forests</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>15</volume>(<issue>3</issue>), <fpage>634</fpage>&#x02013;<lpage>641</lpage>. <pub-id pub-id-type="doi">10.1046/j.1523-1739.2001.015003634.x</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0031"><mixed-citation publication-type="journal" id="ece35870-cit-0031">
+<string-name>
+<surname>Koehler</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Center</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cavender&#x02010;Bares</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Evidence for a freezing tolerance&#x02010;growth rate trade&#x02010;off in the live oaks (Quercus series Virentes) across the tropical&#x02010;temperate divide</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>193</volume>(<issue>3</issue>), <fpage>730</fpage>&#x02013;<lpage>744</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2011.03992.x</pub-id>
+<pub-id pub-id-type="pmid">22171967</pub-id></mixed-citation></ref><ref id="ece35870-bib-0032"><mixed-citation publication-type="journal" id="ece35870-cit-0032">
+<string-name>
+<surname>K&#x000f6;rner</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Basler</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hoch</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Kollas</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lenz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Randin</surname>, <given-names>C. F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zimmermann</surname>, <given-names>N. E.</given-names>
+</string-name> (<year>2016</year>). <article-title>Where, why and how? Explaining the low&#x02010;temperature range limits of temperate tree species</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>104</volume>(<issue>4</issue>), <fpage>1076</fpage>&#x02013;<lpage>1088</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2745.12574</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0033"><mixed-citation publication-type="journal" id="ece35870-cit-0033">
+<string-name>
+<surname>Liang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Duveneck</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Gustafson</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name>
+<surname>Serra&#x02010;Diaz</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thompson</surname>, <given-names>J. R.</given-names>
+</string-name> (<year>2018</year>). <article-title>How disturbance, competition, and dispersal interact to prevent tree range boundaries from keeping pace with climate change</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>24</volume>(<issue>1</issue>), <fpage>e335</fpage>&#x02013;<lpage>e351</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.13847</pub-id>
+<pub-id pub-id-type="pmid">29034990</pub-id></mixed-citation></ref><ref id="ece35870-bib-0034"><mixed-citation publication-type="journal" id="ece35870-cit-0034">
+<string-name>
+<surname>Lieberman</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lieberman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Peralta</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hartshorn</surname>, <given-names>G. S.</given-names>
+</string-name> (<year>1996</year>). <article-title>Tropical forest structure and composition on a large&#x02010;scale altitudinal gradient in Costa Rica</article-title>. <source xml:lang="en">The Journal of Ecology</source>, <volume>84</volume>(<issue>2</issue>), <fpage>137</fpage>
+<pub-id pub-id-type="doi">10.2307/2261350</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0035"><mixed-citation publication-type="journal" id="ece35870-cit-0035">
+<string-name>
+<surname>Loehle</surname>, <given-names>C.</given-names>
+</string-name> (<year>1998</year>). <article-title>Height growth rate tradeoffs determine northern and southern range limits for trees</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>25</volume>(<issue>4</issue>), <fpage>735</fpage>&#x02013;<lpage>742</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2699.1998.2540735.x</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0036"><mixed-citation publication-type="journal" id="ece35870-cit-0036">
+<string-name>
+<surname>Long</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<surname>Gorecki</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Renton</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Colville</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Goggin</surname>, <given-names>D. E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Finch&#x02010;Savage</surname>, <given-names>W. E.</given-names>
+</string-name> (<year>2015</year>). <article-title>The ecophysiology of seed persistence: A mechanistic view of the journey to germination or demise</article-title>. <source xml:lang="en">Biological Reviews</source>, <volume>90</volume>(<issue>1</issue>), <fpage>31</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1111/brv.12095</pub-id>
+<pub-id pub-id-type="pmid">24618017</pub-id></mixed-citation></ref><ref id="ece35870-bib-0037"><mixed-citation publication-type="journal" id="ece35870-cit-0037">
+<string-name>
+<surname>Louthan</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Doak</surname>, <given-names>D. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Angert</surname>, <given-names>A. L.</given-names>
+</string-name> (<year>2015</year>). <article-title>Where and when do species interactions set range limits?</article-title>
+<source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>30</volume>(<issue>12</issue>), <fpage>780</fpage>&#x02013;<lpage>792</lpage>. <pub-id pub-id-type="doi">10.1016/J.TREE.2015.09.011</pub-id>
+<pub-id pub-id-type="pmid">26525430</pub-id></mixed-citation></ref><ref id="ece35870-bib-0038"><mixed-citation publication-type="journal" id="ece35870-cit-0038">
+<string-name>
+<surname>Lovett</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>1996</year>). <article-title>Elevational and latitudinal changes in tree associations and diversity in the Eastern Arc mountains of Tanzania</article-title>. <source xml:lang="en">Journal of Tropical Ecology</source>, <volume>12</volume>(<issue>5</issue>), <fpage>629</fpage>&#x02013;<lpage>650</lpage>. <pub-id pub-id-type="doi">10.1017/S0266467400009846</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0039"><mixed-citation publication-type="journal" id="ece35870-cit-0039">
+<string-name>
+<surname>Maestre</surname>, <given-names>F. T.</given-names>
+</string-name>, <string-name>
+<surname>Callaway</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Valladares</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lortie</surname>, <given-names>C. J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Refining the stress&#x02010;gradient hypothesis for competition and facilitation in plant communities</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>97</volume>(<issue>2</issue>), <fpage>199</fpage>&#x02013;<lpage>205</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2745.2008.01476.x</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0040"><mixed-citation publication-type="journal" id="ece35870-cit-0040">
+<string-name>
+<surname>McGill</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Trees are rarely most abundant where they grow best</article-title>. <source xml:lang="en">Journal of Plant Ecology</source>, <volume>5</volume>(<issue>1</issue>), <fpage>46</fpage>&#x02013;<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1093/jpe/rtr036</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0041"><mixed-citation publication-type="journal" id="ece35870-cit-0041">
+<string-name>
+<surname>Michalet</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Brooker</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Cavieres</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Kikvidze</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Lortie</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Pugnaire</surname>, <given-names>F. I.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Callaway</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>2006</year>). <article-title>Do biotic interactions shape both sides of the humped&#x02010;back model of species richness in plant communities?</article-title>
+<source xml:lang="en">Ecology Letters</source>, <volume>9</volume>(<issue>7</issue>), <fpage>767</fpage>&#x02013;<lpage>773</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2006.00935.x</pub-id>
+<pub-id pub-id-type="pmid">16796565</pub-id></mixed-citation></ref><ref id="ece35870-bib-0042"><mixed-citation publication-type="journal" id="ece35870-cit-0042">
+<string-name>
+<surname>Morin</surname>, <given-names>X.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chuine</surname>, <given-names>I.</given-names>
+</string-name> (<year>2006</year>). <article-title>Niche breadth, competitive strength and range size of tree species: A trade&#x02010;off based framework to understand species distribution</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>9</volume>(<issue>2</issue>), <fpage>185</fpage>&#x02013;<lpage>195</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2005.00864.x</pub-id>
+<pub-id pub-id-type="pmid">16958884</pub-id></mixed-citation></ref><ref id="ece35870-bib-0043"><mixed-citation publication-type="journal" id="ece35870-cit-0043">
+<string-name>
+<surname>Morin</surname>, <given-names>X.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lechowicz</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2013</year>). <article-title>Niche breadth and range area in North American trees</article-title>. <source xml:lang="en">Ecography</source>, <volume>36</volume>(<issue>3</issue>), <fpage>300</fpage>&#x02013;<lpage>312</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0587.2012.07340.x</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0044"><mixed-citation publication-type="journal" id="ece35870-cit-0044">
+<string-name>
+<surname>Muller&#x02010;Landau</surname>, <given-names>H. C.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Calder&#x000f3;n</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Condit</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hubbell</surname>, <given-names>S. P.</given-names>
+</string-name> (<year>2008</year>). <article-title>Interspecific variation in primary seed dispersal in a tropical forest</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>96</volume>(<issue>4</issue>), <fpage>653</fpage>&#x02013;<lpage>667</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2745.2008.01399.x</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0045"><mixed-citation publication-type="journal" id="ece35870-cit-0045">
+<string-name>
+<surname>Murrieta</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Finegan</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Delgado</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Villalobos</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Campos</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2007</year>). <article-title>Identificaci&#x000f3;n y caracterizaci&#x000f3;n flor&#x000ed;stica de bosques naturales en el Corredor Biol&#x000f3;gico Volc&#x000e1;nica Central&#x02010;Talamanca, Costa Rica</article-title>. <source xml:lang="en">Recursos Naturales y Ambiente</source>, <volume>51&#x02013;52</volume>, <fpage>57</fpage>&#x02013;<lpage>68</lpage>.</mixed-citation></ref><ref id="ece35870-bib-0046"><mixed-citation publication-type="journal" id="ece35870-cit-0046">
+<string-name>
+<surname>Muscarella</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lohbeck</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;nez&#x02010;Ramos</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Poorter</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Rodr&#x000ed;guez&#x02010;Vel&#x000e1;zquez</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>van Breugel</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bongers</surname>, <given-names>F.</given-names>
+</string-name> (<year>2017</year>). <article-title>Demographic drivers of functional composition dynamics</article-title>. <source xml:lang="en">Ecology</source>, <volume>98</volume>(<issue>11</issue>), <fpage>2743</fpage>&#x02013;<lpage>2750</lpage>. <pub-id pub-id-type="doi">10.1002/ecy.1990</pub-id>
+<pub-id pub-id-type="pmid">28833040</pub-id></mixed-citation></ref><ref id="ece35870-bib-0047"><mixed-citation publication-type="journal" id="ece35870-cit-0047">
+<string-name>
+<surname>Nieto&#x02010;Lugilde</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lenoir</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Abdulhak</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Aeschimann</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Dullinger</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>G&#x000e9;gout</surname>, <given-names>J.&#x02010;C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Svenning</surname>, <given-names>J.&#x02010;C.</given-names>
+</string-name> (<year>2015</year>). <article-title>Tree cover at fine and coarse spatial grains interacts with shade tolerance to shape plant species distributions across the Alps</article-title>. <source xml:lang="en">Ecography</source>, <volume>38</volume>(<issue>6</issue>), <fpage>578</fpage>&#x02013;<lpage>589</lpage>. <pub-id pub-id-type="doi">10.1111/ecog.00954</pub-id>
+<pub-id pub-id-type="pmid">26290621</pub-id></mixed-citation></ref><ref id="ece35870-bib-0048"><mixed-citation publication-type="journal" id="ece35870-cit-0048">
+<string-name>
+<surname>Normand</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Treier</surname>, <given-names>U. A.</given-names>
+</string-name>, <string-name>
+<surname>Randin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Vittoz</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Guisan</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Svenning</surname>, <given-names>J.&#x02010;C.</given-names>
+</string-name> (<year>2009</year>). <article-title>Importance of abiotic stress as a range&#x02010;limit determinant for European plants: Insights from species responses to climatic gradients</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>18</volume>(<issue>4</issue>), <fpage>437</fpage>&#x02013;<lpage>449</lpage>. <pub-id pub-id-type="doi">10.1111/j.1466-8238.2009.00451.x</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0049"><mixed-citation publication-type="journal" id="ece35870-cit-0049">
+<string-name>
+<surname>Olsen</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>T&#x000f6;pper</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Skarpaas</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Vandvik</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Klanderud</surname>, <given-names>K.</given-names>
+</string-name> (<year>2016</year>). <article-title>From facilitation to competition: Temperature&#x02010;driven shift in dominant plant interactions affects population dynamics in seminatural grasslands</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>22</volume>(<issue>5</issue>), <fpage>1915</fpage>&#x02013;<lpage>1926</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.13241</pub-id>
+<pub-id pub-id-type="pmid">26845378</pub-id></mixed-citation></ref><ref id="ece35870-bib-0050"><mixed-citation publication-type="journal" id="ece35870-cit-0050">
+<string-name>
+<surname>Paoli</surname>, <given-names>G. D.</given-names>
+</string-name>, <string-name>
+<surname>Curran</surname>, <given-names>L. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Slik</surname>, <given-names>J. W. F.</given-names>
+</string-name> (<year>2008</year>). <article-title>Soil nutrients affect spatial patterns of aboveground biomass and emergent tree density in southwestern Borneo</article-title>. <source xml:lang="en">Oecologia</source>, <volume>155</volume>, <fpage>287</fpage>&#x02013;<lpage>299</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-007-0906-9</pub-id>
+<pub-id pub-id-type="pmid">18038155</pub-id></mixed-citation></ref><ref id="ece35870-bib-0051"><mixed-citation publication-type="journal" id="ece35870-cit-0051">
+<string-name>
+<surname>Pellissier</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Br&#x000e5;then</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Vittoz</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Yoccoz</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name>
+<surname>Dubuis</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Meier</surname>, <given-names>E. S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Guisan</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Thermal niches are more conserved at cold than warm limits in arctic&#x02010;alpine plant species</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>22</volume>(<issue>8</issue>), <fpage>933</fpage>&#x02013;<lpage>941</lpage>. <pub-id pub-id-type="doi">10.1111/geb.12057</pub-id>
+<pub-id pub-id-type="pmid">24790524</pub-id></mixed-citation></ref><ref id="ece35870-bib-0052"><mixed-citation publication-type="journal" id="ece35870-cit-0052">
+<string-name>
+<surname>Pither</surname>, <given-names>J.</given-names>
+</string-name> (<year>2003</year>). <article-title>Climate tolerance and interspecific variation in geographic range size</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>270</volume>(<issue>1514</issue>), <fpage>475</fpage>&#x02013;<lpage>481</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2002.2275</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0053"><mixed-citation publication-type="journal" id="ece35870-cit-0053">
+<string-name>
+<surname>Pulliam</surname>, <given-names>H. R.</given-names>
+</string-name> (<year>1988</year>). <article-title>Sources, sinks, and population regulation</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>132</volume>(<issue>5</issue>), <fpage>652</fpage>&#x02013;<lpage>661</lpage>. <pub-id pub-id-type="doi">10.1086/284880</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0055"><mixed-citation publication-type="journal" id="ece35870-cit-0055">
+<string-name>
+<surname>Rehm</surname>, <given-names>E. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Feeley</surname>, <given-names>K. J.</given-names>
+</string-name> (<year>2015a</year>). <article-title>Freezing temperatures as a limit to forest recruitment above tropical Andean treelines</article-title>. <source xml:lang="en">Ecology</source>, <volume>96</volume>(<issue>7</issue>), <fpage>1856</fpage>&#x02013;<lpage>1865</lpage>. <pub-id pub-id-type="doi">10.1890/14-1992.1</pub-id>
+<pub-id pub-id-type="pmid">26378308</pub-id></mixed-citation></ref><ref id="ece35870-bib-0056"><mixed-citation publication-type="journal" id="ece35870-cit-0056">
+<string-name>
+<surname>Rehm</surname>, <given-names>E. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Feeley</surname>, <given-names>K. J.</given-names>
+</string-name> (<year>2015b</year>). <article-title>The inability of tropical cloud forest species to invade grasslands above treeline during climate change: Potential explanations and consequences</article-title>. <source xml:lang="en">Ecography</source>, <volume>38</volume>(<issue>12</issue>), <fpage>1167</fpage>&#x02013;<lpage>1175</lpage>. <pub-id pub-id-type="doi">10.1111/ecog.01050</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0057"><mixed-citation publication-type="journal" id="ece35870-cit-0057">
+<string-name>
+<surname>Royo</surname>, <given-names>A. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Carson</surname>, <given-names>W. P.</given-names>
+</string-name> (<year>2006</year>). <article-title>On the formation of dense understory layers in forests worldwide: Consequences and implications for forest dynamics, biodiversity, and succession</article-title>. <source xml:lang="en">Canadian Journal of Forest Research</source>, <volume>36</volume>(<issue>6</issue>), <fpage>1345</fpage>&#x02013;<lpage>1362</lpage>. <pub-id pub-id-type="doi">10.1139/x06-025</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0058"><mixed-citation publication-type="journal" id="ece35870-cit-0058">
+<string-name>
+<surname>Salguero&#x02010;G&#x000f3;mez</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>O. R.</given-names>
+</string-name>, <string-name>
+<surname>Jongejans</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Blomberg</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Hodgson</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Mbeau&#x02010;Ache</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Buckley</surname>, <given-names>Y. M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Fast&#x02010;slow continuum and reproductive strategies structure plant life&#x02010;history variation worldwide</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>113</volume>(<issue>1</issue>), <fpage>230</fpage>&#x02013;<lpage>235</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1506215112</pub-id>
+<pub-id pub-id-type="pmid">26699477</pub-id></mixed-citation></ref><ref id="ece35870-bib-0059"><mixed-citation publication-type="journal" id="ece35870-cit-0059">
+<string-name>
+<surname>Serra&#x02010;Diaz</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Scheller</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Syphard</surname>, <given-names>A. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Franklin</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Disturbance and climate microrefugia mediate tree range shifts during climate change</article-title>. <source xml:lang="en">Landscape Ecology</source>, <volume>30</volume>(<issue>6</issue>), <fpage>1039</fpage>&#x02013;<lpage>1053</lpage>. <pub-id pub-id-type="doi">10.1007/s10980-015-0173-9</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0060"><mixed-citation publication-type="journal" id="ece35870-cit-0060">
+<string-name>
+<surname>Sheil</surname>, <given-names>D.</given-names>
+</string-name> (<year>2016</year>). <article-title>Disturbance and distributions</article-title>. <source xml:lang="en">Ecology and Society</source>, <volume>21</volume>(<issue>1</issue>), <fpage>10</fpage>
+<ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/26270356">http://www.jstor.org/stable/26270356</ext-link>
+</mixed-citation></ref><ref id="ece35870-bib-0061"><mixed-citation publication-type="journal" id="ece35870-cit-0061">
+<string-name>
+<surname>Sheil</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Burslem</surname>, <given-names>D. F. R. P.</given-names>
+</string-name> (<year>2003</year>). <article-title>Disturbing hypotheses in tropical forests</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>18</volume>(<issue>1</issue>), <fpage>18</fpage>&#x02013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1016/S0169-5347(02)00005-8</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0062"><mixed-citation publication-type="journal" id="ece35870-cit-0062">
+<string-name>
+<surname>Sheil</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Burslem</surname>, <given-names>D. F. R. P.</given-names>
+</string-name> (<year>2013</year>). <article-title>Defining and defending Connell's intermediate disturbance hypothesis: A response to Fox</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>28</volume>(<issue>10</issue>), <fpage>571</fpage>&#x02013;<lpage>572</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2013.07.006</pub-id>
+<pub-id pub-id-type="pmid">23953996</pub-id></mixed-citation></ref><ref id="ece35870-bib-0063"><mixed-citation publication-type="journal" id="ece35870-cit-0063">
+<string-name>
+<surname>Shipley</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Keddy</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>1994</year>). <article-title>Evaluating the evidence for competitive hierarchies in plant communities</article-title>. <source xml:lang="en">Oikos</source>, <volume>69</volume>(<issue>2</issue>), <fpage>340</fpage>
+<pub-id pub-id-type="doi">10.2307/3546158</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0064"><mixed-citation publication-type="journal" id="ece35870-cit-0064">
+<string-name>
+<surname>Ssali</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Moe</surname>, <given-names>S. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sheil</surname>, <given-names>D.</given-names>
+</string-name> (<year>2018</year>). <article-title>Tree seed rain and seed removal, but not the seed bank, impede forest recovery in bracken (<italic>Pteridium aquilinum</italic> (L.) Kuhn)&#x02010;dominated clearings in the African highlands</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>8</volume>(<issue>8</issue>), <fpage>4224</fpage>&#x02013;<lpage>4236</lpage>.<pub-id pub-id-type="pmid">29721293</pub-id></mixed-citation></ref><ref id="ece35870-bib-0065"><mixed-citation publication-type="journal" id="ece35870-cit-0065">
+<string-name>
+<surname>Stevens</surname>, <given-names>G. C.</given-names>
+</string-name> (<year>1992</year>). <article-title>The elevational gradient in altitudinal range: An extension of Rapoport's latitudinal rule to altitude</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>140</volume>(<issue>6</issue>), <fpage>893</fpage>&#x02013;<lpage>911</lpage>. <pub-id pub-id-type="doi">10.1086/285447</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0066"><mixed-citation publication-type="journal" id="ece35870-cit-0066">
+<string-name>
+<surname>Svenning</surname>, <given-names>J.&#x02010;C.</given-names>
+</string-name>, <string-name>
+<surname>Gravel</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Holt</surname>, <given-names>R. D.</given-names>
+</string-name>, <string-name>
+<surname>Schurr</surname>, <given-names>F. M.</given-names>
+</string-name>, <string-name>
+<surname>Thuiller</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;nkem&#x000fc;ller</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Normand</surname>, <given-names>S.</given-names>
+</string-name> (<year>2014</year>). <article-title>The influence of interspecific interactions on species range expansion rates</article-title>. <source xml:lang="en">Ecography</source>, <volume>37</volume>(<issue>12</issue>), <fpage>1198</fpage>&#x02013;<lpage>1209</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0587.2013.00574.x</pub-id>
+<pub-id pub-id-type="pmid">25722537</pub-id></mixed-citation></ref><ref id="ece35870-bib-0067"><mixed-citation publication-type="journal" id="ece35870-cit-0067">
+<string-name>
+<surname>Swaine</surname>, <given-names>M. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Whitmore</surname>, <given-names>T. C.</given-names>
+</string-name> (<year>1988</year>). <article-title>On the definition of ecological species groups in tropical rain forests</article-title>. <source xml:lang="en">Vegetatio</source>, <volume>75</volume>(<issue>1&#x02013;2</issue>), <fpage>81</fpage>&#x02013;<lpage>86</lpage>. <pub-id pub-id-type="doi">10.1007/BF00044629</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0068"><mixed-citation publication-type="journal" id="ece35870-cit-0068">
+<string-name>
+<surname>Thom</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Rammer</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Seidl</surname>, <given-names>R.</given-names>
+</string-name> (<year>2017</year>). <article-title>Disturbances catalyze the adaptation of forest ecosystems to changing climate conditions</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>23</volume>(<issue>1</issue>), <fpage>269</fpage>&#x02013;<lpage>282</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.13506</pub-id>
+<pub-id pub-id-type="pmid">27633953</pub-id></mixed-citation></ref><ref id="ece35870-bib-0069"><mixed-citation publication-type="book" id="ece35870-cit-0069">
+<string-name>
+<surname>Van Steenis</surname>, <given-names>C. G. G. J.</given-names>
+</string-name> (<year>1958</year>). <chapter-title>Rejuvenation as a factor for judging the status of vegetation types. The biological nomad theory</chapter-title> In <source xml:lang="en">Proceedings of the symposium on humid tropics vegetation, Kandy</source> (pp. <fpage>212</fpage>&#x02013;<lpage>218</lpage>). <publisher-loc>Paris, France</publisher-loc>: <publisher-name>UNESCO</publisher-name>.</mixed-citation></ref><ref id="ece35870-bib-0070"><mixed-citation publication-type="journal" id="ece35870-cit-0070">
+<string-name>
+<surname>Vayreda</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Martinez&#x02010;Vilalta</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gracia</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Canadell</surname>, <given-names>J. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Retana</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Anthropogenic&#x02010;driven rapid shifts in tree distribution lead to increased dominance of broadleaf species</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>22</volume>(<issue>12</issue>), <fpage>3984</fpage>&#x02013;<lpage>3995</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.13394</pub-id>
+<pub-id pub-id-type="pmid">27286408</pub-id></mixed-citation></ref><ref id="ece35870-bib-0071"><mixed-citation publication-type="journal" id="ece35870-cit-0071">
+<string-name>
+<surname>V&#x000e1;zquez&#x02010;Yanes</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Orozco&#x02010;Segovia</surname>, <given-names>A.</given-names>
+</string-name> (<year>1993</year>). <article-title>Patterns of seed longevity and germination in the tropical rainforest</article-title>. <source xml:lang="en">Annual Review of Ecology and Systematics</source>, <volume>24</volume>(<issue>1</issue>), <fpage>69</fpage>&#x02013;<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.es.24.110193.000441</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0072"><mixed-citation publication-type="journal" id="ece35870-cit-0072">
+<string-name>
+<surname>Veintimilla</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ngo Bieng</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Delgado</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Vilchez&#x02010;Mendoza</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zamora</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Finegan</surname>, <given-names>B.</given-names>
+</string-name> (<year>2019</year>). <article-title>Drivers of tropical rainforest composition and alpha diversity patterns over a 2,520 m altitudinal gradient</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>9</volume>(<issue>10</issue>), <fpage>5720</fpage>&#x02013;<lpage>5730</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5155</pub-id>
+<pub-id pub-id-type="pmid">31160993</pub-id></mixed-citation></ref><ref id="ece35870-bib-0073"><mixed-citation publication-type="journal" id="ece35870-cit-0073">
+<string-name>
+<surname>Wen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>D.&#x02010;W.</given-names>
+</string-name>, <string-name>
+<surname>Leng</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>Y.&#x02010;F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cao</surname>, <given-names>K.&#x02010;F.</given-names>
+</string-name> (<year>2018</year>). <article-title>The physiological cold tolerance of warm&#x02010;climate plants is correlated with their latitudinal range limit</article-title>. <source xml:lang="en">Biology Letters</source>, <volume>14</volume>(<issue>8</issue>), <fpage>20180277</fpage>
+<pub-id pub-id-type="doi">10.1098/rsbl.2018.0277</pub-id>
+<pub-id pub-id-type="pmid">30158139</pub-id></mixed-citation></ref><ref id="ece35870-bib-0074"><mixed-citation publication-type="journal" id="ece35870-cit-0074">
+<string-name>
+<surname>White</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Grass p&#x000e1;ramo as hunter&#x02010;gatherer landscape</article-title>. <source xml:lang="en">The Holocene</source>, <volume>23</volume>(<issue>6</issue>), <fpage>898</fpage>&#x02013;<lpage>915</lpage>. <pub-id pub-id-type="doi">10.1177/0959683612471987</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0075"><mixed-citation publication-type="journal" id="ece35870-cit-0075">
+<string-name>
+<surname>Wilson</surname>, <given-names>S. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Keddy</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>1986</year>). <article-title>Species competitive ability and position along a natural stress/disturbance gradient</article-title>. <source xml:lang="en">Ecology</source>, <volume>67</volume>(<issue>5</issue>), <fpage>1236</fpage>&#x02013;<lpage>1242</lpage>. <pub-id pub-id-type="doi">10.2307/1938679</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0076"><mixed-citation publication-type="journal" id="ece35870-cit-0076">
+<string-name>
+<surname>Wisheu</surname>, <given-names>I. C.</given-names>
+</string-name> (<year>1998</year>). <article-title>How organisms partition habitats: Different types of community organization can produce identical patterns</article-title>. <source xml:lang="en">Oikos</source>, <volume>83</volume>(<issue>2</issue>), <fpage>246</fpage>
+<pub-id pub-id-type="doi">10.2307/3546836</pub-id>
+</mixed-citation></ref><ref id="ece35870-bib-0077"><mixed-citation publication-type="journal" id="ece35870-cit-0077">
+<string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Qi</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>K.</given-names>
+</string-name> (<year>2018</year>). <article-title>Functional traits associated with plant colonizing and competitive ability influence species abundance during secondary succession: Evidence from subalpine meadows of the Qinghai&#x02010;Tibetan Plateau</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>8</volume>(<issue>13</issue>), <fpage>6529</fpage>&#x02013;<lpage>6536</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.4110</pub-id>
+<pub-id pub-id-type="pmid">30038754</pub-id></mixed-citation></ref></ref-list></back></article>

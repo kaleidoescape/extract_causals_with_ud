@@ -1,0 +1,1000 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Stem Cells Transl Med</journal-id><journal-id journal-id-type="iso-abbrev">Stem Cells Transl Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2157-6580</journal-id><journal-id journal-id-type="publisher-id">SCT3</journal-id><journal-title-group><journal-title>Stem Cells Translational Medicine</journal-title></journal-title-group><issn pub-type="ppub">2157-6564</issn><issn pub-type="epub">2157-6580</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31613054</article-id><article-id pub-id-type="pmc">6954716</article-id><article-id pub-id-type="doi">10.1002/sctm.19-0091</article-id><article-id pub-id-type="publisher-id">SCT312607</article-id><article-categories><subj-group subj-group-type="overline"><subject>Tissue&#x02010;specific Progenitor and Stem Cells</subject></subj-group><subj-group subj-group-type="heading"><subject>Tissue&#x02010;specific Progenitor and Stem Cells</subject></subj-group></article-categories><title-group><article-title>Fate of systemically and locally administered adipose&#x02010;derived mesenchymal stromal cells and their effect on wound healing</article-title><alt-title alt-title-type="right-running-head">FATE OF ADIPOSE&#x02010;DERIVED MESENCHYMAL STROMAL CELLS</alt-title><alt-title alt-title-type="left-running-head">Kallmeyer et al.</alt-title></title-group><contrib-group><contrib id="sct312607-cr-0001" contrib-type="author" corresp="yes"><name><surname>Kallmeyer</surname><given-names>Karlien</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9181-694X</contrib-id><xref ref-type="aff" rid="sct312607-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="sct312607-aff-0002">
+<sup>2</sup>
+</xref><address><email>karlienkallmeyer@gmail.com</email></address></contrib><contrib id="sct312607-cr-0002" contrib-type="author"><name><surname>Andr&#x000e9;&#x02010;L&#x000e9;vigne</surname><given-names>Dominik</given-names></name><xref ref-type="aff" rid="sct312607-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312607-cr-0003" contrib-type="author"><name><surname>Baqui&#x000e9;</surname><given-names>Mathurin</given-names></name><xref ref-type="aff" rid="sct312607-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="sct312607-cr-0004" contrib-type="author"><name><surname>Krause</surname><given-names>Karl&#x02010;Heinz</given-names></name><xref ref-type="aff" rid="sct312607-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="sct312607-cr-0005" contrib-type="author"><name><surname>Pepper</surname><given-names>Michael S.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6406-2380</contrib-id><xref ref-type="aff" rid="sct312607-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="sct312607-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="sct312607-cr-0006" contrib-type="author"><name><surname>Pittet&#x02010;Cu&#x000e9;nod</surname><given-names>Brigitte</given-names></name><xref ref-type="aff" rid="sct312607-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="sct312607-cr-0007" contrib-type="author" corresp="yes"><name><surname>Modarressi</surname><given-names>Ali</given-names></name><xref ref-type="aff" rid="sct312607-aff-0001">
+<sup>1</sup>
+</xref><address><email>ali.modarressi@hcuge.ch</email></address></contrib></contrib-group><aff id="sct312607-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Plastic</named-content>
+<institution>Reconstructive &#x00026; Aesthetic Surgery, University Hospitals of Geneva, University of Geneva</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="sct312607-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Institute for Cellular and Molecular Medicine (ICMM), Department of Immunology, and SAMRC Extramural Unit for Stem Cell Research and Therapy</named-content>
+<institution>University of Pretoria</institution>
+<city>Pretoria</city>
+<country country="ZA">South Africa</country>
+</aff><aff id="sct312607-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Pathology and Immunology</named-content>
+<institution>University of Geneva</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="sct312607-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Human Genetics and Development</named-content>
+<institution>University of Geneva</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="sct312607-aff-0005">
+<label><sup>5</sup></label>
+<institution>Neurix SA</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Ali Modarressi, MD, Plastic, Reconstructive and Aesthetic Surgery Unit, University Hospitals of Geneva, Case Postal, 1211 Geneva 14, Switzerland.<break/>
+Email: <email>ali.modarressi@hcuge.ch</email><break/>
+Karlien Kallmeyer, MSc, Medical Immunology, Room 5&#x02010;49 (Level 5), Pathology Building, 5 Bophelo Road (Cnr. Steve Biko and Dr. Savage Streets), Prinshof Campus, University of Pretoria, Pretoria, 0002, Republic of South Africa.<break/>
+Email: <email>karlienkallmeyer@gmail.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>10</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>9</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/sct3.v9.1</issue-id><fpage>131</fpage><lpage>144</lpage><history><date date-type="received"><day>22</day><month>3</month><year>2019</year></date><date date-type="accepted"><day>27</day><month>8</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 AlphaMed Press <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <sc>stem cells translational medicine</sc> published by Wiley Periodicals, Inc. on behalf of AlphaMed Press</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:SCT3-9-131.pdf"/><abstract><title>Abstract</title><p>There is increasing interest in the use of adipose&#x02010;derived mesenchymal stromal cells (ASCs) for wound repair. As the fate of administered cells is still poorly defined, we aimed to establish the location, survival, and effect of ASCs when administered either systemically or locally during wound repair under physiological conditions. To determine the behavior of ASCs, a rat model with wounds on the dorsal aspect of the hind paws was used and two treatment modes were assessed: ASCs administered systemically into the tail vein or locally around the wound. ASCs were transduced to express both firefly luciferase (Fluc) and green fluorescent protein to enable tracking by bioluminescence imaging and immunohistological analysis. Systemically administered ASCs were detected in the lungs 3 hours after injection with a decrease in luminescent signal at 48&#x02009;hours and signal disappearance from 72&#x02009;hours. No ASCs were detected in the wound. Locally administered ASCs remained strongly detectable for 7&#x02009;days at the injection site and became distributed within the wound bed as early as 24&#x02009;hours post injection with a significant increase observed at 72&#x02009;hours. Systemically administered ASCs were filtered out in the lungs, whereas ASCs administered locally remained and survived not only at the injection site but were also detected within the wound bed. Both treatments led to enhanced wound closure. It appears that systemically administered ASCs have the potential to enhance wound repair distally from their site of entrapment in the lungs whereas locally administered ASCs enhanced wound repair as they became redistributed within the wound bed.</p></abstract><abstract abstract-type="graphical"><p>Adipose&#x02010;derived mesenchymal stromal cells were administered either systemically or locally in a rat model of wound repair under physiological conditions. It appears that systemically administered adipose&#x02010;derived mesenchymal stromal cells have the potential to enhance wound repair distally from their site of entrapment in the lungs whereas locally administered adipose&#x02010;derived mesenchymal stromal cells enhanced wound repair as they became redistributed within the wound bed.<boxed-text position="anchor" content-type="graphic" id="sct312607-blkfxd-0001" orientation="portrait"><graphic xlink:href="SCT3-9-131-g008.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="sct312607-kwd-0001">adipose&#x02010;derived mesenchymal stromal cells</kwd><kwd id="sct312607-kwd-0002">bioluminescence imaging</kwd><kwd id="sct312607-kwd-0003">firefly luciferase</kwd><kwd id="sct312607-kwd-0004">green fluorescent protein</kwd><kwd id="sct312607-kwd-0005">in vivo imaging</kwd><kwd id="sct312607-kwd-0006">wound healing</kwd><kwd id="sct312607-kwd-0007">wound repair</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>SAMRC Extramural Unit for Stem Cell Research and Therapy</funding-source></award-group><award-group id="funding-0002"><funding-source>South African Medical Research Council University Flagship Program</funding-source></award-group><award-group id="funding-0003"><funding-source>Swiss National Science Foundation Project</funding-source><award-id>310030_170132</award-id></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>Institute for Cellular and Molecular Medicine (ICMM) </institution><institution-id institution-id-type="open-funder-registry">10.13039/100012703</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0005"><funding-source>University of Pretoria Postgraduate Bursary Office</funding-source></award-group><award-group id="funding-0006"><funding-source><institution-wrap><institution>Ernst &#x00026; Ethel Eriksen Trust </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100011920</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0007"><funding-source><institution-wrap><institution>National Research Foundation </institution><institution-id institution-id-type="open-funder-registry">10.13039/100011512</institution-id></institution-wrap></funding-source><award-id>88799</award-id></award-group><award-group id="funding-0008"><funding-source>Faculty of Medicine of the University of Geneva</funding-source></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="14"/><word-count count="10485"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:13.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="sct312607-cit-9001">
+<string-name>
+<surname>Kallmeyer</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Andr&#x000e9;&#x02010;L&#x000e9;vigne</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Baqui&#x000e9;</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Fate of systemically and locally administered adipose&#x02010;derived mesenchymal stromal cells and their effect on wound healing</article-title>. <source xml:lang="en">STEM CELLS Transl Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>131</fpage>&#x02013;<lpage>144</lpage>. <pub-id pub-id-type="doi">10.1002/sctm.19-0091</pub-id>
+<pub-id pub-id-type="pmid">31613054</pub-id></mixed-citation>
+</p><fn-group id="sct312607-ntgp-0001"><fn id="sct312607-note-0001"><p>Authored by a member of IFATS.</p></fn><fn id="sct312607-note-1002"><p>
+<bold>Funding information</bold> SAMRC Extramural Unit for Stem Cell Research and Therapy; South African Medical Research Council University Flagship Program; Swiss National Science Foundation Project, Grant/Award Number: 310030_170132; Institute for Cellular and Molecular Medicine (ICMM); University of Pretoria Postgraduate Bursary Office; Ernst &#x00026; Ethel Eriksen Trust; National Research Foundation, Grant/Award Number: 88799; Faculty of Medicine of the University of Geneva</p></fn></fn-group></notes></front><body id="sct312607-body-0001"><p>
+<boxed-text position="anchor" content-type="box" id="sct312607-blkfxd-0002" orientation="portrait"><caption><title>Significance statement</title></caption><p>The exogenous administration of adipose&#x02010;derived mesenchymal stromal cells (ASCs) holds promise as a treatment strategy for wound healing by promoting tissue repair and regeneration. However, the best route of administration is still not well defined. Herein, this article describes the biodistribution and survival of systemically vs locally administered ASCs. Interestingly, both routes of administration led to enhanced wound repair as seen by earlier wound closure. Systemically administered ASCs have the potential to enhance wound repair distally from their site of entrapment in the lungs, whereas locally administered ASCs migrate into the wound bed.</p></boxed-text>
+</p><sec id="sct312607-sec-0003"><label>1</label><title>INTRODUCTION</title><p>In the field of regenerative medicine, cell&#x02010;based therapies utilizing human mesenchymal stromal cells (MSCs) have generated a great deal of interest for wound healing.<xref rid="sct312607-bib-0001" ref-type="ref">1</xref>, <xref rid="sct312607-bib-0002" ref-type="ref">2</xref>, <xref rid="sct312607-bib-0003" ref-type="ref">3</xref> The exact mechanism underlying the therapeutic benefits of MSCs has yet to be fully elucidated. Their role in tissue maintenance, repair, and regeneration is suggested to stem from their multipotent differentiation capacity, immunomodulatory properties, antimicrobial effect, paracrine signaling, and their ability to migrate to sites of injury.<xref rid="sct312607-bib-0002" ref-type="ref">2</xref>, <xref rid="sct312607-bib-0004" ref-type="ref">4</xref>, <xref rid="sct312607-bib-0005" ref-type="ref">5</xref>, <xref rid="sct312607-bib-0006" ref-type="ref">6</xref> Although MSCs were originally isolated from bone marrow (BM),<xref rid="sct312607-bib-0007" ref-type="ref">7</xref> a source used with increasing frequency is subcutaneous adipose tissue.<xref rid="sct312607-bib-0004" ref-type="ref">4</xref> Both BM&#x02010;MSCs and adipose&#x02010;derived MSCs (ASCs) are candidate cell types for treating wounds; laboratory and clinical studies, however, favor BM&#x02010;MSCs.<xref rid="sct312607-bib-0003" ref-type="ref">3</xref>, <xref rid="sct312607-bib-0008" ref-type="ref">8</xref> ASCs are considered to be a potentially useful cell population because of their availability, ease of harvest, high cell yield, and ability to be expanded in culture for clinical use.<xref rid="sct312607-bib-0004" ref-type="ref">4</xref>, <xref rid="sct312607-bib-0009" ref-type="ref">9</xref>, <xref rid="sct312607-bib-0010" ref-type="ref">10</xref>, <xref rid="sct312607-bib-0011" ref-type="ref">11</xref>
+</p><p>MSCs are believed to migrate to damaged tissue in a process called homing.<xref rid="sct312607-bib-0012" ref-type="ref">12</xref>
+<italic>In vitro</italic>, MSCs are attracted by cytokines and chemokines that are known to be upregulated under conditions of inflammation.<xref rid="sct312607-bib-0013" ref-type="ref">13</xref>, <xref rid="sct312607-bib-0014" ref-type="ref">14</xref>, <xref rid="sct312607-bib-0015" ref-type="ref">15</xref> However, in vivo, homing of MSCs has not been unequivocally shown. Some studies have reported homing of systemically administered MSCs in mouse models of type 2 diabetes,<xref rid="sct312607-bib-0016" ref-type="ref">16</xref> traumatic brain injury,<xref rid="sct312607-bib-0017" ref-type="ref">17</xref> and burn injury,<xref rid="sct312607-bib-0018" ref-type="ref">18</xref> whereas others reported intrapulmonary cell trapping<xref rid="sct312607-bib-0019" ref-type="ref">19</xref> and minimal evidence for homing.<xref rid="sct312607-bib-0020" ref-type="ref">20</xref> Where recirculation of MSCs was shown to occur after becoming trapped in the lungs, only a low percentage of MSCs could be found at the injury site or in non&#x02010;target organs.<xref rid="sct312607-bib-0020" ref-type="ref">20</xref>, <xref rid="sct312607-bib-0021" ref-type="ref">21</xref>, <xref rid="sct312607-bib-0022" ref-type="ref">22</xref>, <xref rid="sct312607-bib-0023" ref-type="ref">23</xref> Most of these studies evaluated the homing of BM&#x02010;MSCs. Although BM&#x02010;MSCs and ASCs share biological characteristics, differences in their phenotype, differentiation potential, gene expression profile, and immunomodulatory activity have been noted.<xref rid="sct312607-bib-0011" ref-type="ref">11</xref>, <xref rid="sct312607-bib-0024" ref-type="ref">24</xref>, <xref rid="sct312607-bib-0025" ref-type="ref">25</xref> Thus, differences in their homing capacity may also exist, establishing a need to investigate the homing of ASCs and compare this to available BM&#x02010;MSCs homing data.</p><p>Commonly suggested routes of MSC transplantation include systemic and local injection.<xref rid="sct312607-bib-0019" ref-type="ref">19</xref>, <xref rid="sct312607-bib-0026" ref-type="ref">26</xref>, <xref rid="sct312607-bib-0027" ref-type="ref">27</xref>, <xref rid="sct312607-bib-0028" ref-type="ref">28</xref>, <xref rid="sct312607-bib-0029" ref-type="ref">29</xref> Local injection relies on the activity of locally transplanted MSCs at the target site. Systemic injection requires circulating MSC to exit the blood vessels and to migrate to the target site. However, whether administered systemically or locally, where the cells go to and whether they can bind, engraft and even survive in vivo, is still not well understood, particularly for ASCs. Insights into the basic biology of administered ASCs, their biodistribution and their engraftment into damaged tissue, need to be understood to achieve clinical efficiency.</p><p>In this study, we evaluate the distribution and survival of ASCs in vivo when administered either systemically or locally using a standardized rat model of cutaneous wound repair under physiological conditions. Defining the location of administered ASCs in vivo is complicated by the lack of a single identifying marker. <italic>In vitro</italic>, ASCs are characterized by their co&#x02010;expression of a panel of surface markers; however, this is not possible to achieve in vivo.<xref rid="sct312607-bib-0030" ref-type="ref">30</xref> Molecular imaging offers the opportunity to track cells in intact organisms. Fluorescent reporters, such as green fluorescent protein (GFP), do not give a sufficiently strong signal to allow for efficient detection in vivo.<xref rid="sct312607-bib-0031" ref-type="ref">31</xref> A useful method for in vivo cell tracking in small animal models is bioluminescence imaging (BLI).<xref rid="sct312607-bib-0032" ref-type="ref">32</xref>, <xref rid="sct312607-bib-0033" ref-type="ref">33</xref>, <xref rid="sct312607-bib-0034" ref-type="ref">34</xref> BLI allows for non&#x02010;invasive imaging over a longer period and provides information on the viability<xref rid="sct312607-bib-0035" ref-type="ref">35</xref> of cells after transplantation. In this study, we used both BLI and GFP to enable in vivo tracking and post&#x02010;mortem identification, respectively.</p><p>The therapeutic potential of MSCs for cutaneous wound repair is being investigated in clinical trials for burn wounds,<xref rid="sct312607-bib-0036" ref-type="ref">36</xref>, <xref rid="sct312607-bib-0037" ref-type="ref">37</xref> diabetic foot ulcers,<xref rid="sct312607-bib-0037" ref-type="ref">37</xref>, <xref rid="sct312607-bib-0038" ref-type="ref">38</xref>, <xref rid="sct312607-bib-0039" ref-type="ref">39</xref> and critical limb ischemia.<xref rid="sct312607-bib-0040" ref-type="ref">40</xref>, <xref rid="sct312607-bib-0041" ref-type="ref">41</xref> Although preclinical and clinical studies using MSCs to enhance wound repair have shown positive outcomes, the benefit of MSC administration for wound healing has not yet been clearly established.<xref rid="sct312607-bib-0039" ref-type="ref">39</xref>, <xref rid="sct312607-bib-0042" ref-type="ref">42</xref>, <xref rid="sct312607-bib-0043" ref-type="ref">43</xref>, <xref rid="sct312607-bib-0044" ref-type="ref">44</xref>, <xref rid="sct312607-bib-0045" ref-type="ref">45</xref> As a secondary aim, we evaluated the effect of different modes of ASC administration on wound closure (WC) time. Information is provided on the biodistribution of ASCs and their tissue&#x02010;specific location post administration, as well as their effect on WC time. By understanding the fate of administered ASCs in response to injury, this study contributes to establishing the optimal mode of administration required in the clinical setting.</p></sec><sec id="sct312607-sec-0004"><label>2</label><title>MATERIALS AND METHODS</title><p>All animal experiments were approved by the local veterinary authority (authorization number GE/70/18).</p><sec id="sct312607-sec-0005"><label>2.1</label><title>Isolation and culture of primary rat ASCs</title><p>Female Wistar rats (&#x02265;10&#x02009;weeks old, &#x02265;250 g, <italic>n</italic> = 14, Janvier labs, Le Genest&#x02010;Saint&#x02010;Isle, France) were sacrificed by intraperitoneal (IP) injection of 150&#x02009;mg/kg sodium pentobarbital (Esconarkon AD US. VET., Streuli Pharma, Uznach, Switzerland) followed by excision of the inguinal subcutaneous adipose tissue. The stromal vascular fraction (SVF) was isolated as previously described and plated into a flask (NUNC, Kamstrupvej, Denmark) overnight at 37&#x000b0;C, 5% CO<sub>2</sub> in high glucose Dulbecco's Modified Eagle's Medium (DMEM 1&#x000d7;&#x02009;+ GlutaMAX, 4.5&#x02009;g/L glucose) supplemented with 20% fetal bovine serum (FBS) and 1% penicillin (10 000&#x02009;units/mL)&#x02010;streptomycin (10 000&#x02009;&#x003bc;g/mL; pen/strep; Gibco, Life Technologies, NY).<xref rid="sct312607-bib-0046" ref-type="ref">46</xref>, <xref rid="sct312607-bib-0047" ref-type="ref">47</xref>, <xref rid="sct312607-bib-0048" ref-type="ref">48</xref> After 24&#x02009;hours, non&#x02010;adherent cells were removed and the medium changed to complete growth medium (CGM, high glucose DMEM supplemented with 10% FBS and 1% pen/strep). Isolated cells were maintained in CGM (37&#x000b0;C, 5% CO<sub>2</sub>) until 80% confluent before being trypsinized. Cells were counted using the trypan blue dye exclusion assay<xref rid="sct312607-bib-0049" ref-type="ref">49</xref> and replated as passage 1 (P1) at a density of 5&#x02009;&#x000d7;&#x02009;10<sup>3</sup>&#x02009;cells/cm<sup>2</sup>.</p></sec><sec id="sct312607-sec-0006"><label>2.2</label><title>Transduction of ASCs</title><p>ASCs were transduced with a dual lentivector expressing GFP and firefly luciferase (Fluc), pCWX&#x02010;UBI&#x02010;Fluc&#x02010;PGK&#x02010;GFP. To determine the amount of lentivector needed to transduce greater than 70% of the cells, a multiplicity of infection (MOI) of 0, 2, 5, and 10 was tested (<italic>n</italic> = 4). A MOI of 10 was used for all further experiments. ASCs at P1/P2 were plated at 5&#x02009;&#x000d7;&#x02009;10<sup>3</sup>&#x02009;cells/cm<sup>2</sup> and allowed to adhere for 24&#x02009;hours. Lentivectors were added and the cultures left for 72&#x02009;hours before replacing the medium with fresh CGM. At 80% confluence, ASCs were trypsinized and an aliquot prepared for flow cytometric analysis (<italic>n</italic> = 6) as described below to determine their immunophenotype and the percentage of ASCs expressing GFP. To determine whether ASCs also expressed Fluc, 1&#x02009;&#x000d7;&#x02009;10<sup>5</sup> cells (<italic>n</italic> = 4) were plated in opaque flat bottom 96 well plates (Thermo Fisher Scientific, MA) in triplicate for 24&#x02009;hours before being imaged. Prior to imaging on the Xenogen IVIS spectrum in vivo imaging system, XenoLight <sc>d</sc>&#x02010;luciferin potassium salt (PerkinElmer, MA) in CGM was added at 150&#x02009;&#x003bc;g/mL. A photographic image of the plate followed by a luminescent image was recorded. For quantification, the intensity of the luminescent signal in each well was recorded as total flux (average photons per second, p/s).<xref rid="sct312607-bib-0050" ref-type="ref">50</xref> Images were analyzed using the Living Image 4.3.1 software (PerkinElmer).</p></sec><sec id="sct312607-sec-0007"><label>2.3</label><title>Immunophenotypic assessment by flow cytometry</title><p>Immunophenotyping was done on batches of isolated ASCs (<italic>n</italic> = 6) before and after transduction. The following monoclonal antibodies were used: Armenian hamster anti&#x02010;mouse/rat CD29 APC and IgG isotype control APC (1.25&#x02009;&#x003bc;L), mouse anti&#x02010;rat CD45 APC&#x02010;eFluor780 and IgG1 K isotype control APC&#x02010;eFluor780 (2 &#x003bc;L), mouse anti&#x02010;mouse/rat CD90.1 PE&#x02010;Cyanine 7 and IgG2a K isotype control PE&#x02010;Cyanine 7 (1 &#x003bc;L; eBioscience, ThermoFisher Scientific, MA), and mouse anti&#x02010;rat CD31 PE and IgG1, &#x003ba; isotype control PE (3 &#x003bc;L; BD Biosciences, CA). A 100&#x02009;&#x003bc;L cell aliquot containing at least 1&#x02009;&#x000d7;&#x02009;10<sup>5</sup>&#x02009;viable cells was incubated in the dark (15&#x02009;minutes, 37&#x000b0;C) after adding the four monoclonal antibodies (CD29, CD45, CD90, and CD31). Following incubation, cells were washed thrice with phosphate&#x02010;buffered saline (PBS, Gibco, Life Technologies) supplemented with 2% FBS, resuspended in PBS and then analyzed for antigen expression. A single tube containing unstained cells and a tube stained with the isotype controls were prepared for every sample to verify protocol settings and to serve as a negative control. Data were acquired on a Gallios flow cytometer (Beckman Coulter, California). To determine the percentage transduced cells, GFP expression was measured together with the surface markers. The viability stain 4&#x02032;,6&#x02010;diamidino&#x02010;2&#x02010;phenylindole (DAPI, Beckman Coulter) was included to allow analysis only of living cells. Data analysis was performed using Kaluza Flow Cytometry analysis software 1.3 (Beckman Coulter).</p></sec><sec id="sct312607-sec-0008"><label>2.4</label><title>In vitro differentiation capacity of ASCs</title><p>To confirm the differentiation capacity of non&#x02010;transduced and transduced ASCs, they were induced to differentiate along adipogenic and osteogenic lineages using specific induction media. Cell cultures were trypsinized, counted, phenotypically characterized, and replated into 24&#x02010;well microplates (iBidi, Martinsried, Germany) at 5&#x02009;&#x000d7;&#x02009;10<sup>3</sup>&#x02009;cells/cm<sup>2</sup>. Adipogenic induction medium consisted of CGM supplemented with 0.1 &#x003bc;M dexamethasone, 0.5&#x02009;mM 3&#x02010;isobutyl&#x02010;methylxanthine (IBMX), 56&#x02009;&#x003bc;M indomethacin, and 10 &#x003bc;M insulin (human recombinant zinc, Gibco, Life Technologies). Osteogenic induction medium consisted of CGM supplemented with 10 nM dexamethasone, 50&#x02009;&#x003bc;M ascorbate&#x02010;2&#x02010;phosphate, and 10&#x02009;mM &#x003b2;&#x02010;glycerophosphate. Stock solutions of dexamethasone and indomethacin were prepared in ethanol, whereas IBMX stock solutions were prepared in dimethyl sulfoxide (DMSO). Non&#x02010;induced control cells were maintained in CGM. After 14 or 21&#x02009;days in either induction medium or CGM, cultures were fixed (60&#x02009;minutes) using 4% (vol/vol) formaldehyde solution. The accumulation of lipid droplets was detected by staining the cultures with a 0.3% oil red O (ORO, 10 minutes, RT) after 14&#x02009;days of induction. Mineralization was detected by staining the cultures with 2% alizarin red S (ARS, pH 4.1, 30&#x02009;minutes, RT) 21&#x02009;days after induction. Both the differentiated and control cells were stained. Images were acquired using an Eclipse Ts2&#x02010;FL inverted microscope fitted with a DS&#x02010;Fi3 camera and DS&#x02010;L4 control unit (Nikon corporation, Tokyo, Japan). Dexamethasone, IBMX, indomethacin, ascorbate&#x02010;2&#x02010;phosphate, &#x003b2;&#x02010;glycerophosphate, DMSO, formaldehyde solution, ORO, and ARS were all from Sigma&#x02013;Aldrich Chemie, Steinheim, Germany.</p></sec><sec id="sct312607-sec-0009"><label>2.5</label><title>In vivo rat model and ASC administration</title><p>Female Wistar rats (&#x02265;10&#x02009;weeks old, &#x02265;250 g) were fed a standard diet and given water ad libitum. For all procedures, animals were anesthetized by inhalation of 3%&#x02013;5% isoflurane (Baxter AG, Opfikon, Switzerland). Wounds on the dorsal aspect of the hind paws were created bilaterally by removing a full&#x02010;thickness skin area of 1.2 cm&#x02009;&#x000d7;&#x02009;0.8 cm. One day after wounding, 27 animals received a single injection of 2&#x02009;&#x000d7;&#x02009;10<sup>6</sup> Fluc&#x02010;GFP positive ASCs systemically into the tail vein and 21 animals locally with 2&#x02009;&#x000d7;&#x02009;10<sup>5</sup> Fluc&#x02010;GFP positive ASCs in total, split between two sides of each wound (proximally at the ankle and distally at the toes). One day post wound creation was chosen for administration so that the inflammatory phase would already be initiated to attract the ASCs. Moreover, by postponing the injection of the ASCs, we avoided the probability of the cells being washed away due to bleeding immediately after wound creation. For each experiment, ASCs isolated from two rats were cultured and transduced separately before being pooled for either systemic or local administration. Nine control animals received a single injection of sodium chloride (NaCl) systemically into the tail vein. Both feet were evaluated separately for each animal. All animals received a semi&#x02010;occlusive wound dressing that was changed at every evaluated time&#x02010;point (Figure <xref rid="sct312607-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="sct312607-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Study design. For the rat model of wound repair under physiological conditions, full&#x02010;thickness wounds were created bilaterally on the dorsal aspect of the hind paws. One day after wounding, animals were treated either with a single injection of 2&#x02009;&#x000d7;&#x02009;10<sup>6</sup> ASCs systemically into the tail vein or locally with 2&#x02009;&#x000d7;&#x02009;10<sup>5</sup> ASCs in total, split into two sides of each wound. Control animals received a single injection of NaCl systemically into the tail vein. Animals were followed by digital photography and bioluminescence imaging and sacrificed for the collection of tissues for histology at 3 hours, 24&#x02009;hours, 48&#x02009;hours, 72&#x02009;hours, 7&#x02009;days, and 15&#x02009;days post&#x02010;treatment and at wound closure. Abbreviations: ASCs, adipose&#x02010;derived mesenchymal stromal cells; Fluc, firefly luciferase; GFP, green fluorescent protein</p></caption><graphic id="nlm-graphic-3" xlink:href="SCT3-9-131-g001"/></fig></sec><sec id="sct312607-sec-0010"><label>2.6</label><title>In vivo tracking of administered ASCs by BLI</title><p>Animals treated systemically and locally were imaged by BLI at 3 hours, 24&#x02009;hours, 48&#x02009;hours, 72&#x02009;hours, d7, d15, and at WC. Prior to imaging, animals received a single IP injection of firefly <sc>d</sc>&#x02010;luciferin potassium salt (150&#x02009;mg/kg body weight) prepared in PBS. After 20&#x02009;minutes, imaging was performed using the Xenogen IVIS spectrum in vivo imaging system with an XGI&#x02010;8 Gas anesthesia system. A photographic image of the animal followed by a luminescent image was recorded by the camera. To exclude background luminescence emitted from the ASCs themselves, a single animal that received non&#x02010;transduced ASCs at the same concentration and mode of administration was included as a control for every BLI experiment. For quantification, three regions of interest (ROI) were manually selected to quantify the luminescent signal in the lung (ROI 1) and the wound area (right foot, ROI 2; left foot ROI 3). The ROI size was kept constant between animals and the intensity of the luminescent signal was recorded as total flux (average photons per second, p/s).<xref rid="sct312607-bib-0050" ref-type="ref">50</xref> All images were analyzed using the Living Image 4.3.1 software.</p></sec><sec id="sct312607-sec-0011"><label>2.7</label><title>Histological assessment of GFP&#x02010;positive ASCs</title><p>For systemically and locally treated groups, the lungs and the entire foot with the wound and the surrounding uninjured skin were harvested at 3 hours, 24&#x02009;hours, 72&#x02009;hours, day 7 (d7), d15, and at WC and fixed in 4% formaldehyde (Merck Millipore, Massachusetts). After fixation, the wound area along with the uninjured surrounding skin was removed from the foot and processed for paraffin embedding (Figure <xref rid="sct312607-fig-0002" ref-type="fig">2</xref>A). The lungs were kept whole and processed for paraffin embedding.</p><fig fig-type="Figure" xml:lang="en" id="sct312607-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Schematic showing how the locally treated feet samples were processed, sectioned, stained for IHC, and analyzed. A, The feet were collected, fixed, and then processed for embedding in paraffin blocks. B, Each block, consisting of a single sample, was sectioned at five different levels into the FFPE tissue at levels 0, 1, 2, 3, and 4. IHC was performed to detect GFP<sup>+</sup> ASCs (red staining, AEC). C, The sections were analyzed to quantify the area of positive staining using image processing software. Each section was divided into six zones, where zone 0 = ASCs 1 (ASC injection site 1), zone 1, 2, 02, and 01 = wound divided into four equal regions, and zone 00 = ASCs 2 (ASC injection site 2). The summed area of positive staining in each of the different zones over the five levels and for both tissues was quantified to obtain a value per foot. This value was normalized to the summed area for all the levels, zones, and tissues per foot. Finally, the percentage of positive staining was recorded as four sites: the injection site (sum of zone 0 and 00), the outer wound site (sum of zone 1 and 01), the inner wound site (sum of zone 2 and 02), and the wound site (sum of zone 1, 2, 02, and 01). Abbreviations: IHC, immunohistochemistry; FFPE, formaldehyde fixed paraffin embedded; ASCs, adipose&#x02010;derived mesenchymal stromal cells; AEC, aminoethyl carbazole; GFP, green fluorescent protein</p></caption><graphic id="nlm-graphic-5" xlink:href="SCT3-9-131-g002"/></fig><p>For immunohistochemistry (IHC), 5 &#x003bc;m thick transverse tissue sections were cut from formaldehyde fixed paraffin embedded (FFPE) samples and analyzed using an anti&#x02010;GFP D5.1 XP rabbit monoclonal antibody (Cell Signaling Technology Inc., Massachusetts). A single section of the lungs and feet was analyzed for the systemically treated group. For the locally treated group, a single section of the lungs was analyzed. However, for the feet, tissue sections were analyzed at five different levels into the sample block (Figure <xref rid="sct312607-fig-0002" ref-type="fig">2</xref>B). Antigen retrieval was performed using the Pascal Citrate system (DakoCytomation, Hamburg, Germany). After blocking endogenous peroxidases with Dako REAL peroxidase blocking solution (Dako, Hamburg, Germany), sections were incubated with the primary GFP rabbit monoclonal antibody (1/100 dilution; 70&#x02009;ng/mL) for 1 hour at RT, and then with a horseradish peroxidase&#x02010;(HRP) complex secondary antibody (Dako EnVision+System&#x02010;HRP, Dako, Hamburg, Germany) for 30&#x02009;minutes at RT. Sections were developed with aminoethyl carbazole (AEC) for 10 minutes (BioGenex, California) and counterstained with hematoxylin for 1&#x02013;2 minutes. Sections were scanned using a Zeiss Axio Scan Z1 Brightfield scanner (Carl Zeiss, AG, Germany) at &#x000d7;20 magnification.</p><p>In the locally treated group, we determined the precise location of the administered GFP positive ASCs over time. To do so, each section from the five different levels for each FFPE sample was divided into six zones: zone 0 = ASCs injection site on the border of wound; zone 00 = ASCs injection site on the other border of wound; and the wound itself divided in four zones: zone 1, 2, 02, and 01 (Figure <xref rid="sct312607-fig-0002" ref-type="fig">2</xref>C). The location of ASCs in the wound was expressed as a percentage area of GFP staining for a given zone and foot for each time&#x02010;point. Using these zones, the percentage area of GFP staining was recorded at 24&#x02009;hours, 48&#x02009;hours, 72&#x02009;hours, and d7 as four sites, summing up all the five levels together as a single value per foot. The injection site was determined as the sum of zone 0 and 00 and the wound site as the sum of zone 1, 2, 02, and 01. More precisely, the outer wound site was defined as the sum of zone 1 and 01, and the inner wound site as the sum of zone 2 and 02 (Figure <xref rid="sct312607-fig-0002" ref-type="fig">2</xref>C). In total, three animals each with two feet per animal per timepoint were analyzed (<italic>n</italic> = 6). All images were processed using Definiens 2.7 software (Munich, Germany). Results were compiled in the MATLAB 2018b (MathWorks, MA) and the graphs plotted using either MATLAB or Prism (GraphPad, CA).</p></sec><sec id="sct312607-sec-0012"><label>2.8</label><title>Assessment of wound repair</title><p>The time taken to complete WC and the contraction/re&#x02010;epithelialization ratio were assessed as previously described.<xref rid="sct312607-bib-0051" ref-type="ref">51</xref> Wound size was documented immediately after wounding and until WC by digital photography at a constant distance with a ruler next to the wound for scaling. The photos were analyzed using ImageJ 1.48v software<xref rid="sct312607-bib-0052" ref-type="ref">52</xref> to determine the wound area. At complete WC (ie, full epithelialization), the surface of the scar with hairless skin was measured and considered to correspond to the area of the wound that had healed by re&#x02010;epithelialization. The surface of the wound that healed by contraction was estimated by subtraction of the epithelialized surface from the original wound area measured at day 0 (Figure <xref rid="sct312607-fig-0007" ref-type="fig">7</xref>C).</p></sec><sec id="sct312607-sec-0013"><label>2.9</label><title>Statistical analysis</title><p>Data are expressed as means&#x02009;&#x000b1;&#x02009;SD. Statistical analyses were carried out using Prism (GraphPad, California). A Mann&#x02010;Whitney test was used to assess differences between data means. Grouped data were assessed by performing multiple <italic>t</italic> tests using the Holm&#x02010;Sidak method. A <italic>P</italic> value of &#x0003c;&#x02212;.05 between data means was considered significant.</p></sec></sec><sec id="sct312607-sec-0014"><label>3</label><title>RESULTS</title><sec id="sct312607-sec-0015"><label>3.1</label><title>Transduced ASCs maintained their immunophenotype and differentiation capacity</title><p>Isolated ASCs were plastic adherent in culture and displayed a typical fibroblast morphology (Figure <xref rid="sct312607-fig-0003" ref-type="fig">3</xref>A). Evaluation of GFP expression established that the lowest MOI needed to transduce at least 70% of the ASCs was 10 (Figure <xref rid="sct312607-fig-0003" ref-type="fig">3</xref>B). As the Fluc gene is under the control of a different promoter than the GFP gene, we determined whether our newly transduced cells also expressed Fluc. When <sc>d</sc>&#x02010;luciferin, the molecular substrate for firefly luciferase, was added to the transduced cells <italic>in vitro</italic>, emitted luminescence was detected. An increase in luminescence, quantified as total flux, was observed with increasing MOIs (Figure <xref rid="sct312607-fig-0003" ref-type="fig">3</xref>C), confirming that the cells were successfully transduced to express not only GFP but also Fluc. GFP fluorescence was visible in both the nucleus and the cytoplasm of the transduced cells (Figure <xref rid="sct312607-fig-0003" ref-type="fig">3</xref>D). The percentage cells expressing GFP was also maintained <italic>in vitro</italic> over different passages showing that greater than 94% of ASCs expressed GFP (Figure <xref rid="sct312607-fig-0003" ref-type="fig">3</xref>E). Over the three passages evaluated, both transduced and non&#x02010;transduced ASCs maintained a typical MSC immunophenotype, being strongly positive for CD90 and CD29 and negative for CD45 and CD31 (Figure <xref rid="sct312607-fig-0003" ref-type="fig">3</xref>F). When treated with control medium, the non&#x02010;transduced and transduced ASCs showed no spontaneous differentiation as seen by the absence of intracellular lipid droplets or calcium deposition. With induction media, the non&#x02010;transduced and transduced ASCs showed comparable levels of intracellular lipid droplet formation, confirming that adipogenesis had occurred. In addition, sparsely distributed cell clumps or nodules that stained positive for ARS were observed, confirming that osteogenesis had occurred (Figure <xref rid="sct312607-fig-0003" ref-type="fig">3</xref>G,H).</p><fig fig-type="Figure" xml:lang="en" id="sct312607-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Characterization of non&#x02010;transduced and transduced rat ASCs. A, Brightfield image of non&#x02010;transduced ASCs in culture. B, GFP expression of transduced ASCs measured by flow cytometry with increasing MOIs as well as, C, luminescence measured by <italic>in vitro</italic> bioluminescence imaging. D, A fluorescent image of transduced ASCs (MOI 10) expressing GFP. E, GFP expression by ASCs transduced with an MOI of 10 in culture from passage 1 to 3 (P1 to P3). F, MSC immunophenotype (CD90+, CD29+, CD45&#x02212;, CD31&#x02212;) for transduced and non&#x02010;transduced ASCs. G, Qualitative assessment of adipogenesis for (i, ii) non&#x02010;induced control ASCs, (iii, iv) induced ASCs, (i, iii) non&#x02010;transduced ASCs, and (ii, iv) transduced ASCs all stained for oil red O to identify lipid droplet formation after 14&#x02009;days in induction medium. H, Qualitative assessment of osteogenesis for (i, ii) non&#x02010;induced control ASCs, (iii, iv) induced ASCs, (i, iii) non&#x02010;transduced ASCs, and (ii, iv) transduced ASCs all stained for alizarin red S to confirm calcium deposition after 21&#x02009;days in induction medium. Abbreviations: ASCs, adipose&#x02010;derived mesenchymal stromal cells; GFP, green fluorescent protein; MOI, mode of infection</p></caption><graphic id="nlm-graphic-7" xlink:href="SCT3-9-131-g003"/></fig></sec><sec id="sct312607-sec-0016"><label>3.2</label><title>Systemically administered ASCs were filtered out in the lungs without homing to the wound site</title><p>Following systemic administration, the luminescent signal was detectable in the lungs 3&#x02009;hours post administration (Figure <xref rid="sct312607-fig-0004" ref-type="fig">4</xref>A), and a decrease in signal was observed from 3 to 72&#x02009;hours (Figure <xref rid="sct312607-fig-0004" ref-type="fig">4</xref>B). No signal was detected in the wound on the feet. No signal was detectable in other organs when ASCs were injected either systemically or locally. At the histological level, systemically administered GFP positive ASCs were easily detected in the lungs of injected animals at 3 and 24&#x02009;hours, moderately detectable at 48&#x02009;hours, barely detectable at 72&#x02009;hours, and undetectable from day 7 (Figure <xref rid="sct312607-fig-0005" ref-type="fig">5</xref>A). No GFP staining was detected in the wounds on the feet (Figure <xref rid="sct312607-fig-0005" ref-type="fig">5</xref>B) or in other non&#x02010;target organs such as the spleen, heart, kidney, and liver at any of the time&#x02010;points (data not shown).</p><fig fig-type="Figure" xml:lang="en" id="sct312607-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>In vivo tracking of systemically and locally administered Fluc&#x02010;GFP<sup>+</sup> ASCs during wound repair under physiological conditions. ASCs transduced to express both Fluc and GFP were injected either systemically (2&#x02009;&#x000d7;&#x02009;10<sup>6</sup> ASCs) via the tail vein or locally (2&#x02009;&#x000d7;&#x02009;10<sup>5</sup> ASCs) into two sides around each wound in rats 24&#x02009;hours after bilateral full&#x02010;thickness wounds had been created on the dorsal aspect of the feet. Prior to imaging, rats received 150&#x02009;mg/kg body weight of <sc>d</sc>&#x02010;luciferin. A single representative image of a, A, systemically and, C, locally treated rat and BLI control rat (received non&#x02010;transduced cells) imaged at 3, 24, 48, and 72&#x02009;hours. An enlarged area of the feet of the treated animals is also shown. The luminescence signal in the, B, lungs of systemically treated and the, D, feet of locally treated rats was quantified and recorded as total flux over time (gray bars). Data shown as mean&#x02009;&#x000b1;&#x02009;SD. Abbreviations: ASCs, adipose&#x02010;derived mesenchymal stromal cells; BLI, bioluminescence imaging; Fluc, firefly luciferase; GFP, green fluorescent protein</p></caption><graphic id="nlm-graphic-9" xlink:href="SCT3-9-131-g004"/></fig><fig fig-type="Figure" xml:lang="en" id="sct312607-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Detection of systemically administered ASCs during physiological wound repair by IHC. ASCs transduced to express both Fluc and GFP were injected systemically (2&#x02009;&#x000d7;&#x02009;10<sup>6</sup> ASCs) via the tail vein in rats 24&#x02009;hours after bilateral full&#x02010;thickness wounds had been created on the dorsal part of the feet. Lungs and feet were processed for IHC to detect GFP positive ASCs (red staining, AEC). A, Images of the lung at 3 hours, 24&#x02009;hours, 48&#x02009;hours, 72&#x02009;hours, and at d7 are shown. The right panel is a magnified view of the black rectangle showing positively stained ASCs. B, A representative image of the feet is shown where panel (i) is a magnified view of the epithelium lip and (ii) of the wound bed. Tissue sections were counterstained with hematoxylin (blue staining). Abbreviations: AEC, aminoethyl carbazole; ASCs, adipose&#x02010;derived mesenchymal stromal cells; Fluc, firefly luciferase; GFP, green fluorescent protein; IHC, immunohistochemistry</p></caption><graphic id="nlm-graphic-11" xlink:href="SCT3-9-131-g005"/></fig></sec><sec id="sct312607-sec-0017"><label>3.3</label><title>Locally administered ASCs survived and became distributed within the wound bed</title><p>When administered locally, the luminescent signal remained strongly detectable for 7&#x02009;days at the injection site (Figure <xref rid="sct312607-fig-0004" ref-type="fig">4</xref>C,D) with no signal being detectable in the lungs (Figure <xref rid="sct312607-fig-0004" ref-type="fig">4</xref>C). Interestingly, histological analysis of animals that received ASCs locally revealed that GFP staining was not restricted to the ASC injection sites. When 15% of the wound was analyzed as represented by the five levels at which sections were assessed, GFP positive ASCs became distributed within the wound bed as early as 24&#x02009;hours after administration (Figure <xref rid="sct312607-fig-0006" ref-type="fig">6</xref>A&#x02010;E). At the injection site (zone 0, 00), ASCs remained detectable until d7 (Figure <xref rid="sct312607-fig-0006" ref-type="fig">6</xref>B). Within the wound bed (zone 1, 2, 02, and 01), a significant increase in GFP staining was found from 24 to 72&#x02009;hours (0.039% vs 0.057%, <italic>P</italic> = .0087) with no significant change on d7 (Figure <xref rid="sct312607-fig-0006" ref-type="fig">6</xref>C). This significant increase in GFP staining from 24 to 72&#x02009;hours was found in both the outer (zone 1 and 01; 0.031% vs 0.047%, <italic>P</italic> = .0043) and inner wound sites (zones 2 and 02; 0.010% vs 0.033%, <italic>P</italic> = .0173). However, even though the increase was significant in the inner wound site between 24 and 72&#x02009;hours (0.013% vs 0.043%, <italic>P</italic> = .0173), and 48 and 72&#x02009;hours (0.014% vs 0.043%, <italic>P</italic> = .0152), GFP staining remained lower than in the outer wound site. The outer wound site showed no significant changes in GFP staining from 72&#x02009;hours to d7, whereas in the inner wound site a significant decrease was found from 72&#x02009;hours to d7 (0.043% vs 0.010%, <italic>P</italic> = .0152; Figure <xref rid="sct312607-fig-0006" ref-type="fig">6</xref>D,E).</p><fig fig-type="Figure" xml:lang="en" id="sct312607-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Locally administered ASCs were detected within the wound over time. A total of 2&#x02009;&#x000d7;&#x02009;10<sup>5</sup> ASCs transduced to express both Fluc and GFP were injected locally into two sides around each wound 24&#x02009;hours after bilateral full&#x02010;thickness wounds had been created on the dorsal part of the feet. A, a single tissue section from the wound in the feet 24&#x02009;hours post injection stained for GFP (red staining, AEC). Magnified images of the (i) injection site, (ii) outer wound site, and (iii) inner wound site. The distribution of ASCs at the different sites of the wound was quantified over time showing, B, The injection site, outer, and inner wound site in a single graph, C, the wound site (zone 1, 2, 02, 01), D, the outer wound site (zone 1, 01), and, E, the inner wound site (zone 2, 02). Data shown as mean&#x02009;&#x000b1;&#x02009;SD. Significance is shown where *<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05; **<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01. Abbreviations: AEC, aminoethyl carbazole; ASCs, adipose&#x02010;derived mesenchymal stromal cells; E, epithelium; F, hair follicles; Fluc, firefly luciferase; G, granulation tissue; GFP, green fluorescent protein; T, tendons</p></caption><graphic id="nlm-graphic-13" xlink:href="SCT3-9-131-g006"/></fig></sec><sec id="sct312607-sec-0018"><label>3.4</label><title>Both systemic and local administration lead to enhanced WC time</title><p>As a secondary aim, we determined whether ASC administration might lead to a change in WC time. In comparison to a total WC time of 26&#x02009;days in the NaCl treated group, WC was significantly faster when ASCs were administered locally (19&#x02009;days, <italic>P</italic> = .0108) and systemically (21&#x02009;days, <italic>P</italic>&#x02009;&#x0003c;&#x02009;.0024; Figure <xref rid="sct312607-fig-0007" ref-type="fig">7</xref>A). Both ASC treated groups showed an increase in wound size after 3&#x02009;days before reducing in size. At 7&#x02009;days, wound size was significantly smaller in the control group compared with the ASC systemically treated group (<italic>P</italic> = .03013); however, this was not maintained. Comparison of ASC treated groups showed significantly smaller wounds with local treatment at 10&#x02009;days (<italic>P</italic> = .0102; Figure <xref rid="sct312607-fig-0007" ref-type="fig">7</xref>B). Further investigation into whether WC was favored more by contraction (C) or epithelialization (E) showed a significant decrease in C and an increase in E in both the locally (C: 56%, E: 44%) and systemically treated groups (C: 62%, E: 38%) compared with the NaCl treated group (C: 73%, E: 27%; <italic>P</italic> = .0022 and <italic>P</italic> = .0002, respectively; Figure <xref rid="sct312607-fig-0007" ref-type="fig">7</xref>C,D).</p><fig fig-type="Figure" xml:lang="en" id="sct312607-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Wound closure assessment in animals treated locally and systemically. Animals were treated with Fluc&#x02010;GFP<sup>+</sup> ASCs, injected locally into two sides around each wound (2&#x02009;&#x000d7;&#x02009;10<sup>5</sup> ASCs) or systemically (2&#x02009;&#x000d7;&#x02009;10<sup>6</sup> ASCs) into the tail vein. Control animals were treated systemically with NaCl. A, Time taken for complete wound closure after treatment. B, Wound area over time after treatment normalized to the original wound area on day 0. C, Calculation of the contraction/epithelialization ratio: the area of the wound is measured directly after surgery. At the day of complete wound closure, the area of hairless skin is measured and considered to correspond to the area of the wound closed by epithelialization. Subtracting the area of epithelialization from the initial wound area provides the area closed by contraction. D, Wound area closed by contraction and by epithelialization. Data shown as mean&#x02009;&#x000b1;&#x02009;SD. Significance is shown where *<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05; **<italic>P</italic>&#x02009;&#x0003c;&#x02009;.01; ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001. Abbreviations: ASCs, adipose&#x02010;derived mesenchymal stromal cells; Fluc, firefly luciferase; GFP, green fluorescent protein</p></caption><graphic id="nlm-graphic-15" xlink:href="SCT3-9-131-g007"/></fig></sec></sec><sec id="sct312607-sec-0019"><label>4</label><title>DISCUSSION</title><p>Interest in the use of systemically applied MSCs for therapeutic purposes was popularized by the group of Horwitz. Their studies in children with osteogenesis imperfecta demonstrated that allogeneic BM&#x02010;MSCs injected systemically engrafted in the bone and BM stroma, and led to improvement in growth rates of the children as well as their ability to synthesize intact bone.<xref rid="sct312607-bib-0053" ref-type="ref">53</xref>, <xref rid="sct312607-bib-0054" ref-type="ref">54</xref>, <xref rid="sct312607-bib-0055" ref-type="ref">55</xref> A study in rats showed that BM&#x02010;MSCs administered either systemically or locally were able to promote fracture healing.<xref rid="sct312607-bib-0056" ref-type="ref">56</xref> Although the proportion of BM&#x02010;MSCs that migrated into the injury sites following systemic injection was significantly less compared with locally injected BM&#x02010;MSCs, both groups promoted fracture healing equally well, indicating that systemically injected BM&#x02010;MSCs may have contributed in an indirect manner.<xref rid="sct312607-bib-0056" ref-type="ref">56</xref>
+</p><p>We set out to compare the fate and distribution of systemically and locally administered ASCs in an in vivo model of physiological wound repair. The first concern with using transduced ASCs was that this could change their characteristics. Two parameters currently used to identify MSCs were assessed, namely their immunophenotype and differentiation capacity.<xref rid="sct312607-bib-0030" ref-type="ref">30</xref>, <xref rid="sct312607-bib-0057" ref-type="ref">57</xref> Transduction of ASCs did not change their immunophenotype or differentiation capacity compared with non&#x02010;transduced ASCs and transduced ASCs maintained GFP expression <italic>in vitro</italic> over several passages. This confirmed previous studies showing that MSCs transduced to express GFP<xref rid="sct312607-bib-0058" ref-type="ref">58</xref>, <xref rid="sct312607-bib-0059" ref-type="ref">59</xref> or Fluc<xref rid="sct312607-bib-0033" ref-type="ref">33</xref> maintain their characteristics <italic>in vitro</italic>. Here, we report that by using a single lentivector, both GFP and Fluc can be used in combination without changing the characteristics of ASCs.</p><p>Systemically administered ASCs showed no detectable homing to the site of injury. We suggest two reasons for this: first, ASCs could not bypass entrapment in the lung and re&#x02010;enter the circulation; and second, the inflammatory response from the site of injury was not strong enough to activate ASC homing during physiological wound repair. We postulate that pulmonary passage was the major reason for the lack of detectable ASC homing. Entrapment in the lungs has been a recurring problem with systemic administration of MSCs.<xref rid="sct312607-bib-0060" ref-type="ref">60</xref>, <xref rid="sct312607-bib-0061" ref-type="ref">61</xref> Of note, lung entrapment in our rat model was not associated with any visible signs of distress or deterioration of health.</p><p>To overcome this pulmonary first&#x02010;pass effect and to ensure that administered cells reach the wound bed at the injured site in a timely manner and in sufficient numbers, alternative routes of administration have been suggested such as regional or local injection.<xref rid="sct312607-bib-0027" ref-type="ref">27</xref>, <xref rid="sct312607-bib-0029" ref-type="ref">29</xref>, <xref rid="sct312607-bib-0055" ref-type="ref">55</xref> We investigated the fate of locally administered ASCs and found that they remained viable at the injection sites for 7&#x02009;days. This is in line with another study reporting that rat BM&#x02010;MSCs transplanted into traumatized skeletal muscle could be tracked in vivo until day 7.<xref rid="sct312607-bib-0033" ref-type="ref">33</xref> At the histological level, we found a significant increase in ASCs localized within the wound as opposed to the adjacent injection sites from 24 to 72&#x02009;hours. This localization of ASCs could be explained by active ASC migration, ASC proliferation, or the passive displacement from the injection site into the wound bed as the wound contracts to bring the wound edges closer together. Over time, more ASCs were found in the outer wound site close to the newly extending epithelium lip at all time&#x02010;points evaluated, with the greatest number of ASCs being detected at 72&#x02009;hours. In the inner wound site, increased numbers of ASCs were detected at 72&#x02009;hours. Our data suggest that locally administered ASC have the capability to migrate within the wound bed.</p><p>Wounds can close by two mechanisms, contraction, or re&#x02010;epithelialization. Contraction occurs predominately as a rapid repair mechanism, whereas re&#x02010;epithelialization takes longer and is closer to regeneration. Our animal model allowed for measurements of wound size, time to complete healing, and ratios of WC by contraction and epithelialization. Interestingly, an enhancement in WC time was found with ASC treatment independently of the route of administration. Both administration routes resulted in more rapid WC by re&#x02010;epithelialization rather than contraction as compared with the control group. The enhancement of WC by re&#x02010;epithelialization rather than contraction is of clinical relevance, as it can have a significant impact on the quality of the scar by decreasing scar retraction.</p><p>The disappearance of transplanted cells and low engraftment at the injured site while still enhancing WC time suggests that ASCs play a role as initiators of wound repair rather than effectors.<xref rid="sct312607-bib-0062" ref-type="ref">62</xref> This confirms findings from a study using a mouse model of acute acid&#x02010;burn injury.<xref rid="sct312607-bib-0063" ref-type="ref">63</xref> The authors also found that despite short&#x02010;lived survival of locally transplanted ASCs, WC was enhanced. Another study found that intravenous human MSCs improved myocardial infarction in mice without significant engraftment through the secretion of anti&#x02010;inflammatory protein TSG&#x02010;6.<xref rid="sct312607-bib-0064" ref-type="ref">64</xref> The mechanism of wound repair by MSCs has been suggested to stem from their paracrine signaling,<xref rid="sct312607-bib-0065" ref-type="ref">65</xref> which mobilizes the host cells to promote wound repair. This leads us to ask; how do MSCs filtered out in the lung influence wound repair mechanisms that are located distally? It has been shown that MSCs secrete various molecules that are modulators of cellular growth, replication, differentiation, and adherence.<xref rid="sct312607-bib-0066" ref-type="ref">66</xref>, <xref rid="sct312607-bib-0067" ref-type="ref">67</xref> The MSC (BM&#x02010;MSCs and ASCs) secretome consists of soluble factors, such as cytokines, chemokines and growth factors, and proteins, lipids, and nucleic acids that are released via extracellular vesicles.<xref rid="sct312607-bib-0068" ref-type="ref">68</xref>, <xref rid="sct312607-bib-0069" ref-type="ref">69</xref> A subset of these extracellular vesicles, referred to as exosomes, are believed to be released by MSCs trapped in the lungs in response to injury cues where they can travel via the circulation to the injured site to exert their therapeutic effects.<xref rid="sct312607-bib-0055" ref-type="ref">55</xref>, <xref rid="sct312607-bib-0070" ref-type="ref">70</xref> MSC&#x02010;derived extracellular vesicles have been suggested to be partially responsible for this paracrine effect.<xref rid="sct312607-bib-0071" ref-type="ref">71</xref> It has been shown that systemically administered MSC exosomes attenuated lesion size and improved functional recovery post spinal cord injury.<xref rid="sct312607-bib-0072" ref-type="ref">72</xref> A study that examined the role of MSC exosomes in wound healing showed that these structures were able to induce proliferation and migration of fibroblasts as well as enhance angiogenesis <italic>in vitro</italic>.<xref rid="sct312607-bib-0073" ref-type="ref">73</xref>
+</p><p>This study confirms that systemically injected ASCs behave in a manner similar to BM&#x02010;MSCs, being able to enhance WC despite showing intrapulmonary trapping and limited homing to the wound area. We provide evidence of migration of locally injected ASCs into the wound bed. We suggest that the therapeutic effect of ASCs is due to their paracrine signaling. Clinical studies using ASCs for cutaneous non&#x02010;healing/chronic wounds are still limited. Instead, animal models are used. The local administration of ASCs for wound repair is favored and is being evaluated for various injuries with/without scaffolds in animal studies of tendon repair,<xref rid="sct312607-bib-0074" ref-type="ref">74</xref>, <xref rid="sct312607-bib-0075" ref-type="ref">75</xref>, <xref rid="sct312607-bib-0076" ref-type="ref">76</xref> cutaneous non&#x02010;healing wounds,<xref rid="sct312607-bib-0077" ref-type="ref">77</xref>, <xref rid="sct312607-bib-0078" ref-type="ref">78</xref>, <xref rid="sct312607-bib-0079" ref-type="ref">79</xref>, <xref rid="sct312607-bib-0080" ref-type="ref">80</xref>, <xref rid="sct312607-bib-0081" ref-type="ref">81</xref>, <xref rid="sct312607-bib-0082" ref-type="ref">82</xref>, <xref rid="sct312607-bib-0083" ref-type="ref">83</xref> burn injuries,<xref rid="sct312607-bib-0084" ref-type="ref">84</xref> spinal cord injuries,<xref rid="sct312607-bib-0085" ref-type="ref">85</xref>, <xref rid="sct312607-bib-0086" ref-type="ref">86</xref> and for bone defects,<xref rid="sct312607-bib-0087" ref-type="ref">87</xref> among other indications. In the field of plastic and reconstructive surgery, since the discovery of ASCs within adipose tissue,<xref rid="sct312607-bib-0004" ref-type="ref">4</xref>, <xref rid="sct312607-bib-0088" ref-type="ref">88</xref> the addition of both the SVF and ASCs have been investigated in order to overcome the re&#x02010;absorption of fat grafts.<xref rid="sct312607-bib-0089" ref-type="ref">89</xref>, <xref rid="sct312607-bib-0090" ref-type="ref">90</xref>, <xref rid="sct312607-bib-0091" ref-type="ref">91</xref>
+</p><p>A limitation of our work could be the underestimation of ASC homing and engraftment because of our detection techniques and experimental setup. Although BLI allows for in vivo tracking, single cells and luminescence in deep organs cannot be detected. To overcome this, we included GFP staining to detect ASCs at a single cell level and in non&#x02010;target organs. The animal model may have influenced the experimental outcome since Wistar rats are outbred and thus ASCs were isogenic rather than autologous. The &#x0201c;foreign&#x0201d; or isogenic ASCs might have primed the immune system and enabled a faster response and healing effect. In future studies, the use of alterative systemic routes such as intra&#x02010;arterial to overcome the pulmonary first&#x02010;pass effect, or treatment to prevent such filtering for example, by vasodilation, should be considered.<xref rid="sct312607-bib-0055" ref-type="ref">55</xref> Another avenue to explore is the repeated administration of systemic ASCs. Fischer and colleagues hypothesized that the increase in pulmonary passage seen with their study was due to saturation of receptors during the first treatment, allowing more cells to pass the vasculature with the second treatment.<xref rid="sct312607-bib-0061" ref-type="ref">61</xref> For local administration, the use of scaffolds or dressings could enable longer viability and more directed administration of ASCs into the wound bed. The lentiviral transduction of ASCs could alter properties that we were unable to detect. This could be a limitation for acceptance by regulatory authorities as proof of principle for advancing to phase I clinical trials. More in depth characterization of ASCs is needed to confirm that transduction does not affect their characteristics in vivo.</p><p>In this study, we provide data showing an accelerating effect of ASCs on cutaneous wound repair under physiological conditions. These data support the use of ASCs in wound management since physiological wound repair is generally considered a naturally effective process with little margin for improvement. In order to determine the clinical usefulness of ASC injection in the management of chronic wounds, we plan to perform further investigations studying their effect in a model of wound repair under pathological conditions.</p></sec><sec id="sct312607-sec-0020"><label>5</label><title>CONCLUSION</title><p>This study demonstrates that although the survival and homing of systemically administered ASCs was limited, they nonetheless led to enhanced wound repair. Locally administered ASCs survived for 7&#x02009;days at the transplantation site. They showed the ability to migrate within the wound bed, effectively enhancing wound repair by significantly reducing WC time. Taken together, ASCs have the potential to enhance wound repair without the need for homing to the injured site, possibly by paracrine signaling through the release of exosomes.</p></sec><sec sec-type="COI-statement" id="sct312607-sec-0023"><title>CONFLICT OF INTEREST</title><p>M.S.P. declared leadership position with Anion Biosciences, researcher funding from South African Medical Research Council, Wellcome Trust and stock ownership with Transcure Bioservices. The other authors indicated no potential conflicts of interest.</p></sec><sec id="sct312607-sec-0022"><title>AUTHOR CONTRIBUTIONS</title><p>K.K.: conception and design, collection and/or assembly of data, data analysis and interpretation, manuscript writing, final approval of manuscript; D.A.&#x02010;L.: conception and design, data analysis and interpretation, manuscript writing, final approval of manuscript; M.B.: collection and/or assembly of data, data analysis and interpretation, final approval of manuscript; K.&#x02010;H.K.: provision of study materials, data interpretation, final approval of manuscript; M.S.P., B.P.&#x02010;C.: conception and design, financial support, data interpretation, manuscript writing, final approval of manuscript; A.M.: conception and design, financial support, administrative support, data interpretation, manuscript writing, final approval of manuscript.</p></sec></body><back><ack id="sct312607-sec-0021"><title>ACKNOWLEDGMENTS</title><p>We would like to thank the following funders: The Fonds National Suisse de la Recherche Scientifique (FNSNF) and the Faculty of Medicine of the University of Geneva for contributing to the funding in Geneva and the South African Medical Research Council (Flagship and Extramural Unit awards), the National Research Foundation (Scarce Skills Doctoral Scholarship, Grant UID: 88799), Ernst &#x00026; Ethel Eriksen Trust (Doctoral Scholarship), University of Pretoria Bursary Office (Postgraduate Bursary), and the Institute for Cellular and Molecular Medicine (ICMM) of the University of Pretoria for contributing to the funding in South Africa.</p><p>We would like to thank the Bioimaging Core Facility, the Institute of Translational Molecular Imaging, the Flow Cytometry Core Facility, the Histology Core Facility, the Animal housing facility, Faculty of Medicine, University of Geneva, and N. Liaudet for his expertise regarding image analysis, Dr L. Vinet for his expertise regarding the live animal imaging, Y. Donati for his expertise regarding IHC and A.A. Mohamed for her technical assistance with IHC.</p><p>This work was supported by grants from Swiss National Science Foundation Project (#310030_170132), Medical Faculty of University of Geneva, the South African Medical Research Council University Flagship Program (SAMRC&#x02010;RFA&#x02010;UFSP&#x02010;01&#x02010;2013/STEM CELLS), the SAMRC Extramural Unit for Stem Cell Research and Therapy, and the Institute for Cellular and Molecular Medicine (ICMM) of the University of Pretoria.</p></ack><sec sec-type="data-availability" id="sct312607-sec-0025"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="sct312607-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="sct312607-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="sct312607-cit-0001">
+<string-name>
+<surname>Kim</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Usage of human mesenchymal stem cells in cell&#x02010;based therapy: advantages and disadvantages</article-title>. <source xml:lang="en">Dev Reprod.</source>
+<year>2017</year>;<volume>21</volume>:<fpage>1</fpage>&#x02010;<lpage>10</lpage>.<pub-id pub-id-type="pmid">28484739</pub-id></mixed-citation></ref><ref id="sct312607-bib-0002"><label>2</label><mixed-citation publication-type="book" id="sct312607-cit-0002">
+<string-name>
+<surname>Al&#x02010;Shaibani</surname>
+<given-names>MBH</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X&#x02010;N</given-names>
+</string-name>, <string-name>
+<surname>Lovat</surname>
+<given-names>PE</given-names>
+</string-name>, et al. <chapter-title>Cellular therapy for wounds: applications of mesenchymal stem cells in wound healing</chapter-title> In: <person-group person-group-type="editor"><name name-style="western"><surname>Alexandrescu</surname><given-names>VA</given-names></name></person-group>, ed. <source xml:lang="en">Wound Healing&#x02014;New Insights into Ancient Challenges</source>. <publisher-loc>Rijeka, Croatia</publisher-loc>: <publisher-name>InTech</publisher-name>, <year>2016</year>.</mixed-citation></ref><ref id="sct312607-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="sct312607-cit-0003">
+<string-name>
+<surname>Isakson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>De Blacam</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Whelan</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cells and cutaneous wound healing: current evidence and future potential</article-title>. <source xml:lang="en">Stem Cells Int.</source>
+<year>2015</year>;<volume>2015</volume>:<fpage>1</fpage>&#x02010;<lpage>12</lpage>.</mixed-citation></ref><ref id="sct312607-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="sct312607-cit-0004">
+<string-name>
+<surname>Zuk</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ashjian</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Human adipose tissue is a source of multipotent stem cells</article-title>. <source xml:lang="en">Mol Biol Cell.</source>
+<year>2002</year>;<volume>13</volume>:<fpage>4279</fpage>&#x02010;<lpage>4295</lpage>.<pub-id pub-id-type="pmid">12475952</pub-id></mixed-citation></ref><ref id="sct312607-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="sct312607-cit-0005">
+<string-name>
+<surname>Wei</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>ZP</given-names>
+</string-name>, et al. <article-title>Mesenchymal stem cells: a new trend for cell therapy</article-title>. <source xml:lang="en">Acta Pharmacol Sin.</source>
+<year>2013</year>;<volume>34</volume>:<fpage>747</fpage>&#x02010;<lpage>754</lpage>.<pub-id pub-id-type="pmid">23736003</pub-id></mixed-citation></ref><ref id="sct312607-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="sct312607-cit-0006">
+<string-name>
+<surname>Squillaro</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Peluso</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Galderisi</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>Clinical trials with mesenchymal stem cells: an update</article-title>. <source xml:lang="en">Cell Transplant.</source>
+<year>2016</year>;<volume>25</volume>:<fpage>829</fpage>&#x02010;<lpage>848</lpage>.<pub-id pub-id-type="pmid">26423725</pub-id></mixed-citation></ref><ref id="sct312607-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="sct312607-cit-0007">
+<string-name>
+<surname>Friedenstein</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Petrakova</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name>
+<surname>Kurolesova</surname>
+<given-names>AI</given-names>
+</string-name>, et al. <article-title>Heterotopic of bone marrow. Analysis of precursor cells for osteogenic and hematopoietic tissues</article-title>. <source xml:lang="en">Transplantation.</source>
+<year>1968</year>;<volume>6</volume>:<fpage>230</fpage>&#x02010;<lpage>247</lpage>.<pub-id pub-id-type="pmid">5654088</pub-id></mixed-citation></ref><ref id="sct312607-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="sct312607-cit-0008">
+<string-name>
+<surname>Nuschke</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Activity of mesenchymal stem cells in therapies for chronic skin wound healing</article-title>. <source xml:lang="en">Organogenesis.</source>
+<year>2014</year>;<volume>10</volume>:<fpage>29</fpage>&#x02010;<lpage>37</lpage>.<pub-id pub-id-type="pmid">24322872</pub-id></mixed-citation></ref><ref id="sct312607-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="sct312607-cit-0009">
+<string-name>
+<surname>Fraser</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Wulur</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Alfonso</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Fat tissue: an underappreciated source of stem cells for biotechnology</article-title>. <source xml:lang="en">Trends Biotechnol.</source>
+<year>2006</year>;<volume>24</volume>:<fpage>150</fpage>&#x02010;<lpage>154</lpage>.<pub-id pub-id-type="pmid">16488036</pub-id></mixed-citation></ref><ref id="sct312607-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="sct312607-cit-0010">
+<string-name>
+<surname>Lotfy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Salama</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zahran</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Characterization of mesenchymal stem cells derived from rat bone marrow and adipose tissue: a comparative study</article-title>. <source xml:lang="en">Int J Stem Cells.</source>
+<year>2014</year>;<volume>7</volume>:<fpage>135</fpage>&#x02010;<lpage>142</lpage>.<pub-id pub-id-type="pmid">25473451</pub-id></mixed-citation></ref><ref id="sct312607-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="sct312607-cit-0011">
+<string-name>
+<surname>Strioga</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Viswanathan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Darinskas</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Same or not the same? Comparison of adipose tissue&#x02010;derived versus bone marrow&#x02010;derived mesenchymal stem and stromal cells</article-title>. <source xml:lang="en">Stem Cells Dev.</source>
+<year>2012</year>;<volume>21</volume>:<fpage>2724</fpage>&#x02010;<lpage>2752</lpage>.<pub-id pub-id-type="pmid">22468918</pub-id></mixed-citation></ref><ref id="sct312607-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="sct312607-cit-0012">
+<string-name>
+<surname>Karp</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Leng Teo</surname>
+<given-names>GS</given-names>
+</string-name>. <article-title>Mesenchymal stem cell homing: the devil is in the details</article-title>. <source xml:lang="en">Cell Stem Cell.</source>
+<year>2009</year>;<volume>4</volume>:<fpage>206</fpage>&#x02010;<lpage>216</lpage>.<pub-id pub-id-type="pmid">19265660</pub-id></mixed-citation></ref><ref id="sct312607-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="sct312607-cit-0013">
+<string-name>
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Hypoxia&#x02010;inducible factor&#x02010;1alpha is essential for hypoxia&#x02010;induced mesenchymal stem cell mobilization into the peripheral blood</article-title>. <source xml:lang="en">Stem Cells Dev.</source>
+<year>2011</year>;<volume>20</volume>:<fpage>1961</fpage>&#x02010;<lpage>1971</lpage>.<pub-id pub-id-type="pmid">21275821</pub-id></mixed-citation></ref><ref id="sct312607-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="sct312607-cit-0014">
+<string-name>
+<surname>Ponte</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Marais</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Gallay</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>The in vitro migration capacity of human bone marrow mesenchymal stem cells: comparison of chemokine and growth factor chemotactic activities</article-title>. <source xml:lang="en">Stem Cells.</source>
+<year>2007</year>;<volume>25</volume>:<fpage>1737</fpage>&#x02010;<lpage>1745</lpage>.<pub-id pub-id-type="pmid">17395768</pub-id></mixed-citation></ref><ref id="sct312607-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="sct312607-cit-0015">
+<string-name>
+<surname>Murphy</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Moncivais</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Caplan</surname>
+<given-names>AI</given-names>
+</string-name>. <article-title>Mesenchymal stem cells: environmentally responsive therapeutics for regenerative medicine</article-title>. <source xml:lang="en">Exp Mol Med.</source>
+<year>2013</year>;<volume>45</volume>:<elocation-id>e54</elocation-id>.<pub-id pub-id-type="pmid">24232253</pub-id></mixed-citation></ref><ref id="sct312607-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="sct312607-cit-0016">
+<string-name>
+<surname>Yin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>The homing of human umbilical cord&#x02010;derived mesenchymal stem cells and the subsequent modulation of macrophage polarization in type 2 diabetic mice</article-title>. <source xml:lang="en">Int Immunopharmacol.</source>
+<year>2018</year>;<volume>60</volume>:<fpage>235</fpage>&#x02010;<lpage>245</lpage>.<pub-id pub-id-type="pmid">29778021</pub-id></mixed-citation></ref><ref id="sct312607-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="sct312607-cit-0017">
+<string-name>
+<surname>Mishra</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Khushu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>AK</given-names>
+</string-name>, et al. <article-title>Homing and tracking of iron oxide labelled mesenchymal stem cells after infusion in traumatic brain injury mice: a longitudinal in vivo MRI study</article-title>. <source xml:lang="en">Stem Cell Rev.</source>
+<year>2018</year>;<volume>14</volume>:<fpage>888</fpage>&#x02010;<lpage>900</lpage>.</mixed-citation></ref><ref id="sct312607-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="sct312607-cit-0018">
+<string-name>
+<surname>Oh</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>HW</given-names>
+</string-name>, <string-name>
+<surname>Kalimuthu</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>In vivo migration of mesenchymal stem cells to burn injury sites and their therapeutic effects in a living mouse model</article-title>. <source xml:lang="en">J Control Release.</source>
+<year>2018</year>;<volume>279</volume>:<fpage>79</fpage>&#x02010;<lpage>88</lpage>.<pub-id pub-id-type="pmid">29655989</pub-id></mixed-citation></ref><ref id="sct312607-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="sct312607-cit-0019">
+<string-name>
+<surname>Kean</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Caplan</surname>
+<given-names>AI</given-names>
+</string-name>, et al. <article-title>MSCs: delivery routes and engraftment, cell&#x02010;targeting strategies, and immune modulation</article-title>. <source xml:lang="en">Stem Cells Int.</source>
+<year>2013</year>;<volume>2013</volume>:<fpage>732742</fpage>.<pub-id pub-id-type="pmid">24000286</pub-id></mixed-citation></ref><ref id="sct312607-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="sct312607-cit-0020">
+<string-name>
+<surname>Everaert</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Bergwerf</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>De Vocht</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Multimodal in vivo imaging reveals limited allograft survival, intrapulmonary cell trapping and minimal evidence for ischemia&#x02010;directed BMSC homing</article-title>. <source xml:lang="en">BMC Biotechnol.</source>
+<year>2012</year>;<volume>12</volume>:<fpage>93</fpage>.<pub-id pub-id-type="pmid">23206380</pub-id></mixed-citation></ref><ref id="sct312607-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="sct312607-cit-0021">
+<string-name>
+<surname>Sensebe</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Fleury&#x02010;Cappellesso</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Biodistribution of mesenchymal stem/stromal cells in a preclinical setting</article-title>. <source xml:lang="en">Stem Cells Int.</source>
+<year>2013</year>;<volume>2013</volume>:<fpage>678063</fpage>.<pub-id pub-id-type="pmid">24222773</pub-id></mixed-citation></ref><ref id="sct312607-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="sct312607-cit-0022">
+<string-name>
+<surname>De Becker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Riet</surname>
+<given-names>IV</given-names>
+</string-name>. <article-title>Homing and migration of mesenchymal stromal cells: how to improve the efficacy of cell therapy?</article-title>
+<source xml:lang="en">World J Stem Cells.</source>
+<year>2016</year>;<volume>8</volume>:<fpage>73</fpage>&#x02010;<lpage>87</lpage>.<pub-id pub-id-type="pmid">27022438</pub-id></mixed-citation></ref><ref id="sct312607-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="sct312607-cit-0023">
+<string-name>
+<surname>Gao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dennis</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Muzic</surname>
+<given-names>RF</given-names>
+</string-name>, et al. <article-title>The dynamic in vivo distribution of bone marrow&#x02010;derived mesenchymal stem cells after infusion</article-title>. <source xml:lang="en">Cells Tissues Organs.</source>
+<year>2001</year>;<volume>169</volume>:<fpage>12</fpage>&#x02010;<lpage>20</lpage>.<pub-id pub-id-type="pmid">11340257</pub-id></mixed-citation></ref><ref id="sct312607-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="sct312607-cit-0024">
+<string-name>
+<surname>Kern</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Eichler</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Stoeve</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Comparative analysis of mesenchymal stem cells from bone marrow, umbilical cord blood, or adipose tissue</article-title>. <source xml:lang="en">Stem Cells.</source>
+<year>2006</year>;<volume>24</volume>:<fpage>1294</fpage>&#x02010;<lpage>1301</lpage>.<pub-id pub-id-type="pmid">16410387</pub-id></mixed-citation></ref><ref id="sct312607-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="sct312607-cit-0025">
+<string-name>
+<surname>Wagner</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Feldmann</surname>
+<given-names>RE</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Seckinger</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>The heterogeneity of human mesenchymal stem cell preparations&#x02014;evidence from simultaneous analysis of proteomes and transcriptomes</article-title>. <source xml:lang="en">Exp Hematol.</source>
+<year>2006</year>;<volume>34</volume>:<fpage>536</fpage>&#x02010;<lpage>548</lpage>.<pub-id pub-id-type="pmid">16569600</pub-id></mixed-citation></ref><ref id="sct312607-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="sct312607-cit-0026">
+<string-name>
+<surname>Caplan</surname>
+<given-names>AI</given-names>
+</string-name>. <article-title>Why are MSCs therapeutic? new data: new insight</article-title>. <source xml:lang="en">J Pathol.</source>
+<year>2009</year>;<volume>217</volume>:<fpage>318</fpage>&#x02010;<lpage>324</lpage>.<pub-id pub-id-type="pmid">19023885</pub-id></mixed-citation></ref><ref id="sct312607-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="sct312607-cit-0027">
+<string-name>
+<surname>Sorrell</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Caplan</surname>
+<given-names>AI</given-names>
+</string-name>. <article-title>Topical delivery of mesenchymal stem cells and their function in wounds</article-title>. <source xml:lang="en">Stem Cell Res Ther.</source>
+<year>2010</year>;<volume>1</volume>:<fpage>30</fpage>.<pub-id pub-id-type="pmid">20863417</pub-id></mixed-citation></ref><ref id="sct312607-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="sct312607-cit-0028">
+<string-name>
+<surname>Nitzsche</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Muller</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lukomska</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Concise review: MSC adhesion cascade&#x02010;insights into homing and transendothelial migration</article-title>. <source xml:lang="en">Stem Cells.</source>
+<year>2017</year>;<volume>35</volume>:<fpage>1446</fpage>&#x02010;<lpage>1460</lpage>.<pub-id pub-id-type="pmid">28316123</pub-id></mixed-citation></ref><ref id="sct312607-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="sct312607-cit-0029">
+<string-name>
+<surname>Kurtz</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Mesenchymal stem cell delivery routes and fate</article-title>. <source xml:lang="en">Int J Stem Cells.</source>
+<year>2008</year>;<volume>1</volume>:<fpage>1</fpage>&#x02010;<lpage>7</lpage>.<pub-id pub-id-type="pmid">24855503</pub-id></mixed-citation></ref><ref id="sct312607-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="sct312607-cit-0030">
+<string-name>
+<surname>Bourin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bunnell</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Casteilla</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Stromal cells from the adipose tissue&#x02010;derived stromal vascular fraction and culture expanded adipose tissue&#x02010;derived stromal/stem cells: a joint statement of the International Federation for Adipose Therapeutics and Science (IFATS) and the International Society for Cellular Therapy (ISCT)</article-title>. <source xml:lang="en">Cytotherapy.</source>
+<year>2013</year>;<volume>15</volume>:<fpage>641</fpage>&#x02010;<lpage>648</lpage>.<pub-id pub-id-type="pmid">23570660</pub-id></mixed-citation></ref><ref id="sct312607-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="sct312607-cit-0031">
+<string-name>
+<surname>Progatzky</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Dallman</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Lo Celso</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>From seeing to believing: labelling strategies for in vivo cell&#x02010;tracking experiments</article-title>. <source xml:lang="en">Interface Focus.</source>
+<year>2013</year>;<volume>3</volume>:<fpage>20130001</fpage>.<pub-id pub-id-type="pmid">23853708</pub-id></mixed-citation></ref><ref id="sct312607-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="sct312607-cit-0032">
+<string-name>
+<surname>Kim</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Kalimuthu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ahn</surname>
+<given-names>BC</given-names>
+</string-name>. <article-title>In vivo cell tracking with bioluminescence imaging</article-title>. <source xml:lang="en">Nucl Med Mol Imaging.</source>
+<year>2015</year>;<volume>49</volume>:<fpage>3</fpage>&#x02010;<lpage>10</lpage>.<pub-id pub-id-type="pmid">25774232</pub-id></mixed-citation></ref><ref id="sct312607-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="sct312607-cit-0033">
+<string-name>
+<surname>Strohschein</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Radojewski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Winkler</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>In vivo bioluminescence imaging&#x02014;a suitable method to track mesenchymal stromal cells in a skeletal muscle trauma</article-title>. <source xml:lang="en">Open Orthop J.</source>
+<year>2015</year>;<volume>9</volume>:<fpage>262</fpage>&#x02010;<lpage>269</lpage>.<pub-id pub-id-type="pmid">26312108</pub-id></mixed-citation></ref><ref id="sct312607-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="sct312607-cit-0034">
+<string-name>
+<surname>Togel</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Bioluminescence imaging to monitor the in vivo distribution of administered mesenchymal stem cells in acute kidney injury</article-title>. <source xml:lang="en">Am J Physiol Renal Physiol.</source>
+<year>2008</year>;<volume>295</volume>:<fpage>F315</fpage>&#x02010;<lpage>F321</lpage>.<pub-id pub-id-type="pmid">18480180</pub-id></mixed-citation></ref><ref id="sct312607-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="sct312607-cit-0035">
+<string-name>
+<surname>Lembert</surname>, <given-names>N.</given-names>
+</string-name>, and <string-name>
+<surname>Idahl</surname>, <given-names>L.A.</given-names>
+</string-name>
+<article-title>Regulatory effects of ATP and luciferin on firefly luciferase activity</article-title>. <source xml:lang="en">Biochem J.</source>
+<year>1995</year>;<volume>305</volume>(Pt):<fpage>929</fpage>&#x02010;<lpage>933</lpage>.<pub-id pub-id-type="pmid">7848294</pub-id></mixed-citation></ref><ref id="sct312607-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="sct312607-cit-0036">
+<string-name>
+<surname>Francis</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kearney</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Clover</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The effects of stem cells on burn wounds: a review</article-title>. <source xml:lang="en">Int J Burns Trauma.</source>
+<year>2019</year>;<volume>9</volume>:<fpage>1</fpage>&#x02010;<lpage>12</lpage>.<pub-id pub-id-type="pmid">30911430</pub-id></mixed-citation></ref><ref id="sct312607-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="sct312607-cit-0037">
+<string-name>
+<surname>Maranda</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez&#x02010;Menocal</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Badiavas</surname>
+<given-names>EV</given-names>
+</string-name>. <article-title>Role of mesenchymal stem cells in dermal repair in burns and diabetic wounds</article-title>. <source xml:lang="en">Curr Stem Cell Res Ther.</source>
+<year>2017</year>;<volume>12</volume>:<fpage>61</fpage>&#x02010;<lpage>70</lpage>.<pub-id pub-id-type="pmid">27412677</pub-id></mixed-citation></ref><ref id="sct312607-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="sct312607-cit-0038">
+<string-name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Efficacy and long&#x02010;term longitudinal follow&#x02010;up of bone marrow mesenchymal cell transplantation therapy in a diabetic patient with recurrent lower limb bullosis diabeticorum</article-title>. <source xml:lang="en">Stem Cell Res Ther.</source>
+<year>2018</year>;<volume>9</volume>:<fpage>99</fpage>&#x02010;<lpage>99</lpage>.<pub-id pub-id-type="pmid">29631615</pub-id></mixed-citation></ref><ref id="sct312607-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="sct312607-cit-0039">
+<string-name>
+<surname>Kirana</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stratmann</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Prante</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Autologous stem cell therapy in the treatment of limb ischaemia induced chronic tissue ulcers of diabetic foot patients</article-title>. <source xml:lang="en">Int J Clin Pract.</source>
+<year>2012</year>;<volume>66</volume>:<fpage>384</fpage>&#x02010;<lpage>393</lpage>.<pub-id pub-id-type="pmid">22284892</pub-id></mixed-citation></ref><ref id="sct312607-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="sct312607-cit-0040">
+<string-name>
+<surname>Gupta</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>Chullikana</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Parakh</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>A double blind randomized placebo controlled phase I/II study assessing the safety and efficacy of allogeneic bone marrow derived mesenchymal stem cell in critical limb ischemia</article-title>. <source xml:lang="en">J Transl Med.</source>
+<year>2013</year>;<volume>11</volume>:<fpage>143</fpage>.<pub-id pub-id-type="pmid">23758736</pub-id></mixed-citation></ref><ref id="sct312607-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="sct312607-cit-0041">
+<string-name>
+<surname>Lee</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>An</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>HW</given-names>
+</string-name>, et al. <article-title>Safety and effect of adipose tissue&#x02010;derived stem cell implantation in patients with critical limb ischemia: a pilot study</article-title>. <source xml:lang="en">Circ J.</source>
+<year>2012</year>;<volume>76</volume>:<fpage>1750</fpage>&#x02010;<lpage>1760</lpage>.<pub-id pub-id-type="pmid">22498564</pub-id></mixed-citation></ref><ref id="sct312607-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="sct312607-cit-0042">
+<string-name>
+<surname>Ankrum</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Karp</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Mesenchymal stem cell therapy: two steps forward, one step back</article-title>. <source xml:lang="en">Trends Mol Med.</source>
+<year>2010</year>;<volume>16</volume>:<fpage>203</fpage>&#x02010;<lpage>209</lpage>.<pub-id pub-id-type="pmid">20335067</pub-id></mixed-citation></ref><ref id="sct312607-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="sct312607-cit-0043">
+<string-name>
+<surname>Iijima</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Isho</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kuroki</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Effectiveness of mesenchymal stem cells for treating patients with knee osteoarthritis: a meta&#x02010;analysis toward the establishment of effective regenerative rehabilitation</article-title>. <source xml:lang="en">NPJ Regen Med.</source>
+<year>2018</year>;<volume>3</volume>:<fpage>15</fpage>&#x02010;<lpage>15</lpage>.<pub-id pub-id-type="pmid">30245848</pub-id></mixed-citation></ref><ref id="sct312607-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="sct312607-cit-0044">
+<string-name>
+<surname>Lukomska</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Stanaszek</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zuba&#x02010;Surma</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Challenges and controversies in human mesenchymal stem cell therapy</article-title>. <source xml:lang="en">Stem Cells Int.</source>
+<year>2019</year>;<volume>2019</volume>:<fpage>10</fpage>.</mixed-citation></ref><ref id="sct312607-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="sct312607-cit-0045">
+<string-name>
+<surname>Galipeau</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sens&#x000e9;b&#x000e9;</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Mesenchymal stromal cells: clinical challenges and therapeutic opportunities</article-title>. <source xml:lang="en">Cell Stem Cell.</source>
+<year>2018</year>;<volume>22</volume>:<fpage>824</fpage>&#x02010;<lpage>833</lpage>.<pub-id pub-id-type="pmid">29859173</pub-id></mixed-citation></ref><ref id="sct312607-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="sct312607-cit-0046">
+<string-name>
+<surname>Sadie&#x02010;Van Gijsen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Crowther</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Hough</surname>
+<given-names>FS</given-names>
+</string-name>, et al. <article-title>Depot&#x02010;specific differences in the insulin response of adipose&#x02010;derived stromal cells</article-title>. <source xml:lang="en">Mol Cell Endocrinol.</source>
+<year>2010</year>;<volume>328</volume>:<fpage>22</fpage>&#x02010;<lpage>27</lpage>.<pub-id pub-id-type="pmid">20599584</pub-id></mixed-citation></ref><ref id="sct312607-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="sct312607-cit-0047">
+<string-name>
+<surname>Van De Vyver</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Andrag</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Cockburn</surname>
+<given-names>IL</given-names>
+</string-name>, et al. <article-title>Thiazolidinedione&#x02010;induced lipid droplet formation during osteogenic differentiation</article-title>. <source xml:lang="en">J Endocrinol.</source>
+<year>2014</year>;<volume>223</volume>:<fpage>119</fpage>&#x02010;<lpage>132</lpage>.<pub-id pub-id-type="pmid">25210048</pub-id></mixed-citation></ref><ref id="sct312607-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="sct312607-cit-0048">
+<string-name>
+<surname>Huang</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name>
+<surname>Beanes</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Rat extramedullary adipose tissue as a source of osteochondrogenic progenitor cells</article-title>. <source xml:lang="en">Plast Reconstr Surg.</source>
+<year>2002</year>;<volume>109</volume>:<fpage>1033</fpage>&#x02010;<lpage>1041</lpage>.<pub-id pub-id-type="pmid">11884830</pub-id></mixed-citation></ref><ref id="sct312607-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="sct312607-cit-0049">
+<string-name>
+<surname>Tennant</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>Evaluation of the trypan blue technique for determination of cell viability</article-title>. <source xml:lang="en">Transplantation.</source>
+<year>1964</year>;<volume>2</volume>:<fpage>685</fpage>&#x02010;<lpage>694</lpage>.<pub-id pub-id-type="pmid">14224649</pub-id></mixed-citation></ref><ref id="sct312607-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="sct312607-cit-0050">
+<string-name>
+<surname>Bhaumik</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gambhir</surname>
+<given-names>SS</given-names>
+</string-name>. <article-title>Optical imaging of renilla luciferase reporter gene expression in living mice</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA.</source>
+<year>2002</year>;<volume>99</volume>:<fpage>377</fpage>&#x02010;<lpage>382</lpage>.<pub-id pub-id-type="pmid">11752410</pub-id></mixed-citation></ref><ref id="sct312607-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="sct312607-cit-0051">
+<string-name>
+<surname>Andre&#x02010;Levigne</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Modarressi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pignel</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Hyperbaric oxygen therapy promotes wound repair in ischemic and hyperglycemic conditions, increasing tissue perfusion and collagen deposition</article-title>. <source xml:lang="en">Wound Repair Regen.</source>
+<year>2016</year>;<volume>24</volume>:<fpage>954</fpage>&#x02010;<lpage>965</lpage>.<pub-id pub-id-type="pmid">27684570</pub-id></mixed-citation></ref><ref id="sct312607-bib-0052"><label>52</label><mixed-citation publication-type="miscellaneous" id="sct312607-cit-0052">
+<string-name>
+<surname>Rashband</surname>, <given-names>W.S.</given-names>
+</string-name>
+<article-title>Image J, U.S. National Institutes of Health, Betheshda, MD, USA</article-title>. <ext-link ext-link-type="uri" xlink:href="http://imagej.nih.gov/ij">http://imagej.nih.gov/ij</ext-link>.</mixed-citation></ref><ref id="sct312607-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="sct312607-cit-0053">
+<string-name>
+<surname>Horwitz</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Koo</surname>
+<given-names>WK</given-names>
+</string-name>, et al. <article-title>Isolated allogeneic bone marrow&#x02010;derived mesenchymal cells engraft and stimulate growth in children with osteogenesis imperfecta: implications for cell therapy of bone</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA.</source>
+<year>2002</year>;<volume>99</volume>:<fpage>8932</fpage>&#x02010;<lpage>8937</lpage>.<pub-id pub-id-type="pmid">12084934</pub-id></mixed-citation></ref><ref id="sct312607-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="sct312607-cit-0054">
+<string-name>
+<surname>Horwitz</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Prockop</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Fitzpatrick</surname>
+<given-names>LA</given-names>
+</string-name>, et al. <article-title>Transplantability and therapeutic effects of bone marrow&#x02010;derived mesenchymal cells in children with osteogenesis imperfecta</article-title>. <source xml:lang="en">Nat Med.</source>
+<year>1999</year>;<volume>5</volume>:<fpage>309</fpage>&#x02010;<lpage>313</lpage>.<pub-id pub-id-type="pmid">10086387</pub-id></mixed-citation></ref><ref id="sct312607-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="sct312607-cit-0055">
+<string-name>
+<surname>Leibacher</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Henschler</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Biodistribution, migration and homing of systemically applied mesenchymal stem/stromal cells</article-title>. <source xml:lang="en">Stem Cell Res Ther.</source>
+<year>2016</year>;<volume>7</volume>:<fpage>7</fpage>.<pub-id pub-id-type="pmid">26753925</pub-id></mixed-citation></ref><ref id="sct312607-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="sct312607-cit-0056">
+<string-name>
+<surname>Huang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Systemic and local administration of allogeneic bone marrow&#x02010;derived mesenchymal stem cells promotes fracture healing in rats</article-title>. <source xml:lang="en">Cell Transplant.</source>
+<year>2015</year>;<volume>24</volume>:<fpage>2643</fpage>&#x02010;<lpage>2655</lpage>.<pub-id pub-id-type="pmid">25647659</pub-id></mixed-citation></ref><ref id="sct312607-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="sct312607-cit-0057">
+<string-name>
+<surname>Dominici</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Le Blanc</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mueller</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Minimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statement</article-title>. <source xml:lang="en">Cytotherapy.</source>
+<year>2006</year>;<volume>8</volume>:<fpage>315</fpage>&#x02010;<lpage>317</lpage>.<pub-id pub-id-type="pmid">16923606</pub-id></mixed-citation></ref><ref id="sct312607-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="sct312607-cit-0058">
+<string-name>
+<surname>Van Vollenstee</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hoffmann</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Human adipose derived mesenchymal stromal cells transduced with GFP lentiviral vectors: assessment of immunophenotype and differentiation capacity in vitro</article-title>. <source xml:lang="en">Cytotechnology.</source>
+<year>2016</year>;<volume>68</volume>:<fpage>2049</fpage>&#x02010;<lpage>2060</lpage>.<pub-id pub-id-type="pmid">26815002</pub-id></mixed-citation></ref><ref id="sct312607-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="sct312607-cit-0059">
+<string-name>
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Steigelman</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>In vitro osteogenic differentiation of adipose stem cells after lentiviral transduction with green fluorescent protein</article-title>. <source xml:lang="en">J Craniofac Surg.</source>
+<year>2009</year>;<volume>20</volume>:<fpage>2193</fpage>&#x02010;<lpage>2199</lpage>.<pub-id pub-id-type="pmid">19934675</pub-id></mixed-citation></ref><ref id="sct312607-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="sct312607-cit-0060">
+<string-name>
+<surname>Ge</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The size of mesenchymal stem cells is a significant cause of vascular obstructions and stroke</article-title>. <source xml:lang="en">Stem Cell Rev.</source>
+<year>2014</year>;<volume>10</volume>:<fpage>295</fpage>&#x02010;<lpage>303</lpage>.</mixed-citation></ref><ref id="sct312607-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="sct312607-cit-0061">
+<string-name>
+<surname>Fischer</surname>
+<given-names>UM</given-names>
+</string-name>, <string-name>
+<surname>Harting</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Jimenez</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Pulmonary passage is a major obstacle for intravenous stem cell delivery: the pulmonary first&#x02010;pass effect</article-title>. <source xml:lang="en">Stem Cells Dev.</source>
+<year>2009</year>;<volume>18</volume>:<fpage>683</fpage>&#x02010;<lpage>692</lpage>.<pub-id pub-id-type="pmid">19099374</pub-id></mixed-citation></ref><ref id="sct312607-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="sct312607-cit-0062">
+<string-name>
+<surname>Shin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Human mesenchymal stem cell grafts enhance normal and impaired wound healing by recruiting existing endogenous tissue stem/progenitor cells</article-title>. <source xml:lang="en">Stem Cells Transl Med.</source>
+<year>2013</year>;<volume>2</volume>:<fpage>33</fpage>&#x02010;<lpage>42</lpage>.<pub-id pub-id-type="pmid">23283490</pub-id></mixed-citation></ref><ref id="sct312607-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="sct312607-cit-0063">
+<string-name>
+<surname>Muhammad</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bulte</surname>
+<given-names>JWM</given-names>
+</string-name>, et al. <article-title>Transplanted adipose&#x02010;derived stem cells can be short&#x02010;lived yet accelerate healing of acid&#x02010;burn skin wounds: a multimodal imaging study</article-title>. <source xml:lang="en">Sci Rep.</source>
+<year>2017</year>;<volume>7</volume>:<fpage>4644</fpage>&#x02010;<lpage>4644</lpage>.<pub-id pub-id-type="pmid">28680144</pub-id></mixed-citation></ref><ref id="sct312607-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="sct312607-cit-0064">
+<string-name>
+<surname>Lee</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Pulin</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Seo</surname>
+<given-names>MJ</given-names>
+</string-name>, et al. <article-title>Intravenous hMSCs improve myocardial infarction in mice because cells embolized in lung are activated to secrete the anti&#x02010;inflammatory protein TSG&#x02010;6</article-title>. <source xml:lang="en">Cell Stem Cell.</source>
+<year>2009</year>;<volume>5</volume>:<fpage>54</fpage>&#x02010;<lpage>63</lpage>.<pub-id pub-id-type="pmid">19570514</pub-id></mixed-citation></ref><ref id="sct312607-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="sct312607-cit-0065">
+<string-name>
+<surname>Epstein</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Luger</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Lipinski</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Paracrine&#x02010;mediated systemic anti&#x02010;inflammatory activity of intravenously administered mesenchymal stem cells: a transformative strategy for cardiac stem cell therapeutics</article-title>. <source xml:lang="en">Circ Res.</source>
+<year>2017</year>;<volume>121</volume>:<fpage>1044</fpage>&#x02010;<lpage>1046</lpage>.<pub-id pub-id-type="pmid">29025759</pub-id></mixed-citation></ref><ref id="sct312607-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="sct312607-cit-0066">
+<string-name>
+<surname>Di Rocco</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Baldari</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Toietta</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Towards therapeutic delivery of extracellular vesicles: strategies for in vivo tracking and biodistribution analysis</article-title>. <source xml:lang="en">Stem Cells Int.</source>
+<year>2016</year>;<volume>2016</volume>:<fpage>1</fpage>&#x02010;<lpage>12</lpage>.</mixed-citation></ref><ref id="sct312607-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="sct312607-cit-0067">
+<string-name>
+<surname>Tran</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Damaser</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Stem cells as drug delivery methods: application of stem cell secretome for regeneration</article-title>. <source xml:lang="en">Adv Drug Deliv Rev.</source>
+<year>2015</year>;<volume>82&#x02010;83</volume>:<fpage>1</fpage>&#x02010;<lpage>11</lpage>.</mixed-citation></ref><ref id="sct312607-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="sct312607-cit-0068">
+<string-name>
+<surname>Kapur</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Katz</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>Review of the adipose derived stem cell secretome</article-title>. <source xml:lang="en">Biochimie.</source>
+<year>2013</year>;<volume>95</volume>:<fpage>2222</fpage>&#x02010;<lpage>2228</lpage>.<pub-id pub-id-type="pmid">23770442</pub-id></mixed-citation></ref><ref id="sct312607-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="sct312607-cit-0069">
+<string-name>
+<surname>Kupcova Skalnikova</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Proteomic techniques for characterisation of mesenchymal stem cell secretome</article-title>. <source xml:lang="en">Biochimie.</source>
+<year>2013</year>;<volume>95</volume>:<fpage>2196</fpage>&#x02010;<lpage>2211</lpage>.<pub-id pub-id-type="pmid">23880644</pub-id></mixed-citation></ref><ref id="sct312607-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="sct312607-cit-0070">
+<string-name>
+<surname>Li</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>A review: therapeutic potential of adipose&#x02010;derived stem cells in cutaneous wound healing and regeneration</article-title>. <source xml:lang="en">Stem Cell Res Ther.</source>
+<year>2018</year>;<volume>9</volume>:<fpage>302</fpage>.<pub-id pub-id-type="pmid">30409218</pub-id></mixed-citation></ref><ref id="sct312607-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="sct312607-cit-0071">
+<string-name>
+<surname>Zheng</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Mesenchymal stromal cell&#x02010;derived extracellular vesicles: regenerative and immunomodulatory effects and potential applications in sepsis</article-title>. <source xml:lang="en">Cell Tissue Res.</source>
+<year>2018</year>;<volume>374</volume>:<fpage>1</fpage>&#x02010;<lpage>15</lpage>.<pub-id pub-id-type="pmid">29955951</pub-id></mixed-citation></ref><ref id="sct312607-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="sct312607-cit-0072">
+<string-name>
+<surname>Huang</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>
+<given-names>XM</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Systemic administration of exosomes released from mesenchymal stromal cells attenuates apoptosis, inflammation, and promotes angiogenesis after spinal cord injury in rats</article-title>. <source xml:lang="en">J Neurotrauma.</source>
+<year>2017</year>;<volume>34</volume>:<fpage>3388</fpage>&#x02010;<lpage>3396</lpage>.<pub-id pub-id-type="pmid">28665182</pub-id></mixed-citation></ref><ref id="sct312607-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="sct312607-cit-0073">
+<string-name>
+<surname>Shabbir</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cox</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez&#x02010;Menocal</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Salgado</surname>, <given-names>M.</given-names>
+</string-name>, and Van <string-name>
+<surname>Badiavas</surname>, <given-names>E.</given-names>
+</string-name>
+<article-title>Mesenchymal stem cell exosomes induce proliferation and migration of normal and chronic wound fibroblasts, and enhance angiogenesis in vitro</article-title>. <source xml:lang="en">Stem Cells Dev.</source>
+<year>2015</year>;<volume>24</volume>:<fpage>1635</fpage>&#x02010;<lpage>1647</lpage>.<pub-id pub-id-type="pmid">25867197</pub-id></mixed-citation></ref><ref id="sct312607-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="sct312607-cit-0074">
+<string-name>
+<surname>Gelberman</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Linderman</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Jayaram</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Combined administration of ASCs and BMP&#x02010;12 promotes an M2 macrophage phenotype and enhances tendon healing</article-title>. <source xml:lang="en">Clin Orthop Relat Res.</source>
+<year>2017</year>;<volume>475</volume>:<fpage>2318</fpage>&#x02010;<lpage>2331</lpage>.<pub-id pub-id-type="pmid">28462460</pub-id></mixed-citation></ref><ref id="sct312607-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="sct312607-cit-0075">
+<string-name>
+<surname>Lucke</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name>
+<surname>Bortolazzo</surname>
+<given-names>FO</given-names>
+</string-name>, <string-name>
+<surname>Theodoro</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Low&#x02010;level laser and adipose&#x02010;derived stem cells altered remodelling genes expression and improved collagen reorganization during tendon repair</article-title>. <source xml:lang="en">Cell Prolif.</source>
+<year>2019</year>;<volume>52</volume>:<elocation-id>e12580</elocation-id>.<pub-id pub-id-type="pmid">30734394</pub-id></mixed-citation></ref><ref id="sct312607-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="sct312607-cit-0076">
+<string-name>
+<surname>De Aro</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Carneiro</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Teodoro</surname>
+<given-names>LFR</given-names>
+</string-name>, et al. <article-title>Injured achilles tendons treated with adipose&#x02010;derived stem cells transplantation and GDF&#x02010;5</article-title>. <source xml:lang="en">Cell.</source>
+<year>2018</year>;<volume>7</volume>:<fpage>127</fpage>.</mixed-citation></ref><ref id="sct312607-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="sct312607-cit-0077">
+<string-name>
+<surname>Nishiwaki</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Aoki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kinoshita</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>In situ transplantation of adipose tissue&#x02010;derived stem cells organized on porous polymer nanosheets for murine skin defects</article-title>. <source xml:lang="en">J Biomed Mater Res B Appl Biomater.</source>
+<year>2019</year>;<volume>107</volume>:<fpage>1363</fpage>&#x02010;<lpage>1371</lpage>.<pub-id pub-id-type="pmid">30265776</pub-id></mixed-citation></ref><ref id="sct312607-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="sct312607-cit-0078">
+<string-name>
+<surname>Irons</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Cahill</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Rattigan</surname>
+<given-names>DA</given-names>
+</string-name>, et al. <article-title>Acceleration of diabetic wound healing with adipose&#x02010;derived stem cells, endothelial&#x02010;differentiated stem cells, and topical conditioned medium therapy in a swine model</article-title>. <source xml:lang="en">J Vasc Surg.</source>
+<year>2018</year>;<volume>68</volume>:<fpage>115S</fpage>&#x02010;<lpage>125S</lpage>.<pub-id pub-id-type="pmid">29753580</pub-id></mixed-citation></ref><ref id="sct312607-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="sct312607-cit-0079">
+<string-name>
+<surname>Yu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>M&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Tai</surname>
+<given-names>H&#x02010;C</given-names>
+</string-name>, et al. <article-title>Cell sheet composed of adipose&#x02010;derived stem cells demonstrates enhanced skin wound healing with reduced scar formation</article-title>. <source xml:lang="en">Acta Biomater.</source>
+<year>2018</year>;<volume>77</volume>:<fpage>191</fpage>&#x02010;<lpage>200</lpage>.<pub-id pub-id-type="pmid">30017923</pub-id></mixed-citation></ref><ref id="sct312607-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="sct312607-cit-0080">
+<string-name>
+<surname>Chae</surname>
+<given-names>D&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Son</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Stromal vascular fraction shows robust wound healing through high chemotactic and epithelialization property</article-title>. <source xml:lang="en">Cytotherapy.</source>
+<year>2017</year>;<volume>19</volume>:<fpage>543</fpage>&#x02010;<lpage>554</lpage>.<pub-id pub-id-type="pmid">28209525</pub-id></mixed-citation></ref><ref id="sct312607-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="sct312607-cit-0081">
+<string-name>
+<surname>Kato</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Iwata</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Washio</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Creation and transplantation of an adipose&#x02010;derived stem cell (ASC) sheet in a diabetic wound&#x02010;healing model</article-title>. <source xml:lang="en">JoVE.</source>
+<year>2017</year>;<volume>126</volume>:<elocation-id>e54539</elocation-id>.</mixed-citation></ref><ref id="sct312607-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="sct312607-cit-0082">
+<string-name>
+<surname>Chicharro</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Carrillo</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Rubio</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Combined plasma rich in growth factors and adipose&#x02010;derived mesenchymal stem cells promotes the cutaneous wound healing in rabbits</article-title>. <source xml:lang="en">BMC Vet Res.</source>
+<year>2018</year>;<volume>14</volume>:<fpage>288</fpage>&#x02010;<lpage>288</lpage>.<pub-id pub-id-type="pmid">30241533</pub-id></mixed-citation></ref><ref id="sct312607-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="sct312607-cit-0083">
+<string-name>
+<surname>Rodriguez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Boucher</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lequeux</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Intradermal injection of human adipose&#x02010;derived stem cells accelerates skin wound healing in nude mice</article-title>. <source xml:lang="en">Stem Cell Res Ther.</source>
+<year>2015</year>;<volume>6</volume>:<fpage>241</fpage>&#x02010;<lpage>241</lpage>.<pub-id pub-id-type="pmid">26645735</pub-id></mixed-citation></ref><ref id="sct312607-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="sct312607-cit-0084">
+<string-name>
+<surname>Prasai</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>El Ayadi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mifflin</surname>
+<given-names>RC</given-names>
+</string-name>, et al. <article-title>Characterization of Adipose&#x02010;Derived Stem Cells Following Burn Injury</article-title>. <source xml:lang="en">Stem Cell Rev.</source>
+<year>2017</year>;<volume>13</volume>:<fpage>781</fpage>&#x02010;<lpage>792</lpage>.</mixed-citation></ref><ref id="sct312607-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="sct312607-cit-0085">
+<string-name>
+<surname>Yin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>A cellular spinal cord scaffold seeded with rat adipose&#x02010;derived stem cells facilitates functional recovery via enhancing axon regeneration in spinal cord injured rats</article-title>. <source xml:lang="en">Mol Med Rep.</source>
+<year>2018</year>;<volume>17</volume>:<fpage>2998</fpage>&#x02010;<lpage>3004</lpage>.<pub-id pub-id-type="pmid">29257299</pub-id></mixed-citation></ref><ref id="sct312607-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="sct312607-cit-0086">
+<string-name>
+<surname>Gomes</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Mendes</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Assun&#x000e7;&#x000e3;o&#x02010;Silva</surname>
+<given-names>RC</given-names>
+</string-name>, et al. <article-title>Co&#x02010;transplantation of adipose tissue&#x02010;derived stromal cells and olfactory ensheathing cells for spinal cord injury repair</article-title>. <source xml:lang="en">Stem Cells.</source>
+<year>2018</year>;<volume>36</volume>:<fpage>696</fpage>&#x02010;<lpage>708</lpage>.<pub-id pub-id-type="pmid">29352743</pub-id></mixed-citation></ref><ref id="sct312607-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="sct312607-cit-0087">
+<string-name>
+<surname>Corsetti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bahuschewskyj</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ponzoni</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Repair of bone defects using adipose&#x02010;derived stem cells combined with alpha&#x02010;tricalcium phosphate and gelatin sponge scaffolds in a rat model</article-title>. <source xml:lang="en">J Appl Oral Sci.</source>
+<year>2017</year>;<volume>25</volume>:<fpage>10</fpage>&#x02010;<lpage>19</lpage>.<pub-id pub-id-type="pmid">28198971</pub-id></mixed-citation></ref><ref id="sct312607-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="sct312607-cit-0088">
+<string-name>
+<surname>Zuk</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mizuno</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Multilineage cells from human adipose tissue: implications for cell&#x02010;based therapies</article-title>. <source xml:lang="en">Tissue Eng.</source>
+<year>2001</year>;<volume>7</volume>:<fpage>211</fpage>&#x02010;<lpage>228</lpage>.<pub-id pub-id-type="pmid">11304456</pub-id></mixed-citation></ref><ref id="sct312607-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="sct312607-cit-0089">
+<string-name>
+<surname>Simonacci</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bertozzi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Grieco</surname>
+<given-names>MP</given-names>
+</string-name>, et al. <article-title>From liposuction to adipose&#x02010;derived stem cells: indications and technique</article-title>. <source xml:lang="en">Acta Biomed.</source>
+<year>2019</year>;<volume>90</volume>:<fpage>197</fpage>&#x02010;<lpage>208</lpage>.<pub-id pub-id-type="pmid">31124996</pub-id></mixed-citation></ref><ref id="sct312607-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="sct312607-cit-0090">
+<string-name>
+<surname>Paik</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Zielins</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name>
+<surname>Atashroo</surname>
+<given-names>DA</given-names>
+</string-name>, et al. <article-title>Studies in fat grafting: part V. Cell&#x02010;assisted lipotransfer to enhance fat graft retention is dose dependent</article-title>. <source xml:lang="en">Plast Reconstr Surg.</source>
+<year>2015</year>;<volume>136</volume>:<fpage>67</fpage>&#x02010;<lpage>75</lpage>.<pub-id pub-id-type="pmid">25829158</pub-id></mixed-citation></ref><ref id="sct312607-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="sct312607-cit-0091">
+<string-name>
+<surname>Domenis</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lazzaro</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Calabrese</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Adipose tissue derived stem cells: in vitro and in vivo analysis of a standard and three commercially available cell&#x02010;assisted lipotransfer techniques</article-title>. <source xml:lang="en">Stem Cell Res Ther.</source>
+<year>2015</year>;<volume>6</volume>:<fpage>2</fpage>.</mixed-citation></ref></ref-list></back></article>

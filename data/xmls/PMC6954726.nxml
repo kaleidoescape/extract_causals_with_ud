@@ -1,0 +1,961 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Immunology</journal-id><journal-id journal-id-type="iso-abbrev">Immunology</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2567</journal-id><journal-id journal-id-type="publisher-id">IMM</journal-id><journal-title-group><journal-title>Immunology</journal-title></journal-title-group><issn pub-type="ppub">0019-2805</issn><issn pub-type="epub">1365-2567</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31631339</article-id><article-id pub-id-type="pmc">6954726</article-id><article-id pub-id-type="doi">10.1111/imm.13137</article-id><article-id pub-id-type="publisher-id">IMM13137</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Protection of <italic>Batf3</italic>&#x02010;deficient mice from experimental cerebral malaria correlates with impaired cytotoxic T&#x02010;cell responses and immune regulation</article-title><alt-title alt-title-type="right-running-head">PbA&#x02010;infected Batf3<sup>&#x02212;/&#x02212;</sup> are protected from ECM</alt-title><alt-title alt-title-type="left-running-head">J. M. Kuehlwein <italic>et al.</italic></alt-title></title-group><contrib-group><contrib id="imm13137-cr-0001" contrib-type="author"><name><surname>Kuehlwein</surname><given-names>Janina M.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3648-2649</contrib-id><xref ref-type="aff" rid="imm13137-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="imm13137-note-0001">
+<sup><sup>&#x02020;</sup></sup>
+</xref></contrib><contrib id="imm13137-cr-0002" contrib-type="author"><name><surname>Borsche</surname><given-names>Max</given-names></name><xref ref-type="aff" rid="imm13137-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="imm13137-note-0001">
+<sup><sup>&#x02020;</sup></sup>
+</xref></contrib><contrib id="imm13137-cr-0003" contrib-type="author"><name><surname>Korir</surname><given-names>Patricia J.</given-names></name><xref ref-type="aff" rid="imm13137-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="imm13137-cr-0004" contrib-type="author"><name><surname>Risch</surname><given-names>Frederic</given-names></name><xref ref-type="aff" rid="imm13137-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="imm13137-cr-0005" contrib-type="author"><name><surname>Mueller</surname><given-names>Ann&#x02010;Kristin</given-names></name><xref ref-type="aff" rid="imm13137-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="imm13137-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="imm13137-cr-0006" contrib-type="author"><name><surname>H&#x000fc;bner</surname><given-names>Marc P.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8885-418X</contrib-id><xref ref-type="aff" rid="imm13137-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="imm13137-cr-0007" contrib-type="author"><name><surname>Hildner</surname><given-names>Kai</given-names></name><xref ref-type="aff" rid="imm13137-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="imm13137-cr-0008" contrib-type="author"><name><surname>Hoerauf</surname><given-names>Achim</given-names></name><xref ref-type="aff" rid="imm13137-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="imm13137-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="imm13137-cr-0009" contrib-type="author"><name><surname>Dunay</surname><given-names>Ildiko Rita</given-names></name><xref ref-type="aff" rid="imm13137-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="author-notes" rid="imm13137-note-0002">
+<sup>[Link]</sup>
+</xref></contrib><contrib id="imm13137-cr-0010" contrib-type="author" corresp="yes"><name><surname>Schumak</surname><given-names>Beatrix</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0749-3170</contrib-id><xref ref-type="aff" rid="imm13137-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="imm13137-note-0002">
+<sup>[Link]</sup>
+</xref><address><email>bschumak@uni-bonn.de</email><email>b.schumak@gmail.com</email></address></contrib></contrib-group><aff id="imm13137-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Institute of Medical Microbiology, Immunology and Parasitology</named-content>
+<institution>University Hospital Bonn</institution>
+<city>Bonn</city>
+<country country="DE">Germany</country>
+</aff><aff id="imm13137-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Parasitology Unit</named-content>
+<named-content content-type="organisation-division">Centre for Infectious Diseases</named-content>
+<institution>Heidelberg University Hospital</institution>
+<city>Heidelberg</city>
+<country country="DE">Germany</country>
+</aff><aff id="imm13137-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">DZIF German Center for Infection Research</named-content>
+<institution>Partner Site Heidelberg</institution>
+<city>Heidelberg</city>
+<country country="DE">Germany</country>
+</aff><aff id="imm13137-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Medical Department 1</named-content>
+<institution>University Hospital Erlangen</institution>
+<city>Erlangen</city>
+<country country="DE">Germany</country>
+</aff><aff id="imm13137-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">DZIF German Center for Infection Research</named-content>
+<institution>Partner Site Bonn&#x02010;Cologne</institution>
+<city>Bonn</city>
+<country country="DE">Germany</country>
+</aff><aff id="imm13137-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Institute of Inflammation and Neurodegeneration</named-content>
+<institution>University of Magdeburg</institution>
+<city>Magdeburg</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Dr Beatrix Schumak, Institute of Medical Microbiology, Immunology and Parasitology, University Hospital Bonn, Venusberg- Campus 1, Sigmund&#x02010;Freud&#x02010;Str. 25, 53127 Bonn, Germany. Emails: <email>bschumak@uni-bonn.de</email>; <email>b.schumak@gmail.com</email><break/>
+Senior authors: Ildiko Rita Dunay and Beatrix Schumak.<break/></corresp><fn fn-type="equal" id="imm13137-note-0001"><label><sup>&#x02020;</sup></label><p>Equal contribution of JMK and MB.</p></fn><fn id="imm13137-note-0002"><p>
+<sup>&#x02021;</sup>IRD and BS share senior authorship.</p></fn></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2020</year></pub-date><pub-date pub-type="pmc-release"><day>13</day><month>11</month><year>2019</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>159</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/imm.v159.2</issue-id><fpage>193</fpage><lpage>204</lpage><history><date date-type="received"><day>12</day><month>5</month><year>2019</year></date><date date-type="rev-recd"><day>30</day><month>9</month><year>2019</year></date><date date-type="accepted"><day>14</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2020 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Immunology</italic> Published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:IMM-159-193.pdf"/><abstract id="imm13137-abs-0001"><title>
+<bold>Summary</bold>
+</title><p>Excessive inflammatory immune responses during infections with <italic>Plasmodium</italic> parasites are responsible for severe complications such as cerebral malaria (CM) that can be studied experimentally in mice. Dendritic cells (DCs) activate cytotoxic CD8<sup>+</sup> T&#x02010;cells and initiate immune responses against the parasites. <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice lack a DC subset, which efficiently induces strong CD8 T&#x02010;cell responses by cross&#x02010;presentation of exogenous antigens. Here we show that <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice infected with <italic>Plasmodium berghei ANKA</italic> (PbA) were protected from experimental CM (ECM), characterized by a stable blood&#x02212;brain barrier (BBB)&#x000a0;and significantly less infiltrated peripheral immune cells in the brain. Importantly, the absence of ECM in <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice correlated with attenuated responses of cytotoxic T&#x02010;cells, as their parasite&#x02010;specific lytic activity as well as the production of interferon gamma and granzyme B were significantly decreased. Remarkably, spleens of ECM&#x02010;protected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice had elevated levels of regulatory immune cells and interleukin 10. Thus, protection from ECM in PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice was associated with the absence of strong CD8<sup>+</sup> T&#x02010;cell activity and induction of immunoregulatory mediators and cells.</p></abstract><abstract abstract-type="graphical" id="imm13137-abs-0002"><p>
+<italic>Batf3</italic>&#x02010;deficient mice lack cross&#x02010;presenting dendritic cells that are crucial for CD8 T&#x02010;cell activation. Here we show that these mice are protected from experimental cerebral malaria upon infection with <italic>Plasmodium berghei ANKA</italic>. The protected mice showed a decreased cytotoxic response and signs of immune regulation.<boxed-text position="anchor" content-type="graphic" id="imm13137-blkfxd-0001" orientation="portrait"><graphic xlink:href="IMM-159-193-g005.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="imm13137-kwd-0001">experimental&#x000a0;cerebral malaria</kwd><kwd id="imm13137-kwd-0002">dendritic cells</kwd><kwd id="imm13137-kwd-0003">inflammation</kwd><kwd id="imm13137-kwd-0004"><italic>Plasmodium</italic></kwd><kwd id="imm13137-kwd-0005">T&#x02010;cells</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Deutscher Akademischer Austauschdienst </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001655</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source>Medical Faculty of the Friedrich-Wilhelms-University of Bonn</funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Deutsche Forschungsgemeinschaft </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001659</institution-id></institution-wrap></funding-source><award-id>EXC1023</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="0"/><page-count count="12"/><word-count count="8457"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:11.01.2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="imm13137-body-0001"><def-list list-content="abbreviations" id="imm13137-lp-0001"><title>
+<bold>Abbreviations</bold>
+</title><def-item><term>BBB</term><def><p>blood&#x02212;brain barrier</p></def></def-item><def-item><term>CM</term><def><p>cerebral malaria</p></def></def-item><def-item><term>XP</term><def><p>cross&#x02010;presentation</p></def></def-item><def-item><term>DC</term><def><p>dendritic cell</p></def></def-item><def-item><term>ECM</term><def><p>experimental cerebral malaria</p></def></def-item><def-item><term>IL&#x02010;10</term><def><p>interleukin 10</p></def></def-item><def-item><term>iRBCs</term><def><p>infected red blood cells</p></def></def-item><def-item><term>IFN&#x02010;&#x003b3;</term><def><p>interferon gamma</p></def></def-item><def-item><term>PbA</term><def><p>
+<italic>Plasmodium berghei ANKA</italic>
+</p></def></def-item><def-item><term>PbTg</term><def><p>
+<italic>Plasmodium berghei</italic> ANKA expressing ovalbumin</p></def></def-item><def-item><term>Th1</term><def><p>T helper 1</p></def></def-item><def-item><term>WHO</term><def><p>World Health Organization</p></def></def-item></def-list><sec id="imm13137-sec-0001"><title>Introduction</title><p>Malaria is a vector&#x02010;transmitted disease caused by infections with unicellular <italic>Plasmodium</italic> parasites, and affects predominantly children below the age of 5&#x02005;years, pregnant women and travellers mostly in sub&#x02010;Saharan Africa and other tropical countries. Despite tremendous efforts, the World Health Organization (WHO) recorded in 2018 about 219&#x000a0;million infections and 435&#x000a0;000 fatalities due to malaria, of which the most cases are caused by <italic>Plasmodium falciparum</italic> (WHO Report 2018).<xref rid="imm13137-bib-0001" ref-type="ref">1</xref> The major clinically manifesting complications, such as cerebral malaria (CM), anaemia and acidosis, arise in the blood stage of infection when the <italic>Plasmodium</italic> parasites invade erythrocytes to continue their development and replicate massively.<xref rid="imm13137-bib-0002" ref-type="ref">2</xref> Phagocytic cells engulf parasitized red blood cells, and can trigger innate and inflammatory parasite&#x02010;specific immune responses in order to eliminate the parasites.<xref rid="imm13137-bib-0003" ref-type="ref">3</xref>, <xref rid="imm13137-bib-0004" ref-type="ref">4</xref> It is assumed that during fatal CM, excessive activity of effector cells and mediators in combination with the sequestration of parasitized erythrocytes is responsible for overwhelming inflammatory reactions that contribute to the observed pathology, but the precise mechanisms are not fully understood. Due to ethical concerns, comprehensive research approaches are limited in malaria patients and strongly rely on experimental models.<xref rid="imm13137-bib-0005" ref-type="ref">5</xref> Using models such as <italic>Plasmodium berghei ANKA</italic> (PbA) parasites that induce experimental CM (ECM) in C57BL/6 mice helped to identify cells and inflammatory mediators that are essential for ECM pathology, predominantly CD8 T&#x02010;cells<xref rid="imm13137-bib-0006" ref-type="ref">6</xref>, <xref rid="imm13137-bib-0007" ref-type="ref">7</xref>, <xref rid="imm13137-bib-0008" ref-type="ref">8</xref> and their effector molecules, such as interferon gamma (IFN&#x02010;&#x003b3;),<xref rid="imm13137-bib-0009" ref-type="ref">9</xref> granzyme B<xref rid="imm13137-bib-0010" ref-type="ref">10</xref> and lymphotoxins.<xref rid="imm13137-bib-0011" ref-type="ref">11</xref> In general, T&#x02010;cell activation requires proper function of antigen&#x02010;presenting cells (APCs), in particular dendritic cells (DCs) that are also fundamental in recognition of pathogens and induction of initial immune activation in order to generate protective immune responses.<xref rid="imm13137-bib-0012" ref-type="ref">12</xref> However, in some instances, immune responses triggered by <italic>Plasmodium</italic> parasites are not protective or even detrimental for the host. Insufficient protection was recently correlated with DC dysfunction,<xref rid="imm13137-bib-0013" ref-type="ref">13</xref> whereas the occurrence of E(CM) is interpreted as immune damage of the host due to strong inflammatory immune responses. Depletion studies revealed a key role for conventional DCs but not plasmacytoid DCs in ECM pathology.<xref rid="imm13137-bib-0014" ref-type="ref">14</xref>, <xref rid="imm13137-bib-0015" ref-type="ref">15</xref> Among the different subpopulations of conventional CD11c<sup>+</sup> DCs that represent the most prominent APCs, so&#x02010;called cross&#x02010;presenting DCs, are a special subset that are capable to prime T&#x02010;cells very efficiently via the exclusive ability to present exogenous antigen via MHC class I.<xref rid="imm13137-bib-0016" ref-type="ref">16</xref>, <xref rid="imm13137-bib-0017" ref-type="ref">17</xref> This specialized DC subset is characterized by expression of CD8&#x003b1;, XCR1 and the transcription factor <italic>batf3.</italic>
+<xref rid="imm13137-bib-0016" ref-type="ref">16</xref>, <xref rid="imm13137-bib-0018" ref-type="ref">18</xref>, <xref rid="imm13137-bib-0019" ref-type="ref">19</xref> Here we used <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice that genetically lack cross&#x02010;presenting DCs that were shown to be crucial for a protective cytotoxic T&#x02010;cell immune response in other models such as West Nile virus infection and tumour rejection.<xref rid="imm13137-bib-0016" ref-type="ref">16</xref> We investigated the direct impact of the absence of this DC subset on cytotoxic immune responses in PbA<italic>&#x02010;</italic> infected wild&#x02010;type (WT) and knockout (KO) mice. Whereas PbA&#x02010;infected WT mice generated strong parasite&#x02010;specific T&#x02010;cell responses and developed ECM after 6&#x000a0;days of infection, we demonstrate that PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice generated impaired cytotoxic T lymphocyte (CTL) activity, which was accompanied by the induction of regulatory immune responses in the absence of brain inflammation and protected the mice from ECM.</p></sec><sec sec-type="materials-and-methods" id="imm13137-sec-0002"><title>Materials and methods</title><sec id="imm13137-sec-0003"><sec id="imm13137-sec-0004"><title>Ethical statement</title><p>The study includes work with experimental animals, and was designed under consideration of the 3R rules and the ARRIVE checklist.<xref rid="imm13137-bib-0020" ref-type="ref">20</xref> All experimental procedures were licensed by our local regulatory agency (Landesamt fuer Natur, Umwelt und Verbraucherschutz, LANUV NRW) under &#x000a7;84&#x02010;02.04.2012.A264. Research staff was trained according to FELASA B guidelines. Female C57BL/6 WT mice (6&#x000a0;weeks) were purchased from Janvier (Le Genest Saint Isle, France). <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice on C57BL/6 background<xref rid="imm13137-bib-0016" ref-type="ref">16</xref> were bred in Magdeburg and Bonn according to institutional animal guidelines. All mice were housed in autoclaved ventilated cages (Tecniplast<sup>&#x000ae;</sup>, Hohenpei&#x000df;enberg, Germany) in our in&#x02010;house animal facility under specific pathogen&#x02010;free conditions with common animal bedding. A 12&#x000a0;hr light/dark cycle was maintained, and food and water were provided <italic>ad libitum</italic>. Mice were allocated randomly to cages with <italic>n</italic>&#x000a0;=&#x000a0;4&#x02013;6 mice per group according to the individual experimental group. Survival experiments were performed with 10 mice per group, and <italic>ex vivo</italic> experiments were performed with three&#x02013;five animals per group and two&#x02013;three times repeated, accordingly to sample size determination performed before by statistical power calculation. Infection, treatment and assessment of the health status were performed sequentially. Long&#x02010;term anaesthesia for <italic>ex vivo</italic> analysed experimental mice was applied before perfusion by intramuscular injection of 10&#x000a0;&#x000b5;l Rompun<sup>&#x000ae;</sup> (2% solution Bayer, Germany)&#x000a0;+&#x000a0;40&#x000a0;&#x000b5;l Ketamine (50&#x000a0;mg/ml; Ratiopharm GmbH, Ulm,&#x000a0;Germany) per mouse (25&#x000a0;g weight). In order to meet humane endpoints, critically sick mice were killed by cervical dislocation under isoflurane inhalation anaesthesia.</p></sec><sec id="imm13137-sec-0005"><title>Parasites, infection and disease assessment</title><p>Stocks containing murine red blood cells (RBCs) infected with PbA parasites<xref rid="imm13137-bib-0021" ref-type="ref">21</xref> were prepared from blood of sporozoite&#x02010;infected mice, mixed with glycerine and stored in liquid nitrogen. So&#x02010;called &#x02018;stock&#x02010;mice&#x02019; received 200&#x000a0;&#x000b5;l of the thawed parasite stock by intraperitoneal injection and donated parasite&#x02010;containing blood for experimental mice 4&#x02013;5&#x000a0;days later after determination of peripheral parasitemia with the help of a Giemsa stain. The experimental mice received 5&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> infected (i)RBCs diluted in sterile 1&#x02005;&#x000d7; phosphate&#x02010;buffered saline (PBS) by intravenous injection. Before day 4, parasitemia was almost undetectable (d1 p.i., d2 p.i.) or very low (d3 p.i.). From day 4 post&#x02010;infection, parasitemia was determined in blood smears taken from the tail vein. None of the infected mice was able to clear the parasites. Those animals that survived the ECM period or remained ECM free were killed latest on day 20 p.i. or immediately upon development of hyperparasitemia or anaemia.</p></sec><sec id="imm13137-sec-0006"><title>Determination of parasitemia and scoring of ECM</title><p>Peripheral parasitemia of PbA&#x02010;infected mice was determined by Giemsa staining of thin blood smears. Blood for analysis was collected from the tail vein and fixed with 100% methanol on glass slides. After drying, blood smears were stained in Giemsa solution [1&#x000a0;:&#x000a0;20 solution adjusted to pH 7&#x000b7;2; Giemsa&#x02019;s azur&#x02010;eosin&#x02010;methylene blue, Merck KGaA (Darmstadt, Germany)] for 15&#x000a0;min. At least 800 RBCs were counted; then, infected and uninfected RBCs were differentiated to calculate the rate of infection&#x000a0;=&#x000a0;percent parasitemia [=&#x02005;(iRBC/all RBCs)*100].</p><p>In our experimental conditions, WT mice started to display first signs of disease from 6 dpi on. To monitor ECM, mice were evaluated from 5 dpi twice a day according to the health score &#x02018;Rapid Murine Coma and Behavior Scale&#x02019; (RMCBS) for quantitative assessment of murine CM.<xref rid="imm13137-bib-0022" ref-type="ref">22</xref> Briefly, scoring based on 10 different health and behavioural parameters (gait, balance, motor performance, body position, limb strength, touch escape, pinna reflex, toe pinch, aggression, grooming), which are individually evaluated with 2 points (good response) to 0 (no response). Due to ethical reasons and in agreement with our ethical license, mice were killed when they reached a score of &#x02264;&#x02005;7.</p></sec><sec id="imm13137-sec-0007"><title>Preparation of organs and lymphocytes for <italic>ex vivo</italic> analysis</title><p>Deeply anaesthetized mice (see above) were intracardially perfused with 1&#x02005;&#x000d7; PBS for 5&#x000a0;min to remove circulating and non&#x02010;adhered blood leucocytes from the organs. After extraction, organs were cut into small pieces and digested with 0&#x000b7;5&#x000a0;mg/ml collagenase A (Roche, Basel, Switzerland), at 37&#x000b0; for 30&#x000a0;min. After that, 10&#x000a0;ml washing buffer (1&#x02005;&#x000d7; PBS 1% FCS 2&#x000a0;m<sc>m</sc> EDTA) were added and a single&#x02010;cell suspension was generated by homogenizing the tissue with the help of a fine metal sieve and washed with 1&#x02005;&#x000d7; PBS.</p><p>To enrich lymphocytes from brain homogenate, cell suspensions were resuspended in 3&#x000a0;ml 30% Percoll (GE Healthcare, Freiburg, Germany), and 3&#x000a0;ml of 70% Percoll was carefully placed below. Cells were spun for 20&#x000a0;min at room temperature with a relative centrifugal force (RCF) of 805 <italic>g</italic> with a swing bucket rotor (Eppendorf, Wesseling&#x02010;Berzdorf, Germany) without brake. The interphase containing the lymphocytes was carefully transferred into a new tube and washed with 1&#x02005;&#x000d7;&#x02005;PBS/1% FCS (PAA, C&#x000f6;lbe, Germany)/2&#x000a0;m<sc>m</sc> EDTA (Roth, Karlsruhe, Germany). Then, single cells were resuspended in RPMI medium (Sigma&#x02010;Aldrich, Munich, Germany) containing 10% fetal calf serum (PAA&#x000a0;Laboratories GmbH, C&#x000f6;lbe, Germany), 1% penicillin/streptomycin (Lonza, Wuppertal, Germany), 1% <sc>l</sc>&#x02010;glutamine (PAA), and used for either flow cytometric staining or <italic>in vitro</italic> incubation. To generate supernatants from brain&#x02010;derived lymphocytes, cells were adjusted to 1&#x000a0;&#x000d7;&#x000a0;10<sup>5</sup> cells/100&#x000a0;&#x000b5;l and incubated in microtiter plates (96 wells) overnight. Supernatants were analysed via sandwich ELISA.<xref rid="imm13137-bib-0023" ref-type="ref">23</xref>
+</p></sec><sec id="imm13137-sec-0008"><title>Evans Blue assay</title><p>Analysis of the blood&#x02212;brain barrier (BBB) integrity was performed with an Evans blue assay. Briefly, mice received by intravenous injection 100&#x000a0;&#x000b5;l of 2% (w/v) Evans blue (Sigma&#x02010;Aldrich) in 0&#x000b7;9% NaCl (AppliChem GmbH, Darmstadt, Germany) upon onset of cerebral symptoms in the control animals. One hour after injection, mice were deeply anaesthetized, and brains were removed, photographed and weighed, then incubated in 2&#x000a0;ml formamide (Sigma&#x02010;Aldrich) for 48&#x000a0;hr at 37&#x000b0;&#x000a0;to extract the dye. The amount of extracted dye was measured spectrophotometrically with an ELISA reader at 620&#x000a0;nm and quantified with a defined standard. Results were calculated as mg dye/g brain.</p></sec><sec id="imm13137-sec-0009"><title>Magnetic separation of splenocytes and ELISA</title><p>To analyse specific cell populations, CD4<sup>+</sup> and CD11b<sup>+</sup> splenocytes from homogenized murine spleens were separated with the help of specific antibodies labelled with MACS<sup>&#x000ae;</sup> beads via AutoMACS<sup>&#x000ae;</sup> (both Miltenyi Biotec GmbH, Bergisch Gladbach, Germany) according to the manufacturer&#x02019;s guide. Briefly, splenic single&#x02010;cell suspensions were taken in MACS<sup>&#x000ae;</sup> buffer (1&#x02005;&#x000d7;&#x02005;PBS 1% FCS 2&#x000a0;m<sc>m</sc> EDTA) and incubated with specific antibodies labelled with MACS<sup>&#x000ae;</sup> beads for 15&#x000a0;min at 4&#x000b0;. Afterwards, cells were washed twice with MACS<sup>&#x000ae;</sup> buffer and filtered through sterile gauze before separation in the AutoMACS<sup>&#x000ae;</sup> using positive selection steps. After separation, cells were resuspended in complete RPMI, counted and adjusted to the desired concentration for <italic>in vitro</italic> culture. 1&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> MACS<sup>&#x000ae;</sup>&#x02010;purified CD4<sup>+</sup> splenocytes or purified CD11b<sup>+</sup> splenocytes, respectively, were cultured in 200&#x000a0;&#x000b5;l complete RPMI medium (10% FCS, 1% Penicillin/Streptomycin) in triplicate overnight. The generated supernatants were then analysed for the presence of different cytokines with the help of ELISA. Sandwich ELISAs were performed to determine murine cytokine and chemokine levels in cell culture supernatants and plasma. To detect murine granzyme B and TNF, Duosets<sup>&#x000ae;</sup> from R&#x00026;D Systems (Minneapolis, MN, USA) were used. To detect murine interferon gamma (IFN&#x02010;&#x003b3;) or interleukin 6 (IL&#x02010;6), kits from eBioscience (Frankfurt am Main, Germany) were used. Murine IL&#x02010;10 was detected with reagents from BD Biosciences (Heidelberg, Germany). ELISAs were performed according to the manufacturers&#x02019; protocols. Tetramethylbenzidine (TMB) was used as a substrate and the reaction was stopped by adding H<sub>2</sub>SO<sub>4</sub> (Merck KGaA, Darmstadt, Germany). The optical density (OD) was measured with a photometer at 450&#x000a0;nm wavelength. The protein amount was calculated with the help of a standard curve.</p></sec><sec id="imm13137-sec-0010"><title>Reagents and media</title><p>For cell culture, RPMI 1640 medium (Sigma&#x02010;Aldrich) supplemented with 10% FCS (PAA&#x000a0;Laboratories GmbH), 1% Penicillin/Streptomycin or Gentamicin (Lonza, Wuppertal, Germany), 1% <sc>l</sc>&#x02010;Glutamine (PAA&#x000a0;Laboratories GmbH) was used.</p></sec><sec id="imm13137-sec-0011"><title>Flow cytometry and antibodies</title><p>Cells were stained with fluorescently labelled antibodies diluted in FACS buffer (1&#x02005;&#x000d7;&#x02005;PBS 1% FCS) that were incubated in a mastermix including anti&#x02010;Rat Ig with single&#x02010;cell suspensions from the different organs for 20&#x000a0;min on ice. The following monoclonal antibodies directly conjugated with fluorochromes were used for FACS analysis: anti&#x02010;mouse CD3 (clone 145&#x02010;2C11), CD4 (GK1.5), CD8a (clone 53&#x02010;6.7), CD11a (clone M17/4), CD11b (clone M1/70), CD11c (clone N418), CD25 (clone PC61.4), CD45 (clone 30&#x02010;F11), CD54 (clone YN1/1.7.4), NK1.1 (clone PK136), Ly6C (clone HK1.4), Ly6G (clone 1A8), F4/80 (clone BM8), were bought from BD Biosciences, BioLegend (Fell, Germany) eBioscience&#x000a0;and Invitrogen/Thermofisher (Darmstadt, Germany).</p><p>For intracellular staining of granzyme B (anti&#x02010;human, cross&#x02010;reactive with mouse, clone GB11, Invitrogen/Thermofisher), FoxP3 (clone FJK&#x02010;16s, eBioscience, IFN&#x02010;&#x003b3; (clone XMG1.2, BioLegend, Fell, Germany) or RELM alpha (purified polyclonal, rabbit, PeproTech&#x000a0;(Hamburg, Germany) in combination with goat anti&#x02010;rabbit Al488, Invitrogen/Thermofisher), after surface staining, the cells were fixed and permeabilized with reagents from the FoxP3/Transcription factor staining buffer set<sup>&#x000ae;</sup> from eBioscience according to the manufacturers&#x02019; protocol. For staining of RELM alpha, the cells were incubated with a fluorescently labelled secondary antibody against rabbit IgG (Invitrogen/Thermofisher) diluted in permeabilization buffer for another 30&#x000a0;min at room temperature. The cells were filtered before analysis on a LSR Fortessa<sup>&#x000ae;</sup> or Canto II<sup>&#x000ae;</sup> (BD Biosciences). Data were analysed with FlowJo<sup>&#x000ae;</sup> Software (Treestar, Ashland, OR, USA).</p></sec><sec id="imm13137-sec-0012"><title>In vivo cytotoxicity assay, peptides, restimulation</title><p>Ovalbumin&#x02010;specific CTL activity in mice infected with PbTg&#x02010;expressing parts of the model antigen ovalbumin was determined <italic>in vivo</italic> on day 6 p.i. as described elsewhere.<xref rid="imm13137-bib-0017" ref-type="ref">17</xref>, <xref rid="imm13137-bib-0024" ref-type="ref">24</xref> Briefly, splenocytes from syngeneic donor mice were prepared as a single&#x02010;cell suspension and split into two parts. One part&#x000a0;was pulsed with 1&#x000a0;&#x000b5;<sc>m</sc> of the ovalbumin&#x02010;derived specific H&#x02010;2k<sup>b</sup> peptide SIINFEKL (Sigma&#x02010;Aldrich), for 30&#x000a0;min at 37&#x000b0; and subsequently with 1&#x000a0;&#x000b5;<sc>m</sc> of 5,6&#x02010;carboxy&#x02010;succinimidyl&#x02010;fluorescein&#x02010;ester (CFSE; Invitrogen/Thermofisher) for 15&#x000a0;min (CFSE<sup>high</sup>, specific target cells). The other part served as&#x000a0;reference cells. These cells&#x000a0;were not pulsed with peptide, and labelled with only 0&#x000b7;1&#x000a0;&#x000b5;<sc>m</sc> CFSE for 15&#x000a0;min&#x000a0;at 37&#x000b0; (CFSE<sup>low</sup>&#x000a0;=&#x000a0;reference cells). After fluorochrome labelling, all cells were washed with 1 X PBS and counted. Then, both cell populations were mixed at a 1&#x000a0;:&#x000a0;1 ratio (CFSE<sup>high</sup>/CFSE<sup>low</sup>). Each recipient received 1&#x000a0;&#x000d7;&#x000a0;10<sup>7</sup> total cells into the tail vein at day 5. Mice were killed 18&#x000a0;hr later on day 6 p.i.&#x000a0;and spleens were isolated to prepare single&#x02010;cell suspensions. Lysis of peptide&#x02010;loaded cells was quantified by measuring the ratio of CFSE<sup>high</sup>/CFSE<sup>low</sup> cells via flow cytometry (Canto II, BD Biosciences). The percentage of specific lysis, termed S8L&#x02010;specific lysis, was calculated using the following equation: 100&#x02005;&#x02212;&#x02005;[(CFSE<sup>high</sup>/CFSE<sup>low</sup>)<sub>immunized</sub>/(CFSE<sup>high</sup>/CFSE<sup>low</sup>)<sub>na&#x000ef;ve</sub>]&#x000a0;x&#x000a0;100.</p><p>For restimulation of splenic CD8<sup>+</sup>&#x000a0;T&#x02010;cells from PbTg&#x02010;infected mice and na&#x000ef;ve control mice, 1&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> splenocytes were incubated in 200&#x000a0;&#x000b5;l RPMI medium with 1&#x000a0;&#x000b5;<sc>m</sc> SIINFEKL overnight, and supernatants were analysed for IFN&#x02010;&#x003b3; via sandwich ELISA (see below). To detect IFN&#x02010;&#x003b3; production from T&#x02010;cells that had infiltrated into the brains of PbA&#x02010;infected mice by intracellular flow cytometry, enriched lymphocyte preparations from perfused brains were restimulated with PMA (50&#x000a0;ng/ml; Sigma&#x02010;Aldrich) and Ionomycin (250&#x000a0;ng/ml; Sigma&#x02010;Aldrich) and Golgi Plug/Stop<sup>&#x000ae;</sup> (BD Biosciences) for 4&#x000a0;hr and then processed for intracellular flow cytometry.</p></sec><sec id="imm13137-sec-0013"><title>Statistical analysis</title><p>Statistical analysis was done using GraphPad Prism<sup>&#x000ae;</sup> software. Survival curves were analysed with the Log&#x02010;rank Mantel Cox test. All other graphs represent median&#x000a0;&#x000b1;&#x000a0;interquartile ranges. Significance was tested with Kruskal&#x02013;Wallis with Dunn&#x02019;s post&#x02010;test (&#x0003e;&#x02005;2 groups) or Mann&#x02212;Whitney test (2 groups). <italic>P</italic>&#x02010;values below 0&#x000b7;05 were considered significant. Asterisks in brackets between the groups indicate significant differences (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;01, ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001).</p></sec></sec></sec><sec sec-type="results" id="imm13137-sec-0014"><title>Results</title><sec id="imm13137-sec-0015"><title>
+<bold>Protection of <italic>Batf3</italic></bold>
+<sup>&#x02212;/&#x02212;</sup>
+<bold> mice from ECM development upon blood&#x02010;stage infection with PbA</bold>
+</title><p>To evaluate the relevance of the genetic lack of cross&#x02010;presenting DCs in ECM development upon infection with PbA parasites, we infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice with PbA&#x02010;iRBCs and monitored ECM development in comparison to WT mice. In contrast to PbA&#x02010;infected C57BL/6 WT mice that developed ECM, <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were completely protected against ECM upon infection with PbA (Fig. <xref rid="imm13137-fig-0001" ref-type="fig">1</xref>a,b), without showing any symptoms of disease. Importantly, they did not clear the parasites, and their blood&#x02010;stage&#x02010;parasite levels were comparable to PbA&#x02010;infected WT mice at the time point of ECM onset, thereby confirming efficient replication of the parasite also in the genetically deficient mice (Figs. <xref rid="imm13137-fig-0001" ref-type="fig">1</xref>c and <xref rid="imm13137-sup-0001" ref-type="supplementary-material">S1</xref>). In order to investigate the protection of infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice from ECM in more detail, we analysed the integrity of the BBB on day 6 after PbA infection. Whereas brains of PbA&#x02010;infected WT mice showed intensive staining upon systemic injection of Evans Blue, demonstrating a destructed BBB, the brains of PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were impermeable for the dye due to a stable BBB similar to na&#x000ef;ve mice (Fig. <xref rid="imm13137-fig-0001" ref-type="fig">1</xref>d). These differences were also assessed by colorimetric quantification of the brain&#x02010;infiltrating dye that revealed a significant difference between brains of PbA&#x02010;infected WT and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice (Fig. <xref rid="imm13137-fig-0001" ref-type="fig">1</xref>e).</p><fig fig-type="Figure" xml:lang="en" id="imm13137-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>No experimental cerebral malaria (ECM) in <italic>Plasmodium berghei ANKA</italic> (PbA)&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice. Wild&#x02010;type (WT) C57BL/6 mice and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice received 5&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> PbA&#x02010;infected red blood cells (iRBC) by i.v. injection. (a) Survival of PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice (<italic>n</italic>&#x000a0;=&#x000a0;10) and WT B6 mice (<italic>n</italic>&#x000a0;=&#x000a0;11). Significance was statistically tested with log&#x02010;rank test. (b) ECM was evaluated by assessing the RMCBS of PbA&#x02010;infected mice on day 6 p.i. versus na&#x000ef;ve mice. Data are pooled from six independent experiments, and are shown as median from four to five animals per group. (c) Parasitemia from infected WT and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice on day 6 p.i. (<italic>n</italic>&#x000a0;=&#x000a0;7&#x02013;8) and is representative for more than five independent experiments. (d, e) Integrity of the blood&#x02212;brain barrier (BBB) of PbA&#x02010;iRBC&#x02010;infected mice and na&#x000ef;ve controls was analysed on day 6 p.i. with the help of an Evans Blue assay. One hour after injection, brains were removed, homogenized and incubated for 48&#x000a0;hr in formamide. (e) Extravasation of the dye was quantified by colorimetric analysis. Data are shown as &#x000b5;g Evans Blue per g brain and are representative for two independent experiments, median with interquartile ranges. (b, c, e) Data are presented as median with interquartile ranges. Statistical analysis was performed using Kruskal&#x02212;Wallis and Dunn&#x02019;s post&#x02010;test. The stars between the groups indicate significant differences. <italic>P</italic>&#x02010;values&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05 were considered significant (**<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;01, ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001).</p></caption><graphic id="nlm-graphic-3" xlink:href="IMM-159-193-g001"/></fig><p>Thus, <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were protected from PbA&#x02010;induced ECM that was associated with a stable BBB.</p></sec><sec id="imm13137-sec-0016"><title>
+<bold>Attenuated brain inflammation in PbA&#x02010;infected <italic>Batf3</italic></bold>
+<sup>&#x02212;/&#x02212;</sup>
+<bold> mice</bold>
+</title><p>Next we addressed whether the protection of PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice from ECM could be correlated with altered infiltration of pathogenic effector cells into the brain from the periphery and their activity. To this end, we used flow cytometry to determine the total cell count of CD45<sup>hi</sup> peripheral immune cells that were isolated from brains of the experimental animals on day 6 after infection. Brains of ECM&#x02010;positive PbA&#x02010;infected WT mice, which had been perfused prior to extraction of the organ in order to remove blood and non&#x02010;adhered leucocytes, contained a significant increase of CD45<sup>hi</sup> cells as compared with lower cell counts from brains of both na&#x000ef;ve controls and PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice (Figs. <xref rid="imm13137-fig-0002" ref-type="fig">2</xref>a and <xref rid="imm13137-sup-0001" ref-type="supplementary-material">S1</xref>). Flow cytometric analysis revealed further that these CD45<sup>+</sup> infiltrates found in brains of PbA&#x02010;infected WT mice consisted mainly of CD3<sup>+</sup>&#x000a0;CD8<sup>+</sup> T&#x02010;cells, whereas the brains of na&#x000ef;ve mice and PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice contained only few CD3<sup>+</sup>&#x000a0;CD8<sup>+</sup> T&#x02010;cells (Figs. <xref rid="imm13137-fig-0002" ref-type="fig">2</xref>b and <xref rid="imm13137-sup-0001" ref-type="supplementary-material">S1</xref>). Moreover<italic>,</italic> whereas strong granzyme B signals were detected in brains of PbA&#x02010;infected WT mice that could be attributed majorly to CD8 T&#x02010;cells and to a lesser extent to CD4 T&#x02010;cells and NK.1.1<sup>+</sup>&#x000a0;cells (Fig. <xref rid="imm13137-sup-0001" ref-type="supplementary-material">S1</xref>), those CD3<sup>+&#x000a0;</sup>CD8<sup>+</sup> T&#x02010;cells from PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice contained decreased levels of intracellular granzyme B (Fig. <xref rid="imm13137-fig-0002" ref-type="fig">2</xref>c,d). Only T&#x02010;cells from PbA&#x02010;infected WT mice expressed significantly more ICAM&#x02010;1 on their surface compared with the na&#x000ef;ve controls (Fig. <xref rid="imm13137-fig-0002" ref-type="fig">2</xref>e), as measured by flow cytometry. In addition, only in cultures of enriched lymphocytes from brains of PbA&#x02010;infected WT mice did we detect significantly elevated levels of TNF (Fig. <xref rid="imm13137-fig-0002" ref-type="fig">2</xref>f) and granzyme B (Fig. <xref rid="imm13137-fig-0002" ref-type="fig">2</xref>g), whereas in samples from PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice the levels of these mediators were in the same range as of na&#x000ef;ve controls. Taken together, the sustained stability of the BBB and protection from ECM in PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice correlated with a decreased presence of CD8 T&#x02010;cells and a lack of inflammatory mediators in their brains.</p><fig fig-type="Figure" xml:lang="en" id="imm13137-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice lack CD8a<sup>+</sup> T&#x02010;cells in the brain after <italic>Plasmodium berghei ANKA</italic> (PbA) infection. C57BL/6 wild&#x02010;type (WT) mice and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were infected i.v. with 5&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> PbA&#x02010;infected red blood cells (iRBC). Six days later, brains from PbA&#x02010;infected WT and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were extracted after perfusion. Tissue was digested with collagenase, and a Percoll gradient was performed for lymphocyte enrichment and flow cytometric analysis. (a) #&#x000a0;=&#x000a0;Total count of CD45<sup>hi</sup> expressing cells per brain is shown. (b) CD8a<sup>+</sup> T&#x02010;cell count as calculated from the CD45<sup>hi</sup> fraction in (a) from brain&#x02010;enriched lymphocytes. (c, d) Activation of these CD8<sup>+</sup> T&#x02010;cells was determined by intracellular FACS analysis for expression of granzyme B after restimulation with PMA/ionomycin (c) and calculated per cell (d). (e) Surface expression of ICAM&#x02010;1 by CD8<sup>+ </sup>T&#x02010;cells. (f, g) Cytokine production of TNF (f) and granzyme B (g) was measured in overnight&#x02010;cultured lymphocytes isolated from the brains. All experiments are representative for at least three independent experiments; <italic>n</italic>&#x000a0;=&#x000a0;3&#x02013;5 per group. Data are presented as median with interquartile ranges; statistical analysis was performed using Kruskal&#x02212;Wallis and Dunn&#x02019;s post&#x02010;test. The stars between the groups indicate significant differences. <italic>P&#x02010;</italic>values&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05 were considered significant (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;01).</p></caption><graphic id="nlm-graphic-5" xlink:href="IMM-159-193-g002"/></fig></sec><sec id="imm13137-sec-0017"><title>
+<bold>PbA&#x02010;infected <italic>Batf3</italic></bold>
+<sup>&#x02212;/&#x02212;</sup>
+<bold> mice generated impaired PbA&#x02010;specific CTL responses in the spleen</bold>
+</title><p>Experimental CM is a Th1&#x02010;dependent immune damage, which is associated with the activity of cytotoxic CD8 T&#x02010;cells. <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice lack cross&#x02010;presenting DCs (Fig. <xref rid="imm13137-sup-0001" ref-type="supplementary-material">S2</xref>), a major APC population, which is crucial for effective priming of T&#x02010;cells to eliminate the pathogens but possibly also mediate immunopathology. The spleen is a central organ during <italic>Plasmodium</italic> blood&#x02010;stage infection for clearance of the parasites as well as for the induction of immune responses and immune regulation.<xref rid="imm13137-bib-0025" ref-type="ref">25</xref>, <xref rid="imm13137-bib-0026" ref-type="ref">26</xref>, <xref rid="imm13137-bib-0027" ref-type="ref">27</xref> Therefore, we addressed whether the protection of PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice from ECM was due to alterations in T&#x02010;cell activity in the spleen.</p><p>After 6&#x000a0;days of PbA infection, the spleens of PbA&#x02010;infected WT and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were enlarged in comparison to respective na&#x000ef;ve littermates; however, spleens of infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice exceeded all other groups regarding size and weight of the organs (Figs. <xref rid="imm13137-fig-0003" ref-type="fig">3</xref>a, <xref rid="imm13137-sup-0001" ref-type="supplementary-material">S3</xref> and <xref rid="imm13137-sup-0001" ref-type="supplementary-material">S4</xref>). Also, total splenocyte counts in PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were elevated compared with those of infected WT mice and na&#x000ef;ve animals (Fig. <xref rid="imm13137-fig-0003" ref-type="fig">3</xref>b). Flow cytometric analysis regarding the cellular composition in the spleens revealed a decreased CD8 frequency in PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice compared with their na&#x000ef;ve controls (Fig. <xref rid="imm13137-fig-0003" ref-type="fig">3</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="imm13137-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice generated an impaired CTL response in the spleen upon <italic>Plasmodium berghei ANKA</italic> (PbA) infection. C57BL/6 wild&#x02010;type (WT) mice and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were infected i.v. with 5&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> PbA&#x02010;infected red blood cells (iRBC). Six days later, spleens from infected WT and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice as well as naive control mice were evaluated regarding their size (a) and total cell count (b). (c) Frequency of splenic CD8<sup>+</sup> T&#x02010;cells. (d) Indicated WT and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were infected i.v. with an ovalbumin&#x02010;expressing transgenic PbA (PbTg). Na&#x000ef;ve mice served as controls. An ovalbumin&#x02010;specific <italic>in vivo</italic> cytotoxicity assay was performed on day 6 p.i. to measure the OVA&#x02010;derived MHC class I peptide SIINFEKL&#x02010;specific lytic activity of endogenous T&#x02010;cells in the spleen via flow cytometry. Statistical differences between both infected groups were tested with Mann&#x02013;Whitney. (e, f) Single&#x02010;cell suspensions from the same animals as in (d) were prepared and restimulated <italic>in vitro</italic> with 1&#x000a0;&#x000b5;<sc>m</sc> SIINFEKL peptide overnight (e, f). Supernatants were analysed for interferon gamma (IFN&#x02010;&#x003b3;) (e) and GrzB (f) by sandwich ELISA. Representative data from three experiments are shown, <italic>n</italic>&#x000a0;=&#x000a0;3&#x02013;5 per group. Values represent median&#x000a0;&#x000b1;&#x000a0;interquartile ranges. Statistical significance was tested with Kruskal&#x02212;Wallis and Dunn&#x02019;s post&#x02010;test. Significant differences are indicated by the brackets between the groups, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05 was considered significant (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001).</p></caption><graphic id="nlm-graphic-7" xlink:href="IMM-159-193-g003"/></fig><p>Because the protection from ECM in PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice could be a result of inefficient or impaired activity of effector T&#x02010;cells in the periphery, we addressed whether <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were able to generate functional parasite&#x02010;specific T&#x02010;cell responses upon infection with ovalbumin&#x02010;expressing PbA&#x02010;iRBC (PbTg).<xref rid="imm13137-bib-0017" ref-type="ref">17</xref> Therefore, <italic>in vivo</italic> cytotoxicity assays were performed on day 6 p.i. to investigate parasite&#x02010;specific lytic activity of splenic T&#x02010;cells of ovalbumin&#x02010;expressing PbTg&#x02010;infected mice (Fig. <xref rid="imm13137-sup-0001" ref-type="supplementary-material">S5</xref>). Whereas the T&#x02010;cells of PbTg&#x02010;infected WT mice showed an average lytic activity of 45%, the CTL activity of T&#x02010;cells from PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212; </sup>mice was significantly reduced to 18% (Fig. <xref rid="imm13137-fig-0003" ref-type="fig">3</xref>d). In general, splenocytes from PbA&#x02010;infected WT mice and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were able to produce IFN&#x02010;&#x003b3; upon ovalbumin&#x02010;derived H&#x02010;2K<sup>b</sup> peptide SIINFEKL restimulation (Fig. <xref rid="imm13137-fig-0003" ref-type="fig">3</xref>e) as well as granzyme B (Fig. <xref rid="imm13137-fig-0003" ref-type="fig">3</xref>f), but absolute levels of both mediators were lower in PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice compared with infected WT mice. With the help of intracellular flow cytometry, less granzyme B production per CD8<sup>+</sup> T&#x02010;cell as well as diminished total numbers of activated CD11a<sup>+</sup>&#x000a0;GrzmB<sup>+</sup> T&#x02010;cells in spleen samples of PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice compared with samples from PbA&#x02010;infected WT mice were observed, which remained a trend (Fig. <xref rid="imm13137-sup-0001" ref-type="supplementary-material">S6</xref>). Thus, PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice generated attenuated CTL responses characterized by reduced antigen&#x02010;specific lytic activity and impaired production of T&#x02010;cell effector molecules in the periphery.</p></sec><sec id="imm13137-sec-0018"><title>
+<bold>Immune regulatory milieu in ECM&#x02010;protected <italic>Batf3</italic></bold>
+<sup>&#x02212;/&#x02212;</sup>
+<bold> mice after PbA infection</bold>
+</title><p>Importantly, in addition to attenuated CD8 T&#x02010;cell responses, ECM&#x02010;protected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice contained more Tregs (Figs. <xref rid="imm13137-fig-0004" ref-type="fig">4</xref>a and <xref rid="imm13137-sup-0001" ref-type="supplementary-material">S7</xref>) and elevated frequencies of myeloid CD11b<sup>+</sup> splenocytes (Figs. <xref rid="imm13137-fig-0004" ref-type="fig">4</xref>b and <xref rid="imm13137-sup-0001" ref-type="supplementary-material">S7</xref>) in comparison with diseased WT mice. All na&#x000ef;ve groups and PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice presented among the CD11b<sup>+</sup> cells a stable population of CD11b<sup>+</sup>&#x000a0;F4/80<sup>+</sup> RELM alpha<sup>+</sup> cells, arguably alternatively activated macrophages, in contrast to samples from infected WT mice that contained only low numbers of this population (Figs. <xref rid="imm13137-fig-0004" ref-type="fig">4</xref>c,d and <xref rid="imm13137-sup-0001" ref-type="supplementary-material">S8</xref>).</p><fig fig-type="Figure" xml:lang="en" id="imm13137-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Interleukin (IL)&#x02010;10, Tregs and alternatively activated macrophages in spleens of <italic>Plasmodium berghei ANKA</italic> (PbA)&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice but not in infected wild&#x02010;type (WT) mice. WT and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were infected with PbA&#x02010;infected red blood cells (iRBC) and spleens were analysed 6&#x000a0;days later. (a) CD3<sup>+&#x000a0;</sup>CD4<sup>+</sup> T&#x02010;cells were analysed via FACS for expression of CD25 and FoxP3 expression (Tregs). The total Treg count was calculated from the total splenocyte count. (b) Frequency of CD11b<sup>+</sup> CD3<sup>&#x02212;</sup> splenocytes. (c) A representative dot plot (overlay) of total CD11b<sup>+</sup> cells (red) and subpopulations from naive controls compared with PbA&#x02010;infected WT and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice. Ly6C, Ly6G, F4/80 and RELM alpha were used to distinguish between RELM alpha<sup>+</sup> F4/80<sup>+</sup> macrophages (F4/80<sup>hi</sup>RELM<sup>hi</sup>Ly6C<sup>lo</sup>Ly6G<sup>int</sup>; dark green), neutrophils (F4/80<sup>neg</sup>RELM alpha<sup>neg</sup>Ly6C<sup>int</sup>Ly6G<sup>hi</sup>; light green) and monocytes (F4/80<sup>int</sup>RELM alpha<sup>neg</sup>Ly6C<sup>hi</sup>Ly6G<sup>neg</sup>; light blue). (d) Quantification of RELM alpha<sup>pos</sup> macrophages as gated in (c) per organ. (e) IL&#x02010;10 was measured by sandwich ELISA in the supernatants from whole splenocyte cultures after 24&#x000a0;hr. (f, g) IL&#x02010;10 production from MACS&#x02010;sorted CD4<sup>+</sup> splenocytes (f) or from MACS&#x02010;sorted CD11b<sup>+</sup> splenocytes (g) prepared from na&#x000ef;ve controls and 6&#x02005;dpi PbA&#x02010;infected WT and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice, respectively, after overnight culture as measured by ELISA. (a, b, d&#x02013;g) Representative data from three or more experiments are shown, <italic>n</italic>&#x000a0;=&#x000a0;3&#x02013;5 per group. Data are presented as median&#x000a0;&#x000b1;&#x000a0;interquartile range. Statistical significance was tested with Kruskal&#x02013;Wallis and Dunn&#x02019;s post&#x02010;test; <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05 was considered significant (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;01).</p></caption><graphic id="nlm-graphic-9" xlink:href="IMM-159-193-g004"/></fig><p>Remarkably, we detected elevated levels of IL&#x02010;10 (Fig. <xref rid="imm13137-fig-0004" ref-type="fig">4</xref>e) in splenocyte cultures of ECM&#x02010;protected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice compared with samples of WT mice. To identify the cellular source of IL&#x02010;10, we sorted CD4<sup>+</sup> splenocytes and CD11b<sup>+</sup> splenocytes from PbA&#x02010;infected WT and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice, respectively, and their corresponding na&#x000ef;ve controls, cultured them overnight <italic>in vitro</italic> and analysed the generated supernatants for the production of IL&#x02010;10. IL&#x02010;10 levels were decreased in supernatants derived from purified CD4<sup>+</sup> cells from PbA&#x02010;infected WT and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice in comparison to the samples of the na&#x000ef;ve groups but did not differ between the groups (Fig. <xref rid="imm13137-fig-0004" ref-type="fig">4</xref>f). In contrast, supernatants of cultured CD11b<sup>+</sup> splenocytes from PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice contained more than fourfold elevated levels of IL&#x02010;10 compared with their PbA&#x02010;infected WT counterparts (Fig. <xref rid="imm13137-fig-0004" ref-type="fig">4</xref>g), leading us to the conclusion that myeloid cells contribute to the splenic IL&#x02010;10 production that might be relevant for the generation of a protective milieu. However, the total values were 10&#x02010;fold lower than the values from the complete splenocyte culture.</p><p>Taken together, protection of PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice from ECM correlated with reduced CTL activity, and was accompanied by elevated levels of regulatory and myeloid cell subsets as well as anti&#x02010;inflammatory, predominately myeloid&#x02010;derived IL&#x02010;10 in the spleen.</p></sec></sec><sec sec-type="discussion" id="imm13137-sec-0019"><title>Discussion</title><p>The generation of efficient immune responses in infection is generally desired in order to protect the host from invading microbes. However, strong and imbalanced inflammatory processes can result in host tissue damage and are associated with pathology such as in malaria.<xref rid="imm13137-bib-0028" ref-type="ref">28</xref>, <xref rid="imm13137-bib-0029" ref-type="ref">29</xref> For PbA&#x02010;infected mice that develop experimental CM, strong CD8 T&#x02010;cell responses were identified as major mediators of pathology observed in susceptible C57BL/6 mice.<xref rid="imm13137-bib-0007" ref-type="ref">7</xref>, <xref rid="imm13137-bib-0008" ref-type="ref">8</xref>, <xref rid="imm13137-bib-0030" ref-type="ref">30</xref>, <xref rid="imm13137-bib-0031" ref-type="ref">31</xref> The CD8 T&#x02010;cells are activated in the periphery and, after reaching the brain, they need a second stimulus to exert their cytotoxic functions, most likely by cross&#x02010;presentation from endothelial brain vessel cells.<xref rid="imm13137-bib-0032" ref-type="ref">32</xref>, <xref rid="imm13137-bib-0033" ref-type="ref">33</xref>
+</p><p>Here we show that PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice, which genetically lack cross&#x02010;presenting DCs, were protected from ECM and presented a completely intact BBB. Importantly, protected mice had attenuated CD8<sup>+</sup> T&#x02010;cell responses as well as signs of immune regulation in the periphery that were not present in WT mice suffering from ECM. This indicated successful induction of a rather immune regulatory milieu in the absence of strong CD8<sup>+</sup> T&#x02010;cell activity in the genetically deficient mice.</p><p>Dendritic cells have a fundamental impact on the generation of T&#x02010;cell responses due to the central position of these APCs in linking innate and adaptive immunity. They are equipped with several pattern recognition receptors as well as a professional machinery to process and present antigen via the MHC to T&#x02010;cells.<xref rid="imm13137-bib-0004" ref-type="ref">4</xref>, <xref rid="imm13137-bib-0034" ref-type="ref">34</xref> In particular, cross&#x02010;priming of T&#x02010;cells by a limited number of cells, mainly professional APCs, is a phenomenon that was shown to represent a highly efficient pathway of T&#x02010;cell activation in case of exogenous antigen presentation via MHC class I,<xref rid="imm13137-bib-0035" ref-type="ref">35</xref> and is primarily performed by cross&#x02010;presenting DCs.<xref rid="imm13137-bib-0016" ref-type="ref">16</xref>, <xref rid="imm13137-bib-0019" ref-type="ref">19</xref> Our data demonstrate that the genetic deficiency in this cross&#x02010;presenting DC subset led to protection of the mice and correlated with impaired endogenous parasite&#x02010;specific T&#x02010;cell responses in the spleen, where CD8 T&#x02010;cell responses are primed during PbA blood&#x02010;stage infection before these cells migrate to the brain.<xref rid="imm13137-bib-0026" ref-type="ref">26</xref> PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were characterized by complete absence of brain inflammation and ECM pathology; these results are in line with those from studies that had focused on DCs in ECM pathology before by using conditional KO models.<xref rid="imm13137-bib-0014" ref-type="ref">14</xref>, <xref rid="imm13137-bib-0015" ref-type="ref">15</xref> One of the first studies addressing the role of DCs in experimental malaria demonstrated that only early depletion of conventional DCs (cDC) but not plasmacytoid DCs in a conditional KO was able to prevent ECM, favouring a role of cDCs in the priming phase of T&#x02010;cells.<xref rid="imm13137-bib-0014" ref-type="ref">14</xref> Also the role of cross&#x02010;presenting DCs in ECM was addressed before, where Clec9A&#x02010;DTR mice were shown to be protected from ECM upon targeted depletion of DCs.<xref rid="imm13137-bib-0015" ref-type="ref">15</xref> This was supported by findings in WT mice infected with OVA&#x02010;transgenic PbA parasites containing cross&#x02010;presenting CD8a<sup>+</sup> DCs that were purified and able to activate OVA&#x02010;specific T&#x02010;cells <italic>in vitro.</italic>
+<xref rid="imm13137-bib-0017" ref-type="ref">17</xref> In contrast to the only temporary absence of cross&#x02010;presenting DCs in the conditional KO model of Clec9a&#x02010;DTR mice, the mice used in our study lack <italic>Batf3<sup>+</sup></italic> DCs permanently and are on a pure C57BL/6 background. In addition, our study investigated endogenous antigen&#x02010;specific T&#x02010;cell responses that were generated in the periphery of WT and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice upon infection with OVA&#x02010;transgenic PbA parasites. Interestingly, splenic CTL lytic activity was still detectable in the completely protected mice, but this was strongly attenuated in comparison to the PbA&#x02010;infected WT mice. Secretion and per&#x02010;cell production of granzyme B and IFN&#x02010;&#x003b3; of splenocytes from PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were markedly decreased compared with PbA&#x02010;infected WT mice, too. Because strong T&#x02010;cell responses including the production of effector mediators such as IFN&#x02010;&#x003b3; and granzyme B have been recognized long ago as a prerequisite for parasite control but also crucial for ECM pathology,<xref rid="imm13137-bib-0010" ref-type="ref">10</xref> activation of these cell populations in <italic>Plasmodium</italic> infection is seen as two sides of the same coin.<xref rid="imm13137-bib-0036" ref-type="ref">36</xref>
+</p><p>While prevention of CTL induction in experimental blood&#x02010;stage infection according to our data and those from others is assumed as a major reason of protection from ECM, the situation is different during liver stage infection<xref rid="imm13137-bib-0037" ref-type="ref">37</xref> or vaccination approaches.<xref rid="imm13137-bib-0038" ref-type="ref">38</xref>, <xref rid="imm13137-bib-0039" ref-type="ref">39</xref>, <xref rid="imm13137-bib-0040" ref-type="ref">40</xref>, <xref rid="imm13137-bib-0041" ref-type="ref">41</xref> There, the activation of CD8 T&#x02010;cells by APCs and in particular by cross&#x02010;presenting DCs was shown to be central for the generation of protective immune responses. Akbari <italic>et al</italic>.<xref rid="imm13137-bib-0037" ref-type="ref">37</xref> investigated the role of DCs and specific versus non&#x02010;specific CD8 T&#x02010;cells with the help of OVA&#x02010;transgenic PbA parasites in liver stage infection. They found immune cell clusters in the liver around infected hepatocytes that were triggered by DCs and parasite&#x02010;specific T&#x02010;cells. Selective depletion of CD11c DCs impaired protective immunity against the sporozoites and the formation of the CD8 T&#x02010;cell clusters was reduced, indicating a central function of this APC subset in arranging functional immune defense. Similarly, data from Jobe <italic>et al.</italic>
+<xref rid="imm13137-bib-0042" ref-type="ref">42</xref> and Montagna <italic>et al.</italic>
+<xref rid="imm13137-bib-0039" ref-type="ref">39</xref> demonstrated in WT mice or <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice, respectively, the considerable function of CD8a<sup>+</sup> DCs for protective CD8 T&#x02010;cell immune responses upon vaccination with irradiated PbA sporozoites. Similarly, dysfunctional DCs were made responsible for the lack of semi&#x02010;immunity in human patients from endemic areas suffering from malaria.<xref rid="imm13137-bib-0043" ref-type="ref">43</xref>, <xref rid="imm13137-bib-0044" ref-type="ref">44</xref> Immunosuppression in the form of dysfunctional DCs might be a consequence of parasite&#x02010;manipulation or an attempt to control host immunity in order to prevent pathology, and was correlated in an experimental approach with impaired cross&#x02010;presentation.<xref rid="imm13137-bib-0045" ref-type="ref">45</xref>
+</p><p>Other myeloid cells that are capable of antigen presentation and T&#x02010;cell priming, such as cDCs, monocytes or macrophages,<xref rid="imm13137-bib-0027" ref-type="ref">27</xref>, <xref rid="imm13137-bib-0046" ref-type="ref">46</xref>, <xref rid="imm13137-bib-0047" ref-type="ref">47</xref>, <xref rid="imm13137-bib-0048" ref-type="ref">48</xref>, <xref rid="imm13137-bib-0049" ref-type="ref">49</xref> did not adequately compensate in our study for the deficiency of <italic>batf3<sup>+</sup></italic> DCs as the provoked CTL response was not sufficient to cause ECM in PbA&#x02010;infected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice as they were strongly protected. Our findings are supported and explained by the different capacity in T&#x02010;cell activation between DCs and macrophages, and had been addressed by Malo et al. in a targeted H&#x02010;2K<sup>b</sup> KO in either CD11c or LysM&#x02010;positive cells.<xref rid="imm13137-bib-0050" ref-type="ref">50</xref> There, the authors tested three different models for neuro&#x02010;inflammation including ECM. They showed for PbA&#x02010;infected mice that the absence of MHC class I&#x02010;positive DCs was the only protective approach preventing ECM in mice, whereas the depletion of K<sup>b</sup>&#x02010;positive LysM&#x02010;positive cells reduced the amount of brain&#x02010;infiltrated CD8 T&#x02010;cells, but was not sufficient to prevent ECM. The results from that study support the idea that antigen presentation by DCs is crucial for the pathology, whereas macrophages are assumed to contribute to antigen presentation but not in essential quantity. Because the complete impermeability of the BBB was a hallmark of protection, the important question arises whether the transgenic mice might benefit also from impaired cross&#x02010;presentation by endothelial cells in the brain, which is made responsible for triggering the cytolytic functions of pathogenic T&#x02010;cells and thus boosting ECM.<xref rid="imm13137-bib-0032" ref-type="ref">32</xref>, <xref rid="imm13137-bib-0033" ref-type="ref">33</xref> Whether this process is impaired and contributes to the protection of the genetically modified mice needs further investigation. Furthermore, monocytes are another subset that sense <italic>Plasmodium</italic> parasites and can influence T&#x02010;cell activity during malaria.<xref rid="imm13137-bib-0051" ref-type="ref">51</xref> We and others had shown before that selective depletion of Ly6C<sup>hi</sup> monocytes correlated with protection from PbA&#x02010;induced brain inflammation and absence of T&#x02010;cells from the brain.<xref rid="imm13137-bib-0046" ref-type="ref">46</xref>, <xref rid="imm13137-bib-0047" ref-type="ref">47</xref> Also, it was suggested that diversity and plasticity of myeloid cells contribute to pathology in <italic>Plasmodium</italic> infection.<xref rid="imm13137-bib-0049" ref-type="ref">49</xref>, <xref rid="imm13137-bib-0052" ref-type="ref">52</xref>, <xref rid="imm13137-bib-0053" ref-type="ref">53</xref> Hirako <italic>et al.</italic>
+<xref rid="imm13137-bib-0054" ref-type="ref">54</xref> investigated the fate of monocyte&#x02010;derived DCs that egressed from the spleen upon parasite encounter and migrated to the brain in a CXCL9/10&#x02010; and CCR5&#x02010;dependent manner where they augmented the access of effector T&#x02010;cells to the brain. Another important result of our study in addition to the impaired CTL activity was the evidence of immune regulatory mediators and cells in ECM&#x02010;protected <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice. Next to increased levels of IL&#x02010;10 and elevated numbers of regulatory T&#x02010;cells in the spleen, these mice contained a stable population of RELM alpha&#x02010;positive macrophages that were according to their phenotype indicative of M2 macrophages.<xref rid="imm13137-bib-0055" ref-type="ref">55</xref> IL&#x02010;10 and M2 macrophages are generally associated with suppression and/or regulation of immune responses also in ECM.<xref rid="imm13137-bib-0055" ref-type="ref">55</xref>, <xref rid="imm13137-bib-0056" ref-type="ref">56</xref> They are associated with type 2 immune responses acquired during chronic infections induced by parasitic helminths, which aim at balancing immune responses.<xref rid="imm13137-bib-0057" ref-type="ref">57</xref>, <xref rid="imm13137-bib-0058" ref-type="ref">58</xref> Besnard <italic>et al</italic>. described effective induction of immune regulation in PbA&#x02010;infected mice recently.<xref rid="imm13137-bib-0059" ref-type="ref">59</xref> There, WT C57BL/6 mice received recombinant IL&#x02010;33 that successfully induced innate lymphoid cells class 2 (ILC2) as well as the recruitment of regulatory T&#x02010;cells and M2 macrophages in the absence of ECM pathology.<xref rid="imm13137-bib-0059" ref-type="ref">59</xref> Their data also demonstrated that an active induction of immunoregulatory pathways supports the balancing of immune reactions and successful prevention of excessive Th1 responses. Similarly, we have shown recently that targeting cannabinoid receptor 2 (CB2) prevented ECM that was associated with expansion of regulatory myeloid cells in the periphery and was dependent on M2 macrophage chemokine CCL17.<xref rid="imm13137-bib-0060" ref-type="ref">60</xref> In our present study, this path of protection might be even facilitated as &#x02013; due to the lack of cross&#x02010;presenting DCs &#x02013; a strong CD8<sup>+</sup> T&#x02010;cell activity is genetically disrupted in <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice. While our data demonstrate the presence of IL&#x02010;10 and RELM alpha&#x02010;positive macrophages, and indicate a possible role in the protection of <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice from ECM, future approaches are necessary to confirm the functional role of these regulatory cell types and mediators in order to elucidate possible interference with the pathology.</p><p>Taken together, we conclude an intricate situation for cross&#x02010;presenting DCs facing <italic>Plasmodium</italic> parasites, their role in the induction of protective immune responses versus their position in orchestrating powerful but harmful T&#x02010;cell responses that cause pathology as seen in ECM. Importantly, our data from <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice with stable BBB and protection from strong inflammation reveal the generation of balancing immune responses with impaired CTL activity and at the same time significantly elevated anti&#x02010;inflammatory IL&#x02010;10 and regulatory cells, improving the understanding of disease mechanisms in malaria and possibilities of regulation and intervention.</p></sec><sec id="imm13137-sec-0021"><title>Financial support</title><p>This study was financially supported by the Bonn Excellence cluster &#x02018;Immunosensation&#x02019; EXC1023 [Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)] to BS and AH. PJK received a PhD scholarship from Deutscher Akademischer Auslandsdienst (DAAD). JK and BS received financial support from intramural funding (BONFOR) of the Medical Faculty of the Friedrich&#x02010;Wilhelms&#x02010;University of Bonn.</p></sec><sec id="imm13137-sec-0022"><title>Author contributions</title><p>JK, MB, PJK performed the experiments. JK, MB, IRD and BS conceived experiments. JK, MB, FR and BS analysed the data. KH, AKM, MH and AH contributed reagents and mice. JK, MB, IRD and BS wrote the manuscript. All authors read and approved the manuscript.</p></sec><sec id="imm13137-sec-0023"><title>Disclosures</title><p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="imm13137-sup-0001"><caption><p>
+<bold>Figure S1.</bold> Brain data: Parasite&#x02010;specific PCR and gating scheme for flow cytometry.</p><p>
+<bold>Figure S2.</bold> Gating strategy of splenic cross&#x02010;presenting DCs and proof for the genetic absence of cross&#x02010;presenting DCs in Batf3<sup>&#x02212;/&#x02212;</sup> mice.</p><p>
+<bold>Figure S3.</bold> Spleen weight of PbA&#x02010;infected mice on day 6 p.i.</p><p>
+<bold>Figure S4.</bold> Increased frequencies of CD19<sup>+</sup> B cell in spleens of PbA&#x02010;infected WT and <italic>Batf3</italic>
+<sup>&#x02212;/&#x02212;</sup> mice on &#x000a0;day 6 p.i.</p><p>
+<bold>Figure S5.</bold> Scheme of <italic>in vivo</italic> cytotoxic lysis assay; procedure, gating and analysis of target cells.</p><p>
+<bold>Figure S6.</bold> Expression of Granzyme B and CD11a by splenic CD8<sup>+</sup> T cells on day 6 p.i.</p><p>
+<bold>Figure S7.</bold> Gating schemes of regulatory T&#x02010;cells and&#x000a0;of CD11b<sup>+</sup>&#x000a0;splenocytes.</p><p>
+<bold>Figure S8.</bold> Gating scheme of CD11b<sup>+</sup> myeloid cells in the spleen.</p></caption><media xlink:href="IMM-159-193-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="imm13137-sec-0020"><title>Acknowledgements</title><p>The OVA&#x02010;expressing transgenic <italic>P.&#x000a0;berghei</italic> strain (PbTg) was kindly provided by William Heath (University of Melbourne, Australia). The authors gratefully acknowledge the FCCF core facility, UK Bonn for excellent technical support, and Bettina Dubben and Martina Fendler for their excellent&#x000a0;support with laboratory work.</p></ack><ref-list content-type="cited-references" id="imm13137-bibl-0001"><title>References</title><ref id="imm13137-bib-0001"><label>1</label><mixed-citation publication-type="book" id="imm13137-cit-0001">
+<collab collab-type="authors">WHO</collab>
+. <source xml:lang="en">World Malaria Report 2018</source>. <publisher-loc>Geneva</publisher-loc>: <publisher-name>World Health Organization</publisher-name>, <year>2018</year>.</mixed-citation></ref><ref id="imm13137-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="imm13137-cit-0002">
+<string-name>
+<surname>Cowman</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Healer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Marapana</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Marsh</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Malaria: biology and disease</article-title>. <source xml:lang="en">Cell</source>
+<year>2016</year>; <volume>167</volume>:<fpage>610</fpage>&#x02013;<lpage>24</lpage>.<pub-id pub-id-type="pmid">27768886</pub-id></mixed-citation></ref><ref id="imm13137-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="imm13137-cit-0003">
+<string-name>
+<surname>Gazzinelli</surname>
+<given-names>RT</given-names>
+</string-name>, <string-name>
+<surname>Kalantari</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Fitzgerald</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Golenbock</surname>
+<given-names>DT</given-names>
+</string-name>. <article-title>Innate sensing of malaria parasites</article-title>. <source xml:lang="en">Nat Rev Immunol</source>
+<year>2014</year>; <volume>14</volume>:<fpage>744</fpage>&#x02013;<lpage>57</lpage>.<pub-id pub-id-type="pmid">25324127</pub-id></mixed-citation></ref><ref id="imm13137-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="imm13137-cit-0004">
+<string-name>
+<surname>Gowda</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Parasite recognition and signaling mechanisms in innate immune responses to malaria</article-title>. <source xml:lang="en">Front Immunol</source>
+<year>2018</year>; <volume>9</volume>:<fpage>3006</fpage>.<pub-id pub-id-type="pmid">30619355</pub-id></mixed-citation></ref><ref id="imm13137-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="imm13137-cit-0005">
+<string-name>
+<surname>Ghazanfari</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Mueller</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name>
+<surname>Heath</surname>
+<given-names>WR</given-names>
+</string-name>. <article-title>Cerebral malaria in mouse and man</article-title>. <source xml:lang="en">Front Immunol</source>
+<year>2018</year>; <volume>9</volume>:<fpage>2016</fpage>.<pub-id pub-id-type="pmid">30250468</pub-id></mixed-citation></ref><ref id="imm13137-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="imm13137-cit-0006">
+<string-name>
+<surname>Yanez</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Batchelder</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>van der Heyde</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Manning</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Weidanz</surname>
+<given-names>WP</given-names>
+</string-name>. <article-title>Gamma delta T&#x02010;cell function in pathogenesis of cerebral malaria in mice infected with <italic>Plasmodium berghei</italic> ANKA</article-title>. <source xml:lang="en">Infect Immun</source>
+<year>1999</year>; <volume>67</volume>:<fpage>446</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">9864254</pub-id></mixed-citation></ref><ref id="imm13137-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="imm13137-cit-0007">
+<string-name>
+<surname>Belnoue</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kayibanda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vigario</surname>
+<given-names>AM</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>On the pathogenic role of brain&#x02010;sequestered alphabeta CD8<sup>+</sup> T cells in experimental cerebral malaria</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2002</year>; <volume>169</volume>:<fpage>6369</fpage>&#x02013;<lpage>75</lpage>.<pub-id pub-id-type="pmid">12444144</pub-id></mixed-citation></ref><ref id="imm13137-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="imm13137-cit-0008">
+<string-name>
+<surname>Swanson</surname>
+<given-names>PA</given-names>
+<suffix>2nd</suffix>
+</string-name>, <string-name>
+<surname>Hart</surname>
+<given-names>GT</given-names>
+</string-name>, <string-name>
+<surname>Russo</surname>
+<given-names>MV</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>CD8<sup>+</sup> T cells induce fatal brainstem pathology during cerebral malaria via luminal antigen&#x02010;specific engagement of brain vasculature</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<year>2016</year>; <volume>12</volume>:<elocation-id>e1006022</elocation-id>.<pub-id pub-id-type="pmid">27907215</pub-id></mixed-citation></ref><ref id="imm13137-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="imm13137-cit-0009">
+<string-name>
+<surname>Grau</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>Heremans</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Piguet</surname>
+<given-names>PF</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Monoclonal antibody against interferon gamma can prevent experimental cerebral malaria and its associated overproduction of tumor necrosis factor</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<year>1989</year>; <volume>86</volume>:<fpage>5572</fpage>&#x02013;<lpage>4</lpage>.<pub-id pub-id-type="pmid">2501793</pub-id></mixed-citation></ref><ref id="imm13137-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="imm13137-cit-0010">
+<string-name>
+<surname>Haque</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Best</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Unosson</surname>
+<given-names>K</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Granzyme B expression by CD8<sup>+</sup> T cells is required for the development of experimental cerebral malaria</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2011</year>; <volume>186</volume>:<fpage>6148</fpage>&#x02013;<lpage>56</lpage>.<pub-id pub-id-type="pmid">21525386</pub-id></mixed-citation></ref><ref id="imm13137-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="imm13137-cit-0011">
+<string-name>
+<surname>Randall</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Amante</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Cutting edge: selective blockade of LIGHT&#x02010;lymphotoxin beta receptor signaling protects mice from experimental cerebral malaria caused by <italic>Plasmodium berghei </italic>ANKA</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2008</year>; <volume>181</volume>:<fpage>7458</fpage>&#x02013;<lpage>62</lpage>.<pub-id pub-id-type="pmid">19017933</pub-id></mixed-citation></ref><ref id="imm13137-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="imm13137-cit-0012">
+<string-name>
+<surname>Steinman</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>Decisions about dendritic cells: past, present, and future</article-title>. <source xml:lang="en">Annu Rev Immunol</source>
+<year>2012</year>; <volume>30</volume>:<fpage>1</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">22136168</pub-id></mixed-citation></ref><ref id="imm13137-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="imm13137-cit-0013">
+<string-name>
+<surname>Yap</surname>
+<given-names>XZ</given-names>
+</string-name>, <string-name>
+<surname>Lundie</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Beeson</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>O'Keeffe</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Dendritic cell responses and function in malaria</article-title>. <source xml:lang="en">Front Immunol</source>
+<year>2019</year>; <volume>10</volume>:<fpage>357</fpage>.<pub-id pub-id-type="pmid">30886619</pub-id></mixed-citation></ref><ref id="imm13137-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="imm13137-cit-0014">
+<string-name>
+<surname>deWalick</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Amante</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name>
+<surname>McSweeney</surname>
+<given-names>KA</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Cutting edge: conventional dendritic cells are the critical APC required for the induction of experimental cerebral malaria</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2007</year>;<volume>178</volume>:<fpage>6033</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">17475826</pub-id></mixed-citation></ref><ref id="imm13137-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="imm13137-cit-0015">
+<string-name>
+<surname>Piva</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tetlak</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Claser</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Karjalainen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Renia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ruedl</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Cutting edge: Clec9A<sup>+</sup> dendritic cells mediate the development of experimental cerebral malaria</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2012</year>; <volume>189</volume>:<fpage>1128</fpage>&#x02013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">22732587</pub-id></mixed-citation></ref><ref id="imm13137-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="imm13137-cit-0016">
+<string-name>
+<surname>Hildner</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Edelson</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name>
+<surname>Purtha</surname>
+<given-names>WE</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Batf3 deficiency reveals a critical role for CD8alpha<sup>+</sup> dendritic cells in cytotoxic T cell immunity</article-title>. <source xml:lang="en">Science</source>
+<year>2008</year>; <volume>322</volume>:<fpage>1097</fpage>&#x02013;<lpage>100</lpage>.<pub-id pub-id-type="pmid">19008445</pub-id></mixed-citation></ref><ref id="imm13137-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="imm13137-cit-0017">
+<string-name>
+<surname>Lundie</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>de Koning&#x02010;Ward</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name>
+<surname>Davey</surname>
+<given-names>GM</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Blood&#x02010;stage Plasmodium infection induces CD8<sup>+</sup> T lymphocytes to parasite&#x02010;expressed antigens, largely regulated by CD8alpha<sup>+</sup> dendritic cells</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<year>2008</year>; <volume>105</volume>:<fpage>14&#x02005;509</fpage>&#x02013;<lpage>14</lpage>.</mixed-citation></ref><ref id="imm13137-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="imm13137-cit-0018">
+<string-name>
+<surname>Heath</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name>
+<surname>Belz</surname>
+<given-names>GT</given-names>
+</string-name>, <string-name>
+<surname>Behrens</surname>
+<given-names>GMN</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Cross&#x02010;presentation, dendritic cell subsets, and the generation of immunity to cellular antigens</article-title>. <source xml:lang="en">Immunol Rev</source>
+<year>2004</year>; <volume>199</volume>:<fpage>9</fpage>&#x02013;<lpage>26</lpage>.<pub-id pub-id-type="pmid">15233723</pub-id></mixed-citation></ref><ref id="imm13137-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="imm13137-cit-0019">
+<string-name>
+<surname>Bachem</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hartung</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>G&#x000fc;ttler</surname>
+<given-names>S</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Expression of XCR1 characterizes the Batf3&#x02010;dependent lineage of dendritic cells capable of antigen cross&#x02010;presentation</article-title>. <source xml:lang="en">Front Immunol</source>
+<year>2012</year>; <volume>3</volume>:<fpage>214</fpage>.<pub-id pub-id-type="pmid">22826713</pub-id></mixed-citation></ref><ref id="imm13137-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="imm13137-cit-0020">
+<string-name>
+<surname>Kilkenny</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Browne</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Cuthill</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name>
+<surname>Emerson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</string-name>. <article-title>Improving bioscience research reporting: the ARRIVE guidelines for reporting animal research</article-title>. <source xml:lang="en">J Pharmacol Pharmacother</source>
+<year>2010</year>; <volume>1</volume>:<fpage>94</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">21350617</pub-id></mixed-citation></ref><ref id="imm13137-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="imm13137-cit-0021">
+<string-name>
+<surname>Hall</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Karras</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Raine</surname>
+<given-names>JD</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A comprehensive survey of the <italic>Plasmodium</italic> life cycle by genomic, transcriptomic, and proteomic analyses</article-title>. <source xml:lang="en">Science</source>
+<year>2005</year>; <volume>307</volume>:<fpage>82</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">15637271</pub-id></mixed-citation></ref><ref id="imm13137-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="imm13137-cit-0022">
+<string-name>
+<surname>Carroll</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Wainwright</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>K&#x02010;Y</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A rapid murine coma and behavior scale for quantitative assessment of murine cerebral malaria</article-title>. <source xml:lang="en">PLoS ONE</source>
+<year>2010</year>; <volume>5</volume>:<elocation-id>e13124</elocation-id>.<pub-id pub-id-type="pmid">20957049</pub-id></mixed-citation></ref><ref id="imm13137-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="imm13137-cit-0023">
+<string-name>
+<surname>Schmidt</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Kuepper</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Schumak</surname>
+<given-names>B</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Doxycycline inhibits experimental cerebral malaria by reducing inflammatory immune reactions and tissue&#x02010;degrading mediators</article-title>. <source xml:lang="en">PLoS ONE</source>
+<year>2018</year>; <volume>13</volume>:<elocation-id>e0192717</elocation-id>.<pub-id pub-id-type="pmid">29438386</pub-id></mixed-citation></ref><ref id="imm13137-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="imm13137-cit-0024">
+<string-name>
+<surname>Feuerer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Beckhove</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Garbi</surname>
+<given-names>N</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Bone marrow as a priming site for T&#x02010;cell responses to blood&#x02010;borne antigen</article-title>. <source xml:lang="en">Nat Med</source>
+<year>2003</year>; <volume>9</volume>:<fpage>1151</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">12910264</pub-id></mixed-citation></ref><ref id="imm13137-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="imm13137-cit-0025">
+<string-name>
+<surname>Del Portillo</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Ferrer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Brugat</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Martin&#x02010;Jaular</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Langhorne</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lacerda</surname>
+<given-names>MVG</given-names>
+</string-name>. <article-title>The role of the spleen in malaria</article-title>. <source xml:lang="en">Cell Microbiol</source>
+<year>2012</year>; <volume>14</volume>:<fpage>343</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">22188297</pub-id></mixed-citation></ref><ref id="imm13137-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="imm13137-cit-0026">
+<string-name>
+<surname>Engwerda</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Beattie</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Amante</surname>
+<given-names>FH</given-names>
+</string-name>. <article-title>The importance of the spleen in malaria</article-title>. <source xml:lang="en">Trends Parasitol</source>
+<year>2005</year>; <volume>21</volume>:<fpage>75</fpage>&#x02013;<lpage>80</lpage>.<pub-id pub-id-type="pmid">15664530</pub-id></mixed-citation></ref><ref id="imm13137-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="imm13137-cit-0027">
+<string-name>
+<surname>Sponaas</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Freitas do Rosario</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Voisine</surname>
+<given-names>C</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Migrating monocytes recruited to the spleen play an important role in control of blood stage malaria</article-title>. <source xml:lang="en">Blood</source>
+<year>2009</year>; <volume>114</volume>:<fpage>5522</fpage>&#x02013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">19837977</pub-id></mixed-citation></ref><ref id="imm13137-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="imm13137-cit-0028">
+<string-name>
+<surname>Luzolo</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Ngoyi</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>Cerebral malaria</article-title>. <source xml:lang="en">Brain Res Bull</source>
+<year>2019</year>; <volume>145</volume>:<fpage>53</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">30658131</pub-id></mixed-citation></ref><ref id="imm13137-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="imm13137-cit-0029">
+<string-name>
+<surname>Wassmer</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Grau</surname>
+<given-names>GE</given-names>
+</string-name>. <article-title>Severe malaria: what's new on the pathogenesis front?</article-title>
+<source xml:lang="en">Int J Parasitol</source>
+<year>2017</year>; <volume>47</volume>:<fpage>145</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">27670365</pub-id></mixed-citation></ref><ref id="imm13137-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="imm13137-cit-0030">
+<string-name>
+<surname>Renia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Potter</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Mauduit</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Pathogenic T cells in cerebral malaria</article-title>. <source xml:lang="en">Int J Parasitol</source>
+<year>2006</year>; <volume>36</volume>:<fpage>547</fpage>&#x02013;<lpage>4</lpage>.<pub-id pub-id-type="pmid">16600241</pub-id></mixed-citation></ref><ref id="imm13137-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="imm13137-cit-0031">
+<string-name>
+<surname>Shaw</surname>
+<given-names>TN</given-names>
+</string-name>, <string-name>
+<surname>Stewart&#x02010;Hutchinson</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Strangward</surname>
+<given-names>P</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Perivascular arrest of CD8<sup>+</sup> T cells is a signature of experimental cerebral malaria</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<year>2015</year>; <volume>11</volume>:<elocation-id>e1005210</elocation-id>.<pub-id pub-id-type="pmid">26562533</pub-id></mixed-citation></ref><ref id="imm13137-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="imm13137-cit-0032">
+<string-name>
+<surname>Howland</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Poh</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Gun</surname>
+<given-names>SY</given-names>
+</string-name>
+<italic>et al.</italic>
+<article-title>Brain microvessel cross&#x02010;presentation is a hallmark of experimental cerebral malaria</article-title>. <source xml:lang="en">EMBO Mol Med</source>
+<year>2013</year>; <volume>5</volume>:<fpage>984</fpage>&#x02013;<lpage>99</lpage>.<pub-id pub-id-type="pmid">23681698</pub-id></mixed-citation></ref><ref id="imm13137-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="imm13137-cit-0033">
+<string-name>
+<surname>Howland</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Poh</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Renia</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Activated brain endothelial cells cross&#x02010;present malaria antigen</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<year>2015</year>; <volume>11</volume>:<elocation-id>e1004963</elocation-id>.<pub-id pub-id-type="pmid">26046849</pub-id></mixed-citation></ref><ref id="imm13137-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="imm13137-cit-0034">
+<string-name>
+<surname>Cockburn</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name>
+<surname>Zavala</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Dendritic cell function and antigen presentation in malaria</article-title>. <source xml:lang="en">Curr Opin Immunol</source>
+<year>2016</year>; <volume>40</volume>:<fpage>1</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">26845735</pub-id></mixed-citation></ref><ref id="imm13137-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="imm13137-cit-0035">
+<string-name>
+<surname>Kurts</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Heath</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name>
+<surname>Carbone</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name>
+<surname>Allison</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Kosaka</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Constitutive class I&#x02010;restricted exogenous presentation of self antigens in vivo</article-title>. <source xml:lang="en">J Exp Med</source>
+<year>1996</year>; <volume>184</volume>:<fpage>923</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">9064352</pub-id></mixed-citation></ref><ref id="imm13137-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="imm13137-cit-0036">
+<string-name>
+<surname>King</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lamb</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Interferon&#x02010;gamma: the Jekyll and Hyde of Malaria</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<year>2015</year>; <volume>11</volume>:<elocation-id>e1005118</elocation-id>.<pub-id pub-id-type="pmid">26426121</pub-id></mixed-citation></ref><ref id="imm13137-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="imm13137-cit-0037">
+<string-name>
+<surname>Akbari</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kimura</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bayarsaikhan</surname>
+<given-names>G</given-names>
+</string-name>
+<italic>et al.</italic>
+<article-title>Nonspecific CD8<sup>+</sup> T cells and dendritic cells/macrophages participate in formation of CD8<sup>+</sup> T cell&#x02010;mediated clusters against malaria liver&#x02010;stage infection</article-title>. <source xml:lang="en">Infect Immun</source>
+<year>2018</year>; <volume>86</volume>:<elocation-id>e00717-17</elocation-id>
+<pub-id pub-id-type="doi">10.1128/IAI.00717-17</pub-id>.<pub-id pub-id-type="pmid">29426043</pub-id></mixed-citation></ref><ref id="imm13137-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="imm13137-cit-0038">
+<string-name>
+<surname>Jobe</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Donofrio</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Liepinsh</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Schwenk</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Immunization with radiation&#x02010;attenuated <italic>Plasmodium berghei</italic> sporozoites induces liver cCD8alpha<sup>+</sup> DC that activate CD8<sup>+</sup> T cells against liver&#x02010;stage malaria</article-title>. <source xml:lang="en">PLoS ONE</source>
+<year>2009</year>; <volume>4</volume>:<elocation-id>e5075</elocation-id>.<pub-id pub-id-type="pmid">19347042</pub-id></mixed-citation></ref><ref id="imm13137-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="imm13137-cit-0039">
+<string-name>
+<surname>Montagna</surname>
+<given-names>GN</given-names>
+</string-name>, <string-name>
+<surname>Biswas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hildner</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Matuschewski</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Dunay</surname>
+<given-names>IR</given-names>
+</string-name>. <article-title>Batf3 deficiency proves the pivotal role of CD8alpha<sup>+</sup> dendritic cells in protection induced by vaccination with attenuated <italic>Plasmodium </italic>sporozoites</article-title>. <source xml:lang="en">Parasite Immunol</source>
+<year>2015</year>; <volume>37</volume>:<fpage>533</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">26284735</pub-id></mixed-citation></ref><ref id="imm13137-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="imm13137-cit-0040">
+<string-name>
+<surname>Radtke</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Kastenm&#x000fc;ller</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Espinosa</surname>
+<given-names>DA</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Lymph&#x02010;node resident CD8alpha<sup>+</sup> dendritic cells capture antigens from migratory malaria sporozoites and induce CD8<sup>+</sup> T cell responses</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<year>2015</year>; <volume>11</volume>:<elocation-id>e1004637</elocation-id>.<pub-id pub-id-type="pmid">25658939</pub-id></mixed-citation></ref><ref id="imm13137-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="imm13137-cit-0041">
+<string-name>
+<surname>Cockburn</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Y&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Overstreet</surname>
+<given-names>MG</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Prolonged antigen presentation is required for optimal CD8<sup>+</sup> T cell responses against malaria liver stage parasites</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<year>2010</year>; <volume>6</volume>:<elocation-id>e1000877</elocation-id>.<pub-id pub-id-type="pmid">20463809</pub-id></mixed-citation></ref><ref id="imm13137-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="imm13137-cit-0042">
+<string-name>
+<surname>Jobe</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Donofrio</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Liepinsh</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Schwenk</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Krzych</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>Immunization with radiation&#x02010;attenuated <italic>Plasmodium</italic>
+<italic>berghei</italic> sporozoites induces liver cCD8alpha<sup>+</sup>DC that activate CD8<sup>+</sup>T cells against liver&#x02010;stage malaria</article-title>. <source xml:lang="en">PLoS ONE</source>
+<year>2009</year>; <volume>4</volume>:<elocation-id>e5075</elocation-id>.<pub-id pub-id-type="pmid">19347042</pub-id></mixed-citation></ref><ref id="imm13137-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="imm13137-cit-0043">
+<string-name>
+<surname>Pinzon&#x02010;Charry</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Woodberry</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kienzle</surname>
+<given-names>V</given-names>
+</string-name>
+<italic>et al.</italic>
+<article-title>Apoptosis and dysfunction of blood dendritic cells in patients with falciparum and vivax malaria</article-title>. <source xml:lang="en">J Exp Med</source>
+<year>2013</year>; <volume>210</volume>:<fpage>1635</fpage>&#x02013;<lpage>46</lpage>.<pub-id pub-id-type="pmid">23835848</pub-id></mixed-citation></ref><ref id="imm13137-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="imm13137-cit-0044">
+<string-name>
+<surname>Amorim</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name>
+<surname>Chagas</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Sulczewski</surname>
+<given-names>FB</given-names>
+</string-name>, <string-name>
+<surname>Boscardin</surname>
+<given-names>SB</given-names>
+</string-name>. <article-title>Dendritic cells and their multiple roles during malaria infection</article-title>. <source xml:lang="en">J Immunol Res</source>
+<year>2016</year>; <volume>2016</volume>:<fpage>2&#x02005;926&#x02005;436</fpage>.</mixed-citation></ref><ref id="imm13137-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="imm13137-cit-0045">
+<string-name>
+<surname>Wilson</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>Behrens</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Lundie</surname>
+<given-names>RJ</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Systemic activation of dendritic cells by Toll&#x02010;like receptor ligands or malaria infection impairs cross&#x02010;presentation and antiviral immunity</article-title>. <source xml:lang="en">Nat Immunol</source>
+<year>2006</year>; <volume>7</volume>:<fpage>165</fpage>&#x02013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">16415871</pub-id></mixed-citation></ref><ref id="imm13137-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="imm13137-cit-0046">
+<string-name>
+<surname>Schumak</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Klocke</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kuepper</surname>
+<given-names>JM</given-names>
+</string-name>
+<italic>et al.</italic>
+<article-title>Specific depletion of Ly6C(hi) inflammatory monocytes prevents immunopathology in experimental cerebral malaria</article-title>. <source xml:lang="en">PLoS ONE</source>
+<year>2015</year>; <volume>10</volume>:<elocation-id>e0124080</elocation-id>.<pub-id pub-id-type="pmid">25884830</pub-id></mixed-citation></ref><ref id="imm13137-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="imm13137-cit-0047">
+<string-name>
+<surname>Pai</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Cavanagh</surname>
+<given-names>L</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Real&#x02010;time imaging reveals the dynamics of leukocyte behaviour during experimental cerebral malaria pathogenesis</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<year>2014</year>; <volume>10</volume>:<elocation-id>e1004236</elocation-id>.<pub-id pub-id-type="pmid">25033406</pub-id></mixed-citation></ref><ref id="imm13137-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="imm13137-cit-0048">
+<string-name>
+<surname>Sponaas</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Cadman</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name>
+<surname>Voisine</surname>
+<given-names>C</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Malaria infection changes the ability of splenic dendritic cell populations to stimulate antigen&#x02010;specific T cells</article-title>. <source xml:lang="en">J Exp Med</source>
+<year>2006</year>; <volume>203</volume>:<fpage>1427</fpage>&#x02013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">16754719</pub-id></mixed-citation></ref><ref id="imm13137-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="imm13137-cit-0049">
+<string-name>
+<surname>Ortega&#x02010;Pajares</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rogerson</surname>
+<given-names>SJ</given-names>
+</string-name>. <article-title>The rough guide to monocytes in malaria infection</article-title>. <source xml:lang="en">Front Immunol</source>
+<year>2018</year>; <volume>9</volume>:<fpage>2888</fpage>.<pub-id pub-id-type="pmid">30581439</pub-id></mixed-citation></ref><ref id="imm13137-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="imm13137-cit-0050">
+<string-name>
+<surname>Malo</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Huggins</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Goddery</surname>
+<given-names>EN</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Non&#x02010;equivalent antigen presenting capabilities of dendritic cells and macrophages in generating brain&#x02010;infiltrating CD8 (+) T cell responses</article-title>. <source xml:lang="en">Nat Commun</source>
+<year>2018</year>; <volume>9</volume>:<fpage>633</fpage>.<pub-id pub-id-type="pmid">29434238</pub-id></mixed-citation></ref><ref id="imm13137-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="imm13137-cit-0051">
+<string-name>
+<surname>Coch</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hommertgen</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zillinger</surname>
+<given-names>T</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Human TLR8 senses RNA from <italic>Plasmodium falciparum</italic>&#x02010;infected red blood cells which is uniquely required for the IFN&#x02010;gamma response in NK cells</article-title>. <source xml:lang="en">Front Immunol</source>
+<year>2019</year>; <volume>10</volume>:<fpage>371</fpage>.<pub-id pub-id-type="pmid">30972055</pub-id></mixed-citation></ref><ref id="imm13137-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="imm13137-cit-0052">
+<string-name>
+<surname>Niewold</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>van Vreden</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Getts</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Grau</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>King</surname>
+<given-names>NJC</given-names>
+</string-name>. <article-title>Experimental severe malaria is resolved by targeting newly&#x02010;identified monocyte subsets using immune&#x02010;modifying particles combined with artesunate</article-title>. <source xml:lang="en">Commun Biol</source>
+<year>2018</year>; <volume>1</volume>:<fpage>227</fpage>.<pub-id pub-id-type="pmid">30564748</pub-id></mixed-citation></ref><ref id="imm13137-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="imm13137-cit-0053">
+<string-name>
+<surname>Pais</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name>
+<surname>Chatterjee</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Brain macrophage activation in murine cerebral malaria precedes accumulation of leukocytes and CD8<sup>+</sup> T cell proliferation</article-title>. <source xml:lang="en">J Neuroimmunol</source>
+<year>2005</year>; <volume>163</volume>:<fpage>73</fpage>&#x02013;<lpage>83</lpage>.<pub-id pub-id-type="pmid">15885309</pub-id></mixed-citation></ref><ref id="imm13137-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="imm13137-cit-0054">
+<string-name>
+<surname>Hirako</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name>
+<surname>Ataide</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Faustino</surname>
+<given-names>L</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Splenic differentiation and emergence of CCR5<sup>+</sup>CXCL9<sup>+</sup>CXCL10<sup>+</sup> monocyte&#x02010;derived dendritic cells in the brain during cerebral malaria</article-title>. <source xml:lang="en">Nat Commun</source>
+<year>2016</year>; <volume>7</volume>:<fpage>13&#x02005;277</fpage>.</mixed-citation></ref><ref id="imm13137-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="imm13137-cit-0055">
+<string-name>
+<surname>Roszer</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Understanding the mysterious M2 macrophage through activation markers and effector mechanisms</article-title>. <source xml:lang="en">Mediators Inflamm</source>
+<year>2015</year>; <volume>2015</volume>:<fpage>816&#x02005;460</fpage>.</mixed-citation></ref><ref id="imm13137-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="imm13137-cit-0056">
+<string-name>
+<surname>Kossodo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Monso</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Juillard</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Velu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Goldman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Grau</surname>
+<given-names>GE</given-names>
+</string-name>. <article-title>Interleukin&#x02010;10 modulates susceptibility in experimental cerebral malaria</article-title>. <source xml:lang="en">Immunology</source>
+<year>1997</year>; <volume>91</volume>:<fpage>536</fpage>&#x02013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">9378491</pub-id></mixed-citation></ref><ref id="imm13137-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="imm13137-cit-0057">
+<string-name>
+<surname>Finlay</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Walsh</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name>
+<surname>Mills</surname>
+<given-names>KH</given-names>
+</string-name>. <article-title>Induction of regulatory cells by helminth parasites: exploitation for the treatment of inflammatory diseases</article-title>. <source xml:lang="en">Immunol Rev</source>
+<year>2014</year>; <volume>259</volume>:<fpage>206</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">24712468</pub-id></mixed-citation></ref><ref id="imm13137-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="imm13137-cit-0058">
+<string-name>
+<surname>Jenkins</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Ruckerl</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>
+<given-names>PC</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Local macrophage proliferation, rather than recruitment from the blood, is a signature of TH2 inflammation</article-title>. <source xml:lang="en">Science</source>
+<year>2011</year>; <volume>332</volume>:<fpage>1284</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">21566158</pub-id></mixed-citation></ref><ref id="imm13137-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="imm13137-cit-0059">
+<string-name>
+<surname>Besnard</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Guabiraba</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Niedbala</surname>
+<given-names>W</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>IL&#x02010;33&#x02010;mediated protection against experimental cerebral malaria is linked to induction of type 2 innate lymphoid cells, M2 macrophages and regulatory T cells</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<year>2015</year>; <volume>11</volume>:<elocation-id>e1004607</elocation-id>.<pub-id pub-id-type="pmid">25659095</pub-id></mixed-citation></ref><ref id="imm13137-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="imm13137-cit-0060">
+<string-name>
+<surname>Alferink</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Specht</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Arends</surname>
+<given-names>H</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Cannabinoid receptor 2 modulates susceptibility to experimental cerebral malaria through a CCL17&#x02010;dependent mechanism</article-title>. <source xml:lang="en">J Biol Chem</source>
+<year>2016</year>; <volume>291</volume>:<fpage>19&#x02005;517</fpage>&#x02013;<lpage>31</lpage>.</mixed-citation></ref></ref-list></back></article>

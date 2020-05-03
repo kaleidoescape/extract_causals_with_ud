@@ -1,0 +1,545 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Exp Immunol</journal-id><journal-id journal-id-type="iso-abbrev">Clin. Exp. Immunol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2249</journal-id><journal-id journal-id-type="publisher-id">CEI</journal-id><journal-title-group><journal-title>Clinical and Experimental Immunology</journal-title></journal-title-group><issn pub-type="ppub">0009-9104</issn><issn pub-type="epub">1365-2249</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31604370</article-id><article-id pub-id-type="pmc">6954677</article-id><article-id pub-id-type="doi">10.1111/cei.13382</article-id><article-id pub-id-type="publisher-id">CEI13382</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject><subj-group subj-group-type="heading"><subject>Autoimmunity/Autoimmune disease</subject></subj-group></subj-group></article-categories><title-group><article-title>Monoclonal anti&#x02010;dsDNA antibody 2C10 escorts DNA to intracellular DNA sensors in normal mononuclear cells and stimulates secretion of multiple cytokines implicated in lupus pathogenesis</article-title><alt-title alt-title-type="right-running-head">Pathogenic role of anti&#x02010;DNA antibody</alt-title><alt-title alt-title-type="left-running-head">K. Inoue <italic>et al</italic>.</alt-title></title-group><contrib-group><contrib id="cei13382-cr-0001" contrib-type="author"><name><surname>Inoue</surname><given-names>K.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1388-4717</contrib-id><xref ref-type="aff" rid="cei13382-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cei13382-cr-0002" contrib-type="author"><name><surname>Ishizawa</surname><given-names>M.</given-names></name><xref ref-type="aff" rid="cei13382-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cei13382-cr-0003" contrib-type="author" corresp="yes"><name><surname>Kubota</surname><given-names>T.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1021-7898</contrib-id><xref ref-type="aff" rid="cei13382-aff-0002">
+<sup>2</sup>
+</xref><address><email>tetsuo.kubota.mtec@tmd.ac.jp</email></address></contrib></contrib-group><aff id="cei13382-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Microbiology and Immunology</named-content>
+<named-content content-type="organisation-division">Graduate School of Health Care Sciences</named-content>
+<institution>Tokyo Medical and Dental University (TMDU)</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><aff id="cei13382-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Immunopathology</named-content>
+<named-content content-type="organisation-division">Graduate School of Medical and Dental Sciences</named-content>
+<institution>Tokyo Medical and Dental University (TMDU)</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Tetsuo Kubota, Department of Immunopathology, Tokyo Medical and Dental University Graduate School of Medical and Dental Sciences, Tokyo 113&#x02010;8510, Japan.<break/>
+E&#x02010;mail: <email>tetsuo.kubota.mtec@tmd.ac.jp</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>10</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2020</year></pub-date><pub-date pub-type="pmc-release"><day>29</day><month>10</month><year>2019</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>199</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/cei.v199.2</issue-id><fpage>150</fpage><lpage>162</lpage><history><date date-type="accepted"><day>07</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 British Society for Immunology <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. Clinical &#x00026; Experimental Immunology published by John Wiley &#x00026; Sons Ltd on behalf of British Society for Immunology</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CEI-199-150.pdf"/><abstract id="cei13382-abs-0001"><title>Summary</title><p>There have been many studies on the mechanisms of internalization of DNA&#x02013;anti&#x02010;DNA immune complexes by cells, including the one used for rheumatoid factor&#x02010;expressing mouse B cells. In parallel, studies on the role of intracellular DNA sensors in the pathogenesis of systemic lupus erythematosus (SLE) have been conducted, including the one using a mouse model lacking one of the sensors. These and other data have established a framework for understanding the pathogenic role of anti&#x02010;DNA antibodies, but studies on normal cells are limited. Here, we used the monoclonal anti&#x02010;dsDNA antibody 2C10, 2&#x02010;kbp dsDNA and healthy human peripheral blood mononuclear cells (PBMCs) to test whether and how 2C10 and/or DNA cause pathology in normal cells. We found that on culture with PBMCs, 2C10 preferentially entered monocytes and that DNA enhanced this internalization. In contrast, DNA alone was not significantly internalized by monocytes, but 2C10 facilitated its internalization. This was suppressed by cytochalasin D, but not by methyl&#x02010;&#x003b2;&#x02010;cyclodextrin, chloroquine or an Fc blocker, suggesting the involvement of macropinocytosis in this process. Internalization of 2C10 and DNA together resulted in production of interferon (IFN)&#x02010;&#x003b1;, IFN&#x02010;&#x003b3;, tumor necrosis factor (TNF)&#x02010;&#x003b1;, monocyte chemoattractant protein&#x02010;1 (MCP&#x02010;1), interleukin (IL)&#x02010;1&#x003b2;, IL&#x02010;6, IL&#x02010;10 and IL&#x02010;33 by PBMCs. Cytokine production was suppressed by chloroquine and shikonin, but not by RU.521, suggesting dependence on activation of the Toll&#x02010;like receptor (TLR)&#x02010;9 and absent in melanoma 2 (AIM&#x02010;2) pathways. These results established a simple model to demonstrate that anti&#x02010;DNA antibodies can cause dysregulation of cytokine network mimicking systemic lupus erythematosus in culture of normal PBMCs, and emphasize again the importance of maintaining anti&#x02010;DNA antibodies at low levels by treatment.</p></abstract><abstract abstract-type="graphical" id="cei13382-abs-0002"><p>Fluorescence&#x02010;labeled DNA (D) entered normal monocytes with the help of anti&#x02010;DNA antibody 2C10 (2).<boxed-text position="anchor" content-type="graphic" id="cei13382-blkfxd-0001" orientation="portrait"><graphic xlink:href="CEI-199-150-g008.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cei13382-kwd-0001">anti&#x02010;DNA antibodies</kwd><kwd id="cei13382-kwd-0002">endocytosis</kwd><kwd id="cei13382-kwd-0003">macropinocytosis</kwd><kwd id="cei13382-kwd-0004">systemic lupus erythematosus</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Japan Society for the Promotion of Science </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001691</institution-id></institution-wrap></funding-source><award-id>JP16K089029</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="13"/><word-count count="6395"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:13.01.2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="cei13382-body-0001"><sec id="cei13382-sec-0001"><title>Introduction</title><p>Systemic lupus erythematosus (SLE) is a prototypical systemic autoimmune disease that affects many different organs, including the kidney, heart, lung, central nervous system, skin, joints and blood cells <xref rid="cei13382-bib-0001" ref-type="ref">1</xref>. Although its etiology is not fully elucidated, genetic susceptibility and environmental factors are thought to lead to a breakdown of self&#x02010;tolerance mechanisms, and a variety of autoantibodies are produced <xref rid="cei13382-bib-0002" ref-type="ref">2</xref>. Of these, antibodies against nuclear antigens such as DNA and Sm are adopted in widely used classification criteria for SLE <xref rid="cei13382-bib-0003" ref-type="ref">3</xref>. Antibodies reactive to double&#x02010;stranded (ds) DNA show high disease specificity, and their changing titers reflect disease activity in many patients. However, details of the pathogenic activities of anti&#x02010;dsDNA antibodies remain to be clarified <xref rid="cei13382-bib-0004" ref-type="ref">4</xref>.</p><p>Many cytokines are implicated in loss of tolerance and tissue damage in SLE. Among them, interferon (IFN)&#x02010;&#x003b1; drives persistent self&#x02010;directed immune reactions by inhibiting regulatory T cells and up&#x02010;regulating B cell activation factor (BAFF), and is recognized as a central mediator of lupus pathophysiology <xref rid="cei13382-bib-0005" ref-type="ref">5</xref>. Additionally, levels of many cytokines and chemokines, including tumor necrosis factor (TNF)&#x02010;&#x003b1;, IL&#x02010;1&#x003b2;, IL&#x02010;6, IL&#x02010;8, IL&#x02010;10, IL&#x02010;17 and monocyte chemoattractant protein&#x02010;1 (MCP&#x02010;1) are elevated in SLE <xref rid="cei13382-bib-0002" ref-type="ref">2</xref>. The role, if any, of anti&#x02010;dsDNA antibodies in the dysregulation of this cytokine network is therefore a matter of prime importance. More than two decades ago it was found that some anti&#x02010;DNA antibodies induce expression of IFN&#x02010;&#x003b1; or inflammatory cytokines by normal mononuclear cells, but at that time little was known about intracellular nucleic acid sensors <xref rid="cei13382-bib-0006" ref-type="ref">6</xref>, <xref rid="cei13382-bib-0007" ref-type="ref">7</xref>. More recently, a clearer understanding of the manner by which innate immune cells detect intracellular DNA or RNA introduced by pathogens has emerged. Toll&#x02010;like receptor (TLR)&#x02010;9 was first reported to recognize bacterial DNA in 2000 <xref rid="cei13382-bib-0008" ref-type="ref">8</xref>, followed by the identification of TLR&#x02010;3 as a sensor of dsRNA <xref rid="cei13382-bib-0009" ref-type="ref">9</xref>, and TLR&#x02010;7 and TLR&#x02010;8 as sensors of single&#x02010;stranded (ss) RNA <xref rid="cei13382-bib-0010" ref-type="ref">10</xref>. Cyclic GMP&#x02013;AMP synthase&#x02010;stimulator of interferon genes (cGAS&#x02010;STING) <xref rid="cei13382-bib-0011" ref-type="ref">11</xref> and absent in melanoma&#x02010;2 (AIM&#x02010;2) <xref rid="cei13382-bib-0012" ref-type="ref">12</xref>, <xref rid="cei13382-bib-0013" ref-type="ref">13</xref> were also found to act as sensors of cytoplasmic DNA. However, how innate immune systems are activated in a pathophysiological setting of autoimmune diseases remains to be clarified.</p><p>In light of recent developments, we have used a well&#x02010;characterized monoclonal anti&#x02010;dsDNA antibody together with synthetic dsDNA to investigate whether and how they induce production of potentially pathogenic cytokines by peripheral blood mononuclear cells (PBMCs) from healthy subjects. The results show that DNA facilitated the internalization of the anti&#x02010;dsDNA antibody preferentially by the monocyte&#x02010;rich fraction and, reciprocally, the anti&#x02010;dsDNA antibody facilitated internalization of DNA. As a consequence, secretion of cytokines related to lupus pathogenesis was elevated in PBMCs. Internalization by the Fc receptor&#x02010;independent process of macropinocytosis and activation via TLR&#x02010;9 and AIM&#x02010;2 by the internalized DNA appeared to be involved in this phenomenon.</p></sec><sec sec-type="materials-and-methods" id="cei13382-sec-0002"><title>Materials and methods</title><sec id="cei13382-sec-0003"><title>Cells and monoclonal antibody</title><p>The study protocol was approved by the Ethics Committee of TMDU Faculty of Medicine (M2000&#x02010;1480). PBMCs from healthy volunteers were isolated by density gradient centrifugation over Ficoll&#x02010;Paque Plus (GE Healthcare, Chicago, IL, USA). PBMCs and the human monocytic leukemia cell line THP&#x02010;1 were cultured in RPMI&#x02010;1640 medium supplemented with 10% fetal bovine serum, 100&#x000a0;u/ml penicillin, 100&#x000a0;&#x003bc;g/ml streptomycin and 10&#x000a0;mM non&#x02010;essential amino acids. The anti&#x02010;dsDNA monoclonal antibody 2C10 [immunoglobulin (Ig)G2b,&#x003ba;] was generated from an MRL/<italic>lpr</italic> mouse, and its fine specificity and amino acid sequence of the variable regions have been previously reported <xref rid="cei13382-bib-0014" ref-type="ref">14</xref>, <xref rid="cei13382-bib-0015" ref-type="ref">15</xref>. It was purified from the culture supernatant of the hybridoma cells grown in Dulbecco&#x02019;s modified Eagle&#x02019;s medium (DMEM) medium supplemented with 10% fetal bovine serum, 100&#x000a0;u/ml penicillin, 100&#x000a0;&#x003bc;g/ml streptomycin and 10&#x000a0;mM non&#x02010;essential amino acids, by salting&#x02010;out with half&#x02010;saturated ammonium sulfate followed by column chromatography with Protein G HP Spin Trap (GE Healthcare). Final concentrations of lipopolysaccharide (LPS) in the preparation were confirmed to be &#x0003c;&#x000a0;0&#x000b7;1 pg/ml by the Limulus Color KY Test (Fujifilm Wako Chemical, Osaka, Japan).</p></sec><sec id="cei13382-sec-0004"><title>Reagents</title><p>Using a pcDNA3.1/Zeo(+)&#x000a0;vector (Thermo Fisher Scientific, Waltham, MA, USA) as a template, a 2&#x02010;kilo base pairs (kbp)&#x000a0;DNA fragment was amplified by polymerase chain reaction (PCR) using the following primers: sense: 5&#x02032;&#x02010;TAATACGACTCACTATAGGG&#x02010;3&#x02032; and anti&#x02010;sense: 5&#x02032;&#x02010;CTAGAGGTCGACGGTATACAG&#x02010;3&#x02032;. In some experiments for detection of internalized DNA, the DNA fragment was fluorescently labeled using ChromaTide AlexaFluor 488&#x02010;5&#x02010;dUTP (Thermo Fisher Scientific). Other reagents were purchased as follows: cytochalasin D from Fujifilm Wako Chemical, methyl&#x02010;&#x003b2;&#x02010;cyclodextrin from Merck (Kenilworth, NJ, USA), Dynasore and shikonin from Adipogen Life Sciences (San Diego, CA, USA), chloroquine and RU.521 from Invivogen (San Diego, CA, USA) and human BD Fc block from BD Biosciences (San Jose, CA, USA).</p></sec><sec id="cei13382-sec-0005"><title>Detection of internalized antibody</title><p>THP&#x02010;1 cells or PBMCs were seeded into 48&#x02010;well culture plates. Following a 10&#x02010;min incubation with the fluorescence&#x02010;labeled or &#x02010;unlabeled 2&#x02010;kbp DNA described above, 2C10 (final concentration 5&#x02013;10&#x000a0;&#x003bc;g/ml, unless otherwise indicated) or isotype&#x02010;matched control IgG (R&#x00026;D Systems, Minneapolis, MN, USA) was added to the wells and incubated for 1 or 2&#x000a0;h at 37&#x000b0;C in a CO<sub>2</sub> incubator. Unbound DNA and antibody were removed by washing with ice&#x02010;cold phosphate&#x02010;buffered saline (PBS), and the cells were fixed and permeabilized using a fixation/permeabilization kit (BD Biosciences). Cells were then stained with phycoerythrin (PE)&#x02010;labeled goat anti&#x02010;mouse IgG (Abcam, Cambridge, UK) for THP&#x02010;1 or Alexa Fluor 488&#x02010;labeled goat anti&#x02010;mouse IgG (Abcam) for PBMCs for 20&#x000a0;min at room temperature. In inhibition experiments, cells were treated with 10&#x000a0;&#x003bc;g/ml cytochalasin D, 5&#x000a0;mM methyl&#x02010;&#x003b2;&#x02010;cyclodextrin or 10&#x000a0;&#x003bc;M chloroquine for 30&#x000a0;min, or with 25&#x000a0;&#x003bc;g/ml human BD Fc block for 10&#x000a0;min. After the supernatants were replaced with fresh medium, DNA and 2C10 were added as described above. The results were analyzed using a flow cytometer (CytoFLEX; Beckman Coulter, Bream, CA, USA) and a fluorescence microscope (Keyence, Osaka, Japan).</p></sec><sec id="cei13382-sec-0006"><title>Measurement of cytokines</title><p>For quantifying cytokine content in the supernatants of PBMCs, cells were seeded in a 96&#x02010;well plate (1&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> cells/well). Following a 10&#x02010;min incubation with 2&#x02010;kbp DNA, 5&#x000a0;&#x003bc;g/ml 2C10 or isotype&#x02010;matched control IgG was added to the wells. In inhibition experiments, cells were pretreated with 10&#x000a0;&#x003bc;g/ml cytochalasin D, 5&#x000a0;mM methyl&#x02010;&#x003b2;&#x02010;cyclodextrin, 80&#x000a0;&#x003bc;M Dynasore, 10&#x000a0;&#x003bc;M chloroquine, 2&#x000a0;&#x003bc;M shikonin or 2&#x000a0;&#x003bc;g/ml RU.521 for 30&#x000a0;min and the supernatants were replaced with fresh medium before DNA and 2C10 were added, as described above. After 4 or 48&#x000a0;h of culture, cytokine content in the supernatants was determined by multi&#x02010;analyte flow assays using the Legendplex Human Inflammation Panel 13&#x02010;plex (Biolegend, San Diego, CA, USA).</p></sec><sec id="cei13382-sec-0007"><title>Statistical analysis</title><p>Data are expressed as the mean&#x000a0;&#x000b1;&#x000a0;standard error of the mean (s.e.m.). <italic>P</italic>&#x02010;values were calculated using a two&#x02010;tailed Student&#x02019;s <italic>t</italic>&#x02010;test (Fig. <xref rid="cei13382-fig-0005" ref-type="fig">5</xref>), a one&#x02010;tailed Mann&#x02013;Whitney <italic>U</italic>&#x02010;test (Fig. <xref rid="cei13382-fig-0007" ref-type="fig">7</xref>) or a one&#x02010;way analysis of variance (<sc>anova</sc>) followed by Tukey&#x02019;s multiple comparison test (Figs <xref rid="cei13382-fig-0002" ref-type="fig">2</xref>d, <xref rid="cei13382-fig-0003" ref-type="fig">3</xref>b, <xref rid="cei13382-fig-0004" ref-type="fig">4</xref>c, <xref rid="cei13382-fig-0006" ref-type="fig">6</xref>) using Prism (GraphPad Software, La Jolla, CA, USA). <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05 was considered statistically significant.</p></sec></sec><sec sec-type="results" id="cei13382-sec-0008"><title>Results</title><sec id="cei13382-sec-0009"><title>DNA enhances the internalization of monoclonal anti&#x02010;dsDNA antibody 2C10 by live cells</title><p>As we have observed previously, anti&#x02010;dsDNA antibody 2C10 enters live monocytes and the monocytic cell line THP&#x02010;1 <xref rid="cei13382-bib-0016" ref-type="ref">16</xref>. To confirm if the current batch of 2C10 actually enters live cells, we tested the effect of fixation and permeabilization (F/P) of THP&#x02010;1 cells. Following incubation with 2C10, if we performed F/P before the reaction of fluorescence&#x02010;labeled anti&#x02010;mouse IgG secondary antibody, small specks and dim cytoplasmic staining were observed (Fig. <xref rid="cei13382-fig-0001" ref-type="fig">1</xref>a). In contrast, when F/P was performed after the secondary antibody reaction, the fluorescence was markedly diminished, indicating that the secondary antibody did not penetrate the intact cell membrane, and the major part of 2C10 was in the cells. When THP&#x02010;1 cells were incubated with different concentrations of 2C10, it was incorporated into the cells in a dose&#x02010;dependent manner (Fig. <xref rid="cei13382-fig-0001" ref-type="fig">1</xref>b). Because immune complexes are easily engulfed by phagocytic cells, and anti&#x02010;DNA antibodies are still associated with small amounts of DNA even after purification using protein A or protein G <xref rid="cei13382-bib-0017" ref-type="ref">17</xref>, <xref rid="cei13382-bib-0018" ref-type="ref">18</xref>, we hypothesized that DNA could be involved in the process of 2C10 internalization. To test this, we added 2&#x02010;kbp dsDNA to the cultures 10&#x000a0;min prior to the incubation of the THP&#x02010;1 cells with 2C10. This resulted in an increased internalization of 2C10, but not the isotype&#x02010;matched control IgG, in the presence of DNA (Fig. <xref rid="cei13382-fig-0001" ref-type="fig">1</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="cei13382-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Anti&#x02010;DNA antibody 2C10 enters THP&#x02010;1 cells, which is facilitated by DNA. (a) THP&#x02010;1 cells were incubated with 2&#x000a0;&#x003bc;g/ml 2C10 or isotype&#x02010;matched control (IC) for 1&#x000a0;h. On the left, before detection of internalized antibodies using fluorescence&#x02010;labeled goat anti&#x02010;mouse immunoglobulin (Ig)G secondary antibody, cells were fixed and permeabilized (F/P). In the right, antibodies on the cell surface were detected by fluorescence&#x02010;labeled goat anti&#x02010;mouse IgG secondary antibody, then cells were F/P. Upper row: IgG; lower row: merged IgG and transmitted light images. Scale bar&#x000a0;=&#x000a0;10&#x000a0;&#x003bc;m. Histograms are representative results showing the percentages of IgG&#x02010;positive cells. (b) THP&#x02010;1 cells were incubated with the indicated concentrations of 2C10 for 1&#x000a0;h. Internalized 2C10 was detected by phycoerythrin (PE)&#x02010;labeled goat anti&#x02010;mouse IgG and analyzed by flow cytometry. Histograms are representative results showing the percentage of 2C10&#x02010;positive cells. (c) THP&#x02010;1 cells were incubated with or without 400&#x000a0;ng/ml unlabeled DNA for 10 min. Thereafter, 10&#x000a0;&#x003bc;g/ml 2C10 or IC was added and incubated for 2 h.&#x000a0;Internalized IgG was detected by PE&#x02010;labeled goat anti&#x02010;mouse IgG. Upper row: IgG; lower row: merged IgG and transmitted light images. Scale bar&#x000a0;=&#x000a0;10&#x000a0;&#x003bc;m.</p></caption><graphic id="nlm-graphic-3" xlink:href="CEI-199-150-g001"/></fig><p>To confirm whether 2C10 also enters normal monocytes, we incubated PBMCs from healthy donors with 2C10 and observed that the antibody was incorporated mainly into slightly large cells (Fig. <xref rid="cei13382-fig-0002" ref-type="fig">2</xref>a). When the secondary antibody was added without preceding F/P, virtually no staining was observed, indicating that 2C10 entered the cells (data not shown). When monocytes and lymphocytes were demarcated by a forward&#x02010; and side&#x02010;scatter plot of flow cytometry, it was clear that 2C10 preferentially entered the monocyte fraction (Fig. <xref rid="cei13382-fig-0002" ref-type="fig">2</xref>b). Although more than 84% of the cells in the monocyte fraction were CD14&#x02010;positive, some other cell types were thought to be included, and thus we describe the population as the &#x02018;monocyte&#x02010;rich fraction&#x02019; hereafter. Incubating PBMCs with 5&#x000a0;&#x003bc;g/ml 2C10 alone resulted in approximately 40% of the monocyte&#x02010;rich population taking up the antibody, but when DNA was added to PBMCs prior to 2C10 the percentage increased to approximately 80%, again indicating that DNA&#x02010;enhanced internalization of 2C10 (Fig. <xref rid="cei13382-fig-0002" ref-type="fig">2</xref>c,d). After a 2&#x02010;h incubation with 2C10 there was no annexin V staining, suggesting that the cells were viable, not apoptotic, at this time&#x02010;point (data not shown).</p><fig fig-type="Figure" xml:lang="en" id="cei13382-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Anti&#x02010;DNA antibody 2C10 enters peripheral blood mononuclear cells (PBMCs), which is facilitated by DNA. PBMCs from healthy volunteers were incubated with 5&#x000a0;&#x003bc;g/ml 2C10 or isotype&#x02010;matched control (IC) for 1&#x000a0;h. Before detection of internalized antibodies using Alexa Fluor 488&#x02010;labeled goat anti&#x02010;mouse immunoglobulin (Ig)G secondary antibody, cells were fixed and permeabilized. (a) Microscopic image. Upper row: IgG; lower row: merged IgG and transmitted light images. Scale bar&#x000a0;=&#x000a0;20&#x000a0;&#x003bc;m. (b) PBMCs were incubated with 2C10 and analyzed by flow cytometry. Monocytes (Mo) and lymphocytes (Ly) were demarcated by a forward&#x02010; and side&#x02010;scatter plot. The histograms are representative results showing the percentages of 2C10&#x02010;positive cells. (c) PBMCs from healthy volunteers were incubated with or without 20&#x000a0;ng/ml unlabeled DNA for 10&#x000a0;min. Thereafter, 5&#x000a0;&#x003bc;g/ml 2C10 or IC was added and incubated for 1&#x000a0;h. Internalized IgG was detected using Alexa Fluor 488&#x02010;labeled goat anti&#x02010;mouse IgG. Cells were gated on the monocyte population. The histograms are representative results showing the percentage of IgG&#x02010;positive cells. (d) Mean&#x000a0;&#x000b1;&#x000a0;standard error of the mean (s.e.m.) of the percentage of IgG&#x02010;positive cells calculated from three independent experiments. (&#x02013;): no stimulation, 2&#x000a0;+&#x000a0;D: 2C10&#x000a0;+&#x000a0;DNA; IC&#x000a0;+&#x000a0;D: isotype control + DNA. ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001, <italic>n</italic> = 7.</p></caption><graphic id="nlm-graphic-5" xlink:href="CEI-199-150-g002"/></fig></sec><sec id="cei13382-sec-0010"><title>dsDNA enters live cells in the presence of 2C10</title><p>We next tested whether 2C10 facilitates internalization of DNA. THP&#x02010;1 cells were incubated with 2C10 in the presence of Alexa 488&#x02010;labeled 2&#x02010;kbp DNA. Thereafter, distinct specks of labeled DNA could be seen in the cytoplasm (Fig. <xref rid="cei13382-fig-0003" ref-type="fig">3</xref>a). However, cells incubated with labeled DNA alone or DNA plus isotype&#x02010;matched control IgG showed only a faint fluorescence, probably reflecting non&#x02010;specific cell surface DNA binding. Quantitative analysis by flow cytometry clearly showed that the labeled DNA alone was not incorporated by THP&#x02010;1 cells to any significant extent, whereas 2C10, but not isotype&#x02010;matched IgG, strongly facilitated DNA internalization (Fig. <xref rid="cei13382-fig-0003" ref-type="fig">3</xref>b). In the presence of 10&#x000a0;&#x003bc;g/ml 2C10, different concentrations of labeled DNA entered THP&#x02010;1 cells in a dose&#x02010;dependent manner, reaching a plateau at 400&#x000a0;ng/ml (Fig. <xref rid="cei13382-fig-0003" ref-type="fig">3</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="cei13382-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Anti&#x02010;DNA antibody 2C10 facilitates the internalization of DNA into THP&#x02010;1 cells. (a) THP&#x02010;1 cells were incubated with or without 400&#x000a0;ng/ml Alexa Fluor 488&#x02010;labeled DNA for 10&#x000a0;min, and then 10&#x000a0;&#x003bc;g/ml 2C10 or isotype&#x02010;matched control (IC) was added. After 2&#x000a0;h, internalized DNA was assessed. Upper row: DNA; lower row: merged DNA and transmitted light images. Scale bar&#x000a0;=&#x000a0;10&#x000a0;&#x003bc;m. (b) Internalized DNA was quantified by flow cytometry and the mean&#x000a0;&#x000b1;&#x000a0;standard error of the mean (s.e.m.) of the percentage of DNA&#x02010;positive cells was calculated from three independent experiments. ***<italic>P</italic>&#x000a0;&#x0003c; 0&#x000b7;001, <italic>n</italic> = 5. (c) THP&#x02010;1 cells were incubated with the indicated concentrations of Alexa Fluor 488&#x02010;labeled DNA for 10&#x000a0;min, and then 10&#x000a0;&#x003bc;g/ml 2C10 was added. After incubation for 2&#x000a0;h, the percentage of DNA&#x02010;positive cells was assessed by flow cytometry. (&#x02013;): no stimulation; 2&#x000a0;+&#x000a0;D: 2C10&#x000a0;+&#x000a0;DNA; IC&#x000a0;+&#x000a0;D: isotype control&#x000a0;+&#x000a0;DNA.</p></caption><graphic id="nlm-graphic-7" xlink:href="CEI-199-150-g003"/></fig><p>To verify the facilitation effect of 2C10 on DNA internalization into normal human cells, PBMCs were incubated with 2C10 in the presence or absence of Alexa 488&#x02010;labeled DNA. Similar to THP&#x02010;1 cells, a fraction of cells in PBMCs incorporated DNA into the cytoplasm, but only when also incubated with 2C10 (Fig. <xref rid="cei13382-fig-0004" ref-type="fig">4</xref>a). Flow cytometric analysis revealed that labeled DNA mainly entered the monocyte&#x02010;rich fraction in the presence of 2C10, with the proportion of DNA&#x02010;containing cells in that fraction reaching 40&#x02013;50% (Fig. <xref rid="cei13382-fig-0004" ref-type="fig">4</xref>b, c), whereas that in the lymphocyte&#x02010;rich fraction was 3&#x02013;4%.</p><fig fig-type="Figure" xml:lang="en" id="cei13382-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Anti&#x02010;DNA antibody 2C10 facilitates the internalization of DNA into normal peripheral blood mononuclear cells (PBMCs). (a) PBMCs were incubated with or without 400&#x000a0;ng/ml Alexa Fluor 488&#x02010;labeled DNA for 10&#x000a0;min, and then 10&#x000a0;&#x003bc;g/ml 2C10 or isotype&#x02010;matched control&#x000a0;(IC) was added. After 1&#x000a0;h, internalized DNA was assessed. Upper row: DNA; lower row: merged DNA and transmitted light images. Scale bar&#x000a0;=&#x000a0;20&#x000a0;&#x003bc;m. (b) The percentage of DNA&#x02010;positive cells in the monocyte&#x02010;rich population determined by flow cytometry. (c) Mean&#x000a0;&#x000b1;&#x000a0;standard error of the mean (s.e.m.) of the percentage of DNA&#x02010;positive cells in the monocyte&#x02010;rich population calculated from three independent experiments. (&#x02013;): no stimulation; 2&#x000a0;+&#x000a0;D: 2C10&#x000a0;+&#x000a0;DNA; IC + D: isotype control&#x000a0;+&#x000a0;DNA. ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001, <italic>n</italic> = 5.</p></caption><graphic id="nlm-graphic-9" xlink:href="CEI-199-150-g004"/></fig></sec><sec id="cei13382-sec-0011"><title>Macropinocytosis is involved in the internalization of 2C10 and DNA</title><p>To identify the pathways involved in the internalization of 2C10 and DNA, PBMCs were treated for 30&#x000a0;min with the macropinocytosis inhibitor cytochalasin D, the caveolae/lipid raft endocytosis inhibitor methyl&#x02010;&#x003b2;&#x02010;cyclodextrin (M&#x003b2;CD) or the clathrin&#x02010;dependent endocytosis inhibitor chloroquine <xref rid="cei13382-bib-0019" ref-type="ref">19</xref> prior to the incubation with DNA and 2C10. Internalization of 2C10 into monocytes was found to be significantly suppressed by cytochalasin D, irrespective of the presence or absence of DNA (Fig. <xref rid="cei13382-fig-0005" ref-type="fig">5</xref>a). In contrast, neither M&#x003b2;CD nor chloroquine significantly inhibited internalization (Fig. <xref rid="cei13382-fig-0005" ref-type="fig">5</xref>b,c). Because murine IgG is known to bind to the human Fc&#x003b3; receptor (Fc&#x003b3;R) II <xref rid="cei13382-bib-0020" ref-type="ref">20</xref>, we tested whether a human Fc&#x003b3;R blocker would inhibit the internalization of 2C10, but no significant suppression was observed (Fig. <xref rid="cei13382-fig-0005" ref-type="fig">5</xref>d). These results suggest that macropinocytosis plays a role in the internalization of 2C10 and DNA.</p><fig fig-type="Figure" xml:lang="en" id="cei13382-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Internalization of 2C10 and DNA into monocytes is mediated by macropinocytosis. Peripheral blood mononuclear cells (PBMCs) from healthy volunteers were treated for 30&#x000a0;min with cytochalasin D (a), methyl&#x02010;&#x003b2;&#x02010;cyclodextrin (M&#x003b2;CD) (b) or chloroquine (c), or for 10&#x000a0;min with human BD Fc block<sup>TM</sup> (d). After washing out the inhibitors, cells were incubated with or without 20&#x000a0;ng/ml unlabeled DNA for 10&#x000a0;min. Then, 5&#x000a0;&#x003bc;g/ml 2C10 or isotype&#x02010;matched control&#x000a0;(IC) was added and incubated for 1&#x000a0;h. Internalized IgG was detected using Alexa Fluor 488&#x02010;labeled goat anti&#x02010;mouse IgG, and the percentage of IgG&#x02010;positive cells in the monocyte population was estimated. (&#x02013;): no stimulation; 2&#x000a0;+ D: 2C10&#x000a0;+&#x000a0;DNA; IC + D: isotype control&#x000a0;+&#x000a0;DNA. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05 <italic>versus</italic> the cells not treated with inhibitors; <italic>n</italic> = 3&#x02013;6.</p></caption><graphic id="nlm-graphic-11" xlink:href="CEI-199-150-g005"/></fig></sec><sec id="cei13382-sec-0012"><title>2C10 and DNA induce expression of cytokines implicated in lupus pathogenesis</title><p>To study whether or not PBMCs are activated as a consequence of incorporation of 2C10 together with DNA, cytokine levels in the culture supernatants were measured by multi&#x02010;analyte flow assays (Fig. <xref rid="cei13382-fig-0006" ref-type="fig">6</xref>a). After a 4&#x02010;h incubation, TNF&#x02010;&#x003b1; was present at significantly higher concentrations in supernatants of cells stimulated with 2C10 (5&#x000a0;&#x003bc;g/ml) and DNA (200&#x000a0;ng/ml), relative to 2C10 alone, or DNA alone. In contrast, after 4&#x000a0;h even in the presence of 200 ng/ml DNA alone, the amounts of MCP&#x02010;1, IL&#x02010;1&#x003b2; and IL&#x02010;6 were greatly increased. We therefore repeated the experiments using 10&#x000a0;ng/ml DNA. At this dose, 2C10 together with the DNA induced these cytokines more effectively than did DNA alone, but there were no differences between 2C10 alone and 2C10&#x000a0;+&#x000a0;DNA (Fig. <xref rid="cei13382-fig-0006" ref-type="fig">6</xref>b). These results suggest that 2C10 itself may still be carrying a small amount of DNA. Extending the incubation time to 48&#x000a0;h resulted in secretion of MCP&#x02010;1, IL&#x02010;1&#x003b2;, IL&#x02010;6, IL&#x02010;10, IL&#x02010;33, IFN&#x02010;&#x003b1; (&#x003b1;2 subtype) and IFN&#x02010;&#x003b3; into the PBMC supernatants. Although the manner by which each of these cytokines contributes to SLE pathogenesis has not been fully elucidated, serum levels of all these cytokines are known to be elevated in this disease. With the exception of IFN&#x02010;&#x003b3;, cytokine concentrations tended to be higher in supernatants of cells cultured with both 2C10 and DNA (200&#x000a0;ng/ml). These results suggest that the DNA induced the expression of multiple different cytokines when incorporated into cells with the assistance of the antibody 2C10. The effect of 2C10 and DNA on IFN&#x02010;&#x003b3; production was not clear, possibly because this cytokine is not produced by monocytes, but by T cells indirectly stimulated by monokines. Nevertheless, IFN&#x02010;&#x003b3; plays an important role in lupus pathogenesis by conversely stimulating monocytes to express BAFF <xref rid="cei13382-bib-0021" ref-type="ref">21</xref>.</p><fig fig-type="Figure" xml:lang="en" id="cei13382-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Internalization of 2C10 and DNA induces expression of interferon (IFN)&#x02010;&#x003b1; and proinflammatory cytokines by peripheral blood mononuclear cells (PBMCs). (a) PBMCs were incubated with 5&#x000a0;&#x003bc;g/ml 2C10 or isotype control (IC) for 4 or 48&#x000a0;h, with or without prior 10&#x02010;min incubation with 200&#x000a0;ng/ml unlabeled DNA, and cytokine levels in the supernatants were assessed. Data represent the mean&#x000a0;&#x000b1;&#x000a0;standard error of the mean (s.e.m.) of four to seven experiments using PBMCs from two to three donors. (b) PBMCs were incubated with 5&#x000a0;&#x003bc;g/ml 2C10 or IC for 4&#x000a0;h, with or without prior 10&#x02010;min incubation with 10&#x000a0;ng/ml unlabeled DNA. Data represent the mean&#x000a0;&#x000b1;&#x000a0;s.e.m. of three experiments using PBMCs from a single donor. (&#x02013;): no stimulation; 2 +&#x000a0;D: 2C10&#x000a0;+&#x000a0;DNA; IC&#x000a0;+&#x000a0;D: isotype control&#x000a0;+&#x000a0;DNA. Every figure was analyzed by a one&#x02010;way analysis of variance (<sc>anova</sc>) followed by Tukey&#x02019;s multiple comparison test, and only significantly different pairs are indicated by asterisks. *<italic>P</italic>&#x0003c; 0&#x000b7;05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;01; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001.</p></caption><graphic id="nlm-graphic-13" xlink:href="CEI-199-150-g006"/></fig></sec><sec id="cei13382-sec-0013"><title>Expression of cytokines is suppressed by endocytosis inhibitors and DNA sensor inhibitors</title><p>To confirm whether endocytosis contributes to the expression of cytokines, PBMCs were treated with cytochalasin D, M&#x003b2;CD or the clathrin&#x02010;dependent endocytosis inhibitor Dynasore. Treating PBMCs with cytochalasin D before addition of DNA and 2C10 resulted in a significant reduction in the expressions of TNF&#x02010;&#x003b1;, MCP&#x02010;1 and IL&#x02010;10 relative to untreated cells (Fig. <xref rid="cei13382-fig-0007" ref-type="fig">7</xref>a). However, M&#x003b2;CD and Dynasore showed no significant suppressive effect on these cytokine expressions except for Dynasore on IL&#x02010;10. Dynasore tended to suppress MCP&#x02010;1, IL&#x02010;6 and TNF&#x02010;&#x003b1;, but <italic>P</italic>&#x02010;values for them were 0&#x000b7;057, 0&#x000b7;10 and 0&#x000b7;10, respectively. These results indicate that endocytosis, especially macropinocytosis, is necessary as an initial step for the cytokine expression.</p><fig fig-type="Figure" xml:lang="en" id="cei13382-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Cytokine expression induced by DNA and 2C10 results from internalization via macropinocytosis and activation of Toll&#x02010;like receptor (TLR)&#x02010;9 and absent in melanoma 2 (AIM&#x02010;2). Peripheral blood mononuclear cells (PBMCs) were treated with endocytosis inhibitors (a) or DNA sensor inhibitors (b) for 30&#x000a0;min. After washing out the inhibitors, cells were incubated with 200&#x000a0;ng/ml DNA for 10&#x000a0;min, then 5&#x000a0;&#x003bc;g/ml 2C10 was added and incubated for 4&#x000a0;h (with cytochalasin D, M&#x003b2;CD, Dynasore, shikonin or RU.521) or 48&#x000a0;h (with chloroquine). Cytokine levels in the supernatants are expressed as the percentage of each cytokine relative to cells incubated with DNA and 2C10 without pretreatment with inhibitors. Date represent the mean&#x000a0;&#x000b1;&#x000a0;standard error of the mean (s.e.m.) of four experiments using PBMCs from a single donor. *<italic>P</italic> &#x0003c; 0&#x000b7;05.</p></caption><graphic id="nlm-graphic-15" xlink:href="CEI-199-150-g007"/></fig><p>Further, to study whether the internalized DNA is detected by intracellular DNA sensors, PBMCs were treated with the TLR&#x02010;9 inhibitor chloroquine, which was also used as a clathrin&#x02010;dependent endocytosis inhibitor in the above experiments with no effect (Fig. <xref rid="cei13382-fig-0005" ref-type="fig">5</xref>c), or the AIM&#x02010;2/nucleotide&#x02010;binding oligomerization domain, leucine rich repeat and pyrin domain&#x02010;containing&#x000a0;protein 3 (NLRP&#x02010;3)&#x02010;inflammasome inhibitor shikonin <xref rid="cei13382-bib-0022" ref-type="ref">22</xref> or the cGAS inhibitor RU.521 <xref rid="cei13382-bib-0023" ref-type="ref">23</xref>. Treatment of PBMCs with chloroquine resulted in reduction of IL&#x02010;1&#x003b2;, MCP&#x02010;1, IL&#x02010;6 and IL&#x02010;33 levels in the supernatants (Fig. <xref rid="cei13382-fig-0007" ref-type="fig">7</xref>b). Shikonin suppressed secretion of IL&#x02010;1&#x003b2;, TNF&#x02010;&#x003b1;, MCP&#x02010;1, IL&#x02010;6 and IL&#x02010;10, while RU.521 had no significant suppressive effects. These results suggest that internalized DNA was detected by TLR&#x02010;9 in endosomes, and after leaking into the cytoplasm it was also detected by AIM&#x02010;2.</p></sec></sec><sec sec-type="discussion" id="cei13382-sec-0014"><title>Discussion</title><p>In this study, we showed that the anti&#x02010;dsDNA monoclonal antibody 2C10 was preferentially taken up by the monocyte&#x02010;rich fraction of normal human PBMCs by the process of macropinocytosis and that this was facilitated by DNA. In contrast, and more important from the clinical point of view, internalization of DNA by the cells was significant only in the presence of 2C10. We found that following the internalization of both antibody and DNA, secretion by the PBMCs of multiple cytokines relating to SLE pathogenesis was increased, and that this was suppressed by the macropinocytosis inhibitor cytochalasin D, as well as the TLR&#x02010;9 inhibitor chloroquine and the AIM&#x02010;2/NLRP&#x02010;3 inflammasome inhibitor shikonin. These results suggest that in SLE, DNA in the plasma or on the cell surface can enter monocytes through endocytosis with the help of anti&#x02010;DNA antibodies. Thereafter, multiple intracellular DNA sensors can be activated, leading to production of cytokines relevant to disease pathogenesis. Thus, anti&#x02010;DNA antibodies, once produced, play a pivotal role in promoting a vicious circle in the lupus pathogenesis.</p><p>As long as four decades ago, Alarc&#x000f3;n&#x02010;Segovia <italic>et al</italic>. first observed that anti&#x02010;nuclear antibodies enter living cells <xref rid="cei13382-bib-0024" ref-type="ref">24</xref>, <xref rid="cei13382-bib-0025" ref-type="ref">25</xref>. Subsequently, numerous studies referring to cell&#x02010;internalizable anti&#x02010;DNA antibodies have been conducted using different assay conditions. Many possible means by which antibodies can enter cells have been implicated, including via Fc&#x003b3; receptors <xref rid="cei13382-bib-0024" ref-type="ref">24</xref>, <xref rid="cei13382-bib-0026" ref-type="ref">26</xref>, an unidentified nucleosome receptor <xref rid="cei13382-bib-0027" ref-type="ref">27</xref>, DNA&#x02010;histone complexes <xref rid="cei13382-bib-0028" ref-type="ref">28</xref>, glycosaminoglycans <xref rid="cei13382-bib-0029" ref-type="ref">29</xref> and myosin 1 <xref rid="cei13382-bib-0030" ref-type="ref">30</xref>. In SLE, apoptosis is enhanced <xref rid="cei13382-bib-0031" ref-type="ref">31</xref> and clearance of the apoptotic debris is compromised <xref rid="cei13382-bib-0002" ref-type="ref">2</xref>, <xref rid="cei13382-bib-0032" ref-type="ref">32</xref>, resulting in higher concentrations of DNA or nucleosomes in the sera of patients relative to healthy controls. Estimated mean levels of 40&#x02013;240&#x000a0;ng/ml of cell&#x02010;free DNA in serum samples from SLE patients have been reported <xref rid="cei13382-bib-0033" ref-type="ref">33</xref>, <xref rid="cei13382-bib-0034" ref-type="ref">34</xref>, <xref rid="cei13382-bib-0035" ref-type="ref">35</xref>. As a consequence, DNA or nucleosomes are attached to the cell surface both <italic>in&#x02010;vivo</italic> and in <italic>in&#x02010;vitro</italic> culture systems <xref rid="cei13382-bib-0027" ref-type="ref">27</xref>, <xref rid="cei13382-bib-0036" ref-type="ref">36</xref>, <xref rid="cei13382-bib-0037" ref-type="ref">37</xref>. Although the precise mechanism of the DNA binding remains obscure, certain positively charged cell surface molecules are supposed to mediate this interaction. 2C10 makes contact with dA&#x02010;dT base pairs in or over the minor groove of dsDNA <xref rid="cei13382-bib-0014" ref-type="ref">14</xref>, such that a single molecule of 2&#x02010;kbp dsDNA can be bound by dozens of 2C10 antibodies. Furthermore, multiple DNA molecules can be cross&#x02010;linked to form large immune complexes. Together with the results of suppression by cytochalasin D, binding of the immune complexes or cross&#x02010;linking of the cell surface DNA is likely to ruffle the cell membrane and result in triggering macropinocytosis. Fc receptors are unlikely to be involved, because an Fc&#x02010;blocker did not suppress the internalization, and consistent with this, 2C10 can enter Fc&#x02010;receptor&#x02010;negative HeLa cells (data not shown). Fc&#x02010;receptor&#x02010;independent internalization of anti&#x02010;DNA antibodies has been observed by other investigators, including Jang <italic>et al</italic>. <xref rid="cei13382-bib-0038" ref-type="ref">38</xref>, who used the single&#x02010;chain variable fragment of a monoclonal antibody. Apart from anti&#x02010;DNA antibodies, small amount of free DNA added to the culture was thought to enter the cells by pinocytosis because DNA alone could induce production of some cytokines, as shown in Fig. <xref rid="cei13382-fig-0006" ref-type="fig">6</xref>a. This DNA internalization was below detection sensitivity of our assay system, and could not be observed by microscopy or flow cytometry as shown in Fig. <xref rid="cei13382-fig-0004" ref-type="fig">4</xref>.</p><p>Since the beginning of this century, studies on the innate immune system have revealed that many different intracellular molecules recognize nucleic acids derived from viruses or bacteria. These sensors definitely act as an essential defense mechanism, but if self&#x02010;DNA or RNA were to be taken up into the cells, as shown in the following studies, they might be activated and contribute to the pathogenesis of autoimmune diseases <xref rid="cei13382-bib-0039" ref-type="ref">39</xref>. For example, the TLR&#x02010;9 pathway of mouse autoreactive B cells which express rheumatoid factor on the surface was activated by chromatin&#x02013;IgG complexes <xref rid="cei13382-bib-0040" ref-type="ref">40</xref>. Activation of mouse dendritic cells was also caused by dual engagement of TLR&#x02010;9 and Fc&#x003b3;RIII or another unidentified receptor <xref rid="cei13382-bib-0041" ref-type="ref">41</xref>. Similar studies using human plasmacytoid dendritic cells (pDCs) showed activation of TLR&#x02010;9 by DNA&#x02013;anti&#x02010;DNA immune complexes which bound to Fc&#x003b3;RIIa <xref rid="cei13382-bib-0026" ref-type="ref">26</xref>. Another study showed that DNA&#x02013;anti&#x02010;DNA immune complexes entered pDCs and activated them via TLR&#x02010;9, but only when neutrophil&#x02010;derived anti&#x02010;microbial peptides were attached to the immune complexes <xref rid="cei13382-bib-0042" ref-type="ref">42</xref>. Thus, most previous studies have suggested a significant role in the pathogenesis of SLE of Fc receptors and TLR&#x02010;9 in pDCs. In this study, we adopted a simple assay system composed of a monoclonal antibody, homogeneous dsDNA and PBMCs from healthy subjects, and observed that the DNA entered monocytes only when it was associated with the anti&#x02010;dsDNA antibody 2C10. This internalization resulted in increased secretion of TNF&#x02010;&#x003b1;, MCP&#x02010;1, IL&#x02010;1&#x003b2;, IL&#x02010;6, IL&#x02010;10, IL&#x02010;33, IFN&#x02010;&#x003b1; and IFN&#x02010;&#x003b3; by the PBMCs. Because chloroquine inhibited secretion of most of these cytokines, it was thought that activation by the internalized DNA proceeded via TLR&#x02010;9. Using TLR&#x02010;9 agonist oligodeoxynucleotides (ODNs), it has been suggested that large multimeric ODNs tend to be retained in early endosomes for a long period and activate the TLR&#x02010;9&#x02013;IFN regulatory factor 7 (IRF&#x02010;7) pathway leading to IFN&#x02010;&#x003b1; production, whereas smaller ODNs move on to late endosomes and stimulate the TLR&#x02010;9&#x02013;nuclear factor (NF)&#x02010;&#x003ba;B pathway to produce proinflammatory cytokines <xref rid="cei13382-bib-0043" ref-type="ref">43</xref>. In our model, using 2&#x02010;kbp DNA, both pathways seem to be activated in monocytes. Another possible explanation is that while proinflammatory cytokines were produced by monocytes, IFN&#x02010;&#x003b1; was released from a different cell type. This could well be the pDCs, because activation of TLR&#x02010;9 in conventional dendritic cells (DCs) and macrophages is reported to drive a strong proinflammatory response, whereas in pDCs the same receptor triggers a potent type I interferon response <xref rid="cei13382-bib-0039" ref-type="ref">39</xref>. Furthermore, we have noticed that 2C10 entered the lymphocyte&#x02010;rich fraction at small, but not negligible, percentages (Fig. <xref rid="cei13382-fig-0002" ref-type="fig">2</xref>b). The whole picture of interaction among different cell types harboring DNA/anti&#x02010;DNA remains to be clarified.</p><p>In addition to TLR&#x02010;9, we concluded that AIM&#x02010;2 was also involved in our model, because it can recognize cytoplasmic DNA to form inflammasomes and lead to the activation of caspase&#x02010;1, cleavage of pro&#x02010;IL&#x02010;1&#x003b2; and secretion of IL&#x02010;1&#x003b2; <xref rid="cei13382-bib-0013" ref-type="ref">13</xref>. Shikonin, an ingredient of a traditional Chinese herbal medicine with anti&#x02010;inflammatory effects, was recently reported to inhibit caspase&#x02010;1 directly <xref rid="cei13382-bib-0022" ref-type="ref">22</xref>. It inhibited secretion of IL&#x02010;1&#x003b2; in our system, suggesting a role of caspase&#x02010;1 in the AIM&#x02010;2 inflammasome formed on recognition of DNA. An involvement of the NLRP&#x02010;3 inflammasome cannot be excluded, but NLRP&#x02010;3 does not directly recognize DNA. Internalization of dsDNA has recently been suggested to activate NLRP&#x02010;3 via induction of reactive oxygen species and K<sup>+</sup> efflux, but the precise mechanism of this process remains uncertain <xref rid="cei13382-bib-0044" ref-type="ref">44</xref>.</p><p>In conclusion, by establishing a simple assay system with normal mononuclear cells, we demonstrated that just a single anti&#x02010;dsDNA antibody can complete a model of lupus pathogenesis, from facilitation of DNA internalization through to secretion of multiple cytokines, including IFN&#x02010;&#x003b1; and proinflammatory cytokines. These results again emphasize the importance of maintaining anti&#x02010;dsDNA antibodies at low levels in the treatment of SLE.</p></sec><sec sec-type="COI-statement" id="cei13382-sec-0016"><title>Disclosure</title><p>All the authors have no conflicts of interest to disclose.</p></sec><sec id="cei13382-sec-0017"><title>Author contributions</title><p>K. I. performed the experiments and wrote the paper; M. I. performed the experiments; T. K. designed the study and revised the paper.</p></sec></body><back><ack id="cei13382-sec-0015"><title>Acknowledgement</title><p>This study was supported by JSPS KAKENHI Grant number JP16K089029.</p></ack><ref-list content-type="cited-references" id="cei13382-bibl-0001"><title>References</title><ref id="cei13382-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cei13382-cit-0001">
+<string-name>
+<surname>Oku</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Atsumi</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Systemic lupus erythematosus: nothing stales her infinite variety</article-title>. <source xml:lang="en">Mod Rheumatol</source>
+<year>2018</year>; <volume>28</volume>:<fpage>758</fpage>&#x02013;<lpage>65</lpage>.<pub-id pub-id-type="pmid">29947275</pub-id></mixed-citation></ref><ref id="cei13382-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cei13382-cit-0002">
+<string-name>
+<surname>Tsokos</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name>
+<surname>Lo</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Reis</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>
+<given-names>KE</given-names>
+</string-name>. <article-title>New insights into the immunopathogenesis of systemic lupus erythematosus</article-title>. <source xml:lang="en">Nat Rev Rheumatol</source>
+<year>2016</year>; <volume>12</volume>:<fpage>716</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">27872476</pub-id></mixed-citation></ref><ref id="cei13382-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cei13382-cit-0003">
+<string-name>
+<surname>Hochberg</surname>
+<given-names>MC</given-names>
+</string-name>. <article-title>Updating the American College of Rheumatology revised criteria for the classification of systemic lupus erythematosus</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>1997</year>; <volume>40</volume>:<fpage>1725</fpage>.</mixed-citation></ref><ref id="cei13382-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cei13382-cit-0004">
+<string-name>
+<surname>Pisetsky</surname>
+<given-names>DS</given-names>
+</string-name>. <article-title>Anti&#x02010;DNA antibodies&#x000a0;&#x02013;&#x000a0;quintessential biomarkers of SLE</article-title>. <source xml:lang="en">Nat Rev Rheumatol</source>
+<year>2016</year>; <volume>12</volume>:<fpage>102</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">26581343</pub-id></mixed-citation></ref><ref id="cei13382-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cei13382-cit-0005">
+<string-name>
+<surname>Crow</surname>
+<given-names>MK</given-names>
+</string-name>. <article-title>Type I interferon in the pathogenesis of lupus</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2014</year>; <volume>192</volume>:<fpage>5459</fpage>&#x02013;<lpage>68</lpage>.<pub-id pub-id-type="pmid">24907379</pub-id></mixed-citation></ref><ref id="cei13382-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cei13382-cit-0006">
+<string-name>
+<surname>Vallin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Perers</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Alm</surname>
+<given-names>GV</given-names>
+</string-name>, <string-name>
+<surname>Ronnblom</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Anti&#x02010;double&#x02010;stranded DNA antibodies and immunostimulatory plasmid DNA in combination mimic the endogenous IFN&#x02010;alpha inducer in systemic lupus erythematosus</article-title>. <source xml:lang="en">J Immunol</source>
+<year>1999</year>;<volume>163</volume>:<fpage>6306</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">10570325</pub-id></mixed-citation></ref><ref id="cei13382-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cei13382-cit-0007">
+<string-name>
+<surname>Sun</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>GH</given-names>
+</string-name>. <article-title>Monoclonal anti&#x02010;double&#x02010;stranded DNA autoantibody stimulates the expression and release of IL&#x02010;1 beta, IL&#x02010;6, IL&#x02010;8, IL&#x02010;10 and TNF&#x02010;alpha from normal human mononuclear cells involving in the lupus pathogenesis</article-title>. <source xml:lang="en">Immunology</source>
+<year>2000</year>; <volume>99</volume>:<fpage>352</fpage>&#x02013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">10712664</pub-id></mixed-citation></ref><ref id="cei13382-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cei13382-cit-0008">
+<string-name>
+<surname>Hemmi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Takeuchi</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Kawai</surname>
+<given-names>T</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A Toll&#x02010;like receptor recognizes bacterial DNA</article-title>. <source xml:lang="en">Nature</source>
+<year>2000</year>; <volume>408</volume>:<fpage>740</fpage>&#x02013;<lpage>5</lpage>.<pub-id pub-id-type="pmid">11130078</pub-id></mixed-citation></ref><ref id="cei13382-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cei13382-cit-0009">
+<string-name>
+<surname>Alexopoulou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Holt</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Medzhitov</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Flavell</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Recognition of double&#x02010;stranded RNA and activation of NF&#x02010;kappaB by Toll&#x02010;like receptor 3</article-title>. <source xml:lang="en">Nature</source>
+<year>2001</year>; <volume>413</volume>:<fpage>732</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">11607032</pub-id></mixed-citation></ref><ref id="cei13382-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cei13382-cit-0010">
+<string-name>
+<surname>Heil</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hemmi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hochrein</surname>
+<given-names>H</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Species&#x02010;specific recognition of single&#x02010;stranded RNA via Toll&#x02010;like receptor 7 and 8</article-title>. <source xml:lang="en">Science</source>
+<year>2004</year>; <volume>303</volume>:<fpage>1526</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">14976262</pub-id></mixed-citation></ref><ref id="cei13382-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cei13382-cit-0011">
+<string-name>
+<surname>Ishikawa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Barber</surname>
+<given-names>GN</given-names>
+</string-name>. <article-title>STING is an endoplasmic reticulum adaptor that facilitates innate immune signalling</article-title>. <source xml:lang="en">Nature</source>
+<year>2008</year>; <volume>455</volume>:<fpage>674</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">18724357</pub-id></mixed-citation></ref><ref id="cei13382-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cei13382-cit-0012">
+<string-name>
+<surname>Hornung</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Ablasser</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Charrel&#x02010;Dennis</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>AIM2 recognizes cytosolic dsDNA and forms a caspase&#x02010;1&#x02010;activating inflammasome with ASC</article-title>. <source xml:lang="en">Nature</source>
+<year>2009</year>; <volume>458</volume>:<fpage>514</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">19158675</pub-id></mixed-citation></ref><ref id="cei13382-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cei13382-cit-0013">
+<string-name>
+<surname>Monteith</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>E</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Defects in lysosomal maturation facilitate the activation of innate sensors in systemic lupus erythematosus</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<year>2016</year>; <volume>113</volume>:<fpage>E2142</fpage>&#x02013;<lpage>51</lpage>.<pub-id pub-id-type="pmid">27035940</pub-id></mixed-citation></ref><ref id="cei13382-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cei13382-cit-0014">
+<string-name>
+<surname>Kubota</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kanai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Stollar</surname>
+<given-names>BD</given-names>
+</string-name>. <article-title>Enhancement of oxidative cleavage of DNA by the binding sites of two anti&#x02010;double&#x02010;stranded DNA antibodies</article-title>. <source xml:lang="en">J Biol Chem</source>
+<year>1996</year>; <volume>271</volume>:<fpage>6555</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">8626460</pub-id></mixed-citation></ref><ref id="cei13382-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cei13382-cit-0015">
+<string-name>
+<surname>Jang</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Lecerf</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Stollar</surname>
+<given-names>BD</given-names>
+</string-name>. <article-title>Heavy chain dominance in the binding of DNA by a lupus mouse monoclonal autoantibody</article-title>. <source xml:lang="en">Mol Immunol</source>
+<year>1996</year>; <volume>33</volume>:<fpage>197</fpage>&#x02013;<lpage>210</lpage>.<pub-id pub-id-type="pmid">8649441</pub-id></mixed-citation></ref><ref id="cei13382-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cei13382-cit-0016">
+<string-name>
+<surname>Virachith</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Saito</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Anti&#x02010;&#x003b2;2&#x02010;glycoprotein I antibody with DNA binding activity enters living monocytes via cell surface DNA and induces tissue factor expression</article-title>. <source xml:lang="en">Clin Exp Immunol</source>
+<year>2019</year>; <volume>195</volume>:<fpage>167</fpage>&#x02013;<lpage>78</lpage>.<pub-id pub-id-type="pmid">30368780</pub-id></mixed-citation></ref><ref id="cei13382-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cei13382-cit-0017">
+<string-name>
+<surname>Satake</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Miyasaka</surname>
+<given-names>N</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Induction of anti&#x02010;DNA antibodies by immunization with anti&#x02010;DNA antibodies: mechanism and characterization</article-title>. <source xml:lang="en">Lupus</source>
+<year>2000</year>; <volume>9</volume>:<fpage>489</fpage>&#x02013;<lpage>97</lpage>.<pub-id pub-id-type="pmid">11035413</pub-id></mixed-citation></ref><ref id="cei13382-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cei13382-cit-0018">
+<string-name>
+<surname>Fenton</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Tommeras</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Marion</surname>
+<given-names>TN</given-names>
+</string-name>, <string-name>
+<surname>Rekvig</surname>
+<given-names>OP</given-names>
+</string-name>. <article-title>Pure anti&#x02010;dsDNA mAbs need chromatin structures to promote glomerular mesangial deposits in BALB/c mice</article-title>. <source xml:lang="en">Autoimmunity</source>
+<year>2010</year>; <volume>43</volume>:<fpage>179</fpage>&#x02013;<lpage>88</lpage>.<pub-id pub-id-type="pmid">19835488</pub-id></mixed-citation></ref><ref id="cei13382-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cei13382-cit-0019">
+<string-name>
+<surname>Dutta</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Donaldson</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>Search for inhibitors of endocytosis: intended specificity and unintended consequences</article-title>. <source xml:lang="en">Cell Logist</source>
+<year>2012</year>; <volume>2</volume>:<fpage>203</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">23538558</pub-id></mixed-citation></ref><ref id="cei13382-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cei13382-cit-0020">
+<string-name>
+<surname>Werwitzke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Trick</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Sondermann</surname>
+<given-names>P</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Treatment of lupus&#x02010;prone NZB/NZW F&#x02010;1 mice with recombinant soluble Fc gamma receptor II (CD32)</article-title>. <source xml:lang="en">Ann Rheum Dis</source>
+<year>2008</year>; <volume>67</volume>:<fpage>154</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">17557887</pub-id></mixed-citation></ref><ref id="cei13382-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cei13382-cit-0021">
+<string-name>
+<surname>Harigai</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kawamoto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hara</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Excessive production of IFN&#x02010;gamma in patients with systemic lupus erythematosus and its contribution to induction of B lymphocyte stimulator/B cell&#x02010;activating factor/TNF ligand superfamily&#x02010;13B</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2008</year>; <volume>181</volume>:<fpage>2211</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">18641361</pub-id></mixed-citation></ref><ref id="cei13382-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cei13382-cit-0022">
+<string-name>
+<surname>Zorman</surname> J,</string-name>
+<string-name>
+<surname>Susjan</surname> P</string-name>, <string-name>
+<surname>Hafner&#x02010;Bratkovic</surname> I</string-name>. <article-title>Shikonin suppresses NLRP3 and AIM2 inflammasomes by direct Inhibition of caspase&#x02010;1</article-title>. <source xml:lang="en">PLOS ONE</source>
+<year>2016</year>; <volume>11</volume>:<fpage>e0159826</fpage>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0159826</pub-id>.<pub-id pub-id-type="pmid">27467658</pub-id></mixed-citation></ref><ref id="cei13382-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cei13382-cit-0023">
+<string-name>
+<surname>Vincent</surname> J</string-name>, <string-name>
+<surname>Adura</surname> C</string-name>, <string-name>
+<surname>Gao</surname> P</string-name>
+<italic>et al</italic>
+<article-title>Small molecule inhibition of cGAS reduces interferon expression in primary macrophages from autoimmune mice</article-title>. <source xml:lang="en">Nat Commun</source>
+<year>2017</year>; <volume>8</volume>:<fpage>750</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41467-017-01770-3</pub-id>.<pub-id pub-id-type="pmid">28963528</pub-id></mixed-citation></ref><ref id="cei13382-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cei13382-cit-0024">
+<string-name>
+<surname>Alarcon&#x02010;Segovia</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ruizarguelles</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Fishbein</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Antibody to nuclear ribonucleoprotein penetrates live human mononuclear cells through Fc receptors</article-title>. <source xml:lang="en">Nature</source>
+<year>1978</year>; <volume>271</volume>:<fpage>67</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">625325</pub-id></mixed-citation></ref><ref id="cei13382-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cei13382-cit-0025">
+<string-name>
+<surname>Alarc&#x000f3;n&#x02010;segovia</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Llorente</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Fishbein</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Diazjouanen</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Abnormalities in the content of nucleic acids of peripheral blood mononuclear cells from patients with systemic lupus erythematosus relationship to DNA antibodies</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>1982</year>; <volume>25</volume>:<fpage>304</fpage>&#x02013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">6175321</pub-id></mixed-citation></ref><ref id="cei13382-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cei13382-cit-0026">
+<string-name>
+<surname>Means</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Latz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hayashi</surname>
+<given-names>F</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Human lupus autoantibody&#x02010;DNA complexes activate DCs through cooperation of CD32 and TLR9</article-title>. <source xml:lang="en">J Clin Invest</source>
+<year>2005</year>; <volume>115</volume>:<fpage>407</fpage>&#x02013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">15668740</pub-id></mixed-citation></ref><ref id="cei13382-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cei13382-cit-0027">
+<string-name>
+<surname>Koutouzov</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cabrespines</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Amoura</surname>
+<given-names>Z</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Binding of nucleosomes to a cell surface receptor: redistribution and endocytosis in the presence of lupus antibodies</article-title>. <source xml:lang="en">Eur J Immunol</source>
+<year>1996</year>; <volume>26</volume>:<fpage>472</fpage>&#x02013;<lpage>86</lpage>.<pub-id pub-id-type="pmid">8617320</pub-id></mixed-citation></ref><ref id="cei13382-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cei13382-cit-0028">
+<string-name>
+<surname>Zannikou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bellou</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Eliades</surname>
+<given-names>P</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>DNA&#x02010;histone complexes as ligands amplify cell penetration and nuclear targeting of anti&#x02010;DNA antibodies via energy&#x02010;independent mechanisms</article-title>. <source xml:lang="en">Immunology</source>
+<year>2016</year>; <volume>147</volume>:<fpage>73</fpage>&#x02013;<lpage>81</lpage>.<pub-id pub-id-type="pmid">26447818</pub-id></mixed-citation></ref><ref id="cei13382-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cei13382-cit-0029">
+<string-name>
+<surname>Avrameas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gasmi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Buttin</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>DNA and heparin alter the internalization process of anti&#x02010;DNA monoclonal antibodies according to patterns typical of both the charged molecule and the antibody</article-title>. <source xml:lang="en">J Autoimmun</source>
+<year>2001</year>; <volume>16</volume>:<fpage>383</fpage>&#x02013;<lpage>91</lpage>.<pub-id pub-id-type="pmid">11437486</pub-id></mixed-citation></ref><ref id="cei13382-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cei13382-cit-0030">
+<string-name>
+<surname>Yanase</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Puccetti</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Receptor&#x02010;mediated cellular entry of nuclear localizing anti&#x02010;DNA antibodies via myosin 1</article-title>. <source xml:lang="en">J Clin Invest</source>
+<year>1997</year>; <volume>100</volume>:<fpage>25</fpage>&#x02013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">9202053</pub-id></mixed-citation></ref><ref id="cei13382-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cei13382-cit-0031">
+<string-name>
+<surname>Perniok</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wedekind</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Herrmann</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>High levels of circulating early apoptotic peripheral blood mononuclear cells in systemic lupus erythematosus</article-title>. <source xml:lang="en">Lupus</source>
+<year>1998</year>; <volume>7</volume>:<fpage>113</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">9541096</pub-id></mixed-citation></ref><ref id="cei13382-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cei13382-cit-0032">
+<string-name>
+<surname>Sisirak</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Sally</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>D'Agati</surname>
+<given-names>V</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Digestion of chromatin in apoptotic cell microparticles prevents autoimmunity</article-title>. <source xml:lang="en">Cell</source>
+<year>2016</year>; <volume>166</volume>:<fpage>88</fpage>&#x02013;<lpage>101</lpage>.<pub-id pub-id-type="pmid">27293190</pub-id></mixed-citation></ref><ref id="cei13382-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cei13382-cit-0033">
+<string-name>
+<surname>Zhang</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Shu</surname>
+<given-names>XM</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Elevated plasma cfDNA may be associated with active lupus nephritis and partially attributed to abnormal regulation of neutrophil extracellular traps (NETs) in patients with systemic lupus erythematosus</article-title>. <source xml:lang="en">Intern Med</source>
+<year>2014</year>; <volume>53</volume>:<fpage>2763</fpage>&#x02013;<lpage>71</lpage>.<pub-id pub-id-type="pmid">25500436</pub-id></mixed-citation></ref><ref id="cei13382-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cei13382-cit-0034">
+<string-name>
+<surname>Tug</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Helmig</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Menke</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Correlation between cell free DNA levels and medical evaluation of disease progression in systemic lupus erythematosus patients</article-title>. <source xml:lang="en">Cell Immunol</source>
+<year>2014</year>; <volume>292</volume>:<fpage>32</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">25243646</pub-id></mixed-citation></ref><ref id="cei13382-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cei13382-cit-0035">
+<string-name>
+<surname>Kato</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Takamatsu</surname>
+<given-names>H</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Apoptosis&#x02010;derived membrane vesicles drive the cGAS&#x02010;STING pathway and enhance type I IFN production in systemic lupus erythematosus</article-title>. <source xml:lang="en">Ann Rheum Dis</source>
+<year>2018</year>; <volume>77</volume>:<fpage>1507</fpage>&#x02013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">29945921</pub-id></mixed-citation></ref><ref id="cei13382-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cei13382-cit-0036">
+<string-name>
+<surname>Kubota</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kanai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Miyasaka</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Interpretation of the cross&#x02010;reactivity of anti&#x02010;DNA antibodies with cell surface proteins: the role of cell surface histones</article-title>. <source xml:lang="en">Immunol Lett</source>
+<year>1990</year>; <volume>23</volume>:<fpage>187</fpage>&#x02013;<lpage>94</lpage>.<pub-id pub-id-type="pmid">2307491</pub-id></mixed-citation></ref><ref id="cei13382-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cei13382-cit-0037">
+<string-name>
+<surname>Laktionov</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name>
+<surname>Tamkovich</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name>
+<surname>Rykova</surname>
+<given-names>EY</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Cell&#x02010;surface&#x02010;bound nucleic acids: free and cell&#x02010;surface&#x02010;bound nucleic acids in blood of healthy donors and breast cancer patients</article-title>. <source xml:lang="en">Ann NY Acad Sci</source>
+<year>2004</year>; <volume>1022</volume>:<fpage>221</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">15251964</pub-id></mixed-citation></ref><ref id="cei13382-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cei13382-cit-0038">
+<string-name>
+<surname>Jang</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Jun</surname>
+<given-names>HR</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A nucleic acid&#x02010;hydrolyzing antibody penetrates into cells via caveolae&#x02010;mediated endocytosis, localizes in the cytosol and exhibits cytotoxicity</article-title>. <source xml:lang="en">Cell Mol Life Sci</source>
+<year>2009</year>; <volume>66</volume>:<fpage>1985</fpage>&#x02013;<lpage>97</lpage>.<pub-id pub-id-type="pmid">19373434</pub-id></mixed-citation></ref><ref id="cei13382-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cei13382-cit-0039">
+<string-name>
+<surname>Crowl</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Gray</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Pestal</surname>
+<given-names>K</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Intracellular nucleic acid detection in autoimmunity</article-title>. <source xml:lang="en">Annu Rev Immunol</source>
+<year>2017</year>; <volume>35</volume>:<fpage>313</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">28142323</pub-id></mixed-citation></ref><ref id="cei13382-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cei13382-cit-0040">
+<string-name>
+<surname>Leadbetter</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Rifkin</surname>
+<given-names>IR</given-names>
+</string-name>, <string-name>
+<surname>Hohlbaum</surname>
+<given-names>AM</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Chromatin&#x02010;IgG complexes activate B cells by dual engagement of IgM and Toll&#x02010;like receptors</article-title>. <source xml:lang="en">Nature</source>
+<year>2002</year>; <volume>416</volume>:<fpage>603</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">11948342</pub-id></mixed-citation></ref><ref id="cei13382-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cei13382-cit-0041">
+<string-name>
+<surname>Boule</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Broughton</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mackay</surname>
+<given-names>F</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Toll&#x02010;like receptor 9&#x02010;dependent and &#x02010;independent dendritic cell activation by chromatin&#x02010;immunoglobulin G complexes</article-title>. <source xml:lang="en">J Exp Med</source>
+<year>2004</year>; <volume>199</volume>:<fpage>1631</fpage>&#x02013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">15197227</pub-id></mixed-citation></ref><ref id="cei13382-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cei13382-cit-0042">
+<string-name>
+<surname>Lande</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ganguly</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Facchinetti</surname>
+<given-names>V</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Neutrophils activate plasmacytoid dendritic cells by releasing self&#x02010;DNA&#x02013;peptide complexes in systemic lupus erythematosus</article-title>. <source xml:lang="en">Sci Transl Med</source>
+<year>2011</year>;<volume>3</volume>:<fpage>73ra19</fpage>&#x02013;<lpage>73ra19</lpage>.</mixed-citation></ref><ref id="cei13382-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cei13382-cit-0043">
+<string-name>
+<surname>Okuya</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tamura</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Saito</surname>
+<given-names>K</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Spatiotemporal regulation of heat shock protein 90&#x02010;chaperoned self&#x02010;DNA and CpG&#x02010;oligodeoxynucleotide for type I IFN induction via targeting to static early endosome</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2010</year>; <volume>184</volume>:<fpage>7092</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">20483722</pub-id></mixed-citation></ref><ref id="cei13382-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cei13382-cit-0044">
+<string-name>
+<surname>Shin</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>N</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Self double&#x02010;stranded (ds) DNA induces IL&#x02010;1 beta production from human monocytes by activating NLRP3 inflammasome in the presence of anti&#x02010;dsDNA antibodies</article-title>. <source xml:lang="en">J Immunol</source>
+<year>2013</year>; <volume>190</volume>:<fpage>1407</fpage>&#x02013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">23315075</pub-id></mixed-citation></ref></ref-list></back></article>

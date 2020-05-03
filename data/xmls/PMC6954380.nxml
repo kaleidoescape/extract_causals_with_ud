@@ -1,0 +1,750 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Cardiol</journal-id><journal-id journal-id-type="iso-abbrev">Clin Cardiol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1932-8737</journal-id><journal-id journal-id-type="publisher-id">CLC</journal-id><journal-title-group><journal-title>Clinical Cardiology</journal-title></journal-title-group><issn pub-type="ppub">0160-9289</issn><issn pub-type="epub">1932-8737</issn><publisher><publisher-name>Wiley Periodicals, Inc.</publisher-name><publisher-loc>New York</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31691981</article-id><article-id pub-id-type="pmc">6954380</article-id><article-id pub-id-type="doi">10.1002/clc.23284</article-id><article-id pub-id-type="publisher-id">CLC23284</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Atrial fibrillation&#x02010;related stroke in women: Evidence and inequalities in epidemiology, mechanisms, clinical presentation, and management</article-title><alt-title alt-title-type="left-running-head">Kostopoulou et al.</alt-title></title-group><contrib-group><contrib id="clc23284-cr-0001" contrib-type="author" corresp="yes"><name><surname>Kostopoulou</surname><given-names>Anna</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2733-2729</contrib-id><xref ref-type="aff" rid="clc23284-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="clc23284-aff-0002">
+<sup>2</sup>
+</xref><address><email>annakostop69@gmail.com</email></address></contrib><contrib id="clc23284-cr-0002" contrib-type="author"><name><surname>Zeljko</surname><given-names>Hrvojka M.</given-names></name><xref ref-type="aff" rid="clc23284-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="clc23284-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="clc23284-cr-0003" contrib-type="author"><name><surname>Bogossian</surname><given-names>Harilaos</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4206-630X</contrib-id><xref ref-type="aff" rid="clc23284-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="clc23284-cr-0004" contrib-type="author"><name><surname>Ciudin</surname><given-names>Radu</given-names></name><xref ref-type="aff" rid="clc23284-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="clc23284-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="clc23284-cr-0005" contrib-type="author"><name><surname>Costa</surname><given-names>Francisco</given-names></name><xref ref-type="aff" rid="clc23284-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="clc23284-cr-0006" contrib-type="author"><name><surname>Heijman</surname><given-names>Jordi</given-names></name><xref ref-type="aff" rid="clc23284-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="clc23284-cr-0007" contrib-type="author"><name><surname>Kochhaeuser</surname><given-names>Simon</given-names></name><xref ref-type="aff" rid="clc23284-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="clc23284-cr-0008" contrib-type="author"><name><surname>Manola</surname><given-names>Sime</given-names></name><xref ref-type="aff" rid="clc23284-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="clc23284-cr-0009" contrib-type="author"><name><surname>Scherr</surname><given-names>Daniel</given-names></name><xref ref-type="aff" rid="clc23284-aff-0011">
+<sup>11</sup>
+</xref><xref ref-type="aff" rid="clc23284-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="clc23284-cr-0010" contrib-type="author"><name><surname>Sohal</surname><given-names>Manav</given-names></name><xref ref-type="aff" rid="clc23284-aff-0012">
+<sup>12</sup>
+</xref></contrib><contrib id="clc23284-cr-0011" contrib-type="author"><name><surname>Wakili</surname><given-names>Reza</given-names></name><xref ref-type="aff" rid="clc23284-aff-0013">
+<sup>13</sup>
+</xref></contrib><contrib id="clc23284-cr-0012" contrib-type="author"><name><surname>Wolf</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="clc23284-aff-0014">
+<sup>14</sup>
+</xref></contrib><contrib id="clc23284-cr-0013" contrib-type="author"><name><surname>Irfan</surname><given-names>Ghazala</given-names></name><xref ref-type="aff" rid="clc23284-aff-0015">
+<sup>15</sup>
+</xref></contrib><contrib id="clc23284-cr-0014" contrib-type="author"><collab collab-type="authors">on the behalf of the DAS&#x02010;CAM participants&#x02014;2017&#x02010;2018</collab></contrib></contrib-group><aff id="clc23284-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Electrophysiology and Pacing</named-content>
+<institution>Onassis Cardiac Surgery Center</institution>
+<city>Athens</city>
+<country country="GR">Greece</country>
+</aff><aff id="clc23284-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology, Cardiovascular Research Institute Maastricht (CARIM)</named-content>
+<institution>Maastricht University Medical Center+</institution>
+<city>Maastricht</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="clc23284-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Faculty of Medicine</named-content>
+<institution>Josip Juraj Strossmayer University of Osijek</institution>
+<country country="HR">Croatia</country>
+</aff><aff id="clc23284-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Cardiology Department</named-content>
+<institution>St Helens and Knowsley Teaching Hospitals NHS Trust, Whiston Hospital</institution>
+<city>Prescot</city>
+<country country="GB">UK</country>
+</aff><aff id="clc23284-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology and Angiology, Klinikum L&#x000fc;denscheid</named-content>
+<institution>Witten/Herdecke University</institution>
+<country country="DE">Germany</country>
+</aff><aff id="clc23284-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>&#x0201c;Carol Davila&#x0201d; University of Medicine and Pharmacy</institution>
+<city>Bucharest</city>
+<country country="RO">Romania</country>
+</aff><aff id="clc23284-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Prof C. C. Iliescu Institute of Cardiovascular Diseases</institution>
+<city>Bucharest</city>
+<country country="RO">Romania</country>
+</aff><aff id="clc23284-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Hospital Santa Cruz</institution>
+<city>Lisbon</city>
+<country country="PT">Portugal</country>
+</aff><aff id="clc23284-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology II&#x02010;Electrophysiology</named-content>
+<institution>University Hospital of Muenster</institution>
+<city>Muenster</city>
+<country country="DE">Germany</country>
+</aff><aff id="clc23284-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Department of Cardiovascular Disease</named-content>
+<institution>&#x0201c;Sestre Milosrdnice&#x0201d; University Hospital Centre</institution>
+<city>Zagreb</city>
+<country country="HR">Croatia</country>
+</aff><aff id="clc23284-aff-0011">
+<label><sup>11</sup></label>
+<named-content content-type="organisation-division">Division of Cardiology, Department of Medicine</named-content>
+<institution>Medical University of Graz</institution>
+<country country="AT">Austria</country>
+</aff><aff id="clc23284-aff-0012">
+<label><sup>12</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology, Clinical Academic Group</named-content>
+<institution>St. George's University Hospitals NHS Foundation Trust</institution>
+<country country="GB">UK</country>
+</aff><aff id="clc23284-aff-0013">
+<label><sup>13</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology and Angiology</named-content>
+<institution>Universit&#x000e4;tsklinikum Essen, Westdeutsches Herz und Gef&#x000e4;&#x000df;zentrum Essen</institution>
+<country country="DE">Germany</country>
+</aff><aff id="clc23284-aff-0014">
+<label><sup>14</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>ZNA Middelheim</institution>
+<city>Antwerp</city>
+<country country="BE">Belgium</country>
+</aff><aff id="clc23284-aff-0015">
+<label><sup>15</sup></label>
+<named-content content-type="organisation-division">Department of Cardiac Electrophysiology</named-content>
+<institution>National Institute of Cardiovascular Diseases</institution>
+<city>Karachi</city>
+<country country="PK">Pakistan</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Anna Kostopoulou, MD, Department of Electrophysiology and Pacing, Onassis Cardiac Surgery Center, Syngrou 356, Kallithea 17674 Athens Greece.<break/>
+Email: <email>annakostop69@gmail.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>43</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/clc.v43.1</issue-id><fpage>14</fpage><lpage>23</lpage><history><date date-type="received"><day>28</day><month>8</month><year>2019</year></date><date date-type="rev-recd"><day>10</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>17</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Clinical Cardiology</italic> published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CLC-43-14.pdf"/><abstract><title>Abstract</title><sec id="clc23284-sec-0001"><title>Background</title><p>Atrial fibrillation (AF) is the most common clinical arrhythmia and one of the major causes of stroke, heart failure, sudden death, and cardiovascular morbidity. Despite substantial advances in (interventional) rhythm control treatment during the last decade, anticoagulation for stroke prevention remains a major component of AF treatment.</p></sec><sec id="clc23284-sec-0002"><title>Hypothesis</title><p>There are important sex&#x02010;specific differences in AF&#x02010;related stroke, resulting from sex&#x02010;specific mechanisms and therapeutic differences.</p></sec><sec id="clc23284-sec-0003"><title>Methods</title><p>This review summarizes available data on sex differences in risk assessment and prevention of stroke and highlights current knowledge gaps in AF&#x02010;related stroke mechanisms, prevention and management that warrant further research.</p></sec><sec id="clc23284-sec-0004"><title>Results</title><p>Increased thrombotic risk in women is multifactorial, involving hormonal changes after menopause, structural, endocrine and lifestyle/social factors and their interactions. It is clear from randomized studies that women benefit from anticoagulant treatment and that their bleeding risk is similar to men. Women should therefore receive equivalent treatment to men, based on the validated criteria for anticoagulation therapy. However, women are not represented equally in the large randomized studies and sex&#x02010;related information in many fields is lacking.</p></sec><sec id="clc23284-sec-0005"><title>Conclusions</title><p>Female sex is an established risk factor for stroke in AF patients. The evidence for sex&#x02010;specific differences in stroke risk assessment and stroke prevention is accumulating. However, the underlying biological mechanisms remain incompletely understood and further studies are required in order to decrease AF&#x02010;related morbidity and mortality.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="clc23284-kwd-0001">anticoagulation</kwd><kwd id="clc23284-kwd-0002">atrial fibrillation</kwd><kwd id="clc23284-kwd-0003">hemorrhage</kwd><kwd id="clc23284-kwd-0004">menopause</kwd><kwd id="clc23284-kwd-0005">sex differences</kwd><kwd id="clc23284-kwd-0006">stroke</kwd></kwd-group><counts><fig-count count="1"/><table-count count="3"/><page-count count="10"/><word-count count="6625"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:11.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="clc23284-cit-9001">
+<string-name>
+<surname>Kostopoulou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zeljko</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Bogossian</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Atrial fibrillation&#x02010;related stroke in women: Evidence and inequalities in epidemiology, mechanisms, clinical presentation, and management</article-title>. <source xml:lang="en">Clin Cardiol</source>. <year>2020</year>;<volume>43</volume>:<fpage>14</fpage>&#x02013;<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1002/clc.23284</pub-id>
+</mixed-citation>
+</p></notes></front><body id="clc23284-body-0001"><sec id="clc23284-sec-0006"><label>1</label><title>INTRODUCTION</title><p>Atrial fibrillation (AF) is the most common clinical arrhythmia and one of the major causes of stroke, heart failure, sudden death, and cardiovascular morbidity worldwide.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref> The incidence of AF has been rising progressively during the last decade as a result of longer total life expectancy, increased prevalence of comorbidities, lifestyle changes, and improved detection.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref> The association between stroke and AF increases significantly with age. Approximately 1/3 of total ischemic strokes and more than 50% of those in patients above 80&#x02009;years of age are associated with AF.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref> Moreover, patients with AF who suffer an ischemic stroke appear to have a worse outcome, more disability, and greater mortality, than those who have an ischemic stroke in the absence of AF.<xref rid="clc23284-bib-0002" ref-type="ref">2</xref> Oral anticoagulation (OAC) therapy is an important component of AF treatment, providing significant clinical benefit by preventing ischemic strokes and prolonging life.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref>
+</p></sec><sec id="clc23284-sec-0007"><label>2</label><title>ATRIAL FIBRILLATION IN WOMEN</title><p>Although North American and European women at all ages have a lower prevalence of AF compared to men, all&#x02010;cause mortality is higher and AF is independently associated with a 2&#x02010;fold increase in risk of death in women compared to a 1.5&#x02010;fold increase in men.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref> In the ATRIA study<xref rid="clc23284-bib-0003" ref-type="ref">3</xref> the annual thromboembolism rate in patients not taking warfarin was 3.5% for women vs 1.8% for men. Females with additional stroke risk factors, particularly older age (&#x0003e;65&#x02009;years), are at greater risk of stroke, even when adequately anticoagulated, whereas the bleeding risk on anticoagulation was similar in both sexes.<xref rid="clc23284-bib-0003" ref-type="ref">3</xref>, <xref rid="clc23284-bib-0004" ref-type="ref">4</xref> Women with AF are typically older, have more comorbidities than men, are more often symptomatic and experience worse quality of life (QOL) and more severe strokes.<xref rid="clc23284-bib-0003" ref-type="ref">3</xref>, <xref rid="clc23284-bib-0004" ref-type="ref">4</xref>
+</p><p>European guidelines<xref rid="clc23284-bib-0001" ref-type="ref">1</xref> and a recent review on sex differences in arrhythmias by the European Heart Rhythm Association (EHRA)<xref rid="clc23284-bib-0005" ref-type="ref">5</xref> underline these sex&#x02010;specific issues and recommend offering effective diagnostic tools and therapeutic options to women and men equally. However, in practice, females appear less likely to receive specialist care and when they do, a more conservative approach is followed.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref>, <xref rid="clc23284-bib-0006" ref-type="ref">6</xref> The reasons for this are incompletely understood but appear to involve both health provider and patient characteristics. This is a review on sex differences in stroke risk assessment and prevention in patients with AF. It focuses on current knowledge gaps and areas in AF stroke mechanisms and prevention that warrant further research.</p></sec><sec id="clc23284-sec-0008"><label>3</label><title>METHODS</title><p>Medical literature was reviewed to identify articles investigating atrial fibrillation and stroke risk in terms of pathophysiology and anticoagulation in women. The OVID&#x02010;MEDLINE, PubMed, and Cochrane CENTRAL databases were searched for English&#x02010;language articles without time restriction. Further selection was based on abstracts and clinical relevance. When available, we focused on randomized controlled trials; if unavailable, important observational studies were used. Our review represents a selection of the main studies published on this topic and is not exhaustive.</p></sec><sec id="clc23284-sec-0009"><label>4</label><title>STROKE RISK AND ANTICOAGULATION IN WOMEN</title><sec id="clc23284-sec-0010"><label>4.1</label><title>Mechanisms of increased AF and stroke risk in women</title><p>The association between female sex and stroke in AF is incompletely understood and a number of clinical and non&#x02010;clinical factors have been proposed (Figure <xref rid="clc23284-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="clc23284-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Mechanisms of increased stroke risk in women</p></caption><graphic id="nlm-graphic-1" xlink:href="CLC-43-14-g001"/></fig><sec id="clc23284-sec-0011"><label>4.1.1</label><title>Clinical and cardiometabolic risk factors</title><p>Several of the validated clinical predictors of thromboembolism differ between men and women.<xref rid="clc23284-bib-0003" ref-type="ref">3</xref>, <xref rid="clc23284-bib-0004" ref-type="ref">4</xref> Women with AF are on average older than male AF patients, in part due to longer life expectancy. In a large retrospective Swedish study<xref rid="clc23284-bib-0007" ref-type="ref">7</xref> the risk of ischemic stroke was 1.5&#x02010;fold higher in women compared to men but this association appeared to be the result of confounding by age. This study showed that in the low risk end, the CHA<sub>2</sub> DS<sub>2</sub>&#x02010;VASc risk score underestimated the ischemic stroke risk conferred by age 65 to 74&#x02009;years, while it overestimated the risk conferred by female sex.</p><p>In addition, women with AF are more often hypertensive but have less coronary artery disease.<xref rid="clc23284-bib-0003" ref-type="ref">3</xref>, <xref rid="clc23284-bib-0004" ref-type="ref">4</xref> Although age differences between males and females can be taken into account in the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc scheme,<xref rid="clc23284-bib-0001" ref-type="ref">1</xref> differences in disease severity and quality of treatment, which may also influence stroke risk, are not incorporated, since both hypertension and vascular disease are represented as binary variables.</p><p>Renal failure is also a strong predictor of stroke, but is not included in CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc and no differences between both sexes have been identified.</p><p>The association between cardiometabolic factors, AF&#x02010;related stroke and sex is incompletely understood. Women with AF seem to be more obese than men but whether this truly increases stroke risk is not clear.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref>, <xref rid="clc23284-bib-0008" ref-type="ref">8</xref> A correlation between serum high&#x02010;density lipoprotein (HDL), total cholesterol and stroke has been suggested, although these findings are controversial and non&#x02010;specific for AF. Surprisingly, in the INTERSTROKE study,<xref rid="clc23284-bib-0008" ref-type="ref">8</xref> increased HDL was associated with a significantly increased risk of non&#x02010;fatal stroke and cerebral infarction in women, whereas men showed an inverse relationship. Similarly, thyroid disorders with increased risk of stroke such as hyperthyroidism are more common in women.<xref rid="clc23284-bib-0009" ref-type="ref">9</xref> It is however unknown whether females with thyroid disease have a higher thrombotic risk compared to men with thyroid disease. The risk for systemic embolization in the setting of thyrotoxicosis is not precisely known and issues regarding anticoagulation of patients with hyperthyroidism and AF remain unclear.</p></sec><sec id="clc23284-sec-0012"><label>4.1.2</label><title>Endogenous sex&#x02010;related hormones</title><p>Natural estrogens have many functions apart from maintaining the female reproductive system. Estradiol, the most powerful estrogen has very potent endothelial effects that promote vasodilatation and blood flow through a direct effect on nitric oxide and prostacyclin.<xref rid="clc23284-bib-0010" ref-type="ref">10</xref> Nitric oxide and prostacyclin, being potent vasorelaxants, inhibit platelet aggregation and adhesion. In the event of an ischemic stroke, estrogens increase energy reserves and decrease reactive oxygen species during reperfusion. Vasoprotection occurs through the preservation of the blood&#x02010;brain barrier and the minimization of edema and inflammation.<xref rid="clc23284-bib-0010" ref-type="ref">10</xref> Estrogens also have direct effects on platelet activity and on the coagulation system through factor VIII and von Willebrand Factor.<xref rid="clc23284-bib-0011" ref-type="ref">11</xref>, <xref rid="clc23284-bib-0012" ref-type="ref">12</xref> Menopause leads to a loss of these vasoprotective functions and to increased thrombogenesis as assessed through thromboxane, a product of activated platelets.<xref rid="clc23284-bib-0011" ref-type="ref">11</xref>, <xref rid="clc23284-bib-0013" ref-type="ref">13</xref> However, it is not clear whether menopause itself is an independent risk factor for ischemic stroke since higher thrombotic risk has been documented only for women with early menopause.<xref rid="clc23284-bib-0013" ref-type="ref">13</xref>
+</p></sec><sec id="clc23284-sec-0013"><label>4.1.3</label><title>Hormone replacement therapy (HRT)</title><p>In contrast to the protective effect of endogenous female hormones, estrogens prescribed as replacement treatment increase markers of hypercoagulability (eg, factor VIIa) and are known to increase thrombotic risk even in younger groups with additional risk factors.<xref rid="clc23284-bib-0014" ref-type="ref">14</xref> Earlier studies<xref rid="clc23284-bib-0014" ref-type="ref">14</xref> showed that HRT was associated with a higher risk of ischemic stroke. However, this has not been confirmed in subsequent studies. In a small group of women on estrogen replacement treatment in the ATRIA study<xref rid="clc23284-bib-0003" ref-type="ref">3</xref> there was no increase in stroke risk during follow up. Similarly, in a recent sub&#x02010;analysis of the AFFIRM study<xref rid="clc23284-bib-0015" ref-type="ref">15</xref> HRT did not independently predict mortality or thromboembolism. Information and comparisons of different regimens of HRT and stroke risk in women with AF are lacking. Data on the effectiveness and safety of concurrent treatment with HRT and OACs is sparse and conflicting. Some HRT preparations have shown to increase the INR with the risk of acute over&#x02010;anticoagulation and hemorrhage.<xref rid="clc23284-bib-0013" ref-type="ref">13</xref> On the other hand, the AFFIRM trial<xref rid="clc23284-bib-0015" ref-type="ref">15</xref> did not independently predict mortality, thromboembolism, or bleeding in women on VKAs. When initiating HRT, dose reduction of VKA and close INR monitoring is warranted. Information regarding the safety of NOACs with HRT has not been provided.</p></sec><sec id="clc23284-sec-0014"><label>4.1.4</label><title>Inflammation, oxidative stress, and structural heart disease</title><p>A number of structural determinants have been associated with increased stroke risk in AF including left ventricular hypertrophy, left ventricular systolic and diastolic dysfunction, left atrial enlargement, increased appendage size, and valve diseases.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref>, <xref rid="clc23284-bib-0016" ref-type="ref">16</xref>, <xref rid="clc23284-bib-0017" ref-type="ref">17</xref>, <xref rid="clc23284-bib-0018" ref-type="ref">18</xref>, <xref rid="clc23284-bib-0019" ref-type="ref">19</xref>, <xref rid="clc23284-bib-0020" ref-type="ref">20</xref>, <xref rid="clc23284-bib-0021" ref-type="ref">21</xref> Although women typically have smaller hearts and atria than men, significant changes occur in the presence of AF and AF risk factors.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref> AF in patients with mitral stenosis or prosthetic valves is classified as &#x0201c;valvular AF&#x0201d; due to the complex pathophysiology and the very high stroke risk.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref> Although the presence of rheumatic valve disease has decreased, as shown in an epidemiological Swedish registry<xref rid="clc23284-bib-0017" ref-type="ref">17</xref> three times more women than men have mitral valve stenosis with a 17&#x02010;fold increase in the associated stroke risk. The potential sex&#x02010;specific impact of other valvular disorders such as mitral regurgitation, aortic or tricuspid valve disease on stroke is unknown. In a study by Cochet et al<xref rid="clc23284-bib-0019" ref-type="ref">19</xref> delayed&#x02010;enhancement magnetic resonance imaging (MRI) of the atria suggested higher levels of fibrosis in women with and without AF. However, the pattern and pathophysiology of fibrosis are not clear and no link to stroke risk has been demonstrated.</p><p>There is accumulating evidence about the AF&#x02010;promoting role of inflammation and oxidative stress through functional and structural atrial remodeling, for example, from patients with post&#x02010;operative AF<xref rid="clc23284-bib-0020" ref-type="ref">20</xref> or after catheter ablation procedures.<xref rid="clc23284-bib-0021" ref-type="ref">21</xref> Several anti&#x02010;inflammatory therapies have been evaluated, but a systematic decrease in AF burden has not been demonstrated.<xref rid="clc23284-bib-0021" ref-type="ref">21</xref> However, the underlying molecular mechanisms, as well as the relationship between systemic indices of inflammation and local atrial inflammation remain incompletely understood.<xref rid="clc23284-bib-0020" ref-type="ref">20</xref>, <xref rid="clc23284-bib-0021" ref-type="ref">21</xref>, <xref rid="clc23284-bib-0022" ref-type="ref">22</xref> Systemic CRP levels were independently associated with AF in men, but not in women.<xref rid="clc23284-bib-0022" ref-type="ref">22</xref> On the other hand, recent data suggest that both female sex and IL&#x02010;6 levels are associated with worse survival after stroke.<xref rid="clc23284-bib-0018" ref-type="ref">18</xref> Accumulating preclinical data also suggest differential microRNA&#x02010;mediated regulation of cardiac remodeling as well as responses to cerebral ischemia between males and females, although their role in AF&#x02010;related stroke in female patients is still largely unknown.<xref rid="clc23284-bib-0023" ref-type="ref">23</xref>
+</p></sec><sec id="clc23284-sec-0015"><label>4.1.5</label><title>Autonomic dysfunction</title><p>Dysfunction of the autonomic nervous system (ANS) has been implicated in cardiac arrhythmogenesis as well as stroke.<xref rid="clc23284-bib-0024" ref-type="ref">24</xref> Autonomic triggers can be sympathetic, vagal or mixed. Sympathetic stimulation can trigger AF by promoting ectopic activity. For example, in patients undergoing coronary artery bypass grafting, increased circulating noradrenaline levels and higher resting heart rates due to increased sympathetic tone can induce AF which responds well to peri&#x02010;operative beta&#x02010;blockade.<xref rid="clc23284-bib-0020" ref-type="ref">20</xref>, <xref rid="clc23284-bib-0025" ref-type="ref">25</xref> Vagal AF, on the other hand, refers to a subset of AF patients, who experience episodes in relation to established vagal triggers, including eating, alcohol, nocturnal symptoms or those associated with bradycardia or heart block.<xref rid="clc23284-bib-0024" ref-type="ref">24</xref> Vagal AF has been suggested to occur primarily in athletes with structurally normal hearts and limited co&#x02010;morbidities.<xref rid="clc23284-bib-0024" ref-type="ref">24</xref> In a Euro Heart Survey substudy, autonomic triggers were found in approximately 1/3 of patients, 41% of them being women.<xref rid="clc23284-bib-0025" ref-type="ref">25</xref> Surprisingly, vagal AF often occurred in elderly men whose age did not differ from that in the general population and with significant underlying disease. No further sex&#x02010;specific analysis was provided in this study, but electrophysiological studies in healthy volunteers have identified male/female differences in the electrophysiological response to activation or blockade of the ANS, with more pronounced shortening of atrial refractoriness in response to ANS activation in women. Additionally, autonomic dysfunction, characterized by altered heart rate variability, was an independent determinant of AF episodes in type 2 diabetic patients<xref rid="clc23284-bib-0026" ref-type="ref">26</xref> Women and men were equally represented in this study and no sex&#x02010; specific differences were shown. Nonetheless, sex&#x02010;specific AF&#x02010;promoting mechanisms related to autonomic dysfunction remain an interesting topic for future studies.</p></sec><sec id="clc23284-sec-0016"><label>4.1.6</label><title>Symptoms, life style, and quality of treatment</title><p>Women with AF have increased perceived stress, lower QOL, and a higher tendency to develop depression compared to men.<xref rid="clc23284-bib-0027" ref-type="ref">27</xref> As a result, they more often present with atypical symptoms that can confound the diagnosis and delay treatment. Interestingly, women with AF are more frequently prescribed antidepressants compared to men.<xref rid="clc23284-bib-0027" ref-type="ref">27</xref> The multi&#x02010;center randomized controlled trial SAFETY<xref rid="clc23284-bib-0028" ref-type="ref">28</xref> showed that women, who were more likely to be older and alone, quite often widows and less educated, have difficulties in seeking medical help. The important issue of under&#x02010;treatment of moderate&#x02010;to&#x02010;high risk patients, in particular women, by physicians has been raised. On the other hand, different studies have shown that although treatment is offered equally, women much more frequently opt for a conservative approach, especially in terms of rhythm management.<xref rid="clc23284-bib-0006" ref-type="ref">6</xref>, <xref rid="clc23284-bib-0029" ref-type="ref">29</xref> The AFFIRM trial<xref rid="clc23284-bib-0030" ref-type="ref">30</xref> and the PINNACLE registry<xref rid="clc23284-bib-0006" ref-type="ref">6</xref> showed lower quality in OAC treatment in women, suggesting that compliance might be an issue, although this was not confirmed in the ORBIT&#x02010;AF registry,<xref rid="clc23284-bib-0029" ref-type="ref">29</xref> which did not show differences in coagulation rates or times in therapeutic range.</p><p>How relevant these issues are in every day practice and whether these differences are due to the healthcare providers, delayed diagnosis, or patients' preferences and compliance represents a real gap in our knowledge.</p></sec></sec><sec id="clc23284-sec-0017"><label>4.2</label><title>Sex differences in hemorrhagic risk associated with OAC</title><p>Several factors such as age, comorbidities, personal habits (smoking, alcohol), history of bleeding, inappropriate dosing and concomitant use of antiplatelet drugs increase hemorrhagic risk in patients taking OACs.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref> In a Dutch nationwide study<xref rid="clc23284-bib-0031" ref-type="ref">31</xref> of drug&#x02010;related adverse events, the risk of hospitalization for bleeding related to anticoagulants predominantly vitamin K&#x02010;antagonists (VKAs), was higher in men with women having a lower risk of intracranial hemorrhage (adjusted RR 0.51; 95% CI 0.45&#x02010;0.58). The ATRIA study<xref rid="clc23284-bib-0003" ref-type="ref">3</xref> reported a similar rate of major bleeding in both sexes, but again, females had a lower risk of intracranial hemorrhage.<xref rid="clc23284-bib-0004" ref-type="ref">4</xref> In a pooled analysis<xref rid="clc23284-bib-0032" ref-type="ref">32</xref> of 25&#x02009;997 patients on warfarin and 26&#x02009;944 on non&#x02010;vitamin K&#x02010;antagonist oral anticoagulants (NOACs) from the 4 major phase III randomized trials (ARISTOTLE, RE&#x02010;LY, ROCKET&#x02010;AF, and ENGAGE AF<xref rid="clc23284-bib-0033" ref-type="ref">33</xref>) rates of major bleeding on warfarin were comparable for both sexes while women on NOACs had significantly lower bleeding rates compared to men (OR 0.844, 95% CI 0.745 to 0.955, <italic>P</italic> = .007). More information on real&#x02010;world data is becoming available from the large global registries currently underway (Table <xref rid="clc23284-tbl-0001" ref-type="table">1</xref>).<xref rid="clc23284-bib-0029" ref-type="ref">29</xref>, <xref rid="clc23284-bib-0034" ref-type="ref">34</xref>, <xref rid="clc23284-bib-0035" ref-type="ref">35</xref>, <xref rid="clc23284-bib-0036" ref-type="ref">36</xref> Among a total of 28&#x02009;624 patients in the GARFELD&#x02010;AF registry,<xref rid="clc23284-bib-0034" ref-type="ref">34</xref> the risk of major bleeding when treated with anticoagulation vs no anticoagulation was 2.33 (1.41&#x02010;3.84) in men and 1.86 (1.16&#x02010;2.99) in women (<italic>P</italic> = .53). Overall, these data suggest that the risk of bleeding associated with OAC therapy for AF is broadly similar between both sexes. However, observations suggest that females smoke and drink less, and are less likely to receive double treatment with OAC and antiplatelet drugs, possibly due to less coronary artery disease.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref>, <xref rid="clc23284-bib-0003" ref-type="ref">3</xref>, <xref rid="clc23284-bib-0008" ref-type="ref">8</xref> Moreover, females spend more time below the therapeutic range while on VKAs and this may lead to heightened thromboembolic risk,<xref rid="clc23284-bib-0006" ref-type="ref">6</xref>, <xref rid="clc23284-bib-0030" ref-type="ref">30</xref> but could indirectly also contribute to altered bleeding (and/or stroke) risks.</p><table-wrap id="clc23284-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Global registries on NOACs in patients with AF</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Garfield AF<xref rid="clc23284-bib-0034" ref-type="ref">34</xref>
+</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Orbit AF<xref rid="clc23284-bib-0029" ref-type="ref">29</xref>
+</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Gloria AF<xref rid="clc23284-bib-0035" ref-type="ref">35</xref>
+</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Prefer AF<xref rid="clc23284-bib-0036" ref-type="ref">36</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Total</th><th align="left" valign="bottom" rowspan="1" colspan="1">F</th><th align="left" valign="bottom" rowspan="1" colspan="1">M</th><th align="left" valign="bottom" rowspan="1" colspan="1">Total</th><th align="left" valign="bottom" rowspan="1" colspan="1">F</th><th align="left" valign="bottom" rowspan="1" colspan="1">M</th><th align="left" valign="bottom" rowspan="1" colspan="1">Total</th><th align="left" valign="bottom" rowspan="1" colspan="1">F</th><th align="left" valign="bottom" rowspan="1" colspan="1">M</th><th align="left" valign="bottom" rowspan="1" colspan="1">Total</th><th align="left" valign="bottom" rowspan="1" colspan="1">F</th><th align="left" valign="bottom" rowspan="1" colspan="1">M</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Patients</bold>, n (%)</td><td align="left" valign="top" rowspan="1" colspan="1">28&#x02009;624</td><td align="left" valign="top" rowspan="1" colspan="1">12&#x02009;709 (44.4)</td><td align="left" valign="top" rowspan="1" colspan="1">15&#x02009;915 (55.6)</td><td align="left" valign="top" rowspan="1" colspan="1">10&#x02009;135</td><td align="left" valign="top" rowspan="1" colspan="1">4293 (42)</td><td align="left" valign="top" rowspan="1" colspan="1">5842 (58)</td><td align="left" valign="top" rowspan="1" colspan="1">15&#x02009;092</td><td align="left" valign="top" rowspan="1" colspan="1">6872 (45.5)</td><td align="left" valign="top" rowspan="1" colspan="1">8220 (54.5)</td><td align="left" valign="top" rowspan="1" colspan="1">7243</td><td align="left" valign="top" rowspan="1" colspan="1">2546 (35.1)</td><td align="left" valign="top" rowspan="1" colspan="1">3866 (64.8)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Age mean</bold> years &#x000b1; SD or median IQR</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">72&#x02009;&#x000b1;&#x02009;10.4</td><td align="left" valign="top" rowspan="1" colspan="1">67.6&#x02009;&#x000b1;&#x02009;11.7</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">77 (69&#x02010;83)</td><td align="left" valign="top" rowspan="1" colspan="1">73 (65&#x02010;80)<xref ref-type="fn" rid="clc23284-note-0003">*</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">73 (66&#x02010;80)</td><td align="left" valign="top" rowspan="1" colspan="1">70 (62&#x02010;77)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">74.1&#x02009;&#x000b1;&#x02009;9.7</td><td align="left" valign="top" rowspan="1" colspan="1">70.1&#x02009;&#x000b1;&#x02009;10.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>CHA</bold>
+<sub><bold>2</bold></sub>
+<bold>DS</bold>
+<sub><bold>2</bold></sub>&#x02010;<bold>VASC</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">4.0&#x02009;&#x000b1;&#x02009;1.4</td><td align="left" valign="top" rowspan="1" colspan="1">2.6&#x02009;&#x000b1;&#x02009;1.5</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">5 (4&#x02013;6)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (2&#x02013;5)<xref ref-type="fn" rid="clc23284-note-0003">*</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">4 (3&#x02013;5)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (2&#x02013;4)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">95.2&#x02009;&#x0003e;&#x02009;1</td><td align="left" valign="top" rowspan="1" colspan="1">78.9&#x02009;&#x0003e;&#x02009;1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>HASBLED</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">1.5&#x02009;&#x000b1;&#x02009;0.9</td><td align="left" valign="top" rowspan="1" colspan="1">1.4&#x02009;&#x000b1;&#x02009;0.9</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">1 (1&#x02013;2)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (1&#x02013;2)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">70.8&#x02009;&#x0003e;&#x02009;1</td><td align="left" valign="top" rowspan="1" colspan="1">65.4&#x02009;&#x0003e;&#x02009;1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>FU</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1&#x02009;year</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">2&#x02009;years</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">1&#x02009;year</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td colspan="13" align="left" valign="top" rowspan="1">
+<bold>Treatment</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Overall OAC, n (% in total F or M)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">NR (63.8)</td><td align="left" valign="top" rowspan="1" colspan="1">NR (62.9)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">3265 (76.1)</td><td align="left" valign="top" rowspan="1" colspan="1">4451 (76.2)</td><td align="left" valign="top" rowspan="1" colspan="1">12&#x02009;065 (79.9)</td><td align="left" valign="top" rowspan="1" colspan="1">5474 (79.9)</td><td align="left" valign="top" rowspan="1" colspan="1">6591 (80.2)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">NR (94)</td><td align="left" valign="top" rowspan="1" colspan="1">NR (94)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">VKA %</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">37.1</td><td align="left" valign="top" rowspan="1" colspan="1">33.8</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">71.2</td><td align="left" valign="top" rowspan="1" colspan="1">71.2</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">32.8</td><td align="left" valign="top" rowspan="1" colspan="1">31.9</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">63</td><td align="left" valign="top" rowspan="1" colspan="1">61</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NOACs %</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">13.9</td><td align="left" valign="top" rowspan="1" colspan="1">13.1</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">4.9</td><td align="left" valign="top" rowspan="1" colspan="1">5.0</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">46.8</td><td align="left" valign="top" rowspan="1" colspan="1">48.3</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">13</td><td align="left" valign="top" rowspan="1" colspan="1">13</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">VKA&#x02009;+&#x02009;AP %</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">9.7</td><td align="left" valign="top" rowspan="1" colspan="1">12.2</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NOACs&#x02009;+&#x02009;AP %</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">3.2</td><td align="left" valign="top" rowspan="1" colspan="1">3.8</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">OAC % (unspecified)&#x02009;+&#x02009;AP</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">21.5</td><td align="left" valign="top" rowspan="1" colspan="1">30.9</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Aspirin %</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">11.3</td><td align="left" valign="top" rowspan="1" colspan="1">11.3</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Unspecified AP %</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">23.9</td><td align="left" valign="top" rowspan="1" colspan="1">24.9</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Other %</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">0.9</td><td align="left" valign="top" rowspan="1" colspan="1">0.9</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">None %</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">12.3</td><td align="left" valign="top" rowspan="1" colspan="1">12.2</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">8.1</td><td align="left" valign="top" rowspan="1" colspan="1">7.6</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>All cause mortality</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">HR 1.05 (0.92&#x02010;1.19)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">HR 0.57 (0.49&#x02010;0.67)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Stroke/SE</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">HR 1.30 (1.04&#x02010;1.63)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">HR 1.39 (1.05&#x02010;1.84)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">OR 1.08 (0.76&#x02010;1.53)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Bleeding</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">HR 1.13 (0.85&#x02010;1.50)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">HR 1.03 (0.88&#x02010;1.20)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">OR 0.91 (0.67&#x02010;1.24)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot id="clc23284-ntgp-0001"><fn id="clc23284-note-0002"><p>Abbreviations: AF, atrial fibrillation; AP, antiplatelet; CI, confidence interval; F/M, female/male; HR, hazard ratio; NOAC, non&#x02010;vitamin K oral anticoagulants; NR, not reported; OAC, oral anticoagulants; OR, odds ratio; SE, systemic embolism; VKA, vitamin K antagonist.</p></fn><fn id="clc23284-note-0003"><label>*</label><p>
+<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001 between F&#x00026;M.</p></fn></table-wrap-foot></table-wrap></sec><sec id="clc23284-sec-0018"><label>4.3</label><title>Sex specific differences in anticoagulation therapies</title><sec id="clc23284-sec-0019"><label>4.3.1</label><title>VKAs</title><p>VKAs are still the most commonly used medication for stroke prevention in AF due to familiarity with the treatment and their relatively low cost. Early data from the 1990s indicated a higher efficacy of VKA&#x02010;treatment in women and greater reduction of thromboembolic risk.<xref rid="clc23284-bib-0002" ref-type="ref">2</xref> Nevertheless, in a meta&#x02010;analysis of the AFFIRM study<xref rid="clc23284-bib-0030" ref-type="ref">30</xref> a significantly higher residual risk for thromboembolic events was found in women on warfarin (OR 1.279; 95% CI: 1.11&#x02010;1.473; <italic>P</italic> = .001). Warfarin use was similar for women and men within their randomization arm over the course of the study. Women had 80 ischemic strokes (5% overall incidence) and men had 77 ischemic strokes (3% overall incidence, odds ratio 1.6, 95% confidence interval 1.19 to 2.26, <italic>P</italic> = .002). Increased events were partially related to the fact that women spent more time outside the therapeutic international normalized ratio (INR) range (40&#x02009;&#x000b1;&#x02009;0.7% vs 37&#x02009;&#x000b1;&#x02009;0.5%, <italic>P</italic> = .0001) and even more importantly, they were more often sub&#x02010;therapeutic than men (29&#x02009;&#x000b1;&#x02009;0.7% vs 26&#x02009;&#x000b1;&#x02009;0.5%; <italic>P</italic> = .0002). Moreover, when patients with a fairly high time in therapeutic range (&#x02265;66%) were compared,<xref rid="clc23284-bib-0029" ref-type="ref">29</xref>, <xref rid="clc23284-bib-0030" ref-type="ref">30</xref> as in the ORBIT study<xref rid="clc23284-bib-0029" ref-type="ref">29</xref> women still had a higher residual risk of stroke (log rank <italic>P</italic> = .009) and female sex remained an independent risk factor.</p></sec><sec id="clc23284-sec-0020"><label>4.3.2</label><title>NOACs</title><p>Landmark NOAC studies<xref rid="clc23284-bib-0032" ref-type="ref">32</xref>, <xref rid="clc23284-bib-0033" ref-type="ref">33</xref> did not primarily focus on sex differences and women were underrepresented (37% of 42&#x02009;411 patients in total, Table <xref rid="clc23284-tbl-0002" ref-type="table">2</xref>) in all 4 studies. Nevertheless, initial experience from these studies shows that NOACs have similar safety and efficacy for both sexes. Both rivaroxaban and dabigatran compared with warfarin were associated with reduced risk of heart failure admissions and all&#x02010;cause mortality in both sexes. The ARISTOTLE trial showed similar rates of thromboembolism in the apixaban and warfarin groups between men and women but less clinically relevant bleeding in women. Although firm data is lacking and studies with direct comparisons of NOACs in women and men are not available, the existing information indicates that NOACs can be used equally in women and men.</p><table-wrap id="clc23284-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Risk of major bleeding in women compared with men with AF treated with NOACs and warfarin</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th style="border-bottom:solid 1px #000000" align="left" rowspan="2" valign="bottom" colspan="1">Study name</th><th style="border-bottom:solid 1px #000000" align="left" rowspan="2" valign="bottom" colspan="1">Total No. Women %</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Bleed/total treated with NOAC</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Bleed/total treated with warfarin</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Women</th><th align="left" valign="bottom" rowspan="1" colspan="1">Men</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> value</th><th align="left" valign="bottom" rowspan="1" colspan="1">Women</th><th align="left" valign="bottom" rowspan="1" colspan="1">Men</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">ARISTOTLE</td><td align="left" valign="top" rowspan="1" colspan="1">35.46%</td><td align="left" valign="top" rowspan="1" colspan="1">102/3234</td><td align="left" valign="top" rowspan="1" colspan="1">225/5886</td><td align="left" valign="top" rowspan="1" colspan="1">.101</td><td align="left" valign="top" rowspan="1" colspan="1">168/3182</td><td align="left" valign="top" rowspan="1" colspan="1">294/5899</td><td align="left" valign="top" rowspan="1" colspan="1">.541</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">RE&#x02010;LY 150&#x02009;mg</td><td align="left" valign="top" rowspan="1" colspan="1">35.75%</td><td align="left" valign="top" rowspan="1" colspan="1">141/2150</td><td align="left" valign="top" rowspan="1" colspan="1">268/3865</td><td align="left" valign="top" rowspan="1" colspan="1">.579</td><td align="left" valign="top" rowspan="1" colspan="1">148/2236</td><td align="left" valign="top" rowspan="1" colspan="1">273/3840</td><td align="left" valign="top" rowspan="1" colspan="1">.468</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ROCKET&#x02010;AF</td><td align="left" valign="top" rowspan="1" colspan="1">39.64%</td><td align="left" valign="top" rowspan="1" colspan="1">135/2819</td><td align="left" valign="top" rowspan="1" colspan="1">260/4292</td><td align="left" valign="top" rowspan="1" colspan="1">.023</td><td align="left" valign="top" rowspan="1" colspan="1">133/2826</td><td align="left" valign="top" rowspan="1" colspan="1">253/4299</td><td align="left" valign="top" rowspan="1" colspan="1">.032</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ENGAGE AF&#x02010;TIMI 48<xref rid="clc23284-bib-0033" ref-type="ref">33</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">38%</td><td colspan="2" align="left" valign="top" rowspan="1">Total number of bleeds not mentioned</td><td align="left" valign="top" rowspan="1" colspan="1"/><td colspan="2" align="left" valign="top" rowspan="1">Total number of bleeds not mentioned</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot id="clc23284-ntgp-0002"><fn id="clc23284-note-0004"><p>Abbreviations: AF, atrial fibrillation; NOAC, non&#x02010;Vitamin K oral anticoagulants.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="clc23284-sec-0021"><label>4.4</label><title>Anticoagulation around interventions</title><sec id="clc23284-sec-0022"><label>4.4.1</label><title>Cardioversion and ablation</title><p>Controlled data and evidence on sex&#x02010;related outcomes with regard to cardioversion and ablation are scarce and sex differences are rather absent. There are few randomized controlled trials (RCTs) on cardioversion and women are underrepresented in most (Table <xref rid="clc23284-tbl-0003" ref-type="table">3</xref>).<xref rid="clc23284-bib-0037" ref-type="ref">37</xref>, <xref rid="clc23284-bib-0038" ref-type="ref">38</xref>, <xref rid="clc23284-bib-0039" ref-type="ref">39</xref>, <xref rid="clc23284-bib-0040" ref-type="ref">40</xref>, <xref rid="clc23284-bib-0041" ref-type="ref">41</xref>, <xref rid="clc23284-bib-0042" ref-type="ref">42</xref>, <xref rid="clc23284-bib-0043" ref-type="ref">43</xref>, <xref rid="clc23284-bib-0044" ref-type="ref">44</xref>, <xref rid="clc23284-bib-0045" ref-type="ref">45</xref>, <xref rid="clc23284-bib-0046" ref-type="ref">46</xref> The events in these trials were very low and no comparisons between men and women could be made. The most recent EMANATE trial<xref rid="clc23284-bib-0039" ref-type="ref">39</xref> enrolled women equally distributed, to evaluate the use of apixaban compared to VKA/heparin with respect to outcomes of thromboembolism, stroke, and bleeding. Due to the very low event rate in the trial, no real sex&#x02010;specific differences could be detected. Nevertheless, OAC by NOACs or VKA/heparin seem to be equally safe and effective in women undergoing direct current cardioversion.</p><table-wrap id="clc23284-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Studies with anticoagulation around interventions</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th style="border-bottom:solid 1px #000000" align="left" rowspan="2" valign="bottom" colspan="1">Study name (cardioversion studies)</th><th style="border-bottom:solid 1px #000000" align="left" rowspan="2" valign="bottom" colspan="1">Total No. women %</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Total treated with NOAC</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Total treated with VKA/Heparin</th><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">Study results</th></tr><tr style="border-bottom:solid 1px #000000"><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">Women</th><th align="left" valign="bottom" rowspan="1" colspan="1">Men</th><th align="left" valign="bottom" rowspan="1" colspan="1">Women</th><th align="left" valign="bottom" rowspan="1" colspan="1">Men</th><th align="left" valign="bottom" rowspan="1" colspan="1"/></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>X&#x02010;Vert</bold>
+<xref rid="clc23284-bib-0037" ref-type="ref">37</xref> (Cardioversion&#x02010;Rivaroxaban vs VKA)</td><td align="left" valign="top" rowspan="1" colspan="1">27.5%</td><td align="left" valign="top" rowspan="1" colspan="1">275/1002</td><td align="left" valign="top" rowspan="1" colspan="1">727/1002</td><td align="left" valign="top" rowspan="1" colspan="1">135/502</td><td align="left" valign="top" rowspan="1" colspan="1">367/502</td><td align="left" valign="top" rowspan="1" colspan="1">Low event rate. No comparison between genders made</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>ENSURE&#x02010;AF</bold>
+<xref rid="clc23284-bib-0038" ref-type="ref">38</xref> (Cardioversion&#x02010;Endoxaban vs VKA)</td><td align="left" valign="top" rowspan="1" colspan="1">34%</td><td align="left" valign="top" rowspan="1" colspan="1">374/1095</td><td align="left" valign="top" rowspan="1" colspan="1">721/1095</td><td align="left" valign="top" rowspan="1" colspan="1">382/1104</td><td align="left" valign="top" rowspan="1" colspan="1">722/1104</td><td align="left" valign="top" rowspan="1" colspan="1">No gender specific differences in outcome</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>EMANATE</bold>
+<xref rid="clc23284-bib-0039" ref-type="ref">39</xref> (Cardioversion&#x02010; Apixaban vs VKA/Heparin)</td><td align="left" valign="top" rowspan="1" colspan="1">30.8%&#x02010;38.7%</td><td align="left" valign="top" rowspan="1" colspan="1">248/753</td><td align="left" valign="top" rowspan="1" colspan="1">505/753</td><td align="left" valign="top" rowspan="1" colspan="1">250/747</td><td align="left" valign="top" rowspan="1" colspan="1">497/747</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Low event rate.</p>
+<p>No gender&#x02010;related differences were detected</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Study name (RF ablation studies)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Total No. women %</bold>
+</td><td colspan="2" align="left" valign="top" rowspan="1">
+<bold>Total treated with interrupted VKA</bold>
+</td><td colspan="2" align="left" valign="top" rowspan="1">
+<bold>Total treated with interrupted VKA</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Study results</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Women</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Men</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Women</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Men</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>COMPARE</bold>
+<xref rid="clc23284-bib-0040" ref-type="ref">40</xref> (RF Ablation&#x02010; interrupted vs uninterrupted Warfarin)</td><td align="left" valign="top" rowspan="1" colspan="1">25%</td><td align="left" valign="top" rowspan="1" colspan="1">188/790</td><td align="left" valign="top" rowspan="1" colspan="1">602/790</td><td align="left" valign="top" rowspan="1" colspan="1">204/794</td><td align="left" valign="top" rowspan="1" colspan="1">590/794</td><td align="left" valign="top" rowspan="1" colspan="1">Sub&#x02010;group analysis did not show any gender specific differences</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td colspan="2" align="left" valign="top" rowspan="1">
+<bold>Total treated with uninterrupted NOAC</bold>
+</td><td colspan="2" align="left" valign="top" rowspan="1">
+<bold>Total treated with uninterrupted VKA</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>VENTURE AF</bold>
+<xref rid="clc23284-bib-0041" ref-type="ref">41</xref> (RF Ablation&#x02010; Uninterrupted Rivaroxaban vs VKA/heparin)</td><td align="left" valign="top" rowspan="1" colspan="1">29%</td><td align="left" valign="top" rowspan="1" colspan="1">38/124</td><td align="left" valign="top" rowspan="1" colspan="1">86/124</td><td align="left" valign="top" rowspan="1" colspan="1">34/124</td><td align="left" valign="top" rowspan="1" colspan="1">90/124</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Small study</p>
+<p>Low event rates.</p>
+<p>Both gender benefit on uninterrupted NOAC</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>RE&#x02010;CIRCUIT</bold>
+<xref rid="clc23284-bib-0042" ref-type="ref">42</xref> (RF ablation&#x02010;uninterrupted Dabigatran vs VKA/heparin)</td><td align="left" valign="top" rowspan="1" colspan="1">25%</td><td align="left" valign="top" rowspan="1" colspan="1">87/317</td><td align="left" valign="top" rowspan="1" colspan="1">230/317</td><td align="left" valign="top" rowspan="1" colspan="1">73/318</td><td align="left" valign="top" rowspan="1" colspan="1">245/318</td><td align="left" valign="top" rowspan="1" colspan="1">Both gender benefit on uninterrupted NOAC</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Study name (PCI Studies)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td colspan="2" align="left" valign="top" rowspan="1">
+<bold>Total treated with NOAC</bold>
+</td><td colspan="2" align="left" valign="top" rowspan="1">
+<bold>Total treated with VKA/Placebo</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Study results</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Women</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Men</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Women</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Men</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>RE&#x02010;DUAL&#x02010;PCI</bold>
+<xref rid="clc23284-bib-0043" ref-type="ref">43</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">22%&#x02010;25%</td><td align="left" valign="top" rowspan="1" colspan="1">424/1744</td><td align="left" valign="top" rowspan="1" colspan="1">1320/1744</td><td align="left" valign="top" rowspan="1" colspan="1">401/1745</td><td align="left" valign="top" rowspan="1" colspan="1">1344/1745</td><td align="left" valign="top" rowspan="1" colspan="1">No gender differences in terms of safety and efficiency</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>PIONEER AF&#x02010;PCI</bold>
+<xref rid="clc23284-bib-0044" ref-type="ref">44</xref> (Rivaroxaban with DAPT for 1&#x02010;month, 6&#x02010;months, and 12&#x02010;months)</td><td align="left" valign="top" rowspan="1" colspan="1">24%&#x02010;26%</td><td align="left" valign="top" rowspan="1" colspan="1">543/2124</td><td align="left" valign="top" rowspan="1" colspan="1">1581/2124</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">No gender differences in terms of safety and efficiency</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>WOEST</bold>
+<xref rid="clc23284-bib-0045" ref-type="ref">45</xref> (OAC with Clopidogrel or Clopidogrel plus Aspirin after PCI)</td><td align="left" valign="top" rowspan="1" colspan="1">17%&#x02010;23%</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">No gender differences in terms of safety and efficiency</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>ATLAS ACS II&#x02010;TIMI 51</bold>
+<xref rid="clc23284-bib-0046" ref-type="ref">46</xref> (Rivaroxaban vs placebo in ACS)</td><td align="left" valign="top" rowspan="1" colspan="1">25%</td><td align="left" valign="top" rowspan="1" colspan="1">2632/10&#x02009;350</td><td align="left" valign="top" rowspan="1" colspan="1">7718/10&#x02009;350</td><td align="left" valign="top" rowspan="1" colspan="1">12&#x02009;194/5176</td><td align="left" valign="top" rowspan="1" colspan="1">3882/5176</td><td align="left" valign="top" rowspan="1" colspan="1">No gender differences in terms of safety and efficiency</td></tr></tbody></table><table-wrap-foot id="clc23284-ntgp-0003"><fn id="clc23284-note-0005"><p>Abbreviations: ACS, acute coronary syndrome; DAPT, double antiplatelet treatment; N/A, non&#x02010;applicable; NOAC, Non&#x02010;vitamin K oral anticoagulants; PCI, percutaneous coronary intervention; RF, radiofrequency; VKA, vitamin K antagonist.</p></fn></table-wrap-foot></table-wrap><p>Uninterrupted OACs during ablation were first studied in the COMPARE trial<xref rid="clc23284-bib-0040" ref-type="ref">40</xref> which showed significant benefits for the continued OAC arm with respect to stroke, TIA, and bleeding. While 25% of the study cohort was female, the subgroup analysis failed to show any sex specific differences. The VENTURE&#x02010;AF<xref rid="clc23284-bib-0041" ref-type="ref">41</xref> and RE&#x02010;CIRCUIT studies<xref rid="clc23284-bib-0042" ref-type="ref">42</xref> tested uninterrupted rivaroxaban and dabigatran, respectively, vs VKA/heparin periprocedurally. The VENTURE&#x02010;AF&#x02010;trial was a very small trial with very low events rates whereas in RE&#x02010;CIRCUIT there was a consistent benefit of uninterrupted NOACs vs uninterrupted VKAs with respect to bleeding events in both females and males, although bleeding rates were numerically higher in both arms.</p></sec><sec id="clc23284-sec-0023"><label>4.4.2</label><title>Acute coronary syndromes&#x02014;Percutaneous interventions and major surgery</title><p>Although women are underrepresented in randomized clinical trials, they are believed to be more susceptible to cardiovascular events with higher mortality and increased bleeding complications after PCI and full antiplatelet treatment (Yentl syndrome). However, in the four major studies, RE&#x02010;DUAL&#x02010;PCI,<xref rid="clc23284-bib-0043" ref-type="ref">43</xref> PIONEER AF&#x02010;PCI,<xref rid="clc23284-bib-0044" ref-type="ref">44</xref> WOEST,<xref rid="clc23284-bib-0045" ref-type="ref">45</xref> and ATLAS ACS II&#x02010;TIMI 51 trial,<xref rid="clc23284-bib-0046" ref-type="ref">46</xref> in which 20% to 25% of patients were female, no sex differences were identified in terms of safety and efficiency of dual or triple therapy (Table <xref rid="clc23284-tbl-0003" ref-type="table">3</xref>) and indications for double and triple treatment are identical for both men and women. As for major surgery there are no female&#x02010;specific studies or any special OAC recommendations.</p></sec></sec><sec id="clc23284-sec-0024"><label>4.5</label><title>Special situations</title><sec id="clc23284-sec-0025"><label>4.5.1</label><title>Pregnancy</title><p>AF is very unusual in young pregnant females with structurally normal hearts, but may occur in pregnant patients suffering from heart failure, cardiomyopathies or congenital heart disease.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref> Anticoagulation should be guided by the available risk assessment tools, though these are not validated in pregnancy. When VKAs are the indicated anticoagulant, although low dose warfarin was shown to be safe in pregnant women, higher doses may have adverse effects on fetal outcome as they can cross the placenta and are therefore discontinued after the first trimester.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref> Information on potential consequences of NOACs during pregnancy is sparse. Currently, only one observational study is available assessing risks in women inadvertently exposed to rivaroxaban during early pregnancy, but the small cohort does not allow to refute an increased malformation risk. Beyer&#x02010;Westendorf et al,<xref rid="clc23284-bib-0047" ref-type="ref">47</xref> recently reviewed 233 unique cases of NOACs in pregnancy. Outcome was available in 137 (58.8%) cases. Seven (5.1%) showed abnormalities from which 3 (2.2%) could be potentially interpreted as embryopathy. The authors concluded that data was incomplete and women exposed to NOACs should therefore not be directly advised to terminate pregnancy but change to LWMH.</p></sec><sec id="clc23284-sec-0026"><label>4.5.2</label><title>Chronic kidney disease</title><p>Limited data are available for OACs in patients with renal disease and sex&#x02010;specific information is lacking.</p></sec></sec></sec><sec id="clc23284-sec-0027"><label>5</label><title>OUTCOME AFTER STROKE</title><p>Women with AF present more frequently with stroke compared to men and have worse outcome due to multiple factors and characteristics, including smaller body mass index and older age.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref> Intracranial hemorrhage is the most feared complication of OAC treatment and is associated with high mortality and morbidity. In patients with previous intracranial hemorrhage, restarting OAC treatment as early as clinically feasible, was associated with significantly lower risk of ischemic stroke and all&#x02010;cause mortality, without statistically significant risk of recurrent bleeding.<xref rid="clc23284-bib-0001" ref-type="ref">1</xref> Unfortunately, these patients are usually not included in RCTs, and the problem of the best time window for restarting the OAC after intracranial hemorrhage, taking into account potential sex differences, remains an issue of debate.</p></sec><sec id="clc23284-sec-0028"><label>6</label><title>LIMITATIONS</title><p>This review includes multiple studies of non&#x02010;homogenous design and representation of females (randomized non randomized and observational). Females are underrepresented in most studies and drawing conclusions incorporates a bias risk. In addition, a major limitation of current studies is the fact that most of them were conducted in Europe or North America. To what extend sex&#x02010;specific aspects are relevant for diagnosis and treatment in other parts of the world is at present largely unknown.</p></sec><sec id="clc23284-sec-0029"><label>7</label><title>CONCLUSION</title><p>Female sex is an established risk factor for stroke in AF patients. The evidence for sex&#x02010;specific differences in stroke risk assessment and stroke prevention, especially OAC treatment is accumulating. However, the underlying biological mechanisms remain incompletely understood and there are many gaps in evidence that need to be addressed. Advancing the knowledge in this field will likely help to decrease AF&#x02010;related morbidity and mortality and to further personalize treatment.</p></sec><sec sec-type="COI-statement" id="clc23284-sec-0031"><title>CONFLICT OF INTEREST</title><p>The authors declare no potential conflict of interests.</p></sec></body><back><ack id="clc23284-sec-0030"><title>ACKNOWLEDGMENT</title><p>The authors would like to thank Prof. Harry Crijns, Maastricht NL and Prof. Joep Smeets, Maastricht NL for their thorough assessment of the manuscript and their constructive suggestions.</p></ack><ref-list id="clc23284-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="clc23284-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="clc23284-cit-0001">
+<string-name>
+<surname>Kirchhof</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Benussi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kotecha</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>ESC guidelines for the management of atrial fibrillation developed in collaboration with EACTS: the task force for the management of atrial fibrillation of the European Society of Cardiology (ESC) developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC endorsed by the European Stroke Organisation (ESO)</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2016</year>;<volume>37</volume>:<fpage>2893</fpage>&#x02010;<lpage>2862</lpage>.<pub-id pub-id-type="pmid">27567408</pub-id></mixed-citation></ref><ref id="clc23284-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="clc23284-cit-0002">
+<string-name>
+<surname>Saposnik</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Gladstone</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Raptis</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hart</surname>
+<given-names>RG</given-names>
+</string-name>, <collab collab-type="authors">Investigators of the Registry of the Canadian Stroke Network (RCSN) and the Stroke Outcomes Research Canada (SORCan) Working Group</collab>
+. <article-title>Atrial fibrillation in ischemic stroke: predicting response to thrombolysis and clinical outcomes</article-title>. <source xml:lang="en">Stroke</source>. <year>2013</year>;<volume>44</volume>(<issue>1</issue>):<fpage>99</fpage>&#x02010;<lpage>104</lpage>.<pub-id pub-id-type="pmid">23168456</pub-id></mixed-citation></ref><ref id="clc23284-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="clc23284-cit-0003">
+<string-name>
+<surname>Fang</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Singer</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Gender differences in the risk of ischemic stroke and peripheral embolism in atrial fibrillation: the anticoagulation and risk factors in atrial fibrillation (ATRIA) study</article-title>. <source xml:lang="en">Circulation</source>. <year>2005</year>;<volume>112</volume>:<fpage>1687</fpage>&#x02010;<lpage>1691</lpage>.<pub-id pub-id-type="pmid">16157766</pub-id></mixed-citation></ref><ref id="clc23284-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="clc23284-cit-0004">
+<string-name>
+<surname>Dagres</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Nieuwlaat</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Vardas</surname>
+<given-names>PE</given-names>
+</string-name>, et al. <article-title>Gender&#x02010;related differences in presentation, treatment, and outcome of patients with atrial fibrillation in Europe: a report from the Euro Heart Survey on atrial fibrillation</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2007</year>;<volume>49</volume>:<fpage>572</fpage>&#x02010;<lpage>577</lpage>.<pub-id pub-id-type="pmid">17276181</pub-id></mixed-citation></ref><ref id="clc23284-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="clc23284-cit-0005">
+<string-name>
+<surname>Linde</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bongiorni</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Birgersdotter&#x02010;Green</surname>
+<given-names>U</given-names>
+</string-name>, et al. <article-title>Sex differences in cardiac arrhythmia: a consensus document of the European Heart Rhythm Association, endorsed by the Heart Rhythm Society and Asia Pacific Heart Rhythm Society</article-title>. <source xml:lang="en">Europace</source>. <year>2018</year>;<volume>20</volume>(<issue>10</issue>):<fpage>1565</fpage>&#x02010;<lpage>1565ao</lpage>.<pub-id pub-id-type="pmid">29961863</pub-id></mixed-citation></ref><ref id="clc23284-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="clc23284-cit-0006">
+<string-name>
+<surname>Thompson</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Maddox</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Lei</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Sex differences in the use of oral anticoagulants for atrial fibrillation: a report from the National Cardiovascular Data Registry PINNACLE registry</article-title>. <source xml:lang="en">J Am Heart Assoc</source>. <year>2017</year>;<volume>6</volume>:<elocation-id>e005801</elocation-id>.<pub-id pub-id-type="pmid">28724655</pub-id></mixed-citation></ref><ref id="clc23284-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="clc23284-cit-0007">
+<string-name>
+<surname>Tomasdottir</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Friberg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hijazi</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Lindb&#x000e4;ck</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Oldgren</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Risk of ischemic stroke and utility of CHA2 DS2 &#x02010;VASc score in women and men with atrial fibrillation</article-title>. <source xml:lang="en">Clin Cardiol</source>. <year>2019</year>;<volume>42</volume>:<fpage>1003</fpage>&#x02010;<lpage>1009</lpage>.<pub-id pub-id-type="pmid">31490011</pub-id></mixed-citation></ref><ref id="clc23284-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="clc23284-cit-0008">
+<string-name>
+<surname>O'Donnell</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Chin</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Rangarajan</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Global and regional effects of potentially modifiable risk factors associated with acute stroke in 32 countries (INTERSTROKE): a case&#x02010;control study</article-title>. <source xml:lang="en">Lancet</source>. <year>2016</year>;<volume>388</volume>:<fpage>761</fpage>&#x02010;<lpage>775</lpage>.<pub-id pub-id-type="pmid">27431356</pub-id></mixed-citation></ref><ref id="clc23284-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="clc23284-cit-0009">
+<string-name>
+<surname>Klein</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Danzi</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Thyroid disease and the heart</article-title>. <source xml:lang="en">Curr Probl Cardiol</source>. <year>2016</year>;<volume>41</volume>:<fpage>65</fpage>&#x02010;<lpage>92</lpage>.<pub-id pub-id-type="pmid">26792255</pub-id></mixed-citation></ref><ref id="clc23284-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="clc23284-cit-0010">
+<string-name>
+<surname>Duckles</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Krause</surname>
+<given-names>DN</given-names>
+</string-name>. <article-title>Mechanisms of cerebrovascular protection: oestrogen, inflammation and mitochondria</article-title>. <source xml:lang="en">Acta Physiol (Oxf)</source>. <year>2011</year>;<volume>203</volume>:<fpage>149</fpage>&#x02010;<lpage>154</lpage>.<pub-id pub-id-type="pmid">20825371</pub-id></mixed-citation></ref><ref id="clc23284-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="clc23284-cit-0011">
+<string-name>
+<surname>Roshan</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Normah</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rehman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Naing</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Effect of menopause on platelet activation markers determined by flow cytometry</article-title>. <source xml:lang="en">Am J Hematol</source>. <year>2005</year>;<volume>80</volume>:<fpage>257</fpage>&#x02010;<lpage>261</lpage>.<pub-id pub-id-type="pmid">16315264</pub-id></mixed-citation></ref><ref id="clc23284-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="clc23284-cit-0012">
+<string-name>
+<surname>Wang</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>SS</given-names>
+</string-name>, et al. <article-title>Increased levels of tissue plasminogen activator antigen and factor VIII activity in nonvalvular atrial fibrillation: relation to predictors of thromboembolism</article-title>. <source xml:lang="en">J Cardiovasc Electrophysiol</source>. <year>2001</year>;<volume>12</volume>:<fpage>877</fpage>&#x02010;<lpage>884</lpage>.<pub-id pub-id-type="pmid">11523531</pub-id></mixed-citation></ref><ref id="clc23284-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="clc23284-cit-0013">
+<string-name>
+<surname>Magnani</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Moser</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Murabito</surname>
+<given-names>JM</given-names>
+</string-name>, et al. <article-title>Age of natural menopause and atrial fibrillation: the Framingham heart study</article-title>. <source xml:lang="en">Am Heart J</source>. <year>2012</year>;<volume>163</volume>:<fpage>729</fpage>&#x02010;<lpage>734</lpage>.<pub-id pub-id-type="pmid">22520541</pub-id></mixed-citation></ref><ref id="clc23284-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="clc23284-cit-0014">
+<string-name>
+<surname>Lowe</surname>
+<given-names>GD</given-names>
+</string-name>. <article-title>Hormone replacement therapy: prothrombotic vs. protective effects</article-title>. <source xml:lang="en">Pathophysiol Haemost Thromb</source>. <year>2002</year>;<volume>32</volume>:<fpage>329</fpage>&#x02010;<lpage>332</lpage>.</mixed-citation></ref><ref id="clc23284-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="clc23284-cit-0015">
+<string-name>
+<surname>Apostolakis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Olshansky</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lip</surname>
+<given-names>GYH</given-names>
+</string-name>. <article-title>Hormone replacement therapy and adverse outcomes in women with atrial fibrillation: an analysis from the atrial fibrillation follow&#x02010;up investigation of rhythm management trial</article-title>. <source xml:lang="en">Stroke</source>. <year>2014</year>;<volume>45</volume>:<fpage>3076</fpage>&#x02010;<lpage>3079</lpage>.<pub-id pub-id-type="pmid">25190441</pub-id></mixed-citation></ref><ref id="clc23284-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="clc23284-cit-0016">
+<string-name>
+<surname>Proietti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Raparelli</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Basili</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Olshansky</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Lip GYH; relation of female sex to left atrial diameter and cardiovascular death in atrial fibrillation: the AFFIRM trial</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2016</year>;<volume>207</volume>:<fpage>258</fpage>&#x02010;<lpage>263</lpage>.<pub-id pub-id-type="pmid">26808988</pub-id></mixed-citation></ref><ref id="clc23284-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="clc23284-cit-0017">
+<string-name>
+<surname>Andell</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Martinsson</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Epidemiology of valvular heart disease in a Swedish nationwide hospital&#x02010;based register study</article-title>. <source xml:lang="en">Heart</source>. <year>2017</year>;<volume>103</volume>:<fpage>1696</fpage>&#x02010;<lpage>1703</lpage>.<pub-id pub-id-type="pmid">28432156</pub-id></mixed-citation></ref><ref id="clc23284-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="clc23284-cit-0018">
+<string-name>
+<surname>Mengel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ulm</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hotter</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Biomarkers of immune capacity, infection and inflammation are associated with poor outcome and mortality after stroke &#x02010; the PREDICT study</article-title>. <source xml:lang="en">BMC Neurol</source>. <year>2019</year>;<volume>19</volume>(<issue>1</issue>):<fpage>148</fpage>.<pub-id pub-id-type="pmid">31269910</pub-id></mixed-citation></ref><ref id="clc23284-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="clc23284-cit-0019">
+<string-name>
+<surname>Cochet</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Cochet</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Mouries</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Age, atrial fibrillation, and structural heart disease are the main determinants of left atrial fibrosis detected by delayed&#x02010;enhanced magnetic resonance imaging in a general cardiology population</article-title>. <source xml:lang="en">J Cardiovasc Electrophysiol</source>. <year>2015</year>;<volume>26</volume>:<fpage>484</fpage>&#x02010;<lpage>492</lpage>.<pub-id pub-id-type="pmid">25727248</pub-id></mixed-citation></ref><ref id="clc23284-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="clc23284-cit-0020">
+<string-name>
+<surname>Dobrev</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Aguilar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Heijman</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Guichard</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Nattel</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Postoperative atrial fibrillation: mechanisms, manifestations and management</article-title>. <source xml:lang="en">Nat Rev Cardiol</source>. <year>2019</year> Jul;<volume>16</volume>(<issue>7</issue>):<fpage>417</fpage>&#x02010;<lpage>436</lpage>.<pub-id pub-id-type="pmid">30792496</pub-id></mixed-citation></ref><ref id="clc23284-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="clc23284-cit-0021">
+<string-name>
+<surname>Sardu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Santulli</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Santamaria</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Effects of alpha lipoic acid on multiple cytokines and biomarkers and recurrence of atrial fibrillation within 1 year of catheter ablation</article-title>. <source xml:lang="en">Am J Cardiol</source>. <year>2017</year>;<volume>119</volume>(<issue>9</issue>):<fpage>1382</fpage>&#x02010;<lpage>1386</lpage>.<pub-id pub-id-type="pmid">28258730</pub-id></mixed-citation></ref><ref id="clc23284-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="clc23284-cit-0022">
+<string-name>
+<surname>Nyrnes</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nj&#x000f8;lstad</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Mathiesen</surname>
+<given-names>EB</given-names>
+</string-name>, et al. <article-title>Inflammatory biomarkers as risk factors for future atrial fibrillation. An eleven&#x02010;year follow&#x02010;up of 6315 men and women: the Troms&#x000f8; study</article-title>. <source xml:lang="en">Gend Med</source>. <year>2012</year>;<volume>9</volume>(<issue>6</issue>):<fpage>536</fpage>&#x02010;<lpage>547</lpage>.<pub-id pub-id-type="pmid">23046763</pub-id></mixed-citation></ref><ref id="clc23284-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="clc23284-cit-0023">
+<string-name>
+<surname>Florijn</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name>
+<surname>Bijkerk</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>van der Veer</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name>
+<surname>van Zonneveld</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>Gender and cardiovascular disease: are sex&#x02010;biased microRNA networks a driving force behind heart failure with preserved ejection fraction in women?</article-title>
+<source xml:lang="en">Cardiovasc Res</source>. <year>2018</year>;<volume>114</volume>(<issue>2</issue>):<fpage>210</fpage>&#x02010;<lpage>225</lpage>.<pub-id pub-id-type="pmid">29186452</pub-id></mixed-citation></ref><ref id="clc23284-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="clc23284-cit-0024">
+<string-name>
+<surname>Carpenter</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Frontera</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bond</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Duncan</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Vagal atrial fibrillation: what is it and should we treat it?</article-title>
+<source xml:lang="en">Int J Cardiol</source>. <year>2015</year>;<volume>201</volume>:<fpage>415</fpage>&#x02010;<lpage>221</lpage>.<pub-id pub-id-type="pmid">26310988</pub-id></mixed-citation></ref><ref id="clc23284-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="clc23284-cit-0025">
+<string-name>
+<surname>de Vos</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Nieuwlaat</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Crijns</surname>
+<given-names>HJGM</given-names>
+</string-name>, et al. <article-title>Autonomic trigger patterns and anti&#x02010;arrhythmic treatment of paroxysmal atrial fibrillation: data from the Euro Heart Survey</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2008</year>;<volume>29</volume>:<fpage>632</fpage>&#x02010;<lpage>639</lpage>.<pub-id pub-id-type="pmid">18270212</pub-id></mixed-citation></ref><ref id="clc23284-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="clc23284-cit-0026">
+<article-title>Autonomic dysfunction is associated with brief episodes of atrial fibrillation in type 2 diabetes</article-title>. <source xml:lang="en">J Diabetes Complications</source>. <year>2015</year>;<volume>29</volume>(<issue>1</issue>):<fpage>88</fpage>&#x02010;<lpage>92</lpage>.<pub-id pub-id-type="pmid">25266244</pub-id></mixed-citation></ref><ref id="clc23284-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="clc23284-cit-0027">
+<string-name>
+<surname>Ong</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Irvine</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nolan</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Gender differences and quality of life in atrial fibrillation: the mediating role of depression</article-title>. <source xml:lang="en">J Psychosom Res</source>. <year>2006</year>;<volume>6</volume>:<fpage>769</fpage>&#x02010;<lpage>774</lpage>.</mixed-citation></ref><ref id="clc23284-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="clc23284-cit-0028">
+<string-name>
+<surname>Ball</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Carrington</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>
+<given-names>S</given-names>
+</string-name>, <collab collab-type="authors">SAFETY Investigators</collab>
+. <article-title>Women versus men with chronic atrial fibrillation: insights from the standard versus atrial fibrillation specific management study (SAFETY)</article-title>. <source xml:lang="en">PLoS One</source>. <year>2013</year>;<volume>8</volume>:<elocation-id>e65795</elocation-id>.<pub-id pub-id-type="pmid">23734260</pub-id></mixed-citation></ref><ref id="clc23284-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="clc23284-cit-0029">
+<string-name>
+<surname>Pokorney</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>
+<given-names>DN</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Outcomes registry for better informed treatment of atrial fibrillation (ORBIT&#x02010;AF) investigators. Patients' time in therapeutic range on warfarin among US patients with atrial fibrillation: results from ORBIT&#x02010;AF registry</article-title>. <source xml:lang="en">Am Heart J</source>. <year>2015</year>;<volume>170</volume>:<fpage>141</fpage>&#x02010;<lpage>148</lpage>.<pub-id pub-id-type="pmid">26093875</pub-id></mixed-citation></ref><ref id="clc23284-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="clc23284-cit-0030">
+<string-name>
+<surname>Sullivan</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zamba</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lip</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name>
+<surname>Olshansky</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Relation of gender&#x02010;specific risk of ischemic stroke in patients with atrial fibrillation to differences in warfarin anticoagulation control (from AFFIRM)</article-title>. <source xml:lang="en">Am J Cardiol</source>. <year>2012</year>;<volume>110</volume>:<fpage>1799</fpage>&#x02010;<lpage>1802</lpage>.<pub-id pub-id-type="pmid">22995971</pub-id></mixed-citation></ref><ref id="clc23284-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="clc23284-cit-0031">
+<string-name>
+<surname>Rodenburg</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Stricker</surname>
+<given-names>BH</given-names>
+</string-name>, <string-name>
+<surname>Visser</surname>
+<given-names>LE</given-names>
+</string-name>. <article-title>Sex&#x02010;related differences in hospital admissions attributed to adverse drug reactions in The Netherlands</article-title>. <source xml:lang="en">Br J Clin Pharmacol</source>. <year>2011</year>;<volume>71</volume>:<fpage>95</fpage>&#x02010;<lpage>104</lpage>.<pub-id pub-id-type="pmid">21143505</pub-id></mixed-citation></ref><ref id="clc23284-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="clc23284-cit-0032">
+<string-name>
+<surname>Pancholy</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Pancholy</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Callans</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Marchlinski</surname>
+<given-names>FE</given-names>
+</string-name>. <article-title>Meta&#x02010;analysis of gender differences in residual stroke risk and major bleeding in patients with nonvalvular atrial fibrillation treated with oral anticoagulants</article-title>. <source xml:lang="en">Am J Cardiol</source>. <year>2014</year>;<volume>113</volume>:<fpage>485</fpage>&#x02010;<lpage>490</lpage>.<pub-id pub-id-type="pmid">24315113</pub-id></mixed-citation></ref><ref id="clc23284-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="clc23284-cit-0033">
+<string-name>
+<surname>Giugliano</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name>
+<surname>Ruff</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name>
+<surname>Braunwald</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>ENGAGE AF&#x02010;TIMI 48 investigators. Edoxaban versus warfarin in patients with atrial fibrillation</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2013</year>;<volume>369</volume>:<fpage>2093</fpage>&#x02010;<lpage>2104</lpage>.<pub-id pub-id-type="pmid">24251359</pub-id></mixed-citation></ref><ref id="clc23284-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="clc23284-cit-0034">
+<string-name>
+<surname>Camm</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Accetta</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Al Mahmeed</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Impact of gender on event rates at 1 year in patients with newly diagnosed non&#x02010;valvular atrial fibrillation: contemporary perspective from the GARFIELD&#x02010;AF registry</article-title>. <source xml:lang="en">BMJ Open</source>. <year>2017</year>;<volume>7</volume>:<elocation-id>e014579</elocation-id>.</mixed-citation></ref><ref id="clc23284-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="clc23284-cit-0035">
+<string-name>
+<surname>Mazurek</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Huisman</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Rothman</surname>
+<given-names>KJ</given-names>
+</string-name>, et al. <article-title>Gender differences in antithrombotic treatment for newly diagnosed atrial fibrillation: the GLORIA&#x02010;AF registry program</article-title>. <source xml:lang="en">Am J Med</source>. <year>2018</year>;<volume>131</volume>:<fpage>945</fpage>&#x02010;<lpage>955.e3</lpage>.<pub-id pub-id-type="pmid">29654720</pub-id></mixed-citation></ref><ref id="clc23284-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="clc23284-cit-0036">
+<string-name>
+<surname>Rohla</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Weisss</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name>
+<surname>Pecen</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Risk factors for the thromboembolic and bleeding events in anticoagulated patients with atrial fibrillation: the prospective, multicenter observational prevention of thromboembolic events&#x02010; European registry in atrial fibrillation (PREFER in AF)</article-title>. <source xml:lang="en">BMJ Open</source>. <year>2019</year>;<volume>30</volume>:<elocation-id>e022478</elocation-id>.</mixed-citation></ref><ref id="clc23284-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="clc23284-cit-0037">
+<string-name>
+<surname>Cappato</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ezekowitz</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>AL</given-names>
+</string-name>, et al. <article-title>X&#x02010;VeRT investigators. Rivaroxaban vs. vitamin K antagonists for cardioversion in atrial fibrillation</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2014</year>;<volume>35</volume>:<fpage>3346</fpage>&#x02010;<lpage>3355</lpage>.<pub-id pub-id-type="pmid">25182247</pub-id></mixed-citation></ref><ref id="clc23284-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="clc23284-cit-0038">
+<string-name>
+<surname>Goette</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Merino</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Ezekowitz</surname>
+<given-names>MD</given-names>
+</string-name>, et al. <article-title>ENSURE&#x02010;AF investigators. Edoxaban versus enoxaparin&#x02010;warfarin in patients undergoing cardioversion of atrial fibrillation (ENSURE&#x02010;AF): a randomised, open&#x02010;label, phase 3b trial</article-title>. <source xml:lang="en">Lancet</source>. <year>2016</year>;<volume>388</volume>:<fpage>1995</fpage>&#x02010;<lpage>2003</lpage>.<pub-id pub-id-type="pmid">27590218</pub-id></mixed-citation></ref><ref id="clc23284-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="clc23284-cit-0039">
+<string-name>
+<surname>Ezekowitz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pollack</surname>
+<given-names>CV</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Halperin</surname>
+<given-names>JL</given-names>
+</string-name>, et al. <article-title>Apixaban compared to heparin/vitamin K antagonist in patients with atrial fibrillation scheduled for cardioversion: the EMANATE trial</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2018</year>;<volume>39</volume>:<fpage>2959</fpage>&#x02010;<lpage>2971</lpage>.<pub-id pub-id-type="pmid">29659797</pub-id></mixed-citation></ref><ref id="clc23284-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="clc23284-cit-0040">
+<string-name>
+<surname>Di Biase</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Burkhardt</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Santangeli</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Periprocedural stroke and bleeding complications in patients undergoing catheter ablation of atrial fibrillation with different anticoagulation management: results from the role of coumadin in preventing thromboembolism in atrial fibrillation (AF) patients undergoing catheter ablation (COMPARE) randomized trial</article-title>. <source xml:lang="en">Circulation</source>. <year>2014</year>;<volume>129</volume>:<fpage>2638</fpage>&#x02010;<lpage>2644</lpage>.<pub-id pub-id-type="pmid">24744272</pub-id></mixed-citation></ref><ref id="clc23284-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="clc23284-cit-0041">
+<string-name>
+<surname>Cappato</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Marchlinski</surname>
+<given-names>FE</given-names>
+</string-name>, <string-name>
+<surname>Hohnloser</surname>
+<given-names>SH</given-names>
+</string-name>, et al. <article-title>VENTURE&#x02010;AF investigators. Uninterrupted rivaroxaban vs. uninterrupted vitamin K antagonists for catheter ablation in non&#x02010;valvular atrial fibrillation</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2015</year>;<volume>36</volume>:<fpage>1805</fpage>&#x02010;<lpage>1811</lpage>.<pub-id pub-id-type="pmid">25975659</pub-id></mixed-citation></ref><ref id="clc23284-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="clc23284-cit-0042">
+<string-name>
+<surname>Calkins</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Willems</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gerstenfeld</surname>
+<given-names>EP</given-names>
+</string-name>, et al. <article-title>RE&#x02010;CIRCUIT investigators. Uninterrupted dabigatran versus warfarin for ablation in atrial fibrillation</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2017</year>;<volume>376</volume>:<fpage>1627</fpage>&#x02010;<lpage>1636</lpage>.<pub-id pub-id-type="pmid">28317415</pub-id></mixed-citation></ref><ref id="clc23284-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="clc23284-cit-0043">
+<string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Bhatt</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Oldgren</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>RE&#x02010;DUAL PCI steering committee and investigators. Dual antithrombotic therapy with dabigatran after PCI in atrial fibrillation</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2017</year>;<volume>377</volume>:<fpage>1513</fpage>&#x02010;<lpage>1524</lpage>.<pub-id pub-id-type="pmid">28844193</pub-id></mixed-citation></ref><ref id="clc23284-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="clc23284-cit-0044">
+<string-name>
+<surname>Kerneis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Chi</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Effect of procedure and coronary lesion characteristics on clinical outcomes among atrial fibrillation patients undergoing percutaneous coronary intervention: insights from the PIONEER AF&#x02010;PCI trial</article-title>. <source xml:lang="en">JACC Cardiovasc Interv</source>. <year>2018</year>;<volume>11</volume>(<issue>7</issue>):<fpage>626</fpage>&#x02010;<lpage>634</lpage>.<pub-id pub-id-type="pmid">29550085</pub-id></mixed-citation></ref><ref id="clc23284-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="clc23284-cit-0045">
+<string-name>
+<surname>Dewilde</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Oirbans</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Verheugt</surname>
+<given-names>FW</given-names>
+</string-name>, et al. <article-title>Use of clopidogrel with or without aspirin in patients taking oral anticoagulant therapy and undergoing percutaneous coronary intervention: an open&#x02010;label, randomised, controlled trial</article-title>. <source xml:lang="en">Lancet</source>. <year>2013</year>;<volume>381</volume>:<fpage>1107</fpage>&#x02010;<lpage>1115</lpage>.<pub-id pub-id-type="pmid">23415013</pub-id></mixed-citation></ref><ref id="clc23284-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="clc23284-cit-0046">
+<string-name>
+<surname>Mega</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Braunwald</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Wiviott</surname>
+<given-names>SD</given-names>
+</string-name>, et al. <article-title>ATLAS ACS 2&#x02013;TIMI 51 investigators. Rivaroxaban in patients with a recent acute coronary syndrome</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2012</year>;<volume>366</volume>:<fpage>9</fpage>&#x02010;<lpage>19</lpage>.<pub-id pub-id-type="pmid">22077192</pub-id></mixed-citation></ref><ref id="clc23284-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="clc23284-cit-0047">
+<string-name>
+<surname>Beyer&#x02010;Westendorf</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Michalski</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Tittl</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Middeldorp</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Pregnancy outcome in patients exposed to direct oral anticoagulants &#x02010; and the challenge of event reporting</article-title>. <source xml:lang="en">Thromb Haemostas</source>. <year>2016</year>;<volume>116</volume>:<fpage>651</fpage>&#x02010;<lpage>658</lpage>.</mixed-citation></ref></ref-list></back></article>

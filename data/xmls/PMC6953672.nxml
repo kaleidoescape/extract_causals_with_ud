@@ -1,0 +1,857 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938472</article-id><article-id pub-id-type="pmc">6953672</article-id><article-id pub-id-type="doi">10.1002/ece3.5531</article-id><article-id pub-id-type="publisher-id">ECE35531</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Pollinator specialization increases with a decrease in a mass&#x02010;flowering plant in networks inferred from DNA metabarcoding</article-title><alt-title alt-title-type="left-running-head">PORNON et al.</alt-title></title-group><contrib-group><contrib id="ece35531-cr-0001" contrib-type="author" corresp="yes"><name><surname>Pornon</surname><given-names>Andr&#x000e9;</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2854-7038</contrib-id><xref ref-type="aff" rid="ece35531-aff-0001">
+<sup>1</sup>
+</xref><address><email>andre.pornon@univ-tlse3.fr</email></address></contrib><contrib id="ece35531-cr-0002" contrib-type="author"><name><surname>Baksay</surname><given-names>Sandra</given-names></name><xref ref-type="aff" rid="ece35531-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35531-cr-0003" contrib-type="author"><name><surname>Escaravage</surname><given-names>Nathalie</given-names></name><xref ref-type="aff" rid="ece35531-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35531-cr-0004" contrib-type="author"><name><surname>Burrus</surname><given-names>Monique</given-names></name><xref ref-type="aff" rid="ece35531-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35531-cr-0005" contrib-type="author"><name><surname>Andalo</surname><given-names>Christophe</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5528-3800</contrib-id><xref ref-type="aff" rid="ece35531-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ece35531-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Laboratoire Evolution et Diversit&#x000e9; Biologique</named-content>
+<named-content content-type="organisation-division">UMR 5174</named-content>
+<named-content content-type="organisation-division">CNRS</named-content>
+<named-content content-type="organisation-division">IRD</named-content>
+<institution>Universit&#x000e9; Toulouse III Paul Sabatier</institution>
+<city>Toulouse</city>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Andr&#x000e9; Pornon, Laboratoire Evolution et Diversit&#x000e9; Biologique, UMR 5174 CNRS&#x02010;UPS&#x02010;IRD, Universit&#x000e9; Toulouse III Paul Sabatier, B&#x000e2;t. 4R1, 118 Rte de Narbonne, F&#x02010;31062 Toulouse cedex 04, France.<break/>
+Email: <email>andre.pornon@univ-tlse3.fr</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>9</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>13650</fpage><lpage>13662</lpage><history><date date-type="received"><day>05</day><month>4</month><year>2019</year></date><date date-type="rev-recd"><day>02</day><month>7</month><year>2019</year></date><date date-type="accepted"><day>16</day><month>7</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-13650.pdf"/><abstract id="ece35531-abs-0001"><title>Abstract</title><p>
+<list list-type="order" id="ece35531-list-0001"><list-item><p>How native mass&#x02010;flowering plants affect the specialization of insects at individual and species levels and the consequences for pollination networks have received much less attention than for mass&#x02010;flowering crops or alien species and basically remain unexplored.</p></list-item><list-item><p>Using existing DNA metabarcoding data on the pollen loads of 402 flower&#x02010;visiting insects, we assessed the effects of a native mass&#x02010;flowering plant of high reward quality, the shrub <italic>Rhododendron ferrugineum</italic>, on pollination networks by investigating: (a) the food niches of individual pollinators and pollinator species and (b) the structure of individual and species networks in subalpine heathland patches with extremely contrasted densities of <italic>R.&#x000a0;ferrugineum</italic>.</p></list-item><list-item><p>Relative to its high abundance in high&#x02010;density patches, the shrub was greatly underrepresented and did not dominate individual's or species' generalized networks, rather individual and species specialization increased with a decrease in <italic>R.&#x000a0;ferrugineum</italic> density. Furthermore, individuals of the more generalist dipteran <italic>Empididae</italic> species tended to extend exclusive interactions with rare plant species in low&#x02010;density networks. The same trend was observed in the more specialist <italic>Apidea</italic> but toward rare species in high&#x02010;density networks. Our results reveal a quite paradoxical view of pollination and a functional complementarity within networks. Niche and network indices mostly based on the occurrence of links showed that individual pollinators and pollinator species and networks were highly generalized, whereas indices of link strength revealed that species and above all individuals behave as quite strict specialists.</p></list-item><list-item><p>
+<italic>Synthesis</italic>. Our study provides insights into the status of a native mass&#x02010;flowering plant in individual's and insect species' food niches and pollination networks. It revealed that a generalist pollinator species can be highly specialized at the individual level and how rare plant species coexisting with mass&#x02010;flowering plants may nevertheless be visited.</p></list-item></list>
+</p></abstract><abstract abstract-type="graphical" id="ece35531-abs-0002"><p>Using metabarcoding and thus the strength of plant&#x02013;pollinator links, we provide new strong insights into the status of a native mass&#x02010;flowering species (MFS; compared to crops or aliens species) in individual and species pollination networks and the general specialization of generalist individuals increasing with the decrease in the MFS abundance.<boxed-text position="anchor" content-type="graphic" id="ece35531-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-13650-g004.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35531-kwd-0001">DNA metabarcoding</kwd><kwd id="ece35531-kwd-0002">food niche breadth</kwd><kwd id="ece35531-kwd-0003">individual pollination network</kwd><kwd id="ece35531-kwd-0004">mass&#x02010;flowering species</kwd><kwd id="ece35531-kwd-0005">pollinator generalization</kwd><kwd id="ece35531-kwd-0006">pollinator specialization</kwd><kwd id="ece35531-kwd-0007">species pollination networks</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Centre National de la Recherche Scientifique&#x02010;INEE </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100004794</institution-id></institution-wrap></funding-source><award-id>DJ/ST/IP/2013/D-112</award-id></award-group><award-group id="funding-0002"><funding-source>French Laboratory of Excellence project &#x0201c;TULIP&#x0201d;</funding-source><award-id>ANR-10-LABX-41</award-id><award-id>ANR-11-IDEX-0002&#x02013;02</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="2"/><page-count count="13"/><word-count count="9896"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35531-cit-1001">
+<string-name>
+<surname>Pornon</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Baksay</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Escaravage</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Burrus</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Andalo</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Pollinator specialization increases with a decrease in a mass&#x02010;flowering plant in networks inferred from DNA metabarcoding</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>13650</fpage>&#x02013;<lpage>13662</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5531</pub-id>
+</mixed-citation>
+</p><fn-group id="ece35531-ntgp-0001"><fn fn-type="equal" id="ece35531-note-0001"><p>Andr&#x000e9; Pornon, Sandra Baksay and Christophe Andalo contributed equally to this work.</p></fn></fn-group></notes></front><body id="ece35531-body-0001"><sec id="ece35531-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Many plant communities contain crop, alien, or native mass&#x02010;flowering plants usually distributed in densely populated patches alternating with areas where they are rare or absent. Studies of agroecosystems and of invaded areas have shown that crop and invasive mass&#x02010;flowering plants can (a) attract pollinators and monopolize visits (Holzschuh et al., <xref rid="ece35531-bib-0027" ref-type="ref">2016</xref>; Kov&#x000e1;cs&#x02010;Hosty&#x000e1;nszki et al., <xref rid="ece35531-bib-0034" ref-type="ref">2013</xref>; Meyer, Gaebele, &#x00026; Steffan&#x02010;Dewenter, <xref rid="ece35531-bib-0044" ref-type="ref">2007</xref>) from the surrounding area; (b) be dominant or important in shaping pollination networks (Lopezaraiza&#x02010;Mikel, Hayes, Whalley, &#x00026; Memmott, <xref rid="ece35531-bib-0038" ref-type="ref">2007</xref>; Magrach, Gonz&#x000e1;lez&#x02010;Varo, Boiffier, Vil&#x000e0;, &#x00026; Bartomeus, <xref rid="ece35531-bib-0041" ref-type="ref">2017</xref>; Stanley &#x00026; Stout, <xref rid="ece35531-bib-0057" ref-type="ref">2014</xref>; Tiedeken &#x00026; Stout, <xref rid="ece35531-bib-0061" ref-type="ref">2015</xref>) particularly under high levels of invasion (Kaiser&#x02010;Bunbury, Valentin, Mougal, Matatiken, &#x00026; Ghazoul, <xref rid="ece35531-bib-0032" ref-type="ref">2011</xref>); and (c) often (but not always) have negative effects on coflowering native species (Jakobsson, Padron, &#x00026; Traveset, <xref rid="ece35531-bib-0030" ref-type="ref">2008</xref>; Magrach et al., <xref rid="ece35531-bib-0041" ref-type="ref">2017</xref>). Yet, how the native mass&#x02010;flowering plants affect the specialization of insects at individual and species levels and what the consequences for pollination networks have received much less attention and basically remain unexplored.</p><p>Since pollinators tend to preferentially visit the most abundant and/or rewarding resources in a given area (Dauber et al., <xref rid="ece35531-bib-0011" ref-type="ref">2010</xref>; Ghazoul, <xref rid="ece35531-bib-0024" ref-type="ref">2005</xref>), native mass&#x02010;flowering plants could, like exotic plants, attract most pollinators from the surroundings and, to a certain extent, dominate the networks with possible negative effects on coflowering species. However, because pollinator behavior may change with the abundance and the quality of resources even in small areas (Dupont et al., <xref rid="ece35531-bib-0018" ref-type="ref">2014</xref>; Osborne &#x00026; Williams, <xref rid="ece35531-bib-0046" ref-type="ref">2001</xref>), the reduction in mass&#x02010;flowering plant cover in the community could lead to a new pollination network structure, particularly if the reduction results in a dramatic decrease in locally available resources. On the one hand, lower floral resource abundance may favor generalist species that can compensate for the decrease in mass&#x02010;flowering species by using alternative resources and/or keep species specialized on the mass&#x02010;flowering plants away from the vegetation patch. What is more, individuals may broaden their diet (individual generalization) in response to competition for food (Fontaine, Collin, &#x00026; Dajoz, <xref rid="ece35531-bib-0020" ref-type="ref">2008</xref>; Kunin &#x00026; Iwasa, <xref rid="ece35531-bib-0036" ref-type="ref">1996</xref>). Together, these processes would lead individual and species networks to be more generalized with high connectance (the proportion of links that actually occur in networks, which increases with generalization) and possibly high nestedness (the degree to which specialist plants and insects interact with generalists plants and insects). On the other hand, in response to competition for resources, a subset of individuals may shift to other resources (individual specialization) even though other members of the population continue to forage on the original resources (Bolnick et al., <xref rid="ece35531-bib-0006" ref-type="ref">2003</xref>; Svanb&#x000e4;ck &#x00026; Bolnick, <xref rid="ece35531-bib-0058" ref-type="ref">2007</xref>). Individual specialization on different floral resources would lead to generalized species networks.</p><p>Whether species networks mainly comprise either specialist or generalist individuals would have very different ecological consequences. Indeed, besides affecting the population dynamics of the pollinators themselves (Ara&#x000fa;jo, Bolnick, &#x00026; Layman, <xref rid="ece35531-bib-0002" ref-type="ref">2011</xref>), the magnitude of individual specialization may strongly determine the quantity and the quality (conspecific vs. heterospecific) of pollen transferred and have considerable consequences for both plant fitness and population and community dynamics. Furthermore, generalized species networks with high connectance and nestedness are considered to be less vulnerable to species losses (Memmott, Waser, &#x00026; Price, <xref rid="ece35531-bib-0043" ref-type="ref">2004</xref>). Thus, understanding the network architecture and whether the species mainly comprises specialized or generalized individuals is essential since it can affect the structure and the robustness of the network, community stability, and pollination services in the face of disturbances (Th&#x000e9;bault &#x00026; Fontaine, <xref rid="ece35531-bib-0060" ref-type="ref">2010</xref>).</p><p>In this study, we focused on the effects of the high reward native mass&#x02010;flowering shrub <italic>Rhododendron ferrugineum</italic> on the structure of pollination networks by investigating: (a) individual pollinator's (a total of 402) and pollinator species' food niches and (b) the structure of individual and species networks in subalpine heathland patches with highly contrasted floral densities of <italic>R.&#x000a0;ferrugineum</italic>. We investigated pollinator food niches and networks by using DNA metabarcoding data that were obtained in a previous study at the site (Pornon, Andalo, Burrus, &#x00026; Escaravage, <xref rid="ece35531-bib-0048" ref-type="ref">2017</xref>). Metabarcoding has already been shown in several studies to successfully identify plant taxa in pollen mixtures (Cornman, Otto, Iwanowicz, &#x00026; Pettis, <xref rid="ece35531-bib-0010" ref-type="ref">2015</xref>; Galimberti et al., <xref rid="ece35531-bib-0021" ref-type="ref">2014</xref>; Galliot et al., <xref rid="ece35531-bib-0022" ref-type="ref">2017</xref>; Lucas et al., <xref rid="ece35531-bib-0039" ref-type="ref">2018</xref>; Macgregor et al., <xref rid="ece35531-bib-0040" ref-type="ref">2019</xref>; Pornon et al., <xref rid="ece35531-bib-0049" ref-type="ref">2016</xref>; Richardson et al., <xref rid="ece35531-bib-0052" ref-type="ref">2019</xref>) at a higher taxonomic resolution than microscopy (Vamosi, Gong, Adamowicz, &#x00026; Packer, <xref rid="ece35531-bib-0063" ref-type="ref">2017</xref>). A recent meta&#x02010;analysis (Lamb et al., <xref rid="ece35531-bib-0037" ref-type="ref">2018</xref>) concluded on a significant quantitative positive linear relationship between the proportion of sequence reads and the proportion of species in original mixtures from very different origins (stomach contents, feces, airborne pollen, etc.). Some studies provided evidence for the quantitative potential of pollen metabarcoding both with nuclear (ITS) and plastid markers (rbcL, trnL, trnH; Keller et al., <xref rid="ece35531-bib-0033" ref-type="ref">2015</xref>; Kraaijeveld et al., <xref rid="ece35531-bib-0035" ref-type="ref">2015</xref>; Pornon et al., <xref rid="ece35531-bib-0049" ref-type="ref">2016</xref>; Richardson et al., <xref rid="ece35531-bib-0052" ref-type="ref">2019</xref>; Smart et al., <xref rid="ece35531-bib-0055" ref-type="ref">2017</xref>). However, Bell et al. (<xref rid="ece35531-bib-0004" ref-type="ref">2018</xref>) and Richardson et al. (<xref rid="ece35531-bib-0052" ref-type="ref">2019</xref>) obtained less reliable results with ITS2. Furthermore, depending on the species, higher or lower proportions of sequence reads may be found than expected (Bell et al., <xref rid="ece35531-bib-0004" ref-type="ref">2018</xref>). Despite these limitations, in a simulation study, Deagle et al. (<xref rid="ece35531-bib-0012" ref-type="ref">2018</xref>) showed that even with methodological biases are included, sequence counts can provide a more reliable description of species diet in many scenarios than link occurrence alone. Moreover, since pollen grains may accumulate on insect bodies during successive visits (Delmas, Fort, Escaravage, &#x00026; Pornon, <xref rid="ece35531-bib-0015" ref-type="ref">2016</xref>; Jacobs et al., <xref rid="ece35531-bib-0029" ref-type="ref">2010</xref>), the proportion of either pollen grains or sequences of a given plant species in an insect pollen load may reflect the proportion of visits to the species (Pornon et al., <xref rid="ece35531-bib-0049" ref-type="ref">2016</xref>; Stanley &#x00026; Stout, <xref rid="ece35531-bib-0057" ref-type="ref">2014</xref>).</p><p>In heathland patches with a high density of <italic>R.&#x000a0;ferrugineum</italic> and limited alternative resources, we predicted (H1) that individual insects would forage mostly on the shrub. Thus, individuals, species, and networks would mainly be specialized in <italic>R.&#x000a0;ferrugineum</italic> with low between&#x02010;individual diversity in pollen use, large food niche overlap between individuals or species, and that the individual's diet would largely resemble the species' diet. However, this overall tendency could, to some extent, be counteracted if <italic>R.&#x000a0;ferrugineum</italic> is not their favorite source of food, if it provides resources that are difficult for some insect species to access, or if individual and/or colony development require diversified resources (Girard, Chagnon, &#x00026; Fournier, <xref rid="ece35531-bib-0026" ref-type="ref">2012</xref>; Tasei &#x00026; Aupinel, <xref rid="ece35531-bib-0059" ref-type="ref">2008</xref>). In patches with low <italic>R.&#x000a0;ferrugineum</italic> density and limited alternative resources, pollinators could compete for less available flower resources (Table <xref rid="ece35531-tbl-0001" ref-type="table">1</xref>). Delmas et al. (<xref rid="ece35531-bib-0015" ref-type="ref">2016</xref>) observed more frequent visits to <italic>R.&#x000a0;ferrugineum</italic> and smaller quantities and proportions of its pollen in insect loads in low&#x02010;density patches than in high&#x02010;density patches, suggesting that pollinators had to share fewer resources among more individuals in low&#x02010;density patches. We hypothesized that in response to global resource depletion, individuals would either diversify their diet (H2: higher individual generalization) or specialize in different floral resources (H3: higher individual specialization) with different consequences for individual and species networks.</p><table-wrap id="ece35531-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Characteristics of vegetation in heathland patches</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">&#x000a0;</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Heathland patches</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">LDP1</th><th align="left" valign="bottom" rowspan="1" colspan="1">LDP2</th><th align="left" valign="bottom" rowspan="1" colspan="1">HDP1</th><th align="left" valign="bottom" rowspan="1" colspan="1">HDP2</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Patch area (ha)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.17</td><td align="left" rowspan="1" colspan="1">0.6</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">15.8</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Community structure and diversity</bold>
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Rhododendron ferrugineum</italic> cover (%)</td><td align="left" rowspan="1" colspan="1">0.93</td><td align="left" rowspan="1" colspan="1">3.2</td><td align="left" rowspan="1" colspan="1">98</td><td align="left" rowspan="1" colspan="1">69.5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surrounding community cover (%)</td><td align="left" rowspan="1" colspan="1">99.07</td><td align="left" rowspan="1" colspan="1">96.8</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">30.5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Number of species in SC</td><td align="left" rowspan="1" colspan="1">32</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">16</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Floral density (per m<sup>2</sup>)</bold>
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>R.&#x000a0;ferrugineum</italic>
+</td><td align="left" rowspan="1" colspan="1">27</td><td align="left" rowspan="1" colspan="1">107</td><td align="left" rowspan="1" colspan="1">2,788</td><td align="left" rowspan="1" colspan="1">2,273</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surrounding community</td><td align="left" rowspan="1" colspan="1">273</td><td align="left" rowspan="1" colspan="1">41</td><td align="left" rowspan="1" colspan="1">0.84</td><td align="left" rowspan="1" colspan="1">7</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Total</td><td align="left" rowspan="1" colspan="1">300</td><td align="left" rowspan="1" colspan="1">148</td><td align="left" rowspan="1" colspan="1">2,789</td><td align="left" rowspan="1" colspan="1">2,280</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Cover of dominant species (%)</bold>
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Anthyllis vulneraria</italic>
+</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Cardamine pratensis</italic>
+</td><td align="left" rowspan="1" colspan="1">2.6</td><td align="left" rowspan="1" colspan="1">15.7</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0.1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Chamaespartium sagittale</italic>
+</td><td align="left" rowspan="1" colspan="1">7.2</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Dactylorhiza sambucina</italic>
+</td><td align="left" rowspan="1" colspan="1">2.3</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Genista pilosa</italic>
+</td><td align="left" rowspan="1" colspan="1">2.3</td><td align="left" rowspan="1" colspan="1">4.2</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Hippocrepis comosa</italic>
+</td><td align="left" rowspan="1" colspan="1">3.9</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Lotus corniculatus</italic>
+</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">3.7</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0.1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Polygala calcarea</italic>
+</td><td align="left" rowspan="1" colspan="1">47.5</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Potentilla erecta</italic>
+</td><td align="left" rowspan="1" colspan="1">1.5</td><td align="left" rowspan="1" colspan="1">1.4</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Ranunculus acris</italic>
+</td><td align="left" rowspan="1" colspan="1">1.7</td><td align="left" rowspan="1" colspan="1">1.3</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Trifolium endressi</italic>
+</td><td align="left" rowspan="1" colspan="1">12.4</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot id="ece35531-ntgp-0002"><title>Note</title><fn id="ece35531-note-0003"><p>Only species with a cover of more than 1% in a given patch are listed.</p></fn><fn id="ece35531-note-0004"><p>Abbreviations: HDP1 and HDP1, patches with high floral density; LDP1 and LDP2, patches with low floral density; SC, the surrounding community.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec sec-type="materials-and-methods" id="ece35531-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35531-sec-0003"><label>2.1</label><title>Study site and data collection</title><p>We sampled plants and their visiting insects in four subalpine <italic>R.&#x000a0;ferrugineum</italic> heathland patches within a 3&#x02010;km<sup>2</sup> area in the French Central Pyrenees (southern France) near the village of Camurac (42&#x000b0;46&#x02032;31&#x02033;N 01&#x000b0;55&#x02032;45&#x02033;E; 1,660&#x000a0;m a.s.l.) during the shrub's blooming period (June 2012). Heathlands were spatially delimited in visually distinct patches (i.e., aggregations of <italic>R.&#x000a0;ferrugineum</italic> embedded in their associated flowering community; hereafter referred as &#x0201c;surrounding communities&#x0201d;) and separated from other patches by a meadow. <italic>R.&#x000a0;ferrugineum</italic> is an 0.7&#x02013;0.8&#x02010;m high evergreen shrub that grows as isolated individuals in vast subalpine meadows and in many other locations, covering hundreds of hectares (Pornon, Escaravage, Till&#x02010;Bottraud, &#x00026; Doche, <xref rid="ece35531-bib-0050" ref-type="ref">1997</xref>). It bears up to 3,000 red, weakly zygomorphic tubular flowers per m<sup>2</sup> (Pornon et al., <xref rid="ece35531-bib-0050" ref-type="ref">1997</xref>) that produce nectar (0.7&#x02013;1.4&#x000a0;&#x003bc;l; Escaravage, Pornon, Doche, &#x00026; Till&#x02010;Bottraud, <xref rid="ece35531-bib-0019" ref-type="ref">1997</xref>) with a high sugar concentration (mean 63.4&#x000b0; Brix in our study site; Delmas, Escaravage, &#x00026; Pornon, <xref rid="ece35531-bib-0014" ref-type="ref">2014</xref>). It is visited by many pollinators among which hymenoptera are the most typical (Delmas et al., <xref rid="ece35531-bib-0014" ref-type="ref">2014</xref>). The main characteristics of the vegetation in the patches are listed in Table <xref rid="ece35531-tbl-0002" ref-type="table">2</xref>. The four patches (low&#x02010;density patches, LDP1 and LDP2; high&#x02010;density patches, HDP1 and HDP2) had different floral densities (and different floral resources), mostly determined by <italic>R.&#x000a0;ferrugineum</italic> cover. The distance between the patches LDP1 and LDP2 was 800&#x000a0;m, 1,500&#x000a0;m between the patches HDP1 and HDP2 and varied between 1,250 and 1,750&#x000a0;m between LDP and HDP. Since the foraging distance of most pollinators (including large bumblebees) is usually shorter than 500&#x000a0;m (Gathmann &#x00026; Tscharntke, <xref rid="ece35531-bib-0023" ref-type="ref">2002</xref>; Zurbuchen et al., <xref rid="ece35531-bib-0068" ref-type="ref">2010</xref>), data obtained in the four patches can be considered independent.</p><table-wrap id="ece35531-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Network and food niche indices and their ecological significance</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="left" valign="top" rowspan="1" colspan="1">Ecological significance</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Network&#x02010;level indices</bold>
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Connectance (C)</td><td align="left" rowspan="1" colspan="1">The proportion of possible links actually realized in a network. C decreases with specialization and network size</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nestedness</td><td align="left" rowspan="1" colspan="1">Specialization asymmetry: the degree to which specialists (plants and insects) interact with generalists (plants and insects). High nestedness is generally considered to increase network robustness in the face of perturbations</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Interaction evenness (E)</td><td align="left" rowspan="1" colspan="1">Evenness of interaction frequencies between different pairs of species. The lower the evenness, the higher the specialization in the network</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<mml:math id="nlm-math-1"><mml:msubsup><mml:mi>H</mml:mi><mml:mn>2</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup></mml:math>
+</td><td align="left" rowspan="1" colspan="1">Degree of network specialization</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Kullback&#x02010;Leibler distance <italic>d</italic>&#x02032;</td><td align="left" rowspan="1" colspan="1">Degree of individual or species specialization in networks. The level of exclusiveness of an insect species (in species networks) or an individual (in individual networks) on rare plant species</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Food niche indices</bold>
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean linkage degree of individual (<italic>L<sub>i</sub></italic>) or species (<italic>L</italic>
+<sub>sp</sub>) pollinators</td><td align="left" rowspan="1" colspan="1">Mean diet breath of individual or species pollinators, respectively</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Species <italic>L</italic>
+<sub>sp (80%)</sub> or individual <italic>L<sub>i</sub></italic>
+<sub> (80%)</sub>
+</td><td align="left" rowspan="1" colspan="1">The degree to which species or individuals specialize in some species among all the plant species in their food niche</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Within (WIC)&#x02010; versus between&#x02010;individual component (BIC) of population food niche</td><td align="left" rowspan="1" colspan="1">Proportion of the total food niche width (TNW) of the population explained by intraindividual versus interindividual diet diversification</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Interindividual diet overlap (IO)</td><td align="left" rowspan="1" colspan="1">The extent to which individual insects share and potentially compete for the same plant resources</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Interspecies diet overlap (SPO)</td><td align="left" rowspan="1" colspan="1">The extent to which species share and potentially compete for the same plant resources</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Proportional niche similarity (PS<italic><sub>i</sub></italic>)</td><td align="left" rowspan="1" colspan="1">The extent to which conspecific individuals use the same resources as their population</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>
+<italic>Rhododendron ferrugineum</italic> floral density (mean no. flowers per m<sup>2</sup>) was estimated from the shrub cover and measured in a 400&#x000a0;m<sup>2</sup> plot randomly chosen in the center of the patch, and the number of flowers was counted in 0.25&#x000a0;&#x000d7;&#x000a0;0.25&#x000a0;m plots placed on 20 randomly chosen individuals (Delmas et al., <xref rid="ece35531-bib-0014" ref-type="ref">2014</xref>). In each patch, the floral density of each species in the surrounding community was estimated three times during the <italic>R.&#x000a0;ferrugineum's</italic> blooming period (early, mean, and late) in twenty 50&#x000a0;&#x000d7;&#x000a0;50&#x000a0;cm plots haphazardly chosen in the patches. Floral density was either the number of flowers or, for species bearing countless tiny flowers such as <italic>Asteraceae</italic>, <italic>Alchemilla</italic> sp. the number of inflorescences per m<sup>2</sup>.</p><p>In each patch, pollinators were captured twice a day (from 10:00 to 11:30&#x000a0;a.m. and from 2:00 to 3:30&#x000a0;p.m.) on two consecutive sunny days (i.e., a total of 6&#x000a0;hr per patch) in a 625&#x000a0;m<sup>2</sup> area (25&#x000a0;m&#x000a0;&#x000d7;&#x000a0;25&#x000a0;m) located in the center of each patch. This methodological decision was taken based on previous data obtained in the same site by Delmas et al. (<xref rid="ece35531-bib-0014" ref-type="ref">2014</xref>). Insects were captured along haphazard walks in the patch. Only insects in contact with fertile parts of the flower were captured, and clean new nets were used for each capture. Insects were placed in clean scintillation tubes and stored at 4&#x000b0;C in the field, then at &#x02212;20&#x000b0;C in the laboratory. The species of plant on which each insect was captured while foraging was recorded. Overall, 402 insects were captured and the pollen they carried was identified using DNA metabarcoding and markers adapted to possibly degraded DNA in pollenkitt, namely the chloroplastic marker P6 loop of <italic>trnL</italic> (UAA) intron and the nuclear <italic>ITS1</italic> marker. Pollen removal from insect bodies, DNA metabarcoding procedures, field and laboratory practices applied to prevent sample contamination, sequencing errors, and potential misidentifications are detailed in Pornon et al. (<xref rid="ece35531-bib-0048" ref-type="ref">2017</xref>) and Pornon et al. (<xref rid="ece35531-bib-0049" ref-type="ref">2016</xref>).</p></sec><sec id="ece35531-sec-0004"><label>2.2</label><title>Individual and species pollination matrices</title><p>For each patch, we completed individual pollinator&#x02013;plant species matrices (<italic>i</italic>&#x02010;sp M&#x000a0;=&#x000a0;[<italic>n<sub>ij</sub></italic>]<sub>I&#x000a0;&#x000d7;&#x000a0;P</sub>; I: insects, P: plants) with <italic>n<sub>ij</sub></italic> in each cell being the largest number of either <italic>trnL</italic> or <italic>ITS1</italic> sequences (<italic>i</italic>&#x02010;sp M<sub>seq</sub>) or the presence/absence (1; 0 otherwise) of sequences (<italic>i</italic>&#x02010;sp M<sub>link</sub>) of the plant species <italic>j</italic> yielded from the pollen load of the individual insect <italic>i</italic>.</p><p>Thus, <italic>i</italic>&#x02010;sp M<sub>link</sub> recorded only the presence&#x02013;absence of individual pollinator&#x02013;plant links, whereas for each link, <italic>i</italic>&#x02010;sp M<sub>seq</sub> recorded the number of sequences as a surrogate for the number of pollen grains carried by the pollinator and thus providing a rough estimate of the strength of the link. The rationale behind the choice of considering the largest number of either <italic>trnL</italic> or <italic>ITS1</italic> sequences was to keep in matrices the results of the marker whose amplification was the most successful, in aim to prevent the underrepresentation of some species. Indeed, it is often observed during PCR that a species may be properly amplified by one marker but not by another one (Pornon et al., <xref rid="ece35531-bib-0049" ref-type="ref">2016</xref>). For both <italic>i</italic>&#x02010;sp M<sub>seq</sub> and <italic>i</italic>&#x02010;sp M<sub>link</sub>, we took a count of more than 1,000 sequences (i.e., <italic>n<sub>ij</sub></italic>&#x000a0;&#x0003e;&#x000a0;1,000 seq.) from a given plant species as a proof of a link with the aim of removing, as far as possible, contaminations that could for instance have occurred due to airborne pollen or nonpollen plant tissues deposited on insect bodies. Therefore, all values lower than or equal to 1,000 sequences were set to zero in <italic>i</italic>&#x02010;sp M<sub>seq</sub> and <italic>i</italic>&#x02010;sp M<sub>link</sub>, and the networks. The rationale behind the choice of a 1,000 sequence threshold was that, since insects move, rest and nest (e.g., <italic>Bombus</italic> sp.) in the grassland matrices and as wind&#x02010;pollinated plants usually produce far more abundant airborne pollen than insect&#x02010;pollinated plants, grasses should represent a level of widespread background contamination that insect&#x02010;pollinated plants would barely, if ever, reach. In a previous study (Pornon et al., <xref rid="ece35531-bib-0048" ref-type="ref">2017</xref>), we observed that the 1,000 sequence threshold allowed the removal of more than 95% of grass sequences, and under all hypotheses, also removed all potential contamination originating from insect&#x02010;pollinated plants. From <italic>i</italic>&#x02010;sp M<sub>seq</sub> and <italic>i</italic>&#x02010;sp M<sub>link</sub>, we analyzed the following: (a) individual and species pollination networks and (b) individual and species food niches.</p></sec><sec id="ece35531-sec-0005"><label>2.3</label><title>Network&#x02010;level analysis</title><p>For each patch, we built (a) individual pollinator&#x02013;plant species networks (<italic>i</italic>&#x02010;sp N) by extracting submatrices (one per insect species for every species represented by at least two individuals) from <italic>i</italic>&#x02010;sp M<sub>link</sub> (<italic>i</italic>&#x02010;sp N<sub>link</sub>) or <italic>i</italic>&#x02010;sp M<sub>seq</sub> (<italic>i</italic>&#x02010;sp N<sub>seq</sub>); (b) bipartite pollinator species&#x02013;plant species networks (sp&#x02010;sp N) by summing either the links (sp&#x02010;sp N<sub>link</sub>) in <italic>i</italic>&#x02010;sp M<sub>link</sub> or the number of sequences (sp&#x02010;sp N<sub>seq</sub>) in <italic>i</italic>&#x02010;sp M<sub>seq</sub> of all individuals of the same insect species. Using the R &#x0201c;bipartite&#x0201d; package (R Core Team, <xref rid="ece35531-bib-0051" ref-type="ref">2013</xref>; version 1.17; Dormann, Fr&#x000fc;nd, Bl&#x000fc;thgen, &#x00026; Gruber, <xref rid="ece35531-bib-0016" ref-type="ref">2009</xref>), for the sp&#x02010;sp N and <italic>i</italic>&#x02010;sp N of each patch, we calculated (a) connectance, (b) nestedness (100&#x02212;<italic>T</italic>)/100, with <italic>T</italic>&#x000a0;=&#x000a0;temperature; ranging from 0 (chaos) to 1 (perfect nestedness), (c) interaction evenness (<italic>E</italic>; based on Shannon's index which is a measure of the skewness in the distribution of interaction frequencies), (d) the degree of network specialization (<mml:math id="nlm-math-2"><mml:msubsup><mml:mi>H</mml:mi><mml:mn>2</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup></mml:math>), and (e) the degree of species (sp&#x02010;sp N) or individual (<italic>i</italic>&#x02010;sp N) pollinator specialization through the standardized Kullback&#x02010;Leibler distance <italic>d</italic>&#x02032; (V&#x000e1;zquez, Bl&#x000fc;thgen, Cagnolo, &#x00026; Chacoff, <xref rid="ece35531-bib-0066" ref-type="ref">2009</xref>) and <italic>d'</italic> for plant species. <mml:math id="nlm-math-3"><mml:msubsup><mml:mi>H</mml:mi><mml:mn>2</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup></mml:math>, <italic>d</italic>&#x02032; and <italic>E</italic> range from 0 to 1 a value of 1 indicating perfect specialization (<mml:math id="nlm-math-4"><mml:msubsup><mml:mi>H</mml:mi><mml:mn>2</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup></mml:math>, <italic>d'</italic>) and perfect frequency evenness (<italic>E</italic>). The ecological relevance of these parameters is explained in Table <xref rid="ece35531-tbl-0002" ref-type="table">2</xref>, and their underlying statistics and mathematics are detailed in Appendix <xref rid="ece35531-sup-0005" ref-type="supplementary-material">S1</xref> and in Bl&#x000fc;thgen, Fr&#x000fc;nd, V&#x000e1;zquez, and Menzel, (<xref rid="ece35531-bib-0005" ref-type="ref">2008</xref>). In order to determine whether the network structure differed beyond what would be expected due to random effects, 1,000 null networks (Dormann et al., <xref rid="ece35531-bib-0016" ref-type="ref">2009</xref>) were generated using Patefield's algorithm implemented in the nullmodel function or, for <italic>i</italic>&#x02010;sp N<sub>link</sub> specifically, the <italic>mgen</italic> function (with the options rep.cell set to false and autotransform set to equiprobable) of the bipartite package (Dormann, Gruber, &#x00026; Fr&#x000fc;nd, <xref rid="ece35531-bib-0017" ref-type="ref">2008</xref>). Null networks were constructed through random sampling of our empirical matrices constraining the marginal totals. Thus, the relative frequencies of species in empirical matrices were conserved in null matrices. However, with the <italic>mgen</italic> function interaction assignment in the null network still depended on marginal probabilities but the binary nature of the original <italic>i</italic>&#x02010;sp N<sub>link</sub> matrices was kept. All the above&#x02010;mentioned indices were assessed for the 1,000 null networks, and the mean and 95% confidence intervals were calculated.</p></sec><sec id="ece35531-sec-0006"><label>2.4</label><title>Food niche analysis</title><p>We calculated the mean linkage degree of individual (<italic>L<sub>i</sub></italic>) and species (<italic>L</italic>
+<sub>sp</sub>) pollinators, that is, the mean number of plant species with which an individual insect or a species interacts. To assess whether and to what extent individual or species pollinators preferred some plant species over others, we calculated the minimum number of plant species (and therefore links) needed to account for 80% of the sequence reads for a given individual, hereafter noted <italic>L<sub>i </sub></italic>
+<sub>(80%)</sub> or species, hereafter <italic>L</italic>
+<sub>sp (80%)</sub>. The greater the difference between <italic>L</italic>
+<sub>sp (80%)</sub> and <italic>L</italic>
+<sub>sp</sub> and between <italic>L<sub>i</sub></italic>
+<sub> (80%)</sub> and <italic>L<sub>i</sub></italic>, the smaller the number of plant species preferred by species and individuals, respectively (higher specialization). The specific attractiveness of <italic>R.&#x000a0;ferrugineum</italic> was evaluated through the proportion of individual insects carrying its sequences.</p><p>Following Bolnick, Yang, Fordyce, Davis, and Svanb&#x000e4;ck (<xref rid="ece35531-bib-0007" ref-type="ref">2002</xref>), we estimated the within&#x02010;individual component (WIC is the variation in pollen types used by an individual) and the between&#x02010;individual component (BIC: variation in pollen types used among individuals) of the total niche width (TNW) of the population (with TNW&#x000a0;=&#x000a0;WIC&#x000a0;+&#x000a0;BIC). The relative individual specialization (WIC/TNW) tends to 1 when each individual (generalist) uses the full range of pollen types used by the population and tends to 0 when each individual (specialist) uses a small subset of the population resources. We estimated individual and species niche segregation by calculating the interindividual (IO) and species (SPO) food niche overlap, that is, the proportion of overlap in pollen use either among conspecific individuals or among the species of the pollinator community. Finally, we calculated the proportional niche similarity between individuals and their populations (PS<italic><sub>i</sub></italic>). The indices ranged from 0 (total segregation) to 1 (total overlap). The ecological significance of these indices is summarized in Table <xref rid="ece35531-tbl-0002" ref-type="table">2</xref>, and their mathematical bases are detailed in Appendix <xref rid="ece35531-sup-0005" ref-type="supplementary-material">S1</xref>. The proportion of individuals carrying <italic>R.&#x000a0;ferrugineum</italic> pollen, <italic>L<sub>i</sub></italic>, <italic>L</italic>
+<sub>sp</sub>, SPO, and IO, were obtained from binary data (M<sub>link</sub>), whereas <italic>L</italic>
+<sub>sp (80%)</sub>, <italic>L<sub>i </sub></italic>
+<sub>(80%)</sub>, BIC, WIC, TNW, and PS<italic><sub>i</sub></italic> were based on sequence counts (M<sub>seq</sub>).</p></sec><sec id="ece35531-sec-0007"><label>2.5</label><title>Effects of resource density on food niches and networks</title><p>We analyzed the effects of <italic>R.&#x000a0;ferrugineum</italic> floral density, taxonomic insect families, and their interactions on network and on food niche indices using mixed linear models fitted with the HLfit function of the spaMM package (Rousset &#x00026; Ferdy, <xref rid="ece35531-bib-0054" ref-type="ref">2014</xref>) and the prior.weights option that accounts for the different sizes of samples. We examined individual indices at family (<italic>Apidae</italic>, <italic>Empididae</italic>, and <italic>Syrphidae</italic>) instead of at species level since some species had either too few individuals or were present in only one patch. To control for spatial autocorrelations, a random patch effect was added to the models. Residuals normality was always checked, and Box&#x02013;Cox (Box &#x00026; Cox, <xref rid="ece35531-bib-0008" ref-type="ref">1964</xref>) power transformation was applied if required. For the proportion of individuals carrying <italic>R.&#x000a0;ferrugineum</italic> sequences, a binomial error was applied.</p></sec></sec><sec sec-type="results" id="ece35531-sec-0008"><label>3</label><title>RESULTS</title><sec id="ece35531-sec-0009"><label>3.1</label><title>Characteristics of the interacting communities</title><p>We captured, respectively, 97 and 123 insects in the low&#x02010;density LDP1 and LDP2 patches and, respectively, 82 and 100 in the high&#x02010;density HDP1 and HDP2 patches, belonging to, respectively, 29, 25, 25, and 29 species (Table <xref rid="ece35531-sup-0003" ref-type="supplementary-material">S1</xref>) among which <italic>Apis mellifera</italic>, <italic>Bombus lucorum</italic>, <italic>B.&#x000a0;wurflenii</italic>, <italic>Empis leptempis pandellei</italic>, <italic>E.&#x000a0;l.&#x000a0;tessellata</italic>, <italic>Sphaerophoria batava</italic>, and <italic>Volucella bombylans</italic> were the most abundant (53% of sampled insects). Thus, although there were almost 20 times fewer floral resources in the low&#x02010;density LDP2 patch than in the high&#x02010;density HDP1 and HDP2 patches (Table <xref rid="ece35531-tbl-0001" ref-type="table">1</xref>), more insects were captured in the low&#x02010;density LDP2 patch. We identified, respectively, 39 and 54 plant species in the insect pollen loads in the low&#x02010;density LDP1 and LDP2 patches and 61 plant species in high&#x02010;density HDP1 and HDP2 patches corresponding to 1.2, 4.9, 5.1, and 3.8 times the number of plant species surveyed in the 625 m<sup>2</sup> plots. Therefore, pollinators foraged far beyond the area in which they were observed foraging.</p><p>
+<italic>Rhododendron ferrugineum</italic> accounted for only 4.6%, 10.8%, 9.6%, and 7.9% of insect links in sp&#x02010;sp N<sub>link</sub> and 3%, 20.6%, 30%, and 15.5% in sp&#x02010;sp N<sub>seq,</sub> in the low&#x02010;density LDP1 and LDP2 patches and in the high&#x02010;density HDP1 and HDP2 patches, respectively. However, 27.8% and 43.9% of insects were captured when foraging on the shrub in the low&#x02010;density LDP1 and LDP2 patches and 41.6% and 41.9% in the high&#x02010;density HDP1 and HDP2 patches, respectively. Thus, as previously demonstrated (Pornon et al., <xref rid="ece35531-bib-0048" ref-type="ref">2017</xref>) metabarcoding unveiled many links that existed both outside the study plots and before the capture, which therefore could not be observed during the visit surveys. Despite being visited by a broad array of insect species (sp&#x02010;sp N<sub>link</sub>), <italic>R.&#x000a0;ferrugineum</italic> was abundant only in the pollen loads of <italic>Apis mellifera</italic>, <italic>Bombus lucorum</italic>, and <italic>B.&#x000a0;pratorum</italic> (Figure <xref rid="ece35531-sup-0001" ref-type="supplementary-material">S1</xref>). Most individuals of some species (<italic>Volucella bombylans</italic>, <italic>Empis leptempis pandellei</italic>, <italic>Bombus wurflenii</italic>; Figures <xref rid="ece35531-sup-0001" ref-type="supplementary-material">S1</xref> and <xref rid="ece35531-sup-0002" ref-type="supplementary-material">S2</xref>) carried small quantities of <italic>R.&#x000a0;ferrugineum</italic> pollen (as inferred from the DNA sequence number), whereas several species generally carried no pollen from the shrub (Figure <xref rid="ece35531-sup-0002" ref-type="supplementary-material">S2</xref>), apart from rare individuals (<italic>S.&#x000a0;batava</italic>, <italic>S.&#x000a0;scripta</italic>, <italic>E.&#x000a0;e.&#x000a0;tessellata</italic>) carrying a minute quantity. In surrounding communities, social bees mainly visited plants with yellow zygomorphic flowers (<italic>Cytisus scoparius</italic>, <italic>Lotus corniculatus</italic>, <italic>Genista pilosa</italic>, <italic>Hyppocrepis comosa</italic>) and Diptera and solitary bees mainly visited plants with actinomorphic flowers (<italic>Conopodium majus</italic>, <italic>Cardamine pratensis</italic>, <italic>Ranunculus polyanthemoides</italic>, <italic>Potentilla erecta</italic>). <italic>Geranium sylvaticum</italic>, <italic>Thalictrum aquilegiifolium</italic>, <italic>Bistorta officinalis</italic>, and <italic>Trollius europaeus</italic> were only surveyed in high&#x02010;density patches and, accordingly, were only found in insect pollen loads in these patches. The total absence of <italic>Polygala calcarea</italic> in insect pollen loads of low&#x02010;density LDP1 is worth noting, even though this species accounted for half the total floral density.</p></sec><sec id="ece35531-sec-0010"><label>3.2</label><title>Structure of species networks</title><p>Because of their large size, species networks (sp&#x02010;sp N<sub>link</sub> and sp&#x02010;sp N<sub>seq</sub>) had low connectance (ranging from 0.12 to 0.17) and high nestedness (0.83&#x02013;0.88). Species networks based on link occurrence (sp&#x02010;sp N<sub>link</sub>) were highly generalized (Table <xref rid="ece35531-sup-0003" ref-type="supplementary-material">[Link]</xref>, <xref rid="ece35531-sup-0004" ref-type="supplementary-material">[Link]</xref>), both globally (<mml:math id="nlm-math-5"><mml:msubsup><mml:mi>H</mml:mi><mml:mn>2</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup></mml:math>&#x000a0;&#x02264;&#x000a0;0.23) and at the species level (<italic>d</italic>&#x02032; insects and <italic>d</italic>&#x02032; plants generally &#x02264;0.31) with relatively high interaction evenness (0.67&#x02013;0.72). However, species networks based on sequence read counts (sp&#x02010;sp N<sub>seq</sub>) were 2.5 (low&#x02010;density LDP2 patch) to 3.5 (high&#x02010;density HDP2) times more specialized (<mml:math id="nlm-math-6"><mml:msubsup><mml:mi>H</mml:mi><mml:mn>2</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup></mml:math>) than sp&#x02010;sp N<sub>link</sub>, as were insect species (<italic>d'</italic> insects: 1.7&#x02013;2.3 times higher) and plant species (<italic>d'</italic> plants: 1.6&#x02013;2 times higher) species. Consequently, interaction evenness was lower in sp&#x02010;sp N<sub>seq</sub> (0.42&#x02013;0.49) than in sp&#x02010;sp N<sub>link</sub> (0.67&#x02013;0.72; Table <xref rid="ece35531-sup-0004" ref-type="supplementary-material">S2</xref>).</p></sec><sec id="ece35531-sec-0011"><label>3.3</label><title>Structure of individual networks</title><p>Due to their far smaller size, individual networks (<italic>i</italic>&#x02010;sp N<sub>link</sub>, <italic>i</italic>&#x02010;sp N<sub>seq</sub>) had higher connectance (0.2&#x02013;0.87) than species networks. <italic>I</italic>&#x02010;sp N<sub>link</sub> were generalized (<italic>d'</italic> insects: 0&#x02013;0.38; <italic>d'</italic> plants: 0&#x02013;0.17; evenness: 0.68&#x02013;0.93) and <italic>i</italic>&#x02010;sp N<sub>seq</sub> comparatively more specialized (<mml:math id="nlm-math-7"><mml:msubsup><mml:mi>H</mml:mi><mml:mn>2</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup></mml:math>: generally &#x0003e;0.5; <italic>d'</italic> insects: 0.015&#x02013;0.70; <italic>d'</italic> plants: 0.007&#x02013;0.56; evenness: 0.19&#x02013;0.62).</p><p>Linear models showed that <italic>i</italic>&#x02010;sp N<sub>seq</sub> of <italic>Empididae</italic> were more generalized (lower <mml:math id="nlm-math-8"><mml:msubsup><mml:mi>H</mml:mi><mml:mn>2</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup></mml:math>; <italic>p</italic>&#x000a0;=&#x000a0;.0251) and individual in <italic>Syrphidae</italic>'s <italic>i</italic>&#x02010;sp N<sub>seq</sub> more specialized (higher <italic>d'</italic>, <italic>p</italic>&#x000a0;=&#x000a0;.0063) than those of other families. Nestedness of <italic>i</italic>&#x02010;sp N<sub>seq</sub> decreased as follows: <italic>Syrphidae</italic>&#x000a0;&#x0003e;&#x000a0;<italic>Empididae&#x000a0;</italic>&#x0003e;&#x000a0;<italic>Apidae</italic> (<italic>p</italic>&#x000a0;=&#x000a0;.0373).</p></sec><sec id="ece35531-sec-0012"><label>3.4</label><title>Characteristics of individual and species food niches</title><p>Pollinator species had large food niches, with mean species linkage degree (<italic>L</italic>
+<sub>sp</sub>) ranging from 3 to 35 (Table <xref rid="ece35531-sup-0004" ref-type="supplementary-material">S2</xref>), but very low mean niche overlap (SPO&#x000a0;=&#x000a0;14%&#x000a0;&#x000b1;&#x000a0;0.012). Furthermore, they had a highly uneven diet with preferential use of a small number of plant species (<italic>L</italic>
+<sub>sp (80%)</sub>: 1&#x02013;7 species; Figure <xref rid="ece35531-fig-0001" ref-type="fig">1</xref>). Individual pollinators were also relatively generalized (<italic>L<sub>i</sub></italic>: 1.25&#x02013;7.6), although to a lesser extent than the species. They had very few preferred plant species (<italic>L<sub>i </sub></italic>
+<sub>(80%)</sub>:1&#x02013;3.2) and very low diet overlap (IO&#x000a0;=&#x000a0;13%&#x000a0;&#x000b1;&#x000a0;0.025). On average, within&#x02010;individual variation in pollen type use accounted for 53% of the total species niches (WIC/TNW&#x000a0;=&#x000a0;0.53&#x000a0;&#x000b1;&#x000a0;0.031 SE; TNW&#x000a0;=&#x000a0;1.3&#x000a0;&#x000b1;&#x000a0;0.10; WIC&#x000a0;=&#x000a0;0.68&#x000a0;&#x000b1;&#x000a0;0.058). The proportional niche similarity between individuals and their populations was relatively low (PS<italic><sub>i</sub></italic>&#x000a0;=&#x000a0;0.49&#x000a0;&#x000b1;&#x000a0;0.016). In summary, these results revealed that, despite visiting a relatively broad range of plant species and thus having large diet breadth (and can thus be considered as generalists), each species, or even more strikingly each individual, was strongly specialized on a few and specific floral resources, most of which differed from those used by other species or conspecifics.</p><fig fig-type="Figure" xml:lang="en" id="ece35531-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Change in linkage degrees from community to individual pollinators. <italic>L</italic>
+<sub>sp</sub> and <italic>L<sub>i</sub></italic>: species and individual linkage degrees; <italic>L</italic>
+<sub>sp (80%)</sub> and <italic>L<sub>i </sub></italic>
+<sub>(80%)</sub>: minimum number of links required to gather 80% of the pollen load of a pollinator species and of each individual, respectively. Box&#x02010;and&#x02010;whisker plots represent values for all combinations of patches&#x000a0;&#x000d7;&#x000a0;species</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-13650-g001"/></fig><p>Within this general trend, linear models highlighted differences between taxa with respect to (a) individual (<italic>L<sub>i</sub></italic>, <italic>p</italic>&#x000a0;=&#x000a0;.0003; Figure <xref rid="ece35531-fig-0001" ref-type="fig">1</xref>) and species (<italic>L</italic>
+<sub>sp</sub>, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0038) diet breath, (b) the number of plant species preferentially foraged by individuals (<italic>L<sub>i </sub></italic>
+<sub>(80%)</sub>: <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001) or species (<italic>L</italic>
+<sub>sp (80%)</sub>
+<italic>p</italic>&#x000a0;=&#x000a0;.0142), (c) the indices of within&#x02010;individual variation in pollen type use (WIC; <italic>p</italic>&#x000a0;=&#x000a0;.0067), of total niche width (TNW, <italic>p</italic>&#x000a0;=&#x000a0;.0027; Figure <xref rid="ece35531-fig-0002" ref-type="fig">2</xref>) and of the WIC/TNW ratio (<italic>p</italic>&#x000a0;=&#x000a0;.0345), and (d) species niche overlap (SPO; <italic>p</italic>&#x000a0;=&#x000a0;.0086; Figure <xref rid="ece35531-fig-0002" ref-type="fig">2</xref>). <italic>Empididae</italic> and <italic>Apidae</italic> were the two taxa mostly responsible for these differences, the former being the most generalist and the latter the most specialist of the pollinator assemblage often at both individual and species levels. Thus, relative to other taxa, <italic>Empididae</italic> had higher <italic>L<sub>i</sub></italic>, <italic>L</italic>
+<sub>sp</sub>, TNW, WIC, and SPO. In contrast, <italic>Apidae</italic> had lower <italic>L</italic>
+<sub>sp (80%)</sub>, <italic>L<sub>i </sub></italic>
+<sub>(80%)</sub>, TNW, WIC, and WIC/TNW ratio than the other taxa.</p><fig fig-type="Figure" xml:lang="en" id="ece35531-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Variation in food niche breadth among pollinator families. SPO, species food niche overlap; TNW, total niche width; WIC, within&#x02010;individual component of niche breadth</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-13650-g002"/></fig></sec><sec id="ece35531-sec-0013"><label>3.5</label><title>Impact of the mass&#x02010;flowering plant on food niches and networks</title><p>We observed overall higher specialization of pollinators in low&#x02010;density patches than in high&#x02010;density patches. Indeed, individual (<italic>L<sub>i</sub></italic>, <italic>p</italic>&#x000a0;=&#x000a0;.0086) and species (<italic>L</italic>
+<sub>sp</sub>, <italic>p</italic>&#x000a0;=&#x000a0;.0186; Figure <xref rid="ece35531-fig-0003" ref-type="fig">3</xref>) diet breath, the number of plant species with which individual insects preferentially interacted (<italic>L<sub>i </sub></italic>
+<sub>(80%)</sub>; <italic>p</italic>&#x000a0;=&#x000a0;.0356; Figure <xref rid="ece35531-fig-0003" ref-type="fig">3</xref>), and species niche overlap (SPO, <italic>p</italic>&#x000a0;=&#x000a0;.0082) tended to decrease with decreasing <italic>R.&#x000a0;ferrugineum</italic> density. The same tendency was observed for the proportion of insects carrying <italic>R.&#x000a0;ferrugineum</italic> pollen (<italic>p</italic>&#x000a0;=&#x000a0;.0145).</p><fig fig-type="Figure" xml:lang="en" id="ece35531-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Effects (mixed linear model) of <italic>Rhododendron ferrugineum</italic> floral density on species and individual food niches and networks. Black lines show the independent effects of floral density, and the colored lines show family&#x02010;floral density interaction effects. The size of the symbols is proportional to the size of the sample</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-13650-g003"/></fig><p>However, we also detected taxa&#x02010;floral density interactions, that is, higher niche individual&#x02010;population niche similarity (PS<italic><sub>i</sub></italic>) in low&#x02010;density patches for <italic>Apidae</italic>, whereas the opposite was observed for <italic>Empididae</italic> (interaction between patch density and insect family, <italic>p</italic>&#x000a0;=&#x000a0;.0198; Figure <xref rid="ece35531-fig-0003" ref-type="fig">3</xref>). Consistently, the <italic>d'</italic> of <italic>Apidae</italic> individuals tended to decrease and the <italic>d'</italic> of <italic>Empididae</italic> individuals tended to increase in low&#x02010;density networks compared to those in high&#x02010;density networks (interaction between patch density and insect family, <italic>p</italic>&#x000a0;=&#x000a0;.0473; Figure <xref rid="ece35531-fig-0003" ref-type="fig">3</xref>). Therefore, <italic>Empididae</italic> individuals tended to extend exclusive interactions with rare plant species in low&#x02010;density networks, whereas individuals <italic>Apidae</italic> did the same in high&#x02010;density networks.</p></sec></sec><sec sec-type="discussion" id="ece35531-sec-0014"><label>4</label><title>DISCUSSION</title><p>In this study, we investigated the impact of the native mass&#x02010;flowering <italic>R.&#x000a0;ferrugineum</italic> on individual and species networks and on the food niches of the most abundant pollinators by identifying and quantifying insect pollen loads by metabarcoding. We predicted that individual insects and insect species as a whole would mainly forage on <italic>R.&#x000a0;ferrugineum</italic> in high&#x02010;density patches (Dauber et al., <xref rid="ece35531-bib-0011" ref-type="ref">2010</xref>; Ghazoul, <xref rid="ece35531-bib-0024" ref-type="ref">2005</xref>; H1) and would be either more generalized (Fontaine et al., <xref rid="ece35531-bib-0020" ref-type="ref">2008</xref>; Kunin &#x00026; Iwasa, <xref rid="ece35531-bib-0036" ref-type="ref">1996</xref>; H2) or more specialized (Bolnick et al., <xref rid="ece35531-bib-0006" ref-type="ref">2003</xref>; Svanb&#x000e4;ck &#x00026; Bolnick, <xref rid="ece35531-bib-0058" ref-type="ref">2007</xref>; H3) in response to competition for limited resources in low&#x02010;density patches. Our results failed to confirm either H1 or H2, whereas, in agreement with H3, pollinators were clearly more specialized in low&#x02010;density patches than in high&#x02010;density ones.</p><sec id="ece35531-sec-0015"><label>4.1</label><title>The absence of insect specialization on the mass&#x02010;flowering plant</title><p>There are several possible nonexclusive explanations for the absence of pollinator specialization or constancy on <italic>R.&#x000a0;ferrugineum</italic> in high&#x02010;density patches: First, based on the proportion of insects captured while visiting <italic>R.&#x000a0;ferrugineum</italic> (41.8% in HDP compared to 8.5% of links inferred from metabarcoding), one could have concluded that pollinator specialization was greater. Thus, specialization was lower than expected under H1 simply because metabarcoding revealed many links that occurred both outside the study plots and before our sampling period (Pornon et al., <xref rid="ece35531-bib-0048" ref-type="ref">2017</xref>). Second, pollinators, in particular colonial species, require diverse resources and often high&#x02010;quality pollen (Somme et al., <xref rid="ece35531-bib-0056" ref-type="ref">2015</xref>) for individual and/or population development (Girard et al., <xref rid="ece35531-bib-0026" ref-type="ref">2012</xref>; Tasei &#x00026; Aupinel, <xref rid="ece35531-bib-0059" ref-type="ref">2008</xref>). The possible poor quality of <italic>R.&#x000a0;ferrugineum</italic> pollen or nectar as demonstrated in other ericaceous species (low polypeptide and total amino acid contents, Vanderplanck et al., <xref rid="ece35531-bib-0065" ref-type="ref">2014</xref>; toxic substances in nectar, Carey, Lewis, MacGregor, &#x00026; Martin&#x02010;Smith, <xref rid="ece35531-bib-0009" ref-type="ref">1959</xref>) and the scarcity of available alternative resources could explain why insects mostly foraged outside high&#x02010;density patches. Third, some pollinators (<italic>Sphaerophoria batava</italic>,<italic>S.&#x000a0;scripta</italic>, <italic>Empis euempis tessellata</italic>) carried no or very little <italic>R.&#x000a0;ferrugineum</italic> pollen (<italic>Volucella bombylans</italic>, <italic>Empis leptempis pandellei</italic>, <italic>Bombus wurflenii</italic>) and appeared to reluctantly forage on the shrub which was consequently very underrepresented in networks compared to its abundance in communities. Even the main visitors, <italic>Apis mellifera</italic> and <italic>Bombus lucorum</italic>, were far from only visiting <italic>R.&#x000a0;ferrugineum</italic>, but visited even more species in high&#x02010;density patches than in low density ones. These results are consistent with previous findings showing (a) that Diptera usually prefer simpler shaped actinomorphic flowers with exposed rewards (Pornon et al., <xref rid="ece35531-bib-0049" ref-type="ref">2016</xref>; Stanley &#x00026; Stout, <xref rid="ece35531-bib-0057" ref-type="ref">2014</xref>) whereas there could be a trait mismatch between the tubular weakly zygomorphic <italic>R.&#x000a0;ferrugineum</italic> corolla and the fly's buccal apparatus, (b) a decrease in pollinator density (mostly Diptera) on <italic>R.&#x000a0;ferrugineum</italic> and an increase in the surrounding community with an increase in shrub density (Delmas et al., <xref rid="ece35531-bib-0014" ref-type="ref">2014</xref>). Our results highlight the fact that a native mass&#x02010;flowering plant may play a less central role and be less dominant in networks than crops or supergeneralist alien plants (Lopezaraiza&#x02010;Mikel et al., <xref rid="ece35531-bib-0038" ref-type="ref">2007</xref>; Magrach et al., <xref rid="ece35531-bib-0041" ref-type="ref">2017</xref>; Stanley &#x00026; Stout, <xref rid="ece35531-bib-0057" ref-type="ref">2014</xref>; Tiedeken &#x00026; Stout, <xref rid="ece35531-bib-0061" ref-type="ref">2015</xref>; Vil&#x000e0; et al., <xref rid="ece35531-bib-0067" ref-type="ref">2011</xref>). However, more studies are required to assess the extent to which our findings can be generalized to other mass&#x02010;flowering species. Long&#x02010;term evolutionary and filtering mechanisms assembling complementary plant species and/or species developing positive interactions (Ghazoul, <xref rid="ece35531-bib-0025" ref-type="ref">2006</xref>) could have prevented the mass&#x02010;flowering plant from monopolizing pollinators at the expense of coflowering species. Indeed, pollinator monopolization could be detrimental to the survival of coflowering plant populations and, over time, to the survival of the mass&#x02010;flowering plant itself, as a single species would not be able to support a diversified, abundant, and functional pollinator community on its own.</p></sec><sec id="ece35531-sec-0016"><label>4.2</label><title>The increase in insect specialization in low&#x02010;density patches</title><p>Individual and species pollinators generally tended to reduce generally their niche breadth and have higher species diet segregation in response to the reduced floral displays (Bolnick et al., <xref rid="ece35531-bib-0006" ref-type="ref">2003</xref>). In response to the decrease in local resource availability, individual <italic>Empididae</italic> tended to extend exclusive interactions to rare plant species (higher <italic>d'</italic> insect) that differed from those used by their conspecifics (lower PS<italic><sub>i</sub></italic>), a shift likely favored by their low individual food needs. On the contrary, probably because rare plants did not provide sufficient resources for colony needs, individual <italic>Apidae</italic> tended to forage the same (higher PS<italic><sub>i</sub></italic>) relatively abundant species (lower <italic>d'</italic> insect) in low&#x02010;density patches. In high&#x02010;density patches, in addition to the mass&#x02010;flowering plant, individuals were able to use a wide range of rare plants (higher <italic>d'</italic> and lower PS<italic><sub>i</sub></italic>). The functional consequences of such shifts are potentially important because they suggest that rare plant species will always be visited and will sustainably coexist with widespread mass&#x02010;flowering plants. Spatiotemporal niche complementarity of pollinators is believed to be one of the main drivers of the relationship between insect diversity and pollination efficiency (Albrecht, Schmid, Hautier, &#x00026; M&#x000fc;ller, <xref rid="ece35531-bib-0001" ref-type="ref">2012</xref>; Fontaine et al., <xref rid="ece35531-bib-0020" ref-type="ref">2008</xref>). Taxonomic differences in response to floral changes may also reinforce this relationship and hence contribute to network resilience in the face of environmental changes. Although we were unable to provide direct evidence for competition, its involvement in the observed pattern is highly probable. Indeed, the decrease in pollinator abundance from high&#x02010;density to low&#x02010;density patches was much lower than that of floral availability. Consequently, at the same site, Delmas et al. (<xref rid="ece35531-bib-0014" ref-type="ref">2014</xref>) found an increase in pollinator density on isolated <italic>R.&#x000a0;ferrugineum</italic> shrubs and smaller insect pollen loads, suggesting stronger competition for pollen and possibly for nectar rewards. Furthermore, the fact that <italic>Polygala calcarea</italic> was not visited and therefore could not compensate for the decrease in the mass&#x02010;flowering plant likely increased the exploitative competition in the low&#x02010;density patch LDP1. The lower degree of linkage and the higher dietary segregation of insect species in low&#x02010;density patches are consistent with the widely shared view that coexisting species diverge in resource use to mitigate the consequences of interspecific competition (Ara&#x000fa;jo et al., <xref rid="ece35531-bib-0002" ref-type="ref">2011</xref>; Inouye, <xref rid="ece35531-bib-0028" ref-type="ref">1978</xref>; Van Valen, <xref rid="ece35531-bib-0064" ref-type="ref">1965</xref>). Therefore, the observed pattern could represent the net ultimate balance between the diversifying effect (individual specialization in various plant species) of intraspecific competition and the constraints in interspecific competition on species generalization (Bolnick et al., <xref rid="ece35531-bib-0006" ref-type="ref">2003</xref>; Roughgarden, <xref rid="ece35531-bib-0053" ref-type="ref">1972</xref>).</p></sec><sec id="ece35531-sec-0017"><label>4.3</label><title>Paradox and complementarity in pollination networks</title><p>The different approaches we used in this study reveal a quite paradoxical view of pollination and a functional complementarity into networks. On the one hand, consistent with previous findings (Banza, Belo, &#x00026; Evans, <xref rid="ece35531-bib-0003" ref-type="ref">2015</xref>; Lucas et al., <xref rid="ece35531-bib-0039" ref-type="ref">2018</xref>; Tur, Vigalondo, Tr&#x000f8;jelsgarrd, Olensen, &#x00026; Traveset, <xref rid="ece35531-bib-0062" ref-type="ref">2014</xref>) our observations based on surveys of the occurrence of links revealed that individuals and particularly species of pollinators had large food niches (high <italic>L<sub>i</sub></italic> and <italic>L</italic>
+<sub>sp</sub>); that is, they interacted with many plant species. Individual (<italic>i</italic>&#x02010;sp N<sub>link</sub>) and species (sp&#x02010;sp N<sub>link</sub>) networks were therefore also highly generalized, regardless of <italic>R.&#x000a0;ferrugineum</italic> density. Consistently, the WIC/TNW ratio (0.53) was higher than or comparable with ratio reported for other generalized systems (Bolnick et al., <xref rid="ece35531-bib-0006" ref-type="ref">2003</xref>, 0.47 and 0.54; Tur et al., <xref rid="ece35531-bib-0062" ref-type="ref">2014</xref>, 0.43 and 0.48) and only slightly lower than the average calculated for a broad array of taxa (Ara&#x000fa;jo et al., <xref rid="ece35531-bib-0002" ref-type="ref">2011</xref>; 0.66). On the other hand, food niche indices based on link strength (<italic>L</italic>
+<sub>sp (80%)</sub>, <italic>L<sub>i </sub></italic>
+<sub>(80%)</sub>) revealed that individuals and overall species used plant species very unevenly. Thus, paradoxically, generalist individuals behaved like specialists foraging on a few very specific plant species. Even generalist species characterized by a large diet breadth foraged intensively on a small number of plant species. Consequently, networks using sequence counts (<italic>i</italic>&#x02010;sp N<sub>seq</sub> and sp&#x02010;sp N<sub>seq</sub>) were clearly much more specialized than networks only based on links (<italic>i</italic>&#x02010;sp N<sub>link</sub> and sp&#x02010;sp N<sub>link</sub>). Furthermore, the low species (SPO) and individual (IO) niche overlaps, together with the relatively low proportional individual&#x02010;species diet similarity, demonstrated high niche segregation. Thus, pollination networks appeared to be more complementary than redundant.</p><p>The tendency of generalist species to be highly specialized at the individual level is certainly a crucial characteristic of the functioning of pollination networks. Indeed, a large diet breadth may allow individuals to use alternative resources in response to spatiotemporal changes in floral availability. Specialization and complementarity may help reduce interindividual and interspecific exploitative competition (Bolnick et al., <xref rid="ece35531-bib-0006" ref-type="ref">2003</xref>) for floral resources and may thus increase population stability and favor species coexistence in pollinator assemblages, especially in a context of limited or changing floral resources. However, high complementarity (low redundancy) may undermine networks in the context of global changes through cascading extinctions (Memmott et al., <xref rid="ece35531-bib-0043" ref-type="ref">2004</xref>). Specialization benefits plants by enhancing conspecific pollen transfer and reducing the loss of pollen during interspecific flights (Morales &#x00026; Traveset, <xref rid="ece35531-bib-0045" ref-type="ref">2008</xref>), thus increasing the fitness and population dynamics of plants. Together, these mechanisms may help ensure the stability of pollination networks.</p></sec><sec id="ece35531-sec-0018"><label>4.4</label><title>Potential limits of metabarcoding</title><p>There is now enough evidence that metabarcoding is a reliable way to characterize species composition in environmental DNA samples (Ji et al., <xref rid="ece35531-bib-0031" ref-type="ref">2013</xref>) including pollen samples (Bell et al., <xref rid="ece35531-bib-0004" ref-type="ref">2018</xref>). Further, several studies have highlighted the potential of metabarcoding for quantification of the abundance of plant species in pollen mixtures especially with plastid markers (Kraaijeveld et al., <xref rid="ece35531-bib-0035" ref-type="ref">2015</xref>; Richardson et al., <xref rid="ece35531-bib-0052" ref-type="ref">2019</xref>), whereas other markers (most often ITS2, not used in our study) were apparently less efficient (Bell et al., <xref rid="ece35531-bib-0004" ref-type="ref">2018</xref>; Richardson et al., <xref rid="ece35531-bib-0052" ref-type="ref">2019</xref>). Nonetheless, some potential biases (Deiner et al., <xref rid="ece35531-bib-0013" ref-type="ref">2017</xref>) may alter quantification accuracy. First, a plant species&#x02013;molecular marker interaction is often observed during PCR, so that a species may be properly amplified by one marker but not by another one. Such amplification failures may lead to underrepresentation of the species concerned in sequencing products and to subsequent proportional over&#x02010;representation of the other species (Bell et al., <xref rid="ece35531-bib-0004" ref-type="ref">2018</xref>), thus increasing specialization level in networks. In our study, the risk of species underrepresentation (and hence the risk of proportional over&#x02010;representation of other species) was limited since we combined two markers and, for every plant species, only kept the results of the marker whose amplification was the most successful (Pornon et al., <xref rid="ece35531-bib-0049" ref-type="ref">2016</xref>). Second, the composition and relative abundance of species in multispecies pollen mixtures may also hinder quantification (Bell et al., <xref rid="ece35531-bib-0004" ref-type="ref">2018</xref>) but, at least with our protocol, only partially (Pornon et al., <xref rid="ece35531-bib-0049" ref-type="ref">2016</xref>). Third, authors who tested metabarcoding quantification used natural (bee corbicula) or artificial mixtures with huge pollen quantities (Bell et al., <xref rid="ece35531-bib-0004" ref-type="ref">2018</xref>; Cornman et al., <xref rid="ece35531-bib-0010" ref-type="ref">2015</xref>; Galimberti et al., <xref rid="ece35531-bib-0021" ref-type="ref">2014</xref>; Keller et al., <xref rid="ece35531-bib-0033" ref-type="ref">2015</xref>; Richardson et al., <xref rid="ece35531-bib-0052" ref-type="ref">2019</xref>; Smart et al., <xref rid="ece35531-bib-0055" ref-type="ref">2017</xref>), which we did not. High pollen quantities may increase concentrations of endogenous inhibitors during PCR due, for instance, to high CG contents in ITS sequences (Mammedov et al., <xref rid="ece35531-bib-0042" ref-type="ref">2008</xref>). Fourth, the abundance of plant species in insect pollen loads could to some extent, depend on the rate of plant&#x02010;to&#x02010;insect pollen transfers per visit. Therefore, despite the precautions we took, we cannot totally rule out the impact of biological/manipulation biases in our study. However, using the same raw data set as in the present study, we previously found highly significant positive correlations between the number of insect visits to a plant species and the number of its sequences in sequencing products (Pornon et al., <xref rid="ece35531-bib-0049" ref-type="ref">2016</xref>). This was the case despite the fact that visits to flowers does not translate always into pollen transport by insects (Popic, Wardle, &#x00026; Davila, <xref rid="ece35531-bib-0047" ref-type="ref">2013</xref>). Finally, as long as the above biases remained consistent across floral patches (we cannot see why this should not be the case) they could not be responsible for the higher pollinator specialization in low&#x02010;density patches than in high&#x02010;density patches.</p></sec></sec><sec sec-type="COI-statement" id="ece35531-sec-0019"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35531-sec-0020"><title>AUTHOR'S CONTRIBUTIONS</title><p>AP supervised the study. AP, NE, MB, and CA collected the data; NE and SB performed laboratory works. CA, SB, and AP analyzed the data. AP led the writing of the manuscript. All authors contributed critically to the drafts and gave their final approval for publication.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35531-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13650-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35531-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13650-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35531-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13650-s003.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35531-sup-0004"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13650-s004.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece35531-sup-0005"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-13650-s005.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35531-sec-0023"><title>ACKNOWLEDGMENTS</title><p>This work was supported by the French Laboratory of Excellence project &#x0201c;TULIP&#x0201d; (ANR&#x02010;10&#x02010;LABX&#x02010;41; ANR&#x02010;11&#x02010;IDEX&#x02010;0002&#x02013;02) and by the Centre National de la Recherche Scientifique&#x02010;INEE (ERESA program: DJ/ST/IP/2013/D&#x02010;112). We thank John S. Terblanche for his helpful comments.</p></ack><sec sec-type="data-availability" id="ece35531-sec-0022"><title>DATA AVAILABILITY STATEMENT</title><p>Nucleotide sequences have been published on GenBank (Accession numbers KU974005&#x02010;KU974022, KU974024&#x02010;KU974083).</p></sec><ref-list content-type="cited-references" id="ece35531-bibl-0001"><title>REFERENCES</title><ref id="ece35531-bib-0001"><mixed-citation publication-type="journal" id="ece35531-cit-0001">
+<string-name>
+<surname>Albrecht</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Schmid</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Hautier</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>C. B.</given-names>
+</string-name> (<year>2012</year>). <article-title>Diverse pollinator communities enhance plant reproductive success</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>279</volume>, <fpage>4845</fpage>&#x02013;<lpage>4852</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2012.1621</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0002"><mixed-citation publication-type="journal" id="ece35531-cit-0002">
+<string-name>
+<surname>Ara&#x000fa;jo</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>Bolnick</surname>, <given-names>D. I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Layman</surname>, <given-names>C. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>The ecological causes of individual specialisation</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>14</volume>, <fpage>948</fpage>&#x02013;<lpage>958</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2011.01662.x</pub-id>
+<pub-id pub-id-type="pmid">21790933</pub-id></mixed-citation></ref><ref id="ece35531-bib-0003"><mixed-citation publication-type="journal" id="ece35531-cit-0003">
+<string-name>
+<surname>Banza</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Belo</surname>, <given-names>A. D. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Evans</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2015</year>). <article-title>The structure and robustness of nocturnal Lepidopteran pollen&#x02010;transfer networks in a biodiversity hotspot</article-title>. <source xml:lang="en">Insect Conservation and Diversity</source>, <volume>8</volume>, <fpage>538</fpage>&#x02013;<lpage>546</lpage>. <pub-id pub-id-type="doi">10.1111/icad.12134</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0004"><mixed-citation publication-type="journal" id="ece35531-cit-0004">
+<string-name>
+<surname>Bell</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Burgess</surname>, <given-names>K. S.</given-names>
+</string-name>, <string-name>
+<surname>Botsch</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Dobbs</surname>, <given-names>E. K.</given-names>
+</string-name>, <string-name>
+<surname>Read</surname>, <given-names>T. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brosi</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Quantitative and qualitative assessment of pollen DNA metabarcoding using constructed species mixtures</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>28</volume>, <fpage>431</fpage>&#x02013;<lpage>455</lpage>. <pub-id pub-id-type="doi">10.1111/mec.14840</pub-id>
+<pub-id pub-id-type="pmid">30118180</pub-id></mixed-citation></ref><ref id="ece35531-bib-0005"><mixed-citation publication-type="journal" id="ece35531-cit-0005">
+<string-name>
+<surname>Bl&#x000fc;thgen</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Fr&#x000fc;nd</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>V&#x000e1;zquez</surname>, <given-names>D. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Menzel</surname>, <given-names>F.</given-names>
+</string-name> (<year>2008</year>). <article-title>What do interaction network metrics tell us about specialization and biological traits?</article-title>
+<source xml:lang="en">Ecology</source>, <volume>89</volume>, <fpage>3387</fpage>&#x02013;<lpage>3399</lpage>. <pub-id pub-id-type="doi">10.1890/07-2121.1</pub-id>
+<pub-id pub-id-type="pmid">19137945</pub-id></mixed-citation></ref><ref id="ece35531-bib-0006"><mixed-citation publication-type="journal" id="ece35531-cit-0006">
+<string-name>
+<surname>Bolnick</surname>, <given-names>D. I.</given-names>
+</string-name>, <string-name>
+<surname>Svanb&#x000e4;ck</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Fordyce</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>L. H.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Hulsey</surname>, <given-names>C. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Forister</surname>, <given-names>M. L.</given-names>
+</string-name> (<year>2003</year>). <article-title>The ecology of individuals: Incidence and implications of individual specialization</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>161</volume>, <fpage>1</fpage>&#x02013;<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1086/343878</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0007"><mixed-citation publication-type="journal" id="ece35531-cit-0007">
+<string-name>
+<surname>Bolnick</surname>, <given-names>D. I.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>L. H.</given-names>
+</string-name>, <string-name>
+<surname>Fordyce</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Svanb&#x000e4;ck</surname>, <given-names>R.</given-names>
+</string-name> (<year>2002</year>). <article-title>Measuring individual&#x02010;level resource specialization</article-title>. <source xml:lang="en">Ecology</source>, <volume>83</volume>, <fpage>2936</fpage>&#x02013;<lpage>2941</lpage>. <pub-id pub-id-type="doi">10.1890/0012-9658(2002)083[2936:MILRS]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0008"><mixed-citation publication-type="journal" id="ece35531-cit-0008">
+<string-name>
+<surname>Box</surname>, <given-names>G. E. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cox</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>1964</year>). <article-title>An analysis of transformations</article-title>. <source xml:lang="en">Journal of the Royal Statistical Society: Series B (Methodological)</source>, <volume>26</volume>, <fpage>211</fpage>&#x02013;<lpage>252</lpage>. <pub-id pub-id-type="doi">10.1111/j.2517-6161.1964.tb00553.x</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0009"><mixed-citation publication-type="journal" id="ece35531-cit-0009">
+<string-name>
+<surname>Carey</surname>, <given-names>F. M.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>MacGregor</surname>, <given-names>J. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Martin&#x02010;Smith</surname>, <given-names>M.</given-names>
+</string-name> (<year>1959</year>). <article-title>Pharmacological and chemical observations on some toxic nectars</article-title>. <source xml:lang="en">Journal of Pharmacy Pharmacology</source>, <volume>11</volume>, <fpage>269T</fpage>&#x02013;<lpage>274T</lpage>. <pub-id pub-id-type="doi">10.1111/j.2042-7158.1959.tb10443.x</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0010"><mixed-citation publication-type="journal" id="ece35531-cit-0010">
+<string-name>
+<surname>Cornman</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Otto</surname>, <given-names>C. R. V.</given-names>
+</string-name>, <string-name>
+<surname>Iwanowicz</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pettis</surname>, <given-names>J. S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Taxonomic characterization of honeybee (<italic>Apis mellifera</italic>) pollen foraging based on non&#x02010;overlapping paired&#x02010;end sequencing of nuclear ribosomal loci</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>10</volume>(<issue>12</issue>), <elocation-id>e0145365</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0145365</pub-id>
+<pub-id pub-id-type="pmid">26700168</pub-id></mixed-citation></ref><ref id="ece35531-bib-0011"><mixed-citation publication-type="journal" id="ece35531-cit-0011">
+<string-name>
+<surname>Dauber</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Biesmeijer</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Gabriel</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kunin</surname>, <given-names>W. E.</given-names>
+</string-name>, <string-name>
+<surname>Lamborn</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>, <given-names>B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Petanidou</surname>, <given-names>T.</given-names>
+</string-name> (<year>2010</year>). <article-title>Effects of patch size and density on flower visitation and seed set of wild plants: A pan&#x02010;European approach</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>98</volume>, <fpage>188</fpage>&#x02013;<lpage>196</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2745.2009.01590.x</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0012"><mixed-citation publication-type="journal" id="ece35531-cit-0012">
+<string-name>
+<surname>Deagle</surname>, <given-names>B. E.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>McInnes</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name>
+<surname>Vesterinen</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name>
+<surname>Clare</surname>, <given-names>E. L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Eveson</surname>, <given-names>J. P.</given-names>
+</string-name> (<year>2018</year>). <article-title>Counting with DNA in metabarcoding studies: How should we convert sequence reads to dietary data?</article-title>
+<source xml:lang="en">Molecular Ecology</source>, <volume>28</volume>, <fpage>391</fpage>&#x02013;<lpage>406</lpage>. <pub-id pub-id-type="doi">10.1111/mec.14734</pub-id>
+<pub-id pub-id-type="pmid">29858539</pub-id></mixed-citation></ref><ref id="ece35531-bib-0013"><mixed-citation publication-type="journal" id="ece35531-cit-0013">
+<string-name>
+<surname>Deiner</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Bik</surname>, <given-names>H. M.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000e4;chler</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Seymour</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lacoursi&#x000e8;re&#x02010;Roussel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Altermatt</surname>, <given-names>F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bernatchez</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Environmental DNA metabarcoding: Transforming how we survey animal and plant communities</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>26</volume>, <fpage>5872</fpage>&#x02013;<lpage>5895</lpage>. <pub-id pub-id-type="doi">10.1111/mec.14350</pub-id>
+<pub-id pub-id-type="pmid">28921802</pub-id></mixed-citation></ref><ref id="ece35531-bib-0014"><mixed-citation publication-type="journal" id="ece35531-cit-0014">
+<string-name>
+<surname>Delmas</surname>, <given-names>C. E. L.</given-names>
+</string-name>, <string-name>
+<surname>Escaravage</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pornon</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Massive floral density affects insect visits but not pollinator&#x02010;mediated pollen transfer in <italic>Rhododendron ferrugineum</italic>
+</article-title>. <source xml:lang="en">Plant Biology</source>, <volume>16</volume>, <fpage>234</fpage>&#x02013;<lpage>243</lpage>. <pub-id pub-id-type="doi">10.1111/plb.12039</pub-id>
+<pub-id pub-id-type="pmid">23682673</pub-id></mixed-citation></ref><ref id="ece35531-bib-0015"><mixed-citation publication-type="journal" id="ece35531-cit-0015">
+<string-name>
+<surname>Delmas</surname>, <given-names>C. E. L.</given-names>
+</string-name>, <string-name>
+<surname>Fort</surname>, <given-names>T. L. C.</given-names>
+</string-name>, <string-name>
+<surname>Escaravage</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pornon</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Pollen transfer in fragmented plant populations: Insight from the pollen loads of pollinators and stigmas in a mass&#x02010;flowering species</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>6</volume>, <fpage>5663</fpage>&#x02013;<lpage>5673</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.2280</pub-id>
+<pub-id pub-id-type="pmid">27547345</pub-id></mixed-citation></ref><ref id="ece35531-bib-0016"><mixed-citation publication-type="journal" id="ece35531-cit-0016">
+<string-name>
+<surname>Dormann</surname>, <given-names>C. F.</given-names>
+</string-name>, <string-name>
+<surname>Fr&#x000fc;nd</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bl&#x000fc;thgen</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gruber</surname>, <given-names>B.</given-names>
+</string-name> (<year>2009</year>). <article-title>Indices, graphs and null models: Analyzing bipartite ecological networks</article-title>. <source xml:lang="en">Open Ecology Journal</source>, <volume>2</volume>, <fpage>7</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.2174/1874213000902010007</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0017"><mixed-citation publication-type="journal" id="ece35531-cit-0017">
+<string-name>
+<surname>Dormann</surname>, <given-names>C. F.</given-names>
+</string-name>, <string-name>
+<surname>Gruber</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fr&#x000fc;nd</surname>, <given-names>J.</given-names>
+</string-name> (<year>2008</year>). <article-title>Introducing the bipartite package: Analysing ecological networks</article-title>. <source xml:lang="en">R News</source>, <volume>8</volume>, <fpage>8</fpage>&#x02013;<lpage>11</lpage>.</mixed-citation></ref><ref id="ece35531-bib-0018"><mixed-citation publication-type="journal" id="ece35531-cit-0018">
+<string-name>
+<surname>Dupont</surname>, <given-names>Y. L.</given-names>
+</string-name>, <string-name>
+<surname>Tr&#x000f8;jelsgarrd</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hagen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Henriksen</surname>, <given-names>M. V.</given-names>
+</string-name>, <string-name>
+<surname>Olesen</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Pedersen</surname>, <given-names>N. M. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kissling</surname>, <given-names>W. D.</given-names>
+</string-name> (<year>2014</year>). <article-title>Spatial structure of an individual based plant&#x02013;pollinator network</article-title>. <source xml:lang="en">Oikos</source>, <volume>123</volume>, <fpage>1301</fpage>&#x02013;<lpage>1310</lpage>. <pub-id pub-id-type="doi">10.1111/oik.01426</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0019"><mixed-citation publication-type="journal" id="ece35531-cit-0019">
+<string-name>
+<surname>Escaravage</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Pornon</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Doche</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Till&#x02010;Bottraud</surname>, <given-names>I.</given-names>
+</string-name> (<year>1997</year>). <article-title>Breeding system in an alpine species: <italic>Rhododendron ferrugineum</italic> L (Ericaceae) in the French northern Alps</article-title>. <source xml:lang="en">Canadian Journal of Botany</source>, <volume>75</volume>, <fpage>736</fpage>&#x02013;<lpage>743</lpage>. <pub-id pub-id-type="doi">10.1139/b97-084</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0020"><mixed-citation publication-type="journal" id="ece35531-cit-0020">
+<string-name>
+<surname>Fontaine</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Collin</surname>, <given-names>C. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dajoz</surname>, <given-names>I.</given-names>
+</string-name> (<year>2008</year>). <article-title>Generalist foraging of pollinators: Diet expansion at high density</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>96</volume>, <fpage>1002</fpage>&#x02013;<lpage>1010</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2745.2008.01405.x</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0021"><mixed-citation publication-type="journal" id="ece35531-cit-0021">
+<string-name>
+<surname>Galimberti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>De Mattia</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Bruni</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Scaccabarozzi</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sandionigi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Barbuto</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Labra</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>A DNA barcoding approach to characterize pollen collected by honeybees</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>9</volume>, <elocation-id>e109363</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0109363</pub-id>
+<pub-id pub-id-type="pmid">25296114</pub-id></mixed-citation></ref><ref id="ece35531-bib-0022"><mixed-citation publication-type="journal" id="ece35531-cit-0022">
+<string-name>
+<surname>Galliot</surname>, <given-names>J.&#x02010;N.</given-names>
+</string-name>, <string-name>
+<surname>Brunel</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>B&#x000e9;rard</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chauveau</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Blanchet&#x000ea;te</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lanore</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Farrugia</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Investigating a flower&#x02010;insect forager network in a mountain grassland community using pollen DNA barcoding</article-title>. <source xml:lang="en">Journal of Insect Conservation</source>, <volume>21</volume>, <fpage>827</fpage>&#x02013;<lpage>837</lpage>. <pub-id pub-id-type="doi">10.1007/s10841-017-0022-z</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0023"><mixed-citation publication-type="journal" id="ece35531-cit-0023">
+<string-name>
+<surname>Gathmann</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tscharntke</surname>, <given-names>T.</given-names>
+</string-name> (<year>2002</year>). <article-title>Foraging ranges of solitary bees</article-title>. <source xml:lang="en">Journal of Animal Ecology</source>, <volume>71</volume>, <fpage>757</fpage>&#x02013;<lpage>764</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2656.2002.00641.x</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0024"><mixed-citation publication-type="journal" id="ece35531-cit-0024">
+<string-name>
+<surname>Ghazoul</surname>, <given-names>J.</given-names>
+</string-name> (<year>2005</year>). <article-title>Pollen and seed dispersal among dispersed plants</article-title>. <source xml:lang="en">Biological Reviews</source>, <volume>80</volume>, <fpage>413</fpage>&#x02013;<lpage>443</lpage>. <pub-id pub-id-type="doi">10.1017/S1464793105006731</pub-id>
+<pub-id pub-id-type="pmid">16094807</pub-id></mixed-citation></ref><ref id="ece35531-bib-0025"><mixed-citation publication-type="journal" id="ece35531-cit-0025">
+<string-name>
+<surname>Ghazoul</surname>, <given-names>J.</given-names>
+</string-name> (<year>2006</year>). <article-title>Floral diversity and the facilitation of pollination</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>94</volume>, <fpage>295</fpage>&#x02013;<lpage>304</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2745.2006.01098.x</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0026"><mixed-citation publication-type="journal" id="ece35531-cit-0026">
+<string-name>
+<surname>Girard</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chagnon</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fournier</surname>, <given-names>V.</given-names>
+</string-name> (<year>2012</year>). <article-title>Pollen diversity collected by honey bees in the vicinity of <italic>Vaccinium</italic> spp. crops and its importance for colony development</article-title>. <source xml:lang="en">Botany&#x02010;Botanique</source>, <volume>90</volume>, <fpage>545</fpage>&#x02013;<lpage>555</lpage>. <pub-id pub-id-type="doi">10.1139/b2012-049</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0027"><mixed-citation publication-type="journal" id="ece35531-cit-0027">
+<string-name>
+<surname>Holzschuh</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dainese</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez&#x02010;Varo</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Mudri&#x02010;Stojni&#x00107;</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Riedinger</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Rundl&#x000f6;f</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Steffan&#x02010;Dewenter</surname>, <given-names>I.</given-names>
+</string-name> (<year>2016</year>). <article-title>Mass&#x02010;flowering crops dilute pollinator abundance in agricultural landscapes across Europe</article-title>. <source xml:lang="en">Ecology Letter</source>, <volume>19</volume>, <fpage>1228</fpage>&#x02013;<lpage>1236</lpage>. <pub-id pub-id-type="doi">10.1111/ele.12657</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0028"><mixed-citation publication-type="journal" id="ece35531-cit-0028">
+<string-name>
+<surname>Inouye</surname>, <given-names>D. W.</given-names>
+</string-name> (<year>1978</year>). <article-title>Resource partitioning in bumblebees: Experimental studies of foraging behavior</article-title>. <source xml:lang="en">Ecology</source>, <volume>59</volume>, <fpage>672</fpage>&#x02013;<lpage>678</lpage>. <pub-id pub-id-type="doi">10.2307/1938769</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0029"><mixed-citation publication-type="journal" id="ece35531-cit-0029">
+<string-name>
+<surname>Jacobs</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Denholm</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Goulson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Stoate</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Osborne</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2010</year>). <article-title>Pollinator effectiveness and fruit set in common ivy, <italic>Hedera helix (</italic>Araliaceae)</article-title>. <source xml:lang="en">Arthropod&#x02010;Plant Interactions</source>, <volume>4</volume>, <fpage>19</fpage>&#x02013;<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1007/s11829-009-9080-9</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0030"><mixed-citation publication-type="journal" id="ece35531-cit-0030">
+<string-name>
+<surname>Jakobsson</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Padron</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Traveset</surname>, <given-names>A.</given-names>
+</string-name> (<year>2008</year>). <article-title>Pollen transfer from invasive <italic>Carpobrotus</italic> spp. to natives &#x02013; A study of pollinator behaviour and reproduction success</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>141</volume>, <fpage>136</fpage>&#x02013;<lpage>145</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2007.09.005</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0031"><mixed-citation publication-type="journal" id="ece35531-cit-0031">
+<string-name>
+<surname>Ji</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ashton</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Pedley</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Edwards</surname>, <given-names>D. P.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Nakamura</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Yu</surname>, <given-names>D. W.</given-names>
+</string-name> (<year>2013</year>). <article-title>Reliable, verifiable and efficient monitoring of biodiversity via metabarcoding</article-title>. <source xml:lang="en">Ecology Letter</source>, <volume>16</volume>, <fpage>1245</fpage>&#x02013;<lpage>1257</lpage>. <pub-id pub-id-type="doi">10.1111/ele.12162</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0032"><mixed-citation publication-type="journal" id="ece35531-cit-0032">
+<string-name>
+<surname>Kaiser&#x02010;Bunbury</surname>, <given-names>C. N.</given-names>
+</string-name>, <string-name>
+<surname>Valentin</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Mougal</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Matatiken</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ghazoul</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>). <article-title>The tolerance of island plant&#x02013;pollinator networks to alien plants</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>99</volume>, <fpage>202</fpage>&#x02013;<lpage>213</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2745.2010.01732.x</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0033"><mixed-citation publication-type="journal" id="ece35531-cit-0033">
+<string-name>
+<surname>Keller</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Danner</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Grimmer</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Ankenbrand</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>von der Ohe</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>von der Ohe</surname>, <given-names>W.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Steffan&#x02010;Dewenter</surname>, <given-names>I.</given-names>
+</string-name> (<year>2015</year>). <article-title>Evaluating multiplexed next&#x02010;generation sequencing as a method in palynology for mixed pollen samples</article-title>. <source xml:lang="en">Plant Biology</source>, <volume>17</volume>, <fpage>558</fpage>&#x02013;<lpage>566</lpage>. <pub-id pub-id-type="doi">10.1111/plb.12251</pub-id>
+<pub-id pub-id-type="pmid">25270225</pub-id></mixed-citation></ref><ref id="ece35531-bib-0034"><mixed-citation publication-type="journal" id="ece35531-cit-0034">
+<string-name>
+<surname>Kov&#x000e1;cs&#x02010;Hosty&#x000e1;nszki</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Haenke</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bat&#x000e1;ry</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Jauker</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>B&#x000e1;ldi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Tscharntke</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Holzschuch</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Contrasting effects of mass&#x02010;flowering crops on bee pollination of hedge plants at different spatial and temporal scales</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>23</volume>, <fpage>1938</fpage>&#x02013;<lpage>1946</lpage>. <pub-id pub-id-type="doi">10.1890/12-2012.1</pub-id>
+<pub-id pub-id-type="pmid">24555319</pub-id></mixed-citation></ref><ref id="ece35531-bib-0035"><mixed-citation publication-type="journal" id="ece35531-cit-0035">
+<string-name>
+<surname>Kraaijeveld</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>de Weger</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Ventayol Garcia</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Buermans</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Frank</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hiemstra</surname>, <given-names>P. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>den Dunnen</surname>, <given-names>J. T.</given-names>
+</string-name> (<year>2015</year>). <article-title>Efficient and sensitive identification and quantification of airborne pollen using next&#x02010;generation DNA sequencing</article-title>. <source xml:lang="en">Molecular Ecology Resources</source>, <volume>15</volume>, <fpage>8</fpage>&#x02013;<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1111/1755-0998.12288</pub-id>
+<pub-id pub-id-type="pmid">24893805</pub-id></mixed-citation></ref><ref id="ece35531-bib-0036"><mixed-citation publication-type="journal" id="ece35531-cit-0036">
+<string-name>
+<surname>Kunin</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Iwasa</surname>, <given-names>Y.</given-names>
+</string-name> (<year>1996</year>). <article-title>Pollinator foraging strategies in mixed floral arrays: Density effects and floral constancy</article-title>. <source xml:lang="en">Theoretical Population Biology</source>, <volume>49</volume>, <fpage>232</fpage>&#x02013;<lpage>263</lpage>. <pub-id pub-id-type="doi">10.1006/tpbi.1996.0013</pub-id>
+<pub-id pub-id-type="pmid">8813024</pub-id></mixed-citation></ref><ref id="ece35531-bib-0037"><mixed-citation publication-type="journal" id="ece35531-cit-0037">
+<string-name>
+<surname>Lamb</surname>, <given-names>P. D.</given-names>
+</string-name>, <string-name>
+<surname>Hunter</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Pinnegar</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Creer</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>R. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Taylor</surname>, <given-names>M. I.</given-names>
+</string-name> (<year>2018</year>). <article-title>How quantitative is metabarcoding: A meta&#x02010;analytical approach</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>28</volume>, <fpage>420</fpage>&#x02013;<lpage>430</lpage>. <pub-id pub-id-type="doi">10.1111/mec.14920</pub-id>
+<pub-id pub-id-type="pmid">30408260</pub-id></mixed-citation></ref><ref id="ece35531-bib-0038"><mixed-citation publication-type="journal" id="ece35531-cit-0038">
+<string-name>
+<surname>Lopezaraiza&#x02010;Mikel</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Hayes</surname>, <given-names>R. B.</given-names>
+</string-name>, <string-name>
+<surname>Whalley</surname>, <given-names>M. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Memmott</surname>, <given-names>J.</given-names>
+</string-name> (<year>2007</year>). <article-title>The impact of an alien plant on native plant&#x02010;pollinator network: An experimental approach</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>10</volume>, <fpage>539</fpage>&#x02013;<lpage>550</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2007.01055.x</pub-id>
+<pub-id pub-id-type="pmid">17542933</pub-id></mixed-citation></ref><ref id="ece35531-bib-0039"><mixed-citation publication-type="journal" id="ece35531-cit-0039">
+<string-name>
+<surname>Lucas</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bodger</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Brosi</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name>
+<surname>Forman</surname>, <given-names>D. W.</given-names>
+</string-name>, <string-name>
+<surname>Greig</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>de Vere</surname>, <given-names>N.</given-names>
+</string-name> (<year>2018</year>). <article-title>Generalisation and specialisation in hoverfly (Syrphidae) grassland pollen transport networks revealed by DNA metabarcoding</article-title>. <source xml:lang="en">Journal of Animal Ecology</source>, <volume>87</volume>, <fpage>1008</fpage>&#x02013;<lpage>1021</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2656.12828</pub-id>
+<pub-id pub-id-type="pmid">29658115</pub-id></mixed-citation></ref><ref id="ece35531-bib-0040"><mixed-citation publication-type="journal" id="ece35531-cit-0040">
+<string-name>
+<surname>Macgregor</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Kitson</surname>, <given-names>J. J. N.</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hahn</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lunt</surname>, <given-names>D. H.</given-names>
+</string-name>, <string-name>
+<surname>Pocock</surname>, <given-names>M. J. O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Evans</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2019</year>). <article-title>Construction, validation, and application of nocturnal pollen transport networks in an agro&#x02010;ecosystem: A comparison using light microscopy and DNA metabarcoding</article-title>. <source xml:lang="en">Ecological Entomology</source>, <volume>1</volume>, <fpage>17</fpage>&#x02013;<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1111/een.12674</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0041"><mixed-citation publication-type="journal" id="ece35531-cit-0041">
+<string-name>
+<surname>Magrach</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez&#x02010;Varo</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Boiffier</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vil&#x000e0;</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bartomeus</surname>, <given-names>I.</given-names>
+</string-name> (<year>2017</year>). <article-title>Honeybee spillover reshuffles pollinator diets and affects plant reproductive success</article-title>. <source xml:lang="en">Nature Ecology and Evolution</source>, <volume>1</volume>, <fpage>1299</fpage>&#x02013;<lpage>1307</lpage>. <pub-id pub-id-type="doi">10.1038/s41559-017-0249-9</pub-id>
+<pub-id pub-id-type="pmid">29046536</pub-id></mixed-citation></ref><ref id="ece35531-bib-0042"><mixed-citation publication-type="journal" id="ece35531-cit-0042">
+<string-name>
+<surname>Mammedov</surname>, <given-names>T. G.</given-names>
+</string-name>, <string-name>
+<surname>Pienaar</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Whitney</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>TerMaat</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Carvill</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Goliath</surname>, <given-names>R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Viljoen</surname>, <given-names>H. J.</given-names>
+</string-name> (<year>2008</year>). <article-title>A fundamental study of the PCR amplification of GC&#x02010;rich DNA templates</article-title>. <source xml:lang="en">Computational Biology and Chemistry</source>, <volume>32</volume>, <fpage>452</fpage>&#x02013;<lpage>457</lpage>. <pub-id pub-id-type="doi">10.1016/j.compbiolchem.2008.07.021</pub-id>
+<pub-id pub-id-type="pmid">18760969</pub-id></mixed-citation></ref><ref id="ece35531-bib-0043"><mixed-citation publication-type="journal" id="ece35531-cit-0043">
+<string-name>
+<surname>Memmott</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Waser</surname>, <given-names>N. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Price</surname>, <given-names>M. V.</given-names>
+</string-name> (<year>2004</year>). <article-title>Tolerance of pollination networks to species extinctions</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>271</volume>, <fpage>2605</fpage>&#x02013;<lpage>2611</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2004.2909</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0044"><mixed-citation publication-type="journal" id="ece35531-cit-0044">
+<string-name>
+<surname>Meyer</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Gaebele</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Steffan&#x02010;Dewenter</surname>, <given-names>I. D.</given-names>
+</string-name> (<year>2007</year>). <article-title>Patch size and landscape effects on pollinators and seed set of the horseshoe vetch, <italic>Hippocrepis comosa</italic>, in an agricultural landscape of central Europe</article-title>. <source xml:lang="en">Entomologia Generalis</source>, <volume>30</volume>, <fpage>173</fpage>&#x02013;<lpage>185</lpage>. <pub-id pub-id-type="doi">10.1127/entom.gen/30/2007/173</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0045"><mixed-citation publication-type="journal" id="ece35531-cit-0045">
+<string-name>
+<surname>Morales</surname>, <given-names>C. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Traveset</surname>, <given-names>A.</given-names>
+</string-name> (<year>2008</year>). <article-title>Interspecific pollen transfer: Magnitude, prevalence and consequences for plant fitness</article-title>. <source xml:lang="en">Critical Reviews in Plant Sciences</source>, <volume>27</volume>, <fpage>221</fpage>&#x02013;<lpage>238</lpage>. <pub-id pub-id-type="doi">10.1080/07352680802205631</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0046"><mixed-citation publication-type="journal" id="ece35531-cit-0046">
+<string-name>
+<surname>Osborne</surname>, <given-names>J. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Williams</surname>, <given-names>I. H.</given-names>
+</string-name> (<year>2001</year>). <article-title>Site constancy of bumble bees in an experimentally patchy habitat</article-title>. <source xml:lang="en">Agriculture, Ecosystems &#x00026; Environment</source>, <volume>83</volume>, <fpage>129</fpage>&#x02013;<lpage>141</lpage>. <pub-id pub-id-type="doi">10.1016/S0167-8809(00)00262-0</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0047"><mixed-citation publication-type="journal" id="ece35531-cit-0047">
+<string-name>
+<surname>Popic</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name>
+<surname>Wardle</surname>, <given-names>G. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Davila</surname>, <given-names>Y. C.</given-names>
+</string-name> (<year>2013</year>). <article-title>Flower&#x02010;visitor networks only partially predict the function of pollen transport by bees</article-title>. <source xml:lang="en">Austral Ecology</source>, <volume>38</volume>, <fpage>76</fpage>&#x02013;<lpage>86</lpage>. <pub-id pub-id-type="doi">10.1111/j.1442-9993.2012.02377.x</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0048"><mixed-citation publication-type="journal" id="ece35531-cit-0048">
+<string-name>
+<surname>Pornon</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Andalo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Burrus</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Escaravage</surname>, <given-names>N.</given-names>
+</string-name> (<year>2017</year>). <article-title>DNA metabarcoding data unveils invisible pollination networks</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>7</volume>, <fpage>16828</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-017-16785-5</pub-id>
+<pub-id pub-id-type="pmid">29203872</pub-id></mixed-citation></ref><ref id="ece35531-bib-0049"><mixed-citation publication-type="journal" id="ece35531-cit-0049">
+<string-name>
+<surname>Pornon</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Escaravage</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Burrus</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Holota</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Khimoun</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mariette</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Andalo</surname>, <given-names>C.</given-names>
+</string-name> (<year>2016</year>). <article-title>Using metabarcoding to reveal and quantify plant&#x02010;pollinator interactions</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>6</volume>, <fpage>27282</fpage>
+<pub-id pub-id-type="doi">10.1038/srep27282</pub-id>
+<pub-id pub-id-type="pmid">27255732</pub-id></mixed-citation></ref><ref id="ece35531-bib-0050"><mixed-citation publication-type="journal" id="ece35531-cit-0050">
+<string-name>
+<surname>Pornon</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Escaravage</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Till&#x02010;Bottraud</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Doche</surname>, <given-names>B.</given-names>
+</string-name> (<year>1997</year>). <article-title>Variation of reproductive traits in <italic>Rhododendron ferrugineum</italic> (Ericaceae) populations along a successional gradient</article-title>. <source xml:lang="en">Plant Ecology</source>, <volume>130</volume>, <fpage>1</fpage>&#x02013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1023/A:1009724216796</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0051"><mixed-citation publication-type="book" id="ece35531-cit-0051">
+<collab collab-type="authors">R Core Team</collab>
+(<year>2013</year>). <source xml:lang="en">R: A language and environment for statistical computing</source>. <publisher-loc>Vienna, Austria</publisher-loc>: <publisher-name>R Foundation for Statistical Computing</publisher-name>.</mixed-citation></ref><ref id="ece35531-bib-0052"><mixed-citation publication-type="journal" id="ece35531-cit-0052">
+<string-name>
+<surname>Richardson</surname>, <given-names>R. T.</given-names>
+</string-name>, <string-name>
+<surname>Curtis</surname>, <given-names>H. R.</given-names>
+</string-name>, <string-name>
+<surname>Matcham</surname>, <given-names>E. G.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>C.&#x02010;H.</given-names>
+</string-name>, <string-name>
+<surname>Suresh</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sponsler</surname>, <given-names>D. B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Johnson</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>2019</year>). <article-title>Quantitative multi&#x02010;locus metabarcoding and waggle dance interpretation reveal honey bee spring foraging patterns in Midwest agroecosystems</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>28</volume>, <fpage>686</fpage>&#x02013;<lpage>697</lpage>. <pub-id pub-id-type="doi">10.1111/mec.14975</pub-id>
+<pub-id pub-id-type="pmid">30549365</pub-id></mixed-citation></ref><ref id="ece35531-bib-0053"><mixed-citation publication-type="journal" id="ece35531-cit-0053">
+<string-name>
+<surname>Roughgarden</surname>, <given-names>J.</given-names>
+</string-name> (<year>1972</year>). <article-title>Evolution of niche width</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>106</volume>, <fpage>683</fpage>&#x02013;<lpage>718</lpage>. <pub-id pub-id-type="doi">10.1086/282807</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0054"><mixed-citation publication-type="journal" id="ece35531-cit-0054">
+<string-name>
+<surname>Rousset</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ferdy</surname>, <given-names>J.&#x02010;B.</given-names>
+</string-name> (<year>2014</year>). <article-title>Testing environmental and genetic effects in the presence of spatial autocorrelation</article-title>. <source xml:lang="en">Ecography</source>, <volume>37</volume>, <fpage>781</fpage>&#x02013;<lpage>790</lpage>. <pub-id pub-id-type="doi">10.1111/ecog.00566</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0055"><mixed-citation publication-type="journal" id="ece35531-cit-0055">
+<string-name>
+<surname>Smart</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Cornman</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Iwanowicz</surname>, <given-names>D. D.</given-names>
+</string-name>, <string-name>
+<surname>McDermott&#x02010;Kubeczko</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pettis</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Spivak</surname>, <given-names>M. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Otto</surname>, <given-names>C. R. V.</given-names>
+</string-name> (<year>2017</year>). <article-title>A comparison of honey bee&#x02010;collected pollen from working agricultural lands using light microscopy and ITS metabarcoding</article-title>. <source xml:lang="en">Environmental Entomology</source>, <volume>46</volume>, <fpage>38</fpage>&#x02013;<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1093/ee/nvw159</pub-id>
+<pub-id pub-id-type="pmid">28062536</pub-id></mixed-citation></ref><ref id="ece35531-bib-0056"><mixed-citation publication-type="journal" id="ece35531-cit-0056">
+<string-name>
+<surname>Somme</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Vanderplanck</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Michez</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lombaerde</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Moerman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Wathelet</surname>, <given-names>B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Jacquemart</surname>, <given-names>A.&#x02010;L.</given-names>
+</string-name> (<year>2015</year>). <article-title>Pollen and nectar quality drive the major and minor floral choices of bumble bees</article-title>. <source xml:lang="en">Apidologie</source>, <volume>46</volume>, <fpage>92</fpage>&#x02013;<lpage>106</lpage>. <pub-id pub-id-type="doi">10.1007/s13592-014-0307-0</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0057"><mixed-citation publication-type="journal" id="ece35531-cit-0057">
+<string-name>
+<surname>Stanley</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stout</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>2014</year>). <article-title>Pollinator sharing between mass&#x02010;flowering oilseed rape and co&#x02010;flowering wild plants: Implications for wild plant pollination</article-title>. <source xml:lang="en">Plant Ecology</source>, <volume>215</volume>, <fpage>315</fpage>&#x02013;<lpage>325</lpage>. <pub-id pub-id-type="doi">10.1007/s11258-014-0301-7</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0058"><mixed-citation publication-type="journal" id="ece35531-cit-0058">
+<string-name>
+<surname>Svanb&#x000e4;ck</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bolnick</surname>, <given-names>D. I.</given-names>
+</string-name> (<year>2007</year>). <article-title>Intraspecific competition drives increased resource use diversity within a natural population</article-title>. <source xml:lang="en">Proceeding of the Royal Society B: Biological Sciences</source>, <volume>274</volume>, <fpage>839</fpage>&#x02013;<lpage>844</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2006.0198</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0059"><mixed-citation publication-type="journal" id="ece35531-cit-0059">
+<string-name>
+<surname>Tasei</surname>, <given-names>J. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Aupinel</surname>, <given-names>P.</given-names>
+</string-name> (<year>2008</year>). <article-title>Nutritive value of 15 single pollens and pollen mixes tested on larvae produced by bumblebee workers (<italic>Bombus terrestris</italic>, Hymenoptera: Apidae)</article-title>. <source xml:lang="en">Apidologie</source>, <volume>39</volume>, <fpage>397</fpage>&#x02013;<lpage>409</lpage>. <pub-id pub-id-type="doi">10.1051/apido:2008017</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0060"><mixed-citation publication-type="journal" id="ece35531-cit-0060">
+<string-name>
+<surname>Th&#x000e9;bault</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fontaine</surname>, <given-names>C.</given-names>
+</string-name> (<year>2010</year>). <article-title>Stability of ecological communities and the architecture of mutualistic and trophic networks</article-title>. <source xml:lang="en">Science</source>, <volume>329</volume>, <fpage>853</fpage>&#x02013;<lpage>856</lpage>. <pub-id pub-id-type="doi">10.1126/science.1188321</pub-id>
+<pub-id pub-id-type="pmid">20705861</pub-id></mixed-citation></ref><ref id="ece35531-bib-0061"><mixed-citation publication-type="journal" id="ece35531-cit-0061">
+<string-name>
+<surname>Tiedeken</surname>, <given-names>E. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stout</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>2015</year>). <article-title>Insect&#x02010;flower interaction network structure is resilient to a temporary pulse of floral resources from invasive <italic>Rhododendron ponticum</italic>
+</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>10</volume>, <elocation-id>e0119733</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0119733</pub-id>
+<pub-id pub-id-type="pmid">25764085</pub-id></mixed-citation></ref><ref id="ece35531-bib-0062"><mixed-citation publication-type="journal" id="ece35531-cit-0062">
+<string-name>
+<surname>Tur</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Vigalondo</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Tr&#x000f8;jelsgarrd</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Olensen</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Traveset</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Downscaling pollen&#x02013;transport networks to the level of individuals</article-title>. <source xml:lang="en">Journal of Animal Ecology</source>, <volume>83</volume>, <fpage>306</fpage>&#x02013;<lpage>317</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2656.12130</pub-id>
+<pub-id pub-id-type="pmid">24107193</pub-id></mixed-citation></ref><ref id="ece35531-bib-0063"><mixed-citation publication-type="journal" id="ece35531-cit-0063">
+<string-name>
+<surname>Vamosi</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Gong</surname>, <given-names>Y. B.</given-names>
+</string-name>, <string-name>
+<surname>Adamowicz</surname>, <given-names>S. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Packer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Forecasting pollination declines through DNA barcoding: The potential contributions of macroecological and macroevolutionary scales of inquiry</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>214</volume>, <fpage>11</fpage>&#x02013;<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1111/nph.14356</pub-id>
+<pub-id pub-id-type="pmid">27901268</pub-id></mixed-citation></ref><ref id="ece35531-bib-0064"><mixed-citation publication-type="journal" id="ece35531-cit-0064">
+<string-name>
+<surname>Van Valen</surname>, <given-names>L.</given-names>
+</string-name> (<year>1965</year>). <article-title>Morphological variation and width of ecological niche</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>99</volume>, <fpage>377</fpage>&#x02013;<lpage>389</lpage>. <pub-id pub-id-type="doi">10.1086/282379</pub-id>
+</mixed-citation></ref><ref id="ece35531-bib-0065"><mixed-citation publication-type="journal" id="ece35531-cit-0065">
+<string-name>
+<surname>Vanderplanck</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Moerman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Rasmont</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Lognay</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Wathelet</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wattiez</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Michez</surname>, <given-names>D.</given-names>
+</string-name> (<year>2014</year>). <article-title>How does pollen chemistry impact development and feeding behaviour of polylectic bees?</article-title>
+<source xml:lang="en">PLoS ONE</source>, <volume>9</volume>, <elocation-id>e86209</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0086209</pub-id>
+<pub-id pub-id-type="pmid">24465963</pub-id></mixed-citation></ref><ref id="ece35531-bib-0066"><mixed-citation publication-type="journal" id="ece35531-cit-0066">
+<string-name>
+<surname>V&#x000e1;zquez</surname>, <given-names>D. P.</given-names>
+</string-name>, <string-name>
+<surname>Bl&#x000fc;thgen</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Cagnolo</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chacoff</surname>, <given-names>N. P.</given-names>
+</string-name> (<year>2009</year>). <article-title>Uniting pattern and process in plant &#x02013; animal mutualistic networks: A review</article-title>. <source xml:lang="en">Annals of Botany</source>, <volume>103</volume>, <fpage>1445</fpage>&#x02013;<lpage>1457</lpage>. <pub-id pub-id-type="doi">10.1093/aob/mcp057</pub-id>
+<pub-id pub-id-type="pmid">19304996</pub-id></mixed-citation></ref><ref id="ece35531-bib-0067"><mixed-citation publication-type="journal" id="ece35531-cit-0067">
+<string-name>
+<surname>Vil&#x000e0;</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Espinar</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Hejda</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hulme</surname>, <given-names>P. E.</given-names>
+</string-name>, <string-name>
+<surname>Jaro&#x00161;&#x000ed;k</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Maron</surname>, <given-names>J. L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Py&#x00161;ek</surname>, <given-names>P.</given-names>
+</string-name> (<year>2011</year>). <article-title>Ecological impacts of invasive alien plants: A meta&#x02010;analysis of their effects on species, communities and ecosystems</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>14</volume>, <fpage>702</fpage>&#x02013;<lpage>708</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2011.01628.x</pub-id>
+<pub-id pub-id-type="pmid">21592274</pub-id></mixed-citation></ref><ref id="ece35531-bib-0068"><mixed-citation publication-type="journal" id="ece35531-cit-0068">
+<string-name>
+<surname>Zurbuchen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Landert</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Klaiber</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hein</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dorn</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>). <article-title>Maximum foraging ranges in solitary bees: Only few individuals have the capability to cover long foraging distances</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>143</volume>, <fpage>669</fpage>&#x02013;<lpage>676</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2009.12.003</pub-id>
+</mixed-citation></ref></ref-list></back></article>

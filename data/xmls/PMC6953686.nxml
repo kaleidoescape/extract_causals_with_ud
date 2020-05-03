@@ -1,0 +1,995 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938527</article-id><article-id pub-id-type="pmc">6953686</article-id><article-id pub-id-type="doi">10.1002/ece3.5875</article-id><article-id pub-id-type="publisher-id">ECE35875</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Ecological stoichiometry of the epiphyte community in a subtropical forest canopy</article-title><alt-title alt-title-type="left-running-head">HUANG et al.</alt-title></title-group><contrib-group><contrib id="ece35875-cr-0001" contrib-type="author"><name><surname>Huang</surname><given-names>Jun&#x02010;Biao</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6144-1083</contrib-id><xref ref-type="aff" rid="ece35875-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35875-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35875-cr-0002" contrib-type="author" corresp="yes"><name><surname>Liu</surname><given-names>Wen&#x02010;Yao</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6633-1900</contrib-id><xref ref-type="aff" rid="ece35875-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35875-aff-0003">
+<sup>3</sup>
+</xref><address><email>liuwy@xtbg.ac.cn</email></address></contrib><contrib id="ece35875-cr-0003" contrib-type="author"><name><surname>Li</surname><given-names>Su</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5295-6846</contrib-id><xref ref-type="aff" rid="ece35875-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35875-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35875-cr-0004" contrib-type="author"><name><surname>Song</surname><given-names>Liang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1452-9939</contrib-id><xref ref-type="aff" rid="ece35875-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35875-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35875-cr-0005" contrib-type="author"><name><surname>Lu</surname><given-names>Hua&#x02010;Zheng</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7543-1495</contrib-id><xref ref-type="aff" rid="ece35875-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35875-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35875-cr-0006" contrib-type="author"><name><surname>Shi</surname><given-names>Xian&#x02010;Meng</given-names></name><xref ref-type="aff" rid="ece35875-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35875-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35875-cr-0007" contrib-type="author"><name><surname>Chen</surname><given-names>Xi</given-names></name><xref ref-type="aff" rid="ece35875-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35875-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35875-cr-0008" contrib-type="author"><name><surname>Hu</surname><given-names>Tao</given-names></name><xref ref-type="aff" rid="ece35875-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35875-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35875-cr-0009" contrib-type="author"><name><surname>Liu</surname><given-names>Shuai</given-names></name><xref ref-type="aff" rid="ece35875-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35875-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35875-cr-0010" contrib-type="author"><name><surname>Liu</surname><given-names>Tao</given-names></name><xref ref-type="aff" rid="ece35875-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece35875-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="ece35875-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">CAS Key Laboratory of Tropical Forest Ecology</named-content>
+<named-content content-type="organisation-division">Xishuangbanna Tropical Botanical Garden</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<city>Mengla</city>
+<country country="CN">China</country>
+</aff><aff id="ece35875-aff-0002">
+<label><sup>2</sup></label>
+<institution>University of Chinese Academy of Sciences</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="ece35875-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Center of Plant Ecology</named-content>
+<named-content content-type="organisation-division">Core Botanical Gardens</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<city>Xishuangbanna</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Wen&#x02010;Yao Liu, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, Mengla 666303, China.<break/>
+Email: <email>liuwy@xtbg.ac.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14394</fpage><lpage>14406</lpage><history><date date-type="received"><day>25</day><month>3</month><year>2019</year></date><date date-type="rev-recd"><day>31</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>04</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14394.pdf"/><abstract id="ece35875-abs-0001"><title>Abstract</title><p>Epiphytes in tree canopies make a considerable contribution to the species diversity, aboveground biomass, and nutrient pools in forest ecosystems. However, the nutrient status of epiphytes and their possible adaptations to nutrient deficiencies in the forest canopy remain unclear. Therefore, we analyzed the stoichiometry of five macroelements (C, N, P, K, and Ca) in four taxonomic groups (lichens, bryophytes, ferns, and spermatophytes) to investigate this issue in a subtropical montane moist evergreen broad&#x02010;leaved forest in Southwest China. We found that the interspecific variations in element concentrations and mass ratios were generally greater than the intraspecific variations. And there were significant stoichiometric differences among functional groups. Allometric relationships between N and P across the epiphyte community indicated that P might be in greater demand than N with an increase in nutrients. Although canopy nutrients were deficient, most epiphytes could still maintain high N and P concentrations and low N:P ratios. Moreover, ferns and spermatophytes allocated more limited nutrients to leaves than to stems and roots. To alleviate frequent drought stress in the forest canopy, vascular epiphytes maintained several times higher K concentrations in their leaves than in the tissues of lichens and bryophytes. Our results suggest that epiphytes may have evolved specific nutrient characteristics and adaptations, so that they can distribute in heterogeneous canopy habitats and maintain the stability of nutrient metabolism.</p></abstract><abstract abstract-type="graphical" id="ece35875-abs-0002"><p>Forest canopies are occupied by nearly 600 epiphytic species (including lichens, bryophytes, ferns, and spermatophytes) in a subtropical montane moist evergreen broad&#x02010;leaved forest in Southwest China. However, the nutrient status of epiphytes and their adaptations to nutrient deficiencies in the forest canopy remain unclear. In this study, we analyzed the stoichiometry of five macroelements (C, N, P, K, and Ca) of dominant epiphytes and found that stoichiometric characteristics differed across species and functional groups.<boxed-text position="anchor" content-type="graphic" id="ece35875-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14394-g004.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35875-kwd-0001">arboreal epiphyte</kwd><kwd id="ece35875-kwd-0002">element content</kwd><kwd id="ece35875-kwd-0003">functional group</kwd><kwd id="ece35875-kwd-0004">nutritional strategy</kwd><kwd id="ece35875-kwd-0005">phylogeny</kwd><kwd id="ece35875-kwd-0006">stoichiometric ratio</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>31770496</award-id><award-id>41471050</award-id></award-group><award-group id="funding-0002"><funding-source>Biodiversity Conservation Strategy Program of the Chinese Academy of Sciences</funding-source><award-id>ZSSD&#x02010;016</award-id></award-group><award-group id="funding-0003"><funding-source>CAS "135 program"</funding-source><award-id>2017XTBG&#x02010;T01</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="13"/><word-count count="10455"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35875-cit-1001">
+<string-name>
+<surname>Huang</surname>
+<given-names>J&#x02010;B</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>W&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Ecological stoichiometry of the epiphyte community in a subtropical forest canopy</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14394</fpage>&#x02013;<lpage>14406</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5875</pub-id>
+</mixed-citation>
+</p><fn-group id="ece35875-ntgp-0001"><fn fn-type="funding" id="ece35875-note-0001"><p>
+<bold>Funding information</bold>
+</p><p>National Natural Science Foundation of China, Grant/Award Number: 31770496 and 41471050; Biodiversity Conservation Strategy Program of the Chinese Academy of Sciences, Grant/Award Number: ZSSD&#x02010;016; CAS "135 program," Grant/Award Number: 2017XTBG&#x02010;T01.</p></fn></fn-group></notes></front><body id="ece35875-body-0001"><sec id="ece35875-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Epiphytes form plant communities that grow on phorophytes (host trees) for physical support, but these arboreal plants do not extract any nutrients directly from the soil or the host (Benzing, <xref rid="ece35875-bib-0008" ref-type="ref">1990</xref>). Based on phylogenetic traits, epiphytes are divided into five taxonomic groups: algae, lichens, bryophytes, ferns, and spermatophytes (Coxson &#x00026; Nadkarni, <xref rid="ece35875-bib-0014" ref-type="ref">1995</xref>; Deluca, Zackrisson, Nilsson, &#x00026; Sellstedt, <xref rid="ece35875-bib-0015" ref-type="ref">2002</xref>; Ma, Liu, &#x00026; Li, <xref rid="ece35875-bib-0047" ref-type="ref">2009</xref>; Pentecost, <xref rid="ece35875-bib-0058" ref-type="ref">1998</xref>; Pike, <xref rid="ece35875-bib-0059" ref-type="ref">1978</xref>). Epiphytes are a large part of the plant biodiversity (Gentry &#x00026; Dodson, <xref rid="ece35875-bib-0021" ref-type="ref">1987</xref>; Nieder, Prosper&#x000ed;, &#x00026; Michaloud, <xref rid="ece35875-bib-0052" ref-type="ref">2001</xref>; Wolf &#x00026; Alejandro, <xref rid="ece35875-bib-0085" ref-type="ref">2003</xref>; Zotz, <xref rid="ece35875-bib-0096" ref-type="ref">2013</xref>), total canopy biomass (Coxson &#x00026; Nadkarni, <xref rid="ece35875-bib-0014" ref-type="ref">1995</xref>; Nadkarni, Schaefer, Matelson, &#x00026; Solano, <xref rid="ece35875-bib-0051" ref-type="ref">2004</xref>), and nutrient pools for terrestrial ecosystems (Chen, Liu, &#x00026; Wang, <xref rid="ece35875-bib-0011" ref-type="ref">2009</xref>; Nadkarni, <xref rid="ece35875-bib-0050" ref-type="ref">1984</xref>; Pentecost, <xref rid="ece35875-bib-0058" ref-type="ref">1998</xref>) and play crucial roles in forest water balance and nutrient cycles (Coxson &#x00026; Nadkarni, <xref rid="ece35875-bib-0014" ref-type="ref">1995</xref>; Foster, <xref rid="ece35875-bib-0019" ref-type="ref">2001</xref>; Van Stan &#x00026; Pypker, <xref rid="ece35875-bib-0077" ref-type="ref">2015</xref>).</p><p>Epiphytes have no roots in the soil of the forest floor and need to efficiently access nutrients from different canopy resources (Benzing, <xref rid="ece35875-bib-0008" ref-type="ref">1990</xref>; Zotz &#x00026; Hietz, <xref rid="ece35875-bib-0098" ref-type="ref">2001</xref>), such as atmospheric deposition (Clark, Nadkarni, &#x00026; Gholz, <xref rid="ece35875-bib-0013" ref-type="ref">2005</xref>; Song et al., <xref rid="ece35875-bib-0071" ref-type="ref">2016</xref>; Stewart et al., <xref rid="ece35875-bib-0073" ref-type="ref">1995</xref>), stem flow and leaching from tree tissues (Wania, Hietz, &#x00026; Wanek, <xref rid="ece35875-bib-0079" ref-type="ref">2002</xref>), canopy soil (Matson, Corre, &#x00026; Veldkamp, <xref rid="ece35875-bib-0048" ref-type="ref">2014</xref>; Reich, Ewel, Nadkarni, Dawson, &#x00026; Evans, <xref rid="ece35875-bib-0062" ref-type="ref">2003</xref>), organic matter decomposition (Hietz, Wanek, &#x00026; Popp, <xref rid="ece35875-bib-0029" ref-type="ref">1999</xref>; Hietz, Wanek, Wania, &#x00026; Nadkarni, <xref rid="ece35875-bib-0030" ref-type="ref">2002</xref>), atmospheric N<sub>2</sub> fixation by lichens and bryophytes through their symbiotic cyanobacteria (Adams &#x00026; Duggan, <xref rid="ece35875-bib-0001" ref-type="ref">2008</xref>; Asplund &#x00026; Wardle, <xref rid="ece35875-bib-0006" ref-type="ref">2017</xref>; Deluca et al., <xref rid="ece35875-bib-0015" ref-type="ref">2002</xref>), and animals and the organic matter they import (Treseder, Davidson, &#x00026; Ehleringer, <xref rid="ece35875-bib-0075" ref-type="ref">1995</xref>). However, the forest canopy for epiphytes has generally been considered as an extreme habitat (Benzing, <xref rid="ece35875-bib-0008" ref-type="ref">1990</xref>), where water and nutrients are limited (Benzing, <xref rid="ece35875-bib-0008" ref-type="ref">1990</xref>; Zotz &#x00026; Hietz, <xref rid="ece35875-bib-0098" ref-type="ref">2001</xref>), irregularly available (Laube &#x00026; Zotz, <xref rid="ece35875-bib-0039" ref-type="ref">2003</xref>), and spatially variable (Hietz et al., <xref rid="ece35875-bib-0030" ref-type="ref">2002</xref>). Therefore, the study of the nutrient status of epiphytes and their nutritional adaptations is necessary. Ecological stoichiometry from marine and terrestrial plants may provide some methods and establish some criteria for the evaluation of epiphytes.</p><p>Ecological stoichiometry reveals the balance of multiple chemical elements in ecological interactions and processes, which is also referred to as the balance of energy and materials (Elser et al., <xref rid="ece35875-bib-0018" ref-type="ref">2000</xref>; Sterner &#x00026; Elser, <xref rid="ece35875-bib-0072" ref-type="ref">2002</xref>). Four aspects of ecological stoichiometry may be helpful to the stoichiometric study of epiphytes. First, the growth rate hypothesis proposes that rapidly growing organisms commonly have low biomass C:P and N:P ratios that reflect increased allocation to P&#x02010;rich ribosomal RNA (Sterner &#x00026; Elser, <xref rid="ece35875-bib-0072" ref-type="ref">2002</xref>) and growth rates that correlate positively with RNA, N, and P contents (&#x000c5;gren, <xref rid="ece35875-bib-0004" ref-type="ref">2004</xref>; Elser et al., <xref rid="ece35875-bib-0016" ref-type="ref">2003</xref>; Hessen, Jensen, Kyle, &#x00026; Elser, <xref rid="ece35875-bib-0027" ref-type="ref">2007</xref>; Nielsen, Enr&#x000ed;quez, Duarte, &#x00026; Sand&#x02010;Jensen, <xref rid="ece35875-bib-0053" ref-type="ref">1996</xref>). Second, the argument for stoichiometric homoeostasis is that organisms have the ability to maintain a given elemental composition despite variation in the elemental composition of its environment or resource supplies (Sterner &#x00026; Elser, <xref rid="ece35875-bib-0072" ref-type="ref">2002</xref>). Some degree of flexibility or low degree of homeostasis indicates that plants can change their elemental stoichiometries in response to changes in resource availability (Koerselman &#x00026; Meuleman, <xref rid="ece35875-bib-0037" ref-type="ref">1996</xref>; Yu et al., <xref rid="ece35875-bib-0092" ref-type="ref">2015</xref>). Third, the threshold ratios of N and P are widely used to predict N or P limitation in plants (G&#x000fc;sewell, <xref rid="ece35875-bib-0022" ref-type="ref">2004</xref>; G&#x000fc;sewell, Koerselman, &#x00026; Verhoeven, <xref rid="ece35875-bib-0023" ref-type="ref">2003</xref>; Koerselman &#x00026; Meuleman, <xref rid="ece35875-bib-0037" ref-type="ref">1996</xref>). However, the indirect evidence based on the N:P ratios is not always reliable (Yan, Tian, Han, Tang, &#x00026; Fang, <xref rid="ece35875-bib-0090" ref-type="ref">2017</xref>). Last, scaling relationships between nitrogen and phosphorus are widely found in different plant organs and plant functional groups (Kerkhoff, Fagan, Elser, &#x00026; Enquist, <xref rid="ece35875-bib-0034" ref-type="ref">2006</xref>; Zhang et al., <xref rid="ece35875-bib-0093" ref-type="ref">2018</xref>). Leaf nitrogen is usually scaled as 2/3 or 3/4 the power of leaf phosphorus (Niklas, Owens, Reich, &#x00026; Cobb, <xref rid="ece35875-bib-0055" ref-type="ref">2005</xref>; Reich et al., <xref rid="ece35875-bib-0064" ref-type="ref">2010</xref>), which can be used to predict the relative growth rates of plants (Niklas, <xref rid="ece35875-bib-0054" ref-type="ref">2006</xref>).</p><p>The ecological stoichiometry in plants can be influenced not only by environmental factors but also by species, organs, and functional types. In large&#x02010;scale studies, the elemental composition and stoichiometry of terrestrial plants are influenced by forest type, climate, and soil (Chen, Han, Tang, Tang, &#x00026; Fang, <xref rid="ece35875-bib-0012" ref-type="ref">2013</xref>; Han, Fang, Reich, Woodward, &#x00026; Wang, <xref rid="ece35875-bib-0025" ref-type="ref">2011</xref>; Sardans et al., <xref rid="ece35875-bib-0066" ref-type="ref">2015</xref>; Tian et al., <xref rid="ece35875-bib-0074" ref-type="ref">2018</xref>). In a European forest, the identity of tree species can explain 56.7% of the variance of the overall foliar elemental composition and stoichiometry (Sardans et al., <xref rid="ece35875-bib-0066" ref-type="ref">2015</xref>). Between plant organs, the scaling relationship of N and P differs between primarily structural organs (stems and roots) and metabolically active leaves (Kerkhoff et al., <xref rid="ece35875-bib-0034" ref-type="ref">2006</xref>). In an arid and hot grassland, plants allocate more resources to leaves than to stems for adaptations to the nutrient&#x02010;limited environment (Yan et al., <xref rid="ece35875-bib-0089" ref-type="ref">2016</xref>). The stoichiometry is different among different functional groups of terrestrial plants, including between herbaceous and woody plants (Kerkhoff et al., <xref rid="ece35875-bib-0034" ref-type="ref">2006</xref>; Tian et al., <xref rid="ece35875-bib-0074" ref-type="ref">2018</xref>), deciduous and evergreen plants (Aerts &#x00026; Chapin, <xref rid="ece35875-bib-0003" ref-type="ref">1999</xref>; G&#x000fc;sewell, <xref rid="ece35875-bib-0022" ref-type="ref">2004</xref>), gymnosperms and angiosperms (Sardans et al., <xref rid="ece35875-bib-0065" ref-type="ref">2016</xref>), and among herbs, shrubs, and trees (Han, Fang, Guo, &#x00026; Zhang, <xref rid="ece35875-bib-0024" ref-type="ref">2005</xref>). Deciduous plants generally have mineral&#x02010;rich leaves compared with those of evergreen plants (Aerts &#x00026; Chapin, <xref rid="ece35875-bib-0003" ref-type="ref">1999</xref>; Chen et al., <xref rid="ece35875-bib-0012" ref-type="ref">2013</xref>; G&#x000fc;sewell, <xref rid="ece35875-bib-0022" ref-type="ref">2004</xref>; Han et al., <xref rid="ece35875-bib-0024" ref-type="ref">2005</xref>, <xref rid="ece35875-bib-0025" ref-type="ref">2011</xref>), and between plant functional types, the N and P contents are higher in herbs than those in woody plants (Han et al., <xref rid="ece35875-bib-0024" ref-type="ref">2005</xref>; Tian et al., <xref rid="ece35875-bib-0074" ref-type="ref">2018</xref>).</p><p>Epiphytes can survive and flourish in the forest canopy because they evolved a diversity of morphological, anatomical, and physiological adaptations (Benzing, <xref rid="ece35875-bib-0008" ref-type="ref">1990</xref>; Zotz &#x00026; Hietz, <xref rid="ece35875-bib-0098" ref-type="ref">2001</xref>). Many morphological structures of epiphytes contribute to obtain and share nutrients, such as tank leaves of epiphytic bromeliads (Hietz &#x00026; Wanek, <xref rid="ece35875-bib-0028" ref-type="ref">2003</xref>; Inselsbacher et al., <xref rid="ece35875-bib-0032" ref-type="ref">2007</xref>; Winkler &#x00026; Zotz, <xref rid="ece35875-bib-0083" ref-type="ref">2009</xref>) and trichomes of tank leaves for nutrient uptake (Winkler &#x00026; Zotz, <xref rid="ece35875-bib-0084" ref-type="ref">2010</xref>), intact rhizomes for resource sharing in epiphytic ferns (Lu et al., <xref rid="ece35875-bib-0046" ref-type="ref">2016</xref>), the velamen of aerial roots for nutrient uptake in epiphytic orchids (Zotz &#x00026; Winkler, <xref rid="ece35875-bib-0100" ref-type="ref">2013</xref>), and older and leafless stems for resource storage in an epiphytic orchid (Zotz, <xref rid="ece35875-bib-0094" ref-type="ref">1999</xref>). Mycorrhizae in epiphytic orchids occur widely and increase the uptake of water and mineral nutrients (Lesica &#x00026; Antibus, <xref rid="ece35875-bib-0042" ref-type="ref">1990</xref>). Moreover, the C<sub>3</sub>&#x02010;CAM epiphytes have higher long&#x02010;term water use efficiency for net CO<sub>2</sub> uptake than that of the C<sub>3</sub> epiphytes (Zotz &#x00026; Winter, <xref rid="ece35875-bib-0101" ref-type="ref">1994</xref>). The resorption of nutrients in vascular epiphytes can also alleviate nutrient restrictions in the canopy (Zotz, <xref rid="ece35875-bib-0095" ref-type="ref">2004</xref>). However, the growth of epiphytes remains limited, as indirectly demonstrated by the low contents of nutrient elements (Hietz et al., <xref rid="ece35875-bib-0029" ref-type="ref">1999</xref>; Hofstede, Wolf, &#x00026; Benzing, <xref rid="ece35875-bib-0031" ref-type="ref">1993</xref>; Zotz, <xref rid="ece35875-bib-0095" ref-type="ref">2004</xref>; Zotz &#x00026; Richter, <xref rid="ece35875-bib-0099" ref-type="ref">2006</xref>), high foliar N:P (10.2&#x02013;33.8) ratios (Lasso &#x00026; Ackerman, <xref rid="ece35875-bib-0038" ref-type="ref">2013</xref>; Wanek &#x00026; Zotz, <xref rid="ece35875-bib-0078" ref-type="ref">2011</xref>; Zotz, <xref rid="ece35875-bib-0095" ref-type="ref">2004</xref>), widespread P limitation (Benner &#x00026; Vitousek, <xref rid="ece35875-bib-0007" ref-type="ref">2007</xref>; Cardel&#x000fa;s &#x00026; Mack, <xref rid="ece35875-bib-0010" ref-type="ref">2010</xref>; Zotz &#x00026; Richter, <xref rid="ece35875-bib-0099" ref-type="ref">2006</xref>), and very slow growth rates (Laube &#x00026; Zotz, <xref rid="ece35875-bib-0039" ref-type="ref">2003</xref>; Schmidt &#x00026; Zotz, <xref rid="ece35875-bib-0070" ref-type="ref">2002</xref>).</p><p>Although the nutrient sources of epiphytes and their adaptations to canopy habitats were identified in previous studies (Hietz et al., <xref rid="ece35875-bib-0029" ref-type="ref">1999</xref>; Song et al., <xref rid="ece35875-bib-0071" ref-type="ref">2016</xref>; Zotz &#x00026; Hietz, <xref rid="ece35875-bib-0098" ref-type="ref">2001</xref>), the nutrient status and adaptations of the entire epiphyte community remain unclear. In stoichiometric studies of terrestrial plants, K and Ca are rarely studied, although these elements may be important for epiphytes because K alleviates drought stress in plants (Sardans &#x00026; Pe&#x000f1;uelas, <xref rid="ece35875-bib-0067" ref-type="ref">2015</xref>; Sardans, Pe&#x000f1;uelas, Coll, Vayreda, &#x00026; Rivas&#x02010;Ubach, <xref rid="ece35875-bib-0068" ref-type="ref">2012</xref>), and Ca<sup>2+</sup> is an intracellular secondary messenger that transmits signals of environmental changes (Bush, <xref rid="ece35875-bib-0009" ref-type="ref">1995</xref>; Lecourieux, Ranjeva, &#x00026; Pugin, <xref rid="ece35875-bib-0040" ref-type="ref">2006</xref>). In this study, the C, N, P, K, and Ca contents and their ratios in the dominant epiphyte species of lichens, bryophytes, ferns, and spermatophytes were analyzed. Based on the theory of ecological stoichiometry, the objectives of this study were the following: (a) to determine the stoichiometric characteristics of epiphytes across different levels of elements, organs, species, functional groups, and communities; (b) to determine the stoichiometry of K and Ca and their roles in epiphytes; and (c) to speculate possible nutritional adaptations in epiphytes.</p></sec><sec sec-type="materials-and-methods" id="ece35875-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35875-sec-0003"><label>2.1</label><title>Study site</title><p>The study was conducted in the Ailao Mountains National Nature Reserve (23&#x000b0;35&#x02032;&#x02013;24&#x000b0;44&#x02032;N, 100&#x000b0;54&#x02032;&#x02013;101&#x000b0;30&#x02032;E) in the central area of Yunnan Province, Southwest China. The reserve is at an altitude of 2,000&#x02013;2,750&#x000a0;m. The annual mean air temperature is 11.3&#x000b0;C, with a minimum monthly mean temperature of 5.7&#x000b0;C in January and a maximum monthly mean temperature of 15.6&#x000b0;C in July, and the mean annual precipitation is 1,841&#x000a0;mm, with 86% falling in the rainy season from May to October. The mean annual relative humidity of the reserve is 85% (Li, Liu, &#x00026; Li, <xref rid="ece35875-bib-0043" ref-type="ref">2013</xref>). Montane moist evergreen broad&#x02010;leaved forest is the predominant vegetation. The dominant tree species in the forest are <italic>Lithocarpus xylocarpus</italic>, <italic>L. hancei</italic>, <italic>L. chintungensis</italic>, <italic>Schima noronhae</italic>, <italic>Manglietia insignis</italic>, and <italic>Castanopsis wattii</italic> (Li et al., <xref rid="ece35875-bib-0043" ref-type="ref">2013</xref>; Ma et al., <xref rid="ece35875-bib-0047" ref-type="ref">2009</xref>).</p><p>The primary forest in the reserve has a high diversity of epiphytes. The branch and trunk surfaces of trees are occupied by nearly 600 epiphytic species (Li et al., <xref rid="ece35875-bib-0043" ref-type="ref">2013</xref>), including lichens (183), bryophytes (176), ferns (117), and spermatophytes (113) (Li et al., <xref rid="ece35875-bib-0043" ref-type="ref">2013</xref>, <xref rid="ece35875-bib-0044" ref-type="ref">2014</xref>; Ma et al., <xref rid="ece35875-bib-0047" ref-type="ref">2009</xref>; Xu &#x00026; Liu, <xref rid="ece35875-bib-0088" ref-type="ref">2005</xref>). The dominant lichens are <italic>Usnea florida</italic>, <italic>Cetrelia olivetorum</italic>, <italic>Everniastrum nepalense</italic>, <italic>Nephromopsis ornata</italic>, and <italic>N. pallescens</italic>. The dominant bryophytes are <italic>Plagiochila assamica</italic>, <italic>Homaliodendron flabellatum</italic>, <italic>H. scalpellifolium</italic>, <italic>Calyptothecium hookeri</italic>, and <italic>P. subtropica</italic>. The dominant ferns are <italic>Lepisorus scolopendrium</italic>, <italic>Polypodiodes subamoena</italic>, <italic>Araiostegia perdurans</italic>, <italic>Vittaria flexuosa</italic>, and <italic>Oleandra wallichii</italic>. The dominant spermatophytes are <italic>Agapetesm annii</italic>, <italic>Aeschynanthus buxifolius</italic>, <italic>Briggsia longifolia</italic>, and <italic>Cautleya gracilis</italic>.</p></sec><sec id="ece35875-sec-0004"><label>2.2</label><title>Experimental design and sampling</title><p>In the primary forest, six experimental plots (60&#x000a0;m&#x000a0;&#x000d7;&#x000a0;60&#x000a0;m) were set up for sampling in 2014. Then, two plots were chosen to identify all epiphytes and their host trees and to investigate the distribution of epiphytes on host trees in the early rainy season. To choose the dominant epiphytes and their primary host tree species for the study, field data were combined with literature information of epiphyte diversity in this region (Li et al., <xref rid="ece35875-bib-0043" ref-type="ref">2013</xref>; Ma et al., <xref rid="ece35875-bib-0047" ref-type="ref">2009</xref>; Xu &#x00026; Liu, <xref rid="ece35875-bib-0088" ref-type="ref">2005</xref>). Ultimately, twenty dominant epiphytes were selected, depending on the actual situation when sampling in the field. The twenty dominant species included six lichen species, five bryophyte species, six fern species, and three spermatophyte species (Table <xref rid="ece35875-tbl-0001" ref-type="table">1</xref>). The lichen species were chlorolichens containing green algae as their photobiont.</p><table-wrap id="ece35875-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Element concentrations and mass ratios of dominant epiphytes (mean&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Phylogenetic groups</th><th align="left" valign="top" rowspan="1" colspan="1">Species</th><th align="left" valign="top" rowspan="1" colspan="1">C (mg/g)</th><th align="left" valign="top" rowspan="1" colspan="1">N (mg/g)</th><th align="left" valign="top" rowspan="1" colspan="1">P (mg/g)</th><th align="left" valign="top" rowspan="1" colspan="1">K (mg/g)</th><th align="left" valign="top" rowspan="1" colspan="1">Ca (mg/g)</th><th align="left" valign="top" rowspan="1" colspan="1">N:P</th><th align="left" valign="top" rowspan="1" colspan="1">N:K</th><th align="left" valign="top" rowspan="1" colspan="1">N:Ca</th></tr></thead><tbody><tr><td align="left" rowspan="6" colspan="1">Lichens</td><td align="left" rowspan="1" colspan="1">
+<italic>Usnea florida</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">436.00&#x000a0;&#x000b1;&#x000a0;2.92fg</td><td align="left" rowspan="1" colspan="1">8.80&#x000a0;&#x000b1;&#x000a0;0.53f</td><td align="left" rowspan="1" colspan="1">0.46&#x000a0;&#x000b1;&#x000a0;0.09d</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.17&#x000a0;&#x000b1;&#x000a0;0.40fg</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.70&#x000a0;&#x000b1;&#x000a0;0.50d</td><td align="left" rowspan="1" colspan="1">19.79&#x000a0;&#x000b1;&#x000a0;3.48a</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.81&#x000a0;&#x000b1;&#x000a0;0.37d</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.41&#x000a0;&#x000b1;&#x000a0;0.32cd</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Nephromopsis ornata</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">442.67&#x000a0;&#x000b1;&#x000a0;5.13efh</td><td align="left" rowspan="1" colspan="1">8.99&#x000a0;&#x000b1;&#x000a0;0.71f</td><td align="left" rowspan="1" colspan="1">0.70&#x000a0;&#x000b1;&#x000a0;0.18cd</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.85&#x000a0;&#x000b1;&#x000a0;0.74efg</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">6.83&#x000a0;&#x000b1;&#x000a0;2.14bcd</td><td align="left" rowspan="1" colspan="1">13.47&#x000a0;&#x000b1;&#x000a0;3.44abcdf</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.41&#x000a0;&#x000b1;&#x000a0;0.49ade</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.45&#x000a0;&#x000b1;&#x000a0;0.56ce</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Everniastrum cirrhatum</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">452.00&#x000a0;&#x000b1;&#x000a0;1.00e</td><td align="left" rowspan="1" colspan="1">10.60&#x000a0;&#x000b1;&#x000a0;1.00ef</td><td align="left" rowspan="1" colspan="1">0.66&#x000a0;&#x000b1;&#x000a0;0.13cd</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.22&#x000a0;&#x000b1;&#x000a0;0.40fg</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.85&#x000a0;&#x000b1;&#x000a0;0.31d</td><td align="left" rowspan="1" colspan="1">16.58&#x000a0;&#x000b1;&#x000a0;3.67ab</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.33&#x000a0;&#x000b1;&#x000a0;1.53acd</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.74&#x000a0;&#x000b1;&#x000a0;0.39ab</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Cetrelia braunsiana</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">457.00&#x000a0;&#x000b1;&#x000a0;7.70cjh</td><td align="left" rowspan="1" colspan="1">8.54&#x000a0;&#x000b1;&#x000a0;0.82f</td><td align="left" rowspan="1" colspan="1">0.65&#x000a0;&#x000b1;&#x000a0;0.05cd</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.31&#x000a0;&#x000b1;&#x000a0;0.04fi</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.12&#x000a0;&#x000b1;&#x000a0;0.25de</td><td align="left" rowspan="1" colspan="1">13.55&#x000a0;&#x000b1;&#x000a0;0.80abcdg</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.63&#x000a0;&#x000b1;&#x000a0;0.10ad</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.81&#x000a0;&#x000b1;&#x000a0;0.17bde</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Ramalina conduplicans</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">436.17&#x000a0;&#x000b1;&#x000a0;2.86f</td><td align="left" rowspan="1" colspan="1">8.72&#x000a0;&#x000b1;&#x000a0;0.66f</td><td align="left" rowspan="1" colspan="1">0.49&#x000a0;&#x000b1;&#x000a0;0.08d</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.99&#x000a0;&#x000b1;&#x000a0;0.15h</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.05&#x000a0;&#x000b1;&#x000a0;0.34e</td><td align="left" rowspan="1" colspan="1">18.18&#x000a0;&#x000b1;&#x000a0;1.82a</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">4.39&#x000a0;&#x000b1;&#x000a0;0.30c</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.91&#x000a0;&#x000b1;&#x000a0;2.54a</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Rimelia cetrata</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">463.25&#x000a0;&#x000b1;&#x000a0;1.71c</td><td align="left" rowspan="1" colspan="1">9.52&#x000a0;&#x000b1;&#x000a0;1.57ef</td><td align="left" rowspan="1" colspan="1">1.39&#x000a0;&#x000b1;&#x000a0;0.43bcd</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.75&#x000a0;&#x000b1;&#x000a0;0.37efgh</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.65&#x000a0;&#x000b1;&#x000a0;0.65cde</td><td align="left" rowspan="1" colspan="1">7.08&#x000a0;&#x000b1;&#x000a0;1.15fg</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.54&#x000a0;&#x000b1;&#x000a0;0.42adef</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.64&#x000a0;&#x000b1;&#x000a0;0.51abcd</td></tr><tr><td align="left" rowspan="5" colspan="1">Bryophytes</td><td align="left" rowspan="1" colspan="1">
+<italic>Plagiochila assamica</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">476.30&#x000a0;&#x000b1;&#x000a0;6.14b</td><td align="left" rowspan="1" colspan="1">19.86&#x000a0;&#x000b1;&#x000a0;2.80c</td><td align="left" rowspan="1" colspan="1">1.76&#x000a0;&#x000b1;&#x000a0;0.34b</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">5.20&#x000a0;&#x000b1;&#x000a0;1.39e</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">5.39&#x000a0;&#x000b1;&#x000a0;0.73c</td><td align="left" rowspan="1" colspan="1">11.59&#x000a0;&#x000b1;&#x000a0;2.02abeg</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">4.22&#x000a0;&#x000b1;&#x000a0;1.71acd</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.72&#x000a0;&#x000b1;&#x000a0;0.54ab</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Homaliodendron flabellatum</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">454.65&#x000a0;&#x000b1;&#x000a0;2.91de</td><td align="left" rowspan="1" colspan="1">18.60&#x000a0;&#x000b1;&#x000a0;2.29c</td><td align="left" rowspan="1" colspan="1">2.20&#x000a0;&#x000b1;&#x000a0;0.51ab</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.18&#x000a0;&#x000b1;&#x000a0;0.72fg</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.34&#x000a0;&#x000b1;&#x000a0;0.72b</td><td align="left" rowspan="1" colspan="1">8.83&#x000a0;&#x000b1;&#x000a0;2.14cdf</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">6.20&#x000a0;&#x000b1;&#x000a0;1.87ab</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.25&#x000a0;&#x000b1;&#x000a0;0.38ce</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Homaliodendron scalpellifolium</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">456.50&#x000a0;&#x000b1;&#x000a0;3.31d</td><td align="left" rowspan="1" colspan="1">18.62&#x000a0;&#x000b1;&#x000a0;2.45c</td><td align="left" rowspan="1" colspan="1">2.14&#x000a0;&#x000b1;&#x000a0;0.38a</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.56&#x000a0;&#x000b1;&#x000a0;0.56g</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">9.04&#x000a0;&#x000b1;&#x000a0;0.89b</td><td align="left" rowspan="1" colspan="1">8.90&#x000a0;&#x000b1;&#x000a0;1.78cdf</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.71&#x000a0;&#x000b1;&#x000a0;2.28b</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.07&#x000a0;&#x000b1;&#x000a0;0.30ce</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Calyptothecium hookeri</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">456.46&#x000a0;&#x000b1;&#x000a0;5.14de</td><td align="left" rowspan="1" colspan="1">20.91&#x000a0;&#x000b1;&#x000a0;2.46c</td><td align="left" rowspan="1" colspan="1">1.60&#x000a0;&#x000b1;&#x000a0;0.54bc</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.44&#x000a0;&#x000b1;&#x000a0;0.87fgh</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.92&#x000a0;&#x000b1;&#x000a0;1.11b</td><td align="left" rowspan="1" colspan="1">13.99&#x000a0;&#x000b1;&#x000a0;3.88abcdf</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">5.41&#x000a0;&#x000b1;&#x000a0;2.48abcdg</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.32&#x000a0;&#x000b1;&#x000a0;1.06bc</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Plagiochila subtropica</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">458.63&#x000a0;&#x000b1;&#x000a0;11.17c</td><td align="left" rowspan="1" colspan="1">19.92&#x000a0;&#x000b1;&#x000a0;3.44c</td><td align="left" rowspan="1" colspan="1">1.51&#x000a0;&#x000b1;&#x000a0;0.59bcd</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.49&#x000a0;&#x000b1;&#x000a0;0.71ghi</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">9.57&#x000a0;&#x000b1;&#x000a0;1.83ab</td><td align="left" rowspan="1" colspan="1">16.44&#x000a0;&#x000b1;&#x000a0;6.78abcdf</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">9.49&#x000a0;&#x000b1;&#x000a0;3.82abcd</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.37&#x000a0;&#x000b1;&#x000a0;0.76bc</td></tr><tr><td align="left" rowspan="6" colspan="1">Ferns (leaf)</td><td align="left" rowspan="1" colspan="1">
+<italic>Lepisorus scolopendrium</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">439.17&#x000a0;&#x000b1;&#x000a0;8.97fghij</td><td align="left" rowspan="1" colspan="1">22.92&#x000a0;&#x000b1;&#x000a0;3.53bc</td><td align="left" rowspan="1" colspan="1">2.67&#x000a0;&#x000b1;&#x000a0;1.00ab</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">34.16&#x000a0;&#x000b1;&#x000a0;6.59a</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.66&#x000a0;&#x000b1;&#x000a0;1.50b</td><td align="left" rowspan="1" colspan="1">9.58&#x000a0;&#x000b1;&#x000a0;3.74bcdf</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.68&#x000a0;&#x000b1;&#x000a0;0.12g</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.13&#x000a0;&#x000b1;&#x000a0;1.21bcd</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Haplopteris flexuosa</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">450.77&#x000a0;&#x000b1;&#x000a0;4.25eh</td><td align="left" rowspan="1" colspan="1">24.81&#x000a0;&#x000b1;&#x000a0;2.13b</td><td align="left" rowspan="1" colspan="1">2.99&#x000a0;&#x000b1;&#x000a0;0.61a</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">23.20&#x000a0;&#x000b1;&#x000a0;3.24b</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">4.15&#x000a0;&#x000b1;&#x000a0;0.85cd</td><td align="left" rowspan="1" colspan="1">8.63&#x000a0;&#x000b1;&#x000a0;2.03df</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.09&#x000a0;&#x000b1;&#x000a0;0.17f</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">6.18&#x000a0;&#x000b1;&#x000a0;1.23a</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Araiostegia perdurans</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">462.29&#x000a0;&#x000b1;&#x000a0;4.25c</td><td align="left" rowspan="1" colspan="1">20.48&#x000a0;&#x000b1;&#x000a0;3.06c</td><td align="left" rowspan="1" colspan="1">1.73&#x000a0;&#x000b1;&#x000a0;0.61b</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">18.58&#x000a0;&#x000b1;&#x000a0;3.65bc</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">5.45&#x000a0;&#x000b1;&#x000a0;0.89c</td><td align="left" rowspan="1" colspan="1">12.88&#x000a0;&#x000b1;&#x000a0;3.65abcd</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.13&#x000a0;&#x000b1;&#x000a0;0.21f</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.84&#x000a0;&#x000b1;&#x000a0;0.83ab</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Polypodiodes subamoena</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">456.38&#x000a0;&#x000b1;&#x000a0;5.91de</td><td align="left" rowspan="1" colspan="1">26.87&#x000a0;&#x000b1;&#x000a0;3.55ab</td><td align="left" rowspan="1" colspan="1">2.57&#x000a0;&#x000b1;&#x000a0;0.97ab</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">28.06&#x000a0;&#x000b1;&#x000a0;5.03ab</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">5.03&#x000a0;&#x000b1;&#x000a0;0.90cd</td><td align="left" rowspan="1" colspan="1">11.69&#x000a0;&#x000b1;&#x000a0;3.90abcdf</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.98&#x000a0;&#x000b1;&#x000a0;0.17f</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">5.45&#x000a0;&#x000b1;&#x000a0;0.81a</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Asplenium ensiforme</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">429.56&#x000a0;&#x000b1;&#x000a0;2.07g</td><td align="left" rowspan="1" colspan="1">25.14&#x000a0;&#x000b1;&#x000a0;2.31ab</td><td align="left" rowspan="1" colspan="1">3.34&#x000a0;&#x000b1;&#x000a0;0.84a</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">17.30&#x000a0;&#x000b1;&#x000a0;1.44c</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">10.74&#x000a0;&#x000b1;&#x000a0;0.90a</td><td align="left" rowspan="1" colspan="1">7.93&#x000a0;&#x000b1;&#x000a0;1.97f</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.46&#x000a0;&#x000b1;&#x000a0;0.18e</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.36&#x000a0;&#x000b1;&#x000a0;0.29ce</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Asplenium indicum</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">442.44&#x000a0;&#x000b1;&#x000a0;3.01fij</td><td align="left" rowspan="1" colspan="1">29.24&#x000a0;&#x000b1;&#x000a0;2.48a</td><td align="left" rowspan="1" colspan="1">2.39&#x000a0;&#x000b1;&#x000a0;0.50ab</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.00&#x000a0;&#x000b1;&#x000a0;1.72d</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.86&#x000a0;&#x000b1;&#x000a0;1.05ab</td><td align="left" rowspan="1" colspan="1">12.64&#x000a0;&#x000b1;&#x000a0;2.2abe</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">2.27&#x000a0;&#x000b1;&#x000a0;0.24ad</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.35&#x000a0;&#x000b1;&#x000a0;0.56abd</td></tr><tr><td align="left" rowspan="3" colspan="1">Spermatophytes (leaf)</td><td align="left" rowspan="1" colspan="1">
+<italic>Agapetes mannii</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">522.00&#x000a0;&#x000b1;&#x000a0;17.57a</td><td align="left" rowspan="1" colspan="1">11.13&#x000a0;&#x000b1;&#x000a0;1.68ef</td><td align="left" rowspan="1" colspan="1">0.75&#x000a0;&#x000b1;&#x000a0;0.02c</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">6.11&#x000a0;&#x000b1;&#x000a0;1.91efgh</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">6.70&#x000a0;&#x000b1;&#x000a0;1.91bcd</td><td align="left" rowspan="1" colspan="1">14.33&#x000a0;&#x000b1;&#x000a0;2.13abce</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.81&#x000a0;&#x000b1;&#x000a0;0.37adef</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.70&#x000a0;&#x000b1;&#x000a0;0.50ce</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Aeschynanthus buxifolius</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">456.22&#x000a0;&#x000b1;&#x000a0;19.70 bcfghi</td><td align="left" rowspan="1" colspan="1">14.12&#x000a0;&#x000b1;&#x000a0;3.05de</td><td align="left" rowspan="1" colspan="1">1.42&#x000a0;&#x000b1;&#x000a0;0.57bcd</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">19.77&#x000a0;&#x000b1;&#x000a0;7.24abcdef</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">9.49&#x000a0;&#x000b1;&#x000a0;2.21ab</td><td align="left" rowspan="1" colspan="1">9.80&#x000a0;&#x000b1;&#x000a0;2.13bcdf</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.71&#x000a0;&#x000b1;&#x000a0;0.19fg</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.45&#x000a0;&#x000b1;&#x000a0;0.45c</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Briggsia&#x000a0;longifolia</italic>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">439.18&#x000a0;&#x000b1;&#x000a0;2.96fij</td><td align="left" rowspan="1" colspan="1">16.27&#x000a0;&#x000b1;&#x000a0;0.96d</td><td align="left" rowspan="1" colspan="1">2.01&#x000a0;&#x000b1;&#x000a0;0.51ab</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">14.58&#x000a0;&#x000b1;&#x000a0;2.21cd</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.68&#x000a0;&#x000b1;&#x000a0;0.73b</td><td align="left" rowspan="1" colspan="1">8.62&#x000a0;&#x000b1;&#x000a0;2.48def</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.14&#x000a0;&#x000b1;&#x000a0;0.19ef</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1.89&#x000a0;&#x000b1;&#x000a0;0.20ce</td></tr><tr><td align="left" colspan="2" rowspan="1">All species</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">454.38&#x000a0;&#x000b1;&#x000a0;19.58</td><td align="left" rowspan="1" colspan="1">17.20&#x000a0;&#x000b1;&#x000a0;6.77</td><td align="left" rowspan="1" colspan="1">1.67&#x000a0;&#x000b1;&#x000a0;0.87</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">10.55&#x000a0;&#x000b1;&#x000a0;9.86</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">6.36&#x000a0;&#x000b1;&#x000a0;2.78</td><td align="left" rowspan="1" colspan="1">12.23&#x000a0;&#x000b1;&#x000a0;3.61</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.23&#x000a0;&#x000b1;&#x000a0;2.78</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">3.25&#x000a0;&#x000b1;&#x000a0;1.82</td></tr><tr><td align="left" colspan="3" rowspan="1">Leaf of dominant tree species in the study site</td><td align="left" rowspan="1" colspan="1">12.88&#x000a0;&#x000b1;&#x000a0;1.74</td><td align="left" rowspan="1" colspan="1">0.97&#x000a0;&#x000b1;&#x000a0;0.17</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.30&#x000a0;&#x000b1;&#x000a0;2.25</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">5.40&#x000a0;&#x000b1;&#x000a0;0.91</td><td align="left" rowspan="1" colspan="1">13.38&#x000a0;&#x000b1;&#x000a0;1.54</td><td align="left" colspan="2" rowspan="1">(Liu, Fox, &#x00026; Xu, <xref rid="ece35875-bib-0045" ref-type="ref">2002</xref>)</td></tr><tr><td align="left" colspan="3" rowspan="1">Leaf of terrestrial plants in China</td><td align="left" rowspan="1" colspan="1">20.20</td><td align="left" rowspan="1" colspan="1">1.45</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">16.30</td><td align="left" colspan="2" rowspan="1">(Han et al., <xref rid="ece35875-bib-0024" ref-type="ref">2005</xref>)</td></tr><tr><td align="left" colspan="3" rowspan="1">Leaf of global terrestrial plants</td><td align="left" rowspan="1" colspan="1">20.10</td><td align="left" rowspan="1" colspan="1">1.77</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">13.80</td><td align="left" colspan="2" rowspan="1">(Reich &#x00026; Oleksyn, <xref rid="ece35875-bib-0063" ref-type="ref">2004</xref>)</td></tr></tbody></table><table-wrap-foot id="ece35875-ntgp-0002"><title>Note</title><fn id="ece35875-note-0002"><p>Different letters indicate significant differences (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Field sampling was conducted during the mid&#x02010;period of the rainy season (from July 15 to August 15). This sampling period was the most suitable for epiphyte growth throughout the year. In each plot, 20&#x02013;30 replicate samples of each epiphytic species were collected from their primary host trees. These replicate samples were collected randomly from different tree individuals and were prepared separately by tree species. Mature and healthy plants were collected for samples. The bryophytes were mainly collected from tree trunks. The ferns and spermatophytes were collected from the trunks and primary and secondary branches on the host trees. The lichens were mainly collected from the outer branches. These samplings were completed with self&#x02010;made high&#x02010;branch scissors and ladders.</p><p>All plant samples were carefully cleaned with distilled water and oven&#x02010;dried at 70&#x000b0;C for 48&#x000a0;hr. The dried plant samples of roots, stems, and leaves from ferns and spermatophytes were prepared separately. All samples were ground to fine powder, using a small plant grinder. Some small samples from lichens and bryophytes were cut into sufficiently small pieces with scissors and then ground to powder with a mortar.</p></sec><sec id="ece35875-sec-0005"><label>2.3</label><title>Chemical analyses</title><p>All powder samples were oven&#x02010;dried at 60&#x000b0;C for 24&#x000a0;hr before analysis of the nutrient concentrations. The total C and N concentrations of the plant samples were determined with an elemental analyzer (Vario MAX CN Elemental Analyzer, Elementar). Before measuring the total P, K, and Ca concentrations, plant samples were digested with HNO<sub>3</sub>&#x02010;HClO<sub>4</sub>. All samples were analyzed for P, K, and Ca with an inductively coupled plasma atomic emission spectrometer (iCAP6300, Thermo Fisher Scientific, Inc.).</p></sec><sec id="ece35875-sec-0006"><label>2.4</label><title>Statistical analyses</title><p>All the element ratios were calculated on the basis of mass in this study. One&#x02010;way ANOVA and multiple comparisons were used to analyze the differences in element concentrations and mass ratios among epiphyte species. This variance analysis was also conducted to compare whether differences occurred in different organs or functional groups. To compare stoichiometric characteristics at the species level, the leaves of ferns and spermatophytes were chosen, because leaves were the photosynthetic structures of these vascular plants and were equivalent to lichen and bryophyte tissues. Before the analysis of variance, all data were subjected to tests for normality and homogeneity. The data that met the homogeneity test were analyzed with Fisher's least significant test (LSD). The data that did not pass the test for homogeneity were analyzed by the Kruskal&#x02013;Wallis H test. The power function model (Y&#x000a0;=&#x000a0;bX<sup>a</sup>) was used to explore the relationships between N and P. The significance of the regression models was determined by an <italic>F</italic> test. A factor analysis (FA) was performed to analyze the possible relationships between epiphytes and their element stoichiometry (element concentrations and ratios). The common factors in the factor analysis were rotated by varimax. All statistical analyses were performed using the SPSS statistical software package v.19.0 (IBM Corporation).</p></sec></sec><sec sec-type="results" id="ece35875-sec-0007"><label>3</label><title>RESULTS</title><sec id="ece35875-sec-0008"><label>3.1</label><title>Element concentrations and mass ratios across all species</title><p>The mean concentrations of C, N, P, K, and Ca for all the epiphytes were 454.38, 17.20, 1.67, 10.55, and 6.36&#x000a0;mg/g (C:N:P:K:Ca&#x000a0;=&#x000a0;272:10:1:6:4), respectively (Table <xref rid="ece35875-tbl-0001" ref-type="table">1</xref>). The element concentrations and ratios varied widely among epiphyte species, with wide ranges of values for C (429.56&#x02013;522.00&#x000a0;mg/g), N (8.54&#x02013;29.42&#x000a0;mg/g), P (0.46&#x02013;3.34&#x000a0;mg/g), K (1.99&#x02013;34.16&#x000a0;mg/g), Ca (1.05&#x02013;10.74&#x000a0;mg/g), N:P (7.08&#x02013;19.79), N:K (0.68&#x02013;9.49), and N:Ca (1.45&#x02013;8.91). Most epiphyte species also differed significantly within the taxonomic groups (i.e., lichens, bryophytes, ferns, and spermatophytes) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05). Only in a few cases were nutrients or their ratios not significantly different among the species within a group, such as N in lichens, N in bryophytes, P in lichens, and the N:Ca ratio in spermatophytes. The mean N, P, K, and Ca concentrations in the epiphytes were higher than those in the leaves of the host trees in this study site. However, the N and K concentrations in most lichens were lower than those in the leaves of the host trees. The mean N:P ratio of epiphytes was 12.23, which was similar to that in the leaves of the tree species in this study site or to that in terrestrial plants globally but lower than that in the leaves of terrestrial plants in China.</p></sec><sec id="ece35875-sec-0009"><label>3.2</label><title>Patterns of stoichiometry across functional groups and plant organs</title><p>The element concentrations and mass ratios of epiphytes were compared among phylogenetic groups (Figure <xref rid="ece35875-fig-0001" ref-type="fig">1</xref>a). The lichens and the leaves of ferns had lower C concentrations than the bryophytes and the leaves of spermatophytes. The N concentrations were significantly different among the phylogenetic groups (ferns&#x000a0;&#x0003e;&#x000a0;bryophytes&#x0003e;spermatophytes&#x000a0;&#x0003e;&#x000a0;lichens) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05). The lowest and highest P concentrations were in the lichens and the leaves of ferns, respectively. The K concentrations in the leaves of ferns and spermatophytes were significantly higher than those in the lichens and bryophytes (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05). The highest Ca concentration was in the leaves of spermatophytes. The lichens had higher N:P ratios than those in the other plant groups. The order of the N:K ratio among groups was bryophytes&#x000a0;&#x0003e;&#x000a0;lichens&#x0003e;ferns and spermatophytes. The leaves of the spermatophytes had the lowest N:Ca ratios.</p><fig fig-type="Figure" xml:lang="en" id="ece35875-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Element concentrations (mg/g) and mass ratios across different functional groups and plant organs. (a) Phylogenetic groups (lichens, bryophytes, ferns, and spermatophytes), (b) plant organs (leaf, stem, and root), (c) vascular tissue differentiation (nonvascular plants and vascular plants), and (d) leaf habits (deciduous ferns, evergreen ferns, and evergreen spermatophytes). Different lowercase letters represent significant differences (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05). Whiskers on bars denote standard deviations (<italic>SD</italic>)</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14394-g001"/></fig><p>The leaves of ferns and spermatophytes had the highest N, P, and K concentrations, compared with the stems and roots (Figure <xref rid="ece35875-fig-0001" ref-type="fig">1</xref>b). The concentrations of Ca in the leaves and stems were higher than those in the roots. The difference in C among plant organs was in the order leaf&#x000a0;&#x0003c;&#x000a0;stem &#x0003c;root. The N:P ratio was not significantly different among plant organs. The N:K ratios in leaves were significantly lower than those in the roots (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05); however, the N:Ca ratio was not different between the organs.</p><p>The values for C, N, P, K, N:P, N:K, and N:Ca were significantly different between nonvascular plants and vascular plants (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05) (Figure <xref rid="ece35875-fig-0001" ref-type="fig">1</xref>c). Only the Ca content was not different between the two groups. The values for N, P, K, and N:Ca were higher in the vascular plants, whereas the values of C, N:P, and N:K in the nonvascular plants were higher than those in the vascular plants.</p><p>The deciduous ferns had higher K concentrations in their leaves than those in the leaves of evergreen ferns and evergreen spermatophytes (Figure <xref rid="ece35875-fig-0001" ref-type="fig">1</xref>d). The leaf P concentrations were different among the three groups and were in the order evergreen ferns&#x000a0;&#x0003e;&#x000a0;deciduous ferns&#x000a0;&#x0003e;&#x000a0;evergreen spermatophytes. No significant differences in N, Ca, and N:Ca values were found between the deciduous and evergreen ferns. The N:P ratios among the three plant groups were similar. The deciduous ferns had higher C concentrations and lower N:K ratios in their leaves than those in the leaves of evergreen ferns.</p></sec><sec id="ece35875-sec-0010"><label>3.3</label><title>Scaling relationships between N and P</title><p>The scaling relationship between N and P was significantly positive (0.61 for the scaling exponent) in the pooled data of epiphytes (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) (Figure <xref rid="ece35875-fig-0002" ref-type="fig">2</xref>a). However, when the phylogenetic groups were separated from the pooled data, the scaling exponents in the phylogenetic groups were less than 0.61 (Figure <xref rid="ece35875-fig-0002" ref-type="fig">2</xref>b). These scaling exponents were ranked in the following order: lichens (0.12)&#x000a0;&#x0003c;&#x000a0;leaf of ferns (0.20)&#x000a0;&#x0003c;&#x000a0;leaf of spermatophytes (0.38). The relationship between N and P in the bryophytes was not statistically significant (<italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05). The allometric relationships between N and P were also observed in the leaf (0.47), stem (0.62), and root (0.86) of ferns and spermatophytes (Figure <xref rid="ece35875-fig-0002" ref-type="fig">2</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="ece35875-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>The scaling relationships between N and P concentrations fitted by N&#x000a0;=&#x000a0;bP<sup>a</sup> in the epiphytes (a, <italic>R</italic>
+<sup>2</sup>, <italic>p</italic>). (a) Pooled data include data from (b) and (c); (b) relationships in lichens, bryophytes, leaves of ferns, and leaves of spermatophytes; (c) relationships in the leaf, stem, and root of ferns and spermatophytes. Sper., spermatophytes</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14394-g002"/></fig></sec><sec id="ece35875-sec-0011"><label>3.4</label><title>Relationships between epiphytes and their stoichiometric characteristics</title><p>The relationships between epiphytes and their stoichiometry were detected by factor analysis (Figure <xref rid="ece35875-fig-0003" ref-type="fig">3</xref>). The first three factors explained 31.66%, 28.07%, and 16.00% of the total variance in the original variables. The first factor (FA1) primarily represented N, P, C:N, and C:P. The second factor (FA2) primarily represented C, N:K, K:Ca, N:Ca, P:Ca, and Ca. The third factor (FA3) primarily represented C:Ca, C:K, N:P, C, and N:K. The original variables in the same factor had high loadings, which indicated relatively high associations between them. For example, N and P in the FA1 had high positive loadings that also indicated high positive associations between the two elements in the epiphytes.</p><fig fig-type="Figure" xml:lang="en" id="ece35875-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Factor analysis (FA) of epiphyte species with all the element concentrations and mass ratios. FA1, FA2, and FA3 are the first three factors and explain 75.73% of the total variance in the original variables of element concentrations and mass ratios. (a) and (c) are the distributions of epiphytes with factor scores at FA1, FA2, and FA3. (b) and (d) are the factor loadings of the original variables at FA1, FA2, and FA3. Solid arrows represent high factor loadings of the original variables at FA1. Dashed arrows represent high factor loadings of the original variables at FA2 and FA3</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14394-g003"/></fig><p>All species of lichens were distributed on the negative side of FA1, which indicated relatively low N and P concentrations and relatively high C:N and C:P ratios (Figure <xref rid="ece35875-fig-0003" ref-type="fig">3</xref>a). The maximum negative value in the FA1 was in the tuberous root of <italic>Agapetes mannii</italic> (spermatophyte species). The bryophytes and leaves of ferns were distributed on the positive side of FA1. In the FA2, the bryophytes and leaves of spermatophytes were distributed on the negative side. The maximum positive value in the FA2 was in the stem of <italic>Haplopteris flexuosa</italic> (fern species). In the FA3, the lichens, bryophytes, and leaves of spermatophytes were distributed on the positive side (Figure <xref rid="ece35875-fig-0003" ref-type="fig">3</xref>c), whereas the stems and roots were distributed on the negative side. The maximum positive value came from <italic>Ramalina conduplicans</italic> (lichen species), which had relatively high C:Ca, C:K, and N:P ratios but relatively low C and N:K values.</p></sec></sec><sec sec-type="discussion" id="ece35875-sec-0012"><label>4</label><title>DISCUSSION</title><sec id="ece35875-sec-0013"><label>4.1</label><title>Ecological stoichiometry of epiphytes in the forest canopy</title><p>The epiphytes had highly variable element concentrations and mass ratios at the species level (Table <xref rid="ece35875-tbl-0001" ref-type="table">1</xref>) that were also reflected in the dispersive distribution of epiphytes on the factors (Figure <xref rid="ece35875-fig-0003" ref-type="fig">3</xref>). The high variability was most likely because of the highly heterogeneous environment and variety of nutrient sources in the forest canopy (Benzing, <xref rid="ece35875-bib-0008" ref-type="ref">1990</xref>; Hietz et al., <xref rid="ece35875-bib-0030" ref-type="ref">2002</xref>; Zotz &#x00026; Hietz, <xref rid="ece35875-bib-0098" ref-type="ref">2001</xref>). Furthermore, highly variation in the element concentrations and mass ratios might also indicated different nutrient limitations or nutrient requirements across species. The N:P ratio (7.08&#x02013;19.79) in the epiphytes indicated that N&#x02010;P thresholds or N&#x02010;P nutrient status might be different among epiphyte species. In terrestrial plants, the N:P ratio thresholds of 14 and 16 (Koerselman &#x00026; Meuleman, <xref rid="ece35875-bib-0037" ref-type="ref">1996</xref>) or of 10 and 20 (G&#x000fc;sewell, <xref rid="ece35875-bib-0022" ref-type="ref">2004</xref>) are used to indicate N, P, or N&#x02010;P limitation. However, the N&#x02010;P fertilization of the tank bromeliad <italic>Vriesea sanguinolenta</italic> indicated that the critical foliar N:P ratio was between 10 and 12, with foliar N:P ratios&#x000a0;&#x0003e;&#x000a0;12 indicating P limitation (or colimitation by N and P) (Wanek &#x00026; Zotz, <xref rid="ece35875-bib-0078" ref-type="ref">2011</xref>). According to these thresholds, N limitation, P limitation, and N&#x02010;P colimitation might occur simultaneously in different epiphytes. However, in previous studies, the growth of vascular epiphytes was primarily P limited (Benner &#x00026; Vitousek, <xref rid="ece35875-bib-0007" ref-type="ref">2007</xref>; Johansson, Olofsson, Giesler, &#x00026; Palmqvist, <xref rid="ece35875-bib-0033" ref-type="ref">2011</xref>; Lasso &#x00026; Ackerman, <xref rid="ece35875-bib-0038" ref-type="ref">2013</xref>; Wanek &#x00026; Zotz, <xref rid="ece35875-bib-0078" ref-type="ref">2011</xref>; Zotz &#x00026; Asshoff, <xref rid="ece35875-bib-0097" ref-type="ref">2010</xref>; Zotz &#x00026; Richter, <xref rid="ece35875-bib-0099" ref-type="ref">2006</xref>). Although these thresholds are not always invariable, the prediction is that higher N:P ratios in epiphytes would most likely indicate P limitation, whereas lower N:P ratios would most likely indicate N constraint (Yan et al., <xref rid="ece35875-bib-0090" ref-type="ref">2017</xref>). For example, <italic>Asplenium indicum</italic> (N<sub>leaf</sub>:P<sub>leaf</sub>&#x000a0;=&#x000a0;7.93) might be more likely N limited than <italic>Araiostegia perdurans</italic> (N<sub>leaf</sub>:P<sub>leaf</sub>&#x000a0;=&#x000a0;12.88) in the fern group (Table <xref rid="ece35875-tbl-0001" ref-type="table">1</xref>).</p><p>Element concentrations and mass ratios of epiphytes differed significantly among functional groups and organs (Figure <xref rid="ece35875-fig-0001" ref-type="fig">1</xref>). Differences among functional groups are also widespread in other terrestrial plants (G&#x000fc;sewell, <xref rid="ece35875-bib-0022" ref-type="ref">2004</xref>; Han et al., <xref rid="ece35875-bib-0024" ref-type="ref">2005</xref>; Sardans et al., <xref rid="ece35875-bib-0065" ref-type="ref">2016</xref>; Tian et al., <xref rid="ece35875-bib-0074" ref-type="ref">2018</xref>). In this study, these differences might be caused by the large differences in morphological, anatomical, and physiological traits among lichens, bryophytes, ferns, and spermatophytes that led to differences in nutrient uptake, nutrient metabolism, and nutrient retention (Aerts &#x00026; Chapin, <xref rid="ece35875-bib-0003" ref-type="ref">1999</xref>; Benzing, <xref rid="ece35875-bib-0008" ref-type="ref">1990</xref>). Lichens and bryophytes assimilate nutrients primarily from atmospheric deposition on the plant surface (Benzing, <xref rid="ece35875-bib-0008" ref-type="ref">1990</xref>; Hietz et al., <xref rid="ece35875-bib-0029" ref-type="ref">1999</xref>), whereas ferns and spermatophytes can absorb nutrients from roots as well as their leaves (Reich et al., <xref rid="ece35875-bib-0062" ref-type="ref">2003</xref>; Stewart et al., <xref rid="ece35875-bib-0073" ref-type="ref">1995</xref>). The leaves of deciduous ferns had lower N and P contents than those of evergreen ferns, although the difference in N concentrations was not significant between the two types of ferns. Lower N and P contents in leaves of deciduous ferns might be the result of the N and P loss through senescent leaf shedding, even though most of N and P were retained efficiently by nutrient resorption (Aerts, <xref rid="ece35875-bib-0002" ref-type="ref">1996</xref>; Killingbeck, <xref rid="ece35875-bib-0035" ref-type="ref">1996</xref>; Zotz, <xref rid="ece35875-bib-0095" ref-type="ref">2004</xref>). In terrestrial plants, leaf N and P contents are lower for evergreen species than for deciduous species (Chen et al., <xref rid="ece35875-bib-0012" ref-type="ref">2013</xref>; G&#x000fc;sewell, <xref rid="ece35875-bib-0022" ref-type="ref">2004</xref>), although sometimes the contents are lower in deciduous species (Wright et al., <xref rid="ece35875-bib-0086" ref-type="ref">2005</xref>). In the ferns and spermatophytes, the leaves had the highest N and P concentrations compared with the stems and roots (Figure <xref rid="ece35875-fig-0001" ref-type="fig">1</xref>b). This result indicated that the epiphytes might allocate more of limited nutrients to their leaves for photosynthesis to maximize their growth in the rainy season. These allocations are consistent with those in other epiphytes and terrestrial plants (Zhang et al., <xref rid="ece35875-bib-0093" ref-type="ref">2018</xref>; Zotz, <xref rid="ece35875-bib-0094" ref-type="ref">1999</xref>). The increased allocation of nutrients to the leaves might be an adaptation to a nutrient&#x02010;limited environment (Yan et al., <xref rid="ece35875-bib-0089" ref-type="ref">2016</xref>).</p><p>The N and P contents were highly correlated across the epiphyte community (Figure <xref rid="ece35875-fig-0002" ref-type="fig">2</xref>). The different allometric relationships between N and P also reflected that lichens might need more P than ferns and spermatophytes when they got nutrients from the environment (Figure <xref rid="ece35875-fig-0002" ref-type="fig">2</xref>b). In addition, the leaves might need more P than the stems and roots. These different allometric relationships among functional groups and organs are also observed in other terrestrial plants (Kerkhoff et al., <xref rid="ece35875-bib-0034" ref-type="ref">2006</xref>; Tian et al., <xref rid="ece35875-bib-0074" ref-type="ref">2018</xref>). Furthermore, the scaling exponents between N and P were less than 1 (slopes&#x000a0;&#x0003c;&#x000a0;1), which indicated that epiphytes would take up more P than N from the environment. The P content increased faster than the N content (&#x000c5;gren, <xref rid="ece35875-bib-0005" ref-type="ref">2008</xref>; Wright et al., <xref rid="ece35875-bib-0087" ref-type="ref">2004</xref>; Zhang et al., <xref rid="ece35875-bib-0093" ref-type="ref">2018</xref>), which resulted in decreases in the N:P ratio with increasing leaf nutrient concentration (Elser, Fagan, Kerkhoff, Swenson, &#x00026; Enquist, <xref rid="ece35875-bib-0017" ref-type="ref">2010</xref>). According to the growth rate hypothesis, plants with high growth rates require a high allocation of phosphorus and have low biomass N:P ratios (Sterner &#x00026; Elser, <xref rid="ece35875-bib-0072" ref-type="ref">2002</xref>). Thus, allometric relationships may be useful to successfully predict the relative growth rates of epiphytes with an increase in plant nutrients, as previously confirmed in terrestrial plants (Niklas, <xref rid="ece35875-bib-0054" ref-type="ref">2006</xref>; Niklas et al., <xref rid="ece35875-bib-0055" ref-type="ref">2005</xref>; Reich et al., <xref rid="ece35875-bib-0064" ref-type="ref">2010</xref>). In this study, the scaling exponent (0.61, N&#x000a0;&#x0221d;&#x000a0;P<sup>0.61</sup>) converted to the coefficient of reduced major axis regression was 0.78, similar to 3/4 power (N&#x000a0;&#x0221d;&#x000a0;P<sup>3/4</sup>) (Niklas et al., <xref rid="ece35875-bib-0055" ref-type="ref">2005</xref>). The conversion formula is a<sub>RMA</sub>&#x000a0;=&#x000a0;a<sub>OLS</sub>/<italic>r</italic>, where a<sub>RMA</sub> is the scaling exponent of reduced major axis regression, a<sub>OLS</sub> is the slope of the least square regression, and <italic>r</italic> is the correlation coefficient of the least square regression (Niklas, <xref rid="ece35875-bib-0054" ref-type="ref">2006</xref>). These conversions did not affect the allometric relationships above. The relatively invariant allometric scaling of N and P might be the result of physiological constraints in the plants (McGroddy, Daufresne, &#x00026; Hedin, <xref rid="ece35875-bib-0049" ref-type="ref">2004</xref>).</p></sec><sec id="ece35875-sec-0014"><label>4.2</label><title>Stoichiometry of K and Ca and their roles in the epiphytes</title><p>The vascular epiphytes maintained high K concentrations and low N:K ratios in leaves (Table <xref rid="ece35875-tbl-0001" ref-type="table">1</xref>, Figure <xref rid="ece35875-fig-0001" ref-type="fig">1</xref>), which might be beneficial to their growth in the rainy season. Moreover, the K concentrations in the leaves of ferns and spermatophytes were significantly higher than those in the stems and roots. K is an essential element for plant growth and development (Gajdanowicz et al., <xref rid="ece35875-bib-0020" ref-type="ref">2011</xref>; Leigh &#x00026; Wyn Jones, <xref rid="ece35875-bib-0041" ref-type="ref">1984</xref>). High K allocation in the leaves of epiphytes would promote osmoregulation, enzyme activity, and photosynthesis, as previously confirmed in other terrestrial plants (Leigh &#x00026; Wyn Jones, <xref rid="ece35875-bib-0041" ref-type="ref">1984</xref>; Osakabe et al., <xref rid="ece35875-bib-0057" ref-type="ref">2013</xref>). However, the growth of epiphytes in the forest canopy is usually stressed by the water supply (Hietz &#x00026; Wanek, <xref rid="ece35875-bib-0028" ref-type="ref">2003</xref>; Laube &#x00026; Zotz, <xref rid="ece35875-bib-0039" ref-type="ref">2003</xref>). One of the important functions of K is alleviating the inhibition of drought stress on growth (Sardans &#x00026; Pe&#x000f1;uelas, <xref rid="ece35875-bib-0067" ref-type="ref">2015</xref>). High leaf K concentrations of vascular epiphytes might reduce their leaf water potential and promote the diffusion of water to the leaves (Leigh &#x00026; Wyn Jones, <xref rid="ece35875-bib-0041" ref-type="ref">1984</xref>). Thus, the vascular epiphytes maintained high K concentrations and low N:K ratios in their leaves to acclimatize to drought stress or other environmental stresses in the canopy (Sardans, Pe&#x000f1;uelas, et al., <xref rid="ece35875-bib-0068" ref-type="ref">2012</xref>). By contrast, the lichens and bryophytes had low K concentrations and high N:K ratios, which are consistent with their very large changes in water content. These two plant types are defined as poikilohydric plants and can survive when the water content is &#x0003c;5%&#x02013;10% dry weight (Proctor &#x00026; Tuba, <xref rid="ece35875-bib-0060" ref-type="ref">2002</xref>). Furthermore, the leaf growth of ferns and spermatophytes might not be K&#x02010;limited on the basis of their low N:K ratios, according to the critical ratios (N:K&#x000a0;&#x0003c;&#x000a0;2.1) in wetland vegetation (Olde Venterink, Wassen, Verkroost, &#x00026; de Ruiter, <xref rid="ece35875-bib-0056" ref-type="ref">2003</xref>).</p><p>Consistently, significant differences in Ca concentrations and N:Ca ratios among the functional groups or organ types were not observed (Figure <xref rid="ece35875-fig-0001" ref-type="fig">1</xref>). The only consistent difference was that the leaves of spermatophytes had the highest Ca concentrations and the lowest N:Ca ratios compared with the other phylogenetic groups. These results indicated that the role of Ca in the epiphytes might not be affected by functional or organ divisions. Ca<sup>2+</sup> acts as an intracellular secondary messenger and plays an important role in plant defense responses to abiotic or biotic stresses (Bush, <xref rid="ece35875-bib-0009" ref-type="ref">1995</xref>; Lecourieux et al., <xref rid="ece35875-bib-0040" ref-type="ref">2006</xref>). Furthermore, Ca<sup>2+</sup> is a crucial regulator of growth and development in plants (Hepler, <xref rid="ece35875-bib-0026" ref-type="ref">2005</xref>). A deficiency in calcium will likely reduce growth and adaptation to stress (Reddy, Ali, Celesnik, &#x00026; Day, <xref rid="ece35875-bib-0061" ref-type="ref">2011</xref>), particularly for epiphytes in the unstable forest canopy (Benzing, <xref rid="ece35875-bib-0008" ref-type="ref">1990</xref>). The regulation of Ca in epiphytes may be achieved by changing cytosolic Ca<sup>2+</sup> concentration ([Ca<sup>2+</sup>]<sub>cyt</sub>) when epiphytes respond to developmental signals and environmental stress (Knight &#x00026; Knight, <xref rid="ece35875-bib-0036" ref-type="ref">2001</xref>; White &#x00026; Broadley, <xref rid="ece35875-bib-0081" ref-type="ref">2003</xref>); however, further research remains to explain the conservative stoichiometric differences in epiphytes.</p></sec><sec id="ece35875-sec-0015"><label>4.3</label><title>Possible nutritional adaptations in the epiphyte communities</title><p>For most epiphyte species in this study, the results are not consistent with the previous expectation that slow growing epiphytes are low in nutrient contents and high in N:P ratios (Laube &#x00026; Zotz, <xref rid="ece35875-bib-0039" ref-type="ref">2003</xref>; Schmidt &#x00026; Zotz, <xref rid="ece35875-bib-0070" ref-type="ref">2002</xref>; Sterner &#x00026; Elser, <xref rid="ece35875-bib-0072" ref-type="ref">2002</xref>). For example, the concentrations of nutrients were higher (N, P, K, and Ca) and the N:P ratios were lower in the leaves of fern species than those in other terrestrial plants (Table <xref rid="ece35875-tbl-0001" ref-type="table">1</xref>). Only most of the lichen species showed results consistent with the expectations. Therefore, these results indicated that nutrient constraints in most epiphytes may not be severe, based on the high nutrient concentrations and low N:P ratios that occurred in the rainy season (Table <xref rid="ece35875-tbl-0001" ref-type="table">1</xref>). The relatively adequate supply of nutrients in most epiphytes during the optimum growth period might be attributed to a series of adaptive mechanisms, such as efficient resource acquisition and high nutrient retention (Aerts &#x00026; Chapin, <xref rid="ece35875-bib-0003" ref-type="ref">1999</xref>; Winkler &#x00026; Zotz, <xref rid="ece35875-bib-0083" ref-type="ref">2009</xref>). According to the growth rate hypothesis, lichens with relatively low nutrient contents and high N:P ratios might grow slowly (Elser et al., <xref rid="ece35875-bib-0018" ref-type="ref">2000</xref>; Sterner &#x00026; Elser, <xref rid="ece35875-bib-0072" ref-type="ref">2002</xref>; Willby, Pulford, &#x00026; Flowers, <xref rid="ece35875-bib-0082" ref-type="ref">2001</xref>), whereas bryophytes, ferns, and spermatophytes might tend to grow relatively rapidly because of their relatively high nutrient concentrations and low N:P ratios (&#x000c5;gren, <xref rid="ece35875-bib-0004" ref-type="ref">2004</xref>; Elser et al., <xref rid="ece35875-bib-0016" ref-type="ref">2003</xref>; Nielsen et al., <xref rid="ece35875-bib-0053" ref-type="ref">1996</xref>). These assumptions may be contrary to previous studies in which epiphytes are slowly growing plants (Benzing, <xref rid="ece35875-bib-0008" ref-type="ref">1990</xref>; Laube &#x00026; Zotz, <xref rid="ece35875-bib-0039" ref-type="ref">2003</xref>; Schmidt &#x00026; Zotz, <xref rid="ece35875-bib-0070" ref-type="ref">2002</xref>), have low nutrient concentrations (Hofstede et al., <xref rid="ece35875-bib-0031" ref-type="ref">1993</xref>; Watkins, Rundel, &#x00026; Cardel&#x000fa;s, <xref rid="ece35875-bib-0080" ref-type="ref">2007</xref>), and show phosphorus limitation (Zotz, <xref rid="ece35875-bib-0095" ref-type="ref">2004</xref>; Zotz &#x00026; Richter, <xref rid="ece35875-bib-0099" ref-type="ref">2006</xref>). These assumptions may also differ from those of stress&#x02010;tolerant plants with low contents of nutrient elements, very slow growth, and average relatively high N:P ratios (Aerts &#x00026; Chapin, <xref rid="ece35875-bib-0003" ref-type="ref">1999</xref>; G&#x000fc;sewell, <xref rid="ece35875-bib-0022" ref-type="ref">2004</xref>).</p><p>To respond to environmental changes, the epiphytes showed stoichiometric plasticity, and to maintain metabolism and growth, they might also have a degree of homeostatic ability. The plasticity of epiphytes was primarily reflected in the wide ranges of element concentrations and ratios across epiphyte species (Table <xref rid="ece35875-tbl-0001" ref-type="table">1</xref>, Figure <xref rid="ece35875-fig-0003" ref-type="fig">3</xref>). However, the intraspecific variations in element concentrations and ratios were less than the interspecific variations (Table <xref rid="ece35875-tbl-0001" ref-type="table">1</xref>). The lower intraspecific plasticity suggested that epiphytes might have a degree of homeostatic ability. The intraspecific variation in epiphytes can also be expressed by the coefficient of variation (CV, CV&#x000a0;=&#x000a0;(<italic>SD</italic>/mean)&#x000a0;&#x000d7;&#x000a0;100%), which is widely used to describe the variability or plasticity in terrestrial plants (Han et al., <xref rid="ece35875-bib-0025" ref-type="ref">2011</xref>; McGroddy et al., <xref rid="ece35875-bib-0049" ref-type="ref">2004</xref>; Valladares, Sanchez&#x02010;Gomez, &#x00026; Zavala, <xref rid="ece35875-bib-0076" ref-type="ref">2006</xref>; Zhang et al., <xref rid="ece35875-bib-0093" ref-type="ref">2018</xref>). For example, the CV of N concentrations in <italic>Usnea florida</italic> was 6.02% and much lower than that among species which was 39.36% (Table <xref rid="ece35875-tbl-0001" ref-type="table">1</xref>). The trade&#x02010;off between flexibility and stability in epiphytes might be an adaptive mechanism in response to changes in N and P supply ratios (Koerselman &#x00026; Meuleman, <xref rid="ece35875-bib-0037" ref-type="ref">1996</xref>). Although terrestrial plants have wide variation in the foliar C:N:P ratio and lower homeostasis than animals or bacteria (Elser et al., <xref rid="ece35875-bib-0017" ref-type="ref">2010</xref>; G&#x000fc;sewell, <xref rid="ece35875-bib-0022" ref-type="ref">2004</xref>), a degree of stoichiometric homeostasis remains (Elser et al., <xref rid="ece35875-bib-0017" ref-type="ref">2010</xref>). The epiphytes with homeostatic ability have the capacity to adjust their C:N:P stoichiometry to an optimal value by different mechanisms (Sardans, Rivas&#x02010;Ubach, &#x00026; Pe&#x000f1;uelas, <xref rid="ece35875-bib-0069" ref-type="ref">2012</xref>), such as fundamental physiological constraints (McGroddy et al., <xref rid="ece35875-bib-0049" ref-type="ref">2004</xref>). Moreover, the stoichiometric homoeostasis of epiphytes can also be evaluated with increased accuracy by homeostatic coefficients (<italic>H</italic>) through fertilizer experiments (Sterner &#x00026; Elser, <xref rid="ece35875-bib-0072" ref-type="ref">2002</xref>; Yu et al., <xref rid="ece35875-bib-0091" ref-type="ref">2011</xref>).</p></sec></sec><sec sec-type="conclusions" id="ece35875-sec-0016"><label>5</label><title>CONCLUSIONS</title><p>In this study, we investigated the ecological stoichiometry of dominant epiphytes to reveal the nutrient status and possible adaptations of the epiphyte community in a subtropical forest canopy. We found that the element contents and ratios of epiphytes at the species level were highly variable. Moreover, these stoichiometric characteristics of epiphytes differed significantly among functional groups. Compared with terrestrial plants, most epiphytes maintained high nutrient contents during the rainy season. High nutrient contents and various stoichiometric characteristics indicated that epiphytes in the forest canopy might have evolved their own nutritional adaptations, such as high nutrient allocations to the leaves in vascular epiphytes, lower potassium contents in poikilohydric epiphytes, and the trade&#x02010;off between stoichiometric plasticity and homeostasis. However, more research is still needed to reveal the potential mechanism of the epiphyte communities.</p></sec><sec sec-type="COI-statement" id="ece35875-sec-0018"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35875-sec-0019"><title>AUTHOR CONTRIBUTIONS</title><p>Jun&#x02010;Biao Huang and Wen&#x02010;Yao Liu designed the experiment; Jun&#x02010;Biao Huang collected the experimental data; Su Li, Liang Song, Hua&#x02010;Zheng Lu, Xian&#x02010;Meng Shi, Xi Chen, Tao Hu, Shuai Liu, Tao Liu assisted in the experiment and chemical analysis; Jun&#x02010;Biao Huang analyzed the experimental data and wrote the first draft of the manuscript; Wen&#x02010;Yao Liu contributed substantially to manuscript revisions.</p></sec></body><back><ack id="ece35875-sec-0017"><title>ACKNOWLEDGMENTS</title><p>The National Natural Science Foundation of China (Nos. 31770496, 41471050), the Biodiversity Conservation Strategy Program of the Chinese Academy of Sciences (No. ZSSD&#x02010;016), and the CAS "135 program" (No. 2017XTBG&#x02010;T01) supported this study. We thank the Ailaoshan Station for the Subtropical Forest Ecosystem Studies and staff members Cheng&#x02010;Chang Luo and Da&#x02010;Wen Li for their help with the field experiments and sampling. We thank Wei Zhang and Ji&#x02010;Fen Li for their guidance on chemical analyses, and we also thank the Biogeochemistry Laboratory of Xishuangbanna Tropical Botanical Garden for providing the instruments for the nutrient analyses.</p></ack><sec sec-type="data-availability" id="ece35875-sec-0021"><title>DATA AVAILABILITY STATEMENT</title><p>Data associated with this work are available in the Dryad Digital Repository: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.cz8w9ghzv" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.cz8w9ghzv</ext-link>.</p></sec><ref-list content-type="cited-references" id="ece35875-bibl-0001"><title>REFERENCES</title><ref id="ece35875-bib-0001"><mixed-citation publication-type="journal" id="ece35875-cit-0001">
+<string-name>
+<surname>Adams</surname>, <given-names>D. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Duggan</surname>, <given-names>P. S.</given-names>
+</string-name> (<year>2008</year>). <article-title>Cyanobacteria&#x02010;bryophyte symbioses</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>, <volume>59</volume>, <fpage>1047</fpage>&#x02013;<lpage>1058</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/ern005</pub-id>
+<pub-id pub-id-type="pmid">18267939</pub-id></mixed-citation></ref><ref id="ece35875-bib-0002"><mixed-citation publication-type="journal" id="ece35875-cit-0002">
+<string-name>
+<surname>Aerts</surname>, <given-names>R.</given-names>
+</string-name> (<year>1996</year>). <article-title>Nutrient resorption from senescing leaves of perennials: Are there general patterns?</article-title>
+<source xml:lang="en">Journal of Ecology</source>, <volume>84</volume>, <fpage>597</fpage>&#x02013;<lpage>608</lpage>. <pub-id pub-id-type="doi">10.2307/2261481</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0003"><mixed-citation publication-type="journal" id="ece35875-cit-0003">
+<string-name>
+<surname>Aerts</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chapin</surname>, <given-names>F. S.</given-names>, <suffix>III</suffix>
+</string-name> (<year>1999</year>). <article-title>The mineral nutrition of wild plants revisited: A re&#x02010;evaluation of processes and patterns</article-title>. <source xml:lang="en">Advances in Ecological Research</source>, <volume>30</volume>, <fpage>1</fpage>&#x02013;<lpage>67</lpage>. <pub-id pub-id-type="doi">10.1016/s0065-2504(08)60016-1</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0004"><mixed-citation publication-type="journal" id="ece35875-cit-0004">
+<string-name>
+<surname>&#x000c5;gren</surname>, <given-names>G. I.</given-names>
+</string-name> (<year>2004</year>). <article-title>The C:N: P stoichiometry of autotrophs &#x02013; Theory and observations</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>7</volume>, <fpage>185</fpage>&#x02013;<lpage>191</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2004.00567.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0005"><mixed-citation publication-type="journal" id="ece35875-cit-0005">
+<string-name>
+<surname>&#x000c5;gren</surname>, <given-names>G. I.</given-names>
+</string-name> (<year>2008</year>). <article-title>Stoichiometry and nutrition of plant growth in natural communities</article-title>. <source xml:lang="en">Annual Review of Ecology, Evolution, and Systematics</source>, <volume>39</volume>, <fpage>153</fpage>&#x02013;<lpage>170</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.39.110707.173515</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0006"><mixed-citation publication-type="journal" id="ece35875-cit-0006">
+<string-name>
+<surname>Asplund</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wardle</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2017</year>). <article-title>How lichens impact on terrestrial community and ecosystem properties</article-title>. <source xml:lang="en">Biological Reviews</source>, <volume>92</volume>, <fpage>1720</fpage>&#x02013;<lpage>1738</lpage>. <pub-id pub-id-type="doi">10.1111/brv.12305</pub-id>
+<pub-id pub-id-type="pmid">27730713</pub-id></mixed-citation></ref><ref id="ece35875-bib-0007"><mixed-citation publication-type="journal" id="ece35875-cit-0007">
+<string-name>
+<surname>Benner</surname>, <given-names>J. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vitousek</surname>, <given-names>P. M.</given-names>
+</string-name> (<year>2007</year>). <article-title>Development of a diverse epiphyte community in response to phosphorus fertilization</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>10</volume>, <fpage>628</fpage>&#x02013;<lpage>636</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2007.01054.x</pub-id>
+<pub-id pub-id-type="pmid">17542941</pub-id></mixed-citation></ref><ref id="ece35875-bib-0008"><mixed-citation publication-type="book" id="ece35875-cit-0008">
+<string-name>
+<surname>Benzing</surname>, <given-names>D. H.</given-names>
+</string-name> (<year>1990</year>). <source xml:lang="en">Vascular epiphytes: General biology and related biota</source>. <publisher-loc>Cambridge, UK</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>.</mixed-citation></ref><ref id="ece35875-bib-0009"><mixed-citation publication-type="journal" id="ece35875-cit-0009">
+<string-name>
+<surname>Bush</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>1995</year>). <article-title>Calcium regulation in plant cells and its role in signaling</article-title>. <source xml:lang="en">Annual Review of Plant Physiology and Plant Molecular Biology</source>, <volume>46</volume>, <fpage>95</fpage>&#x02013;<lpage>122</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.pp.46.060195.000523</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0010"><mixed-citation publication-type="journal" id="ece35875-cit-0010">
+<string-name>
+<surname>Cardel&#x000fa;s</surname>, <given-names>C. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mack</surname>, <given-names>M. C.</given-names>
+</string-name> (<year>2010</year>). <article-title>The nutrient status of epiphytes and their host trees along an elevational gradient in Costa Rica</article-title>. <source xml:lang="en">Plant Ecology</source>, <volume>207</volume>, <fpage>25</fpage>&#x02013;<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1007/s11258-009-9651-y</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0011"><mixed-citation publication-type="journal" id="ece35875-cit-0011">
+<string-name>
+<surname>Chen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W. Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>G. S.</given-names>
+</string-name> (<year>2009</year>). <article-title>Estimation of epiphytic biomass and nutrient pools in the subtropical montane cloud forest in the Ailao Mountains, south&#x02010;western China</article-title>. <source xml:lang="en">Ecological Research</source>, <volume>25</volume>, <fpage>315</fpage>&#x02013;<lpage>325</lpage>. <pub-id pub-id-type="doi">10.1007/s11284-009-0659-5</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0012"><mixed-citation publication-type="journal" id="ece35875-cit-0012">
+<string-name>
+<surname>Chen</surname>, <given-names>Y. H.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>W. X.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>L. Y.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>Z. Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fang</surname>, <given-names>J. Y.</given-names>
+</string-name> (<year>2013</year>). <article-title>Leaf nitrogen and phosphorus concentrations of woody plants differ in responses to climate, soil and plant growth form</article-title>. <source xml:lang="en">Ecography</source>, <volume>36</volume>, <fpage>178</fpage>&#x02013;<lpage>184</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0587.2011.06833.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0013"><mixed-citation publication-type="journal" id="ece35875-cit-0013">
+<string-name>
+<surname>Clark</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Nadkarni</surname>, <given-names>N. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gholz</surname>, <given-names>H. L.</given-names>
+</string-name> (<year>2005</year>). <article-title>Retention of inorganic nitrogen by epiphytic bryophytes in a tropical montane forest</article-title>. <source xml:lang="en">Biotropica</source>, <volume>37</volume>, <fpage>328</fpage>&#x02013;<lpage>336</lpage>. <pub-id pub-id-type="doi">10.1111/j.1744-7429.2005.00043.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0014"><mixed-citation publication-type="book" id="ece35875-cit-0014">
+<string-name>
+<surname>Coxson</surname>, <given-names>D. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nadkarni</surname>, <given-names>N. M.</given-names>
+</string-name> (<year>1995</year>). <chapter-title>Ecological roles of epiphytes in nutrient cycles of forest ecosystems</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Lowman</surname><given-names>M.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Nadkarni</surname><given-names>N. M.</given-names></name></person-group> (Eds.), <source xml:lang="en">Forest canopies</source> (pp. <fpage>495</fpage>&#x02013;<lpage>543</lpage>). <publisher-loc>San Diego, CA</publisher-loc>: <publisher-name>Academic Press</publisher-name>.</mixed-citation></ref><ref id="ece35875-bib-0015"><mixed-citation publication-type="journal" id="ece35875-cit-0015">
+<string-name>
+<surname>Deluca</surname>, <given-names>T. H.</given-names>
+</string-name>, <string-name>
+<surname>Zackrisson</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Nilsson</surname>, <given-names>M. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sellstedt</surname>, <given-names>A.</given-names>
+</string-name> (<year>2002</year>). <article-title>Quantifying nitrogen&#x02010;fixation in feather moss carpets of boreal forests</article-title>. <source xml:lang="en">Nature</source>, <volume>419</volume>, <fpage>917</fpage>&#x02013;<lpage>920</lpage>. <pub-id pub-id-type="doi">10.1038/nature01136</pub-id>
+<pub-id pub-id-type="pmid">12410308</pub-id></mixed-citation></ref><ref id="ece35875-bib-0016"><mixed-citation publication-type="journal" id="ece35875-cit-0016">
+<string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Acharya</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kyle</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cotner</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Makino</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Markow</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Sterner</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>2003</year>). <article-title>Growth rate&#x02010;stoichiometry couplings in diverse biota</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>6</volume>, <fpage>936</fpage>&#x02013;<lpage>943</lpage>. <pub-id pub-id-type="doi">10.1046/j.1461-0248.2003.00518.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0017"><mixed-citation publication-type="journal" id="ece35875-cit-0017">
+<string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Fagan</surname>, <given-names>W. F.</given-names>
+</string-name>, <string-name>
+<surname>Kerkhoff</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Swenson</surname>, <given-names>N. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Enquist</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Biological stoichiometry of plant production: Metabolism, scaling and ecological response to global change</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>186</volume>, <fpage>593</fpage>&#x02013;<lpage>608</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2010.03214.x</pub-id>
+<pub-id pub-id-type="pmid">20298486</pub-id></mixed-citation></ref><ref id="ece35875-bib-0018"><mixed-citation publication-type="journal" id="ece35875-cit-0018">
+<string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Sterner</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Gorokhova</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Fagan</surname>, <given-names>W. F.</given-names>
+</string-name>, <string-name>
+<surname>Markow</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Cotner</surname>, <given-names>J. B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Weider</surname>, <given-names>L. W.</given-names>
+</string-name> (<year>2000</year>). <article-title>Biological stoichiometry from genes to ecosystems</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>3</volume>, <fpage>540</fpage>&#x02013;<lpage>550</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2000.00185.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0019"><mixed-citation publication-type="journal" id="ece35875-cit-0019">
+<string-name>
+<surname>Foster</surname>, <given-names>P.</given-names>
+</string-name> (<year>2001</year>). <article-title>The potential negative impacts of global climate change on tropical montane cloud forests</article-title>. <source xml:lang="en">Earth&#x02010;Science Reviews</source>, <volume>55</volume>, <fpage>73</fpage>&#x02013;<lpage>106</lpage>. <pub-id pub-id-type="doi">10.1016/S0012-8252(01)00056-3</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0020"><mixed-citation publication-type="journal" id="ece35875-cit-0020">
+<string-name>
+<surname>Gajdanowicz</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Michard</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sandmann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rocha</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Correa</surname>, <given-names>L. G. G.</given-names>
+</string-name>, <string-name>
+<surname>Ramirez&#x02010;Aguilar</surname>, <given-names>S. J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Dreyer</surname>, <given-names>I.</given-names>
+</string-name> (<year>2011</year>). <article-title>Potassium (K<sup>+</sup>) gradients serve as a mobile energy source in plant vascular tissues</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>108</volume>, <fpage>864</fpage>&#x02013;<lpage>869</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1009777108</pub-id>
+<pub-id pub-id-type="pmid">21187374</pub-id></mixed-citation></ref><ref id="ece35875-bib-0021"><mixed-citation publication-type="journal" id="ece35875-cit-0021">
+<string-name>
+<surname>Gentry</surname>, <given-names>A. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dodson</surname>, <given-names>C. H.</given-names>
+</string-name> (<year>1987</year>). <article-title>Diversity and biogeography of neotropical vascular epiphytes</article-title>. <source xml:lang="en">Annals of the Missouri Botanical Garden</source>, <volume>74</volume>, <fpage>205</fpage>&#x02013;<lpage>233</lpage>. <pub-id pub-id-type="doi">10.2307/2399395</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0022"><mixed-citation publication-type="journal" id="ece35875-cit-0022">
+<string-name>
+<surname>G&#x000fc;sewell</surname>, <given-names>S.</given-names>
+</string-name> (<year>2004</year>). <article-title>N: P ratios in terrestrial plants: Variation and functional significance</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>164</volume>, <fpage>243</fpage>&#x02013;<lpage>266</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2004.01192.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0023"><mixed-citation publication-type="journal" id="ece35875-cit-0023">
+<string-name>
+<surname>G&#x000fc;sewell</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Koerselman</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Verhoeven</surname>, <given-names>J. T. A.</given-names>
+</string-name> (<year>2003</year>). <article-title>Biomass N: P ratios as indicators of nutrient limitation for plant populations in wetlands</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>13</volume>, <fpage>372</fpage>&#x02013;<lpage>384</lpage>. <pub-id pub-id-type="doi">10.1890/1051-0761(2003)013[0372:BNRAIO]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0024"><mixed-citation publication-type="journal" id="ece35875-cit-0024">
+<string-name>
+<surname>Han</surname>, <given-names>W. X.</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>, <given-names>J. Y.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>D. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2005</year>). <article-title>Leaf nitrogen and phosphorus stoichiometry across 753 terrestrial plant species in China</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>168</volume>, <fpage>377</fpage>&#x02013;<lpage>385</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2005.01530.x</pub-id>
+<pub-id pub-id-type="pmid">16219077</pub-id></mixed-citation></ref><ref id="ece35875-bib-0025"><mixed-citation publication-type="journal" id="ece35875-cit-0025">
+<string-name>
+<surname>Han</surname>, <given-names>W. X.</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>, <given-names>J. Y.</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>, <given-names>P. B.</given-names>
+</string-name>, <string-name>
+<surname>Woodward</surname>, <given-names>F. I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>Z. H.</given-names>
+</string-name> (<year>2011</year>). <article-title>Biogeography and variability of eleven mineral elements in plant leaves across gradients of climate, soil and plant functional type in China</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>14</volume>, <fpage>788</fpage>&#x02013;<lpage>796</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2011.01641.x</pub-id>
+<pub-id pub-id-type="pmid">21692962</pub-id></mixed-citation></ref><ref id="ece35875-bib-0026"><mixed-citation publication-type="journal" id="ece35875-cit-0026">
+<string-name>
+<surname>Hepler</surname>, <given-names>P. K.</given-names>
+</string-name> (<year>2005</year>). <article-title>Calcium: A central regulator of plant growth and development</article-title>. <source xml:lang="en">The Plant Cell</source>, <volume>17</volume>, <fpage>2142</fpage>&#x02013;<lpage>2155</lpage>. <pub-id pub-id-type="doi">10.1105/tpc.105.032508</pub-id>
+<pub-id pub-id-type="pmid">16061961</pub-id></mixed-citation></ref><ref id="ece35875-bib-0027"><mixed-citation publication-type="journal" id="ece35875-cit-0027">
+<string-name>
+<surname>Hessen</surname>, <given-names>D. O.</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>, <given-names>T. C.</given-names>
+</string-name>, <string-name>
+<surname>Kyle</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2007</year>). <article-title>RNA responses to N&#x02010; and P&#x02010;limitation; reciprocal regulation of stoichiometry and growth rate in <italic>Brachionus</italic>
+</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>21</volume>, <fpage>956</fpage>&#x02013;<lpage>962</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2435.2007.01306.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0028"><mixed-citation publication-type="journal" id="ece35875-cit-0028">
+<string-name>
+<surname>Hietz</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wanek</surname>, <given-names>W.</given-names>
+</string-name> (<year>2003</year>). <article-title>Size&#x02010;dependent variation of carbon and nitrogen isotope abundances in epiphytic bromeliads</article-title>. <source xml:lang="en">Plant Biology</source>, <volume>5</volume>, <fpage>137</fpage>&#x02013;<lpage>142</lpage>. <pub-id pub-id-type="doi">10.1055/s-2003-40730</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0029"><mixed-citation publication-type="journal" id="ece35875-cit-0029">
+<string-name>
+<surname>Hietz</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Wanek</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Popp</surname>, <given-names>M.</given-names>
+</string-name> (<year>1999</year>). <article-title>Stable isotopic composition of carbon and nitrogen and nitrogen content in vascular epiphytes along an altitudinal transect</article-title>. <source xml:lang="en">Plant, Cell and Environment</source>, <volume>22</volume>, <fpage>1435</fpage>&#x02013;<lpage>1443</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-3040.1999.00502.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0030"><mixed-citation publication-type="journal" id="ece35875-cit-0030">
+<string-name>
+<surname>Hietz</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Wanek</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Wania</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nadkarni</surname>, <given-names>N. M.</given-names>
+</string-name> (<year>2002</year>). <article-title>Nitrogen&#x02010;15 natural abundance in a montane cloud forest canopy as an indicator of nitrogen cycling and epiphyte nutrition</article-title>. <source xml:lang="en">Oecologia</source>, <volume>131</volume>, <fpage>350</fpage>&#x02013;<lpage>355</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-002-0896-6</pub-id>
+<pub-id pub-id-type="pmid">28547706</pub-id></mixed-citation></ref><ref id="ece35875-bib-0031"><mixed-citation publication-type="journal" id="ece35875-cit-0031">
+<string-name>
+<surname>Hofstede</surname>, <given-names>R. G. M.</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>, <given-names>J. H. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Benzing</surname>, <given-names>D. H.</given-names>
+</string-name> (<year>1993</year>). <article-title>Epiphytic biomass and nutrient status of a Colombian upper montane rain forest</article-title>. <source xml:lang="en">Selbyana</source>, <volume>14</volume>, <fpage>37</fpage>&#x02013;<lpage>45</lpage>.</mixed-citation></ref><ref id="ece35875-bib-0032"><mixed-citation publication-type="journal" id="ece35875-cit-0032">
+<string-name>
+<surname>Inselsbacher</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Cambui</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Richter</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Stange</surname>, <given-names>C. F.</given-names>
+</string-name>, <string-name>
+<surname>Mercier</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wanek</surname>, <given-names>W.</given-names>
+</string-name> (<year>2007</year>). <article-title>Microbial activities and foliar uptake of nitrogen in the epiphytic bromeliad <italic>Vriesea gigantea</italic>
+</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>175</volume>, <fpage>311</fpage>&#x02013;<lpage>320</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2007.02098.x</pub-id>
+<pub-id pub-id-type="pmid">17587379</pub-id></mixed-citation></ref><ref id="ece35875-bib-0033"><mixed-citation publication-type="journal" id="ece35875-cit-0033">
+<string-name>
+<surname>Johansson</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Olofsson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Giesler</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Palmqvist</surname>, <given-names>K.</given-names>
+</string-name> (<year>2011</year>). <article-title>Lichen responses to nitrogen and phosphorus additions can be explained by the different symbiont responses</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>191</volume>, <fpage>795</fpage>&#x02013;<lpage>805</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2011.03739.x</pub-id>
+<pub-id pub-id-type="pmid">21534972</pub-id></mixed-citation></ref><ref id="ece35875-bib-0034"><mixed-citation publication-type="journal" id="ece35875-cit-0034">
+<string-name>
+<surname>Kerkhoff</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Fagan</surname>, <given-names>W. F.</given-names>
+</string-name>, <string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Enquist</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2006</year>). <article-title>Phylogenetic and growth form variation in the scaling of nitrogen and phosphorus in the seed plants</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>168</volume>, <fpage>E103</fpage>&#x02013;<lpage>E122</lpage>. <pub-id pub-id-type="doi">10.1086/507879</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0035"><mixed-citation publication-type="journal" id="ece35875-cit-0035">
+<string-name>
+<surname>Killingbeck</surname>, <given-names>K. T.</given-names>
+</string-name> (<year>1996</year>). <article-title>Nutrients in senesced leaves: Keys to the search for potential resorption and resorption proficiency</article-title>. <source xml:lang="en">Ecology</source>, <volume>77</volume>, <fpage>1716</fpage>&#x02013;<lpage>1727</lpage>. <pub-id pub-id-type="doi">10.2307/2265777</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0036"><mixed-citation publication-type="journal" id="ece35875-cit-0036">
+<string-name>
+<surname>Knight</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Knight</surname>, <given-names>M. R.</given-names>
+</string-name> (<year>2001</year>). <article-title>Abiotic stress signalling pathways: Specificity and cross&#x02010;talk</article-title>. <source xml:lang="en">Trends in Plant Science</source>, <volume>6</volume>, <fpage>262</fpage>&#x02013;<lpage>267</lpage>. <pub-id pub-id-type="doi">10.1016/S1360-1385(01)01946-X</pub-id>
+<pub-id pub-id-type="pmid">11378468</pub-id></mixed-citation></ref><ref id="ece35875-bib-0037"><mixed-citation publication-type="journal" id="ece35875-cit-0037">
+<string-name>
+<surname>Koerselman</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Meuleman</surname>, <given-names>A. F. M.</given-names>
+</string-name> (<year>1996</year>). <article-title>The vegetation N: P ratio: A new tool to detect the nature of nutrient limitation</article-title>. <source xml:lang="en">Journal of Applied Ecology</source>, <volume>33</volume>, <fpage>1441</fpage>&#x02013;<lpage>1450</lpage>. <pub-id pub-id-type="doi">10.2307/2404783</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0038"><mixed-citation publication-type="journal" id="ece35875-cit-0038">
+<string-name>
+<surname>Lasso</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ackerman</surname>, <given-names>J. D.</given-names>
+</string-name> (<year>2013</year>). <article-title>Nutrient limitation restricts growth and reproductive output in a tropical montane cloud forest bromeliad: Findings from a long&#x02010;term forest fertilization experiment</article-title>. <source xml:lang="en">Oecologia</source>, <volume>171</volume>, <fpage>165</fpage>&#x02013;<lpage>174</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-012-2403-z</pub-id>
+<pub-id pub-id-type="pmid">22767363</pub-id></mixed-citation></ref><ref id="ece35875-bib-0039"><mixed-citation publication-type="journal" id="ece35875-cit-0039">
+<string-name>
+<surname>Laube</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name> (<year>2003</year>). <article-title>Which abiotic factors limit vegetative growth in a vascular epiphyte?</article-title>
+<source xml:lang="en">Functional Ecology</source>, <volume>17</volume>, <fpage>598</fpage>&#x02013;<lpage>604</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2435.2003.00760.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0040"><mixed-citation publication-type="journal" id="ece35875-cit-0040">
+<string-name>
+<surname>Lecourieux</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ranjeva</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pugin</surname>, <given-names>A.</given-names>
+</string-name> (<year>2006</year>). <article-title>Calcium in plant defence&#x02010;signalling pathways</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>171</volume>, <fpage>249</fpage>&#x02013;<lpage>269</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2006.01777.x</pub-id>
+<pub-id pub-id-type="pmid">16866934</pub-id></mixed-citation></ref><ref id="ece35875-bib-0041"><mixed-citation publication-type="journal" id="ece35875-cit-0041">
+<string-name>
+<surname>Leigh</surname>, <given-names>R. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wyn Jones</surname>, <given-names>R. G.</given-names>
+</string-name> (<year>1984</year>). <article-title>A hypothesis relating critical potassium concentrations for growth to the distribution and functions of this ion in the plant cell</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>97</volume>, <fpage>1</fpage>&#x02013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.1984.tb04103.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0042"><mixed-citation publication-type="journal" id="ece35875-cit-0042">
+<string-name>
+<surname>Lesica</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Antibus</surname>, <given-names>R. K.</given-names>
+</string-name> (<year>1990</year>). <article-title>The occurrence of mycorrhizae in vascular epiphytes of two Costa Rican rain forests</article-title>. <source xml:lang="en">Biotropica</source>, <volume>22</volume>, <fpage>250</fpage>&#x02013;<lpage>258</lpage>. <pub-id pub-id-type="doi">10.2307/2388535</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0043"><mixed-citation publication-type="journal" id="ece35875-cit-0043">
+<string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W. Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Li</surname>, <given-names>D. W.</given-names>
+</string-name> (<year>2013</year>). <article-title>Epiphytic lichens in subtropical forest ecosystems in southwest China: Species diversity and implications for conservation</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>159</volume>, <fpage>88</fpage>&#x02013;<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2012.12.027</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0044"><mixed-citation publication-type="journal" id="ece35875-cit-0044">
+<string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W. Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>D. W.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z. X.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fu</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2014</year>). <article-title>Slower rates of litter decomposition of dominant epiphytes in the canopy than on the forest floor in a subtropical montane forest, southwest China</article-title>. <source xml:lang="en">Soil Biology and Biochemistry</source>, <volume>70</volume>, <fpage>211</fpage>&#x02013;<lpage>220</lpage>. <pub-id pub-id-type="doi">10.1016/j.soilbio.2013.12.031</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0045"><mixed-citation publication-type="journal" id="ece35875-cit-0045">
+<string-name>
+<surname>Liu</surname>, <given-names>W. Y.</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>, <given-names>J. E. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Xu</surname>, <given-names>Z. F.</given-names>
+</string-name> (<year>2002</year>). <article-title>Biomass and nutrient accumulation in montane evergreen broad&#x02010;leaved forest (<italic>Lithocarpus xylocarpus</italic> type) in Ailao Mountains, SW China</article-title>. <source xml:lang="en">Forest Ecology and Management</source>, <volume>158</volume>, <fpage>223</fpage>&#x02013;<lpage>235</lpage>. <pub-id pub-id-type="doi">10.1016/S0378-1127(00)00716-7</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0046"><mixed-citation publication-type="journal" id="ece35875-cit-0046">
+<string-name>
+<surname>Lu</surname>, <given-names>H.&#x02010;Z.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W.&#x02010;Y.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>X.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>Y.&#x02010;H.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>X.&#x02010;M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Yu</surname>, <given-names>F.&#x02010;H.</given-names>
+</string-name> (<year>2016</year>). <article-title>Survival and growth of epiphytic ferns depend on resource sharing</article-title>. <source xml:lang="en">Frontiers in Plant Science</source>, <volume>7</volume>, <fpage>416</fpage>
+<pub-id pub-id-type="doi">10.3389/fpls.2016.00416</pub-id>
+<pub-id pub-id-type="pmid">27066052</pub-id></mixed-citation></ref><ref id="ece35875-bib-0047"><mixed-citation publication-type="journal" id="ece35875-cit-0047">
+<string-name>
+<surname>Ma</surname>, <given-names>W. Z.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W. Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Li</surname>, <given-names>X. J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Species composition and life forms of epiphytic bryophytes in old&#x02010;growth and secondary forests in Mt. Ailao, SW China</article-title>. <source xml:lang="en">Cryptogamie Bryologie</source>, <volume>30</volume>, <fpage>477</fpage>&#x02013;<lpage>500</lpage>.</mixed-citation></ref><ref id="ece35875-bib-0048"><mixed-citation publication-type="journal" id="ece35875-cit-0048">
+<string-name>
+<surname>Matson</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Corre</surname>, <given-names>M. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Veldkamp</surname>, <given-names>E.</given-names>
+</string-name> (<year>2014</year>). <article-title>Nitrogen cycling in canopy soils of tropical montane forests responds rapidly to indirect N and P fertilization</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>20</volume>, <fpage>3802</fpage>&#x02013;<lpage>3813</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.12668</pub-id>
+<pub-id pub-id-type="pmid">24965673</pub-id></mixed-citation></ref><ref id="ece35875-bib-0049"><mixed-citation publication-type="journal" id="ece35875-cit-0049">
+<string-name>
+<surname>McGroddy</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Daufresne</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hedin</surname>, <given-names>L. O.</given-names>
+</string-name> (<year>2004</year>). <article-title>Scaling of C:N: P stoichiometry in forests worldwide: Implications of terrestrial Redfield&#x02010;type ratios</article-title>. <source xml:lang="en">Ecology</source>, <volume>85</volume>, <fpage>2390</fpage>&#x02013;<lpage>2401</lpage>. <pub-id pub-id-type="doi">10.1890/03-0351</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0050"><mixed-citation publication-type="journal" id="ece35875-cit-0050">
+<string-name>
+<surname>Nadkarni</surname>, <given-names>N. M.</given-names>
+</string-name> (<year>1984</year>). <article-title>Epiphyte biomass and nutrient capital of a neotropical elfin forest</article-title>. <source xml:lang="en">Biotropica</source>, <volume>16</volume>, <fpage>249</fpage>&#x02013;<lpage>256</lpage>. <pub-id pub-id-type="doi">10.2307/2387932</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0051"><mixed-citation publication-type="journal" id="ece35875-cit-0051">
+<string-name>
+<surname>Nadkarni</surname>, <given-names>N. M.</given-names>
+</string-name>, <string-name>
+<surname>Schaefer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Matelson</surname>, <given-names>T. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Solano</surname>, <given-names>R.</given-names>
+</string-name> (<year>2004</year>). <article-title>Biomass and nutrient pools of canopy and terrestrial components in a primary and a secondary montane cloud forest, Costa Rica</article-title>. <source xml:lang="en">Forest Ecology and Management</source>, <volume>198</volume>, <fpage>223</fpage>&#x02013;<lpage>236</lpage>. <pub-id pub-id-type="doi">10.1016/j.foreco.2004.04.011</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0052"><mixed-citation publication-type="journal" id="ece35875-cit-0052">
+<string-name>
+<surname>Nieder</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Prosper&#x000ed;</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Michaloud</surname>, <given-names>G.</given-names>
+</string-name> (<year>2001</year>). <article-title>Epiphytes and their contribution to canopy diversity</article-title>. <source xml:lang="en">Plant Ecology</source>, <volume>153</volume>, <fpage>51</fpage>&#x02013;<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1023/A:1017517119305</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0053"><mixed-citation publication-type="journal" id="ece35875-cit-0053">
+<string-name>
+<surname>Nielsen</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>Enr&#x000ed;quez</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>, <given-names>C. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sand&#x02010;Jensen</surname>, <given-names>K.</given-names>
+</string-name> (<year>1996</year>). <article-title>Scaling maximum growth rates across photosynthetic organisms</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>10</volume>, <fpage>167</fpage>&#x02013;<lpage>175</lpage>. <pub-id pub-id-type="doi">10.2307/2389840</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0054"><mixed-citation publication-type="journal" id="ece35875-cit-0054">
+<string-name>
+<surname>Niklas</surname>, <given-names>K. J.</given-names>
+</string-name> (<year>2006</year>). <article-title>Plant allometry, leaf nitrogen and phosphorus stoichiometry, and interspecific trends in annual growth rates</article-title>. <source xml:lang="en">Annals of Botany</source>, <volume>97</volume>, <fpage>155</fpage>&#x02013;<lpage>163</lpage>. <pub-id pub-id-type="doi">10.1093/aob/mcj021</pub-id>
+<pub-id pub-id-type="pmid">16287903</pub-id></mixed-citation></ref><ref id="ece35875-bib-0055"><mixed-citation publication-type="journal" id="ece35875-cit-0055">
+<string-name>
+<surname>Niklas</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Owens</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>, <given-names>P. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cobb</surname>, <given-names>E. D.</given-names>
+</string-name> (<year>2005</year>). <article-title>Nitrogen/phosphorus leaf stoichiometry and the scaling of plant growth</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>8</volume>, <fpage>636</fpage>&#x02013;<lpage>642</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2005.00759.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0056"><mixed-citation publication-type="journal" id="ece35875-cit-0056">
+<string-name>
+<surname>Olde Venterink</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wassen</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Verkroost</surname>, <given-names>A. W. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>de Ruiter</surname>, <given-names>P. C.</given-names>
+</string-name> (<year>2003</year>). <article-title>Species richness&#x02010;productivity patterns differ between N&#x02010;, P&#x02010;, and K&#x02010;limited wetlands</article-title>. <source xml:lang="en">Ecology</source>, <volume>84</volume>, <fpage>2191</fpage>&#x02013;<lpage>2199</lpage>. <pub-id pub-id-type="doi">10.1890/01-0639</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0057"><mixed-citation publication-type="journal" id="ece35875-cit-0057">
+<string-name>
+<surname>Osakabe</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Arinaga</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Umezawa</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Katsura</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Nagamachi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tanaka</surname>, <given-names>H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Yamaguchi&#x02010;Shinozaki</surname>, <given-names>K.</given-names>
+</string-name> (<year>2013</year>). <article-title>Osmotic stress responses and plant growth controlled by potassium transporters in <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">The Plant Cell</source>, <volume>25</volume>, <fpage>609</fpage>&#x02013;<lpage>624</lpage>. <pub-id pub-id-type="doi">10.1105/tpc.112.105700</pub-id>
+<pub-id pub-id-type="pmid">23396830</pub-id></mixed-citation></ref><ref id="ece35875-bib-0058"><mixed-citation publication-type="journal" id="ece35875-cit-0058">
+<string-name>
+<surname>Pentecost</surname>, <given-names>A.</given-names>
+</string-name> (<year>1998</year>). <article-title>Some observations on the biomass and distribution of cryptogamic epiphytes in the upper montane forest of the Rwenzori Mountains, Uganda</article-title>. <source xml:lang="en">Global Ecology and Biogeography Letters</source>, <volume>7</volume>, <fpage>273</fpage>&#x02013;<lpage>284</lpage>. <pub-id pub-id-type="doi">10.2307/2997601</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0059"><mixed-citation publication-type="journal" id="ece35875-cit-0059">
+<string-name>
+<surname>Pike</surname>, <given-names>L. H.</given-names>
+</string-name> (<year>1978</year>). <article-title>The importance of epiphytic lichens in mineral cycling</article-title>. <source xml:lang="en">The Bryologist</source>, <volume>81</volume>, <fpage>247</fpage>&#x02013;<lpage>257</lpage>. <pub-id pub-id-type="doi">10.2307/3242186</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0060"><mixed-citation publication-type="journal" id="ece35875-cit-0060">
+<string-name>
+<surname>Proctor</surname>, <given-names>M. C. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tuba</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2002</year>). <article-title>Poikilohydry and homoihydry: Antithesis or spectrum of possibilities?</article-title>
+<source xml:lang="en">New Phytologist</source>, <volume>156</volume>, <fpage>327</fpage>&#x02013;<lpage>349</lpage>. <pub-id pub-id-type="doi">10.1046/j.1469-8137.2002.00526.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0061"><mixed-citation publication-type="journal" id="ece35875-cit-0061">
+<string-name>
+<surname>Reddy</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name>
+<surname>Ali</surname>, <given-names>G. S.</given-names>
+</string-name>, <string-name>
+<surname>Celesnik</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Day</surname>, <given-names>I. S.</given-names>
+</string-name> (<year>2011</year>). <article-title>Coping with stresses: Roles of calcium&#x02010; and calcium/calmodulin&#x02010;regulated gene expression</article-title>. <source xml:lang="en">The Plant Cell</source>, <volume>23</volume>, <fpage>2010</fpage>&#x02013;<lpage>2032</lpage>. <pub-id pub-id-type="doi">10.1105/tpc.111.084988</pub-id>
+<pub-id pub-id-type="pmid">21642548</pub-id></mixed-citation></ref><ref id="ece35875-bib-0062"><mixed-citation publication-type="journal" id="ece35875-cit-0062">
+<string-name>
+<surname>Reich</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ewel</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Nadkarni</surname>, <given-names>N. M.</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Evans</surname>, <given-names>R. D.</given-names>
+</string-name> (<year>2003</year>). <article-title>Nitrogen isotope ratios shift with plant size in tropical bromeliads</article-title>. <source xml:lang="en">Oecologia</source>, <volume>137</volume>, <fpage>587</fpage>&#x02013;<lpage>590</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-003-1386-1</pub-id>
+<pub-id pub-id-type="pmid">14513351</pub-id></mixed-citation></ref><ref id="ece35875-bib-0063"><mixed-citation publication-type="journal" id="ece35875-cit-0063">
+<string-name>
+<surname>Reich</surname>, <given-names>P. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Oleksyn</surname>, <given-names>J.</given-names>
+</string-name> (<year>2004</year>). <article-title>Global patterns of plant leaf N and P in relation to temperature and latitude</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>101</volume>, <fpage>11001</fpage>&#x02013;<lpage>11006</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0403588101</pub-id>
+<pub-id pub-id-type="pmid">15213326</pub-id></mixed-citation></ref><ref id="ece35875-bib-0064"><mixed-citation publication-type="journal" id="ece35875-cit-0064">
+<string-name>
+<surname>Reich</surname>, <given-names>P. B.</given-names>
+</string-name>, <string-name>
+<surname>Oleksyn</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>I. J.</given-names>
+</string-name>, <string-name>
+<surname>Niklas</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Hedin</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Evidence of a general 2/3&#x02010;power law of scaling leaf nitrogen to phosphorus among major plant groups and biomes</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>277</volume>, <fpage>877</fpage>&#x02013;<lpage>883</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2009.1818</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0065"><mixed-citation publication-type="journal" id="ece35875-cit-0065">
+<string-name>
+<surname>Sardans</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Alonso</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Carnicer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Fern&#x000e1;ndez&#x02010;Mart&#x000ed;nez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vivanco</surname>, <given-names>M. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pe&#x000f1;uelas</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Factors influencing the foliar elemental composition and stoichiometry in forest trees in Spain</article-title>. <source xml:lang="en">Perspectives in Plant Ecology, Evolution and Systematics</source>, <volume>18</volume>, <fpage>52</fpage>&#x02013;<lpage>69</lpage>. <pub-id pub-id-type="doi">10.1016/j.ppees.2016.01.001</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0066"><mixed-citation publication-type="journal" id="ece35875-cit-0066">
+<string-name>
+<surname>Sardans</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Janssens</surname>, <given-names>I. A.</given-names>
+</string-name>, <string-name>
+<surname>Alonso</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Veresoglou</surname>, <given-names>S. D.</given-names>
+</string-name>, <string-name>
+<surname>Rillig</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Sanders</surname>, <given-names>T. G. M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Pe&#x000f1;uelas</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Foliar elemental composition of European forest tree species associated with evolutionary traits and present environmental and competitive conditions</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>24</volume>, <fpage>240</fpage>&#x02013;<lpage>255</lpage>. <pub-id pub-id-type="doi">10.1111/geb.12253</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0067"><mixed-citation publication-type="journal" id="ece35875-cit-0067">
+<string-name>
+<surname>Sardans</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pe&#x000f1;uelas</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Potassium: A neglected nutrient in global change</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>24</volume>, <fpage>261</fpage>&#x02013;<lpage>275</lpage>. <pub-id pub-id-type="doi">10.1111/geb.12259</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0068"><mixed-citation publication-type="journal" id="ece35875-cit-0068">
+<string-name>
+<surname>Sardans</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pe&#x000f1;uelas</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Coll</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vayreda</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rivas&#x02010;Ubach</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Stoichiometry of potassium is largely determined by water availability and growth in Catalonian forests</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>26</volume>, <fpage>1077</fpage>&#x02013;<lpage>1089</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2435.2012.02023.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0069"><mixed-citation publication-type="journal" id="ece35875-cit-0069">
+<string-name>
+<surname>Sardans</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Rivas&#x02010;Ubach</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pe&#x000f1;uelas</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>). <article-title>The elemental stoichiometry of aquatic and terrestrial ecosystems and its relationships with organismic lifestyle and ecosystem structure and function: A review and perspectives</article-title>. <source xml:lang="en">Biogeochemistry</source>, <volume>111</volume>, <fpage>1</fpage>&#x02013;<lpage>39</lpage>. <pub-id pub-id-type="doi">10.1007/s10533-011-9640-9</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0070"><mixed-citation publication-type="journal" id="ece35875-cit-0070">
+<string-name>
+<surname>Schmidt</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name> (<year>2002</year>). <article-title>Inherently slow growth in two Caribbean epiphytic species: A demographic approach</article-title>. <source xml:lang="en">Journal of Vegetation Science</source>, <volume>13</volume>, <fpage>527</fpage>&#x02013;<lpage>534</lpage>. <pub-id pub-id-type="doi">10.1111/j.1654-1103.2002.tb02079.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0071"><mixed-citation publication-type="journal" id="ece35875-cit-0071">
+<string-name>
+<surname>Song</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>H.&#x02010;Z.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>X.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S. U.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>X.&#x02010;M.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X. I.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Liu</surname>, <given-names>W.&#x02010;Y.</given-names>
+</string-name> (<year>2016</year>). <article-title>Organic nitrogen uptake is a significant contributor to nitrogen economy of subtropical epiphytic bryophytes</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>6</volume>, <fpage>30408</fpage>
+<pub-id pub-id-type="doi">10.1038/srep30408</pub-id>
+<pub-id pub-id-type="pmid">27460310</pub-id></mixed-citation></ref><ref id="ece35875-bib-0072"><mixed-citation publication-type="book" id="ece35875-cit-0072">
+<string-name>
+<surname>Sterner</surname>, <given-names>R. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2002</year>). <source xml:lang="en">Ecological stoichiometry: The biology of elements from molecules to the biosphere</source>. <publisher-loc>Princeton, NJ</publisher-loc>: <publisher-name>Princeton University Press</publisher-name>.</mixed-citation></ref><ref id="ece35875-bib-0073"><mixed-citation publication-type="journal" id="ece35875-cit-0073">
+<string-name>
+<surname>Stewart</surname>, <given-names>G. R.</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Handley</surname>, <given-names>L. L.</given-names>
+</string-name>, <string-name>
+<surname>Turnbull</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name>
+<surname>Erskine</surname>, <given-names>P. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Joly</surname>, <given-names>C. A.</given-names>
+</string-name> (<year>1995</year>). <article-title>
+<sup>15</sup>N natural abundance of vascular rainforest epiphytes: Implications for nitrogen source and acquisition</article-title>. <source xml:lang="en">Plant, Cell and Environment</source>, <volume>18</volume>, <fpage>85</fpage>&#x02013;<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-3040.1995.tb00547.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0074"><mixed-citation publication-type="journal" id="ece35875-cit-0074">
+<string-name>
+<surname>Tian</surname>, <given-names>D. I.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Niklas</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Kattge</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>, <given-names>P. B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Fang</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Global leaf nitrogen and phosphorus stoichiometry and their scaling exponent</article-title>. <source xml:lang="en">National Science Review</source>, <volume>5</volume>, <fpage>728</fpage>&#x02013;<lpage>739</lpage>. <pub-id pub-id-type="doi">10.1093/nsr/nwx142</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0075"><mixed-citation publication-type="journal" id="ece35875-cit-0075">
+<string-name>
+<surname>Treseder</surname>, <given-names>K. K.</given-names>
+</string-name>, <string-name>
+<surname>Davidson</surname>, <given-names>D. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ehleringer</surname>, <given-names>J. R.</given-names>
+</string-name> (<year>1995</year>). <article-title>Absorption of ant&#x02010;provided carbon dioxide and nitrogen by a tropical epiphyte</article-title>. <source xml:lang="en">Nature</source>, <volume>375</volume>, <fpage>137</fpage>&#x02013;<lpage>139</lpage>. <pub-id pub-id-type="doi">10.1038/375137a0</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0076"><mixed-citation publication-type="journal" id="ece35875-cit-0076">
+<string-name>
+<surname>Valladares</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sanchez&#x02010;Gomez</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zavala</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2006</year>). <article-title>Quantitative estimation of phenotypic plasticity: Bridging the gap between the evolutionary concept and its ecological applications</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>94</volume>, <fpage>1103</fpage>&#x02013;<lpage>1116</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2745.2006.01176.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0077"><mixed-citation publication-type="journal" id="ece35875-cit-0077">
+<string-name>
+<surname>Van Stan</surname>, <given-names>J. T.</given-names>, <suffix>II</suffix>
+</string-name>, &#x00026; <string-name>
+<surname>Pypker</surname>, <given-names>T. G.</given-names>
+</string-name>(<year>2015</year>). <article-title>A review and evaluation of forest canopy epiphyte roles in the partitioning and chemical alteration of precipitation</article-title>. <source xml:lang="en">Science of the Total Environment</source>, <volume>536</volume>, <fpage>813</fpage>&#x02013;<lpage>824</lpage>. <pub-id pub-id-type="doi">10.1016/j.scitotenv.2015.07.134</pub-id>
+<pub-id pub-id-type="pmid">26254081</pub-id></mixed-citation></ref><ref id="ece35875-bib-0078"><mixed-citation publication-type="journal" id="ece35875-cit-0078">
+<string-name>
+<surname>Wanek</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name> (<year>2011</year>). <article-title>Are vascular epiphytes nitrogen or phosphorus limited? A study of plant <sup>15</sup>N fractionation and foliar N: P stoichiometry with the tank bromeliad<italic> Vriesea sanguinolent</italic>a</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>192</volume>, <fpage>462</fpage>&#x02013;<lpage>470</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2011.03812.x</pub-id>
+<pub-id pub-id-type="pmid">21729088</pub-id></mixed-citation></ref><ref id="ece35875-bib-0079"><mixed-citation publication-type="journal" id="ece35875-cit-0079">
+<string-name>
+<surname>Wania</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hietz</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wanek</surname>, <given-names>W.</given-names>
+</string-name> (<year>2002</year>). <article-title>Natural <sup>15</sup>N abundance of epiphytes depends on the position within the forest canopy: Source signals and isotope fractionation</article-title>. <source xml:lang="en">Plant, Cell and Environment</source>, <volume>25</volume>, <fpage>581</fpage>&#x02013;<lpage>589</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-3040.2002.00836.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0080"><mixed-citation publication-type="journal" id="ece35875-cit-0080">
+<string-name>
+<surname>Watkins</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Rundel</surname>, <given-names>P. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cardel&#x000fa;s</surname>, <given-names>C. L.</given-names>
+</string-name> (<year>2007</year>). <article-title>The influence of life form on carbon and nitrogen relationships in tropical rainforest ferns</article-title>. <source xml:lang="en">Oecologia</source>, <volume>153</volume>, <fpage>225</fpage>&#x02013;<lpage>232</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-007-0723-1</pub-id>
+<pub-id pub-id-type="pmid">17415590</pub-id></mixed-citation></ref><ref id="ece35875-bib-0081"><mixed-citation publication-type="journal" id="ece35875-cit-0081">
+<string-name>
+<surname>White</surname>, <given-names>P. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Broadley</surname>, <given-names>M. R.</given-names>
+</string-name> (<year>2003</year>). <article-title>Calcium in plants</article-title>. <source xml:lang="en">Annals of Botany</source>, <volume>92</volume>, <fpage>487</fpage>&#x02013;<lpage>511</lpage>. <pub-id pub-id-type="doi">10.1093/aob/mcg164</pub-id>
+<pub-id pub-id-type="pmid">12933363</pub-id></mixed-citation></ref><ref id="ece35875-bib-0082"><mixed-citation publication-type="journal" id="ece35875-cit-0082">
+<string-name>
+<surname>Willby</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<surname>Pulford</surname>, <given-names>I. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Flowers</surname>, <given-names>T. H.</given-names>
+</string-name> (<year>2001</year>). <article-title>Tissue nutrient signatures predict herbaceous&#x02010;wetland community responses to nutrient availability</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>152</volume>, <fpage>463</fpage>&#x02013;<lpage>481</lpage>. <pub-id pub-id-type="doi">10.1046/j.0028-646X.2001.00274.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0083"><mixed-citation publication-type="journal" id="ece35875-cit-0083">
+<string-name>
+<surname>Winkler</surname>, <given-names>U.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name> (<year>2009</year>). <article-title>Highly efficient uptake of phosphorus in epiphytic bromeliads</article-title>. <source xml:lang="en">Annals of Botany</source>, <volume>103</volume>, <fpage>477</fpage>&#x02013;<lpage>484</lpage>. <pub-id pub-id-type="doi">10.1093/aob/mcn231</pub-id>
+<pub-id pub-id-type="pmid">19033287</pub-id></mixed-citation></ref><ref id="ece35875-bib-0084"><mixed-citation publication-type="journal" id="ece35875-cit-0084">
+<string-name>
+<surname>Winkler</surname>, <given-names>U.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name> (<year>2010</year>). <article-title>'And then there were three': Highly efficient uptake of potassium by foliar trichomes of epiphytic bromeliads</article-title>. <source xml:lang="en">Annals of Botany</source>, <volume>106</volume>, <fpage>421</fpage>&#x02013;<lpage>427</lpage>. <pub-id pub-id-type="doi">10.1093/aob/mcq120</pub-id>
+<pub-id pub-id-type="pmid">20542886</pub-id></mixed-citation></ref><ref id="ece35875-bib-0085"><mixed-citation publication-type="journal" id="ece35875-cit-0085">
+<string-name>
+<surname>Wolf</surname>, <given-names>J. H. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Alejandro</surname>, <given-names>F.</given-names>
+</string-name> (<year>2003</year>). <article-title>Patterns in species richness and distribution of vascular epiphytes in Chiapas, Mexico</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>30</volume>, <fpage>1689</fpage>&#x02013;<lpage>1707</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2699.2003.00902.x</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0086"><mixed-citation publication-type="journal" id="ece35875-cit-0086">
+<string-name>
+<surname>Wright</surname>, <given-names>I. J.</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>, <given-names>P. B.</given-names>
+</string-name>, <string-name>
+<surname>Cornelissen</surname>, <given-names>J. H. C.</given-names>
+</string-name>, <string-name>
+<surname>Falster</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<surname>Garnier</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Hikosaka</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Westoby</surname>, <given-names>M.</given-names>
+</string-name> (<year>2005</year>). <article-title>Assessing the generality of global leaf trait relationships</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>166</volume>, <fpage>485</fpage>&#x02013;<lpage>496</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2005.01349.x</pub-id>
+<pub-id pub-id-type="pmid">15819912</pub-id></mixed-citation></ref><ref id="ece35875-bib-0087"><mixed-citation publication-type="journal" id="ece35875-cit-0087">
+<string-name>
+<surname>Wright</surname>, <given-names>I. J.</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>, <given-names>P. B.</given-names>
+</string-name>, <string-name>
+<surname>Westoby</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ackerly</surname>, <given-names>D. D.</given-names>
+</string-name>, <string-name>
+<surname>Baruch</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Bongers</surname>, <given-names>F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Villar</surname>, <given-names>R.</given-names>
+</string-name> (<year>2004</year>). <article-title>The worldwide leaf economics spectrum</article-title>. <source xml:lang="en">Nature</source>, <volume>428</volume>, <fpage>821</fpage>&#x02013;<lpage>827</lpage>. <pub-id pub-id-type="doi">10.1038/nature02403</pub-id>
+<pub-id pub-id-type="pmid">15103368</pub-id></mixed-citation></ref><ref id="ece35875-bib-0088"><mixed-citation publication-type="journal" id="ece35875-cit-0088">
+<string-name>
+<surname>Xu</surname>, <given-names>H. Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>W. Y.</given-names>
+</string-name> (<year>2005</year>). <article-title>Species diversity and distribution of epiphytes in the montane moist evergreen broad&#x02010;leaved forest in Ailao Mountain, Yunnan</article-title>. <source xml:lang="en">Biodiversity Science</source>, <volume>13</volume>, <fpage>137</fpage>&#x02013;<lpage>147</lpage>. <pub-id pub-id-type="doi">10.1360/biodiv.040123</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0089"><mixed-citation publication-type="journal" id="ece35875-cit-0089">
+<string-name>
+<surname>Yan</surname>, <given-names>B. G.</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>, <given-names>Z. H.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X. M.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>G. X.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>L. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>G. C.</given-names>
+</string-name> (<year>2016</year>). <article-title>Plants adapted to nutrient limitation allocate less biomass into stems in an arid&#x02010;hot grassland</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>211</volume>, <fpage>1232</fpage>&#x02013;<lpage>1240</lpage>. <pub-id pub-id-type="doi">10.1111/nph.13970</pub-id>
+<pub-id pub-id-type="pmid">27101947</pub-id></mixed-citation></ref><ref id="ece35875-bib-0090"><mixed-citation publication-type="journal" id="ece35875-cit-0090">
+<string-name>
+<surname>Yan</surname>, <given-names>Z. B.</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>W. X.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>Z. Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fang</surname>, <given-names>J. Y.</given-names>
+</string-name> (<year>2017</year>). <article-title>An assessment on the uncertainty of the nitrogen to phosphorus ratio as a threshold for nutrient limitation in plants</article-title>. <source xml:lang="en">Annals of Botany</source>, <volume>120</volume>, <fpage>937</fpage>&#x02013;<lpage>942</lpage>. <pub-id pub-id-type="doi">10.1093/aob/mcx106</pub-id>
+<pub-id pub-id-type="pmid">29028870</pub-id></mixed-citation></ref><ref id="ece35875-bib-0091"><mixed-citation publication-type="journal" id="ece35875-cit-0091">
+<string-name>
+<surname>Yu</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Elser</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>N. P.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>H. H.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Q. S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>G. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Han</surname>, <given-names>X. G.</given-names>
+</string-name> (<year>2011</year>). <article-title>Stoichiometric homeostasis of vascular plants in the Inner Mongolia grassland</article-title>. <source xml:lang="en">Oecologia</source>, <volume>166</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-010-1902-z</pub-id>
+<pub-id pub-id-type="pmid">21221646</pub-id></mixed-citation></ref><ref id="ece35875-bib-0092"><mixed-citation publication-type="journal" id="ece35875-cit-0092">
+<string-name>
+<surname>Yu</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Wilcox</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>La Pierre</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Knapp</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>X. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>M. D.</given-names>
+</string-name> (<year>2015</year>). <article-title>Stoichiometric homeostasis predicts plant species dominance, temporal stability, and responses to global change</article-title>. <source xml:lang="en">Ecology</source>, <volume>96</volume>, <fpage>2328</fpage>&#x02013;<lpage>2335</lpage>. <pub-id pub-id-type="doi">10.1890/14-1897.1</pub-id>
+<pub-id pub-id-type="pmid">26594691</pub-id></mixed-citation></ref><ref id="ece35875-bib-0093"><mixed-citation publication-type="journal" id="ece35875-cit-0093">
+<string-name>
+<surname>Zhang</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>N. P.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yu</surname>, <given-names>G. R.</given-names>
+</string-name> (<year>2018</year>). <article-title>Allocation strategies for nitrogen and phosphorus in forest plants</article-title>. <source xml:lang="en">Oikos</source>, <volume>127</volume>, <fpage>1506</fpage>&#x02013;<lpage>1514</lpage>. <pub-id pub-id-type="doi">10.1111/oik.05517</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0094"><mixed-citation publication-type="journal" id="ece35875-cit-0094">
+<string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name> (<year>1999</year>). <article-title>What are backshoots good for? Seasonal changes in mineral, carbohydrate and water content of different organs of the epiphytic orchid, <italic>Dimerandra emarginata</italic>
+</article-title>. <source xml:lang="en">Annals of Botany</source>, <volume>84</volume>, <fpage>791</fpage>&#x02013;<lpage>798</lpage>. <pub-id pub-id-type="doi">10.1006/anbo.1999.0983</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0095"><mixed-citation publication-type="journal" id="ece35875-cit-0095">
+<string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name> (<year>2004</year>). <article-title>The resorption of phosphorus is greater than that of nitrogen in senescing leaves of vascular epiphytes from lowland Panama</article-title>. <source xml:lang="en">Journal of Tropical Ecology</source>, <volume>20</volume>, <fpage>693</fpage>&#x02013;<lpage>696</lpage>. <pub-id pub-id-type="doi">10.1017/s0266467404001889</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0096"><mixed-citation publication-type="journal" id="ece35875-cit-0096">
+<string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name> (<year>2013</year>). <article-title>The systematic distribution of vascular epiphytes &#x02013; A critical update</article-title>. <source xml:lang="en">Botanical Journal of the Linnean Society</source>, <volume>171</volume>, <fpage>453</fpage>&#x02013;<lpage>481</lpage>. <pub-id pub-id-type="doi">10.1111/boj.12010</pub-id>
+</mixed-citation></ref><ref id="ece35875-bib-0097"><mixed-citation publication-type="journal" id="ece35875-cit-0097">
+<string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Asshoff</surname>, <given-names>R.</given-names>
+</string-name> (<year>2010</year>). <article-title>Growth in epiphytic bromeliads: Response to the relative supply of phosphorus and nitrogen</article-title>. <source xml:lang="en">Plant Biology</source>, <volume>12</volume>, <fpage>108</fpage>&#x02013;<lpage>113</lpage>. <pub-id pub-id-type="doi">10.1111/j.1438-8677.2009.00216.x</pub-id>
+<pub-id pub-id-type="pmid">20653893</pub-id></mixed-citation></ref><ref id="ece35875-bib-0098"><mixed-citation publication-type="journal" id="ece35875-cit-0098">
+<string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hietz</surname>, <given-names>P.</given-names>
+</string-name> (<year>2001</year>). <article-title>The physiological ecology of vascular epiphytes: Current knowledge, open questions</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>, <volume>52</volume>, <fpage>2067</fpage>&#x02013;<lpage>2078</lpage>. <pub-id pub-id-type="doi">10.1093/jexbot/52.364.2067</pub-id>
+<pub-id pub-id-type="pmid">11604445</pub-id></mixed-citation></ref><ref id="ece35875-bib-0099"><mixed-citation publication-type="journal" id="ece35875-cit-0099">
+<string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Richter</surname>, <given-names>A.</given-names>
+</string-name> (<year>2006</year>). <article-title>Changes in carbohydrate and nutrient contents throughout a reproductive cycle indicate that phosphorus is a limiting nutrient in the epiphytic bromeliad, <italic>Werauhia sanguinolenta</italic>
+</article-title>. <source xml:lang="en">Annals of Botany</source>, <volume>97</volume>, <fpage>745</fpage>&#x02013;<lpage>754</lpage>. <pub-id pub-id-type="doi">10.1093/aob/mcl026</pub-id>
+<pub-id pub-id-type="pmid">16497701</pub-id></mixed-citation></ref><ref id="ece35875-bib-0100"><mixed-citation publication-type="journal" id="ece35875-cit-0100">
+<string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Winkler</surname>, <given-names>U.</given-names>
+</string-name> (<year>2013</year>). <article-title>Aerial roots of epiphytic orchids: The velamen radicum and its role in water and nutrient uptake</article-title>. <source xml:lang="en">Oecologia</source>, <volume>171</volume>, <fpage>733</fpage>&#x02013;<lpage>741</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-012-2575-6</pub-id>
+<pub-id pub-id-type="pmid">23292456</pub-id></mixed-citation></ref><ref id="ece35875-bib-0101"><mixed-citation publication-type="journal" id="ece35875-cit-0101">
+<string-name>
+<surname>Zotz</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Winter</surname>, <given-names>K.</given-names>
+</string-name> (<year>1994</year>). <article-title>Annual carbon balance and nitrogen&#x02010;use efficiency in tropical C<sub>3</sub> and CAM epiphytes</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>126</volume>, <fpage>481</fpage>&#x02013;<lpage>492</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.1994.tb04245.x</pub-id>
+</mixed-citation></ref></ref-list></back></article>

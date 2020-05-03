@@ -1,0 +1,401 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Nat Commun</journal-id><journal-id journal-id-type="iso-abbrev">Nat Commun</journal-id><journal-title-group><journal-title>Nature Communications</journal-title></journal-title-group><issn pub-type="epub">2041-1723</issn><publisher><publisher-name>Nature Publishing Group UK</publisher-name><publisher-loc>London</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31924763</article-id><article-id pub-id-type="pmc">6954248</article-id><article-id pub-id-type="publisher-id">13865</article-id><article-id pub-id-type="doi">10.1038/s41467-019-13865-0</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Low cost satellite constellations for nearly continuous global coverage</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Singh</surname><given-names>Lake A.</given-names></name><address><email>lake.a.singh@aero.org</email></address><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Whittecar</surname><given-names>William R.</given-names></name><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>DiPrinzio</surname><given-names>Marc D.</given-names></name><xref ref-type="aff" rid="Aff3">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4081-3175</contrib-id><name><surname>Herman</surname><given-names>Jonathan D.</given-names></name><xref ref-type="aff" rid="Aff4">4</xref></contrib><contrib contrib-type="author"><name><surname>Ferringer</surname><given-names>Matthew P.</given-names></name><xref ref-type="aff" rid="Aff5">5</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7963-6102</contrib-id><name><surname>Reed</surname><given-names>Patrick M.</given-names></name><xref ref-type="aff" rid="Aff6">6</xref></contrib><aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0747 4549</institution-id><institution-id institution-id-type="GRID">grid.278167.d</institution-id><institution>GEOINT Innovations Office, </institution><institution>The Aerospace Corporation, </institution></institution-wrap>Chantilly, VA 20151 USA </aff><aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0747 4549</institution-id><institution-id institution-id-type="GRID">grid.278167.d</institution-id><institution>Performance Modeling and Analysis Department, </institution><institution>The Aerospace Corporation, </institution></institution-wrap>Chantilly, VA 20151 USA </aff><aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0747 4549</institution-id><institution-id institution-id-type="GRID">grid.278167.d</institution-id><institution>Mission Analysis and Operations Department, </institution><institution>The Aerospace Corporation, </institution></institution-wrap>Chantilly, VA 20151 USA </aff><aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 9684</institution-id><institution-id institution-id-type="GRID">grid.27860.3b</institution-id><institution>Civil and Environmental Engineering, </institution><institution>University of California, </institution></institution-wrap>Davis, CA 95616 USA </aff><aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0747 4549</institution-id><institution-id institution-id-type="GRID">grid.278167.d</institution-id><institution>National Geospatial Programs, </institution><institution>The Aerospace Corporation, </institution></institution-wrap>Chantilly, VA 20151 USA </aff><aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="ISNI">000000041936877X</institution-id><institution-id institution-id-type="GRID">grid.5386.8</institution-id><institution>Civil and Environmental Engineering, </institution><institution>Cornell University, </institution></institution-wrap>Ithaca, NY 14853 USA </aff></contrib-group><pub-date pub-type="epub"><day>10</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="pmc-release"><day>10</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="collection"><year>2020</year></pub-date><volume>11</volume><elocation-id>200</elocation-id><history><date date-type="received"><day>15</day><month>1</month><year>2018</year></date><date date-type="accepted"><day>25</day><month>11</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; This is a U.S Government work and not under copyright protection in the U.S; foreign copyright protection may apply 2020</copyright-statement><license license-type="OpenAccess"><license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article&#x02019;s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p></license></permissions><abstract id="Abs1"><p id="Par1">Satellite services are fundamental to the global economy, and their design reflects a tradeoff between coverage and cost. Here, we report the discovery of two alternative 4-satellite constellations with 24- and 48-hour periods, both of which attain nearly continuous global coverage. The 4-satellite constellations harness energy from nonlinear orbital perturbation forces (e.g., Earth&#x02019;s geopotential, gravitational effects of the sun and moon, and solar radiation pressure) to reduce their propellant and maintenance costs. Our findings demonstrate that small sacrifices in global coverage at user-specified longitudes allow operationally viable constellations with significantly reduced mass-to-orbit costs and increased design life. The 24-hour period constellation reduces the overall required vehicle mass budget for propellant by approximately 60% compared to a geostationary Earth orbit constellation with similar coverage over typical satellite lifetimes. Mass savings of this magnitude permit the use of less expensive launch vehicles, installation of additional instruments, and substantially improved mission life.</p></abstract><abstract id="Abs2" abstract-type="web-summary"><p id="Par2">Telecommunication, navigation and remote sensing services are highly dependent on how well satellites provide global coverage. Here the authors show a pair of four-satellite low-cost longer-life constellations that provide nearly continuous global coverage to support Earth observation.</p></abstract><kwd-group kwd-group-type="npg-subject"><title>Subject terms</title><kwd>Inner planets</kwd><kwd>Devices for energy harvesting</kwd><kwd>Aerospace engineering</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; The Author(s) 2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1" sec-type="introduction"><title>Introduction</title><p id="Par3">Satellite services fundamentally shape telecommunication, navigation, and remote sensing services that are vital to the global economy. Sustained space-based Earth observation is critical for understanding and addressing global scale challenges, such as poverty, urbanization, water security, climate change, and epidemiological risks, to human health<sup><xref ref-type="bibr" rid="CR1">1</xref>&#x02013;<xref ref-type="bibr" rid="CR4">4</xref></sup>. Despite the intrinsic value of sustaining space-based satellite services, the National Research Council has repeatedly warned that critical space infrastructures are at risk of collapse<sup><xref ref-type="bibr" rid="CR4">4</xref>,<xref ref-type="bibr" rid="CR5">5</xref></sup>. International coordination challenges<sup><xref ref-type="bibr" rid="CR6">6</xref></sup> combined with uncertain budgetary policies exacerbate the risk of reaching tipping points where the loss of space infrastructure could have long lived, if not irreversible impacts on critical data systems. Sustaining and advancing satellite constellations costs ~$10,000 per pound (0.45&#x02009;kg) launched<sup><xref ref-type="bibr" rid="CR7">7</xref></sup> with total lifecycle mission costs often exceeding billions of dollars<sup><xref ref-type="bibr" rid="CR8">8</xref></sup>. A core goal of this study is to improve the value proposition for those interests that cannot yet sustain their own global satellite services. A critical factor for addressing this challenge is reducing the total mass-to-orbit.</p><p id="Par4">Propellant can account for a substantial portion of the mass budget of a mission, ranging from 6% (Global Positioning Systems) to 50% (the Clementine mission) of a satellite&#x02019;s total mass<sup><xref ref-type="bibr" rid="CR9">9</xref></sup>. Reducing the propellant required to perform a given mission reduces the cost-to-orbit, but also requires a detailed understanding of active mission control requirements, including active station-keeping, relocation, and deorbit. Active station-keeping refers to the ongoing control maneuvers to counter undesired changes in the constellation configuration due to perturbing accelerations (e.g., Earth&#x02019;s geopotential, the gravity of the sun and moon, solar radiation pressure, etc.)<sup><xref ref-type="bibr" rid="CR10">10</xref></sup>. However, with the right initial conditions, these forces can be harnessed to maintain, rather than disrupt, the configuration of a satellite constellation. This study presents the discovery of such designs via numerical optimization, nearly eliminating the propellant load required for a mission (see Supplementary Tables&#x000a0;<xref rid="MOESM1" ref-type="media">1</xref> and <xref rid="MOESM1" ref-type="media">2</xref>).</p><p id="Par5">No mechanism presently exists to affordably resupply satellites with propellant, and so the quantity of propellant placed onboard prior to launch limits the lifetime of these vehicles. Active station-keeping propellant requirements thus impact both the design life and the launch mass of the vehicle. Classical benchmark designs, such as the Draim or Walker constellations, are theoretically known to attain ideal continuous global coverage<sup><xref ref-type="bibr" rid="CR11">11</xref>,<xref ref-type="bibr" rid="CR12">12</xref></sup>. However, in practice these designs pose severe tradeoffs between the need for more station-keeping propellant and the need for more spacecraft<sup><xref ref-type="bibr" rid="CR13">13</xref></sup>. Regarding the Draim global coverage constellation<sup><xref ref-type="bibr" rid="CR11">11</xref></sup>, prior studies have noted potentially high station-keeping costs<sup><xref ref-type="bibr" rid="CR13">13</xref></sup>.</p><p id="Par6">Here, we report four-satellite constellations with 24- and 48-h orbital periods that approach nearly continuous global coverage while substantially reducing mass-to-orbit and active station-keeping requirements (see Supplementary Figs.&#x000a0;<xref rid="MOESM1" ref-type="media">1</xref> and <xref rid="MOESM1" ref-type="media">2</xref>). These constellations represent a promising breakthrough for long life, low-cost global observation that could be of value in a broad range of scientific and commercial application areas.</p></sec><sec id="Sec2" sec-type="results"><title>Results</title><sec id="Sec3"><title>Nearly continuous global coverage</title><p id="Par7">The maximum revisit time for a point on the Earth represents the maximum time between accesses of that point by any satellite in a constellation. It is an important measure of the worst-case frequency of having geometric access to observe points on Earth. Figure&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>a, b presents global contours of maximum revisit time for the discovered 24- and 48-h period constellations, respectively. The data contours account for station-keeping and drift over a period of slightly more than 8 years (3,000 days), with statistics calculated over a grid of ground target points with 1&#x000b0; spacing in latitude and longitude. The contour data indicate that 24- and 48-h-period constellations achieve continuous coverage over 86 and 95% of the globe, respectively. For those regions that experience outages, the maximum duration is on the order of 80&#x02009;min once per day. The <xref rid="MOESM1" ref-type="media">Supplemental Methods</xref> section provides additional background on the coverage metrics used in this study.<fig id="Fig1"><label>Fig. 1</label><caption><title>Maximum revisit time and minimum elevation angle.</title><p><bold>a</bold> Maximum revisit time for the 24-h constellation. <bold>b</bold> Maximum revisit time for the 48-h constellation. <bold>c</bold> Minimum elevation angle for the 24-h constellation. <bold>d</bold> Minimum elevation angle for the 48-h constellation. The top color scale represents maximum revisit time from 0 to 75&#x02009;min. The bottom color scale represents minimum elevation angle from 0 to <inline-formula id="IEq1"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$2{0}^{\circ }$$\end{document}</tex-math><mml:math id="M2"><mml:mn>2</mml:mn><mml:msup><mml:mrow><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq1.gif"/></alternatives></inline-formula>. The <inline-formula id="IEq2"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x$$\end{document}</tex-math><mml:math id="M4"><mml:mi>x</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq2.gif"/></alternatives></inline-formula> and <inline-formula id="IEq3"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$y$$\end{document}</tex-math><mml:math id="M6"><mml:mi>y</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq3.gif"/></alternatives></inline-formula> axes are longitude and latitude, respectively.</p></caption><graphic xlink:href="41467_2019_13865_Fig1_HTML" id="d29e463"/></fig></p><p id="Par8">Orbit phasing describes both the positions of individual spacecraft relative to one another, as well as the position of the spacecraft relative to the rotating Earth. The specific phasing of the constellation determines the longitudinal position of regions that experience outages (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>a, b). Thus, these outage regions can be placed over regions of less interest to the constellation operator. An operator of a global agricultural monitoring constellation might, for example, position the coverage gaps over open ocean areas. Furthermore, these outage regions can be easily modified during the lifetime of the constellation if the regions of interest change. Small true anomaly phase changes to the constellation will shift these regions longitudinally for very little propellant cost, and can be performed multiple times.</p><p id="Par9">The minimum elevation angle is defined as the minimum allowable angle between the horizon and any viewable spacecraft at a ground point. The intent of this angle is to account for terrain obstructions, such as buildings and mountains. If the Earth were a perfect sphere, without any features, then a minimum elevation angle of <inline-formula id="IEq4"><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${0}^{\circ }$$\end{document}</tex-math><mml:math id="M8"><mml:msup><mml:mrow><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq4.gif"/></alternatives></inline-formula> would be sufficient (ignoring atmospheric effects). However, these assumptions do not hold, and thus it is common in constellation analysis to use a positive minimum elevation angle to account for most types of terrain. In practice, it is common to require minimum elevation angles of 5&#x02013;10&#x000b0;<sup><xref ref-type="bibr" rid="CR14">14</xref></sup>. This is sufficient for most ground points, but is not applicable in all cases: consider an observer in a city with tall skyscrapers nearby, or an observer at the base of Mount Everest. The observed minimum elevation angle provides another measure of the quality of coverage for the constellations.</p><p id="Par10">Figure&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>c, d shows the minimum elevation angle observed across the 3,000 day simulation of the 24- and 48-h constellations. For the 48-h constellation, most of the Earth has a satellite at an elevation angle &#x0003e;<inline-formula id="IEq5"><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${5}^{\circ }$$\end{document}</tex-math><mml:math id="M10"><mml:msup><mml:mrow><mml:mn>5</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq5.gif"/></alternatives></inline-formula> at all times; only the outage regions experience lower elevation angles. A vehicle at higher altitude has geometric access to a larger portion of the globe than the equivalent vehicle at lower altitude. One can see this demonstrated in the context of a commercial airline flight: at take-off one can see far less of the surrounding area than when at cruise altitude. This geometric effect extends to elevation angle as well: a satellite at higher altitude has, at any acceptable elevation angle, a larger field of view than a satellite at lower altitude. Thus, the lower altitude 24-h constellation (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>c) has the larger areas that experience elevation angles &#x0003c;<inline-formula id="IEq6"><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${5}^{\circ }$$\end{document}</tex-math><mml:math id="M12"><mml:msup><mml:mrow><mml:mn>5</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq6.gif"/></alternatives></inline-formula>.</p></sec><sec id="Sec4"><title>Minimizing propellant demands</title><p id="Par11">Beyond initially attaining high-quality geometric coverage, another key aspect of a constellation design is the propellant required to actively manage the component satellites&#x02019; orbital configurations to maintain desired levels of coverage. The amount of propellant required is a function of the size of the maneuver(s) and the efficiency of the thrusters. The size of an orbit change maneuver is measured by the change in the velocity vector across the maneuver, generally referred to as the delta velocity (<inline-formula id="IEq7"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {{V}}$$\end{document}</tex-math><mml:math id="M14"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq7.gif"/></alternatives></inline-formula>). The thruster efficiency is characterized by a parameter called the thruster specific impulse. Given these two parameters, the propellant required for a maneuver or set of maneuvers can be computed using the rocket equation. In the field of orbit constellation design, it is common to use the <inline-formula id="IEq8"><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {{V}}$$\end{document}</tex-math><mml:math id="M16"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq8.gif"/></alternatives></inline-formula> as a surrogate measure of the propellant required<sup><xref ref-type="bibr" rid="CR15">15</xref></sup>. The reason for this is that there are many different spacecraft thrusters available, each of which has a different efficiency. The constellation design is generally performed far in advance of spacecraft construction or thruster selection. Therefore, the thruster efficiency is generally unknown at the time of the constellation design. The <inline-formula id="IEq9"><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {{V}}$$\end{document}</tex-math><mml:math id="M18"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq9.gif"/></alternatives></inline-formula> measure can be easily translated into propellant requirements once the thruster efficiency is known. Minimizing the need for active station-keeping (<inline-formula id="IEq10"><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {{V}}$$\end{document}</tex-math><mml:math id="M20"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq10.gif"/></alternatives></inline-formula>) by leveraging the energy from orbit perturbations implicitly mitigates the impact of thruster considerations on the constellation design by reducing the fraction of the vehicle mass that must be devoted to propellant. The <xref rid="MOESM1" ref-type="media">Supplementary Methods</xref> section describes the station-keeping framework used in this study in more detail.</p><p id="Par12">Figure&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref> plots the maximum single-satellite <inline-formula id="IEq11"><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M22"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq11.gif"/></alternatives></inline-formula> station-keeping requirement as a function of time for the 24- and 48-h constellations, as well as for the 27- and 48-h Draim constellations and the widely employed geostationary equatorial orbit (GEO). A <inline-formula id="IEq12"><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$2.{5}^{\circ }$$\end{document}</tex-math><mml:math id="M24"><mml:mn>2</mml:mn><mml:mo>.</mml:mo><mml:msup><mml:mrow><mml:mn>5</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq12.gif"/></alternatives></inline-formula> inclination control threshold is used. The constellations substantially outperform the Draim and GEO configurations in <inline-formula id="IEq13"><alternatives><tex-math id="M25">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M26"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq13.gif"/></alternatives></inline-formula> performance at all durations considered. The required station-keeping propellant is reduced in both cases by ~60%. To provide a sense of the different propellant requirements, a specific illustrative example is provided in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>, which lists a sample propellant budget for a notional spacecraft. These data demonstrate the impact of using the constellation configurations reported here rather than the equivalent GEO or Draim configurations on the mass budget for a vehicle. The constellations reduce the overall vehicle mass budget by ~60&#x02013;65% for either chemical or electric propulsion systems. By harnessing the energy from the perturbing forces, the constellations considerably reduce the propellant required to operate in these orbit regimes. By reducing the example constellation&#x02019;s propellant mass (Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>) without adversely impacting its design life, this constellation design can potentially realize major mission-level benefits. This example reflects a 1,000-kg vehicle over a 6,000-day lifetime (<inline-formula id="IEq14"><alternatives><tex-math id="M27">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$2.{5}^{\circ }$$\end{document}</tex-math><mml:math id="M28"><mml:mn>2</mml:mn><mml:mo>.</mml:mo><mml:msup><mml:mrow><mml:mn>5</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq14.gif"/></alternatives></inline-formula> inclination tolerance, <inline-formula id="IEq15"><alternatives><tex-math id="M29">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${5}^{\circ }$$\end{document}</tex-math><mml:math id="M30"><mml:msup><mml:mrow><mml:mn>5</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq15.gif"/></alternatives></inline-formula> argument of perigee tolerance), where values in parentheses represent the percent reduction in propellant mass for the 24- and 48-h constellations relative to GEO. Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref> shows that the reduction in propellant mass is large enough to potentially accommodate another instrument, include another mission focus, double the design life, or some combination of these mission-level benefits. The reported constellation designs thus represent an alternative for propellant-averse missions, which can tolerate space vehicle motion relative to the ground which is fixed in a geostationary orbit.<fig id="Fig2"><label>Fig. 2</label><caption><title>Maximum single-satellite station-keeping <inline-formula id="IEq16"><alternatives><tex-math id="M31">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M32"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq16.gif"/></alternatives></inline-formula> requirement.</title><p>Mission duration varies from 3000 to 6000 days to capture a broad cross section of typical geostationary satellite lifetimes. Both constellations (light and dark blue circles) perform better than the GEO (gray circles) or benchmark Draim configurations (light green and dark green circles). While both 24- and 48-h constellations outperform the GEO configuration in terms of station-keeping propellant requirements by ~60%, the 24-h constellation retains the same orbit altitude, permitting similar conditions for payloads.</p></caption><graphic xlink:href="41467_2019_13865_Fig2_HTML" id="d29e703"/></fig><table-wrap id="Tab1"><label>Table 1</label><caption><p>Comparison of propellant requirements.</p></caption><table frame="hsides" rules="groups"><thead><tr><th>Performance metric</th><th>GEO</th><th>27-h Draim</th><th>48-h Draim</th><th>24&#x02009;h</th><th>48&#x02009;h</th></tr></thead><tbody><tr><td><inline-formula id="IEq17"><alternatives><tex-math id="M33">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta{{V}}$$\end{document}</tex-math><mml:math id="M34"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq17.gif"/></alternatives></inline-formula>, m&#x02009;s<sup>&#x02212;1</sup></td><td>833</td><td>1689</td><td>2010</td><td>309</td><td>260</td></tr><tr><td>Mass, kg (Chemical <inline-formula id="IEq18"><alternatives><tex-math id="M35">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-{I}_{{\rm{sp}}}=230$$\end{document}</tex-math><mml:math id="M36"><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">sp</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>230</mml:mn></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq18.gif"/></alternatives></inline-formula>&#x02009;s)</td><td>308.8</td><td>527.1</td><td>589.8</td><td>128.0 (58.5%)</td><td>108.9 (64.7%)</td></tr><tr><td>Mass, kg (Electric <inline-formula id="IEq19"><alternatives><tex-math id="M37">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-{I}_{{\rm{sp}}}=1500$$\end{document}</tex-math><mml:math id="M38"><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">sp</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>1500</mml:mn></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq19.gif"/></alternatives></inline-formula>&#x02009;s)</td><td>55.1</td><td>108.5</td><td>127.7</td><td>20.8 (62.2%)</td><td>17.5 (68.2%)</td></tr></tbody></table><table-wrap-foot><p>GEO geostationary Earth orbit, <inline-formula id="IEq20"><alternatives><tex-math id="M39">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${I}_{{\rm{sp}}}$$\end{document}</tex-math><mml:math id="M40"><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">sp</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq20.gif"/></alternatives></inline-formula> specific impulse of fuel type</p></table-wrap-foot></table-wrap></p></sec><sec id="Sec5"><title>Using perturbations to sustain coverage</title><p id="Par13">The individual spacecraft in constellations often occupy different orbital planes. The location of these planes relative to each other is specified by the right ascension of the ascending node (RAAN). Maintaining this relative spacing allows the constellation coverage to remain at nominal performance levels. There are many inertial configurations of a constellation that result in the same relative positions. Consider the simple example of three spacecraft whose RAANs are 0, 120, and <inline-formula id="IEq23"><alternatives><tex-math id="M41">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$24{0}^{\circ }$$\end{document}</tex-math><mml:math id="M42"><mml:mn>24</mml:mn><mml:msup><mml:mrow><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq23.gif"/></alternatives></inline-formula>; the relative planar spacing is <inline-formula id="IEq24"><alternatives><tex-math id="M43">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$12{0}^{\circ }$$\end{document}</tex-math><mml:math id="M44"><mml:mn>12</mml:mn><mml:msup><mml:mrow><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq24.gif"/></alternatives></inline-formula>. A constellation also might have RAAN values of 30, 150, and <inline-formula id="IEq25"><alternatives><tex-math id="M45">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$27{0}^{\circ }$$\end{document}</tex-math><mml:math id="M46"><mml:mn>27</mml:mn><mml:msup><mml:mrow><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq25.gif"/></alternatives></inline-formula>; these inertial values are different, but the relative spacing is the same. There is a subtlety regarding the RAAN: because the spacecraft planes are different, they will each experience slight differences in perturbative effects (e.g., nonlinear forces due to the gravity of the sun and the moon). Therefore it is good practice to ensure that these perturbative effects do not adversely affect the constellation, regardless of what the inertial RAANs might be. The <xref rid="MOESM1" ref-type="media">Supplementary Methods</xref> section details the specific perturbations that are considered in this analysis.</p><p id="Par14">The station-keeping performance of the 24- and 48-h-period constellations is fairly independent of the position of the constellation in RAAN. To demonstrate, Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref> plots the total and maximum single-satellite station-keeping <inline-formula id="IEq26"><alternatives><tex-math id="M47">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M48"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq26.gif"/></alternatives></inline-formula> for both constellations as a function of a shift in inertial RAAN position while maintaining relative RAAN spacing. The reported data consider a mission duration of 6,000 days and an inclination control threshold of <inline-formula id="IEq27"><alternatives><tex-math id="M49">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.{1}^{\circ }$$\end{document}</tex-math><mml:math id="M50"><mml:mn>0</mml:mn><mml:mo>.</mml:mo><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq27.gif"/></alternatives></inline-formula>, providing an aggressive station-keeping environment for study. The standard deviation of the maximum single-satellite <inline-formula id="IEq28"><alternatives><tex-math id="M51">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M52"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq28.gif"/></alternatives></inline-formula> for the 24- and 48-h cases is 35 and 23&#x02009;m&#x02009;<inline-formula id="IEq29"><alternatives><tex-math id="M53">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${{\rm{s}}}^{-1}$$\end{document}</tex-math><mml:math id="M54"><mml:msup><mml:mrow><mml:mi mathvariant="normal">s</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq29.gif"/></alternatives></inline-formula>, respectively. This demonstrates that the identified coverage gap locations from Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref> can be shifted in epoch (or equivalently longitude) without dramatically impacting active station-keeping requirements. Constellation designers can thus select and control the location of the coverage gaps, providing crucial flexibility to how the reported designs can be used for specific missions.<fig id="Fig3"><label>Fig. 3</label><caption><title>Station-keeping <inline-formula id="IEq30"><alternatives><tex-math id="M55">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M56"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq30.gif"/></alternatives></inline-formula> requirement.</title><p>Total constellation (red) and maximum single satellite (blue) reported as a function of constellation and shift in RAAN applied uniformly to all satellites. The relatively flat curves indicate that constellations are not constrained to the reported gap locations, and can be adjusted with a limited impact to lifetime propellant needs.</p></caption><graphic xlink:href="41467_2019_13865_Fig3_HTML" id="d29e1019"/></fig></p><p id="Par15">Figure&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>a, b plots the position of the satellites in each constellation on annual station-keeping requirement contours in RAAN and inclination space for 24- and 48-h orbit periods, respectively. The contours in the plot show the <inline-formula id="IEq31"><alternatives><tex-math id="M57">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M58"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq31.gif"/></alternatives></inline-formula> required to maintain a given inclination using semiannual station-keeping maneuvers. The shape of the contours results primarily from third-body interactions with the sun and the moon. Effectively, dark purple regions on the map show where satellites can harness the energy of these perturbations to maintain configuration rather than struggle against them. Both identified constellations, identified by green crosses lie in these advantageous regions of the space. In addition, the constellations lie in inclination regions with relatively flat contouring in the direction of RAAN. This contrasts with the contouring at the Draim inclination of <inline-formula id="IEq32"><alternatives><tex-math id="M59">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$31.{3}^{\circ }$$\end{document}</tex-math><mml:math id="M60"><mml:mn>31</mml:mn><mml:mo>.</mml:mo><mml:msup><mml:mrow><mml:mn>3</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq32.gif"/></alternatives></inline-formula>, indicated by white circles, which at both orbit periods passes through regions with relatively high annual station-keeping requirements. By positioning satellites in inclinations with more benign variations in station-keeping requirements across RAAN, the satellites do not experience significant coverage-degrading differential motion between one another. This allows the satellites to forego RAAN station-keeping without adversely affecting the constellation&#x02019;s coverage performance. The constellations reported here represent only two of many designs identified during the search process. Details regarding the broader results of the search are available in Supplementary Figs.&#x000a0;<xref rid="MOESM1" ref-type="media">1</xref> and <xref rid="MOESM1" ref-type="media">2</xref>. The orbital elements for the reported constellations are shown in Supplementary Tables&#x000a0;<xref rid="MOESM1" ref-type="media">1</xref> and <xref rid="MOESM1" ref-type="media">2</xref>.<fig id="Fig4"><label>Fig. 4</label><caption><title>Annual station-keeping <inline-formula id="IEq33"><alternatives><tex-math id="M61">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M62"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq33.gif"/></alternatives></inline-formula> required to maintain inclination.</title><p>Varies according to inclination and right ascension averaged over 10 years. <bold>a</bold> Contours for 24-h orbits. <bold>b</bold> Contours for 48-h orbits. The green crosses on each plot indicate the position of the satellites in the constellations, and white circles indicate the location of satellites in a Draim constellation.</p></caption><graphic xlink:href="41467_2019_13865_Fig4_HTML" id="d29e1097"/></fig></p></sec></sec><sec id="Sec6" sec-type="discussion"><title>Discussion</title><p id="Par16">Throughout the 1970&#x02019;s, the minimum number of spacecraft required to realize total continuous coverage of the Earth surface was thought to be five<sup><xref ref-type="bibr" rid="CR12">12</xref></sup>. Then, Draim published his famous result in 1986 that only four spacecraft were required<sup><xref ref-type="bibr" rid="CR11">11</xref></sup>. These findings were based on a low-fidelity modeling of spacecraft motion. Unfortunately, subsequent researchers noted that when higher fidelity perturbations are enabled in the simulation of the Draim orbits, the propellant required to maintain these orbits can be significant<sup><xref ref-type="bibr" rid="CR13">13</xref></sup>. Thus, while this solution was academically interesting, practical implementation proved to be overly difficult.</p><p id="Par17">This paper reports a pair of four-satellite constellations with common period and similar inclination between satellites that very nearly realize the elusive goal of continuous global coverage. The price of a slight degradation in their coverage has bought a significant reward: operational feasibility. Moreover, the modest gaps in coverage can be flexibly moved to longitudes of least importance at minimal costs to missions. By including the perturbative effects of the sun, the moon, and the asymmetric Earth in the analysis, constellations have been discovered that harness these forces and use them for positive gains (i.e., reduced costs and longer design life). The resulting orbits require dramatically less station-keeping propellant than the Draim constellation and other commonly used constellations, permitting reduced costs and longer potential design lives. In this way, the orbits reduce the barrier of entry for new nation-state and commercial members of the growing space community to own and operate constellations that provide nearly continuous global coverage, enabling these interests to independently sustain global satellite services.</p><p id="Par18">The constellation designs reported here account for many considerations made in early mission planning. However, they are likely not optimized for specific mission objectives, which would likely require minor modifications, yet are worthy of further consideration by mission planners. Not all missions will find added utility with this class of constellation design compared with other design options, such as medium-earth orbit, geostationary orbit, or highly elliptical orbits (HEO).</p><p id="Par19">Geostationary orbits in particular afford mission planners a fixed subsatellite point that may present an advantage for broader end-to-end mission considerations over the reduction in station-keeping propellant reported here for the designs. However, many governments and commercial interests appear to be pivoting their GEO-based capabilities to low earth orbit. As a result, significant investments are being made to reduce the regrets associated with a moving subsatellite point, which may increase the benefits for the reported designs in this study. The reported designs provide nearly continuous coverage, with repeatable gaps as reported here. However, GEO constellations do not provide any access to the planet&#x02019;s polar regions, which is also a driving requirement for some mission areas. Some traditional GEO constellation designs which serve missions that have polar coverage requirements augment that baseline constellation with services from HEO platforms to fill the gap. Because the gaps in coverage experienced by the reported designs are fixed on the ground, it is possible that for missions that require truly continuous global coverage that the reported designs may likewise be augmented by partnering with or hosting mission payloads on some of the many available GEO space platforms. In these circumstances, the reported constellation designs represent a foundation for broader end-to-end architecture, particularly for disadvantaged entrants who may be able to cover gaps in their capability through partnerships and hosting arrangements.</p><p id="Par20">The designs reported here likewise account for some early considerations in constellation operation and management, but do not represent a fully optimized constellation management approach for an operational system. Additional reduction in station-keeping requirements may be realized through alternate mission management approaches and by providing the optimizer with control over decisions related to that in identifying constellation design alternatives.</p></sec><sec id="Sec7"><title>Methods</title><sec id="Sec8"><title>Many objective evolutionary optimization</title><p id="Par21">The 24- and 48-h-period constellations presented in this study were discovered using multiobjective evolutionary optimization techniques to intelligently search the orbital design space. Figure&#x000a0;<xref rid="Fig5" ref-type="fig">5</xref> provides an illustration of orbital elements that must be defined for each of the satellites in the 24- and 48-h-period constellations. These elements define the dynamics and coverage performance. The simulation&#x02013;optimization framework used in this study was implemented on the University of Illinois Blue Waters petascale supercomputer consisting of hundreds of thousands of cores. The Borg multiobjective evolutionary algorithm (MOEA) was selected as the optimization tool for this work due to its efficient design for massively parallel search and its ability to perform robustly for severely challenging nonlinear problems<sup><xref ref-type="bibr" rid="CR16">16</xref></sup>. The results reported here were attained from search evaluations of over five million simulated orbital designs. As summarized below, high-fidelity orbit propagation and careful simulation of station-keeping significantly increased the computational demands of simulating each candidate design. More details on the simulation&#x02013;optimization framework can be found in ref. <sup><xref ref-type="bibr" rid="CR17">17</xref></sup>.<fig id="Fig5"><label>Fig. 5</label><caption><title>Angular orbital elements referred to in this study.</title><p>Inclination (<inline-formula id="IEq34"><alternatives><tex-math id="M63">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$i$$\end{document}</tex-math><mml:math id="M64"><mml:mi>i</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq34.gif"/></alternatives></inline-formula>) is the angle at which the orbit is tilted out of the equatorial plane. Right ascension of the ascending node (<inline-formula id="IEq35"><alternatives><tex-math id="M65">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\Omega }$$\end{document}</tex-math><mml:math id="M66"><mml:mi mathvariant="normal">&#x003a9;</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq35.gif"/></alternatives></inline-formula>, RAAN) is the angle of rotation around the Earth spin axis referenced by convention to the direction of the sun at the vernal equinox. The argument of perigee (<inline-formula id="IEq36"><alternatives><tex-math id="M67">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\omega$$\end{document}</tex-math><mml:math id="M68"><mml:mi>&#x003c9;</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq36.gif"/></alternatives></inline-formula>) describes the position of the perigee point relative to the point on the orbit which ascends across the equator. True anomaly (<inline-formula id="IEq37"><alternatives><tex-math id="M69">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\nu$$\end{document}</tex-math><mml:math id="M70"><mml:mi>&#x003bd;</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq37.gif"/></alternatives></inline-formula>) is the angle in the orbit plane between a satellite at an instant in time and perigee. In addition to these angular elements, the semimajor axis (<inline-formula id="IEq38"><alternatives><tex-math id="M71">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$a$$\end{document}</tex-math><mml:math id="M72"><mml:mi>a</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq38.gif"/></alternatives></inline-formula>) and eccentricity (<inline-formula id="IEq39"><alternatives><tex-math id="M73">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$e$$\end{document}</tex-math><mml:math id="M74"><mml:mi>e</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq39.gif"/></alternatives></inline-formula>) describe the size and shape of the orbit, respectively.</p></caption><graphic xlink:href="41467_2019_13865_Fig5_HTML" id="d29e1213"/></fig></p></sec><sec id="Sec9"><title>High-fidelity orbit propagation and station-keeping</title><p id="Par22">Modeling the orbital motion of the satellites in high fidelity allows the Borg MOEA to identify solutions that maximally harness the energy of naturally occurring perturbation forces to improve global coverage while simultaneously simulating station-keeping requirements. The Aerospace Corporation&#x02019;s SHARK propagator accomplishes long-term orbit propagation in this work. SHARK is a general-purpose and configurable orbit propagator that can numerically simulate the motion of any Earth-orbiting spacecraft using models that have no known numerical singularities. SHARK is configured in this study to include a 4&#x02009;&#x000d7;&#x02009;4 representation of Earth&#x02019;s gravity as well as solar and lunar third-body gravitational perturbations; these were selected to maintain consistency with prior results<sup><xref ref-type="bibr" rid="CR13">13</xref></sup>. Other perturbing effects, such as drag, solar radiation pressure, and higher order geopotential terms, are generally dominated by those modeled in this study at the orbit periods of interest. Supplementary Fig.&#x000a0;<xref rid="MOESM1" ref-type="media">3</xref> shows that, although higher order geopotential terms could be incorporated in this framework, their inclusion does not materially affect the results. The model simulates station-keeping maneuvers to maintain the radius of perigee, inclination, and relative phasing between constellation members. The radius of perigee is maintained to within 1,000&#x02009;km and inclination is maintained to within <inline-formula id="IEq40"><alternatives><tex-math id="M75">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$2.{5}^{\circ }$$\end{document}</tex-math><mml:math id="M76"><mml:mn>2</mml:mn><mml:mo>.</mml:mo><mml:msup><mml:mrow><mml:mn>5</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x02218;</mml:mo></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq40.gif"/></alternatives></inline-formula> of the initial configuration. Relative phase positioning between satellites is maintained with a feed-forward active control that operates on a 2-week cycle. In general, the dominant source of station-keeping <inline-formula id="IEq41"><alternatives><tex-math id="M77">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M78"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq41.gif"/></alternatives></inline-formula> in the orbits of interest is inclination control. This fact known a priori about the design space motivated the decision not to incorporate RAAN station-keeping. A series of Chebyshev polynomials capture the final numerically generated orbit state history for each satellite in memory, which permits efficient evaluation of constellation coverage performance. The <xref rid="MOESM1" ref-type="media">Supplementary Methods</xref> section provides additional details on all of the simulation and search components of this work.</p></sec><sec id="Sec10"><title>Problem formulations</title><p id="Par23">The MOEA used high fidelity simulation to search for orbital configurations that balance conflicting objectives. These include minimizing the global maximum revisit time, minimizing the 95th percentile global revisit time, minimizing the global average response time, and minimizing the maximum station-keeping <inline-formula id="IEq42"><alternatives><tex-math id="M79">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M80"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq42.gif"/></alternatives></inline-formula> for any satellite in the constellation over 3,000 days of orbit propagation. The global maximum revisit time represents the maximum gap in coverage for any single ground location on the Earth by at least one satellite. The 95th percentile global revisit time provides a measure of the gaps in coverage that are not skewed by significant outliers. Global average response time is a measure of the average wait from any random point in time to have access to any target ground location on Earth. These objectives provide a feedback to the MOEA for identifying constellations which approach continuous global coverage. The final objective to minimize the maximum station-keeping <inline-formula id="IEq43"><alternatives><tex-math id="M81">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M82"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq43.gif"/></alternatives></inline-formula> required by any satellite in the constellation drives the optimization to solutions with lower orbit maintenance requirements and enables the MOEA to trade coverage for reduced <inline-formula id="IEq44"><alternatives><tex-math id="M83">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M84"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq44.gif"/></alternatives></inline-formula>. The maximum single-satellite <inline-formula id="IEq45"><alternatives><tex-math id="M85">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M86"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq45.gif"/></alternatives></inline-formula> is minimized rather than total satellite <inline-formula id="IEq46"><alternatives><tex-math id="M87">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta {V}$$\end{document}</tex-math><mml:math id="M88"><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>V</mml:mi></mml:math><inline-graphic xlink:href="41467_2019_13865_Article_IEq46.gif"/></alternatives></inline-formula> to encourage an equal distribution of maintenance among all members of candidate satellite constellations, which is a common requirement in operational design applications. The&#x000a0;<xref rid="MOESM1" ref-type="media">Supplementary Methods</xref> section provides additional detail regarding the search domain explored by the MOEA for the 24- and 48-h formulations, including visualization of the orbit search domain in Supplementary Fig.&#x000a0;<xref rid="MOESM1" ref-type="media">4</xref> and description of the constellation search domain in Supplementary Tables&#x000a0;<xref rid="MOESM1" ref-type="media">3</xref>&#x02013;<xref rid="MOESM1" ref-type="media">5</xref>.</p><p id="Par24">The approach used to discover the reported constellation designs represents just one path to accomplishing this work. Alternative formulations of the problem can arrive at comparable designs or potentially even designs which achieve marginally superior performance. The exploration of refined problem formulation for improved outcomes is a subject of future work.</p></sec></sec><sec sec-type="supplementary-material"><title>Supplementary information</title><sec id="Sec11"><p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="41467_2019_13865_MOESM1_ESM.pdf"><caption><p>Supplementary Information</p></caption></media></supplementary-material>
+</p></sec></sec></body><back><fn-group><fn><p><bold>Peer review information</bold>&#x000a0;<italic>Nature Communications</italic> thanks the anonymous reviewers for their contribution to the peer review of this work.</p></fn><fn><p><bold>Publisher&#x02019;s note</bold> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></fn></fn-group><sec><title>Supplementary information</title><p><bold>Supplementary information</bold> is available for this paper at 10.1038/s41467-019-13865-0.</p></sec><ack><title>Acknowledgements</title><p>The authors of this work were partially supported by the US National Science Foundation under the Petascale Resource Allocation entitled &#x0201c;Collaborative Research: Petascale Design and Management of Satellite Assets to Advance Space-Based Earth Science&#x0201d; under grant OCI-1144212. Any opinions, findings, and conclusions or recommendations expressed in this paper are those of the authors and do not necessarily reflect the views of the US National Science Foundation. In addition, this research is part of the Blue Waters sustained-petascale computing project, which is supported by the National Science Foundation (award number ACI 1238993) and the state of Illinois. Blue Waters is a joint effort of the University of Illinois at Urbana-Champaign and its National Center for Supercomputing Applications.</p></ack><notes notes-type="author-contribution"><title>Author contributions</title><p>The computational experiment was designed by L.A.S., W.R.W., M.D.D., and M.P.F. with feedback from P.M.R. Computational experiments were performed by L.A.S., W.R.W., and M.D.D. Algorithmic search support provided by J.D.H. Technical analysis and writing was done collaboratively by all authors. Large-scale computational resource allocation was provided by P.M.R.</p></notes><notes notes-type="data-availability"><title>Data availability</title><p>The authors declare that the data supporting the findings of this study are available within the paper and its&#x000a0;<xref rid="MOESM1" ref-type="media">Supplementary Information</xref>.</p></notes><notes notes-type="data-availability"><title>Code availability</title><p>The code used to evaluate the constellation designs presented in this study exploit standard numerical techniques for astrodynamics simulations and coverage performance analyses that have a detailed publication history. The Supplementary&#x000a0;Information provides readers with a summary of the numerical solution methods used in our analysis as well as specific orbital elements so that the interested reader will be able to replicate or extend our reported results.</p></notes><notes notes-type="COI-statement"><title>Competing interests</title><p id="Par25">The authors declare no competing interests. Although L.A.S., W.R.W., M.D.D., and M.P.F. do not have a direct interest, The Aerospace Corporation (a California nonprofit corporation) operates as a federally funded research and development center for the United States Air Force and participates in civil and commercial contracts for satellite mission planning.</p></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><label>1.</label><mixed-citation publication-type="other">Advisory Committee for Environmental Research and Education. <italic>Transitions and Tipping Points in Complex Environmental Systems</italic>. Report (National Science Foundation, 2009). <ext-link ext-link-type="uri" xlink:href="https://www.nsf.gov/attachments/123079/public/nsf6895_ere_report_090809.pdf">https://www.nsf.gov/attachments/123079/public/nsf6895_ere_report_090809.pdf</ext-link>.</mixed-citation></ref><ref id="CR2"><label>2.</label><mixed-citation publication-type="other">Advisory Committee for Geosciences. <italic>Geovision Report: Unraveling Earth&#x02019;s Complexities through the Geosciences</italic>. Report (National Science Foundation, 2009). <ext-link ext-link-type="uri" xlink:href="https://www.nsf.gov/geo/acgeo/geovision/nsf_ac-geo_vision_10_2009.pdf">https://www.nsf.gov/geo/acgeo/geovision/nsf_ac-geo_vision_10_2009.pdf</ext-link>.</mixed-citation></ref><ref id="CR3"><label>3.</label><mixed-citation publication-type="other">National Science and Technology Council Committee on Environment and Natural Resources. <italic>A Strategy for Federal Science and Technology to Support Water Availability and Quality in the United States</italic>. Report (Executive Office of the President of the United States, 2007). <ext-link ext-link-type="uri" xlink:href="https://apps.dtic.mil/dtic/tr/fulltext/u2/a472149.pdf">https://apps.dtic.mil/dtic/tr/fulltext/u2/a472149.pdf</ext-link>.</mixed-citation></ref><ref id="CR4"><label>4.</label><mixed-citation publication-type="other">National Research Council. <italic>Earth Science and Applications from Space: National Imperatives for the Next Decade and Beyond</italic>. Report (National Academies Press, 2007). <ext-link ext-link-type="uri" xlink:href="http://www.nap.edu/catalog/11820.html">http://www.nap.edu/catalog/11820.html</ext-link>.</mixed-citation></ref><ref id="CR5"><label>5.</label><mixed-citation publication-type="other">National Research Council. <italic>Earth Science and Applications from Space: A Midterm Assessment of NASA&#x02019;s Implementation of the Decadel Survey</italic>. Report (The National Academies Press, 2012). <ext-link ext-link-type="uri" xlink:href="https://www.nap.edu/catalog/13405.html">https://www.nap.edu/catalog/13405.html</ext-link>.</mixed-citation></ref><ref id="CR6"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reed</surname><given-names>P</given-names></name><etal/></person-group><article-title>Internationally coordinated multi-mission planning is now critical to sustain the space-based rainfall observations needed for managing floods globally</article-title><source>Environ. Res. Lett.</source><year>2015</year><volume>10</volume><fpage>024010</fpage><pub-id pub-id-type="doi">10.1088/1748-9326/10/2/024010</pub-id></element-citation></ref><ref id="CR7"><label>7.</label><mixed-citation publication-type="other">Griffin, M. NASA and the business of space. In <italic>Proc. Am. Astronaut. Soc</italic>. (AAS, 2005).</mixed-citation></ref><ref id="CR8"><label>8.</label><mixed-citation publication-type="other">Fossa, C., Raines, R., Gunsch, G. &#x00026; Temple, M. An overview of the Iridium low earth orbit satellite system. In <italic>Proc. NAECON IEEE Nat</italic>. 152&#x02013;159 (IEEE, 1998).</mixed-citation></ref><ref id="CR9"><label>9.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Wertz</surname><given-names>J</given-names></name></person-group><source>Mission Geometry: Orbit and Constellation Design and Management</source><year>2001</year><publisher-loc>El Segundo, CA</publisher-loc><publisher-name>Kluwer Academic Publishers</publisher-name></element-citation></ref><ref id="CR10"><label>10.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Vallado</surname><given-names>D</given-names></name></person-group><source>Fundamentals of Astrodynamics and Applications</source><year>2013</year><publisher-loc>Hawthorne, CA</publisher-loc><publisher-name>Microcosm Press</publisher-name></element-citation></ref><ref id="CR11"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Draim</surname><given-names>J</given-names></name></person-group><article-title>A common-period four-satellite continuous global coverage constellation</article-title><source>J. Guid. Control Dynam.</source><year>1986</year><volume>10</volume><fpage>492</fpage><lpage>499</lpage><pub-id pub-id-type="doi">10.2514/3.20244</pub-id></element-citation></ref><ref id="CR12"><label>12.</label><mixed-citation publication-type="other">Walker, J. <italic>Circular Orbit Patterns Providing Continuous Whole Earth Coverage</italic>. Report (Royal Aircraft Establishment, 1970). <ext-link ext-link-type="uri" xlink:href="https://apps.dtic.mil/dtic/tr/fulltext/u2/722776.pdf">https://apps.dtic.mil/dtic/tr/fulltext/u2/722776.pdf</ext-link>.</mixed-citation></ref><ref id="CR13"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chao</surname><given-names>C</given-names></name></person-group><article-title>Long-term orbit perturbations of the draim four-satellite constellations</article-title><source>J. Guid. Control Dynam.</source><year>1992</year><volume>15</volume><fpage>1406</fpage><lpage>1410</lpage><pub-id pub-id-type="doi">10.2514/3.11403</pub-id></element-citation></ref><ref id="CR14"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kass</surname><given-names>W</given-names></name><etal/></person-group><article-title>Global gps data analysis at the national geodetic survey</article-title><source>J. Geodesy</source><year>2009</year><volume>83</volume><fpage>289</fpage><lpage>295</lpage><pub-id pub-id-type="doi">10.1007/s00190-008-0255-4</pub-id></element-citation></ref><ref id="CR15"><label>15.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Wertz</surname><given-names>J</given-names></name></person-group><source>Orbit and Constellation Design&#x02014;Selecting the Right Orbit</source><year>2011</year><publisher-loc>Hawthorne, CA</publisher-loc><publisher-name>Microcosm Press</publisher-name><fpage>251</fpage><lpage>254</lpage></element-citation></ref><ref id="CR16"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hadka</surname><given-names>D</given-names></name><name><surname>Reed</surname><given-names>P</given-names></name></person-group><article-title>Borg: an auto-adaptive many-objective evolutionary computing framework</article-title><source>Evol. Comput.</source><year>2013</year><volume>21</volume><fpage>231</fpage><lpage>259</lpage><pub-id pub-id-type="doi">10.1162/EVCO_a_00075</pub-id><pub-id pub-id-type="pmid">22385134</pub-id></element-citation></ref><ref id="CR17"><label>17.</label><mixed-citation publication-type="other">Whittecar, W., DiPrinzio, M., Singh, L., Ferringer, M. &#x00026; Reed, P. Petascale discovery of passively controlled satellite constellations for global coverage. In <italic>Proc. AAS/AIAA Astrodynamics Specialist</italic>. <bold>156</bold>, Univelt Inc., San Diego, CA. (2015). <ext-link ext-link-type="uri" xlink:href="http://www.univelt.com/book=5315">http://www.univelt.com/book=5315</ext-link>.</mixed-citation></ref></ref-list></back></article>

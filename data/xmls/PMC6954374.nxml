@@ -1,0 +1,626 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Cardiol</journal-id><journal-id journal-id-type="iso-abbrev">Clin Cardiol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1932-8737</journal-id><journal-id journal-id-type="publisher-id">CLC</journal-id><journal-title-group><journal-title>Clinical Cardiology</journal-title></journal-title-group><issn pub-type="ppub">0160-9289</issn><issn pub-type="epub">1932-8737</issn><publisher><publisher-name>Wiley Periodicals, Inc.</publisher-name><publisher-loc>New York</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31725920</article-id><article-id pub-id-type="pmc">6954374</article-id><article-id pub-id-type="doi">10.1002/clc.23291</article-id><article-id pub-id-type="publisher-id">CLC23291</article-id><article-categories><subj-group subj-group-type="overline"><subject>Trial Designs</subject></subj-group><subj-group subj-group-type="heading"><subject>Trial Designs</subject></subj-group></article-categories><title-group><article-title>Rationale and design of a navigator&#x02010;driven remote optimization of guideline&#x02010;directed medical therapy in patients with heart failure with reduced ejection fraction</article-title><alt-title alt-title-type="left-running-head">Blood et al.</alt-title></title-group><contrib-group><contrib id="clc23291-cr-0001" contrib-type="author"><name><surname>Blood</surname><given-names>Alexander J.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8391-2536</contrib-id><xref ref-type="aff" rid="clc23291-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="clc23291-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="clc23291-cr-0002" contrib-type="author"><name><surname>Fischer</surname><given-names>Christina M.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="clc23291-cr-0003" contrib-type="author"><name><surname>Fera</surname><given-names>Liliana E.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="clc23291-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="clc23291-cr-0004" contrib-type="author"><name><surname>MacLean</surname><given-names>Taylor E.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="clc23291-cr-0005" contrib-type="author"><name><surname>Smith</surname><given-names>Katelyn V.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="clc23291-cr-0006" contrib-type="author"><name><surname>Dunning</surname><given-names>Jacqueline R.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="clc23291-cr-0007" contrib-type="author"><name><surname>Bosque&#x02010;Hamilton</surname><given-names>Joshua W.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="clc23291-cr-0008" contrib-type="author"><name><surname>Aronson</surname><given-names>Samuel J.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="clc23291-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="clc23291-cr-0009" contrib-type="author"><name><surname>Gaziano</surname><given-names>Thomas A.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="clc23291-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="clc23291-cr-0010" contrib-type="author"><name><surname>MacRae</surname><given-names>Calum A.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="clc23291-cr-0011" contrib-type="author"><name><surname>Matta</surname><given-names>Lina S.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="clc23291-cr-0012" contrib-type="author"><name><surname>Mercurio&#x02010;Pinto</surname><given-names>Ana A.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="clc23291-cr-0013" contrib-type="author"><name><surname>Murphy</surname><given-names>Shawn N.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="clc23291-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="clc23291-cr-0014" contrib-type="author"><name><surname>Scirica</surname><given-names>Benjamin M.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="clc23291-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="clc23291-cr-0015" contrib-type="author"><name><surname>Wagholikar</surname><given-names>Kavishwar</given-names></name><xref ref-type="aff" rid="clc23291-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="clc23291-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="clc23291-cr-0016" contrib-type="author" corresp="yes"><name><surname>Desai</surname><given-names>Akshay S.</given-names></name><xref ref-type="aff" rid="clc23291-aff-0002">
+<sup>2</sup>
+</xref><address><email>adesai@bwh.harvard.edu</email></address></contrib></contrib-group><aff id="clc23291-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Cardiovascular Innovation Program</named-content>
+<institution>Brigham and Women's Hospital</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+</aff><aff id="clc23291-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Cardiovascular Division</named-content>
+<institution>Brigham and Women's Hospital</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+</aff><aff id="clc23291-aff-0003">
+<label><sup>3</sup></label>
+<institution>Massachusetts General Hospital</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+</aff><aff id="clc23291-aff-0004">
+<label><sup>4</sup></label>
+<institution>Research Information Science and Computing, Partners Healthcare</institution>
+<city>Somerville</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Akshay S. Desai, MD, MPH, Cardiovascular Division, Brigham and Women's Hospital, 75 Francis Street, Boston, MA 02115.<break/>
+Email: <email>adesai@bwh.harvard.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>14</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>43</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/clc.v43.1</issue-id><fpage>4</fpage><lpage>13</lpage><history><date date-type="received"><day>29</day><month>10</month><year>2019</year></date><date date-type="rev-recd"><day>31</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>01</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Clinical Cardiology</italic> published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CLC-43-4.pdf"/><abstract><title>Abstract</title><p>Although optimal pharmacological therapy for heart failure with reduced ejection fraction (HFrEF) is carefully scripted by treatment guidelines, many eligible patients are not treated with guideline&#x02010;directed medical therapy (GDMT) in clinical practice. We designed a strategy for remote optimization of GDMT on a population scale in patients with HFrEF leveraging nonphysician providers. An electronic health record&#x02010;based algorithm was used to identify a cohort of patients with a diagnosis of heart failure (HF) and ejection fraction (EF)&#x02009;&#x02264;&#x02009;40% receiving longitudinal follow&#x02010;up at our center. Those with end&#x02010;stage HF requiring inotropic support, mechanical circulatory support, or transplantation and those enrolled in hospice or palliative care were excluded. Treating providers were approached for consent to adjust medical therapy according to a sequential, stepped titration algorithm modeled on the current American College of Cardiology (ACC)/American Heart Association (AHA) HF Guidelines within a collaborative care agreement. The program was approved by the institutional review board at Brigham and Women's Hospital with a waiver of written informed consent. All patients provided verbal consent to participate. A navigator then facilitated medication adjustments by telephone and conducted longitudinal surveillance of laboratories, blood pressure, and symptoms. Each titration step was reviewed by a pharmacist with supervision as needed from a nurse practitioner and HF cardiologist. Patients were discharged from the program to their primary cardiologist after achievement of an optimal or maximally tolerated regimen. A navigator&#x02010;led remote management strategy for optimization of GDMT may represent a scalable population&#x02010;level strategy for closing the gap between guidelines and clinical practice in patients with HFrEF.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="clc23291-kwd-0001">clinical</kwd><kwd id="clc23291-kwd-0002">clinical trials</kwd><kwd id="clc23291-kwd-0003">coronary revascularization</kwd><kwd id="clc23291-kwd-0004">computers in cardiovascular medicine</kwd><kwd id="clc23291-kwd-0005">heart failure</kwd><kwd id="clc23291-kwd-0006">pharmacology</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Alnylam </institution><institution-id institution-id-type="open-funder-registry">10.13039/100006400</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source>Novartis to Brigham and Women's Hospital</funding-source></award-group><award-group id="funding-0003"><funding-source>Novartis Pharmaceuticals U.S.A. East Hanover, NJ</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="10"/><word-count count="6530"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:11.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="clc23291-cit-9001">
+<string-name>
+<surname>Blood</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Fera</surname>
+<given-names>LE</given-names>
+</string-name>, et al. <article-title>Rationale and design of a navigator&#x02010;driven remote optimization of guideline&#x02010;directed medical therapy in patients with heart failure with reduced ejection fraction</article-title>. <source xml:lang="en">Clin Cardiol</source>. <year>2020</year>;<volume>43</volume>:<fpage>4</fpage>&#x02013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1002/clc.23291</pub-id>
+</mixed-citation>
+</p><fn-group><fn id="clc23291-note-1002"><p>
+<bold>Funding information</bold> Alnylam; Novartis to Brigham and Women's Hospital; Novartis Pharmaceuticals U.S.A. East Hanover, NJ</p></fn></fn-group></notes></front><body id="clc23291-body-0001"><sec id="clc23291-sec-0002"><label>1</label><title>INTRODUCTION</title><p>Although optimal pharmacological therapy for heart failure with reduced ejection fraction (HFrEF) is carefully scripted by treatment guidelines, many eligible patients are not treated with guideline&#x02010;directed medical therapy (GDMT) in clinical practice.<xref rid="clc23291-bib-0001" ref-type="ref">1</xref> In data recently published from the CHAMP&#x02010;HF (Change the Management of Patients with Heart Failure) registry of ambulatory heart failure patients in the United States with HF and reduced EF, roughly one&#x02010;third of eligible patients were not receiving beta&#x02010;blockers (&#x003b2;&#x02010;blockers), one&#x02010;fourth were not receiving angiotensin&#x02010;converting enzyme inhibitors (ACEI), angiotensin receptor blockers (ARB) or angiotensin receptor&#x02010;neprilysin inhibitors (ARNI), and two&#x02010;thirds were not prescribed mineralocorticoid receptor antagonists (MRA). Amongst those receiving these therapies, the vast majority are dosed below guideline&#x02010;recommended targets, with only 1% of patients eligible for all classes of medication receiving target doses of all three medication classes. Since appropriate application of GDMT is associated with considerable reductions in heart failure&#x02010;associated morbidity and mortality, these data suggest a considerable opportunity for quality improvement.<xref rid="clc23291-bib-0002" ref-type="ref">2</xref>
+</p><p>Although prescription or dose titration of GDMT may in some cases be limited by blood pressure, heart rate, renal function, or serum potassium, medical contraindications are not always apparent, suggesting that other factors may be responsible for the implementation gap. Possible alternative explanations include lack of familiarity with guideline recommendations, infrequent clinic&#x02010;based follow&#x02010;up, uncertainty regarding the value of dose titration, limited opportunity to make dose adjustments in the clinic setting, concerns about tolerability, a focus on arbitrary numerical values for discrete endpoints, opportunity costs to patients and physicians, and difficulty in implementing adequate laboratory surveillance.<xref rid="clc23291-bib-0003" ref-type="ref">3</xref> To overcome some of these barriers, we designed a strategy for remote optimization of GDMT on a population scale in patients with HFrEF leveraging nonphysician providers in a collaborative practice model. In this manuscript, we summarize the details of the design and implementation of this program, as well as preliminary enrollment data supporting the feasibility of this approach.</p></sec><sec id="clc23291-sec-0003"><label>2</label><title>PROGRAM DESIGN</title><p>As part of a broader effort at quality improvement in population health, we launched the Virtual Heart Failure Clinic (VHFC) at Brigham and Women's Hospital in 2017. The overarching goal of the program is to systematically identify patients with heart failure and reduced ejection fraction who are longitudinally managed by Brigham and Women's Hospital providers and facilitate remote optimization of GDMT through a telephone&#x02010;based, navigator&#x02010;led approach. Eligible patients were identified through a search of electronic health records (EHRs), and included women and men &#x02265;18&#x02009;years of age with a diagnosis of chronic heart failure and left ventricular ejection fraction &#x02264;40%. All patients had to have an established relationship with a cardiology provider at our center, defined by at least two previous visits including one within the 18&#x02009;months prior to enrollment. Patients with end&#x02010;stage HF requiring inotropic support, mechanical circulatory support, transplantation, and those enrolled in hospice or palliative care were excluded. Detailed inclusion and exclusion criteria are summarized in Table <xref rid="clc23291-tbl-0001" ref-type="table">1</xref>.</p><table-wrap id="clc23291-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Key eligibility criteria</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Inclusion criteria</th><th align="left" valign="bottom" rowspan="1" colspan="1">Exclusion criteria</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="order" id="clc23291-list-0001"><list-item id="clc23291-li-0001"><p>Age&#x02009;&#x02265;&#x02009;18 year</p></list-item><list-item id="clc23291-li-0002"><p>Documented heart failure</p></list-item><list-item id="clc23291-li-0003"><p>Most recent echo documents EF &#x02264;40</p></list-item><list-item id="clc23291-li-0004"><p>Seen twice by a BWH cardiologist with at least one visit in the last 18&#x02009;months</p></list-item><list-item id="clc23291-li-0005"><p>Reliable telephone access</p></list-item><list-item id="clc23291-li-0006"><p>English speaking</p></list-item></list>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="order" id="clc23291-list-0002"><list-item id="clc23291-li-0007"><p>End stage renal disease</p></list-item><list-item id="clc23291-li-0008"><p>Active chemotherapy</p></list-item><list-item id="clc23291-li-0009"><p>Receiving end of life care or life expectancy &#x02264;1 year</p></list-item><list-item id="clc23291-li-0010"><p>Any transplant (heart, kidney etc.)</p></list-item><list-item id="clc23291-li-0011"><p>Currently listed or being evaluated for transplant</p></list-item><list-item id="clc23291-li-0012"><p>IV inotrope use</p></list-item><list-item id="clc23291-li-0013"><p>Use of a ventricular assist device (VAD) or CardioMEMs device</p></list-item><list-item id="clc23291-li-0014"><p>Frailty/fall risk</p></list-item><list-item id="clc23291-li-0015"><p>Acute decompensated heart failure</p></list-item><list-item id="clc23291-li-0016"><p>Evidence or history of medication nonadherence</p></list-item></list>
+</td></tr></tbody></table></table-wrap><p>We developed a search strategy to identify suitable patients with heart failure from the EHR. The initial approach used billing codes to derive a set of coded inclusion and exclusion criteria to identify patients with likely heart failure and creation of a data mart of all patients who met these criteria since 1990. A clinical subject matter expert then reviewed the medical charts for 250 patients randomly selected from the data mart. This review created a gold standard which was used to train a statistical model to predict the presence or absence of HF at a positive predictive value threshold of 90%. We further refined this data&#x02010;mart using natural language processing to identify patients who were most likely to meet the eligibility criteria.<xref rid="clc23291-bib-0004" ref-type="ref">4</xref> Baseline characteristics of the patients recruited into the study are included in Table <xref rid="clc23291-tbl-0002" ref-type="table">2</xref>.</p><table-wrap id="clc23291-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Pre&#x02010;intervention baseline characteristics</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Mean or no. (SD or %)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, year</td><td align="left" valign="top" rowspan="1" colspan="1">64.99 (12.28)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Female sex</td><td align="left" valign="top" rowspan="1" colspan="1">47 (29.56%)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Race</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">African American</td><td align="left" valign="top" rowspan="1" colspan="1">26 (16.35%)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">NYHA class functional class</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">I</td><td align="left" valign="top" rowspan="1" colspan="1">51 (32.08%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">II</td><td align="left" valign="top" rowspan="1" colspan="1">90 (56.60%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">III</td><td align="left" valign="top" rowspan="1" colspan="1">18 (11.32%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">IV</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.00%)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Clinical characteristics</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Systolic blood pressure, mm Hg</td><td align="left" valign="top" rowspan="1" colspan="1">129.94 (15.35)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Diastolic blood pressure, mm Hg</td><td align="left" valign="top" rowspan="1" colspan="1">71.63 (10.19)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Heart rate, bpm</td><td align="left" valign="top" rowspan="1" colspan="1">72.52 (12.68)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">LVEF</td><td align="left" valign="top" rowspan="1" colspan="1">32.30 (6.85)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Weight, lbs.</td><td align="left" valign="top" rowspan="1" colspan="1">197.99 (43.63)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Serum creatinine, mg/dL</td><td align="left" valign="top" rowspan="1" colspan="1">1.13 (0.50)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">eGFR, mL/min/1.73&#x02009;m<sup>2</sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">57.00 (8.41)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Medical history</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Atrial fibrillation</td><td align="left" valign="top" rowspan="1" colspan="1">52 (32.70%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Diabetes</td><td align="left" valign="top" rowspan="1" colspan="1">43 (27.04%)</td></tr></tbody></table></table-wrap><p>Patients identified through the EHR&#x02010;based search were contacted via phone by a navigator who completed a medication reconciliation and verification of eligibility for participation in the remote optimization program. Treating providers were then approached for consent to adjust medical therapy according to a sequential, stepped titration algorithm modeled on the current ACC/AHA HF Guidelines. The program was approved by the institutional review board at Brigham and Women's Hospital with a waiver of written informed consent. All patients provided verbal consent to participate. Patients and providers who declined to participate in the remote optimization program served as a reference group. This workflow is detailed in Figure <xref rid="clc23291-fig-0001" ref-type="fig">1</xref>.</p><fig fig-type="Figure" xml:lang="en" id="clc23291-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Study design and workflow. BP, blood pressure; EHR, electronic health record; GDMT, guideline&#x02010;directed medical therapy</p></caption><graphic id="nlm-graphic-1" xlink:href="CLC-43-4-g001"/></fig><sec id="clc23291-sec-0004"><label>2.1</label><title>Drug titration</title><p>For patients enrolled in the remote optimization program, medication titration was overseen by pharmacists practicing under a Collaborative Drug Therapy Management (CDTM) agreement. Protocols for the initiation, discontinuation, and titration of &#x003b2;&#x02010;blockers, ACEI, <italic>angiotensin II receptor blockers</italic>, ARNI, aldosterone antagonists, sinus node inhibitors, hydralazine, and isosorbide dinitrate were developed by a team of pharmacists, nurses, general cardiologists, and cardiology heart failure specialists to approval through multidisciplinary review at the BWH Pharmacy and Therapeutics Committee. These protocols were heavily based on published guidelines and formed the basis of the CDTM agreement. When the sequence of introduction of therapy was not explicitly defined in guidelines, our team made these decisions based on the ACC expert consensus statement and clinical practice.<xref rid="clc23291-bib-0005" ref-type="ref">5</xref>, <xref rid="clc23291-bib-0006" ref-type="ref">6</xref> The CDTM agreement allowed pharmacists to initiate, discontinue, and titrate all medication classes outlined in Figure <xref rid="clc23291-fig-0002" ref-type="fig">2</xref>. We developed a software application to generate a HF medication change based on patient&#x02010;specific information and to longitudinally monitor each participant's progress through the algorithm and document clinical, laboratory, and vital sign information. Basic patient demographic, laboratory, medication, and medical history data were housed in a Microsoft SQL Server 2017 database. These data interacted through an application programming interface (API) server build using Java (v1.8), Spring Boot (v1.5.14), and Hibernate (v5.2.9). This API was used to persist patient information and populate a treatment recommendation algorithm that was implemented using JavaScript (es2015). JavaScript was selected given its flexibility in allowing for iterative algorithm modifications. To maintain comprehensive audit logs, the API server used Hibernate Envers (v5.2.9) to manage all database interactions. The user interface was packaged as Windows and Mac desktop clients using ReacjJS (v15.6.2) and Electron (v1.4.13), which allowed for use from team member workstations. In addition to treatment decision making, the application also provided a scheduling tool for team members to coordinate patient follow&#x02010;up telephone calls and laboratory testing, a messaging tool that allowed multidisciplinary team members to coordinate individual patient care tasks and other patient management capabilities. All aspects of the application complied with the Health Insurance Portability and Accountability Act of 1996 and institutional requirements.</p><fig fig-type="Figure" xml:lang="en" id="clc23291-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Medication titration algorithm. ACEI, angiotension converting enzyme inhibitor; ARB, angiotensin receptor blocker; ARNI, angiotensin receptor&#x02010;neprilysin inhibitors; bpm, beats per minute; HR, heart rate; LVEF, left ventricular ejection fraction; MTD, maximum tolerated dose; QD, daily</p></caption><graphic id="nlm-graphic-3" xlink:href="CLC-43-4-g002"/></fig><p>A navigator was assigned to act as the primary interface with the patient. The navigator was typically a bachelor's level or master's level trained individual who did not have formal clinical training but was qualified to approach patients and solicit basic information about demographics and fundamental clinical data. Titration towards GDMT was conducted in a stepwise manner (Figure <xref rid="clc23291-fig-0002" ref-type="fig">2</xref>) by a pharmacist/navigator team, under the supervision of a nurse practitioner and HF cardiologist. Each algorithm&#x02010;derived titration step was passed from the pharmacist to the navigator. The navigator then facilitated medication adjustments by telephone and conducted longitudinal surveillance of laboratory values, blood pressure, and symptoms in accordance with approved protocols. This information was relayed back to the pharmacist through the EHR where the pharmacist then signed the prescription for the new medication under the CDTM agreement.</p><p>Medication initiation and titration orders were dictated by the algorithm (Figure <xref rid="clc23291-fig-0002" ref-type="fig">2</xref>). Titrations proceeded until patients reached the guideline&#x02010;directed target doses, reported intolerable symptoms, or met criteria for no further adjustment, which was generally dependent on blood pressure, serum potassium levels, and renal function (Table <xref rid="clc23291-supitem-0001" ref-type="supplementary-material">S1</xref>). Specific rules governing sequencing and titration of each drug class are provided in Appendix 1.</p></sec><sec id="clc23291-sec-0005"><label>2.2</label><title>Follow&#x02010;up</title><p>Patients were considered to have graduated from the VHFC once they achieved the guideline directed or maximally tolerated dose of all guideline&#x02010;based medications for which there was an indication. At graduation, the management of the patient's heart failure medications was passed back to the patient's primary cardiologist. Patients were contacted again by phone 3 months after graduation from the program to complete a medication reconciliation and ensure there were no new side effects. Six months following graduation was the final follow&#x02010;up consisting of a medication reconciliation, laboratory surveillance, and assessment of NYHA class. The final follow&#x02010;up was conducted either by phone or by chart abstraction if the patient had a cardiology visit within 1&#x02009;month of the scheduled final study follow&#x02010;up.</p></sec></sec><sec id="clc23291-sec-0006"><label>3</label><title>OUTCOMES</title><p>The primary goal of the intervention was to enhance the proportion of patients receiving &#x0003e;50% of guideline directed doses of GDMT at 3 months following initial contact in the remote medication optimization group compared with the reference group of patients who declined to participate in the medication titration intervention. Key safety outcomes of interest included the proportion of emergency department visits, hospitalizations, and deaths during study follow&#x02010;up in both groups.</p></sec><sec id="clc23291-sec-0007"><label>4</label><title>STATISTICAL CONSIDERATIONS</title><p>As this study was organized as a quality improvement intervention rather than a clinical trial, no formal power calculation was performed. Based on anticipated recruitment, our sample targeted 1000 patients, baseline utilization of GDMT at &#x0003e;50% of target doses in 20% of patients, and projected enrollment of 25% of subjects in the remote medication optimization arm, we anticipate the study will provide &#x0003e;80% power to detect an absolute improvement of 10% in utilization of GDMT using this approach.</p></sec><sec id="clc23291-sec-0008"><label>5</label><title>DISCUSSION</title><p>Optimization of GDMT has been associated with reductions in cardiovascular and heart failure morbidity and mortality in numerous clinical trials, registries, and meta&#x02010;analyses.<xref rid="clc23291-bib-0007" ref-type="ref">7</xref>, <xref rid="clc23291-bib-0008" ref-type="ref">8</xref>, <xref rid="clc23291-bib-0009" ref-type="ref">9</xref>, <xref rid="clc23291-bib-0010" ref-type="ref">10</xref>, <xref rid="clc23291-bib-0011" ref-type="ref">11</xref>, <xref rid="clc23291-bib-0012" ref-type="ref">12</xref>, <xref rid="clc23291-bib-0013" ref-type="ref">13</xref>, <xref rid="clc23291-bib-0014" ref-type="ref">14</xref>, <xref rid="clc23291-bib-0015" ref-type="ref">15</xref>, <xref rid="clc23291-bib-0016" ref-type="ref">16</xref>, <xref rid="clc23291-bib-0017" ref-type="ref">17</xref>, <xref rid="clc23291-bib-0018" ref-type="ref">18</xref>, <xref rid="clc23291-bib-0019" ref-type="ref">19</xref>, <xref rid="clc23291-bib-0020" ref-type="ref">20</xref>, <xref rid="clc23291-bib-0021" ref-type="ref">21</xref> However, clinicians frequently fail to implement guideline directives in practice.<xref rid="clc23291-bib-0022" ref-type="ref">22</xref> These gaps in care have been attributed to numerable factors, such as inertia, reluctance to increase medication burden, cost, lab monitoring, requirements for insurance pre&#x02010;authorization, and lack of knowledge about rapidly evolving evidence.<xref rid="clc23291-bib-0023" ref-type="ref">23</xref>, <xref rid="clc23291-bib-0024" ref-type="ref">24</xref> There is a substantial opportunity for meaningful improvement in clinical outcomes amongst HF patients, however, the 2013 AHA/ACC guidelines for the management of heart failure encourage strategies to close the gap between current practice and guideline recommendations.<xref rid="clc23291-bib-0001" ref-type="ref">1</xref>
+</p><p>Even when clinicians apply HF medications as directed by guidelines, medications are frequently not dosed to guideline&#x02010;recommended targets, and infrequent clinic&#x02010;based contact means that the medical regimen evolves over a protracted time interval, with many months lapsing between medication titration. Given that the benefits associated with deployment of GDMT are often seen early, this may reflect a missed opportunity to improve patient outcomes.<xref rid="clc23291-bib-0025" ref-type="ref">25</xref>, <xref rid="clc23291-bib-0026" ref-type="ref">26</xref>, <xref rid="clc23291-bib-0027" ref-type="ref">27</xref> Moreover, deployment of invasive strategies for HF including ICD and/or CRT is intended to follow on medical optimization, since this therapy may in many cases result in reverse remodeling that can lead to improvements in EF over time and obviate the need for device therapy.<xref rid="clc23291-bib-0028" ref-type="ref">28</xref>, <xref rid="clc23291-bib-0029" ref-type="ref">29</xref> Unfortunately, data suggests that most patients who receive ICD or CRT do not optimize GDMT prior to device implantation, reflecting another missed opportunity for these patients.<xref rid="clc23291-bib-0030" ref-type="ref">30</xref> These gaps in care are associated with significant mortality for patients with HFrEF.<xref rid="clc23291-bib-0031" ref-type="ref">31</xref>
+</p><p>A number of approaches to enhance GDMT utilization and address gaps in implementation have been explored. Research initiatives aimed at understanding and addressing gaps in care (summarized in Table <xref rid="clc23291-tbl-0003" ref-type="table">3</xref>) have failed to consistently and reproducibly change behavior and impact outcomes. Educational strategies focused on patients and providers to emphasize the value of guideline&#x02010;driven care are clearly important, but the ability of these initiatives to rapidly drive changes in clinical practice is unclear.<xref rid="clc23291-bib-0031" ref-type="ref">31</xref> Although traditional multidisciplinary HF disease management programs do achieve higher utilization and less discontinuation of GDMT, such programs are not accessible to the vast majority of HF patients, and rates of optimal GDMT utilization in these clinics still falls well below guideline&#x02010;recommended targets.<xref rid="clc23291-bib-0006" ref-type="ref">6</xref>, <xref rid="clc23291-bib-0035" ref-type="ref">35</xref>, <xref rid="clc23291-bib-0045" ref-type="ref">45</xref>, <xref rid="clc23291-bib-0046" ref-type="ref">46</xref> However, research suggests that improving upon current rates of GDMT is possible and innovative approaches to improving optimal rates of adoption and goal dosing have shown promise.<xref rid="clc23291-bib-0036" ref-type="ref">36</xref>, <xref rid="clc23291-bib-0047" ref-type="ref">47</xref>, <xref rid="clc23291-bib-0048" ref-type="ref">48</xref> Early experience suggests that integration of pharmacists in collaborative practice agreements may facilitate optimizing medical therapy in HFrEF patients, but systematic exploration of these efforts at scale has not been completed yet and have not incorporated the use of nonclinician navigators nor expanded to include full complement of GDMT for HFrEF.<xref rid="clc23291-bib-0033" ref-type="ref">33</xref>, <xref rid="clc23291-bib-0049" ref-type="ref">49</xref>, <xref rid="clc23291-bib-0050" ref-type="ref">50</xref>
+</p><table-wrap id="clc23291-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Comparison of clinical trials implementing strategies to improve GDMT utilization in congestive heart failure</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Study</th><th align="left" valign="bottom" rowspan="1" colspan="1">Study size</th><th align="left" valign="bottom" rowspan="1" colspan="1">Study population (country)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Summary of intervention</th><th align="left" valign="bottom" rowspan="1" colspan="1">Duration (frequency of intervention)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Summary outcomes</th></tr></thead><tbody valign="top"><tr><td colspan="6" style="background-color:#7195BE" align="left" valign="top" rowspan="1">Retrospective cohort</td></tr><tr><td style="padding-left:10%; background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Jain et al<xref rid="clc23291-bib-0032" ref-type="ref">32</xref>
+</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">265</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Outpatient Cardiology (UK)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Pharmacist and RN&#x02010;led CHF Education and Medication Titration</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">30&#x02009;months (variable)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Improved rates of GDMT (57%&#x02010;11%, <italic>P</italic> &#x0003c;&#x02009;.001) Improved rates of target&#x02010;dose therapy for GDMT (18%&#x02010;57%, <italic>P</italic> &#x0003c;&#x02009;.001)</td></tr><tr><td style="padding-left:10%; background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Bhat et al<xref rid="clc23291-bib-0033" ref-type="ref">33</xref>
+</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">148</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Outpatient (United States)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Pharmacist&#x02010;managed Medication Titration Assistance Clinic</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">12&#x02009;months (variable)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Increased rates of target or maximum&#x02010;tolerated ACEI/ARB and &#x003b2;&#x02010;blocker in those not initially at optimal dosing in pharmacist&#x02010;directed vs general cardiology clinics (64% vs 40%, data not provided)</td></tr><tr><td style="padding-left:10%; background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Balakumaran et al<xref rid="clc23291-bib-0034" ref-type="ref">34</xref>
+</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">61</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Outpatient (United States)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Nurse&#x02010;led Clinic focused on implementing GDMT</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">24&#x02009;months (every 2&#x02009;weeks)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Increased number of GDMT therapies (2.31&#x02009;&#x000b1;&#x02009;0.76&#x02010;2.74&#x02009;&#x000b1;&#x02009;0.66, <italic>P</italic> &#x0003c;&#x02009;.001) and target doses (0.54&#x02009;&#x000b1;&#x02009;0.79&#x02010;1.52&#x02009;&#x000b1;&#x02009;1.1, <italic>P</italic> &#x0003c;&#x02009;.001) with an improvement in LVEF (21.8 &#x000b1;&#x02009;7.8&#x02010;36.2 &#x000b1;&#x02009;14.3, <italic>P</italic> &#x0003c;&#x02009;.001) and a reduction in heart failure hospitalizations 26&#x02010;8, <italic>P</italic> &#x0003c;&#x02009;.001</td></tr><tr><td colspan="6" style="background-color:#7195BE" align="left" valign="top" rowspan="1">Prospective cohort</td></tr><tr><td style="padding-left:10%; background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Hickey et al<xref rid="clc23291-bib-0035" ref-type="ref">35</xref>
+</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">280</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">CHF Hospitalization (Australia)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">A structured medication titration plan at the time of hospital discharge</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">6 months (variable)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Improvements in achieving target doses of &#x003b2;&#x02010;blockers (38%&#x02010;54%, <italic>P</italic> =&#x02009;.013) and ACEI/ARB (34%&#x02010;54% <italic>P</italic> =&#x02009;.001)</td></tr><tr><td style="padding-left:10%; background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Fonarow et al<xref rid="clc23291-bib-0006" ref-type="ref">6</xref>
+</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">34, 810</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Outpatient Cardiology Practices (United States)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Clinical decision support tools; Structured improvement strategies; Chart audits with feedback</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">24&#x02009;months (baseline, 6, 12, 18, and 24&#x02009;months)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Increases in &#x003b2;&#x02010;blocker (7.4%, 6.6&#x02010;8.2,) aldosterone antagonist (27.4%, 24.3&#x02010;30.6), CRT&#x02010;P/CRT&#x02010;D (30.9%, 27.2&#x02010;34.5), ICD/CRT&#x02010;D (30.3%, 28.8&#x02010;31.8), and CHF education (9.1%, 7.8&#x02010;10.4) all <italic>P</italic> &#x0003c;&#x02009;.001</td></tr><tr><td style="padding-left:10%; background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Braun et al<xref rid="clc23291-bib-0036" ref-type="ref">36</xref>
+</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">208</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Outpatient Family Physicians (Germany)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Computer&#x02010;based reminder system; Provider Education</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">20&#x02009;months (8 months pre&#x02010; and 12&#x02009;months post&#x02010; intervention)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">No significant difference in GDMT prescription rates (<italic>P</italic> values ranged from 0.09 to 0.98) with an increase in the rate of evidence&#x02010;based &#x003b2;&#x02010;blocker prescription (12.3% &#x02010;&#x02009;&#x0003e;&#x02009;58.6%, <italic>P</italic> =&#x02009;.03)</td></tr><tr><td style="padding-left:10%; background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Murphy et al<xref rid="clc23291-bib-0049" ref-type="ref">49</xref>
+</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">100</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">CHF Hospitalization (United States)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Patient education; Outpatient Pharmacist Appointment</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">1 month (variable)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">No significant difference in 30&#x02010;day readmission rates (ARR 24% &#x02010;&#x02009;&#x0003e;&#x02009;18%, <italic>P</italic> =&#x02009;.238)</td></tr><tr><td colspan="6" style="background-color:#7195BE" align="left" valign="top" rowspan="1">Randomized controlled trial</td></tr><tr><td style="padding-left:10%; background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Gattis et al<xref rid="clc23291-bib-0051" ref-type="ref">51</xref>
+</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">181</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Outpatient Clinics (United States)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Medication recommendations; CHF Medication Education</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">6 months (2, 12, and 24&#x02009;weeks)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Reduction in mortality and nonfatal CHF hospitalization (OR 0.22, 0.07&#x02010;0.65, <italic>P</italic> =&#x02009;.005) Closer to target&#x02010;dose for ACE&#x02010;I therapy in intervention Fraction, 25th, 75th percentile (1, 0.5, 1) vs control (0.5, 0.188, 1) <italic>P</italic> &#x0003c;&#x02009;.001</td></tr><tr><td style="padding-left:10%; background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Bouvy et al<xref rid="clc23291-bib-0037" ref-type="ref">37</xref>
+</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">152</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">CHF Hospitalization (The Netherlands)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Medication History; CHF Medication Education; Medication Compliance; Liaison with GP</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">6 months (monthly)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">No difference in death or hospitalizations 1.1 (0.5&#x02010;2.2) Decrease in days without dosing 0.3 (0.2&#x02010;0.6)</td></tr><tr><td style="padding-left:10%; background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Tsuyuki et al<xref rid="clc23291-bib-0054" ref-type="ref">54</xref>
+</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">276</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">CHF Hospitalization (Canada)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Pharmacist or nurse provided CHF Medication Education; Monthly follow&#x02010;up; Adherence aids</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">6 months (at 2&#x02009;weeks and monthly)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">No difference in medication adherence Reduction in CV emergency department visits (<italic>P</italic> =&#x02009;.30) and hospitalization days (<italic>P</italic> =&#x02009;.003)</td></tr><tr><td style="padding-left:10%; background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Gwadry&#x02010;Sridhar et al<xref rid="clc23291-bib-0038" ref-type="ref">38</xref>
+</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">134</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">CHF Hospitalization (Canada)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Inpatient CHF Medication and lifestyle Education</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">12&#x02009;months (single episode)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">No difference in medication compliance rates (RR 0.78, 0.33&#x02010;1.89 for ACE&#x02010;I/ARB) or death, ED visit, or re&#x02010;hospitalization (HR 0.85, 0.55&#x02010;1.30)</td></tr><tr><td style="padding-left:10%; background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Murray et al<xref rid="clc23291-bib-0039" ref-type="ref">39</xref>
+</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">314</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Outpatient General Medicine and Cardiology (United States)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Medication History; CHF Medication Education; Medication Compliance</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">12&#x02009;months (variable)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Reduction in hospitalization and ED visits (HR 0.82, 0.73&#x02010;0.93) No sustained difference in medication adherence (3.9% ARR, &#x02212;5.9 to +6.5%)</td></tr><tr><td style="padding-left:10%; background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Holland et al<xref rid="clc23291-bib-0040" ref-type="ref">40</xref>
+</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">291</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">CHF Hospitalization (UK)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Home visits by pharmacist with Medication review; CHF Medication and Lifestyle Education</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">6 months (2 home visits within 2&#x02013;8&#x02009;weeks of discharge)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">No difference in hospital admissions (rate ratio 1.15, 0.89&#x02010;1.48) or death (Log rank <italic>P</italic> =&#x02009;.51)</td></tr><tr><td style="padding-left:10%; background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Eggink et al<xref rid="clc23291-bib-0041" ref-type="ref">41</xref>
+</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">85</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">CHF Hospitalization (The Netherlands)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Medication reconciliation by a pharmacist prior to discharge</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">1 month (single episode)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Decrease in discrepancies and prescription errors (RR 0.42, 0.27&#x02010;0.66)</td></tr><tr><td style="padding-left:10%; background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Korajkic et al<xref rid="clc23291-bib-0042" ref-type="ref">42</xref>
+</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">70</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Outpatient Clinics (Australia)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Pharmacist led CHF Medication and Lifestyle education with diuretic dosing</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">3 months (single episode)</td><td style="background-color:#CFD3E1" align="left" valign="top" rowspan="1" colspan="1">Increased diuretic adjustment (0.9 &#x000b1;&#x02009;0.1 vs 0.3 &#x000b1;&#x02009;0.08, <italic>P</italic> =&#x02009;.006) with a reduction in hospital readmissions for volume overload in the intervention group (14% vs 31%, <italic>P</italic> =&#x02009;.04)</td></tr><tr><td style="padding-left:10%; background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Lowrie et al<xref rid="clc23291-bib-0043" ref-type="ref">43</xref>
+</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">2169</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Outpatient Clinics (UK)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">30&#x02010;minute pharmacist appointment for CHF Medication Education and optimization</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">24&#x02009;months (baseline +3&#x02010;4 weekly consultations)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">No difference in death, CV or all&#x02010;cause hospitalizations (HR 0.97, 0.83&#x02010;1.14, <italic>P</italic> =&#x02009;.72) Improvements in optimal doses of ACEI and &#x003b2;&#x02010;blocker therapy (OR 2.26, 1.64&#x02010;3.10, <italic>P</italic> &#x0003c;&#x02009;.001)</td></tr><tr><td colspan="6" style="background-color:#7195BE" align="left" valign="top" rowspan="1">Meta&#x02010;analysis</td></tr><tr><td style="padding-left:10%; background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Driscoll et al<xref rid="clc23291-bib-0044" ref-type="ref">44</xref>
+</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">1684</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Outpatient (Multinational)</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Nurse&#x02010;led titration of GDMT medications</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">N/A</td><td style="background-color:#E8EAF1" align="left" valign="top" rowspan="1" colspan="1">Lower all&#x02010;cause (RR 0.8, 0.72&#x02010;0.88) and CHF (0.51, 0.36&#x02010;0.72) hospitalization rates, all&#x02010;cause mortality (RR 0.66, 0.48&#x02010;0.92), and improved rates of optimal doses of GDMT (RR 1.99, 1.61&#x02010;2.67)</td></tr></tbody></table></table-wrap><p>Since algorithms for initiation, titration, and even discontinuation of medical therapy for HF are detailed in major society guidelines, there may be an opportunity to improve appropriate application of GDMT on a population scale by leveraging nonphysician providers to supplement the work of dedicated HF clinicians. Such collaborative practice models may enable more rapid evolution of the medical regimen outside the clinic setting, while muting practice variation with regard to drug titration and laboratory surveillance. As well, they may introduce economies of scale with regard to insurance authorization for costly medications and facilitate more rapid translation of new guideline&#x02010;directives to clinical practice. Utilizing navigators as well as pharmacists in the context of collective practice agreements may help clinicians to care for larger numbers of patients in a standardized and cost&#x02010;effective manner.<xref rid="clc23291-bib-0044" ref-type="ref">44</xref>
+</p><p>In summary, we propose to test the efficacy and safety of a collaborative, remote management strategy for medication optimization as a means of closing the implementation gap between guidelines and clinical practice. We anticipate that demonstration of the preliminary effectiveness of this approach for enhancing utilization of GDMT amongst patients with HF and reduced EF in clinical practice may help provide support for future prospective, randomized investigations of this approach in clinical practice.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="clc23291-supitem-0001"><caption><p>
+<bold>Table S1</bold>
+</p></caption><media xlink:href="CLC-43-4-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="clc23291-sec-0009"><title>ACKNOWLEDGMENTS</title><p>This quality improvement initiative has received funding from Novartis Pharmaceuticals.</p><p>This project was funded by an unrestricted grant from Novartis to Brigham and Women's Hospital.</p><p>Dr. Desai reports research grant support from Novartis, Alnylam, AstraZeneca, and consulting fees from Abbott, Alnylam, AstraZeneca, Biofourmis, Boston Scientific, Boehringer&#x02010;Ingelheim, DalCor Pharma, Novartis, Relypsa, and Regeneron.</p><p>Dr. Scirica reports Institutional research grant to Brigham and Women's Hospital from AstraZeneca, Eisai, Merck, Novartis, and Pfizer. Consulting fees from AbbVie, Allergan, AstraZeneca, Boehringer Ingelheim, Covance, Eisai, Elsevier Practice Update Cardiology, Esperion, GlaxoSmithKline, Lexicon, Medtronic, Merck, NovoNordisk, Sanofi, and equity in Health [at] Scale.</p><p>Dr. Macrae reports research grant support and consulting fees from Novartis.</p><p>Dr. Blood, Christina M. Fischer, Liliana E. Fera, Taylor E. MacLean, and Katelyn V. Smith have no relevant disclosures.</p></ack><ref-list id="clc23291-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="clc23291-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="clc23291-cit-0001">
+<string-name>
+<surname>Yancy</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Jessup</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bozkurt</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>ACCF/AHA guideline for the management of heart failure</article-title>. <source xml:lang="en">Circulation</source>. <year>2013</year>;<volume>128</volume>(<issue>16</issue>):<fpage>e240</fpage>&#x02010;<lpage>e327</lpage>. <pub-id pub-id-type="doi">10.1161/cir.0b013e31829e8776</pub-id>.<pub-id pub-id-type="pmid">23741058</pub-id></mixed-citation></ref><ref id="clc23291-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="clc23291-cit-0002">
+<string-name>
+<surname>Greene</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Albert</surname>
+<given-names>NM</given-names>
+</string-name>, et al. <article-title>Medical therapy for heart failure with reduced ejection fraction</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2018</year>;<volume>72</volume>(<issue>4</issue>):<fpage>351</fpage>&#x02010;<lpage>366</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacc.2018.04.070</pub-id>.<pub-id pub-id-type="pmid">30025570</pub-id></mixed-citation></ref><ref id="clc23291-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="clc23291-cit-0003">
+<string-name>
+<surname>Ray</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name>
+<surname>Chari</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Engberg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bertolet</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mehrotra</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Opportunity costs of ambulatory medical care in the United States</article-title>. <source xml:lang="en">Am J Manag Care</source>. <year>2015</year>;<volume>21</volume>(<issue>8</issue>):<fpage>567</fpage>&#x02010;<lpage>574</lpage>.<pub-id pub-id-type="pmid">26295356</pub-id></mixed-citation></ref><ref id="clc23291-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="clc23291-cit-0004">
+<string-name>
+<surname>Wagholikar</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Goodson</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Extraction of ejection fraction from echocardiography notes for constructing a cohort of patients having heart failure with reduced ejection fraction (HFrEF)</article-title>. <source xml:lang="en">J Med Syst</source>. <year>2018</year>;<volume>42</volume>(<issue>11</issue>):<fpage>209</fpage>
+<pub-id pub-id-type="doi">10.1007/s10916-018-1066-7</pub-id>.<pub-id pub-id-type="pmid">30255347</pub-id></mixed-citation></ref><ref id="clc23291-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="clc23291-cit-0005">
+<string-name>
+<surname>Yancy</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Januzzi</surname>
+<given-names>JL</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>LA</given-names>
+</string-name>, et al. <article-title>2017 ACC expert consensus decision pathway for optimization of heart failure treatment: answers to 10 pivotal issues about heart failure with reduced ejection fraction</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2018</year>;<volume>71</volume>(<issue>2</issue>):<fpage>201</fpage>&#x02010;<lpage>230</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacc.2017.11.025</pub-id>.<pub-id pub-id-type="pmid">29277252</pub-id></mixed-citation></ref><ref id="clc23291-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="clc23291-cit-0006">
+<string-name>
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name>
+<surname>Albert</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Curtis</surname>
+<given-names>AB</given-names>
+</string-name>, et al. <article-title>Improving evidence&#x02010;based care for heart failure in outpatient cardiology practices: primary results of the registry to improve the use of evidence&#x02010;based heart failure therapies in the outpatient setting (IMPROVE HF)</article-title>. <source xml:lang="en">Circulation</source>. <year>2010</year>;<volume>122</volume>(<issue>6</issue>):<fpage>585</fpage>&#x02010;<lpage>596</lpage>.<pub-id pub-id-type="pmid">20660805</pub-id></mixed-citation></ref><ref id="clc23291-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="clc23291-cit-0007">
+<string-name>
+<surname>Komajda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000f6;pe</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wagenpfeil</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Physicians' guideline adherence is associated with long&#x02010;term heart failure mortality in outpatients with heart failure with reduced ejection fraction: the QUALIFY international registry</article-title>. <source xml:lang="en">Eur J Heart Failure</source>. <year>2019</year>;<volume>21</volume>:<fpage>921</fpage>&#x02010;<lpage>929</lpage>.</mixed-citation></ref><ref id="clc23291-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="clc23291-cit-0008">
+<collab collab-type="authors">SOLVD Investigators</collab>
+. <article-title>Effect of enalapril on survival in patients with reduced left ventricular ejection fractions and congestive heart failure</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>1991</year>;<volume>325</volume>(<issue>5</issue>):<fpage>293</fpage>&#x02010;<lpage>302</lpage>.<pub-id pub-id-type="pmid">2057034</pub-id></mixed-citation></ref><ref id="clc23291-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="clc23291-cit-0009">
+<string-name>
+<surname>Garg</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Yusuf</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Overview of randomized trials of angiotensin&#x02010;converting enzyme inhibitors on mortality and morbidity in patients with heart failure. Collaborative Group on ACE Inhibitor Trials</article-title>. <source xml:lang="en">JAMA</source>. <year>1995</year>;<volume>273</volume>:<fpage>1450</fpage>&#x02010;<lpage>1456</lpage>.<pub-id pub-id-type="pmid">7654275</pub-id></mixed-citation></ref><ref id="clc23291-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="clc23291-cit-0010">
+<string-name>
+<surname>Flather</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Yusuf</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kober</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Long&#x02010;term ACE&#x02010;inhibitor therapy in patients with heart failure or left ventricular dysfunction: a systematic overview of data from individual patients. ACE&#x02010;inhibitor myocardial infarction collaborative group</article-title>. <source xml:lang="en">Lancet</source>. <year>2000</year>;<volume>355</volume>(<issue>9215</issue>):<fpage>1575</fpage>&#x02010;<lpage>1581</lpage>.<pub-id pub-id-type="pmid">10821360</pub-id></mixed-citation></ref><ref id="clc23291-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="clc23291-cit-0011">
+<collab collab-type="authors">Merit&#x02010;HF Study Group</collab>
+. <article-title>Effect of metoprolol CR/XL in chronic heart failure: metoprolol CR/XL randomised intervention trial in&#x02010;congestive heart failure (MERIT&#x02010;HF)</article-title>. <source xml:lang="en">Lancet</source>. <year>1999</year>;<volume>353</volume>(<issue>9169</issue>):<fpage>2001</fpage>&#x02010;<lpage>2007</lpage>.<pub-id pub-id-type="pmid">10376614</pub-id></mixed-citation></ref><ref id="clc23291-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="clc23291-cit-0012">
+<string-name>
+<surname>Packer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Coats</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Fowler</surname>
+<given-names>MB</given-names>
+</string-name>, et al. <article-title>Effect of carvedilol on survival in severe chronic heart failure</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2001</year>;<volume>344</volume>(<issue>22</issue>):<fpage>1651</fpage>&#x02010;<lpage>1658</lpage>.<pub-id pub-id-type="pmid">11386263</pub-id></mixed-citation></ref><ref id="clc23291-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="clc23291-cit-0013">
+<string-name>
+<surname>Heidenreich</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Massie</surname>
+<given-names>BM</given-names>
+</string-name>. <article-title>Effect of beta&#x02010;blockade on mortality in patients with heart failure: a meta&#x02010;analysis of randomized clinical trials</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>1997</year>;<volume>30</volume>(<issue>1</issue>):<fpage>27</fpage>&#x02010;<lpage>34</lpage>.<pub-id pub-id-type="pmid">9207617</pub-id></mixed-citation></ref><ref id="clc23291-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="clc23291-cit-0014">
+<string-name>
+<surname>Brophy</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Joseph</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Rouleau</surname>
+<given-names>JL</given-names>
+</string-name>. <article-title>&#x003b2;&#x02010;Blockers in congestive heart failure: a Bayesian meta&#x02010;analysis</article-title>. <source xml:lang="en">Ann Intern Med</source>. <year>2001</year>;<volume>134</volume>(<issue>7</issue>):<fpage>550</fpage>&#x02010;<lpage>560</lpage>.<pub-id pub-id-type="pmid">11281737</pub-id></mixed-citation></ref><ref id="clc23291-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="clc23291-cit-0015">
+<string-name>
+<surname>Pitt</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zannad</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Remme</surname>
+<given-names>WJ</given-names>
+</string-name>, et al. <article-title>The effect of spironolactone on morbidity and mortality in patients with severe heart failure. Randomized Aldactone evaluation study investigators</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>1999</year>;<volume>341</volume>:<fpage>709</fpage>&#x02010;<lpage>717</lpage>.<pub-id pub-id-type="pmid">10471456</pub-id></mixed-citation></ref><ref id="clc23291-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="clc23291-cit-0016">
+<string-name>
+<surname>Pitt</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Remme</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Zannad</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Eplerenone, a selective aldosterone blocker, in patients with left ventricular dysfunction after myocardial infarction</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2003</year>;<volume>348</volume>(<issue>14</issue>):<fpage>1309</fpage>&#x02010;<lpage>1321</lpage>.<pub-id pub-id-type="pmid">12668699</pub-id></mixed-citation></ref><ref id="clc23291-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="clc23291-cit-0017">
+<string-name>
+<surname>Ezekowitz</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>McAlister</surname>
+<given-names>FA</given-names>
+</string-name>. <article-title>Aldosterone blockade and left ventricular dysfunction: a systematic review of randomized clinical trials</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2008</year>;<volume>30</volume>(<issue>4</issue>):<fpage>469</fpage>&#x02010;<lpage>477</lpage>.<pub-id pub-id-type="pmid">19066207</pub-id></mixed-citation></ref><ref id="clc23291-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="clc23291-cit-0018">
+<string-name>
+<surname>McMurray</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Packer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Desai</surname>
+<given-names>AS</given-names>
+</string-name>, et al. <article-title>Angiotensin&#x02013;neprilysin inhibition versus enalapril in heart failure</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2014</year>;<volume>371</volume>(<issue>11</issue>):<fpage>993</fpage>&#x02010;<lpage>1004</lpage>.<pub-id pub-id-type="pmid">25176015</pub-id></mixed-citation></ref><ref id="clc23291-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="clc23291-cit-0019">
+<string-name>
+<surname>Swedberg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Komajda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>B&#x000f6;hm</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Ivabradine and outcomes in chronic heart failure (SHIFT): a randomised placebo&#x02010;controlled study</article-title>. <source xml:lang="en">Lancet</source>. <year>2010</year>;<volume>376</volume>(<issue>9744</issue>):<fpage>875</fpage>&#x02010;<lpage>885</lpage>.<pub-id pub-id-type="pmid">20801500</pub-id></mixed-citation></ref><ref id="clc23291-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="clc23291-cit-0020">
+<string-name>
+<surname>Taylor</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Ziesche</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yancy</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Combination of isosorbide dinitrate and hydralazine in blacks with heart failure</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2004</year>;<volume>351</volume>(<issue>20</issue>):<fpage>2049</fpage>&#x02010;<lpage>2057</lpage>.<pub-id pub-id-type="pmid">15533851</pub-id></mixed-citation></ref><ref id="clc23291-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="clc23291-cit-0021">
+<string-name>
+<surname>Moss</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Zareba</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>
+<given-names>WJ</given-names>
+</string-name>, et al. <article-title>Prophylactic implantation of a defibrillator in patients with myocardial infarction and reduced ejection fraction</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2002</year>;<volume>346</volume>(<issue>12</issue>):<fpage>877</fpage>&#x02010;<lpage>883</lpage>.<pub-id pub-id-type="pmid">11907286</pub-id></mixed-citation></ref><ref id="clc23291-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="clc23291-cit-0022">
+<string-name>
+<surname>Chin</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Skiba</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tonkin</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>The treatment gap in patients with chronic systolic heart failure: a systematic review of evidence&#x02010;based prescribing in practice</article-title>. <source xml:lang="en">Heart Fail Rev</source>. <year>2016</year>;<volume>21</volume>(<issue>6</issue>):<fpage>675</fpage>&#x02010;<lpage>697</lpage>.<pub-id pub-id-type="pmid">27465132</pub-id></mixed-citation></ref><ref id="clc23291-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="clc23291-cit-0023">
+<string-name>
+<surname>Nieuwlaat</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Schwalm</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Khatib</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Yusuf</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Why are we failing to implement effective therapies in cardiovascular disease?</article-title>
+<source xml:lang="en">Eur Heart J</source>. <year>2013</year>;<volume>34</volume>(<issue>17</issue>):<fpage>1262</fpage>&#x02010;<lpage>1269</lpage>.<pub-id pub-id-type="pmid">23376448</pub-id></mixed-citation></ref><ref id="clc23291-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="clc23291-cit-0024">
+<string-name>
+<surname>Berthelot</surname>
+<given-names>E</given-names>
+</string-name> et al. <article-title>Medical inertia in the optimization of heart failure treatment after discharge and its relationship to outcome</article-title>. <source xml:lang="en">Health Care Curr Rev</source>. <year>2018</year>;<volume>6</volume>:<fpage>1</fpage>.</mixed-citation></ref><ref id="clc23291-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="clc23291-cit-0025">
+<string-name>
+<surname>Gattis</surname>
+<given-names>WA</given-names>
+</string-name> et al. <article-title>Predischarge initiation of carvedilol in patients hospitalized for decompensated heart failure: results of the initiation management predischarge: process for assessment of carvedilol therapy in heart failure (IMPACT&#x02010;HF) trial</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2004</year>;<volume>43</volume>(<issue>9</issue>):<fpage>1534</fpage>&#x02010;<lpage>1541</lpage>.<pub-id pub-id-type="pmid">15120808</pub-id></mixed-citation></ref><ref id="clc23291-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="clc23291-cit-0026">
+<string-name>
+<surname>Hernandez</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Hammill</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name>
+<surname>O'Connor</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Schulman</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Curtis</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>. <article-title>Clinical effectiveness of beta&#x02010;blockers in heart failure: findings from the OPTIMIZE&#x02010;HF (organized program to initiate lifesaving treatment in hospitalized patients with heart failure) registry</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2009</year>;<volume>53</volume>(<issue>2</issue>):<fpage>184</fpage>&#x02010;<lpage>192</lpage>.<pub-id pub-id-type="pmid">19130987</pub-id></mixed-citation></ref><ref id="clc23291-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="clc23291-cit-0027">
+<string-name>
+<surname>Siddiqui</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sanders</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name>
+<surname>Arora</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Use of ACE inhibitors or angiotensin receptor blockers is associated with a significantly lower risk of 30&#x02010;day all&#x02010;cause and heart failure readmissions and all&#x02010;cause mortality in older medicare beneficiaries hospitalized for heart failure developing acute kidney injury</article-title>. <source xml:lang="en">Circulation</source>. <year>2015</year>;<volume>132</volume>(<issue>suppl 3</issue>):<fpage>A19094</fpage>&#x02010;<lpage>A19094</lpage>.</mixed-citation></ref><ref id="clc23291-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="clc23291-cit-0028">
+<string-name>
+<surname>Januzzi</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fombu</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Rationale and methods of the prospective study of biomarkers, symptom improvement, and ventricular remodeling during sacubitril/valsartan therapy for heart failure (PROVE&#x02010;HF)</article-title>. <source xml:lang="en">Am Heart J</source>. <year>2018</year>;<volume>199</volume>:<fpage>130</fpage>&#x02010;<lpage>136</lpage>.<pub-id pub-id-type="pmid">29754651</pub-id></mixed-citation></ref><ref id="clc23291-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="clc23291-cit-0029">
+<string-name>
+<surname>Desai</surname>
+<given-names>AS</given-names>
+</string-name> et al. <article-title>Effect of Sacubitril&#x02010;valsartan vs Enalapril on aortic stiffness in patients with heart failure and reduced ejection fraction: a randomized clinical trial</article-title>. <source xml:lang="en">JAMA</source>. <year>2019</year>;<volume>322</volume>(<issue>11</issue>):<fpage>1077</fpage>&#x02010;<lpage>1084</lpage>.</mixed-citation></ref><ref id="clc23291-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="clc23291-cit-0030">
+<string-name>
+<surname>Schneider</surname>
+<given-names>PM</given-names>
+</string-name> et al. <article-title>Prevalence of guideline&#x02010;directed medical therapy among patients receiving cardiac resynchronization therapy defibrillator implantation in the National Cardiovascular Data Registry during the years 2006 to 2008</article-title>. <source xml:lang="en">Am J Cardiol</source>. <year>2014</year>;<volume>113</volume>(<issue>12</issue>):<fpage>2052</fpage>&#x02010;<lpage>2056</lpage>.<pub-id pub-id-type="pmid">24793671</pub-id></mixed-citation></ref><ref id="clc23291-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="clc23291-cit-0031">
+<string-name>
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name>
+<surname>Yancy</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Spertus</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Heidenreich</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>Potential impact of optimal implementation of evidence&#x02010;based heart failure therapies on mortality</article-title>. <source xml:lang="en">Am Heart J</source>. <year>2011</year>;<volume>161</volume>(<issue>6</issue>):<fpage>1024</fpage>&#x02010;<lpage>1030</lpage>.<pub-id pub-id-type="pmid">21641346</pub-id></mixed-citation></ref><ref id="clc23291-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="clc23291-cit-0032">
+<string-name>
+<surname>Jain</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mills</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Nunn</surname>
+<given-names>LM</given-names>
+</string-name>, et al. <article-title>Success of a multidisciplinary heart failure clinic for initiation and up&#x02010;titration of key therapeutic agents</article-title>. <source xml:lang="en">Eur. J. Heart Fail</source>. <year>2005</year>;<volume>7</volume>:<fpage>405</fpage>&#x02010;<lpage>410</lpage>.<pub-id pub-id-type="pmid">15718181</pub-id></mixed-citation></ref><ref id="clc23291-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="clc23291-cit-0033">
+<string-name>
+<surname>Bhat</surname>
+<given-names>S</given-names>
+</string-name> et al. <article-title>Outcomes of a pharmacist&#x02010;managed heart failure medication titration assistance clinic</article-title>. <source xml:lang="en">Ann Pharmacotherapy</source>. <year>2018</year>;<volume>52</volume>(<issue>8</issue>):<fpage>724</fpage>&#x02010;<lpage>732</lpage>.</mixed-citation></ref><ref id="clc23291-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="clc23291-cit-0034">
+<string-name>
+<surname>Balakumaran</surname>
+<given-names>K</given-names>
+</string-name> et al. <article-title>Evaluation of a guideline directed medical therapy titration program in patients with heart failure with reduced ejection fraction</article-title>. <source xml:lang="en">IJC Heart Vasc</source>. <year>2019</year>;<volume>22</volume>:<fpage>1</fpage>&#x02010;<lpage>5</lpage>.</mixed-citation></ref><ref id="clc23291-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="clc23291-cit-0035">
+<string-name>
+<surname>Asghar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Rahko</surname>
+<given-names>PS</given-names>
+</string-name>. <article-title>Quality of heart failure management: a comparison of care between a comprehensive heart failure program and a general cardiology practice</article-title>. <source xml:lang="en">Congest Heart Fail</source>. <year>2010</year>;<volume>16</volume>:<fpage>65</fpage>&#x02010;<lpage>70</lpage>.<pub-id pub-id-type="pmid">20412471</pub-id></mixed-citation></ref><ref id="clc23291-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="clc23291-cit-0036">
+<string-name>
+<surname>Braun</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Heintze</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Rufer</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Innovative strategy for implementing chronic heart failure guidelines among family physicians in different healthcare settings in Berlin</article-title>. <source xml:lang="en">Eur J Heart Fail</source>. <year>2011</year>;<volume>13</volume>(<issue>1</issue>):<fpage>93</fpage>&#x02010;<lpage>99</lpage>.<pub-id pub-id-type="pmid">20947573</pub-id></mixed-citation></ref><ref id="clc23291-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="clc23291-cit-0037">
+<string-name>
+<surname>Bouvy</surname>
+<given-names>ML</given-names>
+</string-name> et al. <article-title>Patterns of pharmacotherapy in patients hospitalised for congestive heart failure</article-title>. <source xml:lang="en">Eur J Heart Fail</source>. <year>2003</year>;<volume>5</volume>(<issue>2</issue>):<fpage>195</fpage>&#x02010;<lpage>200</lpage>.<pub-id pub-id-type="pmid">12644012</pub-id></mixed-citation></ref><ref id="clc23291-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="clc23291-cit-0038">
+<string-name>
+<surname>Gwadry&#x02010;Sridhar</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name>
+<surname>Arnold</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Marchiori</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Guyatt</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Pilot study to determine the impact of a multidisciplinary educational intervention in patients hospitalized with heart failure</article-title>. <source xml:lang="en">Am Heart J</source>. <year>2005</year>;<volume>150</volume>:<fpage>982</fpage>.<pub-id pub-id-type="pmid">16290975</pub-id></mixed-citation></ref><ref id="clc23291-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="clc23291-cit-0039">
+<string-name>
+<surname>Murray</surname>
+<given-names>MD</given-names>
+</string-name> et al. <article-title>Pharmacist intervention to improve medication adherence in heart failure: a randomized trial</article-title>. <source xml:lang="en">Ann Intern Med</source>. <year>2007</year>;<volume>146</volume>(<issue>10</issue>):<fpage>714</fpage>&#x02010;<lpage>725</lpage>.<pub-id pub-id-type="pmid">17502632</pub-id></mixed-citation></ref><ref id="clc23291-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="clc23291-cit-0040">
+<string-name>
+<surname>Holland</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Brooksby</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Lenaghan</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Effectiveness of visits from community pharmacists for patients with heart failure: HeartMed randomised controlled trial</article-title>. <source xml:lang="en">BMJ</source>. <year>2007</year>;<volume>334</volume>:<fpage>1098</fpage>.<pub-id pub-id-type="pmid">17452390</pub-id></mixed-citation></ref><ref id="clc23291-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="clc23291-cit-0041">
+<string-name>
+<surname>Eggink</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Lenderink</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Widdershoven</surname>
+<given-names>JWMG</given-names>
+</string-name>, <string-name>
+<surname>van den Bemt</surname>
+<given-names>PMLA</given-names>
+</string-name>. <article-title>The effect of a clinical pharmacist discharge service on medication discrepancies in patients with heart failure</article-title>. <source xml:lang="en">Pharm World Sci</source>. <year>2010</year>;<volume>32</volume>:<fpage>759</fpage>&#x02010;<lpage>766</lpage>.<pub-id pub-id-type="pmid">20809276</pub-id></mixed-citation></ref><ref id="clc23291-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="clc23291-cit-0042">
+<string-name>
+<surname>Korajkic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Poole</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>MacFarlane</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Bergin</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Dooley</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Impact of a pharmacist intervention on ambulatory patients with heart failure: a randomised controlled study</article-title>. <source xml:lang="en">J Pharm Pract Res</source>. <year>2011</year>;<volume>41</volume>:<fpage>126</fpage>&#x02010;<lpage>131</lpage>.</mixed-citation></ref><ref id="clc23291-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="clc23291-cit-0043">
+<string-name>
+<surname>Lowrie</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Mair</surname>
+<given-names>FS</given-names>
+</string-name>, <string-name>
+<surname>Greenlaw</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Pharmacist intervention in primary care to improve outcomes in patients with left ventricular systolic dysfunction</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2012</year>;<volume>33</volume>:<fpage>314</fpage>&#x02010;<lpage>324</lpage>.<pub-id pub-id-type="pmid">22083873</pub-id></mixed-citation></ref><ref id="clc23291-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="clc23291-cit-0044">
+<string-name>
+<surname>Driscoll</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Currey</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tonkin</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Nurse&#x02010;led titration of angiotensin&#x02010;converting enzyme inhibitors, beta&#x02010;adrenergic blocking agents, and angiotensin receptor blockers in patients with heart failure with reduced ejection fraction</article-title>. <source xml:lang="en">JAMA Cardiol</source>. <year>2016</year>;<volume>1</volume>(<issue>7</issue>):<fpage>842</fpage>&#x02010;<lpage>843</lpage>.<pub-id pub-id-type="pmid">27556747</pub-id></mixed-citation></ref><ref id="clc23291-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="clc23291-cit-0045">
+<string-name>
+<surname>Hickey</surname>
+<given-names>A</given-names>
+</string-name> et al. <article-title>Improving medication titration in heart failure by embedding a structured medication titration plan</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2016</year>;<volume>224</volume>:<fpage>99</fpage>&#x02010;<lpage>106</lpage>.<pub-id pub-id-type="pmid">27643473</pub-id></mixed-citation></ref><ref id="clc23291-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="clc23291-cit-0046">
+<string-name>
+<surname>Carroll</surname>
+<given-names>R</given-names>
+</string-name> et al. <article-title>Prescribing and up&#x02010;titration in recently hospitalized heart failure patients attending a disease management program</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2016</year>;<volume>216</volume>:<fpage>121</fpage>&#x02010;<lpage>127</lpage>.<pub-id pub-id-type="pmid">27153136</pub-id></mixed-citation></ref><ref id="clc23291-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="clc23291-cit-0047">
+<string-name>
+<surname>Bhatt</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>DeVore</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>DeWald</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Swedberg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mentz</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Achieving a maximally tolerated &#x003b2;&#x02010;blocker dose in heart failure patients: is there room for improvement?</article-title>
+<source xml:lang="en">J Am Coll Cardiol</source>. <year>2017</year>;<volume>69</volume>(<issue>20</issue>):<fpage>2542</fpage>&#x02010;<lpage>2550</lpage>.<pub-id pub-id-type="pmid">28521892</pub-id></mixed-citation></ref><ref id="clc23291-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="clc23291-cit-0048">
+<string-name>
+<surname>Ansari</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shlipak</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Heidenreich</surname>
+<given-names>PA</given-names>
+</string-name>, et al. <article-title>Improving guideline adherence: a randomized trial evaluating strategies to increase beta&#x02010;blocker use in heart failure</article-title>. <source xml:lang="en">Circulation</source>. <year>2003</year>;<volume>107</volume>:<fpage>2799</fpage>&#x02010;<lpage>2804</lpage>.<pub-id pub-id-type="pmid">12756157</pub-id></mixed-citation></ref><ref id="clc23291-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="clc23291-cit-0049">
+<string-name>
+<surname>Murphy</surname>
+<given-names>JA</given-names>
+</string-name> et al. <article-title>Implementation of a cardiac transitions of care pilot program: a prospective study of inpatient and outpatient clinical pharmacy services for patients with heart failure exacerbation or acute myocardial infarction</article-title>. <source xml:lang="en">J Pharm Pract</source>. <year>2019</year>;<volume>32</volume>(<issue>1</issue>):<fpage>68</fpage>&#x02010;<lpage>76</lpage>.<pub-id pub-id-type="pmid">29183253</pub-id></mixed-citation></ref><ref id="clc23291-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="clc23291-cit-0050">
+<string-name>
+<surname>Luo</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name>
+<surname>Lippmann</surname>
+<given-names>SJ</given-names>
+</string-name>, et al. <article-title>Early adoption of sacubitril/valsartan for patients with heart failure with reduced ejection fraction: insights from get with the guidelines&#x02013;heart failure (GWTG&#x02010;HF)</article-title>. <source xml:lang="en">JACC: Heart Failure</source>. <year>2017</year>;<volume>5</volume>(<issue>4</issue>):<fpage>305</fpage>&#x02010;<lpage>309</lpage>.<pub-id pub-id-type="pmid">28359417</pub-id></mixed-citation></ref><ref id="clc23291-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="clc23291-cit-0051">
+<string-name>
+<surname>Gattis</surname>
+<given-names>WA</given-names>
+</string-name> et al. <article-title>Reduction in heart failure events by the addition of a clinical pharmacist to the heart failure management team: results of the pharmacist in heart failure assessment recommendation and monitoring (PHARM) study</article-title>. <source xml:lang="en">Arch Intern Med</source>. <year>1999</year>;<volume>159</volume>(<issue>16</issue>):<fpage>1939</fpage>&#x02010;<lpage>1945</lpage>.<pub-id pub-id-type="pmid">10493325</pub-id></mixed-citation></ref><ref id="clc23291-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="clc23291-cit-0052">
+<string-name>
+<surname>Sadik</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Yousif</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>McElnay</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Pharmaceutical care of patients with heart failure</article-title>. <source xml:lang="en">Br J Clin Pharmacol</source>. <year>2005</year>;<volume>60</volume>(<issue>2</issue>):<fpage>183</fpage>&#x02010;<lpage>193</lpage>.<pub-id pub-id-type="pmid">16042672</pub-id></mixed-citation></ref><ref id="clc23291-bib-0053"><label>53</label><mixed-citation publication-type="miscellaneous" id="clc23291-cit-0053">
+<string-name>
+<surname>Varma</surname>
+<given-names>S.</given-names>
+</string-name>
+<article-title>Pharmaceutical care of elderly congestive heart failure patients (Doctoral dissertation, Queen's University of Belfast)</article-title>. <year>1999</year>: <fpage>0646</fpage>&#x02010;<lpage>0646</lpage>.</mixed-citation></ref><ref id="clc23291-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="clc23291-cit-0054">
+<string-name>
+<surname>Tsuyuki</surname>
+<given-names>RT</given-names>
+</string-name>, <string-name>
+<surname>Fradette</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>A multicenter disease management program for hospitalized patients with heart failure</article-title>. <source xml:lang="en">J Card Fail</source>. <year>2004</year>;<volume>10</volume>:<fpage>473</fpage>&#x02010;<lpage>480</lpage>.<pub-id pub-id-type="pmid">15599837</pub-id></mixed-citation></ref><ref id="clc23291-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="clc23291-cit-0055">
+<string-name>
+<surname>West</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Faulkenberg</surname>
+<given-names>KD</given-names>
+</string-name>. <article-title>The Impact of Pharmacist&#x02010;Based Services Across the Spectrum of Outpatient Heart Failure Therapy</article-title>. <source xml:lang="en">Curr Treat Options Cardiovasc Med</source>. <year>2019</year>;<volume>21</volume>(<issue>10</issue>):<fpage>59</fpage>.<pub-id pub-id-type="pmid">31506885</pub-id></mixed-citation></ref></ref-list><app-group><app id="clc23291-app-0001" content-type="Appendix 1"><label>Appendix 1 A.</label><sec id="clc23291-sec-0010"><p>
+<italic>&#x003b2;&#x02010;Blocker titration</italic>: Patients who were na&#x000ef;ve to &#x003b2;&#x02010;Blocker therapy were initiated on metoprolol succinate at a starting dose of 12.5&#x02009;mg daily. Patients who were on an evidence based &#x003b2;&#x02010;blocker began titrations from their current dose, unless there was evidence or concern that the patient would not tolerate further titration. All nonevidence based &#x003b2;&#x02010;blocker doses were converted to equivalent doses of metoprolol succinate, in the absence of contraindications. Patients who were currently taking sotalol at any dose level were considered to have met their maximally tolerated dose.</p><p>
+<italic>ACEI and ARB titration</italic>: Patients who were na&#x000ef;ve to ACEI or ARB therapy were initiated on lisinopril at a starting dose of 2.5&#x02009;mg QD, all other patients began titrations from their current dose of their existing ACEI or ARB, unless there is evidence or concern that the patient would not tolerate further titration. Patients who experienced an intolerable cough on an ACEI were converted to an equivalent dose of losartan. Lab surveillance was conducted 10&#x02009;&#x000b1;&#x02009;3&#x02009;days after each medication titration. An increase in serum creatinine greater than 30% from baseline or an increase in potassium greater than 15% from baseline prompted repeat lab surveillance in 7&#x02010;10&#x02009;days. In patients who could not tolerate the lowest dose of an ACEI or a dose reduction was indicated due to systolic blood pressures below 90&#x02009;mmHg or symptomatic hypotension, the dose of &#x003b2;&#x02010;blocker was preferentially reduced and the patient was re&#x02010;evaluated in 1&#x02009;week. If the patient was still unable to tolerate these doses, the ACEI or ARB was removed and the patient was re&#x02010;evaluated in 1&#x02009;week. If symptoms resolved and/or systolic blood pressure returned to &#x02265;95&#x02009;mmHg the &#x003b2;&#x02010;blocker was resumed at the previously tolerated dose. If symptoms did not resolve or systolic blood pressure did not return to &#x02265;95&#x02009;mmHg adjustment of the &#x003b2;&#x02010;blocker continued until no further adjustment was indicated per Table <xref rid="clc23291-supitem-0001" ref-type="supplementary-material">S1</xref>.</p><p>
+<italic>ARNI titration</italic>: Patients who were eligible for ARNI therapy per the current ACC/AHA HF Guidelines and who proved tolerability to an ACEI or ARB at daily doses of &#x0003e;10&#x02009;mg or 160&#x02009;mg, respectively, were transitioned to a middose (49/51&#x02009;mg) ARNI. Patients who met the guideline criteria for consideration of ARNI therapy but who could not tolerate an ACEI or ARB at daily doses of &#x0003e;10&#x02009;mg or 160&#x02009;mg, respectively, or who had an eGFR of &#x0003c;30 were initiated on low dose (24/26&#x02009;mg) ARNI therapy. Lab surveillance was conducted 10&#x02009;&#x000b1;&#x02009;3&#x02009;days after each medication titration. An increase in serum creatinine greater than 30% from baseline or an increase in potassium greater than 15% from baseline prompted repeat lab surveillance in 7&#x02010;10&#x02009;days.</p><p>
+<italic>MRA titration</italic>: Patients who were na&#x000ef;ve to MRA therapy were initiated on spironolactone at a starting dose of 25&#x02009;mg QOD. All other patients began titrations from their current dose of either spironolactone or eplerenone. Patients who experienced sexual side effects at any dose of spironolactone were converted to the equivalent dose of eplerenone and re&#x02010;evaluated. Lab surveillance was conducted 7&#x02010;10&#x02009;days after each dose adjustment.</p><p>
+<italic>Ivabradine titration</italic>: Ivabradine titrations began at 2.5&#x02009;mg QD and occurred every 4&#x02009;weeks for patients whose heart rate remained elevated despite receiving all other guideline indicated therapy.</p><p>
+<italic>Hydralazine and isosorbide dinitrate titration</italic>: Titration of hydralazine and isosorbide dinitrate was done in tandem from a starting dose of 25/20&#x02009;mg. Titrations proceeded in 25&#x02009;mg and 10&#x02009;mg increments, respectively, one additional titration of hydralazine was conducted to attain the guideline directed dosing. For patients who were already receiving monotherapy, titrations began with the initiation and titration of the absent medication class until the patient achieved a dose level from which tandem titrations can proceed.</p><p>RR, relative risk (95% confidence interval unless otherwise specified); ARR, absolute risk reduction; HR, hazard ratio. References <xref rid="clc23291-bib-0006" ref-type="ref">6</xref>, <xref rid="clc23291-bib-0032" ref-type="ref">32</xref>, <xref rid="clc23291-bib-0034" ref-type="ref">34</xref>, <xref rid="clc23291-bib-0036" ref-type="ref">36</xref>, <xref rid="clc23291-bib-0037" ref-type="ref">37</xref>, <xref rid="clc23291-bib-0038" ref-type="ref">38</xref>, <xref rid="clc23291-bib-0039" ref-type="ref">39</xref>, <xref rid="clc23291-bib-0040" ref-type="ref">40</xref>, <xref rid="clc23291-bib-0041" ref-type="ref">41</xref>, <xref rid="clc23291-bib-0042" ref-type="ref">42</xref>, <xref rid="clc23291-bib-0043" ref-type="ref">43</xref>, <xref rid="clc23291-bib-0044" ref-type="ref">44</xref>, <xref rid="clc23291-bib-0045" ref-type="ref">45</xref>, <xref rid="clc23291-bib-0047" ref-type="ref">47</xref>, <xref rid="clc23291-bib-0049" ref-type="ref">49</xref>, <xref rid="clc23291-bib-0051" ref-type="ref">51</xref>, <xref rid="clc23291-bib-0052" ref-type="ref">52</xref>, <xref rid="clc23291-bib-0053" ref-type="ref">53</xref>, <xref rid="clc23291-bib-0054" ref-type="ref">54</xref>, <xref rid="clc23291-bib-0055" ref-type="ref">55</xref>
+</p></sec></app></app-group></back></article>

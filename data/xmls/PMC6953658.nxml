@@ -1,0 +1,717 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31938518</article-id><article-id pub-id-type="pmc">6953658</article-id><article-id pub-id-type="doi">10.1002/ece3.5862</article-id><article-id pub-id-type="publisher-id">ECE35862</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Opposite latitudinal patterns for bird and arthropod predation revealed in experiments with differently colored artificial prey</article-title><alt-title alt-title-type="left-running-head">ZVEREVA et al.</alt-title></title-group><contrib-group><contrib id="ece35862-cr-0001" contrib-type="author" corresp="yes"><name><surname>Zvereva</surname><given-names>Elena L.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2934-3421</contrib-id><xref ref-type="aff" rid="ece35862-aff-0001">
+<sup>1</sup>
+</xref><address><email>elezve@utu.fi</email></address></contrib><contrib id="ece35862-cr-0002" contrib-type="author"><name><surname>Castagneyrol</surname><given-names>Bastien</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8795-7806</contrib-id><xref ref-type="aff" rid="ece35862-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35862-cr-0003" contrib-type="author"><name><surname>Cornelissen</surname><given-names>Tatiana</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2721-7010</contrib-id><xref ref-type="aff" rid="ece35862-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35862-cr-0004" contrib-type="author"><name><surname>Forsman</surname><given-names>Anders</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9598-7618</contrib-id><xref ref-type="aff" rid="ece35862-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ece35862-cr-0005" contrib-type="author"><name><surname>Hern&#x000e1;ndez&#x02010;Ag&#x000fc;ero</surname><given-names>Juan Antonio</given-names></name><xref ref-type="aff" rid="ece35862-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="ece35862-cr-0006" contrib-type="author"><name><surname>Klemola</surname><given-names>Tero</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8510-329X</contrib-id><xref ref-type="aff" rid="ece35862-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35862-cr-0007" contrib-type="author"><name><surname>Paolucci</surname><given-names>Lucas</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6403-5200</contrib-id><xref ref-type="aff" rid="ece35862-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="ece35862-aff-0007">
+<sup>7</sup>
+</xref><xref ref-type="aff" rid="ece35862-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="ece35862-cr-0008" contrib-type="author"><name><surname>Polo</surname><given-names>Vicente</given-names></name><xref ref-type="aff" rid="ece35862-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="ece35862-cr-0009" contrib-type="author"><name><surname>Salinas</surname><given-names>Norma</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9941-2109</contrib-id><xref ref-type="aff" rid="ece35862-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="ece35862-cr-0010" contrib-type="author"><name><surname>Theron</surname><given-names>Kasselman Jurie</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0739-8720</contrib-id><xref ref-type="aff" rid="ece35862-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="ece35862-cr-0011" contrib-type="author"><name><surname>Xu</surname><given-names>Guorui</given-names></name><xref ref-type="aff" rid="ece35862-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="ece35862-cr-0012" contrib-type="author"><name><surname>Zverev</surname><given-names>Vitali</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8090-9235</contrib-id><xref ref-type="aff" rid="ece35862-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35862-cr-0013" contrib-type="author"><name><surname>Kozlov</surname><given-names>Mikhail V.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9500-4244</contrib-id><xref ref-type="aff" rid="ece35862-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ece35862-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<institution>University of Turku</institution>
+<city>Turku</city>
+<country country="FI">Finland</country>
+</aff><aff id="ece35862-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">BIOGECO</named-content>
+<named-content content-type="organisation-division">INRA</named-content>
+<institution>Univ. Bordeaux</institution>
+<city>Cestas Cedex</city>
+<country country="FR">France</country>
+</aff><aff id="ece35862-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Departamento de Gen&#x000e9;tica, Ecologia e Evolu&#x000e7;&#x000e3;o</named-content>
+<institution>Universidade Federal de Minas Gerais</institution>
+<city>Belo Horizonte</city>
+<country country="BR">Brazil</country>
+</aff><aff id="ece35862-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Biology and Environmental Science</named-content>
+<institution>Linnaeus University</institution>
+<city>Kalmar</city>
+<country country="SE">Sweden</country>
+</aff><aff id="ece35862-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Biology and Geology, Physics and Inorganic Chemistry</named-content>
+<institution>University Rey Juan Carlos</institution>
+<city>M&#x000f3;stoles</city>
+<country country="ES">Spain</country>
+</aff><aff id="ece35862-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Setor de Ecologia e Conserva&#x000e7;&#x000e3;o</named-content>
+<named-content content-type="organisation-division">Departamento de Biologia</named-content>
+<institution>Universidade Federal de Lavras</institution>
+<city>Lavras</city>
+<country country="BR">Brazil</country>
+</aff><aff id="ece35862-aff-0007">
+<label><sup>7</sup></label>
+<institution>Instituto de Pesquisa Ambiental da Amaz&#x000f4;nia</institution>
+<city>Bras&#x000ed;lia</city>
+<country country="BR">Brazil</country>
+</aff><aff id="ece35862-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Departamento de Biologia Geral</named-content>
+<institution>Universidade Federal de Vi&#x000e7;osa, Campus Universit&#x000e1;rio</institution>
+<city>Vi&#x000e7;osa</city>
+<country country="BR">Brazil</country>
+</aff><aff id="ece35862-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Instituto de Ciencias de la Naturaleza, Territorio y Energ&#x000ed;as Renovables</named-content>
+<institution>Pontificia Universidad Cat&#x000f3;lica del Per&#x000fa;</institution>
+<city>Lima</city>
+<country country="PE">Peru</country>
+</aff><aff id="ece35862-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Department of Conservation Ecology and Entomology</named-content>
+<institution>Stellenbosch University</institution>
+<city>Matieland</city>
+<country country="ZA">South Africa</country>
+</aff><aff id="ece35862-aff-0011">
+<label><sup>11</sup></label>
+<named-content content-type="organisation-division">CAS Key Laboratory of Tropical Forest Ecology</named-content>
+<named-content content-type="organisation-division">Xishuangbanna Tropical Botanical Garden</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<city>Menglun</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Elena L. Zvereva, Department of Biology, University of Turku, FI&#x02010;20014 Turku, Finland.<break/>
+Email: <email>elezve@utu.fi</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>9</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.24</issue-id><fpage>14273</fpage><lpage>14285</lpage><history><date date-type="received"><day>15</day><month>8</month><year>2019</year></date><date date-type="rev-recd"><day>18</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>03</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-14273.pdf"/><abstract id="ece35862-abs-0001"><title>Abstract</title><p>The strength of biotic interactions is generally thought to increase toward the equator, but support for this hypothesis is contradictory. We explored whether predator attacks on artificial prey of eight different colors vary among climates and whether this variation affects the detection of latitudinal patterns in predation. Bird attack rates negatively correlated with model luminance in cold and temperate environments, but not in tropical environments. Bird predation on black and on white (extremes in luminance) models demonstrated different latitudinal patterns, presumably due to differences in prey conspicuousness between habitats with different light regimes. When attacks on models of all colors were combined, arthropod predation decreased, whereas bird predation increased with increasing latitude. We conclude that selection for prey coloration may vary geographically and according to predator identity, and that the importance of different predators may show contrasting patterns, thus weakening the overall latitudinal trend in top&#x02010;down control of herbivorous insects.</p></abstract><abstract abstract-type="graphical" id="ece35862-abs-0002"><p>We explored whether predator attacks on artificial prey of eight different colors vary among climates and whether this variation affects the detection of latitudinal patterns in predation. We found that selection for prey coloration varies geographically and according to predator identity. When attacks on models of all colors were combined, arthropod predation decreased, whereas bird predation increased with increasing latitude.<boxed-text position="anchor" content-type="graphic" id="ece35862-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-14273-g008.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35862-kwd-0001">arthropod predators</kwd><kwd id="ece35862-kwd-0002">artificial prey</kwd><kwd id="ece35862-kwd-0003">avian predators</kwd><kwd id="ece35862-kwd-0004">biotic interactions</kwd><kwd id="ece35862-kwd-0005">color preference</kwd><kwd id="ece35862-kwd-0006">latitudinal pattern</kwd><kwd id="ece35862-kwd-0007">plasticine models</kwd><kwd id="ece35862-kwd-0008">predation rate</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Academy of Finland </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100002341</institution-id></institution-wrap></funding-source><award-id>311929</award-id><award-id>316182</award-id></award-group><award-group id="funding-0002"><funding-source>Spanish Ministry of Economy and Competitiveness</funding-source><award-id>PCIN&#x02010;2016&#x02010;150</award-id></award-group><award-group id="funding-0003"><funding-source>Community of Madrid</funding-source><award-id>PEJD&#x02010;2017&#x02010;PRE/AMB&#x02010;3669</award-id></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>Chinese Academy of Sciences </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100002367</institution-id></institution-wrap></funding-source><award-id>2017XTBG&#x02010;T01</award-id></award-group><award-group id="funding-0005"><funding-source>West Light Foundation&#x000a0;of the Chinese Academy of Sciences</funding-source></award-group><award-group id="funding-0006"><funding-source>Conselho Nacional de Pesquisa CNPq</funding-source><award-id>307210&#x02010;2016&#x02010;2</award-id></award-group><award-group id="funding-0007"><funding-source><institution-wrap><institution>Coordena&#x000e7;&#x000e3;o de Aperfei&#x000e7;oamento de Pessoal de N&#x000ed;vel Superior </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100002322</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0008"><funding-source>PELD/CNPq</funding-source><award-id>441703/2016&#x02010;0</award-id></award-group><award-group id="funding-0009"><funding-source>Consejo Nacional de Ciencia, Tecnolog&#x000ed;a e Innovaci&#x000f3;n del Per&#x000fa;</funding-source><award-id>107&#x02010;2016&#x02010;FONDECYT&#x02010;ERANet&#x02010;LAC</award-id></award-group><award-group id="funding-0010"><funding-source><institution-wrap><institution>Linnaeus University </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100005967</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="7"/><table-count count="3"/><page-count count="13"/><word-count count="9001"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:10.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35862-cit-1001">
+<string-name>
+<surname>Zvereva</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Castagneyrol</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Cornelissen</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Opposite latitudinal patterns for bird and arthropod predation revealed in experiments with differently colored artificial prey</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>14273</fpage>&#x02013;<lpage>14285</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5862</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35862-body-0001"><sec id="ece35862-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Global patterns in the intensity of trophic interactions have recently become a subject of heated debate (Moles &#x00026; Ollerton, <xref rid="ece35862-bib-0029" ref-type="ref">2016</xref>). Plant&#x02013;herbivore interactions have received considerable attention (e.g., Kozlov, Lanta, Zverev, &#x00026; Zvereva, <xref rid="ece35862-bib-0021" ref-type="ref">2015</xref>; Moles, Bonser, Poore, Wallis, &#x00026; Foley, <xref rid="ece35862-bib-0028" ref-type="ref">2011</xref>; Moreira, Abdala&#x02010;Roberts, Parra&#x02010;Tabla, &#x00026; Mooney, <xref rid="ece35862-bib-0030" ref-type="ref">2015</xref>), whereas predator&#x02013;prey interactions remain less explored (Bj&#x000f6;rkman, Berggren, &#x00026; Bylund, <xref rid="ece35862-bib-0005" ref-type="ref">2011</xref>). Although the prevailing view seems to be that biotic interactions become more intense at lower latitudes (Adams &#x00026; Zhang, <xref rid="ece35862-bib-0002" ref-type="ref">2009</xref>; Pennings &#x00026; Silliman, <xref rid="ece35862-bib-0036" ref-type="ref">2005</xref>; Roslin et al., <xref rid="ece35862-bib-0040" ref-type="ref">2017</xref>; Schemske, Mittelbach, Cornell, Sobel, &#x00026; Roy, <xref rid="ece35862-bib-0045" ref-type="ref">2009</xref>), many studies of both plant&#x02013;herbivore (reviewed in Moles &#x00026; Ollerton, <xref rid="ece35862-bib-0029" ref-type="ref">2016</xref>) and predator&#x02013;prey (L&#x000f6;vei &#x00026; Ferrante, <xref rid="ece35862-bib-0023" ref-type="ref">2017</xref>) interactions have reported no clear latitudinal pattern in the strength of these interactions. The inconsistent outcomes of these studies may partly result from the variety of methods used to estimate intensity of trophic interactions (Anstett, Nunes, Baskett, &#x00026; Kotanen, <xref rid="ece35862-bib-0003" ref-type="ref">2016</xref>; Roslin et al., <xref rid="ece35862-bib-0040" ref-type="ref">2017</xref>).</p><p>To overcome the potentially distorting effects of nonuniform methods, Roslin et al. (<xref rid="ece35862-bib-0040" ref-type="ref">2017</xref>) conducted a global study on geographical patterns in predator&#x02013;prey interactions, based upon exposure of identical plasticine caterpillars at multiple study sites. In line with theoretical predictions (Schemske et al., <xref rid="ece35862-bib-0045" ref-type="ref">2009</xref>), the observed predation rates decreased from low to high latitudes. However, this decrease was due to changes in arthropod predation, whereas bird predation showed no statistically significant latitudinal trend (Roslin et al., <xref rid="ece35862-bib-0040" ref-type="ref">2017</xref>). The latter result seems surprising, because birds in tropical forests were estimated to consume 2.5 times more arthropod biomass (per hectare per year) when compared with birds in temperate and boreal forests, and 25 times more biomass when compared with birds in arctic tundra (Nyffeler, Sekercioglu, &#x00026; Whelan, <xref rid="ece35862-bib-0034" ref-type="ref">2018</xref>). Therefore, the predation pressure that birds impose on herbivorous insects could be expected to reach its maximum in the tropics. This disagreement regarding the global pattern in bird predation, as obtained by different methods, calls for a deeper exploration of methodological sources of variability in estimates of bird predation.</p><p>In addition to the methods employed, the biological and ecological sources of variation may have contributed to the different outcomes in studies that explored latitudinal patterns in predator&#x02013;prey interactions. Attack rates on model prey with the same appearance may vary among predator individuals and species, owing to differences in perception, experience, preference, and hunger level, as well as the ability of predators to recognize and discriminate prey. Predation rates also depend on many environmental characteristics, such as visual backgrounds and light conditions, which differ considerably among habitats (Endler, <xref rid="ece35862-bib-0012" ref-type="ref">1993</xref>; Ruxton, Allen, Sherratt, &#x00026; Speed, <xref rid="ece35862-bib-0042" ref-type="ref">2018</xref>). In particular, prey visual appearance is subject to substantial temporal and spatial changes due to background and ambient light availability (Th&#x000e9;ry &#x00026; Gomez, <xref rid="ece35862-bib-0052" ref-type="ref">2010</xref>). Therefore, variation in the illumination regime, both between and within habitats, may cause considerable differences in predation rates on the same kind of prey. For example, predation intensity on the same object can differ between illuminated and shady environments (Cheng et al., <xref rid="ece35862-bib-0008" ref-type="ref">2018</xref>; Rojas, Rautiala, &#x00026; Mappes, <xref rid="ece35862-bib-0039" ref-type="ref">2014</xref>), and variations in ultraviolet light may considerably affect the search behavior of insectivorous birds (Church, Bennett, Cuthill, &#x00026; Partridge, <xref rid="ece35862-bib-0009" ref-type="ref">1998</xref>).</p><p>Bird responses to prey that differ in appearance, including coloration, are influenced by previous experience (Ruxton et al., <xref rid="ece35862-bib-0042" ref-type="ref">2018</xref>). The experience of birds in a certain habitat depends on the composition of the local prey community, and particularly on the variability in coloration of local prey species, which may differ between tropical and temperate sites (Adams, Kang, &#x00026; June&#x02010;Wells, <xref rid="ece35862-bib-0001" ref-type="ref">2014</xref>). Great environmental variability was found to reduce the avoidance of novel foods by birds (Greenberg &#x00026; Mettke&#x02010;Hofman, <xref rid="ece35862-bib-0016" ref-type="ref">2001</xref>, and references therein). These results suggest that birds in tropics&#x02014;the region with the highest biodiversity (Willig, Kaufman, &#x00026; Stevens, <xref rid="ece35862-bib-0057" ref-type="ref">2003</xref>)&#x02014;will accept a wider range of prey types, and a wider range of colors in particular, when compared with birds in other biomes.</p><p>Rates of predation on differently colored prey in natural environments may also depend on the time relative to bird's breeding season, because young na&#x000ef;ve birds strongly differ from adult birds in their responses to a certain prey appearance (Ruxton et al., <xref rid="ece35862-bib-0042" ref-type="ref">2018</xref>; Mappes, Kokko, Ojala, &#x00026; Lindstr&#x000f6;m, <xref rid="ece35862-bib-0026" ref-type="ref">2014</xref>). In addition, the responses of predators to prey coloration depend on the characteristics of predator color vision, which differ considerably both between major groups of predators (arthropods, birds, mammals, and reptiles) and within these groups (Th&#x000e9;ry &#x00026; Gomez, <xref rid="ece35862-bib-0052" ref-type="ref">2010</xref>). Among animals preying on insects, discrimination of colors plays major role in predatory behavior of birds (Th&#x000e9;ry &#x00026; Gomez, <xref rid="ece35862-bib-0052" ref-type="ref">2010</xref>). Arthropod predators rely mostly on chemical cues in prey search and discrimination (Traniello, <xref rid="ece35862-bib-0053" ref-type="ref">1989</xref>; Zvereva &#x00026; Kozlov, <xref rid="ece35862-bib-0058" ref-type="ref">2016</xref>); nevertheless, many arthropod species possess color vision (Briscoe &#x00026; Chittka, <xref rid="ece35862-bib-0006" ref-type="ref">2001</xref>), and some of them use prey coloration in their foraging behavior (Taylor, Maier, Byrne, Amin, &#x00026; Morehouse, <xref rid="ece35862-bib-0051" ref-type="ref">2014</xref>). We therefore suggest that the use of a set of different prey items (instead of prey of one type) would generate more robust inferences regarding variation in predation rates among different environments.</p><p>In this study, we endeavored to advance the understanding of factors shaping global latitudinal pattern in top&#x02010;down control of herbivorous insects. We conducted experiments with model prey of eight different colors to test the following hypotheses: (a) Predators differentially attack prey of different colors; (b) avian and arthropod predators differ in their responses to colors of model prey; (c) the attack rates on model prey of different colors vary among sites according to the latitude and climate of the site; and (d) the overall rates of predation decrease from low to high latitudes.</p></sec><sec sec-type="materials-and-methods" id="ece35862-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35862-sec-0003"><label>2.1</label><title>Experimental design</title><p>The experiments were conducted in 2017&#x02013;2018 using a standardized method in 11 sites worldwide, from 33&#x000b0;57&#x02032;S to 67&#x000b0;38&#x02032;N (Figure <xref rid="ece35862-fig-0001" ref-type="fig">1</xref>), representing cold (three sites), temperate (five sites), and tropical (three sites) climates; climatic zones were distinguished based on average midsummer temperatures (Table <xref rid="ece35862-tbl-0002" ref-type="table">A1</xref> in <xref rid="ece35862-app-0001" ref-type="app">Appendix</xref>). The study sites were selected in natural forest environments representative for each geographic zone; more details of vegetation type in each site are provided in Table <xref rid="ece35862-tbl-0002" ref-type="table">A1</xref>. At each site, five mature individuals of each of the three most common woody species (15 trees in total) were haphazardly chosen for the experiment; the selected trees were situated more than 5&#x000a0;m apart.</p><fig fig-type="Figure" xml:lang="en" id="ece35862-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Location of the study sites. For more information, consult Table <xref rid="ece35862-tbl-0002" ref-type="table">A1</xref> in <xref rid="ece35862-app-0001" ref-type="app">Appendix</xref>
+</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-14273-g001"/></fig><p>Model caterpillars were made from soft modeling clay of eight colors (Figure <xref rid="ece35862-fig-0002" ref-type="fig">2</xref>) announced to be nontoxic and odorless (Chemical plant &#x0201c;Luch,&#x0201d; Yaroslavl, Russia), which had been provided to each researcher participating in the experiment. Colors were selected to cover the entire spectra from short&#x02010;wave to long&#x02010;wave, with black and white as not colored but contrasting in luminance. Model caterpillars of a standard size (25&#x02013;30&#x000a0;mm length and 4&#x02013;5&#x000a0;mm diameter) were built over a wire of 0.3&#x02013;0.5&#x000a0;mm in diameter (Figure <xref rid="ece35862-fig-0002" ref-type="fig">2</xref>). Eight caterpillars (one of each color) were attached, individually, along thin branches of each of 15 selected trees (120 caterpillars at each site). The models were placed in the outer part of the crown at a height of 1.5&#x02013;2&#x000a0;m and not less than 20&#x000a0;cm apart (Figure <xref rid="ece35862-fig-0003" ref-type="fig">3</xref>a). The two first inventories were conducted at three&#x02010;day intervals, whereas the following records were conducted at one&#x02010; or two&#x02010;week intervals, depending on the intensity of predation. The only exception was the site in Georgia (Asia), where a single record was made 10&#x000a0;days after the establishment of the experiment. The total duration of the experiment was 64&#x000a0;days, on average, and varied from 10 to 118&#x000a0;days (Table <xref rid="ece35862-tbl-0002" ref-type="table">A1</xref>) depending on the logistic circumstances of the observer. In ten of the 11 sites, the observations were long enough to account for seasonal changes in bird predation and preferences (described, e.g., by Mappes et al., <xref rid="ece35862-bib-0026" ref-type="ref">2014</xref>). During each record, all marks found on model caterpillars were attributed to a certain group of predators according to Low, Sam, McArthur, Posa, and Hochuli (<xref rid="ece35862-bib-0024" ref-type="ref">2014</xref>), and marks of each type (Figure <xref rid="ece35862-fig-0003" ref-type="fig">3</xref>b&#x02013;d) were counted. The models that had damage marks were remolded or replaced if the damage was severe.</p><fig fig-type="Figure" xml:lang="en" id="ece35862-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>A set of plasticine caterpillars of eight different colors. This set was established on each of 15 trees per study site</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-14273-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="ece35862-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Examples (a) of the location of model caterpillars within a tree, five of eight colors are visible (site in Xishuangbanna, China) and of predation marks left by (b) birds, (c) arthropods, and (d) mammals</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-14273-g003"/></fig></sec><sec id="ece35862-sec-0004"><label>2.2</label><title>Plasticine color analysis</title><p>A photograph of uniform clay pieces of all eight colors was taken in RAW format using a Canon 6D camera under daylight spectrum illumination with a white reflectance standard. The image was processed using Adobe Photoshop CC, and the mean camera&#x02010;specific RGB component values for each piece of plasticine were recorded.</p><p>To summarize the luminance independent (chromatic) color measures, the RG and BY ratios were calculated from camera&#x02010;specific RGB component values (Table <xref rid="ece35862-tbl-0003" ref-type="table">A2</xref> in <xref rid="ece35862-app-0001" ref-type="app">Appendix</xref>), as follows: RG&#x000a0;=&#x000a0;(R&#x000a0;&#x02212;&#x000a0;G)/(R&#x000a0;+&#x000a0;G); BY&#x000a0;=&#x000a0;(B&#x000a0;&#x02212;&#x000a0;(R&#x000a0;+&#x000a0;G)/2)/(B&#x000a0;+&#x000a0;(R&#x000a0;+&#x000a0;G)/2) (Rothery, Scott, &#x00026; Morrell, <xref rid="ece35862-bib-0041" ref-type="ref">2017</xref>). These ratios describe the redness versus greenness (RG) and blueness versus yellowness (BY) of each color. We also calculated the luminance (achromatic measure) of each color as (R&#x000a0;+&#x000a0;G&#x000a0;+&#x000a0;B)/3 (Rothery et al., <xref rid="ece35862-bib-0041" ref-type="ref">2017</xref>) and expressed it as a percentage of the maximum component value, i.e., of 255 (Figure <xref rid="ece35862-fig-0004" ref-type="fig">4</xref>). We expected multiple predator species to attack our models; consequently, we did not attempt to transform the RGB values into an avian or other animal color space.</p><fig fig-type="Figure" xml:lang="en" id="ece35862-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Relative luminance (percentage of the maximum component value, i.e., of 255) of eight colors of plasticine used in the experiment</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-14273-g004"/></fig></sec><sec id="ece35862-sec-0005"><label>2.3</label><title>Statistical analysis</title><p>Attack rates (separately by birds and by arthropod predators, and by all predators combined) were calculated as the sum of all attack marks by the respective category of predators on each model for the entire observation period, divided by the total length of the observation period in days. Attacks by mammal and reptile predators were too rare (see Section <xref rid="ece35862-sec-0005" ref-type="sec">3</xref>) to conduct separate analyses.</p><p>We analyzed the effects of different factors on predator attack rates by mixed model ANOVA (SAS GLIMMIX procedure; SAS, <xref rid="ece35862-bib-0044" ref-type="ref">2009</xref>) with climate zone (cold, temperate, and tropical), site nested within climate zone, color of model and color by climate zone interaction as fixed effects, and tree species nested within each site and tree individual nested within species as random effects. We increased the accuracy of the fixed effects <italic>F</italic> tests by adjusting the standard errors and denominator degrees of freedom using the latest version of the method of Kenward and Roger (<xref rid="ece35862-bib-0020" ref-type="ref">2009</xref>). The significance of random effects was explored by a likelihood ratio test (Stroup, <xref rid="ece35862-bib-0050" ref-type="ref">2013</xref>). To evaluate latitudinal patterns, we calculated Pearson product&#x02013;moment correlation coefficients between the estimated marginal means (obtained from mixed model ANOVA described above) of site&#x02010;specific attack rates on model prey of all colors together, as well as on models of two colors with most contrasting luminance (black and white).</p><p>The relative frequencies of predator attacks on models of different colors were quantified as the percentages of attacks on models of each color among the sum of attacks on models of all eight colors. The &#x0201c;preference&#x0201d; or &#x0201c;avoidance&#x0201d; was considered statistically significant if the recorded frequency of attacks differed (Fisher exact test, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05) from 0.125 (i.e., from the probability of attack expected at random). No arthropod attacks were recorded at three sites; therefore, the color&#x02010;specific attack rates for arthropod predators were estimated for eight sites only.</p><p>To account for possible directional changes in the intensity of predation in the course of the experiment due to birds learning that the artificial prey offer no nutritional reward (M&#x000e4;ntyl&#x000e4; et al., <xref rid="ece35862-bib-0025" ref-type="ref">2008</xref>), we calculated site&#x02010;specific means of predation rates (attacks per day) for the first record (usually made after 3&#x000a0;days of exposure), for all other records, and for the last record separately, and compared these means by the signed&#x02010;rank test.</p><p>The associations between the frequencies of attacks on models of different colors with the chromatic (RG, BY) and achromatic (luminance) characteristics of those colors were explored by calculating Pearson product&#x02013;moment correlation coefficients.</p></sec></sec><sec sec-type="results" id="ece35862-sec-0006"><label>3</label><title>RESULTS</title><p>Of the 1,320 model prey exposed at the 11 sites, 531 (40.2%) were attacked at least once by birds, 366 (27.7%) by arthropods, 15 by mammals (1.1%), and 28 (2.1%) by other predators.</p><p>Across all study sites, attack rates of birds and arthropod predators based on the first record did not differ from either all other records combined (<italic>S</italic>&#x000a0;=&#x000a0;0.5, <italic>p</italic>&#x000a0;=&#x000a0;1 and <italic>S</italic>&#x000a0;=&#x000a0;5.5, <italic>p</italic>&#x000a0;=&#x000a0;.57, respectively) or from the very last record (<italic>S</italic>&#x000a0;=&#x000a0;1.5, <italic>p</italic>&#x000a0;=&#x000a0;.92 and <italic>S</italic>&#x000a0;=&#x000a0;10, <italic>p</italic>&#x000a0;=&#x000a0;.11, respectively), indicating that predators did not learn to avoid plasticine prey.</p><p>The attack rates varied among the climate zones and among the sites nested within climate zones for both avian and arthropod predators, as well as for all predators combined (Table <xref rid="ece35862-tbl-0001" ref-type="table">1</xref>). Bird predation was lowest, whereas arthropod and total predation were highest in the tropics when compared with both cold and temperate sites (Figure <xref rid="ece35862-fig-0005" ref-type="fig">5</xref>). Model color influenced bird predation rates, but did not affect arthropod predation rates (Table <xref rid="ece35862-tbl-0001" ref-type="table">1</xref>). The attack rates on models of different colors varied among the climatic zones for bird predation, but did not vary for arthropod predation (interaction terms in Table <xref rid="ece35862-tbl-0001" ref-type="table">1</xref>). The attack rates by bird and arthropod predators, as well as by all predators combined, also varied among individual trees, while the effect of tree species was marginally significant for bird predation only (Table <xref rid="ece35862-tbl-0001" ref-type="table">1</xref>).</p><table-wrap id="ece35862-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Sources of variation in the attack rates on plasticine caterpillars of different colors (mixed model ANOVA, type III tests)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Effect</th><th align="left" rowspan="2" valign="bottom" colspan="1">Source of variation</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Birds</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Arthropod predators</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">All predators</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Test statistics</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic> value</th><th align="left" valign="bottom" rowspan="1" colspan="1">Test statistics</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic> value</th><th align="left" valign="bottom" rowspan="1" colspan="1">Test statistics</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>p</italic> value</th></tr></thead><tbody><tr><td align="left" rowspan="4" colspan="1">Fixed</td><td align="left" rowspan="1" colspan="1">Climate zone</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>2, 22</sub>&#x000a0;=&#x000a0;4.75</td><td align="char" char="." rowspan="1" colspan="1">.019</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>2, 22</sub>&#x000a0;=&#x000a0;35.8</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.0001</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>2, 22</sub>&#x000a0;=&#x000a0;9.43</td><td align="char" char="." rowspan="1" colspan="1">.0011</td></tr><tr><td align="left" rowspan="1" colspan="1">Color</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>7, 1.134</sub>&#x000a0;=&#x000a0;2.30</td><td align="char" char="." rowspan="1" colspan="1">.025</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>7, 1.134</sub>&#x000a0;=&#x000a0;1.89</td><td align="char" char="." rowspan="1" colspan="1">.07</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>7, 1.134</sub>&#x000a0;=&#x000a0;3.19</td><td align="char" char="." rowspan="1" colspan="1">.0024</td></tr><tr><td align="left" rowspan="1" colspan="1">Climate zone&#x000a0;&#x000d7;&#x000a0;Color</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>14, 1.134</sub>&#x000a0;=&#x000a0;1.96</td><td align="char" char="." rowspan="1" colspan="1">.018</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>14, 1.134</sub>&#x000a0;=&#x000a0;0.85</td><td align="char" char="." rowspan="1" colspan="1">.61</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>14, 1.134</sub>&#x000a0;=&#x000a0;1.37</td><td align="char" char="." rowspan="1" colspan="1">.16</td></tr><tr><td align="left" rowspan="1" colspan="1">Site (Climate zone)</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>8, 22</sub>&#x000a0;=&#x000a0;3.94</td><td align="char" char="." rowspan="1" colspan="1">.005</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>8, 22</sub>&#x000a0;=&#x000a0;2.76</td><td align="char" char="." rowspan="1" colspan="1">.03</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>F</italic>
+<sub>8, 22</sub>&#x000a0;=&#x000a0;2.19</td><td align="char" char="." rowspan="1" colspan="1">.07</td></tr><tr><td align="left" rowspan="2" colspan="1">Random</td><td align="left" rowspan="1" colspan="1">Tree species (Site)</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>&#x003c7;</italic>
+<sup>2</sup>
+<sub>1</sub>&#x000a0;=&#x000a0;3.40</td><td align="char" char="." rowspan="1" colspan="1">.065</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>&#x003c7;</italic>
+<sup>2</sup>
+<sub>1</sub>&#x000a0;=&#x000a0;0.00</td><td align="char" char="." rowspan="1" colspan="1">.98</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>&#x003c7;</italic>
+<sup>2</sup>
+<sub>1</sub>&#x000a0;=&#x000a0;1.91</td><td align="char" char="." rowspan="1" colspan="1">.17</td></tr><tr><td align="left" rowspan="1" colspan="1">Tree (Species&#x000a0;&#x000d7;&#x000a0;Site)</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>&#x003c7;</italic>
+<sup>2</sup>
+<sub>1</sub>&#x000a0;=&#x000a0;7.35</td><td align="char" char="." rowspan="1" colspan="1">.0067</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>&#x003c7;</italic>
+<sup>2</sup>
+<sub>1</sub>&#x000a0;=&#x000a0;21.2</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.0001</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>&#x003c7;</italic>
+<sup>2</sup>
+<sub>1</sub>&#x000a0;=&#x000a0;34.5</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.0001</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35862-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Attack rates (+ SE) of different groups of predators on plasticine models in cold, temperate, and tropical climates (all colors combined). Bars with different letters indicate significant (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05) differences between climates</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-9-14273-g005"/></fig><p>When we compared the distributions of predator attacks among models of different colors, the proportions of predator attacks were highest on black and brown models in cold climates and on black models in temperate climates (Figure <xref rid="ece35862-fig-0006" ref-type="fig">6</xref>a,b,d,e). In tropical climates, birds disproportionally frequently attacked white models (Figure <xref rid="ece35862-fig-0006" ref-type="fig">6</xref>c), whereas arthropods attacked models of all colors (except for yellow) at similar rates (Figure <xref rid="ece35862-fig-0006" ref-type="fig">6</xref>f). Attacks on yellow models by both bird and arthropod predators were less frequent than would be expected at random in all climate zones (Figure <xref rid="ece35862-fig-0006" ref-type="fig">6</xref>a&#x02013;f). The frequencies of predator attacks on models of other colors (green, blue, violet, and red) generally did not differ from those expected at random (Figure <xref rid="ece35862-fig-0006" ref-type="fig">6</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece35862-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Distribution of predator attacks among different colors of model prey in different climates. Asterisks indicate significant (Fisher exact test, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05) differences from the equal probability distribution (shown by the horizontal line). Colors are ordered according to their luminance (consult Figure <xref rid="ece35862-fig-0004" ref-type="fig">4</xref>), from highest (white) to lowest (black)</p></caption><graphic id="nlm-graphic-13" xlink:href="ECE3-9-14273-g006"/></fig><p>The proportions of attacks on models of different colors did not correlate with the chromatic characteristics of the models (BY and RG) neither for bird nor arthropod predators in any of the climate zones (data not shown). On the contrary, the probability of an attack on a model prey was negatively correlated with the achromatic characteristic (luminance) of the color in cold environments for both bird (<italic>r</italic>&#x000a0;=&#x000a0;&#x02212;.78, <italic>n</italic>&#x000a0;=&#x000a0;8 colors, <italic>p</italic>&#x000a0;=&#x000a0;.02) and arthropod predators (<italic>r</italic>&#x000a0;=&#x000a0;&#x02212;.81, <italic>n</italic>&#x000a0;=&#x000a0;8 colors, <italic>p</italic>&#x000a0;=&#x000a0;.02); in temperate environments for birds only (birds: <italic>r</italic>&#x000a0;=&#x000a0;&#x02212;.93, <italic>n</italic>&#x000a0;=&#x000a0;8 colors, <italic>p</italic>&#x000a0;=&#x000a0;.001; arthropods: <italic>r</italic>&#x000a0;=&#x000a0;&#x02212;.26, <italic>n</italic>&#x000a0;=&#x000a0;8 colors, <italic>p</italic>&#x000a0;=&#x000a0;.54), and was nonsignificant in tropical environments for either birds or arthropods (<italic>r</italic>&#x000a0;=&#x000a0;.24 and .24, <italic>n</italic>&#x000a0;=&#x000a0;8 colors, <italic>p</italic>&#x000a0;=&#x000a0;.56 and .59, respectively).</p><p>The average site&#x02010;specific attack rates by birds (summed across model prey of all colors for the entire observation period) increased with latitude, while the arthropod predation decreased; as a result, when the attacks by all predators were combined, the correlation between predation and latitude appeared nonsignificant (Figure <xref rid="ece35862-fig-0007" ref-type="fig">7</xref>a&#x02013;c). When these correlations were calculated based on the first record only (3&#x000a0;days in most sites), the correlation for bird predation became nonsignificant (<italic>r</italic>&#x000a0;=&#x000a0;&#x02212;.25, <italic>n</italic>&#x000a0;=&#x000a0;11 sites, <italic>p</italic>&#x000a0;=&#x000a0;.46), whereas the correlation for arthropod predators remained marginally significant (<italic>r</italic>&#x000a0;=&#x000a0;&#x02212;.58, <italic>n</italic>&#x000a0;=&#x000a0;11 sites, <italic>p</italic>&#x000a0;=&#x000a0;.06). The bird predation rates on black and on white model prey (extremes in luminance) demonstrated different latitudinal patterns: The attack rates on black models significantly increased with an increase in latitude (<italic>r</italic>&#x000a0;=&#x000a0;.69, <italic>n</italic>&#x000a0;=&#x000a0;11 sites, <italic>p</italic>&#x000a0;=&#x000a0;.02), whereas the attack rates on white models did not correlate with latitude (<italic>r</italic>&#x000a0;=&#x000a0;.08, <italic>n</italic>&#x000a0;=&#x000a0;11 sites, <italic>p</italic>&#x000a0;=&#x000a0;.81).</p><fig fig-type="Figure" xml:lang="en" id="ece35862-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Correlation between predator attack rates (estimated marginal means; all colors summed for each tree) with the latitude of the site (a)&#x02014;birds, (b)&#x02014;arthropod predators, (c)&#x02014;all predators (including birds, arthropods, mammals, and others)</p></caption><graphic id="nlm-graphic-15" xlink:href="ECE3-9-14273-g007"/></fig></sec><sec sec-type="discussion" id="ece35862-sec-0007"><label>4</label><title>DISCUSSION</title><sec id="ece35862-sec-0008"><label>4.1</label><title>Effects of model color on predator attacks</title><p>The increasing use of artificial caterpillars in ecological studies, and particularly in those studies addressing spatial patterns in predation rates (reviewed by L&#x000f6;vei &#x00026; Ferrante, <xref rid="ece35862-bib-0023" ref-type="ref">2017</xref>), underlines the urgent need to learn how the characteristics of a model prey influence its attractiveness for predators in different environments. The exposure of differently colored model prey in multiple sites around the globe has allowed us to uncover interactive effects of environmental properties and prey color on predator attack rates.</p><p>Our finding of differential responses of birds to colors of model prey is in agreement with our expectations, because birds possess high capabilities for color discrimination, and the decisions regarding the suitability of food items made by both frugivorous and insectivorous birds greatly depend on food coloration (Th&#x000e9;ry &#x00026; Gomez, <xref rid="ece35862-bib-0052" ref-type="ref">2010</xref>). However, negative correlation between probability of bird attack and prey luminance in cold and temperate climates, but not in tropical climate and, consequently, the different latitudinal trends in the frequencies of bird attacks on prey with contrasting luminance, to our knowledge, have not been reported earlier. We suggest that these discovered differential responses of birds to model luminance are associated with differences in the light regimes between the high&#x02010; and low&#x02010;latitude environments: In tropical forests, only 1%&#x02013;5% of light transmits through the canopies, while in boreal forests it may be as high as 65% (Messier, Posada, Aubin, &#x00026; Beaudet, <xref rid="ece35862-bib-0027" ref-type="ref">2009</xref>). In sparse boreal and temperate forests, a high brightness contrast between black prey and the visual background increases the probability of detection and elicits attacks by predators (Th&#x000e9;ry &#x00026; Gomez, <xref rid="ece35862-bib-0052" ref-type="ref">2010</xref>). By contrast, in the shady understorey of dense tropical forests, white models showing the highest luminance were the most frequently attacked by birds. This finding is in line with the results of Cheng et al. (<xref rid="ece35862-bib-0008" ref-type="ref">2018</xref>), who found that black butterfly models in tropical forests experienced lower predation rates in shady habitats than in open habitats, whereas white models showed the opposite pattern.</p><p>In our tropical sites, models of different colors were generally attacked at similar rates (except for the brightest, most attacked, white models), which may be explained by a decreased ability of birds to discriminate colors in the understory of tropical forest due to low light intensity (Gomez et al., <xref rid="ece35862-bib-0015" ref-type="ref">2014</xref>; Olsson, Lind, &#x00026; Kelber, <xref rid="ece35862-bib-0035" ref-type="ref">2015</xref>). Similar attack frequencies on prey of different colors in our tropical sites might also be attributable, in part, to a higher variability in coloration of insects in the tropics, as demonstrated, for example, for butterflies (Adams et al., <xref rid="ece35862-bib-0001" ref-type="ref">2014</xref>). Birds in tropical forests are therefore faced with a higher variety of prey colors than birds in temperate and boreal forests, where models of some colors can be rejected by birds due to neophobia, that is, the avoidance of an object solely because it has never been experienced (Greenberg &#x00026; Mettke&#x02010;Hofman, <xref rid="ece35862-bib-0016" ref-type="ref">2001</xref>). Birds growing in diverse environments are known to exhibit decreased neophobia (Greenberg &#x00026; Mettke&#x02010;Hofman, <xref rid="ece35862-bib-0016" ref-type="ref">2001</xref>); therefore, birds living in tropical forests with extremely high biodiversity (Willig et al., <xref rid="ece35862-bib-0057" ref-type="ref">2003</xref>) may accept prey of a wider range of colors and patterns.</p><p>Yellow models were consistently attacked at low rates by birds across all our sites. Yellow coloration, along with other long&#x02010;wavelength colors, is an effective warning signal, in particular because yellow is highly conspicuous when viewed against green foliage across a variety of habitats (Stevens &#x00026; Ruxton, <xref rid="ece35862-bib-0049" ref-type="ref">2012</xref>). Birds are usually not attracted by yellow fruits (Sinnott&#x02010;Armstrong et al., <xref rid="ece35862-bib-0046" ref-type="ref">2018</xref>) and avoid yellow bird feeders (Rothery et al., <xref rid="ece35862-bib-0041" ref-type="ref">2017</xref>). Interestingly, we found that yellow models were also attacked at low rates by arthropod predators in all climatic zones, indicating that yellow coloration provides effective and universal protection for prey against diverse predators in forests across a large latitudinal gradient.</p><p>Our results suggest that the strongest difference in the probability of bird attack on model prey was observed for colors that most contrasted in luminance, whereas the probability of attacks on other colors did not differ from random expectation. Taking these results together with the observed lack of correlations between prey attack rates and the chromatic characteristics of models indicates that the luminance of the prey, rather than the color itself, is the most important determinant of predation rates in environments varying in background characteristics and ambient light availability. Similarly, Cheng et al. (<xref rid="ece35862-bib-0008" ref-type="ref">2018</xref>) concluded that tropical habitats that differ in light regime can have contrasting effects on prey luminance and therefore on predation risk. Luminance is especially important in the spatial vision of birds (Stevens &#x00026; Cuthill, <xref rid="ece35862-bib-0048" ref-type="ref">2006</xref>), and birds generally avoid objects with high reflectance. For example, tits show an initial avoidance of glossy prey (Doktorovov&#x000e1; et al., <xref rid="ece35862-bib-0011" ref-type="ref">2019</xref>; Waldron et al., <xref rid="ece35862-bib-0055" ref-type="ref">2017</xref>). The brightness contrast between prey and background, rather than the color contrast, may function as a warning signal also for color&#x02010;blind predators (Prudic, Skemp, &#x00026; Papaj, <xref rid="ece35862-bib-0037" ref-type="ref">2007</xref>).</p><p>Many invertebrate predators possess color vision (Briscoe &#x00026; Chittka, <xref rid="ece35862-bib-0006" ref-type="ref">2001</xref>), and some even use prey colors in their foraging tactics (Taylor et al., <xref rid="ece35862-bib-0051" ref-type="ref">2014</xref>). However, among other cues, colors generally do not play an important role in prey detection and discrimination by arthropod predators (Zvereva &#x00026; Kozlov, <xref rid="ece35862-bib-0058" ref-type="ref">2016</xref>). Ants, for example, which contribute to the vast majority of arthropod predation in the tropics (Sam, Remmel, &#x00026; Molleman, <xref rid="ece35862-bib-0043" ref-type="ref">2015</xref>), primarily use chemical cues in their foraging behavior (Traniello, <xref rid="ece35862-bib-0053" ref-type="ref">1989</xref>). This explains the nonsignificant effects of prey model color on the attack rates of arthropod predators across climates. Nevertheless, in cold climates, low&#x02010;luminance models (black and brown) had a higher probability of arthropod predation, while high&#x02010;luminance models (white and yellow) had a lower probability (Figure <xref rid="ece35862-fig-0004" ref-type="fig">4</xref>d). This indicates that the nonchromatic characteristics of coloration affect the detectability of prey not only by birds, but also by arthropod predators in high light environments, where low&#x02010;luminance colors are most conspicuous. Thus, prey luminance may constitute an important factor affecting overall prey mortality.</p><p>The greater number of marks left by arthropod predators on dark models in cold climates may also reflect, in part, the effects of temperature on modeling clay. The plasticine becomes harder at low temperatures, so the visibility of arthropod predation marks decreases with decreases in ambient temperature (Muchula, Xie, &#x00026; Gurr, <xref rid="ece35862-bib-0031" ref-type="ref">2019</xref>). Darker objects also heat up more rapidly in sunlight when compared with paler objects, and the difference in temperatures between black and light&#x02010;colored objects increases with decreasing air temperature (Clusella Trullas, Wyk, &#x00026; Spotila, <xref rid="ece35862-bib-0010" ref-type="ref">2007</xref>). Therefore, the marks of arthropod predators in cold climates may be stronger, and therefore easier to distinguish, on black and brown models than on models of colors with higher luminance.</p><p>We conclude that attack rates on model prey of different colors varied geographically and according to predator identity (Table <xref rid="ece35862-tbl-0001" ref-type="table">1</xref>, Figure <xref rid="ece35862-fig-0004" ref-type="fig">4</xref>). This supports the notion that properties of the visual background and ambient light conditions, together with differences in species composition, perceptive abilities, experiences, preferences, and demands of predators, as well as in the diversity of potential prey, can modify selection and the relative protective values of prey color patterns (Endler, <xref rid="ece35862-bib-0012" ref-type="ref">1993</xref>; Greenberg &#x00026; Mettke&#x02010;Hofman, <xref rid="ece35862-bib-0016" ref-type="ref">2001</xref>; Ruxton et al., <xref rid="ece35862-bib-0042" ref-type="ref">2018</xref>; Prudic et al., <xref rid="ece35862-bib-0037" ref-type="ref">2007</xref>; Wennersten &#x00026; Forsman, <xref rid="ece35862-bib-0056" ref-type="ref">2009</xref>; Th&#x000e9;ry &#x00026; Gomez, <xref rid="ece35862-bib-0052" ref-type="ref">2010</xref>). It remains to be investigated whether distributions of different colors across natural communities of insect larvae parallel the spatial differences in selection indicated by our results, as previously demonstrated in other systems (Karpestam, Merilaita, &#x00026; Forsman, <xref rid="ece35862-bib-0019" ref-type="ref">2013</xref>).</p></sec><sec id="ece35862-sec-0009"><label>4.2</label><title>Variation in the intensity of predator attacks among tree species and among individual trees</title><p>We found a marginally significant variation in bird predation rates among tree species on which our models were attached. This result is in line with the studies of Muiruri, Rainio, and Koricheva (<xref rid="ece35862-bib-0032" ref-type="ref">2016</xref>) and of Wennersten and Forsman (<xref rid="ece35862-bib-0056" ref-type="ref">2009</xref>) and may be explained by the strong foraging preferences of insectivorous birds for certain tree species (Gabbe, Robinson, &#x00026; Brawn, <xref rid="ece35862-bib-0014" ref-type="ref">2002</xref>; Holmes &#x00026; Robinson, <xref rid="ece35862-bib-0017" ref-type="ref">1981</xref>). In addition, variation in canopy structure among tree species, including differences in crown density, complexity, and color, may affect both the detectability and the prey accessibility (Muiruri et al., <xref rid="ece35862-bib-0032" ref-type="ref">2016</xref>; &#x00160;ipo&#x00161; &#x00026; Kindlmann, <xref rid="ece35862-bib-0047" ref-type="ref">2013</xref>). Furthermore, both bird and arthropod predation significantly varied among individual trees, presumably due to both the obvious environmental heterogeneity of each study site and the position of a particular tree in relation to the foraging territories of predators (e.g., its nearness to bird and ant nests).</p><p>Thus, natural variation calls for the use of several plant species and considerable numbers of microhabitat replicates when conducting macroecological studies employing artificial prey.</p></sec><sec id="ece35862-sec-0010"><label>4.3</label><title>Geographic variation in the intensity of predator attacks</title><p>In line with the study by Roslin et al. (<xref rid="ece35862-bib-0040" ref-type="ref">2017</xref>), we found that attack rates by arthropod predators on model prey decreased from low to high latitudes. The tropics are habitats with a very high abundance and diversity of arthropod predators, especially ants and wasps, which dominate the predator communities in tropical forest understoreys (Floren, Biun, &#x00026; Linsenmair, <xref rid="ece35862-bib-0013" ref-type="ref">2002</xref>; Sam et al., <xref rid="ece35862-bib-0043" ref-type="ref">2015</xref>). More than a half of the studied ant species attack large caterpillars (Floren et al., <xref rid="ece35862-bib-0013" ref-type="ref">2002</xref>), and experiments with live insect prey have demonstrated higher predation rates by ants in the tropics than in temperate forests (Jeanne, <xref rid="ece35862-bib-0018" ref-type="ref">1979</xref>). Thus, the pattern revealed using plasticine caterpillars is likely to be a reliable reflection of the real latitudinal trends in arthropod predation on insect prey, which is shaped mostly by high arthropod predation in tropics.</p><p>However, a recent study showed a decreased visibility of ant attack marks when the attack took place at low temperatures (below 8&#x000b0;C), whereas no effect of temperature was observed on the probability of identifying visible attack marks when the attacks took place between 16 and 32&#x000b0;C (Muchula et al., <xref rid="ece35862-bib-0031" ref-type="ref">2019</xref>). This raised the possibility that part of arthropod predator attacks in cold climates, where temperatures during the summer season are frequently below 16&#x000b0;C, did not leave any visible marks on the plasticine models, thereby leading to an underestimation of arthropod predation rates at high latitudes. This potential bias may have partly contributed to the geographical pattern in arthropod predation observed in our study (Figure <xref rid="ece35862-fig-0006" ref-type="fig">6</xref>b) and in the study by Roslin et al. (<xref rid="ece35862-bib-0040" ref-type="ref">2017</xref>), making the detected poleward decline steeper than it might be when investigated using natural prey.</p><p>The direction of the latitudinal gradient in bird predation rates, which we found to be lowest in tropical sites, was in strikingly contrast to our expectations. The considerably higher density of insectivorous birds and the greater biomass of arthropods consumed by birds per hectare in tropical forests relative to temperate and boreal forests (Nyffeler et al., <xref rid="ece35862-bib-0034" ref-type="ref">2018</xref>) points to the strongest bird predation pressure on herbivorous insects in tropical forests. Nevertheless, the predation rates measured using model prey demonstrate either an absence of any latitudinal trend (Roslin et al., <xref rid="ece35862-bib-0040" ref-type="ref">2017</xref>) or a significant poleward increase in bird predation (this study).</p><p>This discrepancy may be explained by several factors. First, most of the studies on spatial patterns in predation conducted to date, including our study, employed prey items placed within reach of the observer (L&#x000f6;vei &#x00026; Ferrante, <xref rid="ece35862-bib-0023" ref-type="ref">2017</xref>), for example, below 1&#x000a0;m in the study by Roslin et al. (<xref rid="ece35862-bib-0040" ref-type="ref">2017</xref>). This may lead to an underestimation of bird predation in tropical forests, where both bird enclosures (van Bael, Brawn, &#x00026; Robinson, <xref rid="ece35862-bib-0054" ref-type="ref">2003</xref>) and model caterpillars (Loiselle &#x00026; Farji&#x02010;Brener, <xref rid="ece35862-bib-0022" ref-type="ref">2002</xref>) revealed higher rates of bird predation in the top canopy than in the lower forest strata. Model caterpillars placed in tropical forest understoreys sometimes showed no signs of bird predation (Sam et al., <xref rid="ece35862-bib-0043" ref-type="ref">2015</xref>). These results may be at least partly due to the higher abundance of natural prey in the top canopy than in the understorey of a tropical forest (van Bael et al., <xref rid="ece35862-bib-0054" ref-type="ref">2003</xref>; Basset et al., <xref rid="ece35862-bib-0004" ref-type="ref">2015</xref>).</p><p>Second, low bird attack rates in tropical forest understoreys may be explained by the low light intensity under the canopies of dense tropical forests, which may impair prey detectability (Gomez et al., <xref rid="ece35862-bib-0015" ref-type="ref">2014</xref>; Olsson et al., <xref rid="ece35862-bib-0035" ref-type="ref">2015</xref>). Thus, bird predation measured in the understoreys of tropical forests may be biased toward underestimation of habitat&#x02010;specific values, and this bias could contribute to the latitudinal pattern observed in our study. Although experimenting in top canopies is logistically challenging, we call for more studies comparing predation pressure on herbivorous insects in top canopies and understoreys in different geographic zones to obtain a more accurate estimate of habitat&#x02010;specific predation values. The understanding of changes in biotic interactions across the vertical dimension is important in explaining global biodiversity patterns, particularly those associated with environmental gradients, including disturbance, latitude, and elevation (Nakamura et al., <xref rid="ece35862-bib-0033" ref-type="ref">2017</xref>).</p><p>Despite the many potential confounding factors, a poleward increase in bird attacks on plasticine models may still reflect a real latitudinal pattern of bird predation on herbivorous insects. The densities of insectivorous birds may decrease with latitude at a lower rate than the density of potential prey. Also, a high abundance of alternative food in the tropics, such as fruits and nonherbivorous arthropods (e.g., ants and spiders; Cardoso, Pek&#x000e1;r, Jocqu&#x000e9;, &#x00026; Coddington, <xref rid="ece35862-bib-0007" ref-type="ref">2011</xref>; Floren et al., <xref rid="ece35862-bib-0013" ref-type="ref">2002</xref>), may decrease the predation pressure upon herbivorous insects.</p><p>One possible reason why we detected a significant poleward increase in bird predation, while Roslin et al. (<xref rid="ece35862-bib-0040" ref-type="ref">2017</xref>) did not find any latitudinal pattern, is that the prey exposure duration was much longer in our study than in the study by Roslin et al. (<xref rid="ece35862-bib-0040" ref-type="ref">2017</xref>) (64 vs. 4&#x000a0;days, on average, respectively). This possibility is supported by lack of a correlation between latitude and bird predation estimates based on the first record only, when our models were exposed for only 5.4&#x000a0;days, on average. Considerable seasonal variations in predation rates related to the breeding season of the most abundant insectivorous birds (e.g., Mappes et al., <xref rid="ece35862-bib-0026" ref-type="ref">2014</xref>; Remmel &#x00026; Tammaru, <xref rid="ece35862-bib-0038" ref-type="ref">2009</xref>) may distort geographical patterns when the start of an experiment in habitats that differ in seasonality is not adjusted precisely to a certain stage of the breeding season. Our study, in line with Muiruri et al. (<xref rid="ece35862-bib-0032" ref-type="ref">2016</xref>), showed that the rates of bird attacks on plasticine models did not decrease with the time of exposure, probably because avoidance learning of prey usually develops when associated with irritating or toxic compounds, while taste of plasticine is presumably neutral. Therefore, we conclude that exposure of prey during several weeks or even several months is critical for revealing macroecological patterns in bird predation on herbivorous insects, while for arthropod predation, the duration of the experiment appeared less important than it was for bird predation.</p><p>The paramount methodological advantage of our study that allowed the detection latitudinal patterns in bird predation was the use of model prey of different colors. Our results suggest that attack rates on the prey are differently affected by prey color in different environments and that summation of attacks on prey of different colors mitigates the effects of the environment on the probability of attack on a certain prey type. Thus, we are of the opinion that our experimental design provided more realistic site&#x02010;specific estimates of bird predation rates when compared to the use of prey of one color across different environments. We conclude that bird predation on herbivorous insects increases from the equator toward the poles, in an opposite direction to arthropod predation and opposite the predictions of the Latitudinal Biotic Interaction Hypothesis (Schemske et al., <xref rid="ece35862-bib-0045" ref-type="ref">2009</xref>). The contrasting latitudinal patterns found in the attack rates of bird and arthropod predators, thereby weaken the overall latitudinal trend in top&#x02010;down control of herbivorous insects.</p></sec></sec><sec sec-type="COI-statement" id="ece35862-sec-0011"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35862-sec-0012"><title>AUTHOR CONTRIBUTIONS</title><p>ELZ and MVK planned the study and wrote the first draft of the manuscript. ELZ, BC, TC, AF, JAH, LP, VP, NS, KJT, GX, VZ, and MVK performed the experiments. TK and MVK conducted statistical analyses. ELZ led the writing of the manuscript, and all authors contributed critically to the drafts and gave final approval for publication.</p></sec></body><back><ack id="ece35862-sec-0015"><title>ACKNOWLEDGMENTS</title><p>The authors were supported by multiple funding bodies, including Academy of Finland (projects 311929 and 316182), Spanish Ministry of Economy and Competitiveness (PCIN&#x02010;2016&#x02010;150), Community of Madrid (PEJD&#x02010;2017&#x02010;PRE/AMB&#x02010;3669), Chinese Academy of Sciences (2017XTBG&#x02010;T01 and West Light Foundation), Conselho Nacional de Pesquisa CNPq (grant 307210&#x02010;2016&#x02010;2), Coordena&#x000e7;&#x000e3;o de Aperfei&#x000e7;oamento de Pessoal de N&#x000ed;vel Superior (CAPES/PNPD), PELD/CNPq (no. 441703/2016&#x02010;0; site TANG), Consejo Nacional de Ciencia, Tecnolog&#x000ed;a e Innovaci&#x000f3;n del Per&#x000fa; (CONCYTEC) (grant 107&#x02010;2016&#x02010;FONDECYT&#x02010;ERANet&#x02010;LAC), and Linnaeus University. We are grateful to Instituto Estadual de Florestas for issuing a state permit, to D. Heese&#x02010;Krige and H. Schreuder for granting access to their land, and to M. J. Aguilar, Y. Antonini, T. N. Brandt, P. Chambi, C. Cardoso, R. Cruz, L. Forsman, M. Forsman, S. Forsman, Y. He, N. Henriques, V. Huaman, M. Mendez, A. Nina, D. Nunes, A. Popova, R. Souza, V. Sperandei, E. Valdes&#x02010;Correcher, and Y. Valdez for various help with the experiments.</p></ack><sec sec-type="data-availability" id="ece35862-sec-0014"><title>DATA AVAILABILITY STATEMENT</title><p>Data available from the Dryad Digital Repository: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.tx95x69sx" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.tx95x69sx</ext-link>
+</p></sec><ref-list content-type="cited-references" id="ece35862-bibl-0001"><title>REFERENCES</title><ref id="ece35862-bib-0001"><mixed-citation publication-type="journal" id="ece35862-cit-0001">
+<string-name>
+<surname>Adams</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>C. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>June&#x02010;Wells</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Are tropical butterflies more colorful?</article-title>
+<source xml:lang="en">Ecological Research</source>, <volume>29</volume>, <fpage>685</fpage>&#x02013;<lpage>691</lpage>. <pub-id pub-id-type="doi">10.1007/s11284-014-1154-1</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0002"><mixed-citation publication-type="journal" id="ece35862-cit-0002">
+<string-name>
+<surname>Adams</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2009</year>). <article-title>Is there more insect folivory in warmer temperate climates? A latitudinal comparison of insect folivory in eastern North America</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>97</volume>, <fpage>933</fpage>&#x02013;<lpage>940</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2745.2009.01523.x</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0003"><mixed-citation publication-type="journal" id="ece35862-cit-0003">
+<string-name>
+<surname>Anstett</surname>, <given-names>D. N.</given-names>
+</string-name>, <string-name>
+<surname>Nunes</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Baskett</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kotanen</surname>, <given-names>P. M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Sources of controversy surrounding latitudinal patterns in herbivory and defense</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>31</volume>, <fpage>789</fpage>&#x02013;<lpage>802</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2016.07.011</pub-id>
+<pub-id pub-id-type="pmid">27545844</pub-id></mixed-citation></ref><ref id="ece35862-bib-0004"><mixed-citation publication-type="journal" id="ece35862-cit-0004">
+<string-name>
+<surname>Basset</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Cizek</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Cuenoud</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Didham</surname>, <given-names>R. K.</given-names>
+</string-name>, <string-name>
+<surname>Novotny</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Odegaard</surname>, <given-names>F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Leponce</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>). <article-title>Arthropod distribution in a tropical rainforest: Tackling a four dimensional puzzle</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>10</volume>(<issue>12</issue>), <elocation-id>e0144110</elocation-id>.<pub-id pub-id-type="pmid">26633187</pub-id></mixed-citation></ref><ref id="ece35862-bib-0005"><mixed-citation publication-type="journal" id="ece35862-cit-0005">
+<string-name>
+<surname>Bj&#x000f6;rkman</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Berggren</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bylund</surname>, <given-names>H.</given-names>
+</string-name> (<year>2011</year>). <article-title>Causes behind insect folivory patterns in latitudinal gradients</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>99</volume>, <fpage>367</fpage>&#x02013;<lpage>369</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2745.2010.01707.x</pub-id>
+<pub-id pub-id-type="pmid">21479109</pub-id></mixed-citation></ref><ref id="ece35862-bib-0006"><mixed-citation publication-type="journal" id="ece35862-cit-0006">
+<string-name>
+<surname>Briscoe</surname>, <given-names>A. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chittka</surname>, <given-names>L.</given-names>
+</string-name> (<year>2001</year>). <article-title>The evolution of color vision in insects</article-title>. <source xml:lang="en">Annual Review of Entomology</source>, <volume>46</volume>, <fpage>471</fpage>&#x02013;<lpage>510</lpage>.</mixed-citation></ref><ref id="ece35862-bib-0007"><mixed-citation publication-type="journal" id="ece35862-cit-0007">
+<string-name>
+<surname>Cardoso</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Pek&#x000e1;r</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jocqu&#x000e9;</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coddington</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Global patterns of guild composition and functional diversity of spiders</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>6</volume>, <elocation-id>e21710</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0021710</pub-id>
+<pub-id pub-id-type="pmid">21738772</pub-id></mixed-citation></ref><ref id="ece35862-bib-0008"><mixed-citation publication-type="journal" id="ece35862-cit-0008">
+<string-name>
+<surname>Cheng</surname>, <given-names>W. D.</given-names>
+</string-name>, <string-name>
+<surname>Xing</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bonebrake</surname>, <given-names>T. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nakamura</surname>, <given-names>A. K.</given-names>
+</string-name> (<year>2018</year>). <article-title>Dark butterflies camouflaged from predation in dark tropical forest understories</article-title>. <source xml:lang="en">Ecological Entomology</source>, <volume>43</volume>, <fpage>304</fpage>&#x02013;<lpage>309</lpage>. <pub-id pub-id-type="doi">10.1111/een.12499</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0009"><mixed-citation publication-type="journal" id="ece35862-cit-0009">
+<string-name>
+<surname>Church</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>, <given-names>A. T. D.</given-names>
+</string-name>, <string-name>
+<surname>Cuthill</surname>, <given-names>I. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Partridge</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>1998</year>). <article-title>Ultraviolet cues affect the foraging behaviour of blue tits</article-title>. <source xml:lang="en">Proceedings of the Royal Society of London. Series B: Biological Sciences</source>, <volume>265</volume>(<issue>1405</issue>), <fpage>1509</fpage>&#x02013;<lpage>1514</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.1998.0465</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0010"><mixed-citation publication-type="journal" id="ece35862-cit-0010">
+<string-name>
+<surname>Clusella Trullas</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>van Wyk</surname>, <given-names>J. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Spotila</surname>, <given-names>J. R.</given-names>
+</string-name> (<year>2007</year>). <article-title>Thermal melanism in ectotherms</article-title>. <source xml:lang="en">Journal of Thermal Biology</source>, <volume>32</volume>, <fpage>235</fpage>&#x02013;<lpage>245</lpage>. <pub-id pub-id-type="doi">10.1016/j.jtherbio.2007.01.013</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0011"><mixed-citation publication-type="journal" id="ece35862-cit-0011">
+<string-name>
+<surname>Doktorovov&#x000e1;</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Exnerov&#x000e1;</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hotov&#x000e1; Sv&#x000e1;dov&#x000e1;</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>&#x00160;tys</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Adamov&#x000e1;&#x02010;Je&#x0017e;ov&#x000e1;</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Zverev</surname>, <given-names>V.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zvereva</surname>, <given-names>E. L.</given-names>
+</string-name> (<year>2019</year>). <article-title>Differential bird responses to colour morphs of an aposematic leaf beetle may affect variation in morph frequencies in polymorphic prey populations</article-title>. <source xml:lang="en">Evolutionary Biology</source>, <volume>46</volume>, <fpage>35</fpage>&#x02013;<lpage>46</lpage>. <pub-id pub-id-type="doi">10.1007/s11692-018-9465-8</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0012"><mixed-citation publication-type="journal" id="ece35862-cit-0012">
+<string-name>
+<surname>Endler</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>1993</year>). <article-title>The color of light in forests and its implications</article-title>. <source xml:lang="en">Ecological Monographs</source>, <volume>63</volume>, <fpage>1</fpage>&#x02013;<lpage>27</lpage>. <pub-id pub-id-type="doi">10.2307/2937121</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0013"><mixed-citation publication-type="journal" id="ece35862-cit-0013">
+<string-name>
+<surname>Floren</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Biun</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Linsenmair</surname>, <given-names>K. E.</given-names>
+</string-name> (<year>2002</year>). <article-title>Arboreal ants as key predators in tropical lowland rainforest trees</article-title>. <source xml:lang="en">Oecologia</source>, <volume>131</volume>, <fpage>137</fpage>&#x02013;<lpage>144</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-002-0874-z</pub-id>
+<pub-id pub-id-type="pmid">28547503</pub-id></mixed-citation></ref><ref id="ece35862-bib-0014"><mixed-citation publication-type="journal" id="ece35862-cit-0014">
+<string-name>
+<surname>Gabbe</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>, <given-names>S. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brawn</surname>, <given-names>J. D.</given-names>
+</string-name> (<year>2002</year>). <article-title>Tree&#x02010;species preferences of foraging insectivorous birds: Implications for floodplain forest restoration</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>16</volume>, <fpage>462</fpage>&#x02013;<lpage>470</lpage>. <pub-id pub-id-type="doi">10.1046/j.1523-1739.2002.00460.x</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0015"><mixed-citation publication-type="journal" id="ece35862-cit-0015">
+<string-name>
+<surname>Gomez</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Gregoire</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Granado</surname>, <given-names>M. D. R.</given-names>
+</string-name>, <string-name>
+<surname>Bassoul</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Degueldre</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Perret</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Doutrelant</surname>, <given-names>C.</given-names>
+</string-name> (<year>2014</year>). <article-title>The intensity threshold of colour vision in a passerine bird, the blue tit (<italic>Cyanistes caeruleus</italic>)</article-title>. <source xml:lang="en">Journal of Experimental Biology</source>, <volume>217</volume>, <fpage>3775</fpage>&#x02013;<lpage>3778</lpage>.<pub-id pub-id-type="pmid">25214487</pub-id></mixed-citation></ref><ref id="ece35862-bib-0016"><mixed-citation publication-type="book" id="ece35862-cit-0016">
+<string-name>
+<surname>Greenberg</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mettke&#x02010;Hofman</surname>, <given-names>C.</given-names>
+</string-name> (<year>2001</year>). <chapter-title>Ecological aspects of neophobia and neophilia in birds</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Nolan</surname><given-names>V.</given-names><suffix>Jr</suffix></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Thompson</surname><given-names>C. F.</given-names></name></person-group> (Eds.), <source xml:lang="en">Current ornithology</source> (Vol. <volume>16</volume>, pp. <fpage>119</fpage>&#x02013;<lpage>178</lpage>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="ece35862-bib-0017"><mixed-citation publication-type="journal" id="ece35862-cit-0017">
+<string-name>
+<surname>Holmes</surname>, <given-names>R. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Robinson</surname>, <given-names>S. K.</given-names>
+</string-name> (<year>1981</year>). <article-title>Tree species preferences of foraging insectivorous birds in a northern hardwoods forest</article-title>. <source xml:lang="en">Oecologia</source>, <volume>48</volume>, <fpage>31</fpage>&#x02013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1007/BF00346985</pub-id>
+<pub-id pub-id-type="pmid">28309930</pub-id></mixed-citation></ref><ref id="ece35862-bib-0018"><mixed-citation publication-type="journal" id="ece35862-cit-0018">
+<string-name>
+<surname>Jeanne</surname>, <given-names>R. L.</given-names>
+</string-name> (<year>1979</year>). <article-title>A latitudinal gradient in rates of ant predation</article-title>. <source xml:lang="en">Ecology</source>, <volume>60</volume>, <fpage>1211</fpage>&#x02013;<lpage>1224</lpage>. <pub-id pub-id-type="doi">10.2307/1936968</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0019"><mixed-citation publication-type="journal" id="ece35862-cit-0019">
+<string-name>
+<surname>Karpestam</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Merilaita</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Forsman</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Detection experiments with humans implicate visual predation as a driver of colour polymorphism dynamics in pygmy grasshoppers</article-title>. <source xml:lang="en">BMC Ecology</source>, <volume>13</volume>, <fpage>17</fpage>
+<pub-id pub-id-type="doi">10.1186/1472-6785-13-17</pub-id>
+<pub-id pub-id-type="pmid">23639215</pub-id></mixed-citation></ref><ref id="ece35862-bib-0020"><mixed-citation publication-type="journal" id="ece35862-cit-0020">
+<string-name>
+<surname>Kenward</surname>, <given-names>M. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Roger</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>2009</year>). <article-title>An improved approximation to the precision of fixed effects from restricted maximum likelihood</article-title>. <source xml:lang="en">Computational Statistics and Data Analysis</source>, <volume>53</volume>, <fpage>2583</fpage>&#x02013;<lpage>2595</lpage>.</mixed-citation></ref><ref id="ece35862-bib-0021"><mixed-citation publication-type="journal" id="ece35862-cit-0021">
+<string-name>
+<surname>Kozlov</surname>, <given-names>M. V.</given-names>
+</string-name>, <string-name>
+<surname>Lanta</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Zverev</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zvereva</surname>, <given-names>E. L.</given-names>
+</string-name> (<year>2015</year>). <article-title>Global patterns in background losses of woody plant foliage to insects</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>24</volume>, <fpage>1126</fpage>&#x02013;<lpage>1135</lpage>. <pub-id pub-id-type="doi">10.1111/geb.12347</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0022"><mixed-citation publication-type="journal" id="ece35862-cit-0022">
+<string-name>
+<surname>Loiselle</surname>, <given-names>B. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Farji&#x02010;Brener</surname>, <given-names>A. G.</given-names>
+</string-name> (<year>2002</year>). <article-title>What's up? An experimental comparison of predation levels between canopy and understory in a tropical wet forest</article-title>. <source xml:lang="en">Biotropica</source>, <volume>34</volume>, <fpage>327</fpage>&#x02013;<lpage>330</lpage>.</mixed-citation></ref><ref id="ece35862-bib-0023"><mixed-citation publication-type="journal" id="ece35862-cit-0023">
+<string-name>
+<surname>L&#x000f6;vei</surname>, <given-names>G. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ferrante</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>A review of the sentinel prey method as a way of quantifying invertebrate predation under field conditions</article-title>. <source xml:lang="en">Insect Science</source>, <volume>24</volume>, <fpage>528</fpage>&#x02013;<lpage>542</lpage>. <pub-id pub-id-type="doi">10.1111/1744-7917.12405</pub-id>
+<pub-id pub-id-type="pmid">27686246</pub-id></mixed-citation></ref><ref id="ece35862-bib-0024"><mixed-citation publication-type="journal" id="ece35862-cit-0024">
+<string-name>
+<surname>Low</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Sam</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>McArthur</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Posa</surname>, <given-names>M. R. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hochuli</surname>, <given-names>D. F.</given-names>
+</string-name> (<year>2014</year>). <article-title>Determining predator identity from attack marks left in model caterpillars: Guidelines for best practice</article-title>. <source xml:lang="en">Entomologia Experimentalis Et Applicata</source>, <volume>152</volume>, <fpage>120</fpage>&#x02013;<lpage>126</lpage>. <pub-id pub-id-type="doi">10.1111/eea.12207</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0025"><mixed-citation publication-type="journal" id="ece35862-cit-0025">
+<string-name>
+<surname>M&#x000e4;ntyl&#x000e4;</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Alessio</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name>
+<surname>Blande</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Heijari</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Holopainen</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Laaksonen</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Klemola</surname>, <given-names>T.</given-names>
+</string-name> (<year>2008</year>). <article-title>From plants to birds: Higher avian predation rates in trees responding to insect herbivory</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>3</volume>, <elocation-id>e2832</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0002832</pub-id>
+<pub-id pub-id-type="pmid">18665271</pub-id></mixed-citation></ref><ref id="ece35862-bib-0026"><mixed-citation publication-type="journal" id="ece35862-cit-0026">
+<string-name>
+<surname>Mappes</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kokko</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ojala</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lindstr&#x000f6;m</surname>, <given-names>L.</given-names>
+</string-name> (<year>2014</year>). <article-title>Seasonal changes in predator community switch the direction of selection for prey defences</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>5</volume>, <fpage>5016</fpage>
+<pub-id pub-id-type="doi">10.1038/ncomms6016</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0027"><mixed-citation publication-type="book" id="ece35862-cit-0027">
+<string-name>
+<surname>Messier</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Posada</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Aubin</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beaudet</surname>, <given-names>M.</given-names>
+</string-name> (<year>2009</year>). <chapter-title>Functional relationships between old&#x02010;growth forest canopies, understorey light and vegetation dynamics</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Wirth</surname><given-names>C.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Gleixner</surname><given-names>G.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Heimann</surname><given-names>M.</given-names></name></person-group> (Eds.), <source xml:lang="en">Old&#x02010;growth forests. Function, fate and value. (Ecological studies)</source> (Vol. <volume>207</volume>, pp <fpage>115</fpage>&#x02013;<lpage>139</lpage>). <publisher-loc>Berlin &#x00026; Heidelberg, Germany</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="ece35862-bib-0028"><mixed-citation publication-type="journal" id="ece35862-cit-0028">
+<string-name>
+<surname>Moles</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<surname>Bonser</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Poore</surname>, <given-names>A. G. B.</given-names>
+</string-name>, <string-name>
+<surname>Wallis</surname>, <given-names>I. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Foley</surname>, <given-names>W. J.</given-names>
+</string-name> (<year>2011</year>). <article-title>Assessing the evidence for latitudinal gradients in plant defence and herbivory</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>25</volume>, <fpage>380</fpage>&#x02013;<lpage>388</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2435.2010.01814.x</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0029"><mixed-citation publication-type="journal" id="ece35862-cit-0029">
+<string-name>
+<surname>Moles</surname>, <given-names>A. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ollerton</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Is the notion that species interactions are stronger and more specialized in the tropics a zombie idea?</article-title>
+<source xml:lang="en">Biotropica</source>, <volume>48</volume>, <fpage>141</fpage>&#x02013;<lpage>145</lpage>.</mixed-citation></ref><ref id="ece35862-bib-0030"><mixed-citation publication-type="journal" id="ece35862-cit-0030">
+<string-name>
+<surname>Moreira</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Abdala&#x02010;Roberts</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Parra&#x02010;Tabla</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mooney</surname>, <given-names>K. A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Latitudinal variation in herbivory: Influences of climatic drivers, herbivore identity and natural enemies</article-title>. <source xml:lang="en">Oikos</source>, <volume>124</volume>, <fpage>1444</fpage>&#x02013;<lpage>1452</lpage>.</mixed-citation></ref><ref id="ece35862-bib-0031"><mixed-citation publication-type="journal" id="ece35862-cit-0031">
+<string-name>
+<surname>Muchula</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gurr</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>2019</year>). <article-title>Ambient temperature affects the utility of plasticine caterpillar models as a tool to measure activity of predators across latitudinal and elevational gradients</article-title>. <source xml:lang="en">Biological Control</source>, <volume>129</volume>, <fpage>12</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocontrol.2018.11.006</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0032"><mixed-citation publication-type="journal" id="ece35862-cit-0032">
+<string-name>
+<surname>Muiruri</surname>, <given-names>E. W.</given-names>
+</string-name>, <string-name>
+<surname>Rainio</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Koricheva</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Do birds see the forest for the trees? Scale&#x02010;dependent effects of tree diversity on avian predation of artificial larvae</article-title>. <source xml:lang="en">Oecologia</source>, <volume>180</volume>, <fpage>619</fpage>&#x02013;<lpage>630</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-015-3391-6</pub-id>
+<pub-id pub-id-type="pmid">26201260</pub-id></mixed-citation></ref><ref id="ece35862-bib-0033"><mixed-citation publication-type="journal" id="ece35862-cit-0033">
+<string-name>
+<surname>Nakamura</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kitching</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Creedy</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name>
+<surname>Fayle</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Freiberg</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ashton</surname>, <given-names>L. A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Forests and their canopies: Achievements and horizons in canopy science</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>32</volume>, <fpage>438</fpage>&#x02013;<lpage>451</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2017.02.020</pub-id>
+<pub-id pub-id-type="pmid">28359572</pub-id></mixed-citation></ref><ref id="ece35862-bib-0034"><mixed-citation publication-type="journal" id="ece35862-cit-0034">
+<string-name>
+<surname>Nyffeler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sekercioglu</surname>, <given-names>C. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Whelan</surname>, <given-names>C. J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Insectivorous birds consume an estimated 400&#x02013;500&#x000a0;million tons of prey annually</article-title>. <source xml:lang="en">Science of Nature</source>, <volume>105</volume>, <fpage>47</fpage>.</mixed-citation></ref><ref id="ece35862-bib-0035"><mixed-citation publication-type="journal" id="ece35862-cit-0035">
+<string-name>
+<surname>Olsson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Lind</surname>, <given-names>O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kelber</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Bird colour vision: Behavioural thresholds reveal receptor noise</article-title>. <source xml:lang="en">Journal of Experimental Biology</source>, <volume>218</volume>, <fpage>184</fpage>&#x02013;<lpage>193</lpage>. <pub-id pub-id-type="doi">10.1242/jeb.111187</pub-id>
+<pub-id pub-id-type="pmid">25609782</pub-id></mixed-citation></ref><ref id="ece35862-bib-0036"><mixed-citation publication-type="journal" id="ece35862-cit-0036">
+<string-name>
+<surname>Pennings</surname>, <given-names>S. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Silliman</surname>, <given-names>B. R.</given-names>
+</string-name> (<year>2005</year>). <article-title>Linking biogeography and community ecology: Latitudinal variation in plant&#x02010;herbivore interaction strength</article-title>. <source xml:lang="en">Ecology</source>, <volume>86</volume>, <fpage>2310</fpage>&#x02013;<lpage>2319</lpage>. <pub-id pub-id-type="doi">10.1890/04-1022</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0037"><mixed-citation publication-type="journal" id="ece35862-cit-0037">
+<string-name>
+<surname>Prudic</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Skemp</surname>, <given-names>A. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Papaj</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2007</year>). <article-title>Aposematic coloration, luminance contrast, and the benefits of conspicuousness</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>18</volume>, <fpage>41</fpage>&#x02013;<lpage>46</lpage>.</mixed-citation></ref><ref id="ece35862-bib-0038"><mixed-citation publication-type="journal" id="ece35862-cit-0038">
+<string-name>
+<surname>Remmel</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tammaru</surname>, <given-names>T.</given-names>
+</string-name> (<year>2009</year>). <article-title>Size&#x02010;dependent predation risk in tree&#x02010;feeding insects with different colouration strategies: A field experiment</article-title>. <source xml:lang="en">Journal of Animal Ecology</source>, <volume>78</volume>, <fpage>973</fpage>&#x02013;<lpage>980</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2656.2009.01566.x</pub-id>
+<pub-id pub-id-type="pmid">19493131</pub-id></mixed-citation></ref><ref id="ece35862-bib-0039"><mixed-citation publication-type="journal" id="ece35862-cit-0039">
+<string-name>
+<surname>Rojas</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Rautiala</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mappes</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Differential detectability of polymorphic warning signals under varying light environments</article-title>. <source xml:lang="en">Behavioural Processes</source>, <volume>109</volume>, <fpage>164</fpage>&#x02013;<lpage>172</lpage>. <pub-id pub-id-type="doi">10.1016/j.beproc.2014.08.014</pub-id>
+<pub-id pub-id-type="pmid">25158931</pub-id></mixed-citation></ref><ref id="ece35862-bib-0040"><mixed-citation publication-type="journal" id="ece35862-cit-0040">
+<string-name>
+<surname>Roslin</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hardwick</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Novotny</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Petry</surname>, <given-names>W. K.</given-names>
+</string-name>, <string-name>
+<surname>Andrew</surname>, <given-names>N. R.</given-names>
+</string-name>, <string-name>
+<surname>Asmus</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Slade</surname>, <given-names>E. M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Higher predation risk for insect prey at low latitudes and elevations</article-title>. <source xml:lang="en">Science</source>, <volume>356</volume>, <fpage>742</fpage>&#x02013;<lpage>744</lpage>. <pub-id pub-id-type="doi">10.1126/science.aaj1631</pub-id>
+<pub-id pub-id-type="pmid">28522532</pub-id></mixed-citation></ref><ref id="ece35862-bib-0041"><mixed-citation publication-type="journal" id="ece35862-cit-0041">
+<string-name>
+<surname>Rothery</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>, <given-names>G. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Morrell</surname>, <given-names>L. J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Colour preferences of UK garden birds at supplementary seed feeders</article-title>. <source xml:lang="en">&#x02010; PLoS ONE</source>, <volume>12</volume>, <elocation-id>e0172422</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0172422</pub-id>
+<pub-id pub-id-type="pmid">28212435</pub-id></mixed-citation></ref><ref id="ece35862-bib-0042"><mixed-citation publication-type="book" id="ece35862-cit-0042">
+<string-name>
+<surname>Ruxton</surname>, <given-names>G. D.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>W. L.</given-names>
+</string-name>, <string-name>
+<surname>Sherratt</surname>, <given-names>T. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Speed</surname>, <given-names>M. P.</given-names>
+</string-name> (<year>2018</year>). <source xml:lang="en">Avoiding attack. The evolutionary ecology of crypsis, warning signals, and mimicry</source> (<edition designator="2">2nd. ed.</edition>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece35862-bib-0043"><mixed-citation publication-type="journal" id="ece35862-cit-0043">
+<string-name>
+<surname>Sam</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Remmel</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Molleman</surname>, <given-names>F.</given-names>
+</string-name> (<year>2015</year>). <article-title>Material affects attack rates on dummy caterpillars in tropical forest where arthropod predators dominate: An experiment using clay and dough dummies with green colourants on various plant species</article-title>. <source xml:lang="en">Entomologia Experimentalis et Applicata</source>, <volume>157</volume>, <fpage>317</fpage>&#x02013;<lpage>324</lpage>. <pub-id pub-id-type="doi">10.1111/eea.12367</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0044"><mixed-citation publication-type="book" id="ece35862-cit-0044">
+<collab collab-type="authors">SAS Institute</collab>
+(<year>2009</year>). <chapter-title>SAS/Stat</chapter-title>
+<source xml:lang="en">User's guide. Version 9.2</source>. <publisher-loc>North Carolina</publisher-loc>: <publisher-name>SAS Institute</publisher-name>.</mixed-citation></ref><ref id="ece35862-bib-0045"><mixed-citation publication-type="journal" id="ece35862-cit-0045">
+<string-name>
+<surname>Schemske</surname>, <given-names>D. W.</given-names>
+</string-name>, <string-name>
+<surname>Mittelbach</surname>, <given-names>G. G.</given-names>
+</string-name>, <string-name>
+<surname>Cornell</surname>, <given-names>H. V.</given-names>
+</string-name>, <string-name>
+<surname>Sobel</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Roy</surname>, <given-names>K.</given-names>
+</string-name> (<year>2009</year>). <article-title>Is there a latitudinal gradient in the importance of biotic interactions?</article-title>
+<source xml:lang="en">Annual Review of Ecology Evolution and Systematics</source>, <volume>40</volume>, <fpage>245</fpage>&#x02013;<lpage>269</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.39.110707.173430</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0046"><mixed-citation publication-type="journal" id="ece35862-cit-0046">
+<string-name>
+<surname>Sinnott&#x02010;Armstrong</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Downie</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name>
+<surname>Federman</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Valido</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jordano</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Donoghue</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Global geographic patterns in the colours and sizes of animal&#x02010;dispersed fruits</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>27</volume>, <fpage>1339</fpage>&#x02013;<lpage>1351</lpage>. <pub-id pub-id-type="doi">10.1111/geb.12801</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0047"><mixed-citation publication-type="journal" id="ece35862-cit-0047">
+<string-name>
+<surname>&#x00160;ipo&#x00161;</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kindlmann</surname>, <given-names>P.</given-names>
+</string-name> (<year>2013</year>). <article-title>Effect of the canopy complexity of trees on the rate of predation of insects</article-title>. <source xml:lang="en">Journal of Applied Entomology</source>, <volume>137</volume>, <fpage>445</fpage>&#x02013;<lpage>451</lpage>. <pub-id pub-id-type="doi">10.1111/jen.12015</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0048"><mixed-citation publication-type="journal" id="ece35862-cit-0048">
+<string-name>
+<surname>Stevens</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cuthill</surname>, <given-names>I. C.</given-names>
+</string-name> (<year>2006</year>). <article-title>Disruptive coloration, crypsis and edge detection in early visual processing</article-title>. <source xml:lang="en">Proceedings of the Royal Society B&#x02010;Biological Sciences</source>, <volume>273</volume>, <fpage>2141</fpage>&#x02013;<lpage>2147</lpage>.</mixed-citation></ref><ref id="ece35862-bib-0049"><mixed-citation publication-type="journal" id="ece35862-cit-0049">
+<string-name>
+<surname>Stevens</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ruxton</surname>, <given-names>G. D.</given-names>
+</string-name> (<year>2012</year>). <article-title>Linking the evolution and form of warning coloration in nature</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>279</volume>(<issue>1728</issue>), <fpage>417</fpage>&#x02013;<lpage>426</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2011.1932</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0050"><mixed-citation publication-type="book" id="ece35862-cit-0050">
+<string-name>
+<surname>Stroup</surname>, <given-names>W. W.</given-names>
+</string-name> (<year>2013</year>). <source xml:lang="en">Generalized linear mixed models: Modern concepts, methods and application</source>. <publisher-loc>Boca Raton, FL</publisher-loc>: <publisher-name>CRC Press</publisher-name>.</mixed-citation></ref><ref id="ece35862-bib-0051"><mixed-citation publication-type="journal" id="ece35862-cit-0051">
+<string-name>
+<surname>Taylor</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Maier</surname>, <given-names>E. B.</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Amin</surname>, <given-names>Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Morehouse</surname>, <given-names>N. I.</given-names>
+</string-name> (<year>2014</year>). <article-title>Colour use by tiny predators: Jumping spiders show colour biases during foraging</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>90</volume>, <fpage>149</fpage>&#x02013;<lpage>157</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2014.01.025</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0052"><mixed-citation publication-type="book" id="ece35862-cit-0052">
+<string-name>
+<surname>Th&#x000e9;ry</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gomez</surname>, <given-names>D.</given-names>
+</string-name> (<year>2010</year>). <chapter-title>Insect colours and visual appearance in the eyes of their predators</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Casas</surname><given-names>J.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Simpson</surname><given-names>S. J.</given-names></name></person-group> (Eds.), <source xml:lang="en">Advances in insect physiology</source> (Vol. <volume>38</volume>, pp. <fpage>267</fpage>&#x02013;<lpage>353</lpage>). <publisher-loc>Burlington, VT</publisher-loc>: <publisher-name>Academic Press</publisher-name>.</mixed-citation></ref><ref id="ece35862-bib-0053"><mixed-citation publication-type="journal" id="ece35862-cit-0053">
+<string-name>
+<surname>Traniello</surname>, <given-names>J. F. A.</given-names>
+</string-name> (<year>1989</year>). <article-title>Foraging strategies of ants</article-title>. <source xml:lang="en">Annual Review of Entomology</source>, <volume>34</volume>, <fpage>191</fpage>&#x02013;<lpage>210</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.ento.34.1.191</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0054"><mixed-citation publication-type="journal" id="ece35862-cit-0054">
+<string-name>
+<surname>van Bael</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Brawn</surname>, <given-names>J. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Robinson</surname>, <given-names>S. K.</given-names>
+</string-name> (<year>2003</year>). <article-title>Birds defend trees from herbivores in a Neotropical forest canopy</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>100</volume>(<issue>14</issue>), <fpage>8304</fpage>&#x02013;<lpage>8307</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1431621100</pub-id>
+<pub-id pub-id-type="pmid">12832618</pub-id></mixed-citation></ref><ref id="ece35862-bib-0055"><mixed-citation publication-type="journal" id="ece35862-cit-0055">
+<string-name>
+<surname>Waldron</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Endler</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Valkonen</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Honma</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dobler</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mappes</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Experimental evidence suggests that specular reflectance and glossy appearance help amplify warning signals</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>7</volume>, <fpage>257</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-017-00217-5</pub-id>
+<pub-id pub-id-type="pmid">28325898</pub-id></mixed-citation></ref><ref id="ece35862-bib-0056"><mixed-citation publication-type="journal" id="ece35862-cit-0056">
+<string-name>
+<surname>Wennersten</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Forsman</surname>, <given-names>A.</given-names>
+</string-name> (<year>2009</year>). <article-title>Does colour polymorphism enhance survival of prey populations?</article-title>
+<source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>276</volume>(<issue>1665</issue>), <fpage>2187</fpage>&#x02013;<lpage>2194</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2009.0252</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0057"><mixed-citation publication-type="journal" id="ece35862-cit-0057">
+<string-name>
+<surname>Willig</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Kaufman</surname>, <given-names>D. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stevens</surname>, <given-names>R. D.</given-names>
+</string-name> (<year>2003</year>). <article-title>Latitudinal gradients of biodiversity: Pattern, process, scale, and synthesis</article-title>. <source xml:lang="en">Annual Review of Ecology and Systematics</source>, <volume>34</volume>, <fpage>273</fpage>&#x02013;<lpage>309</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.34.012103.144032</pub-id>
+</mixed-citation></ref><ref id="ece35862-bib-0058"><mixed-citation publication-type="journal" id="ece35862-cit-0058">
+<string-name>
+<surname>Zvereva</surname>, <given-names>E. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kozlov</surname>, <given-names>M. V.</given-names>
+</string-name> (<year>2016</year>). <article-title>The costs and effectiveness of chemical defenses in herbivorous insects: A meta&#x02010;analysis</article-title>. <source xml:lang="en">Ecological Monographs</source>, <volume>86</volume>, <fpage>107</fpage>&#x02013;<lpage>124</lpage>. <pub-id pub-id-type="doi">10.1890/15-0911.1</pub-id>
+</mixed-citation></ref></ref-list><app-group><app id="ece35862-app-0001" content-type="APPENDIX"><label>APPENDIX 1</label><sec id="ece35862-sec-0016"><table-wrap id="ece35862-tbl-0002" xml:lang="en" orientation="portrait" position="anchor"><label>Table A1</label><caption><p>Basic information on field experiments performed worldwide</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Site, country</th><th align="left" valign="top" rowspan="1" colspan="1">Coordinates and altitude</th><th align="left" valign="top" rowspan="1" colspan="1">Vegetation type</th><th align="left" valign="top" rowspan="1" colspan="1">Mid&#x02010;summer temperature, &#x000b0;C</th><th align="left" valign="top" rowspan="1" colspan="1">Climate</th><th align="left" valign="top" rowspan="1" colspan="1">Plant species</th><th align="left" valign="top" rowspan="1" colspan="1">Start date</th><th align="left" valign="top" rowspan="1" colspan="1">Finish date</th><th align="left" valign="top" rowspan="1" colspan="1">Number of censuses</th><th align="left" valign="top" rowspan="1" colspan="1">Responsible researcher</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Sacsayhuaman, Peru</td><td align="left" rowspan="1" colspan="1">
+<p>13&#x000b0;30&#x02032;20&#x02033;S, 71&#x000b0;58&#x02032;37&#x02033;W</p>
+<p>3,550&#x000a0;m a.s.l.</p>
+</td><td align="left" rowspan="1" colspan="1">Andean tropical forest</td><td align="char" char="." rowspan="1" colspan="1">12.9</td><td align="left" rowspan="1" colspan="1">Cold</td><td align="left" rowspan="1" colspan="1">
+<italic>Escallonia resinosa, Polylepis incana, Polylepis racemosa</italic>
+</td><td align="left" rowspan="1" colspan="1">17&#x02010;Jul&#x02010;2018</td><td align="left" rowspan="1" colspan="1">19&#x02010;Oct&#x02010;2018</td><td align="char" char="." rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">N. Salinas</td></tr><tr><td align="left" rowspan="1" colspan="1">Apatity, Russia</td><td align="left" rowspan="1" colspan="1">
+<p>67&#x000b0;38&#x02032;21&#x02033;N, 32&#x000b0;45&#x02032;04&#x02033;E</p>
+<p>150&#x000a0;m a.s.l.</p>
+</td><td align="left" rowspan="1" colspan="1">Subarctic taiga forest</td><td align="char" char="." rowspan="1" colspan="1">14.3</td><td align="left" rowspan="1" colspan="1">Cold</td><td align="left" rowspan="1" colspan="1">
+<italic>Betula pubescens, Pinus sylvestris, Salix myrsinifolia</italic>
+</td><td align="left" rowspan="1" colspan="1">11&#x02010;Jun&#x02010;2018</td><td align="left" rowspan="1" colspan="1">25&#x02010;Aug&#x02010;2018</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">V. Zverev, M. Kozlov</td></tr><tr><td align="left" rowspan="1" colspan="1">Kustavi, Finland</td><td align="left" rowspan="1" colspan="1">
+<p>60&#x000b0;31&#x02032;58&#x02033;N, 21&#x000b0;18&#x02032;08&#x02033;E</p>
+<p>10&#x000a0;m a.s.l.</p>
+</td><td align="left" rowspan="1" colspan="1">Taiga forest</td><td align="char" char="." rowspan="1" colspan="1">16.5</td><td align="left" rowspan="1" colspan="1">Cold</td><td align="left" rowspan="1" colspan="1">
+<italic>Sorbus aucuparia, Betula pubescens, Pinus sylvestris</italic>
+</td><td align="left" rowspan="1" colspan="1">28&#x02010;May&#x02010;2018</td><td align="left" rowspan="1" colspan="1">17&#x02010;Sep&#x02010;2018</td><td align="char" char="." rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">E. Zvereva</td></tr><tr><td align="left" rowspan="1" colspan="1">Kalmar, Sweden</td><td align="left" rowspan="1" colspan="1">56<sup>o</sup>42&#x02032;39&#x02033;N, 16<sup>o</sup>22&#x02032;18&#x02033;E, 3&#x000a0;m a.s.l.</td><td align="left" rowspan="1" colspan="1">Mixed temperate forest</td><td align="char" char="." rowspan="1" colspan="1">17.5</td><td align="left" rowspan="1" colspan="1">Temperate</td><td align="left" rowspan="1" colspan="1">
+<italic>Sorbus aucuparia, Quercus robur, Betula pubescens</italic>
+</td><td align="left" rowspan="1" colspan="1">24&#x02010;May&#x02010;2018</td><td align="left" rowspan="1" colspan="1">20&#x02010;Jul&#x02010;2018</td><td align="char" char="." rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">A. Forsman</td></tr><tr><td align="left" rowspan="1" colspan="1">Cestas, France</td><td align="left" rowspan="1" colspan="1">44&#x000b0;45&#x02032;14&#x02033;N, 0&#x000b0;42&#x02032;36&#x02033;W, 50&#x000a0;m a.s.l.</td><td align="left" rowspan="1" colspan="1">Mixed broadleaved temperate forest</td><td align="char" char="." rowspan="1" colspan="1">20.2</td><td align="left" rowspan="1" colspan="1">Temperate</td><td align="left" rowspan="1" colspan="1">
+<italic>Betula pendula, Quercus robur, Castanea sativa</italic>
+</td><td align="left" rowspan="1" colspan="1">23&#x02010;May&#x02010;2017</td><td align="left" rowspan="1" colspan="1">1&#x02010;Sep&#x02010;2017</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">B. Castagneyrol</td></tr><tr><td align="left" rowspan="1" colspan="1">Mtirala, Georgia</td><td align="left" rowspan="1" colspan="1">
+<p>40&#x000b0;40&#x02032;37&#x02033;N, 41&#x000b0;52&#x02032;23&#x02033;E</p>
+<p>300&#x000a0;m a.s.l.</p>
+</td><td align="left" rowspan="1" colspan="1">Mountain broadleaved forest</td><td align="char" char="." rowspan="1" colspan="1">20.7</td><td align="left" rowspan="1" colspan="1">Temperate</td><td align="left" rowspan="1" colspan="1">
+<italic>Alnus glutinosa</italic> var. <italic>barbata</italic>, <italic>Castanea sativa, Carpinus orientalis</italic>
+</td><td align="left" rowspan="1" colspan="1">19&#x02010;Sep&#x02010;2018</td><td align="left" rowspan="1" colspan="1">29&#x02010;Sep&#x02010;2018</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">V. Zverev, M. Kozlov</td></tr><tr><td align="left" rowspan="1" colspan="1">Stellenbosch, South Africa</td><td align="left" rowspan="1" colspan="1">
+<p>33&#x000b0;57&#x02032;27&#x02033;S, 18&#x000b0;55&#x02032;16&#x02033;E</p>
+<p>270&#x000a0;m a.s.l.</p>
+</td><td align="left" rowspan="1" colspan="1">Renosterveld&#x02010;fynbos ecotone</td><td align="char" char="." rowspan="1" colspan="1">21.2</td><td align="left" rowspan="1" colspan="1">Temperate</td><td align="left" rowspan="1" colspan="1">
+<italic>Pterocelastrus tricuspidatus, Dodonaea viscosa angustifolia, Protea nitida</italic>
+</td><td align="left" rowspan="1" colspan="1">1&#x02010;Nov&#x02010;2018</td><td align="left" rowspan="1" colspan="1">2&#x02010;Dec&#x02010;2018</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">K. J. Theron</td></tr><tr><td align="left" rowspan="1" colspan="1">Ermita de Navahonda, Spain</td><td align="left" rowspan="1" colspan="1">
+<p>40&#x000b0;26&#x02032;40&#x02033;N, 4&#x000b0;14&#x02032;46&#x02033;W</p>
+<p>842&#x000a0;m.a.s.l.</p>
+</td><td align="left" rowspan="1" colspan="1">Mediterranean woodlands</td><td align="char" char="." rowspan="1" colspan="1">24.2</td><td align="left" rowspan="1" colspan="1">Temperate</td><td align="left" rowspan="1" colspan="1">
+<italic>Quercus ilex, Cistus ladanifer, Acer monspessulanum</italic>
+</td><td align="left" rowspan="1" colspan="1">5&#x02010;Mar&#x02010;2018</td><td align="left" rowspan="1" colspan="1">3&#x02010;Jul&#x02010;2018</td><td align="char" char="." rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1">V. Polo, J. A. Hern&#x000e1;ndez &#x02010;Ag&#x000fc;ero</td></tr><tr><td align="left" rowspan="1" colspan="1">Fazenda Tanguro, Mato Grosso, Brazil</td><td align="left" rowspan="1" colspan="1">
+<p>13&#x000b0;04&#x02032;27&#x02033;S, 52&#x000b0;22&#x02032;40&#x02033;W</p>
+<p>385&#x000a0;m a.s.l.</p>
+</td><td align="left" rowspan="1" colspan="1">Tropical evergreen forest</td><td align="char" char="." rowspan="1" colspan="1">25.7</td><td align="left" rowspan="1" colspan="1">Tropical</td><td align="left" rowspan="1" colspan="1">
+<italic>Mabea fistulifera, Sclerolobium paniculatum, Myrcia multiflora</italic>
+</td><td align="left" rowspan="1" colspan="1">3&#x02010;May&#x02010;2018</td><td align="left" rowspan="1" colspan="1">11&#x02010;Jun&#x02010;2018</td><td align="char" char="." rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">L. Paolucci</td></tr><tr><td align="left" rowspan="1" colspan="1">Xishuangbanna, China</td><td align="left" rowspan="1" colspan="1">
+<p>21&#x000b0;55&#x02032;05&#x02033;N, 101&#x000b0;16&#x02032;26&#x02033;E</p>
+<p>570&#x000a0;m a.s.l.</p>
+</td><td align="left" rowspan="1" colspan="1">Tropical rainforest</td><td align="char" char="." rowspan="1" colspan="1">26.2</td><td align="left" rowspan="1" colspan="1">Tropical</td><td align="left" rowspan="1" colspan="1">
+<italic>Meiogyne</italic> sp., <italic>Leea compactiflora</italic>, <italic>Drypetes salicifolia</italic>
+</td><td align="left" rowspan="1" colspan="1">6&#x02010;Nov&#x02010;2018</td><td align="left" rowspan="1" colspan="1">16&#x02010;Dec&#x02010;2018</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">G. Xu</td></tr><tr><td align="left" rowspan="1" colspan="1">Parque Estadual do Rio Doce, Brazil</td><td align="left" rowspan="1" colspan="1">
+<p>19&#x000b0;42&#x02032;23&#x02033;S, 42&#x000b0;34&#x02032;33&#x02033;W</p>
+<p>270&#x000a0;m a.s.l.</p>
+</td><td align="left" rowspan="1" colspan="1">Atlantic forest</td><td align="char" char="." rowspan="1" colspan="1">26.6</td><td align="left" rowspan="1" colspan="1">Tropical</td><td align="left" rowspan="1" colspan="1">
+<italic>Adenocalymma subsessifolium, Sorocea guilleminiana, Casearia selloana</italic>
+</td><td align="left" rowspan="1" colspan="1">28&#x02010;Sep&#x02010;2017</td><td align="left" rowspan="1" colspan="1">4&#x02010;Nov&#x02010;2017</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">T. Cornelissen</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="ece35862-tbl-0003" xml:lang="en" orientation="portrait" position="anchor"><label>Table A2</label><caption><p>Color characteristics of plasticine used in the experiment (estimated by Adobe Photoshop CC from photographs made with Canon 6D camera)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Plasticine color</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Component values</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Red</th><th align="left" valign="bottom" rowspan="1" colspan="1">Green</th><th align="left" valign="bottom" rowspan="1" colspan="1">Blue</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Black</td><td align="char" char="." rowspan="1" colspan="1">6</td><td align="char" char="." rowspan="1" colspan="1">6</td><td align="char" char="." rowspan="1" colspan="1">15</td></tr><tr><td align="left" rowspan="1" colspan="1">Blue</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">100</td><td align="char" char="." rowspan="1" colspan="1">136</td></tr><tr><td align="left" rowspan="1" colspan="1">Brown</td><td align="char" char="." rowspan="1" colspan="1">124</td><td align="char" char="." rowspan="1" colspan="1">24</td><td align="char" char="." rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Green</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">162</td><td align="char" char="." rowspan="1" colspan="1">84</td></tr><tr><td align="left" rowspan="1" colspan="1">Red</td><td align="char" char="." rowspan="1" colspan="1">206</td><td align="char" char="." rowspan="1" colspan="1">23</td><td align="char" char="." rowspan="1" colspan="1">39</td></tr><tr><td align="left" rowspan="1" colspan="1">Violet</td><td align="char" char="." rowspan="1" colspan="1">136</td><td align="char" char="." rowspan="1" colspan="1">49</td><td align="char" char="." rowspan="1" colspan="1">143</td></tr><tr><td align="left" rowspan="1" colspan="1">White</td><td align="char" char="." rowspan="1" colspan="1">219</td><td align="char" char="." rowspan="1" colspan="1">214</td><td align="char" char="." rowspan="1" colspan="1">222</td></tr><tr><td align="left" rowspan="1" colspan="1">Yellow</td><td align="char" char="." rowspan="1" colspan="1">212</td><td align="char" char="." rowspan="1" colspan="1">194</td><td align="char" char="." rowspan="1" colspan="1">48</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></app></app-group></back></article>

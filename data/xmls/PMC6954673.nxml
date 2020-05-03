@@ -1,0 +1,394 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Exp Immunol</journal-id><journal-id journal-id-type="iso-abbrev">Clin. Exp. Immunol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2249</journal-id><journal-id journal-id-type="publisher-id">CEI</journal-id><journal-title-group><journal-title>Clinical and Experimental Immunology</journal-title></journal-title-group><issn pub-type="ppub">0009-9104</issn><issn pub-type="epub">1365-2249</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31670841</article-id><article-id pub-id-type="pmc">6954673</article-id><article-id pub-id-type="doi">10.1111/cei.13395</article-id><article-id pub-id-type="publisher-id">CEI13395</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group></article-categories><title-group><article-title>Differences in nasal immunoglobulin A responses to influenza vaccine strains after live attenuated influenza vaccine (LAIV) immunization in children</article-title><alt-title alt-title-type="right-running-head">Nasal IgA responses to LAIV</alt-title><alt-title alt-title-type="left-running-head">P. J. Turner <italic>et al</italic>.</alt-title></title-group><contrib-group><contrib id="cei13395-cr-0001" contrib-type="author"><name><surname>Turner</surname><given-names>P. J.</given-names></name><xref ref-type="aff" rid="cei13395-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cei13395-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cei13395-cr-0002" contrib-type="author"><name><surname>Abdulla</surname><given-names>A. F.</given-names></name><xref ref-type="aff" rid="cei13395-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cei13395-cr-0003" contrib-type="author"><name><surname>Cole</surname><given-names>M. E.</given-names></name><xref ref-type="aff" rid="cei13395-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cei13395-cr-0004" contrib-type="author"><name><surname>Javan</surname><given-names>R. R.</given-names></name><xref ref-type="aff" rid="cei13395-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cei13395-cr-0005" contrib-type="author"><name><surname>Gould</surname><given-names>V.</given-names></name><xref ref-type="aff" rid="cei13395-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cei13395-cr-0006" contrib-type="author"><name><surname>O'Driscoll</surname><given-names>M. E.</given-names></name><xref ref-type="aff" rid="cei13395-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cei13395-cr-0007" contrib-type="author"><name><surname>Southern</surname><given-names>J.</given-names></name><xref ref-type="aff" rid="cei13395-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cei13395-cr-0008" contrib-type="author"><name><surname>Zambon</surname><given-names>M.</given-names></name><xref ref-type="aff" rid="cei13395-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cei13395-cr-0009" contrib-type="author"><name><surname>Miller</surname><given-names>E.</given-names></name><xref ref-type="aff" rid="cei13395-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cei13395-cr-0010" contrib-type="author"><name><surname>Andrews</surname><given-names>N. J.</given-names></name><xref ref-type="aff" rid="cei13395-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cei13395-cr-0011" contrib-type="author"><name><surname>H&#x000f6;schler</surname><given-names>K.</given-names></name><xref ref-type="aff" rid="cei13395-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cei13395-cr-0012" contrib-type="author" corresp="yes"><name><surname>Tregoning</surname><given-names>J. S.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8093-8741</contrib-id><xref ref-type="aff" rid="cei13395-aff-0003">
+<sup>3</sup>
+</xref><address><email>john.tregoning@imperial.ac.uk</email></address></contrib></contrib-group><aff id="cei13395-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">National Heart and Lung Institute</named-content>
+<institution>Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="cei13395-aff-0002">
+<label><sup>2</sup></label>
+<institution>Public Health England (Colindale)</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="cei13395-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Infectious Disease</named-content>
+<institution>St Mary's Campus</institution>
+<institution>Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="cei13395-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Infectious Diseases Epidemiology</named-content>
+<institution>St Mary's Campus</institution>
+<institution>Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: J. S. Tregoning, Department of Infectious Disease, St Mary's Campus, London W2 1PG, UK.<break/>
+E&#x02010;mail: <email>john.tregoning@imperial.ac.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2020</year></pub-date><pub-date pub-type="pmc-release"><day>15</day><month>11</month><year>2019</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>199</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/cei.v199.2</issue-id><fpage>109</fpage><lpage>118</lpage><history><date date-type="accepted"><day>24</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 British Society for Immunology <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. Clinical &#x00026; Experimental Immunology published by John Wiley &#x00026; Sons Ltd on behalf of British Society for Immunology</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CEI-199-109.pdf"/><abstract id="cei13395-abs-0001"><title>Summary</title><p>Different vaccine strains included in the live attenuated influenza vaccine (LAIV) have variable efficacy. The reasons for this are not clear and may include differences in immunogenicity. We report a Phase IV open&#x02010;label study on the immunogenicity of a single dose of quadrivalent LAIV (Fluenz&#x02122; Tetra) in children during the 2015/16 season, to investigate the antibody responses to different strains. Eligible children were enrolled to receive LAIV; nasal samples were collected before and approximately 4&#x000a0;weeks after immunization. There was a significant increase in nasal immunoglobulin (Ig)A to the H3N2, B/Victoria lineage (B/Brisbane) and B/Yamagata lineage (B/Phuket) components, but not to the H1N1 component. The fold change in nasal IgA response was inversely proportional to the baseline nasal IgA titre for H1N1, H3N2 and B/Brisbane. We investigated possible associations that may explain baseline nasal IgA, including age and prior vaccination status, but found different patterns for different antigens, suggesting that the response is multi&#x02010;factorial. Overall, we observed differences in immune responses to different viral strains included in the vaccine; the reasons for this require further investigation.</p></abstract><abstract abstract-type="graphical" id="cei13395-abs-0002"><p>Different vaccine strains included in the Live Attenuated Influenza Vaccine (LAIV) have variable efficacy. We performed an immunogenicity study of quadrivalent LAIV in children during the 2015/16 season. There was a significant increase in nasal IgA to the H3N2, B/Victoria lineage (B/Brisbane), and B/Yamagata lineage (B/Phuket) components, but not to the H1N1 component.<boxed-text position="anchor" content-type="graphic" id="cei13395-blkfxd-0001" orientation="portrait"><graphic xlink:href="CEI-199-109-g006.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cei13395-kwd-0001">children</kwd><kwd id="cei13395-kwd-0002">influenza</kwd><kwd id="cei13395-kwd-0003">nasal</kwd><kwd id="cei13395-kwd-0004">public health</kwd><kwd id="cei13395-kwd-0005">vaccine</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Institute for Health Research </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000272</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source>National Vaccine Evaluation Consortium</funding-source><award-id>Awarded to Liz Miller</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>UK Medical Research Council </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000265</institution-id></institution-wrap></funding-source><award-id>MR/K010468/1</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="2"/><page-count count="10"/><word-count count="5402"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:13.01.2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="cei13395-body-0001"><sec id="cei13395-sec-0001"><title>Introduction</title><p>Influenza infection is a significant cause of morbidity and mortality worldwide; the World Health Organization (WHO) estimates that there are 3&#x02013;5&#x000a0;million severe cases every year, causing 290&#x000a0;000&#x02013;650&#x000a0;000 deaths globally <xref rid="cei13395-bib-0001" ref-type="ref">1</xref>. Vaccination remains the main preventative strategy, but efficacy is highly dependent upon the correct matching of the vaccine strains to the circulating viruses. The vaccine strains are selected twice a year, in February for the northern hemisphere and September for the southern hemisphere. Strain selection is based on surveillance data to identify which strains are circulating and their antigenic differences from historic strains, as determined by changes in gene sequence and haemagglutination inhibition <xref rid="cei13395-bib-0002" ref-type="ref">2</xref>. The most common vaccine used is inactivated influenza vaccine (IIV) administered by injection, but this provides variable levels of protective efficacy, ranging from 10% in 2004&#x02013;05 <xref rid="cei13395-bib-0003" ref-type="ref">3</xref> to 60% in 2010&#x02013;11 <xref rid="cei13395-bib-0004" ref-type="ref">4</xref>. An alternative is the live attenuated influenza vaccine (LAIV), which includes cold&#x02010;adapted attenuated influenza strains and is administered as a nasal spray. This replicates locally in the air&#x02010;cooled upper respiratory tract resulting in a mild, subclinical self&#x02010;limiting infection that does not extend to the warmer lower respiratory tract. The route of administration for LAIV is particularly well&#x02010;suited to the vaccination of children.</p><p>The United Kingdom has implemented the phased introduction of one of the first publicly funded universal influenza vaccination programmes for children using LAIV <xref rid="cei13395-bib-0005" ref-type="ref">5</xref>, at a cost of approximately &#x000a3;100&#x000a0;million per year. The programme is based on cost&#x02010;effectiveness analyses <xref rid="cei13395-bib-0006" ref-type="ref">6</xref>, with a particular emphasis on targeting younger children, who act as a reservoir for potential spread to elderly people. Under the national programme children are immunized annually, receiving a single dose of LAIV even if receiving the vaccine for the first time. However, questions concerning the efficacy of LAIV have arisen. The reported vaccine effectiveness for LAIV in the United States has declined significantly since the emergence of the 2009 swine&#x02010;origin pandemic H1N1 (pH1N1). Before 2009, LAIV showed 85% efficacy against seasonal H1N1 strains in children, falling dramatically to 17% in the 2013&#x02013;14 <xref rid="cei13395-bib-0007" ref-type="ref">7</xref> and 3% in the 2015&#x02013;16 seasons <xref rid="cei13395-bib-0008" ref-type="ref">8</xref>; this led the Advisory Committee on Immunization Practices (ACIP) to recommend suspension of LAIV in the United States for the 2016&#x02013;17 and 2017&#x02013;18 <xref rid="cei13395-bib-0009" ref-type="ref">9</xref> seasons. Both the United Kingdom and Finland continued to use LAIV, as local data demonstrated ongoing vaccine efficacy. The ACIP subsequently approved LAIV for the 2018&#x02013;19 season, following a further change in the H1N1 component by the manufacturer to A/Michigan/45/2015 <xref rid="cei13395-bib-0010" ref-type="ref">10</xref>.</p><p>Within the United Kingdom, differences have also been observed in vaccine efficacy between A and B strains after LAIV immunization <xref rid="cei13395-bib-0011" ref-type="ref">11</xref>. One reason for this may be differences in immunogenicity of the different strains included in LAIV <xref rid="cei13395-bib-0012" ref-type="ref">12</xref>. Vaccine immunogenicity may be affected by viral factors including the fitness of the vaccine virus strain and host factors including prior influenza virus exposure, either from vaccination or infection. We therefore undertook a Phase IV open&#x02010;label study on the immunogenicity of a single dose of a quadrivalent (Fluenz&#x02122; Tetra) in children during the 2015&#x02013;16 season to investigate the local antibody response to different strains in the quadrivalent LAIV formulation and how this might be affected by baseline (pre&#x02010;vaccine) antibody titres. We measured strain&#x02010;specific nasal immunoglobulin (Ig)A, which has previously been proposed as a better correlate of protection against influenza infection for LAIV <xref rid="cei13395-bib-0013" ref-type="ref">13</xref>.</p></sec><sec sec-type="methods" id="cei13395-sec-0002"><title>Methods</title><sec id="cei13395-sec-0003"><title>Study plan</title><p>We conducted a Phase IV open&#x02010;label study of LAIV in children aged 2&#x02013;17&#x000a0;years with enrolment occurring during the United Kingdom influenza season (October 2015&#x02013;January 2016) at a single UK centre (Clinicaltrials.gov registration NCT02549365). The study was approved by the National Health Service (NHS) Health Research Authority, and informed consent/patient assent was obtained. Study participants were recruited at St Mary's Hospital, London. Quadrivalent LAIV (Fluenz Tetra, produced for the 2015&#x02013;16 influenza season) was administered into the nasal airway according to the approved summary of product characteristics. This vaccine had four strains: two A strains: H1N1 (A/California/7/2009 pdm&#x02010;like), H3N2 (A/Switzerland/9715293/2013); and two B strains: Yamagata&#x02010;like (B/Phuket/3073/2013) and Victoria&#x02010;like (B/Brisbane/60/2008). The H1N1 and B/Bris strains had been used in previous seasons, but the H3N2 and B/Phu strains were new to the 2015&#x02013;16 northern hemisphere vaccine recommendation. Nasal samples were collected before immunization in the clinic, with participants or their parents requested to take a follow&#x02010;up nasal sample approximately 4&#x000a0;weeks (allowable limits&#x000a0;=&#x000a0;3&#x02013;6&#x000a0;weeks) after immunization by a flocked swab (Copan Inc., Murietta, CA, USA) and to return this by post. Families were sent an e&#x02010;mail reminder at this time. The brush was vortexed with 300&#x000a0;&#x003bc;l extraction buffer prior to centrifugation in a 0&#x000b7;22&#x000a0;&#x003bc;m Spin&#x02010;X column to remove debris; this process was repeated. Where additional consent was obtained, subjects returned after 4&#x000a0;weeks for a further blood sample. Samples were stored at &#x02013;80&#x000b0;C until assay.</p></sec><sec id="cei13395-sec-0004"><title>Preliminary study on stability of posted samples&#x0200b;</title><p>Adult volunteers were swabbed with a nasal flocked swab inserted into the nasal cavity. Samples were processed as above and stored at &#x02013;80&#x000b0;C until required. A second swab was taken and sent through the mail system to replicate a sample being posted from study participants, and processed upon receipt in the same way.</p></sec><sec id="cei13395-sec-0005"><title>Haemagglutination inhibition (HAI) assay</title><p>Serological&#x000a0;analysis was performed at the National Infection Service of Public Health England (London, UK).&#x000a0;Antigens&#x000a0;for all assays were egg&#x02010;grown; influenza B antigens were Tween80/diethyl&#x02010;ether extracted prior to their use in&#x000a0;haemagglutination inhibition&#x000a0;(HAI) assays by adding Tween<sup>&#x000ae;</sup> 80 to final concentrations of 0&#x000b7;125%, incubation for 20&#x000a0;min at room temperature and addition of a half&#x02010;volume of diethyl ether. The mixtures were stirred for a minimum of 45&#x000a0;min inside a fume cupboard and then left standing until the phases had fully separated and the aqueous phase could be extracted for use as antigen. HAI assays were performed using previously described methods&#x000a0;<xref rid="cei13395-bib-0014" ref-type="ref">14</xref>. Briefly, sera treated to remove non&#x02010;specific inhibitors were twofold serially diluted starting at a 1&#x000a0;:&#x000a0;10 dilution, then mixed with an equal volume (25&#x000a0;&#x003bc;l) of phosphate&#x02010;buffered saline (PBS)&#x000a0;containing four haemagglutinating (HA) units of each of the&#x000a0;vaccine strains. Turkey&#x000a0;red blood cells&#x000a0;(RBC) were used for the influenza A/H1N1pdm09 and influenza B components, and guinea pig RBC for&#x000a0;H3N2. HAI&#x000a0;titres&#x000a0;were expressed as the reciprocal of the last serum dilution that gave complete inhibition of&#x000a0;agglutination.</p></sec><sec id="cei13395-sec-0006"><title>IgA enzyme&#x02010;linked immunosorbent assay (ELISA)</title><p>Influenza&#x02010;specific antibodies were measured using a standardized ELISA <xref rid="cei13395-bib-0015" ref-type="ref">15</xref>. IgA responses were measured in nasal swabs and sera. To detect antigen&#x02010;specific responses, Nunc MaxiSorp 96&#x02010;well plates (Thermo Fisher Scientific, Loughborough, UK) were coated with 1&#x000a0;&#x003bc;g/ml recombinant haemagglutinin from H1N1 (A/California/09), H3N2 (A/Switzerland/9715293/2013), B/Phuket/3073/2013 and B/Brisbane/60/2008 antigens (Sino Biologicals, Beijing, China) and incubated overnight at 4&#x000b0;C. Plates were blocked with 1% bovine serum albumin (BSA) in PBS, which was also used for washing steps. Bound IgA was detected using a biotinylated anti&#x02010;IgA (AbD Serotec, Oxford, UK) followed by poly&#x02010;horseradish peroxidase (HRP) 40 (Fitzgerald Biotech, Oxford, UK). To quantify the concentration of antigen&#x02010;specific antibody, control wells were coated with a combination of anti&#x02010;human lambda and kappa light chain&#x02010;specific antibodies (AbD Serotec) and a dilution series of control non&#x02010;specific IgA (Sigma, Poole, UK) was used as a standard in these wells. 3,3<italic>'</italic>,5,5<italic>'</italic>&#x02010;Tetramethylbenzidine (TMB) with H<sub>2</sub>SO<sub>4</sub> as stop solution was used to detect the response and optical densities read at 450&#x000a0;nm. Nasal IgA units are given as a percentage of total IgA with a minimum set at 0&#x000b7;01% (all values &#x0003c;&#x000a0;0&#x000b7;01% are set to 0&#x000b7;01%) and a requirement that total IgA is at least 0&#x000b7;3&#x000a0;&#x003bc;g/ml.</p></sec><sec id="cei13395-sec-0007"><title>Statistics</title><p>Geometric mean antibody concentrations and fold rises were calculated with 95% confidence intervals and proportions with fourfold rises described. Comparison of antibody concentrations pre&#x02010; to post&#x02010;vaccination as well as between strains was performed using the signed&#x02010;rank test for paired data. Regression on logged data was used to compare baseline nasal IgA (and fold change in nasal IgA) by prior vaccination status. Regression was also used on logged baseline nasal IgA to assess the relationship with age and with logged fold&#x02010;change in nasal IgA or serum HAI.</p><p>Statistical comparison of HAI and IgA titres before and after immunization and comparison of HAI and fold change in IgA were planned as part of the original study; <italic>post&#x02010;hoc</italic> analysis was performed to investigate correlations between age, vaccination status and baseline nasal IgA. For analyses comparing strains, correction was made for six multiple comparisons and for analyses comparing pre&#x02010; and post&#x02010;levels for four multiple comparisons. Analysis was performed in Stata version 15 and GraphPad Prism version 8.</p></sec></sec><sec sec-type="results" id="cei13395-sec-0008"><title>Results</title><sec id="cei13395-sec-0009"><title>Posting swabs does not impact influenza specific nasal IgA recovery</title><p>We undertook a pilot test to confirm that posting of samples (resulting in a 3&#x02010;day delay in processing) had no effect on the recovery of&#x000a0;influenza&#x02010;specific nasal IgA in six adult volunteers. There were no significant differences in antibody levels measured in the fresh or posted samples to either the H1N1 (paired <italic>t</italic>&#x02010;test; <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;47, Supporting information Fig. <xref rid="cei13395-sup-0001" ref-type="supplementary-material">S1</xref>a) or H3N2 (paired <italic>t</italic>&#x02010;test; <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;42, Supporting information, Fig. <xref rid="cei13395-sup-0001" ref-type="supplementary-material">S1</xref>b) antigens.</p></sec><sec id="cei13395-sec-0010"><title>Demographics of cohort for childhood immunization study</title><p>Characteristics of the children vaccinated in the study are shown in Table <xref rid="cei13395-tbl-0001" ref-type="table">1</xref>. Of the 164 children, recruited, 103 provided paired pre&#x02010; and post&#x02010;vaccination samples, and are reported in this paper; in 61 cases, no second nasal swab was received. There were no differences in baseline characteristics between these 103 children and the overall cohort (Table <xref rid="cei13395-tbl-0001" ref-type="table">1</xref>). Fifty children (48&#x000b7;5%) had been previously immunized with an influenza vaccine. Paired blood samples pre&#x02010; and post&#x02010;vaccine were provided in a subgroup of 39 children. No serious adverse effects were reported.</p><table-wrap id="cei13395-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Characteristics of the study population who gave nasal samples</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Characteristic</th><th align="center" valign="top" rowspan="1" colspan="1">Complete cohort <italic>n</italic>&#x000a0;=&#x000a0;164</th><th align="center" valign="top" rowspan="1" colspan="1">Children included in this analysis <italic>n</italic>&#x000a0;+&#x000a0;103</th><th align="center" valign="top" rowspan="1" colspan="1">Previously vaccinated <italic>n</italic>&#x000a0;=&#x000a0;50</th><th align="center" valign="top" rowspan="1" colspan="1">Previously unvaccinated <italic>n</italic>&#x000a0;=&#x000a0;53</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">65 (40%)</td><td align="center" rowspan="1" colspan="1">37 (36%)</td><td align="center" rowspan="1" colspan="1">15 (30%)</td><td align="center" rowspan="1" colspan="1">22 (41&#x000b7;5%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of siblings (median, range)</td><td align="center" rowspan="1" colspan="1">1 (0&#x02013;6)</td><td align="center" rowspan="1" colspan="1">1 (0&#x02013;6)</td><td align="center" rowspan="1" colspan="1">1 (0&#x02013;6)</td><td align="center" rowspan="1" colspan="1">1 (0&#x02013;4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age, years (median, range)</td><td align="center" rowspan="1" colspan="1">7 (2&#x02013;17)</td><td align="center" rowspan="1" colspan="1">8 (2&#x02013;16)</td><td align="center" rowspan="1" colspan="1">9&#x000b7;5 (2&#x02013;16)*</td><td align="center" rowspan="1" colspan="1">7&#x000b7;5 (2&#x02013;15)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2&#x02013;5</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">36</td><td align="center" rowspan="1" colspan="1">16</td><td align="center" rowspan="1" colspan="1">20</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">6&#x02013;11</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">37</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">22</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">12&#x02013;17</td><td align="center" rowspan="1" colspan="1">&#x000a0;</td><td align="center" rowspan="1" colspan="1">30</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">11</td></tr><tr><td align="left" rowspan="1" colspan="1">Asthma or wheeze</td><td align="center" rowspan="1" colspan="1">81 (49%)</td><td align="center" rowspan="1" colspan="1">51 (50%)</td><td align="center" rowspan="1" colspan="1">32 (64%)**</td><td align="center" rowspan="1" colspan="1">19 (38%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Any atopy</td><td align="center" rowspan="1" colspan="1">116 (71%)</td><td align="center" rowspan="1" colspan="1">68 (66%)</td><td align="center" rowspan="1" colspan="1">36 (72%)</td><td align="center" rowspan="1" colspan="1">32 (60%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Date of vaccination in study (median month)</td><td align="center" rowspan="1" colspan="1">November</td><td align="center" rowspan="1" colspan="1">November</td><td align="center" rowspan="1" colspan="1">November</td><td align="center" rowspan="1" colspan="1">November</td></tr><tr><td align="left" rowspan="1" colspan="1">Previous vaccination (all types)</td><td align="center" rowspan="1" colspan="1">78 (48%)</td><td align="center" rowspan="1" colspan="1">50 (49%)</td><td align="center" rowspan="1" colspan="1">50</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Previous vaccination (LAIV)</td><td align="center" rowspan="1" colspan="1">41</td><td align="center" rowspan="1" colspan="1">24</td><td align="center" rowspan="1" colspan="1">24</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Previous vaccination (IIV)</td><td align="center" rowspan="1" colspan="1">36</td><td align="center" rowspan="1" colspan="1">20</td><td align="center" rowspan="1" colspan="1">20</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Previous vaccination (unknown format)</td><td align="center" rowspan="1" colspan="1">7</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Previous vaccination (Pandemrix only)</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">Paired blood samples collected</td><td align="center" rowspan="1" colspan="1">42</td><td align="center" rowspan="1" colspan="1">39</td><td align="center" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">16</td></tr></tbody></table><table-wrap-foot id="cei13395-ntgp-0001"><fn id="cei13395-note-0001"><p>Age, years, *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05 by <italic>t</italic>&#x02010;test; asthma, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;01 by Fisher's exact test.</p></fn><fn id="cei13395-note-0002"><p>LAIV&#x000a0;=&#x000a0;live attenuated influenza vaccine.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cei13395-sec-0011"><title>LAIV immunization induces local and systemic IgA response to some but not all strains in the vaccine</title><p>Because LAIV is delivered mucosally, the induction of a local immune response may be relevant in its protective efficacy; we therefore measured antigen&#x02010;specific IgA responses in nasal samples against all strains by ELISA and normalized these to total IgA in the samples. Variable sample recovery and low amounts of total IgA meant that responses could not be assessed against all antigens for all participants (Table <xref rid="cei13395-tbl-0002" ref-type="table">2</xref>). There was a significant increase in nasal IgA titre to the H3N2, B/Bris and B/Phu components (Fig. <xref rid="cei13395-fig-0001" ref-type="fig">1</xref>a), but no change in the response to H1N1. The geometric mean fold&#x02010;change in the nasal H3N2 IgA response [2&#x000b7;3 (1&#x000b7;7&#x02013;3&#x000b7;1)] was significantly greater than the fold&#x02010;change in the nasal IgA to H1N1 [1&#x000b7;0 (0&#x000b7;8&#x02013;1&#x000b7;3), <italic>P</italic>&#x000a0;&#x0003c; 0&#x000b7;001] or B/Phu [1&#x000b7;4 (1&#x000b7;1&#x02013;263), <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;0048] (Fig. <xref rid="cei13395-fig-0001" ref-type="fig">1</xref>b). We also measured the influenza&#x02010;specific IgA in the serum of the 39 children who gave blood samples. No differences were seen in antigen&#x02010;specific serum IgA (Fig. <xref rid="cei13395-fig-0001" ref-type="fig">1</xref>c) or fold&#x02010;change between pre&#x02010; and post&#x02010;vaccination serum samples (Fig. <xref rid="cei13395-fig-0001" ref-type="fig">1</xref>d). Nasal IgA seroconversion rates of the four vaccine strains, defined as a fourfold increase in absolute nasal IgA antibodies pre&#x02010; and post&#x02010;vaccination, were as follows; 7&#x000b7;4% (7/95) for H1N1, 29&#x000b7;5% (28/95) for H3N2, 28&#x000b7;2% (24/85) for B/Bris and 11&#x000b7;7% (9/77) for B/Phu. No recipient had a fourfold increase in serum IgA to all four strains.</p><table-wrap id="cei13395-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Nasal swab IgA responses to vaccination</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Antigen</th><th align="center" valign="top" rowspan="1" colspan="1">Samples analysed</th><th align="center" valign="top" rowspan="1" colspan="1">Pre&#x02010;immunization</th><th align="center" valign="top" rowspan="1" colspan="1">Post&#x02010;immunization</th><th align="center" valign="top" rowspan="1" colspan="1">Fold&#x02010;change</th><th align="center" valign="top" rowspan="1" colspan="1">Proportion with fourfold increase</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">H1N1 (A/California/7/2009 pdm&#x02010;like)</td><td align="center" rowspan="1" colspan="1">95/103 (92%)</td><td align="center" rowspan="1" colspan="1">0&#x000b7;042 (0&#x000b7;033&#x02013;0&#x000b7;053)</td><td align="center" rowspan="1" colspan="1">0&#x000b7;041 (0&#x000b7;033&#x02013;0&#x000b7;053)</td><td align="center" rowspan="1" colspan="1">1&#x000b7;0 (0&#x000b7;80&#x02013;1&#x000b7;3)</td><td align="center" rowspan="1" colspan="1">7/95</td></tr><tr><td align="left" rowspan="1" colspan="1">H3N2 (A/Switzerland/9715293/2013)</td><td align="center" rowspan="1" colspan="1">95/103 (92%)</td><td align="center" rowspan="1" colspan="1">0&#x000b7;024 (0&#x000b7;019&#x02013;0&#x000b7;030)</td><td align="center" rowspan="1" colspan="1">0&#x000b7;057 (0&#x000b7;043&#x02013;0&#x000b7;075)</td><td align="center" rowspan="1" colspan="1">2&#x000b7;3 (1&#x000b7;7&#x02013;3&#x000b7;1)</td><td align="center" rowspan="1" colspan="1">28/95</td></tr><tr><td align="left" rowspan="1" colspan="1">B: Yamagata&#x02010;like (B/Brisbane/60/2008)</td><td align="center" rowspan="1" colspan="1">85/103 (83%)</td><td align="center" rowspan="1" colspan="1">0&#x000b7;025 (0&#x000b7;020&#x02013;0&#x000b7;032)</td><td align="center" rowspan="1" colspan="1">0&#x000b7;047 (0&#x000b7;035&#x02013;0&#x000b7;063)</td><td align="center" rowspan="1" colspan="1">1&#x000b7;9 (1&#x000b7;4&#x02013;2&#x000b7;5)</td><td align="center" rowspan="1" colspan="1">24/85</td></tr><tr><td align="left" rowspan="1" colspan="1">B: Victoria&#x02010;like (B/Phuket/3073/2013)</td><td align="center" rowspan="1" colspan="1">77/103 (75%)</td><td align="center" rowspan="1" colspan="1">0&#x000b7;015 (0&#x000b7;013&#x02013;0&#x000b7;017)</td><td align="center" rowspan="1" colspan="1">0&#x000b7;020 (0&#x000b7;016&#x02013;0&#x000b7;024)</td><td align="center" rowspan="1" colspan="1">1&#x000b7;4 (1&#x000b7;1&#x02013;1&#x000b7;6)</td><td align="center" rowspan="1" colspan="1">9/77</td></tr></tbody></table><table-wrap-foot id="cei13395-ntgp-0002"><fn id="cei13395-note-0003"><p>Data presented as geometric mean of antigen&#x02010;specific titre as a percentage of total immunoglobulin (IgA) and 95% confidence intervals.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="cei13395-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Live attenuated influenza vaccine (LAIV) immunization induces a nasal immunoglobulin (Ig)A response to some, but not all, strains in the vaccine. Children were immunized with LAIV, serum samples were collected from 39 children and nasal samples were collected from 103 children before (pre) and after (post) immunization. IgA titre (a,c) and fold change (b,d) were measured in nasal (a,b) and serum (c,d) samples. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;01; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001. Points represent individuals, with lines representing geomean.</p></caption><graphic id="nlm-graphic-3" xlink:href="CEI-199-109-g001"/></fig></sec><sec id="cei13395-sec-0012"><title>Factors affecting nasal IgA responses</title><p>Given the significant differences in nasal IgA responses to the different antigens, we performed a <italic>post&#x02010;hoc</italic> analysis to evaluate the factors that might cause these differences. One possibility is that pre&#x02010;existing immunity may reduce vaccine response. We investigated whether there was a link between baseline nasal IgA and fold change in nasal IgA after immunization. There was a weak but significant negative relationship between baseline nasal IgA and fold&#x02010;change in response for H1N1, H3N2 and B/Bris (Fig. <xref rid="cei13395-fig-0002" ref-type="fig">2</xref>). As baseline nasal IgA response may reflect the history of virus exposure which is dependent on age, we compared the age of the child at immunization with the baseline nasal IgA (Fig. <xref rid="cei13395-fig-0003" ref-type="fig">3</xref>). We found a significant, but again very weak, correlation between age and baseline nasal IgA for H3N2 (Fig. <xref rid="cei13395-fig-0003" ref-type="fig">3</xref>b) and B/Bris (Fig. <xref rid="cei13395-fig-0003" ref-type="fig">3</xref>c), but no correlation for nasal IgA responses to H1N1 (Fig. <xref rid="cei13395-fig-0003" ref-type="fig">3</xref>a) or B/Phu (Fig. <xref rid="cei13395-fig-0003" ref-type="fig">3</xref>d).</p><fig fig-type="Figure" xml:lang="en" id="cei13395-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Relationship between baseline nasal immunoglobulin (Ig)A titre and fold change in nasal IgA response. Nasal IgA titre at baseline was compared to the fold change in response to H1N1 (a), H3N2 (b), B/Bris (c) and B/Phu (d) antigens.</p></caption><graphic id="nlm-graphic-5" xlink:href="CEI-199-109-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="cei13395-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Relationship between age and baseline nasal immunoglobulin (Ig)A. Age was compared to the nasal IgA titre at baseline to H1N1 (a), H3N2 (b), B/Bris (c) and B/Phu (d) antigens for all children.</p></caption><graphic id="nlm-graphic-7" xlink:href="CEI-199-109-g003"/></fig><p>We also investigated whether previous influenza vaccination affected nasal IgA. The children were grouped by whether or not they previously had received influenza vaccination. Two of the strains in this study have been previously included in LAIV: A/California/7/2009 pdm&#x02010;like and B/Brisbane/60/2008, and two of the strains were newly included in the 2015&#x02013;16 vaccine formulation: A/Switzerland/9715293/2013 and B/Phuket/3073/2013. There was no difference in the baseline nasal IgA titres to any of the vaccine strains when comparing vaccine&#x02010;naive children and previously vaccinated children (Fig. <xref rid="cei13395-fig-0004" ref-type="fig">4</xref>a). We did not identify a difference in baseline nasal IgA titres in children who had previously received LAIV compared to IIV (Fig. <xref rid="cei13395-fig-0004" ref-type="fig">4</xref>b). There was no significant difference in fold&#x02010;change of nasal IgA when children were grouped by previous vaccination history (Fig. <xref rid="cei13395-fig-0004" ref-type="fig">4</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="cei13395-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Impact of influenza vaccination history on nasal immunoglobulin (Ig)A. Children grouped by previous vaccination status, vaccinated (closed symbols) or no previous vaccine (open symbols). Baseline nasal IgA prior to immunization comparing previously immunized and immunized (a) comparing previously immunized by vaccine type before&#x000a0;&#x02013;&#x000a0;live attenuated influenza vaccine (LAIV) or IIV (b). Nasal IgA fold change (c) points represent individuals, lines geomean.</p></caption><graphic id="nlm-graphic-9" xlink:href="CEI-199-109-g004"/></fig><p>We have previously observed that baseline nasal IgA affected the number of days of viral shedding during human influenza challenge infection <xref rid="cei13395-bib-0015" ref-type="ref">15</xref>. As a link between LAIV viral shedding and immunogenicity has been proposed <xref rid="cei13395-bib-0016" ref-type="ref">16</xref>, we investigated whether baseline nasal IgA affected vaccine immunogenicity. We looked at fold&#x02010;change in HAI as a surrogate measure of immunogenicity in a subset of children. There was no relationship between baseline nasal IgA and HAI fold&#x02010;change for H1N1 (Fig. <xref rid="cei13395-fig-0005" ref-type="fig">5</xref>a), B/Bris (Fig. <xref rid="cei13395-fig-0005" ref-type="fig">5</xref>b) or B/Phu (Fig. <xref rid="cei13395-fig-0005" ref-type="fig">5</xref>c). However, children with a higher level of H3N2&#x02010;specific nasal IgA at baseline had a significantly lower HAI fold&#x02010;change (Fig. <xref rid="cei13395-fig-0005" ref-type="fig">5</xref>d).</p><fig fig-type="Figure" xml:lang="en" id="cei13395-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Relationship between baseline nasal immunoglobulin (Ig)A and fold change in haemagglutination inhibition assay (HAI) response. Nasal IgA titre at baseline was compared to the fold change in HAI response to H1N1 (a), H3N2 (b), B/Bris (c) and B/Phu (d) antigens.</p></caption><graphic id="nlm-graphic-11" xlink:href="CEI-199-109-g005"/></fig></sec></sec><sec sec-type="discussion" id="cei13395-sec-0013"><title>Discussion</title><p>In this study, we measured local, nasal IgA responses following vaccination of children with quadrivalent LAIV in the 2015&#x02013;16 season. There was an increase in the nasal IgA to both B strains and H3N2, but not H1N1. The fold change in response to nasal IgA was inversely proportional to baseline nasal IgA titre and there was a correlation between age and baseline titre to the H3N2 and B/Bris strains. Based on these data, we conclude that LAIV is able to induce a nasal IgA response, but the response varies among the different strains incorporated in the vaccine: this is similar to the pattern seen in HAI responses <xref rid="cei13395-bib-0017" ref-type="ref">17</xref>.</p><p>The pH1N1 strain (A/California/7/2009 pdm&#x02010;like: A/Bolivia/559/2013) did not induce a significant change in nasal IgA. This matches observations of LAIV vaccination in the same time&#x02010;period where changes in (serum) HAI responses to B antigens were greater than to H1N1 <xref rid="cei13395-bib-0017" ref-type="ref">17</xref>. These differences in immune response may reflect reduced vaccine efficacy for the H1N1 component of LAIV <xref rid="cei13395-bib-0018" ref-type="ref">18</xref>. It is not clear why individual strains behave differently. It has been suggested that the incorporation of the pH1N1&#x02010;derived haemagglutinin has an effect on vaccine thermostability <xref rid="cei13395-bib-0019" ref-type="ref">19</xref>. This might be exacerbated by the multivalent nature of LAIV: with the current recommendation to include four strains (H1N1, H3N2 and two influenza B strains), fitter strains may outcompete or induce an anti&#x02010;viral state that inhibits the take of the other strains. Such an effect is seen with trivalent oral polio vaccine <xref rid="cei13395-bib-0020" ref-type="ref">20</xref>, <xref rid="cei13395-bib-0021" ref-type="ref">21</xref> in which the type 2 strain is the most immunogenic and interferes with the take of types 1 and 3 in the vaccine. A recent study has shown that changing the H1N1 strain in the St Petersburg backbone vaccine has led to increased vaccine shedding and immunogenicity <xref rid="cei13395-bib-0016" ref-type="ref">16</xref>. Further studies are required to investigate the link between shedding and immunogenicity.</p><p>The other aspect we investigated in the current study was the impact of pre&#x02010;existing immunity on vaccine immunogenicity. It has been suggested that repeated vaccination in the United States may have been a contributing factor to reduced LAIV vaccine efficacy. Given the UK programme, it is important to understand whether repeated vaccination may contribute to reduced vaccine efficacy. We found that higher baseline nasal IgA titres were associated with significantly lower fold&#x02010;changes in nasal IgA for some vaccine subtypes. For H3N2 and B/Bris, there was a correlation with age and baseline titre; this was not seen for H1N1 and B/Phu. Differences in baseline nasal IgA cannot be explained by previous vaccine exposure alone, as there was no difference in baseline titre when children were compared by vaccination history. This suggests that other factors are affecting the differences in response to the different strains in the vaccine.</p><p>Recovery was limited for some of the mucosal samples, and we were unable to analyse all four strains for all the volunteers. We have previously looked at other methodologies for sampling the nasal mucosa for antibody and observed that synthetic absorptive matrix (SAM) strips gave the greatest concentration yield of antibody <xref rid="cei13395-bib-0022" ref-type="ref">22</xref>. The current study suggests that, for larger community&#x02010;based studies, posting samples on flocked swabs is effective. The nasal swabbing was considerably less invasive than collecting blood for HAI; hence, we received a greater number of samples for nasal IgA analysis. Replacing blood collection with other, less invasive sampling methods that can be performed remotely by the study recipient or carer may lead to greater response rates, and is likely to explain the higher rate of families willing to participate in the nasal sampling than the serological sampling in our study, although compliance with the follow&#x02010;up nasal sample self&#x02010;taken at home was disappointing. We did not find any obvious differences in those children with paired samples compared to the overall cohort, so this was not expected to bias the study.</p><p>It remains unclear as to the best correlate of protection for LAIV. Other studies have linked protective efficacy of LAIV to nasal IgA in children <xref rid="cei13395-bib-0023" ref-type="ref">23</xref> and suggested that nasal IgA could be considered as a co&#x02010;correlate of protection. That we saw no increase in nasal IgA fold to the H1N1 strain after vaccination supports the relatively lower efficacy to H1N1 of LAIV observed elsewhere. We have recently observed that mucosal IgA correlates with reduced viral shedding after human influenza challenge <xref rid="cei13395-bib-0015" ref-type="ref">15</xref>. This may be important when considering the herd immunity value of LAIV: if vaccine&#x02010;induced nasal IgA reduces the time vaccinated individuals shed virus if they become infected, this may prevent spread to older, more at&#x02010;risk populations, as seen with pneumococcal conjugate vaccine <xref rid="cei13395-bib-0024" ref-type="ref">24</xref>. While we were unable to directly assess vaccine efficacy, comparing our data to surveillance data for the same time&#x02010;period of the study is of interest. The 2015&#x02013;16 influenza season, when our study was performed, was characterized by influenza A(H1N1)pdm09 viruses followed by B/Brisbane/60/2008 (the influenza B/Victoria lineage virus) later in the season <xref rid="cei13395-bib-0025" ref-type="ref">25</xref>. Vaccine efficacy (VE) for LAIV in 2015&#x02013;16 reflected what we saw with the antibody response&#x000a0;&#x02013;&#x000a0;H1N1 did not induce a significant increase in nasal IgA and the VE was only 41&#x000b7;5%, B/Bris induced a significant increase in nasal IgA and the VE was 81&#x000b7;4%, compared to 56&#x000b7;4% for IIV. However, this inference is limited due to a lack of VE data with respect to H3N2 or B/Phu in the same time&#x02010;period. Because the enrolment occurred throughout the influenza season, some of the changes in titre seen may be caused by infection rather than immunization, but the majority of immunizations were given early in the season, reducing the likelihood of this.</p><p>In the current study, we investigated the IgA response in serum and nasal secretions to quadrivalent LAIV in children. We observed differences in responses between the four strains included in the vaccine in 2015&#x02013;16. As seen previously with HAI responses in serum <xref rid="cei13395-bib-0017" ref-type="ref">17</xref> the H1N1 strain was less immunogenic than other strains. We still do not fully understand how LAIV protects against influenza infection, and what role nasal IgA plays within this. Understanding the mechanisms of LAIV&#x02010;induced protection is important for future vaccine development and implementation.</p></sec><sec sec-type="COI-statement" id="cei13395-sec-0015"><title>Disclosures</title><p>There were no competing interests.</p></sec><sec id="cei13395-sec-0016"><title>Author contributions</title><p>P. J. T. was Chief Investigator of the study. A. F. A. collected samples. M. E. C., R. R. J., V. G. and K. H. performed laboratory analysis. M. E. O'D. and N J. A. performed statistical analysis. M. Z., E. M., P. J. T. and J. T. designed the study and wrote the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="cei13395-sup-0001"><caption><p>
+<bold>Fig. S1.</bold> Recovery of influenza specific nasal IgA is not affected by posting samples. Adult volunteers, had nasal samples collected by flocked swab. Samples were either processed directly from the nose or posted via the internal mail system. Having processed the samples they were analysed for H1N1 (a) or H3N2 (b) specific nasal IgA by ELISA. <italic>n</italic> = 6.</p></caption><media xlink:href="CEI-199-109-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cei13395-sec-0014"><title>Acknowledgements</title><p>We thank Professor Steven Riley for assistance with the data analysis approach. This paper is independent research funded by the National Institute for Health Research (NIHR) Imperial Biomedical Research Centre (BRC) and the NIHR Policy Research Programme (Vaccine Evaluation Consortium Phase II, 039/0031: grant holder E. M.). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care. P. J. T. was supported by a Clinician Scientist award funded by the UK Medical Research Council (reference MR/K010468/1).</p></ack><ref-list content-type="cited-references" id="cei13395-bibl-0001"><title>References</title><ref id="cei13395-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cei13395-cit-0001">
+<string-name>
+<surname>Lee</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>
+<given-names>ZJM</given-names>
+</string-name>, <string-name>
+<surname>Goh</surname>
+<given-names>EH</given-names>
+</string-name>
+<italic>et al</italic> and <collab collab-type="authors">the WHO Working Group on Influenza Burden of Disease</collab>
+. <article-title>Advances in measuring influenza burden of disease</article-title>. <source xml:lang="en">Influenza Other Respir Viruses</source>
+<year>2018</year>; <volume>12</volume>:<fpage>3</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">29460425</pub-id></mixed-citation></ref><ref id="cei13395-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cei13395-cit-0002">
+<string-name>
+<surname>Stohr</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bucher</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Colgate</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Influenza virus surveillance, vaccine strain selection, and manufacture</article-title>. <source xml:lang="en">Methods Mol Biol</source>
+<year>2012</year>; <volume>865</volume>:<fpage>147</fpage>&#x02013;<lpage>62</lpage>.<pub-id pub-id-type="pmid">22528158</pub-id></mixed-citation></ref><ref id="cei13395-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cei13395-cit-0003">
+<string-name>
+<surname>Belongia</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Kieke</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Donahue</surname>
+<given-names>JG</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Effectiveness of inactivated influenza vaccines varied substantially with antigenic match from the 2004&#x02013;2005 season to the 2006&#x02013;2007 season</article-title>. <source xml:lang="en">J Infect Dis</source>
+<year>2009</year>; <volume>199</volume>:<fpage>159</fpage>&#x02013;<lpage>67</lpage>.<pub-id pub-id-type="pmid">19086915</pub-id></mixed-citation></ref><ref id="cei13395-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cei13395-cit-0004">
+<string-name>
+<surname>Treanor</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Talbot</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>Ohmit</surname>
+<given-names>SE</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Effectiveness of seasonal influenza vaccines in the United States during a season with circulation of all three vaccine strains</article-title>. <source xml:lang="en">Clin Infect Dis </source>
+<year>2012</year>; <volume>55</volume>:<fpage>951</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">22843783</pub-id></mixed-citation></ref><ref id="cei13395-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cei13395-cit-0005">
+<string-name>
+<surname>Pebody</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Sinnathamby</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Warburton</surname>
+<given-names>F</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Uptake and impact of vaccinating primary school&#x02010;age children against influenza: experiences of a live attenuated influenza vaccine programme, England, 2015/16</article-title>. <source xml:lang="en">Euro Surveill </source>
+<year>2018</year>; <volume>23</volume>:<fpage>1</fpage>&#x02013;<lpage>15</lpage>.</mixed-citation></ref><ref id="cei13395-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cei13395-cit-0006">
+<string-name>
+<surname>Thorrington</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>van Leeuwen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ramsay</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pebody</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Baguelin</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Cost&#x02010;effectiveness analysis of quadrivalent seasonal influenza vaccines in England</article-title>. <source xml:lang="en">BMC Med</source>
+<year>2017</year>; <volume>15</volume>:<fpage>166</fpage>.<pub-id pub-id-type="pmid">28882149</pub-id></mixed-citation></ref><ref id="cei13395-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cei13395-cit-0007">
+<string-name>
+<surname>Gaglani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pruszynski</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Murthy</surname>
+<given-names>K</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Influenza vaccine effectiveness against 2009 pandemic influenza A(H1N1) virus differed by vaccine type during 2013&#x02013;2014 in the United States</article-title>. <source xml:lang="en">J Infect Dis</source>
+<year>2016</year>; <volume>213</volume>:<fpage>1546</fpage>&#x02013;<lpage>56</lpage>.<pub-id pub-id-type="pmid">26743842</pub-id></mixed-citation></ref><ref id="cei13395-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cei13395-cit-0008">
+<string-name>
+<surname>Pebody</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>McMenamin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nohynek</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Live attenuated influenza vaccine (LAIV): recent effectiveness results from the USA and implications for LAIV programmes elsewhere</article-title>. <source xml:lang="en">Arch Dis Child</source>
+<year>2018</year>; <volume>103</volume>:<fpage>101</fpage>&#x02013;<lpage>5</lpage>.<pub-id pub-id-type="pmid">28855230</pub-id></mixed-citation></ref><ref id="cei13395-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cei13395-cit-0009">
+<string-name>
+<surname>Grohskopf</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Sokolow</surname>
+<given-names>LZ</given-names>
+</string-name>, <string-name>
+<surname>Broder</surname>
+<given-names>KR</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Prevention and control of seasonal influenza with vaccines: recommendations of the Advisory Committee on Immunization Practices&#x000a0;&#x02013;&#x000a0;United States, 2017&#x02013;18 influenza season</article-title>. <source xml:lang="en">Morb Mort Weekly Rep </source>
+<year>2017</year>; <volume>66</volume>:<fpage>1</fpage>&#x02013;<lpage>20</lpage>.</mixed-citation></ref><ref id="cei13395-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cei13395-cit-0010">
+<string-name>
+<surname>Grohskopf</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Sokolow</surname>
+<given-names>LZ</given-names>
+</string-name>, <string-name>
+<surname>Broder</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Walter</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Fry</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Jernigan</surname>
+<given-names>DB</given-names>
+</string-name>. <article-title>Prevention and control of seasonal influenza with vaccines: recommendations of the Advisory Committee on Immunization Practices&#x000a0;&#x02013;&#x000a0;United States, 2018&#x02013;19 influenza season</article-title>. <source xml:lang="en">Morb Mort Weekly Rep </source>
+<year>2018</year>; <volume>67</volume>:<fpage>1</fpage>&#x02013;<lpage>20</lpage>.</mixed-citation></ref><ref id="cei13395-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cei13395-cit-0011">
+<string-name>
+<surname>Pebody</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Warburton</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ellis</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>End&#x02010;of&#x02010;season influenza vaccine effectiveness in adults and children, United Kingdom, 2016/17</article-title>. <source xml:lang="en">Euro Surveill</source>
+<year>2017</year>; <volume>22</volume>:<fpage>17</fpage>&#x02013;<lpage>00306</lpage>.</mixed-citation></ref><ref id="cei13395-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cei13395-cit-0012">
+<string-name>
+<surname>Singanayagam</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zambon</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lalvani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Barclay</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Urgent challenges in implementing live attenuated influenza vaccine</article-title>. <source xml:lang="en">Lancet Infect Dis</source>
+<year>2018</year>; <volume>18</volume>:<fpage>e25</fpage>&#x02013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">28780285</pub-id></mixed-citation></ref><ref id="cei13395-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cei13395-cit-0013">
+<string-name>
+<surname>Belshe</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Gruber</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Mendelman</surname>
+<given-names>PM</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Correlates of immune protection induced by live, attenuated, cold&#x02010;adapted, trivalent, intranasal influenza virus vaccine</article-title>. <source xml:lang="en">J Infect Dis</source>
+<year>2000</year>; <volume>181</volume>:<fpage>1133</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">10720541</pub-id></mixed-citation></ref><ref id="cei13395-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cei13395-cit-0014">
+<string-name>
+<surname>Hoschler</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Andrews</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Faust</surname>
+<given-names>SN</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Administration of AS03B&#x02010;adjuvanted A(H1N1)pdm09 vaccine in children aged &#x0003e;3; 3 years enhances antibody response to H3 and B Viruses following a single dose of trivalent vaccine one year later</article-title>. <source xml:lang="en">Clin Infect Dis</source>
+<year>2014</year>; <volume>58</volume>:<fpage>181</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">24149079</pub-id></mixed-citation></ref><ref id="cei13395-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cei13395-cit-0015">
+<string-name>
+<surname>Gould</surname>
+<given-names>VMW</given-names>
+</string-name>, <string-name>
+<surname>Francis</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Georges</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Cope</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Tregoning</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Nasal IgA provides protection against human influenza challenge in volunteers with low serum influenza antibody titre</article-title>. <source xml:lang="en">Front Microbiol</source>
+<year>2017</year>; <volume>8</volume>:<fpage>900</fpage>.<pub-id pub-id-type="pmid">28567036</pub-id></mixed-citation></ref><ref id="cei13395-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cei13395-cit-0016">
+<string-name>
+<surname>Lindsey</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name>
+<surname>Jagne</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Armitage</surname>
+<given-names>EP</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Use of a pandemic H1N1 strain with updated haemagglutinin and neuraminidase results in increased nasopharyngeal shedding and improved immunogenicity to Russian&#x02010;backbone live attenuated influenza vaccine among children aged 2&#x02013;4 years old: an open label, prospective, observational, phase 4 study in The Gambia</article-title>. <source xml:lang="en">bioRxiv</source>
+<year>2019</year>:<fpage>519256</fpage>.</mixed-citation></ref><ref id="cei13395-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cei13395-cit-0017">
+<string-name>
+<surname>Hoschler</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Southern</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>C</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Responses to live attenuated influenza vaccine in children vaccinated previously with Pandemrix (ASO3B adjuvanted pandemic A/H1N1pdm09)</article-title>. <source xml:lang="en">Vaccine</source>
+<year>2018</year>; <volume>36</volume>:<fpage>3034</fpage>&#x02013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">29680198</pub-id></mixed-citation></ref><ref id="cei13395-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cei13395-cit-0018">
+<string-name>
+<surname>Chung</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Flannery</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>MG</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Seasonal effectiveness of live attenuated and inactivated influenza vaccine</article-title>. <source xml:lang="en">Pediatrics</source>
+<year>2016</year>; <volume>137</volume>:<fpage>1</fpage>&#x02013;<lpage>10</lpage>.</mixed-citation></ref><ref id="cei13395-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cei13395-cit-0019">
+<string-name>
+<surname>Caspard</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Coelingh</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Mallory</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Ambrose</surname>
+<given-names>CS</given-names>
+</string-name>. <article-title>Association of vaccine handling conditions with effectiveness of live attenuated influenza vaccine against H1N1pdm09 viruses in the United States</article-title>. <source xml:lang="en">Vaccine</source>
+<year>2016</year>; <volume>34</volume>:<fpage>5066</fpage>&#x02013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">27613072</pub-id></mixed-citation></ref><ref id="cei13395-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cei13395-cit-0020">
+<string-name>
+<surname>Grassly</surname>
+<given-names>NC</given-names>
+</string-name>. <article-title>The final stages of the global eradication of poliomyelitis</article-title>. <source xml:lang="en">Phil Trans R Soc B Biol Sci</source>
+<year>2013</year>; <volume>368</volume>:<fpage>20120140</fpage>.</mixed-citation></ref><ref id="cei13395-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cei13395-cit-0021">
+<string-name>
+<surname>Hanley</surname>
+<given-names>KA</given-names>
+</string-name>. <article-title>The double&#x02010;edged sword: how evolution can make or break a live&#x02010;attenuated virus vaccine</article-title>. <source xml:lang="en">Evolution</source>
+<year>2011</year>; <volume>4</volume>:<fpage>635</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">22468165</pub-id></mixed-citation></ref><ref id="cei13395-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cei13395-cit-0022">
+<string-name>
+<surname>de Silva</surname>
+<given-names>TI</given-names>
+</string-name>, <string-name>
+<surname>Gould</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Mohammed</surname>
+<given-names>NI</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Comparison of mucosal lining fluid sampling methods and influenza&#x02010;specific IgA detection assays for use in human studies of influenza immunity</article-title>. <source xml:lang="en">J Immunol Methods</source>
+<year>2017</year>; <volume>449</volume>:<fpage>1</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">28647455</pub-id></mixed-citation></ref><ref id="cei13395-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cei13395-cit-0023">
+<string-name>
+<surname>Ambrose</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mallory</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>The role of nasal IgA in children vaccinated with live attenuated influenza vaccine</article-title>. <source xml:lang="en">Vaccine</source>
+<year>2012</year>; <volume>30</volume>:<fpage>6794</fpage>&#x02013;<lpage>801</lpage>.<pub-id pub-id-type="pmid">23000125</pub-id></mixed-citation></ref><ref id="cei13395-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cei13395-cit-0024">
+<string-name>
+<surname>Simonsen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Young&#x02010;Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Haber</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>May</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Klugman</surname>
+<given-names>KP</given-names>
+</string-name>. <article-title>Impact of pneumococcal conjugate vaccination of infants on pneumonia and influenza hospitalization and mortality in all age groups in the United States</article-title>. <source xml:lang="en">MBio</source>
+<year>2011</year>; <volume>2</volume>:<fpage>e00309</fpage>&#x02013;<lpage>e310</lpage>.<pub-id pub-id-type="pmid">21264063</pub-id></mixed-citation></ref><ref id="cei13395-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cei13395-cit-0025">
+<string-name>
+<surname>Pebody</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Warburton</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ellis</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Effectiveness of seasonal influenza vaccine for adults and children in preventing laboratory&#x02010;confirmed influenza in primary care in the United Kingdom: 2015/16 end&#x02010;of&#x02010;season results</article-title>. <source xml:lang="en">Eurosurveillance</source>
+<year>2016</year>; <volume>21</volume>:<fpage>30348</fpage>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,777 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Protein Sci</journal-id><journal-id journal-id-type="iso-abbrev">Protein Sci</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1469-896X</journal-id><journal-id journal-id-type="publisher-id">PRO</journal-id><journal-title-group><journal-title>Protein Science : A Publication of the Protein Society</journal-title></journal-title-group><issn pub-type="ppub">0961-8368</issn><issn pub-type="epub">1469-896X</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31811668</article-id><article-id pub-id-type="pmc">6954729</article-id><article-id pub-id-type="doi">10.1002/pro.3797</article-id><article-id pub-id-type="publisher-id">PRO3797</article-id><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Type I fatty acid synthase trapped in the octanoyl&#x02010;bound state</article-title><alt-title alt-title-type="left-running-head">Rittner et al.</alt-title></title-group><contrib-group><contrib id="pro3797-cr-0001" contrib-type="author"><name><surname>Rittner</surname><given-names>Alexander</given-names></name><xref ref-type="aff" rid="pro3797-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pro3797-cr-0002" contrib-type="author"><name><surname>Paithankar</surname><given-names>Karthik S.</given-names></name><xref ref-type="aff" rid="pro3797-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pro3797-cr-0003" contrib-type="author"><name><surname>Himmler</surname><given-names>Aaron</given-names></name><xref ref-type="aff" rid="pro3797-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pro3797-cr-0004" contrib-type="author" corresp="yes"><name><surname>Grininger</surname><given-names>Martin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7269-0667</contrib-id><xref ref-type="aff" rid="pro3797-aff-0001">
+<sup>1</sup>
+</xref><address><email>grininger@chemie.uni-frankfurt.de</email></address></contrib></contrib-group><aff id="pro3797-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Institute of Organic Chemistry and Chemical Biology, Buchmann Institute for Molecular Life Sciences</named-content>
+<institution>Goethe University Frankfurt</institution>
+<city>Frankfurt am Main</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Martin Grininger, Institute of Organic Chemistry and Chemical Biology, Buchmann Institute for Molecular Life Sciences, Goethe University Frankfurt, Frankfurt am Main D&#x02010;60438, Germany.<break/>
+Email: <email>grininger@chemie.uni-frankfurt.de</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2020</year></pub-date><pub-date pub-type="pmc-release"><day>11</day><month>1</month><year>2020</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>29</volume><issue>2</issue><issue-id pub-id-type="doi">10.1002/pro.v29.2</issue-id><fpage>589</fpage><lpage>605</lpage><history><date date-type="received"><day>30</day><month>8</month><year>2019</year></date><date date-type="rev-recd"><day>07</day><month>11</month><year>2019</year></date><date date-type="accepted"><day>29</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 The Protein Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Protein Science</italic> published by Wiley Periodicals, Inc. on behalf of The Protein Society.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:PRO-29-589.pdf"/><abstract><title>Abstract</title><p>De novo fatty acid biosynthesis in humans is accomplished by a multidomain protein, the Type I fatty acid synthase (FAS). Although ubiquitously expressed in all tissues, fatty acid synthesis is not essential in normal healthy cells due to sufficient supply with fatty acids by the diet. However, FAS is overexpressed in cancer cells and correlates with tumor malignancy, which makes FAS an attractive selective therapeutic target in tumorigenesis. Herein, we present a crystal structure of the condensing part of murine FAS, highly homologous to human FAS, with octanoyl moieties covalently bound to the transferase (MAT&#x02014;malonyl&#x02010;/acetyltransferase) and the condensation (KS&#x02014;&#x003b2;&#x02010;ketoacyl synthase) domain. The MAT domain binds the octanoyl moiety in a novel (unique) conformation, which reflects the pronounced conformational dynamics of the substrate&#x02010;binding site responsible for the MAT substrate promiscuity. In contrast, the KS binding pocket just subtly adapts to the octanoyl moiety upon substrate binding. Besides the rigid domain structure, we found a positive cooperative effect in the substrate binding of the KS domain by a comprehensive enzyme kinetic study. These structural and mechanistic findings contribute significantly to our understanding of the mode of action of FAS and may guide future rational inhibitor designs.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pro3797-kwd-0001">cooperativity</kwd><kwd id="pro3797-kwd-0002">fatty acid synthesis</kwd><kwd id="pro3797-kwd-0003">inhibition</kwd><kwd id="pro3797-kwd-0004">multienzyme</kwd><kwd id="pro3797-kwd-0005">substrate&#x02010;bound state</kwd><kwd id="pro3797-kwd-0006">transacylation</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Landes&#x02010;Offensive zur Entwicklung wissenschaftlich&#x02010;&#x000f6;konomischer Exzellenz</funding-source></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Volkswagen Foundation </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001663</institution-id></institution-wrap></funding-source><award-id>85701</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="2"/><page-count count="17"/><word-count count="10604"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.4 mode:remove_FC converted:11.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="pro3797-cit-9001">
+<string-name>
+<surname>Rittner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Paithankar</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Himmler</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Grininger</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Type I fatty acid synthase trapped in the octanoyl&#x02010;bound state</article-title>. <source xml:lang="en">Protein Science</source>. <year>2020</year>;<volume>29</volume>:<fpage>589</fpage>&#x02013;<lpage>605</lpage>. <pub-id pub-id-type="doi">10.1002/pro.3797</pub-id>
+</mixed-citation>
+</p><fn-group id="pro3797-ntgp-0001"><fn id="pro3797-note-1002"><p>
+<bold>Funding information</bold> Landes&#x02010;Offensive zur Entwicklung wissenschaftlich&#x02010;&#x000f6;konomischer Exzellenz; Volkswagen Foundation, Grant/Award Number: 85701</p></fn></fn-group></notes></front><body id="pro3797-body-0001"><def-list list-content="abbreviations" id="pro3797-lp-0001"><title>Abbreviations</title><def-item><term id="pro3797-li-0001">ACP</term><def id="pro3797-li-0002"><p>acyl carrier protein</p></def></def-item><def-item><term id="pro3797-li-0003">DH</term><def id="pro3797-li-0004"><p>dehydratase</p></def></def-item><def-item><term id="pro3797-li-0005">ER</term><def id="pro3797-li-0006"><p>enoylreductase</p></def></def-item><def-item><term id="pro3797-li-0007">FAS</term><def id="pro3797-li-0008"><p>fatty acid synthase</p></def></def-item><def-item><term id="pro3797-li-0009">KR</term><def id="pro3797-li-0010"><p>ketoreductase</p></def></def-item><def-item><term id="pro3797-li-0011">KS</term><def id="pro3797-li-0012"><p>&#x003b2;&#x02010;ketoacyl synthase</p></def></def-item><def-item><term id="pro3797-li-0013">LD</term><def id="pro3797-li-0014"><p>linker domain</p></def></def-item><def-item><term id="pro3797-li-0015">MAT</term><def id="pro3797-li-0016"><p>malonyl&#x02010;/acetyltransferase</p></def></def-item><def-item><term id="pro3797-li-0017">TE</term><def id="pro3797-li-0018"><p>thioesterase</p></def></def-item></def-list><sec id="pro3797-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Fatty acids are essential molecules in most living cells, serving as key compounds of cell membranes, as energy supply in the metabolism, as secondary messengers in signaling pathways or as covalent modifications to recruit proteins to membranes. They can either be obtained directly from the diet or are synthesized de novo by fatty acid synthases (FASs) from simple building blocks in repeating cyclic reactions. Although the chemistry of fatty acid synthesis is largely conserved across all kingdoms of life, the structural organization of the participating enzymes differs dramatically. FAS complexes occurring in plants, bacteria, and in mitochondria, known as the Type II, perform biosynthesis by a series of monofunctional separate enzymes.<xref rid="pro3797-bib-0001" ref-type="ref">1</xref>, <xref rid="pro3797-bib-0002" ref-type="ref">2</xref>, <xref rid="pro3797-bib-0003" ref-type="ref">3</xref> In contrast, the CMN group bacteria (<italic>Corynebacterium</italic>, <italic>Mycobacterium</italic>, and <italic>Nocardia</italic>), fungi and higher eukaryotes utilize Type I FASs that integrate all enzymatic functions into large macromolecular assemblies.<xref rid="pro3797-bib-0004" ref-type="ref">4</xref>, <xref rid="pro3797-bib-0005" ref-type="ref">5</xref>, <xref rid="pro3797-bib-0006" ref-type="ref">6</xref>, <xref rid="pro3797-bib-0007" ref-type="ref">7</xref> Fungal and CMN&#x02010;bacterial FASs form up to 2.7&#x02010;MDa &#x003b1;<sub>6</sub>&#x003b2;<sub>6</sub>&#x02010;heterododecameric barrel&#x02010;like structures.<xref rid="pro3797-bib-0008" ref-type="ref">8</xref>, <xref rid="pro3797-bib-0009" ref-type="ref">9</xref>, <xref rid="pro3797-bib-0010" ref-type="ref">10</xref>, <xref rid="pro3797-bib-0011" ref-type="ref">11</xref>, <xref rid="pro3797-bib-0012" ref-type="ref">12</xref> The animal FASs, including human FAS, emerge from a separate evolutionary development and consist of two polypeptide chains assembling into a 540&#x02010;kDa intertwined &#x0201c;X&#x02010;shaped&#x0201d; homodimer.<xref rid="pro3797-bib-0013" ref-type="ref">13</xref>
+</p><p>In animals, including human beings, fatty acid biosynthesis commences with the transfer of an acetyl moiety from acetyl&#x02010;coenzyme A (CoA) to the terminal thiol of the phosphopantetheine arm of the acyl carrier protein (ACP) domain catalyzed by the malonyl&#x02010;/acetyltransferase (MAT) domain (Figure <xref rid="pro3797-fig-0001" ref-type="fig">1</xref>a).<xref rid="pro3797-bib-0015" ref-type="ref">15</xref> After being passed on to the active site cysteine of the &#x003b2;&#x02010;ketoacyl synthase (KS) domain, a malonyl moiety is loaded on the free ACP domain in a second MAT&#x02010;mediated transfer reaction. Upon delivery of the malonyl moiety, the KS domain catalyzes a decarboxylative Claisen condensation reaction in which the KS&#x02010;bound acetyl and the ACP&#x02010;bound malonyl moieties combine to an ACP&#x02010;bound &#x003b2;&#x02010;ketoacyl intermediate. Subsequently, the &#x003b2;&#x02010;keto group is sequentially modified by three processing domains, the ketoreductase (KR), the dehydratase (DH), and the enoylreductase (ER) using NADPH as a reducing agent. Typically, fatty acid synthesis runs seven cycles to deliver a fully reduced ACP&#x02010;bound acyl chain of 16 carbon atoms, which is eventually released as palmitic acid by hydrolysis via the thioesterase (TE) domain (Figure <xref rid="pro3797-fig-0001" ref-type="fig">1</xref>a).</p><fig fig-type="Figure" xml:lang="en" id="pro3797-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>(a) Priming of animal fatty acid synthesis. (b) In a first step, the substrate is selected by the MAT domain and transferred to the ACP domain (Step 2) from where it is passed on to the KS domain (Step 3). Important active site residues are highlighted and C161 is marked with an asterisk. Crystal structure of porcine FAS (PDB code <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=2vz9">http://firstglance.jmol.org/fg.htm?mol=2vz9</ext-link>) and NMR structure of rat ACP (PDB code <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=2png">http://firstglance.jmol.org/fg.htm?mol=2png</ext-link>) are depicted in surface representation.<xref rid="pro3797-bib-0013" ref-type="ref">13</xref>, <xref rid="pro3797-bib-0014" ref-type="ref">14</xref> Domains of one protomer of FAS homodimer are colored. ACP, acyl carrier protein; DH, dehydratase; ER, enoylreductase; FAS, fatty acid synthase; KR, ketoreductase; KS, ketosynthase; MAT, malonyl&#x02010;/acetyltransferase; PPant arm, expand fully in the figure; TE, thioesterase</p></caption><graphic id="nlm-graphic-1" xlink:href="PRO-29-589-g001"/></fig><p>The key domains in fatty acid synthesis are MAT, KS, and ACP, responsible for the selection of substrates, C&#x02500;C bond formation and substrate shuttling, respectively (Figure <xref rid="pro3797-fig-0001" ref-type="fig">1</xref>b). The MAT domain of murine Type I FAS shows broad substrate specificity and facilitates the synthesis of methyl&#x02010;branched, odd numbered, and functionalized fatty acids by alternative substrate selection.<xref rid="pro3797-bib-0016" ref-type="ref">16</xref>, <xref rid="pro3797-bib-0017" ref-type="ref">17</xref>, <xref rid="pro3797-bib-0018" ref-type="ref">18</xref>, <xref rid="pro3797-bib-0019" ref-type="ref">19</xref> On the contrary, the KS domain possesses a strict specificity for saturated acyl moieties with a low acceptance of &#x003b2;&#x02010;keto groups to guarantee biosynthesis of saturated fatty acids in vivo.<xref rid="pro3797-bib-0020" ref-type="ref">20</xref> The ACP domain is loaded by the MAT and ACP does not impose substrate specificity in this step. However, the interaction of ACP with other domains is necessary for the progress of synthesis and the specificity of this interaction can affect the product formation.<xref rid="pro3797-bib-0021" ref-type="ref">21</xref>, <xref rid="pro3797-bib-0022" ref-type="ref">22</xref>, <xref rid="pro3797-bib-0023" ref-type="ref">23</xref>
+</p><p>Although FASs are ubiquitously expressed in all tissues, de novo biosynthesis of fatty acids occurs at low levels as the demand is usually met by the diet.<xref rid="pro3797-bib-0024" ref-type="ref">24</xref>, <xref rid="pro3797-bib-0025" ref-type="ref">25</xref> Despite adequate nutritional lipid supply, the FAS gene is overexpressed under pathological conditions, being associated with diseases like diabetes, obesity, and cancer, and upregulation of FAS correlates with tumor malignancy.<xref rid="pro3797-bib-0026" ref-type="ref">26</xref>, <xref rid="pro3797-bib-0027" ref-type="ref">27</xref>, <xref rid="pro3797-bib-0028" ref-type="ref">28</xref>, <xref rid="pro3797-bib-0029" ref-type="ref">29</xref>, <xref rid="pro3797-bib-0030" ref-type="ref">30</xref>, <xref rid="pro3797-bib-0031" ref-type="ref">31</xref> FAS has emerged as a very promising therapeutic target in tumorigenesis, because pharmacological FAS inhibitors induce tumor cell death by apoptosis, whereas normal cells are resistant.<xref rid="pro3797-bib-0032" ref-type="ref">32</xref> To date, several inhibitors, like cerulenin, GSK2194069, and orlistat, have been identified or developed that target the KS, KR, and TE domain, respectively.<xref rid="pro3797-bib-0032" ref-type="ref">32</xref>, <xref rid="pro3797-bib-0033" ref-type="ref">33</xref>, <xref rid="pro3797-bib-0034" ref-type="ref">34</xref> Remarkably, the compound TVB&#x02010;2640 recently entered Phase 2 clinical trials showing promising results in combinatorial anticancer therapies.<xref rid="pro3797-bib-0035" ref-type="ref">35</xref>, <xref rid="pro3797-bib-0036" ref-type="ref">36</xref>
+</p><p>Herein, we report the crystal structure of the murine KS&#x02010;MAT didomain at 2.7 &#x000c5; resolution with octanoyl moieties covalently bound in the KS and the MAT active sites. By comparison with structures of domains in apo&#x02010;form as well as with the malonyl&#x02010;bound MAT domain, we analyze structure&#x02013;function relationships and correlate the conformational variability of the individual domains with their substrate specificities. Furthermore, by applying a continuous fluorometric assay, we reveal detailed mechanistic insight into the cooperative behavior of the KS&#x02010;mediated transacylation reaction. The results of this study provide new insights into the key processes of substrate loading and condensation in fatty acid synthesis and foster the development and optimization of inhibitors with potential antineoplastic properties.</p></sec><sec id="pro3797-sec-0002"><label>2</label><title>RESULTS</title><sec id="pro3797-sec-0003"><label>2.1</label><title>Crystal structure of the KS&#x02010;MAT didomain with bound octanoyl moieties</title><p>In order to gain structural insights into the molecular basis for the substrate ambiguity of the MAT domain and the strict substrate specificity of the KS domain of murine Type I FAS, we aimed at trapping both KS and MAT domains in the octanoyl&#x02010;bound enzyme state. Following an established protocol,<xref rid="pro3797-bib-0016" ref-type="ref">16</xref> the purified murine KS&#x02010;MAT didomain, sharing 87% sequence identity to the condensing part of human FAS,<xref rid="pro3797-bib-0037" ref-type="ref">37</xref> was crystallized and crystals were soaked with octanoyl&#x02010;CoA (Figure <xref rid="pro3797-supitem-0001" ref-type="supplementary-material">S1</xref>). X&#x02010;ray diffraction data were collected to a resolution of 2.7 &#x000c5;, and the resulting structural model refined to <italic>R</italic>/<italic>R</italic>
+<sub>free</sub> of 0.18/0.23 (Table <xref rid="pro3797-tbl-0001" ref-type="table">1</xref>). The asymmetric unit contains four polypeptide chains (A&#x02013;D) arranged as two biological dimers interacting via the cleft between the KS and the linker domain (LD) (Figure <xref rid="pro3797-fig-0002" ref-type="fig">2</xref>a). In all four chains, the KS domain is modified with an octanoyl moiety yielding the octanoyl&#x02010;enzyme covalent complex. Furthermore, in one polypeptide chain (chain D), an octanoyl group is covalently bound to S581 of the MAT domain and an additional octanoyl&#x02010;CoA is non&#x02010;covalently trapped in the MAT binding tunnel (Figure <xref rid="pro3797-fig-0002" ref-type="fig">2</xref>b). This finding confirms previous data showing that octanoyl&#x02010;CoA can prime murine Type I fatty acid synthesis and that the MAT domain can catalyze the transfer of octanoyl moieties.<xref rid="pro3797-bib-0016" ref-type="ref">16</xref>, <xref rid="pro3797-bib-0017" ref-type="ref">17</xref>
+</p><table-wrap id="pro3797-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Data collection and refinement statistics</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Wildtype soaked with octanoyl&#x02010;CoA</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>Data collection</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Space group</td><td align="left" valign="top" rowspan="1" colspan="1">C222<sub>1</sub>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cell dimensions</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic>a</italic>, <italic>b</italic>, i (&#x000c5;)</td><td align="left" valign="top" rowspan="1" colspan="1">147.4, 354.0, 218.5</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic>&#x003b1;</italic>, <italic>&#x003b2;</italic>, <italic>&#x003b3;</italic> (&#x000b0;)</td><td align="left" valign="top" rowspan="1" colspan="1">90, 90, 90</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Resolution (&#x000c5;)</td><td align="left" valign="top" rowspan="1" colspan="1">50&#x02013;2.7 (2.75&#x02013;2.7)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">No. of reflections</td><td align="left" valign="top" rowspan="1" colspan="1">2,195,612 (110,844)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>R</italic>
+<sub>meas</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0.16 (2.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>I</italic>/<italic>&#x003c3;I</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">13.9 (1.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CC<sub>1/2</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0.99 (0.62)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Completeness (%)</td><td align="left" valign="top" rowspan="1" colspan="1">98.2 (98.8)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Redundancy</td><td align="left" valign="top" rowspan="1" colspan="1">14.3 (14.5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>Refinement</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>R</italic>
+<sub>work</sub>/<italic>R</italic>
+<sub>free</sub> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">18.4 (23.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">No. of unique reflections</td><td align="left" valign="top" rowspan="1" colspan="1">145,548</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>Average B&#x02010;factors</italic> (<italic>&#x000c5;</italic>
+<sup>2</sup>)</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Protein</td><td align="left" valign="top" rowspan="1" colspan="1">78.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Wilson <italic>B</italic> factor</td><td align="left" valign="top" rowspan="1" colspan="1">58.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>RMSD from ideality</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Bond length (&#x000c5;)</td><td align="left" valign="top" rowspan="1" colspan="1">0.007</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Bond angles (&#x000b0;)</td><td align="left" valign="top" rowspan="1" colspan="1">1.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>Ramachandran statistics</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Favored regions (%)</td><td align="left" valign="top" rowspan="1" colspan="1">93.43</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Allowed regions (%)</td><td align="left" valign="top" rowspan="1" colspan="1">5.05</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Outliers (%)</td><td align="left" valign="top" rowspan="1" colspan="1">1.52</td></tr></tbody></table><table-wrap-foot id="pro3797-ntgp-0002"><fn id="pro3797-note-0002"><p>
+<italic>Note</italic>: Highest resolution shell is shown in parentheses.</p></fn></table-wrap-foot></table-wrap><fig fig-type="Figure" xml:lang="en" id="pro3797-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Octanoyl&#x02010;loaded MAT domain. (a) Polypeptide chains in the unit cell with bound octanoyl moieties in yellow in sphere representation. Domains and folds are colored as depicted in the attached cartoon. (b) Zoom into the MAT domain in chain D. The active site is embedded in a cleft between the &#x003b1;/&#x003b2;&#x02010;hydrolase (green) and the ferredoxin&#x02010;like (brown) subdomains. The active site serine (S581) was found in an octanoyl&#x02010;bound state with an additional octanoyl&#x02010;CoA molecule non&#x02010;covalently attached to the active site tunnel (see Figure <xref rid="pro3797-supitem-0001" ref-type="supplementary-material">S2</xref> for FEM<xref rid="pro3797-bib-0038" ref-type="ref">38</xref> and Polder maps<xref rid="pro3797-bib-0039" ref-type="ref">39</xref>). (c) Zoom into the MAT active site. Residues interacting with the serine&#x02010;bound octanoyl chain and the octanoyl&#x02010;CoA are colored in red and yellow, respectively. Movements of select residues upon binding of an octanoyl moiety in comparison with the human MAT structure (gray) are indicated by arrows. (d) Orientation of a decanoyl chain as reported by Bunkoczi et al.<xref rid="pro3797-bib-0040" ref-type="ref">40</xref> Atomic coordinated originate from decanoyl chain computationally modeled into the human MAT variant R606A (PDB code: <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=2jfd">http://firstglance.jmol.org/fg.htm?mol=2jfd</ext-link>). Postulated interacting residues of the human MAT domain are shown in gray. (e) Binding site of the nucleobase of the CoA moiety at the MAT surface. The adenine is coordinated via hydrogen bonding with residues D647 and T648 and via &#x003c0;&#x02010;stacking and &#x003c0;&#x02010;cation interactions with residues F671 and R773 were identified. FEM, feature&#x02010;enhanced map; MAT, malonyl&#x02010;/acetyltransferase</p></caption><graphic id="nlm-graphic-3" xlink:href="PRO-29-589-g002"/></fig></sec><sec id="pro3797-sec-0004"><label>2.2</label><title>General description of the octanoyl&#x02010;bound MAT domain</title><p>The MAT domain engages fatty acid synthesis in selecting the CoA&#x02010;ester substrates for product assembly. It is located at the edge of the condensing part of animal FAS and inserted into the KS fold via the LD. The exposed position and the utilization of only 8.4% of the solvent&#x02010;accessible area for domain&#x02013;domain interactions reflect a high structural independence from the FAS fold. The substrate&#x02010;binding pocket is formed by a cleft between the &#x003b1;/&#x003b2;&#x02010;hydrolase and the ferredoxin&#x02010;like subdomains and extends to the active site located in the center of the domain. The function of the MAT domain is to shuttle acyl moieties via the active serine between CoA&#x02010;ester substrates and the ACP domain following a ping&#x02013;pong bi&#x02013;bi mechanism. The catalytic key residues S581 and H683 form a catalytic dyad with S581 acting as nucleophile and H683 serving in acid&#x02013;base catalysis.<xref rid="pro3797-bib-0041" ref-type="ref">41</xref> The nucleophilicity of S581 is enhanced by a helix dipole&#x02010;moment due to its positioning within a strand&#x02010;turn&#x02010;helix motif termed the nucleophilic elbow.<xref rid="pro3797-bib-0042" ref-type="ref">42</xref> A key residue for the bifunctional role of MAT is R606 located in helix 7, which interacts with the carboxylic group of extender substrates. The absence of the guanidinium group leads to altered substrate specificity.<xref rid="pro3797-bib-0016" ref-type="ref">16</xref>, <xref rid="pro3797-bib-0043" ref-type="ref">43</xref>
+</p><p>Upon soaking protein crystals with octanoyl&#x02010;CoA, we found that S581 in chain D is covalently modified with an octanoyl moiety and, furthermore, a molecule octanoyl&#x02010;CoA is non&#x02010;covalently attached to the substrate binding pocket (Figure <xref rid="pro3797-fig-0002" ref-type="fig">2</xref>b). The placement of both ligands was based on the feature&#x02010;enhanced map (FEM) and later validated by a Polder map (Figure <xref rid="pro3797-supitem-0001" ref-type="supplementary-material">S2</xref>).<xref rid="pro3797-bib-0038" ref-type="ref">38</xref>, <xref rid="pro3797-bib-0039" ref-type="ref">39</xref> The octanoyl chain of octanoyl&#x02010;S581 is located in a tunnel between the two subdomains created between residues P640, F682, V740, and P742 and extends to the protein's surface (Figure <xref rid="pro3797-fig-0002" ref-type="fig">2</xref>c). The octanoyl group of octanoyl&#x02010;CoA points toward helix 10 of the &#x003b1;/&#x003b2;&#x02010;hydrolase fold in a substrate binding pocket between the subdomains created by residues I610, L615, L680, A681, F682, H683, F686, and L739. Rangan and Smith reported that the R606A variant from rat FAS showed increased turnover rates for the transfer of octanoyl moieties.<xref rid="pro3797-bib-0043" ref-type="ref">43</xref> Based on this, Bunkoczi and co&#x02010;workers<xref rid="pro3797-bib-0040" ref-type="ref">40</xref> placed a decanoyl chain in the human R606A&#x02010;mutated MAT binding site by a simulated docking experiment and concluded that space for longer acyl chains is created in the mutant due to the absence of the side chain of residue R606. In our structure, the positions of the octanoyl chains are slightly different to that of the computationally docked decanoyl chain. Upon binding octanoyl&#x02010;CoA, the side chains of residues R606 and L739 rotate to form an extended binding cavity that can accommodate the larger substrate (see Figure <xref rid="pro3797-supitem-0001" ref-type="supplementary-material">S3</xref> for a stereo view). This feature is likely responsible for the high transacylation rate of murine MAT for octanoyl moieties and may not be present in rat MAT according to docking data.<xref rid="pro3797-bib-0040" ref-type="ref">40</xref> Again deviating from rat FAS data,<xref rid="pro3797-bib-0043" ref-type="ref">43</xref> the murine MAT loses the capability for efficient transacylation of the octanoyl moiety upon mutation of R606 to alanine (Table <xref rid="pro3797-tbl-0002" ref-type="table">2</xref>).</p><table-wrap id="pro3797-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Kinetic analysis of the transacylation reaction with octanoyl&#x02010;CoA at a fixed acceptor concentration of 60&#x02009;&#x003bc;M ACP (<italic>n</italic> = 4)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="&#x000b1;" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Substrate</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>K</italic>
+<sub>m</sub>
+<sup>app</sup> (&#x003bc;M)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>k</italic>
+<sub>cat</sub>
+<sup>app</sup> (s<sup>&#x02212;1</sup>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>k</italic>
+<sub>cat</sub>/<italic>K</italic>
+<sub>m</sub> (M<sup>&#x02212;1</sup> s<sup>&#x02212;1</sup>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Hydrolysis rate 10<sup>&#x02212;3</sup> (s<sup>&#x02212;1</sup>)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Wildtype<xref ref-type="fn" rid="pro3797-note-0004">a</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0.7&#x02009;&#x000b1;&#x02009;0.3</td><td align="char" valign="top" rowspan="1" colspan="1">4.1&#x02009;&#x000b1;&#x02009;0.3</td><td align="left" valign="top" rowspan="1" colspan="1">5.6&#x02009;&#x000b1;&#x02009;2.2&#x02009;&#x000d7;&#x02009;10<sup>6</sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">6.1&#x02009;&#x000b1;&#x02009;1.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">R606A variant</td><td align="left" valign="top" rowspan="1" colspan="1">4.9&#x02009;&#x000b1;&#x02009;0.7</td><td align="char" valign="top" rowspan="1" colspan="1">0.037&#x02009;&#x000b1;&#x02009;0.008</td><td align="left" valign="top" rowspan="1" colspan="1">7.6&#x02009;&#x000b1;&#x02009;2.0&#x02009;&#x000d7;&#x02009;10<sup>3</sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2.3&#x02009;&#x000b1;&#x02009;3.4</td></tr></tbody></table><table-wrap-foot id="pro3797-ntgp-0003"><fn id="pro3797-note-0003"><p>Abbreviation: ACP, acyl carrier protein.</p></fn><fn id="pro3797-note-0004"><label>a</label><p>Previously published.<xref rid="pro3797-bib-0016" ref-type="ref">16</xref>
+</p></fn></table-wrap-foot></table-wrap><p>Intriguingly, in the MAT&#x02010;octanoyl&#x02010;CoA complex, the nucleobase of octanoyl&#x02010;CoA is bound at a specific position between the two subdomains with the adenine stacked between side chains of F671 and R773. Besides the well&#x02010;known &#x003c0;&#x02010;stacking between aromatic rings, also &#x003c0;&#x02010;cation interactions between arginines and aromatic rings are known.<xref rid="pro3797-bib-0044" ref-type="ref">44</xref> Additionally, two hydrogen bonds are formed between amines of the purine ring to both the side chain hydroxyl group of T648 and the backbone carbonyl group of D647.</p></sec><sec id="pro3797-sec-0005"><label>2.3</label><title>Implications on MAT subdomain dynamics from crystal structures</title><p>Variations in the relative positioning of the ferredoxin&#x02010;like subdomain were reported in previous crystal structures, but a correlation of subdomain mobility to the substrate ambiguity of the domain could not yet be drawn. In chain D of the MAT&#x02010;octanoyl&#x02010;CoA complex, the MAT domain was found in a unique conformational state. Keeping the &#x003b1;/&#x003b2;&#x02010;hydrolase part of the domain (backbone atoms [BB] of D488&#x02013;D611 and D685&#x02013;D806) as a reference, a superposition was performed with the apo&#x02010;structure in chain A, the malonyl&#x02010;bound structure (PDB code: <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=5my0">http://firstglance.jmol.org/fg.htm?mol=5my0</ext-link>; chain D) and the human KS&#x02010;MAT (PDB code: <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=3hhd">http://firstglance.jmol.org/fg.htm?mol=3hhd</ext-link>; chain A). The &#x003b1;/&#x003b2;&#x02010;hydrolase domain superimposes very well in all the four models with RMSDs (BB) to the MAT&#x02010;octanoyl&#x02010;CoA complex of 0.6 (chain A), 0.8 (Malonyl&#x02010;bound chain D), and 0.6 (human chain D) &#x000c5;, respectively (Figure <xref rid="pro3797-fig-0003" ref-type="fig">3</xref>a). Largest differences are found in the relative positioning of the ferredoxin&#x02010;like subdomain with local shifts of up to 7.3 &#x000c5; between corresponding residues. As also the ferredoxin&#x02010;like subdomains (BB of 618&#x02013;674) of all four models themselves superimpose well with RMSDs (BB) between 0.4 and 0.8 &#x000c5;, these results clearly illustrate that the ferredoxin&#x02010;like subdomain describes a rigid&#x02010;body movement.</p><fig fig-type="Figure" xml:lang="en" id="pro3797-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Conformational variability of the MAT active site. (a) &#x003b1;/&#x003b2;&#x02010;Hydrolase fold centered superposition (BB of residues 488&#x02013;613 and 685&#x02013;806) of four MAT domains in different acyl&#x02010;bound states. chain A (blue) and chain D (green) from the octanoyl&#x02010;CoA soaked crystal (PDB code: <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=6rop">http://firstglance.jmol.org/fg.htm?mol=6rop</ext-link>), malonyl&#x02010;bound (orange) (PDB code: <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=5my0">http://firstglance.jmol.org/fg.htm?mol=5my0</ext-link>; chain D) and apo human MAT (purple) (PDB code: <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=3hhd">http://firstglance.jmol.org/fg.htm?mol=3hhd</ext-link>; chain A) were used. The &#x003b1;/&#x003b2;&#x02010;hydrolase subdomain is shown in surface depiction and the ferredoxin&#x02010;like fold in cartoon loops. Selected distances between corresponding residues indicate the mobility of the subdomains with a relative movement of the ferredoxin&#x02010;like fold of up to 7.3 &#x000c5;. (b) Different active site and entry tunnel shapes upon substrate binding. Surface depictions of active sites of chain D (left panel) and A (middle) from the octanoyl&#x02010;bound structure and chain D (right panel) from the malonyl&#x02010;bound structure are shown in two perspectives. Surfaces are shown in surface electrostatic representation calculated with PyMOL and shown in default coloring with positive potential depicted in blue and negative potential in red. Views as in (a). BB, backbone atoms; MAT, malonyl&#x02010;/acetyltransferase</p></caption><graphic id="nlm-graphic-5" xlink:href="PRO-29-589-g003"/></fig><p>When the static X&#x02010;ray structural information is subjected to a TLS (translation, libration, and screw) refinement, the derived anisotropic displacement parameters imply a rotational movement describing the opening and closing of the active site cleft to allow binding of diverse substrates (Figure <xref rid="pro3797-supitem-0001" ref-type="supplementary-material">S4</xref>).<xref rid="pro3797-bib-0045" ref-type="ref">45</xref> In order to determine residues contributing most to the positional variability of the ferredoxin&#x02010;like and the &#x003b1;/&#x003b2;&#x02010;hydrolase subdomains, we plotted main&#x02010;chain torsion angles <italic>&#x003c6;</italic> and <italic>&#x003c8;</italic> (Ramachandran plot) for the MAT domains of the various structural models. The plot identifies residues A613 and H614 as well as H683 and S684 as undergoing significant changes in main&#x02010;chain torsion angles (Figure <xref rid="pro3797-supitem-0001" ref-type="supplementary-material">S5</xref>). Both sites are the hinges of two subdomain linkers, termed SDL1 (612&#x02013;617) and SDL2 (675&#x02013;684), allowing movements of SDL1 and SDL2 of about 7.3 and 5.1 &#x000c5;, respectively (Figure <xref rid="pro3797-supitem-0001" ref-type="supplementary-material">S6</xref>). The positional and conformational variability of the subdomain linkers allows changes in the relative orientation of the subdomains and in the geometry of the active site cleft for the accommodation of chemically and structurally diverse CoA&#x02010;esters (Figure <xref rid="pro3797-fig-0003" ref-type="fig">3</xref>b).<xref rid="pro3797-bib-0016" ref-type="ref">16</xref>
+</p><p>In addition to the overall dynamics of the MAT fold, the residue R606, responsible for holding the carboxyl group of extender substrates, shows high positional variability in the MAT structural models. The high degree of rotational freedom of the side chain originates likely from the specific property of animal MAT in featuring a phenylalanine at a position (F553, murine MAT numbering), which is otherwise occupied by a conserved glutamine. As shown previously, F553 significantly diminishes the coordination of the R606 side chain by hydrogen bonding.<xref rid="pro3797-bib-0016" ref-type="ref">16</xref> In the octanoyl&#x02010;bound structure, we could identify a third rotameric state of R606, in addition to the ones found in apo&#x02010; and malonyl&#x02010;bound state (Figure <xref rid="pro3797-supitem-0001" ref-type="supplementary-material">S7</xref>), which demonstrates that the adaptation of the domain to different substrates is closely connected to the rotational variability of this residue.</p></sec><sec id="pro3797-sec-0006"><label>2.4</label><title>Structure of the KS domain in an acylated state</title><p>The KS domain forms dimers in Type I FAS systems, and contributes the largest area (about 2,580&#x02009;&#x000c5;<sup>2</sup>; see Table <xref rid="pro3797-supitem-0001" ref-type="supplementary-material">S1</xref> for more information) to the overall dimerization interface of animal FAS. The KS domain belongs to the thiolase&#x02010;superfamily and exhibits the characteristic topology of alternating layers of &#x003b1;&#x02010;helices and &#x003b2;&#x02010;sheets (called &#x003b1;/&#x003b2;/&#x003b1;/&#x003b2;/&#x003b1; sandwich motif) (Figure <xref rid="pro3797-fig-0004" ref-type="fig">4</xref>a). A small vestibule in lateral orientation to the twofold axis of the condensing part forms the entry to the active site, which is comprised of the active cysteine (C161) as well as two histidine (H293, H331) residues, termed the catalytic triad. The substrate binding tunnel further extends toward the dimer interface, where it merges with the tunnel of the protomer at the twofold axis (Figure <xref rid="pro3797-fig-0004" ref-type="fig">4</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="pro3797-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Octanoyl&#x02010;loaded KS domain. (a) Top view on the dimeric KS domain in cartoon depiction showing the topology of the &#x003b1;/&#x003b2;/&#x003b1;/&#x003b2;/&#x003b1; sandwich motif (left panel). A surface depiction of the KS domain in side view highlights the active site entrance. Color codes as in Figure <xref rid="pro3797-fig-0002" ref-type="fig">2</xref>a are used with the bound octanoyl chain shown in yellow in sphere representation (right panel). (b) Active site and acyl binding cavity of the KS domain. In addition to the substrate binding cavity at the dimer interface, a small side chamber is visible in the monomer. The binding cavity is shown with surfaces colored in electrostatic potential (colored as in Figure <xref rid="pro3797-fig-0003" ref-type="fig">3</xref>). (c) Active site of KS showing important residues for catalysis, reported for homologous KAS I (FabB).<xref rid="pro3797-bib-0046" ref-type="ref">46</xref> Three chains (b&#x02013;d) with bound octanoyl moieties were aligned to chain A (blue) by a KS based superposition (BB of residues 1&#x02013;407 and 824&#x02013;852). All residues adopt essentially the same conformation with some variability in the terminal carbon atoms of the octanoyl chain. (d) A similar KS based superposition was performed with the four apo&#x02010;KS domains (orange; PDB code: <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=5my0">http://firstglance.jmol.org/fg.htm?mol=5my0</ext-link>) and the octanoyl&#x02010;bound chain A (blue). Upon octanoyl binding, the individual residues of the stretch 393&#x02013;397 are shifted by 0.4&#x02013;0.8 &#x000c5; (highlighted in the inlet). Furthermore, the side chain of F395 is rotated by approximately 125&#x000b0;. BB, backbone atoms; KS, ketosynthase</p></caption><graphic id="nlm-graphic-7" xlink:href="PRO-29-589-g004"/></fig><p>Overall all the four polypeptide chains of the asymmetric unit align very well onto one another when a KS domain based superposition is performed (RMSDs [BB] of about 0.20&#x02013;0.25&#x02009;&#x000c5; over the residue ranges 1&#x02013;407 and 824&#x02013;852; Figure <xref rid="pro3797-fig-0004" ref-type="fig">4</xref>c). All four active sites in the KS domains are modified with octanoyl moieties at residue C161. The position and conformation of all active site residues are essentially identical. Only the bound octanoyl chain shows positional variability in the terminal carbon atoms due to an unconstrained rotational freedom of the single bonds. Taking also into account the overall low B&#x02010;factors observed in the KS part of the crystal structure, this data indicates a relatively low degree of flexibility within the KS domain.</p><p>As observed for S581 in the MAT domain, the active cysteine C161 is located in a nucleophilic elbow, where the positive dipole&#x02010;moment of the &#x003b1;&#x02010;helix decreases the p<italic>K</italic>
+<sub>a</sub> value of the thiol group sufficiently to be readily deprotonated under physiological condition. Although widely accepted, this helix effect was relativized in a more recent computational study, where a zwitterionic state is considered as active with H293 accepting the proton from C161 via a bridging water molecule.<xref rid="pro3797-bib-0047" ref-type="ref">47</xref> The closer H331 on the other hand acts as a general acid in the second step of the catalysis. Here, nitrogen (ND1) accepts a hydrogen bond from backbone amide E333 (3.0&#x02013;3.4 &#x000c5;) and hence the protonated nitrogen (NE2) is in hydrogen bond distance (3.2&#x02013;3.4 &#x000c5;) to the sulfur of the thioester bond at residue C161.</p><p>Furthermore, the bound octanoyl chains allow localization of the oxyanion hole, which is created by backbone amides of residues C161 and F395. In all chains, the carbonyl's oxygen of the thioester is in hydrogen bond distance to the corresponding amides of F395 (2.9&#x02013;3.1 &#x000c5;) and slightly further apart from backbone amides of C161 (3.1&#x02013;3.4 &#x000c5;).</p><p>Next, we were interested in conformational changes induced by the loading of an octanoyl chain in comparison to the unbound state. Therefore, the four unbound murine KS domains of the unit cell (PDB code: <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=5my0">http://firstglance.jmol.org/fg.htm?mol=5my0</ext-link>) were aligned to octanoyl&#x02010;bound chain A (serving as the representative chain) in a KS domain based superposition (residues 1&#x02013;407 plus 824&#x02013;852; Figure <xref rid="pro3797-fig-0004" ref-type="fig">4</xref>d). Again, overall RMSDs (BB) were small (0.2&#x02013;0.3 &#x000c5;), but the superposition revealed distinct differences in the positions and side chain conformations of some residues. Most prominently, the stretch of residues FGFGG (residues 393&#x02013;397) is slightly shifted and reorganized upon binding of the octanoyl moiety. This results in the displacement of F395 by 0.8 &#x000c5; (between corresponding carbon<sub>&#x003b1;</sub> atoms) plus the rotation of the side chain by approximately 125&#x000b0;. F395 in the rotamer position of the unbound state clashes with the octanoyl chain in the bound state implying that the rearrangement of F395 is necessary to accommodate substrates.</p><p>FabB (KAS I) and FabF (KAS II), both elongating &#x003b2;&#x02010;ketoacyl&#x02010;ACP synthases of the bacterial Type II fatty acid synthesis, have been well&#x02010;characterized in their three&#x02010;dimensional structure in an octanoyl&#x02010;bound state and in a dodecanoyl&#x02010;bound state, respectively (see, e.g., References <xref rid="pro3797-bib-0046" ref-type="ref">46</xref>, <xref rid="pro3797-bib-0048" ref-type="ref">48</xref>, <xref rid="pro3797-bib-0049" ref-type="ref">49</xref>). KS domain based superpositions of FabB and FabF to chain A (BB residues 1&#x02013;407) show that the active sites display an overall identical architecture implying a conserved catalytic mechanism for the Type I KS domain (Figure <xref rid="pro3797-fig-0005" ref-type="fig">5</xref>a). An exception is a glutamate residue, which is conserved in CHH class structures (E342 and E349 in FabB and FabF, respectively) and is thought to participate in catalysis by stabilizing a water or cation molecule.<xref rid="pro3797-bib-0046" ref-type="ref">46</xref>, <xref rid="pro3797-bib-0048" ref-type="ref">48</xref> This acidic residue is exchanged by an alanine in the Type I KS domain (A340) excluding an equivalent role in animal FAS.</p><fig fig-type="Figure" xml:lang="en" id="pro3797-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Chain&#x02010;length specificity of KS and comparison of the KS domain with FabB and FabF from <italic>E</italic>. <italic>coli</italic>. (a) Comparison of important active site residues of the murine Type I KS domain (chain A; blue) with FabB (Orange; PDB code: <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=2bui">http://firstglance.jmol.org/fg.htm?mol=2bui</ext-link>) and FabF (gray; PDB code: <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=2gfy">http://firstglance.jmol.org/fg.htm?mol=2gfy</ext-link>) from <italic>E</italic>. <italic>coli</italic>.<xref rid="pro3797-bib-0048" ref-type="ref">48</xref>, <xref rid="pro3797-bib-0049" ref-type="ref">49</xref> All three proteins were solved in the acyl&#x02010;bound state and <italic>E</italic>. <italic>coli</italic> proteins were aligned to chain A (blue) by a KS based superposition (BB of residues 1&#x02013;407). The asterisk indicates that a variant of FabF was crystalized possessing a K335A mutation. (b) Chain&#x02010;length specific KS&#x02010;mediated transacylation activity. The specific KS&#x02010;mediated activity was determined at fixed substrate (500&#x02009;&#x003bc;M) and holo&#x02010;ACP (75&#x02009;&#x003bc;M) concentrations using the &#x003b1;KGDH&#x02010;assay. The asterisk indicates usage of variant KS<sup>C161G</sup>MAT<sup>S581A</sup> as negative control. Abbreviations refer to acyl&#x02010;CoA esters with different chain lengths and PC2 and HB refer to phenylacetyl&#x02010;CoA and hydroxybutyryl&#x02010;CoA, respectively. (c) Substrate selectivity of the KS domain by gating of the active site through the gatekeeper residue F395 and F200 (both red). The three moieties acetoacetyl (green), hydroxybutyryl (gray), and crotonyl (cyan), common intermediates of fatty acid synthesis, were modeled in place of the bound octanoyl moiety. Clashes are highlighted by red bumps. ACP, acyl carrier protein; BB, backbone atoms; KS, ketosynthase</p></caption><graphic id="nlm-graphic-9" xlink:href="PRO-29-589-g005"/></fig></sec><sec id="pro3797-sec-0007"><label>2.5</label><title>Specificity of the KS domain for saturated acyl chains</title><p>The first step in the KS&#x02010;mediated Claisen condensation is the transacylation of an acyl&#x02010;moiety from acyl&#x02010;ACP to the active site cysteine (Figure <xref rid="pro3797-fig-0001" ref-type="fig">1</xref>). Considering the similarity of this step to the MAT&#x02010;mediated transacylation, we aimed at using the continuous fluorometric assay, originally established for transferase analysis,<xref rid="pro3797-bib-0016" ref-type="ref">16</xref>, <xref rid="pro3797-bib-0050" ref-type="ref">50</xref> to investigate the substrate specificity of the KS domain. In doing so, we have constructed KS&#x02010;MAT<sup>S581A</sup> for specific KS read&#x02010;out and the double knockout mutant KS<sup>C161G</sup>&#x02010;MAT<sup>S581A</sup> as a control. All didomain constructs proved to be stable, which was validated by size&#x02010;exclusion chromatography (SEC) profiles and by melting temperatures obtained in a thermal shift assay (Figure <xref rid="pro3797-supitem-0001" ref-type="supplementary-material">S8</xref>). We determined KS&#x02010;mediated turnover rates from various acyl&#x02010;CoA esters to a separated, standalone holo&#x02010;ACP at fixed substrates concentrations (Figure <xref rid="pro3797-fig-0005" ref-type="fig">5</xref>b). The experiment generally confirmed the results from Witkowski et al. of turnover rates increasing with acyl chain&#x02010;length until maximum rates are reached for octanoyl&#x02010;CoA and dodecanoyl&#x02010;CoA (C12&#x02010;CoA), and decreasing rates with chain&#x02010;length above C12&#x02010;CoA.<xref rid="pro3797-bib-0020" ref-type="ref">20</xref> The high value for C12&#x02010;CoA is not consistent with previous results for the rat homolog and seems to be a specific feature of the heterologously expressed murine KS domain. The specificity of the transfer of acyl moieties was confirmed with the KS<sup>C161G</sup>&#x02010;MAT<sup>S581A</sup> double knockout mutant (Figure <xref rid="pro3797-fig-0005" ref-type="fig">5</xref>b).</p><p>Further, the substrate specificity of the KS domain was probed with two non&#x02010;cognate acyl&#x02010;CoA substrates. While the hydroxybutyryl&#x02010;CoA, mimicking the intermediate after an initial reduction by the KR&#x02010;domain, was not accepted as substrate, the non&#x02010;canonical compound phenylacetyl&#x02010;CoA was transferred with a reasonable rate. The latter result confirms our previous data that this substrate can also serve as a priming substrate for fatty acid synthesis.<xref rid="pro3797-bib-0017" ref-type="ref">17</xref>
+</p><p>To draw a simple structure&#x02013;function relationship for the substrate specificity of the KS domain, we modeled the three moieties acetoacetyl, (<italic>R</italic>)&#x02010;3&#x02010;hydroxybutyryl and crotonyl in place of the octanoyl moiety (Figure <xref rid="pro3797-fig-0005" ref-type="fig">5</xref>c). These are common intermediates of fatty acid synthesis and can either be accepted with low rates (acetoacetyl) or are not tolerated significantly (hydroxybutyryl and crotonyl). Structural data confirms the selectivity, as the keto group of the acetoacetyl moiety only slightly clashes with F395, whereas the hydroxyl group of hydroxybutyryl shows strong clashes with F395. A crotonyl moiety binds differently and shows strong clashes with F200.</p></sec><sec id="pro3797-sec-0008"><label>2.6</label><title>The KS&#x02010;mediated transacylation shows kinetic cooperativity</title><p>To gain insight into the enzymatic properties of the KS domains, the absolute kinetic parameters for the KS&#x02010;mediated transacylation from acyl&#x02010;CoA esters to the ACP domain (as a standalone protein) were determined by the assay described before. The KS&#x02010;mediated transacylation reaction follows a ping&#x02013;pong bi&#x02013;bi mechanism with a covalently bound acyl&#x02010;enzyme intermediate and can be described with the general Equation <xref rid="pro3797-disp-0001" ref-type="disp-formula">(1)</xref> that is based on standard Michaelis&#x02013;Menten kinetics.<xref rid="pro3797-bib-0051" ref-type="ref">51</xref> In order to determine absolute kinetic parameters, we have used this equation to globally fit two series of response curves with octanoyl&#x02010;CoA and myristoyl&#x02010;CoA at five or six different fixed ACP concentrations (see <xref rid="pro3797-sec-0010" ref-type="sec">Section 4</xref>). The global fit could only moderately describe the dependence of the apparent turnover rates in respect of the individual ACP concentrations and disclosed systematic deviations in the response curves at low and high substrate concentrations (see Figure <xref rid="pro3797-supitem-0001" ref-type="supplementary-material">S9</xref>).</p><p>For a better description of the sigmoidal shape of the individual plots, and considering the dimeric nature of the KS domain, we included a Hill coefficient for both substrate concentrations (CoA&#x02010;Ester and ACP) as described in Equation <xref rid="pro3797-disp-0002" ref-type="disp-formula">(2)</xref>. This new fit function clearly delineates both data series without imposing any parameter constraints (see Figure <xref rid="pro3797-fig-0006" ref-type="fig">6</xref>). The absolute kinetic constants (<italic>K&#x02032;</italic>) and turnover numbers (<italic>k</italic>
+<sub>cat</sub>) for octanoyl&#x02010;CoA and myristoyl&#x02010;CoA are 139&#x02009;&#x000b1;&#x02009;16&#x02009;&#x003bc;M (<italic>K&#x02032;</italic>), 0.09&#x02009;&#x000b1;&#x02009;0.007&#x02009;s<sup>&#x02212;1</sup> (<italic>k</italic>
+<sub>cat</sub>), and 111&#x02009;&#x000b1;&#x02009;8 &#x003bc;M, 0.05&#x02009;&#x000b1;&#x02009;0.002&#x02009;s<sup>&#x02212;1</sup>, respectively. These values lead to specificity constants (<italic>k</italic>
+<sub>cat</sub>/<italic>K&#x02032;</italic>) in the range of 10<sup>2</sup>&#x02013;10<sup>3</sup>&#x02009;s<sup>&#x02212;1</sup> M<sup>&#x02212;1</sup>, which indicate rather inefficient priming of the KS domain by CoA&#x02010;esters. The <italic>K&#x02032;</italic>
+<sub>ACP</sub> of the standalone ACP was with 16&#x02009;&#x000b1;&#x02009;1.7 &#x003bc;M higher for the transfer of octanoyl moieties than for myristoyl moieties (8&#x02009;&#x000b1;&#x02009;0.8 &#x003bc;M). The calculated Hill coefficients were between 1.7 and 2 for both substrates indicative of a positive cooperativity of the KS domains of a dimeric unit during the transacylation reaction.</p><fig fig-type="Figure" xml:lang="en" id="pro3797-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Comprehensive analysis of the KS&#x02010;mediated transfer of octanoyl and myristoyl moieties. (a) Initial velocities plotted against octanoyl&#x02010;CoA (C8&#x02010;CoA) concentrations at six fixed ACP concentrations. (b) Initial velocities plotted against myristoyl&#x02010;CoA (C14&#x02010;CoA) concentrations at five fixed ACP concentrations. All data series were fit globally with the Hill equation due to the sigmoidal shape. (c) Absolute kinetic parameter derived from the respective global fits for octanoyl&#x02010;CoA (C8&#x02010;CoA) and myristoyl&#x02010;CoA (C14&#x02010;CoA), respectively. No parameters constraints were imposed during curve fitting. The constant <italic>K</italic>&#x02032; of the Hill equation is related to the Michaelis constant <italic>K</italic>
+<sub>m</sub>, but also contains terms related to the effect of substrate occupancy at one site on the substrate affinity of the other site. ACP, acyl carrier protein; KS, ketosynthase</p></caption><graphic id="nlm-graphic-11" xlink:href="PRO-29-589-g006"/></fig></sec></sec><sec id="pro3797-sec-0009"><label>3</label><title>DISCUSSION</title><p>We recently determined kinetic parameters for the murine MAT&#x02010;mediated transfer of canonical and non&#x02010;canonical acyl&#x02010;CoA substrates illustrating the broad substrate tolerance of this domain.<xref rid="pro3797-bib-0016" ref-type="ref">16</xref> How can this property be explained, considering high structural conservation to highly specific acyltransferases, like for example, FabD of <italic>E</italic>. <italic>coli</italic>? The presented ensemble of MAT structures with non&#x02010;covalently bound acyl&#x02010;CoA and covalently bound acyl moieties shines light on this peculiarity. When considering the individual structures as snapshots of an overall conformational variability, data reveal significant dynamics within the MAT domain. Since soaking with octanoyl&#x02010;CoA trapped the MAT in a very unusual conformation, revealing significant alterations in the position of active site residues, the newly presented structure is particularly informative in this respect. The data show that substrate polyspecificity of MAT originates from the overall high relative positional dynamics of the &#x003b1;/&#x003b2;&#x02010;hydrolase and the ferredoxin&#x02010;like subdomain. A pronounced conformationally variability of the subdomain linkers SDL1 and SDL2, embedded in this large&#x02010;scale movement, is further relevant (Figure <xref rid="pro3797-fig-0003" ref-type="fig">3</xref>) for the accommodation of the chemically and structurally diverse substrates. Finally, residue R606 modulates substrate polyspecificity by either swinging out to liberate space for the acyl chain (e.g., octanoyl moieties), or by coordinating to the free carboxylic group of extender substrates (e.g., malonyl moieties; Figure <xref rid="pro3797-supitem-0001" ref-type="supplementary-material">S7</xref>). This structural interpretation is supported by enzyme kinetic data as the (wildtype) murine MAT domain shows higher substrate ambiguity than the R606A&#x02010;mutated MAT domain. In fact, the wildtype MAT domain is even able to accept octanoyl moieties with significantly higher efficiency than the R606A construct,<xref rid="pro3797-bib-0016" ref-type="ref">16</xref>, <xref rid="pro3797-bib-0040" ref-type="ref">40</xref> which could possibly be explained by a smaller number of populated conformational enzyme states (Table <xref rid="pro3797-tbl-0002" ref-type="table">2</xref>).<xref rid="pro3797-bib-0052" ref-type="ref">52</xref>
+</p><p>Can the rather strict KS domain substrate specificity be observed in structural properties? Indeed, the KS domain shows minor structural changes upon binding of an octanoyl chain, resembling a key&#x02010;and&#x02010;lock type binding, possessing strict specificities, as also observed for Type II systems.<xref rid="pro3797-bib-0048" ref-type="ref">48</xref> The most prominent conformational change upon acylation with saturated acyl chains emerges from the stretch of residues 393&#x02013;397, in particular residue F395, which is consequently slightly shifted in position and rotated in the side chain by approximately 125&#x000b0;. Its postulated role as a &#x0201c;gatekeeper&#x0201d; seems to be confirmed in animal FAS, as functional groups (keto and hydroxy) in the &#x003b2;&#x02010;position of a bound acyl chain would sterically clash with the phenyl ring (Figure <xref rid="pro3797-fig-0005" ref-type="fig">5</xref>c).<xref rid="pro3797-bib-0047" ref-type="ref">47</xref>, <xref rid="pro3797-bib-0053" ref-type="ref">53</xref> In the evolutionarily strongly related protein class of polyketide synthases (PKSs), which share a common KS domain fold, residues at the F395&#x02010;equivalent position vary, reflecting the key feature of PKSs of condensing &#x003b2;&#x02010;keto&#x02010;, &#x003b2;&#x02010;hydroxy&#x02010;, and &#x003b1;&#x02010;&#x003b2;&#x02010;unsaturated acyl substrates.<xref rid="pro3797-bib-0054" ref-type="ref">54</xref>
+</p><p>Our setup using a continuous coupled enzyme assay offers a convenient way to investigate the specificity of the KS domain in&#x02010;depth. The kinetic characterization generally revealed maximum transacylation rates for CoA&#x02010;esters of medium chain lengths (C8&#x02013;C12) and confirmed earlier results of Witkowski et al. (Figure <xref rid="pro3797-fig-0005" ref-type="fig">5</xref>b).<xref rid="pro3797-bib-0020" ref-type="ref">20</xref> The specific activities for the short acyl chains were lower than expected, which may be attributed to the usage of CoA&#x02010;esters as donors and hence substrate concentrations that were insufficient to fully saturate the enzyme. Titration of acyl&#x02010;CoA substrates at different fixed ACP concentrations for octanoyl&#x02010; and myristoyl&#x02010;CoA resulted in sigmoidal individual initial velocity curves (Figure <xref rid="pro3797-fig-0006" ref-type="fig">6</xref>). Global fitting of the individual curves was possible when including Hill coefficients for both substrates and the obtained Hill coefficients of 1.7&#x02013;2 indicate positive cooperativity. This data can generally be interpreted by an increase in the efficiency of transferring an acyl chain to the active site cysteine of the KS domain, when the other KS of the dimer is already occupied. Such cooperativity of the domains of a KS dimer was postulated for the Type II homologs<xref rid="pro3797-bib-0048" ref-type="ref">48</xref> and could be explained by a conformational interconnection of both active sites that are pointing toward each other and merging at the twofold axis.</p><p>Whereas a direct interaction of bound substrates can be ruled out as the origin for cooperativity, because the enzyme bound acyl intermediates are too far apart from each other (15.6 &#x000c5; between terminal C&#x02010;atoms of octanoyl chains), a stretch of residues (residues 393&#x02013;397) harboring the gatekeeping F395 and shifting upon acylation may be responsible for this phenomenon. The residues are residing at the dimeric interface and interact with a helix&#x02010;turn&#x02010;helix motif of the adjacent protomer (Figure <xref rid="pro3797-fig-0007" ref-type="fig">7</xref>a). In the acylated state, side chains of residues M132, Q136, and M139 (adjacent protomer) are slightly altered in their positions due to the rotation of F395, which furthermore leads to a slight shift of the turn (of the helix&#x02010;turn&#x02010;helix motif) by up to 0.7 &#x000c5; (Figure <xref rid="pro3797-fig-0007" ref-type="fig">7</xref>b). Structural data reveals a putative coupling of this local rearrangement with active site residues via two hydrogen bonds; one between the side chains of R137 and D158 and the other between the carboxy group of D158 and the backbone amide of A160 (Figure <xref rid="pro3797-fig-0007" ref-type="fig">7</xref>c). All three residues are fully conserved in FASs. Based on this structural analysis, cooperativity could hence originate from a subtle reorganization of the active site residues in the neighboring protomer essentially induced by structural changes at the dimer interface occurring during acylation. Further experiments need to elaborate the molecular basis for the observed cooperative behavior of the KS domain as well as to analyze whether cooperativity observed for the transacylation step also extends to the Claisen condensation step.</p><fig fig-type="Figure" xml:lang="en" id="pro3797-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Structural interconnection of both KS active sites of a dimer. (a) Identification of M132, Q136, and M139 as residues interacting with F395 of the biological (KS&#x02013;KS) dimer. Chains A and B are colored in gray and blue, respectively. (b) Side chain conformations adopted by M132, Q136, and M139 with a subtle backbone shift between unbound (orange) and octanoyl&#x02010;bound (grey) KS active sites. All four chains of both crystal structures (5my0 and 6rop) were aligned by a KS based superposition (BB of residues 1&#x02013;407). F395 (blue) is depicted for clarity and the asterisks indicates the hypothetical position of the residue in the respective other protomer. (c) Hydrogen bonding between R137, D158, and the nucleophilic elbow (green) including the active site residue C161. BB, backbone atoms; KS, ketosynthase</p></caption><graphic id="nlm-graphic-13" xlink:href="PRO-29-589-g007"/></fig><p>The specific kinetic information about the MAT and KS domains allow us to vividly draw the murine FAS function <italic>in vivo</italic>. The direct loading of the KS domain with acyl&#x02010;CoA is not relevant <italic>in vivo</italic>, because the specificity constants of the KS&#x02010;mediated transfer of acyl moieties from acyl&#x02010;CoAs is more than three orders of magnitude lower than of the respective MAT&#x02010;mediated transfer.<xref rid="pro3797-bib-0016" ref-type="ref">16</xref> Accordingly, substrates are in general loaded at ACP by MAT&#x02010;mediated transacylation. ACP&#x02010;bound acetyl&#x02010; and butyryl&#x02010;moieties are then transferred relatively slowly from the ACP domain to the KS domain and can in a competing pathway escape from FAS by MAT&#x02010;mediated offloading. Release of short acyl&#x02010;CoAs via the MAT domain depends on the <italic>in vivo</italic> ratio between malonyl&#x02010;CoA, acetyl&#x02010;CoA, and free CoA and hence the availability of an empty MAT's active site. With increasing malonyl&#x02010;CoA concentrations at higher energetic state of the cell, the offloading event of acetyl&#x02010; and butyryl&#x02010;moieties gets more and more unlikely and further elongation becomes dominant.<xref rid="pro3797-bib-0055" ref-type="ref">55</xref> As shown here, once a chain&#x02010;length of six carbons and longer is reached, transacylation from the ACP domain to the KS domain becomes highly efficient until it sharply drops with a chain&#x02010;length of 16 carbons (Figure <xref rid="pro3797-fig-0005" ref-type="fig">5</xref>b). According to a key finding of this study, the efficiency of FAS in the elongation of the acyl chain is increased when both reaction chambers are used simultaneously, as acylation of one KS domain of the FAS dimer accelerates the acylation of the other (Figure <xref rid="pro3797-fig-0006" ref-type="fig">6</xref>). The substrate specificity of the KS domain is important for the specific production of palmitic acid and is assisted by the substrate specificity of the TE domain for long fatty acyl intermediates.<xref rid="pro3797-bib-0005" ref-type="ref">5</xref>, <xref rid="pro3797-bib-0056" ref-type="ref">56</xref>, <xref rid="pro3797-bib-0057" ref-type="ref">57</xref>, <xref rid="pro3797-bib-0058" ref-type="ref">58</xref> In summary, FAS produces short acetyl and butyryl&#x02010;CoA esters in a low energetic state of the cell and almost exclusively palmitic acid (C16) at high energetic states.</p><p>The presented structural and mechanistic study deepens our molecular understanding of the two initial catalytic domains in animal fatty acid synthesis. Such detailed information is particularly interesting as FAS has come into focus as a target for combinatorial anticancer therapy. Especially, the plasticity of the MAT domain shall be highlighted, which allows the accommodation of a broad range of chemically diverse compounds. This may aid future rational drug discovery campaigns and enlarge the pool of potentially screened lead structures.</p></sec><sec id="pro3797-sec-0010"><label>4</label><title>METHODS AND MATERIALS</title><sec id="pro3797-sec-0011"><label>4.1</label><title>Reagents and constructs</title><p>All CoA&#x02010;esters, &#x003b2;&#x02010;NAD<sup>+</sup>, NADH, &#x003b1;&#x02010;ketoglutarate dehydrogenase (porcine heart; &#x003b1;KGDH), &#x003b1;&#x02010;ketoglutaric acid, thiamine pyrophosphate (TPP), and EDTA were purchased from Merck. BSA was from Serva. Restriction enzymes were bought from NEB biolabs. IPTG was from Carl Roth. Ni&#x02010;NTA affinity resin was from Qiagen and 5 ml Strep&#x02010;Tactin&#x000ae; columns were purchased from IBA technologies. Purity of CoA&#x02010;esters was confirmed by HPLC&#x02010;UV analysis before usage.</p><p>Point mutations were introduced by PCR based cloning. Fragments for pAR159 and pAR160 were generated by amplification of pAR69 (Addgene, #122849) and pAR70<xref rid="pro3797-bib-0016" ref-type="ref">16</xref> with the primer pair: AR301 (5&#x02032;&#x02010;gtgcccaatgatgccgtcag&#x02010;3&#x02032;) and AR310 (5&#x02032;&#x02010;ggcatcattgggcacGccttgggagaggttgcctgtgg&#x02010;3&#x02032;; see Table <xref rid="pro3797-supitem-0001" ref-type="supplementary-material">S2</xref>). PCR products were treated with Dpn1 (NEB), purified by gel electrophoresis and DNA was extracted with the Wizard&#x000ae; SV Gel and PCR Clean&#x02010;Up System (Promega). Purified DNA was transformed into <italic>E</italic>. <italic>coli</italic> Stellar&#x02122; Competent Cells, 5 ml LB cultures were grown and plasmids were isolated with the PureYield&#x02122; Plasmid Miniprep System (Promega). Sequences of all plasmids were confirmed with the &#x0201c;dye terminator&#x0201d; method.</p></sec><sec id="pro3797-sec-0012"><label>4.2</label><title>Expression and purification of KS&#x02010;MAT variants</title><p>All plasmids were transformed into chemically competent <italic>E</italic>. <italic>coli</italic> BL21 Gold (DE3) cells. The transformants were grown overnight at 37&#x000b0;C in 20&#x02009;ml LB (100&#x02009;&#x003bc;g&#x02009;ml<sup>&#x02212;1</sup> ampicillin [amp] and 1% [w/v] glucose) medium. Precultures were used to inoculate 1 L TB medium (100&#x02009;&#x003bc;g&#x02009;ml<sup>&#x02212;1</sup> amp). Cultures were grown at 37&#x000b0;C until they reached an optical density (OD<sub>600</sub>) of 0.5&#x02013;0.6. After cooling at 4&#x000b0;C for 20&#x02009;min, cultures were induced with 0.25&#x02009;mM IPTG, and grown for additional 16&#x02009;hr at 20&#x000b0;C and 180&#x02009;rpm. Cells were harvested by centrifugation (4,000 rcf for 20&#x02009;min). The cell pellets were resuspended in lysis buffer (50&#x02009;mM potassium phosphate, 200&#x02009;mM potassium chloride, 10% [v/v] glycerol, 1&#x02009;mM EDTA, 30&#x02009;mM imidazole [pH 7.0]) and lysed by French press. After centrifugation at 50,000 rcf for 30&#x02009;min, the supernatant was mixed with 1 M MgCl<sub>2</sub> to a final concentration of 2&#x02009;mM. The cytosol was transferred to Ni&#x02010;NTA&#x02010;columns and washed with five column volumes (CV) wash buffer (lysis buffer without EDTA). Bound protein was eluted with 2.5 CV elution buffer (50&#x02009;mM potassium phosphate, 200&#x02009;mM potassium chloride, 10% [v/v] glycerol, 300&#x02009;mM imidazole [pH 7.0]). The eluent was transferred to Strep&#x02010;Tactin&#x02010;columns, and washed with five CV strep&#x02010;wash buffer (50&#x02009;mM potassium phosphate, 10% [v/v] glycerol, 1&#x02009;mM EDTA [pH 7.0]). Proteins were eluted with 2.5 CV elution buffer (strep&#x02010;wash buffer containing 2.5&#x02009;mM D&#x02010;desthiobiotin). After concentration to 10&#x02013;20&#x02009;mg&#x02009;ml<sup>&#x02212;1</sup>, the proteins were frozen in liquid nitrogen and stored at &#x02212;80&#x000b0;C. Samples were thawed at 37&#x000b0;C for 30&#x02009;min and further polished by SEC using a Superdex 200 GL10/300 column equilibrated with the strep&#x02010;wash buffer. Proteins were concentrated again to 10&#x02013;20&#x02009;mg&#x02009;ml<sup>&#x02212;1</sup> and stored frozen in aliquots using liquid nitrogen.</p></sec><sec id="pro3797-sec-0013"><label>4.3</label><title>Expression and purification of ACP</title><p>Acyl carrier protein for the activity assay was produced by co&#x02010;expression with the 4&#x02032;&#x02010;phosphopantetheinyl transferase Sfp from the bicistronically organized vector pAR352.<xref rid="pro3797-bib-0016" ref-type="ref">16</xref> The plasmid was transformed into chemically competent <italic>E</italic>. <italic>coli</italic> BL21 Gold (DE3) cells. Overnight cultures were grown in 40&#x02009;ml LB (100&#x02009;&#x003bc;g&#x02009;ml<sup>&#x02212;1</sup> ampicillin [amp] and 1% [w/v] glucose) at 37&#x000b0;C. Two liter TB medium (100&#x02009;&#x003bc;g&#x02009;ml<sup>&#x02212;1</sup> amp) was inoculated with the overnight culture and incubated at 37&#x000b0;C until an optical cell density (OD<sub>600</sub>) of 0.5&#x02013;0.6 was reached. After cooling at 4&#x000b0;C for 20&#x02009;min, cultures were induced with 0.25&#x02009;mM IPTG, and grown for additional 16&#x02009;hr at 20&#x000b0;C and 180&#x02009;rpm. Cells were harvested by centrifugation, resuspended in lysis buffer and lysed by French press. After centrifugation (50,000 rcf for 30&#x02009;min), the supernatant (supplemented with 2&#x02009;mM MgCl<sub>2</sub>) was transferred to Ni&#x02010;NTA&#x02010;columns and washed with five CV wash buffer. The protein was eluted with elution buffer (wash buffer containing 300&#x02009;mM imidazole) and concentrated. Pooled fractions, were separated on a Superdex 200 HiLoad 16/60 or 26/60 SEC column equilibrated with buffer (50&#x02009;mM potassium phosphate, 200&#x02009;mM potassium chloride, 10% (v/v) glycerol, 1&#x02009;mM EDTA). All fractions containing monomeric ACP were pooled and concentrated to 10&#x02013;20&#x02009;mg&#x02009;ml<sup>&#x02212;1</sup>.</p><sec id="pro3797-sec-0014"><label>4.3.1</label><title>Protein concentration</title><p>Protein concentrations were calculated from the absorbance at 280&#x02009;nm, which was recorded on a NanoDrop 2000c (Thermo Scientific). Extinction coefficients were calculated from the primary sequence without <italic>N</italic>&#x02010;formylmethionine with CLC Main workbench (Qiagen). Absorbance 1 g&#x02009;L<sup>&#x02212;1</sup> at 280&#x02009;nm (10&#x02009;mm): 1.053 for KS&#x02010;MAT and 0.475 for ACP.</p></sec></sec><sec id="pro3797-sec-0015"><label>4.4</label><title>Crystallization, data collection, and structure determination</title><p>Crystallization conditions for KS&#x02010;MAT were as previously published.<xref rid="pro3797-bib-0016" ref-type="ref">16</xref> Single&#x02010;crystals were obtained at 0.2 M potassium&#x02010;sodium tartrate, 25% (w/v) PEG 3350 at 20&#x000b0;C to sizes of about 75&#x02009;&#x000d7;&#x02009;75&#x02009;&#x000d7;&#x02009;75&#x02009;&#x003bc;m<sup>3</sup>. Drops with the crystals were supplemented with 0.5 &#x003bc;l of 10&#x02009;mM octanoyl&#x02010;CoA (Merck) for up to 2 min and subsequently treated with a cryosolution containing 20% (v/v) glycerol in the mother liquor. The crystal was then picked in a nylon fiber loop and vitrified into liquid nitrogen. Single wavelength X&#x02010;radiation diffraction dataset was collected at the Swiss Light Source (X06SA), and maintained at 100&#x02009;K, while data were recorded onto a detector (DECTRIS EIGER 16M). Using the &#x0201c;<ext-link ext-link-type="uri" xlink:href="http://goeiger.com">http://goeiger.com</ext-link>&#x0201d; pipeline at X06SA, data reduction was performed within <italic>XDS</italic>,<xref rid="pro3797-bib-0059" ref-type="ref">59</xref> for indexing and integration, and <italic>Aimless</italic>
+<xref rid="pro3797-bib-0060" ref-type="ref">60</xref> for scaling. The structural model of a monomer from the murine FAS KS&#x02010;MAT didomain complexed with Malonyl&#x02010;CoA (PDB accession code: <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=5my0">http://firstglance.jmol.org/fg.htm?mol=5my0</ext-link>) was used to solve the phase problem using the program <italic>Molrep</italic>.<xref rid="pro3797-bib-0061" ref-type="ref">61</xref> After an initial rigid&#x02010;body refinement, the model was subjected to repeated cycles of restrained refinement with <italic>REFMAC</italic>5<xref rid="pro3797-bib-0062" ref-type="ref">62</xref> with manual model building using <italic>Coot</italic>.<xref rid="pro3797-bib-0063" ref-type="ref">63</xref> Data collection and refinement statistics are given in Table <xref rid="pro3797-tbl-0001" ref-type="table">1</xref>. Electron density maps were generated by Phenix.<xref rid="pro3797-bib-0064" ref-type="ref">64</xref>
+</p></sec><sec id="pro3797-sec-0016"><label>4.5</label><title>Thermal shift assay</title><p>Thermal shift assays were performed as previously reported.<xref rid="pro3797-bib-0017" ref-type="ref">17</xref> Briefly, 2 &#x003bc;l of protein solution (20&#x02009;&#x003bc;M) were mixed with 21&#x02009;&#x003bc;l of the respective buffer and 2 &#x003bc;l of SYPRO Orange protein gel stain (5,000&#x000d7; diluted), then fluorescence was measured from 5 to 95&#x000b0;C with a step of 0.5&#x000b0;C&#x02009;min<sup>&#x02212;1</sup>, with excitation wavelength set to 450&#x02013;490&#x02009;nm, and emission wavelength to 560&#x02013;580&#x02009;nm. Data were analyzed with the software CFX Maestro 1.0.</p></sec><sec id="pro3797-sec-0017"><label>4.6</label><title>&#x003b1;&#x02010;Ketoglutarate dehydrogenase coupled activity assay</title><p>The enzyme&#x02010;coupled assay was performed as previously published,<xref rid="pro3797-bib-0016" ref-type="ref">16</xref> which was adapted from Reference <xref rid="pro3797-bib-0050" ref-type="ref">50</xref>. Assays (octanoyl&#x02010;CoA transacylation of the KS<sup>C161G</sup>&#x02010;MAT<sup>R606A</sup> variant and the series of response curves for the KS&#x02010;mediated transacylation of octanoyl moieties) were run in 96&#x02010;well f&#x02010;bottom microtiter plates (Greiner Bio&#x02010;one) and NADH fluorescence was monitored using a ClarioStar microplate reader equipped with a dispenser (BMG labtech) at the following settings; excitation: 348&#x02013;20&#x02009;nm; emission: 476&#x02013;20&#x02009;nm; gain: 1,900; focal height: 5.2&#x02009;mm; flashes: 70; orbital averaging: 4&#x02009;mm.</p><p>Within this study we reduced the assay volume first to 50&#x02009;&#x003bc;l in 96&#x02010;well Half Area Microplates (Greiner Bio&#x02010;one) and then to 20&#x02009;&#x003bc;l in 384&#x02010;well Small Volume HiBase Microplates (Greiner Bio&#x02010;one) for practical and financial reasons. The chain&#x02010;length specificity of the KS domain (Figure <xref rid="pro3797-fig-0005" ref-type="fig">5</xref>) and the series of response curves for the KS&#x02010;mediated transacylation of myristoyl moieties (Figure <xref rid="pro3797-fig-0006" ref-type="fig">6</xref>b) were measured in half&#x02010;area plates and 384&#x02010;well plates, respectively. New calibration curves with NADH and control measurements were performed for both smaller plate formats. Settings for the microplate reader were for half&#x02010;area plates: 348&#x02013;20&#x02009;nm; emission: 476&#x02013;20&#x02009;nm; gain: 1500; focal height: 5.6&#x02009;mm; flashes: 17; orbital averaging: 1&#x02009;mm; and for 384&#x02010;well plates: 348&#x02013;20&#x02009;nm; emission: 476&#x02013;20&#x02009;nm; gain: 1500; focal height: 11.9&#x02009;mm; flashes: 17; orbital averaging: off.</p><p>Same procedures were used in preparation of assays even if they had different volumes. Briefly, four different solutions were prepared in assay buffer (50&#x02009;mM sodium phosphate, 10% [v/v] glycerol, 1&#x02009;mM DTT, 1&#x02009;mM EDTA [pH 7.6], filtered and degased). Solution 1 (Sol 1) contained murine KS&#x02010;MAT in a 3.33&#x02010;fold or fourfold concentrated stock solution and supplemented with 0.1 mg&#x02009;ml<sup>&#x02212;1</sup> BSA. Solution 2 (Sol 2) contained 8&#x02009;mM &#x003b1;&#x02010;ketoglutaric acid, 1.6&#x02009;mM NAD<sup>+</sup>, 1.6&#x02009;mM TPP, and 60&#x02009;mU/100&#x02009;&#x003bc;l &#x003b1;KGDH, representing a fourfold concentrated stock. Solution 3 (Sol 3) contained fourfold concentrated CoA&#x02010;esters, typically between 0.4&#x02013;2,800&#x02009;&#x003bc;M. Solution 4 (Sol 4) finally contained fivefold or fourfold concentrated murine ACP, typically between 20 and 800&#x02009;&#x003bc;M. The components were pipetted in order: 30&#x02009;&#x003bc;l Sol 1 (3.33&#x02010;fold), 25&#x02009;&#x003bc;l Sol 2, and 25&#x02009;&#x003bc;l Sol 3 for 96&#x02010;well plates; 15&#x02009;&#x003bc;l Sol 1 (3.33&#x02010;fold), 12.5 &#x003bc;l Sol 2 and 12.5 &#x003bc;l Sol 3 for 96&#x02010;well half&#x02010;area plates and 5 &#x003bc;l Sol 1 (fourfold), 5 &#x003bc;l Sol 2 and 5 &#x003bc;l Sol 3 for 384&#x02010;well plates, followed by mixing. The transfer reaction was initiated by 20 and 10 &#x003bc;l Sol 4 (fivefold)) or 5 &#x003bc;l Sol 4 (fourfold), which was added by the dispenser. The final concentrations of all ingredients were 50&#x02009;mM sodium phosphate, pH 7.6, 10% (v/v) glycerol, 1&#x02009;mM DTT, 1&#x02009;mM EDTA, 2&#x02009;mM &#x003b1;&#x02010;ketoglutaric acid, 0.4&#x02009;mM NAD<sup>+</sup>, 0.4&#x02009;mM TPP, 15&#x02009;mU/100&#x02009;&#x003bc;l &#x003b1;KGDH, 0.03&#x02009;mg&#x02009;ml<sup>&#x02212;1</sup> BSA, 100&#x02013;200&#x02009;nM KS&#x02010;MAT, 5&#x02013;160&#x02009;&#x003bc;M ACP, 0.1&#x02013;700&#x02009;&#x003bc;M X&#x02010;CoA (where X refers to the respective acyl&#x02010;moiety of the assay). The background noise of the assay setup was determined with assay buffer supplemented with 0.1 mg&#x02009;ml<sup>&#x02212;1</sup> BSA. Equidistant kinetic measurements were taken every 5&#x02013;22&#x02009;s for ca. 5&#x02009;min at 30&#x000b0;C.</p></sec><sec id="pro3797-sec-0018"><label>4.7</label><title>Transacylation kinetics of the MAT<sup>R606A</sup> variant for octanoyl moieties</title><p>Determining the apparent Michaelis&#x02013;Menten constant is an iterative process. Pre&#x02010;experiments were initially performed to approach the approximate value of <italic>K</italic>
+<sub>m</sub>. Final concentrations of enzyme and ACP were 100&#x02009;nM and 60&#x02009;&#x003bc;M, respectively. Eight data points were collected that cover substrate concentrations (Sol 3) of 0.2&#x02009;&#x000d7;&#x02009;<italic>K</italic>
+<sub>m</sub>; 0.3&#x02009;&#x000d7;&#x02009;<italic>K</italic>
+<sub>m</sub>; 0.5&#x02009;&#x000d7;&#x02009;<italic>K</italic>
+<sub>m</sub>; 0.75&#x02009;&#x000d7;&#x02009;<italic>K</italic>
+<sub>m</sub>; 1.25&#x02009;&#x000d7;&#x02009;<italic>K</italic>
+<sub>m</sub>; 2&#x02009;&#x000d7;&#x02009;<italic>K</italic>
+<sub>m</sub>; 3&#x02009;&#x000d7;&#x02009;<italic>K</italic>
+<sub>m</sub>; 5&#x02009;&#x000d7;&#x02009;<italic>K</italic>
+<sub>m</sub>. Every measurement was performed in technical triplicates and the corresponding background signal was subtracted. Experiments were setup in a way such that changes in signal remained linear during the time ranges of measurement. Data were collected in biological replicates (<italic>n</italic> = 4) and were fit with the Michaelis&#x02013;Menten function using OriginPro 8.5 (OriginLab).</p></sec><sec id="pro3797-sec-0019"><label>4.8</label><title>Chain&#x02010;length specificity of the KS domain</title><p>&#x003b2;&#x02010;Ketoacyl synthase&#x02010;mediated transacylation of acyl&#x02010;CoAs were measured at fixed enzyme (200&#x02009;nM), ACP (75&#x02009;&#x003bc;M), and acyl&#x02010;CoA (500&#x02009;&#x003bc;M) concentrations. Turnover rates were determined by linear fit and error bars reflect the standard deviation from three biological replicates (<italic>n</italic> = 3).</p></sec><sec id="pro3797-sec-0020"><label>4.9</label><title>Analysis of KS&#x02010;mediated transfer of octanoyl and myristoyl moieties</title><p>Initial velocities were determined for 12 different CoA&#x02010;ester concentrations at six (octanoyl&#x02010;CoA) and five (myristoyl&#x02010;CoA) fixed ACP concentrations. Enzyme concentration was 200&#x02009;nM. Every measurement was performed in one biological replicate (<italic>n</italic> = 1) and the corresponding background signal was subtracted. Both series of response curves were globally fit using all data without any parameter constraints. The global fit was performed with OriginPro 8.5 (OriginLab) using the following equations for the ping&#x02013;pong mechanism:<disp-formula id="pro3797-disp-0001"><label>(1)</label><mml:math id="nlm-math-1"><mml:mi>v</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mi>cat</mml:mi></mml:msub><mml:mfenced open="[" close="]"><mml:msub><mml:mi>AT</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mfenced><mml:mfenced open="[" close="]"><mml:mtext>XCoA</mml:mtext></mml:mfenced><mml:mfenced open="[" close="]"><mml:mi>ACP</mml:mi></mml:mfenced></mml:mrow><mml:mrow><mml:mfenced open="[" close="]"><mml:mtext>XCoA</mml:mtext></mml:mfenced><mml:msubsup><mml:mi>K</mml:mi><mml:mi mathvariant="normal">m</mml:mi><mml:mi>ACP</mml:mi></mml:msubsup><mml:mo>+</mml:mo><mml:mfenced open="[" close="]"><mml:mi>ACP</mml:mi></mml:mfenced><mml:msubsup><mml:mi>K</mml:mi><mml:mi mathvariant="normal">m</mml:mi><mml:mtext>XCoA</mml:mtext></mml:msubsup><mml:mo>+</mml:mo><mml:mfenced open="[" close="]"><mml:mtext>XCoA</mml:mtext></mml:mfenced><mml:mfenced open="[" close="]"><mml:mi>ACP</mml:mi></mml:mfenced></mml:mrow></mml:mfrac></mml:math></disp-formula>
+</p><p>Hill&#x02010;type variation:<disp-formula id="pro3797-disp-0002"><label>(2)</label><mml:math id="nlm-math-2"><mml:mi>v</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mi>cat</mml:mi></mml:msub><mml:mfenced open="[" close="]"><mml:msub><mml:mi>AT</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mfenced><mml:msup><mml:mfenced open="[" close="]"><mml:mtext>XCoA</mml:mtext></mml:mfenced><mml:mi mathvariant="normal">h</mml:mi></mml:msup><mml:msup><mml:mfenced open="[" close="]"><mml:mi>ACP</mml:mi></mml:mfenced><mml:mi mathvariant="normal">h</mml:mi></mml:msup></mml:mrow><mml:mrow><mml:msup><mml:mfenced open="[" close="]"><mml:mtext>XCoA</mml:mtext></mml:mfenced><mml:mi mathvariant="normal">h</mml:mi></mml:msup><mml:msubsup><mml:mi>K</mml:mi><mml:mi>ACP</mml:mi><mml:mo>&#x02032;</mml:mo></mml:msubsup><mml:mo>+</mml:mo><mml:msup><mml:mfenced open="[" close="]"><mml:mi>ACP</mml:mi></mml:mfenced><mml:mi mathvariant="normal">h</mml:mi></mml:msup><mml:msubsup><mml:mi>K</mml:mi><mml:mtext>XCoA</mml:mtext><mml:mo>&#x02032;</mml:mo></mml:msubsup><mml:mo>+</mml:mo><mml:msup><mml:mfenced open="[" close="]"><mml:mtext>XCoA</mml:mtext></mml:mfenced><mml:mi mathvariant="normal">h</mml:mi></mml:msup><mml:msup><mml:mfenced open="[" close="]"><mml:mi>ACP</mml:mi></mml:mfenced><mml:mi mathvariant="normal">h</mml:mi></mml:msup></mml:mrow></mml:mfrac></mml:math></disp-formula>
+</p></sec></sec><sec sec-type="COI-statement" id="pro3797-sec-0022"><title>CONFLICT OF INTEREST</title><p>The authors declare no competing interests.</p></sec><sec id="pro3797-sec-0023"><title>AUTHOR CONTRIBUTIONS</title><p>A.R. performed protein expression, purification experiments, enzymatic assays, and analyzed corresponding data. A.R. conceived the project. M.G. designed the research. A.H. performed kinetic experiments with the KS domain using octanoyl&#x02010;CoA under supervision of A.R. Crystallization was performed by A.R., A.H., and K.S.P. Crystal structure was solved by K.S.P.. A.R., K.S.P., and M.G. analyzed data and wrote the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pro3797-supitem-0001"><caption><p>
+<bold>Appendix S1.</bold> Supporting Information.</p></caption><media xlink:href="PRO-29-589-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pro3797-sec-0021"><title>ACKNOWLEDGMENTS</title><p>This work was supported by a Lichtenberg grant of the Volkswagen Foundation to M.G. (grant number 85701). Further support was received from the LOEWE program (Landes&#x02010;Offensive zur Entwicklung wissenschaftlich&#x02010;&#x000f6;konomischer Exzellenz) of the state of Hesse conducted within the framework of the MegaSyn Research Cluster. We thank the Swiss Light Source&#x02014;(Goethe University Frankfurt BAG) for the beamtime.</p></ack><sec sec-type="data-availability" id="pro3797-sec-0025"><title>DATA AVAILABILITY STATEMENT</title><p>PDB accession code for the atomic coordinates for the octanoyl&#x02010;bound murine KS&#x02010;MAT structure reported in this paper is <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=6rop" specific-use="software is-supplemented-by">http://firstglance.jmol.org/fg.htm?mol=6rop</ext-link>. X&#x02010;ray diffraction data are publicly available at https://dx.doi.org/10.5281/zenodo.2785017.</p></sec><ref-list id="pro3797-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="pro3797-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="pro3797-cit-0001">
+<string-name>
+<surname>Chen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Re</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Burkart</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Type II fatty acid and polyketide synthases: Deciphering protein&#x02013;protein and protein&#x02013;substrate interactions</article-title>. <source xml:lang="en">Nat Prod Rep</source>. <year>2018</year>;<volume>35</volume>:<fpage>1029</fpage>&#x02013;<lpage>1045</lpage>.<pub-id pub-id-type="pmid">30046786</pub-id></mixed-citation></ref><ref id="pro3797-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="pro3797-cit-0002">
+<string-name>
+<surname>White</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Rock</surname>
+<given-names>CO</given-names>
+</string-name>. <article-title>The structural biology of type II fatty acid biosynthesis</article-title>. <source xml:lang="en">Annu Rev Biochem</source>. <year>2005</year>;<volume>74</volume>:<fpage>791</fpage>&#x02013;<lpage>831</lpage>.<pub-id pub-id-type="pmid">15952903</pub-id></mixed-citation></ref><ref id="pro3797-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="pro3797-cit-0003">
+<string-name>
+<surname>Beld</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Burkart</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Fatty acid biosynthesis revisited: Structure elucidation and metabolic engineering</article-title>. <source xml:lang="en">Mol Biosyst</source>. <year>2015</year>;<volume>11</volume>:<fpage>38</fpage>&#x02013;<lpage>59</lpage>.<pub-id pub-id-type="pmid">25360565</pub-id></mixed-citation></ref><ref id="pro3797-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="pro3797-cit-0004">
+<string-name>
+<surname>Herbst</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Townsend</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Maier</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>The architectures of iterative type I PKS and FAS</article-title>. <source xml:lang="en">Nat Prod Rep</source>. <year>2018</year>;<volume>35</volume>:<fpage>1046</fpage>&#x02013;<lpage>1069</lpage>.<pub-id pub-id-type="pmid">30137093</pub-id></mixed-citation></ref><ref id="pro3797-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="pro3797-cit-0005">
+<string-name>
+<surname>Heil</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Wehrheim</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Paithankar</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Grininger</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Fatty acid biosynthesis: Chain length regulation and control</article-title>. <source xml:lang="en">Chembiochem</source>. <year>2019</year>;<volume>20</volume>:<fpage>2298</fpage>&#x02013;<lpage>2321</lpage>.<pub-id pub-id-type="pmid">30908841</pub-id></mixed-citation></ref><ref id="pro3797-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="pro3797-cit-0006">
+<string-name>
+<surname>Grininger</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Perspectives on the evolution, assembly and conformational dynamics of fatty acid synthase type I (FAS I) systems</article-title>. <source xml:lang="en">Curr Opin Struct Biol</source>. <year>2014</year>;<volume>25</volume>:<fpage>49</fpage>&#x02013;<lpage>56</lpage>.<pub-id pub-id-type="pmid">24457260</pub-id></mixed-citation></ref><ref id="pro3797-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="pro3797-cit-0007">
+<string-name>
+<surname>Maier</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Leibundgut</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Boehringer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ban</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Structure and function of eukaryotic fatty acid synthases</article-title>. <source xml:lang="en">Q Rev Biophys</source>. <year>2010</year>;<volume>43</volume>:<fpage>373</fpage>&#x02013;<lpage>422</lpage>.<pub-id pub-id-type="pmid">20731893</pub-id></mixed-citation></ref><ref id="pro3797-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="pro3797-cit-0008">
+<string-name>
+<surname>Leibundgut</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jenni</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Frick</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ban</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Structural basis for substrate delivery by acyl carrier protein in the yeast fatty acid synthase</article-title>. <source xml:lang="en">Science</source>. <year>2007</year>;<volume>316</volume>:<fpage>288</fpage>&#x02013;<lpage>290</lpage>.<pub-id pub-id-type="pmid">17431182</pub-id></mixed-citation></ref><ref id="pro3797-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="pro3797-cit-0009">
+<string-name>
+<surname>Johansson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Wiltschi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Kumari</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Inhibition of the fungal fatty acid synthase type I multienzyme complex</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2008</year>;<volume>105</volume>:<fpage>12803</fpage>&#x02013;<lpage>12808</lpage>.<pub-id pub-id-type="pmid">18725634</pub-id></mixed-citation></ref><ref id="pro3797-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="pro3797-cit-0010">
+<string-name>
+<surname>Boehringer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ban</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Leibundgut</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>7.5&#x02010;&#x000c5; cryo&#x02010;EM structure of the mycobacterial fatty acid synthase</article-title>. <source xml:lang="en">J Mol Biol</source>. <year>2013</year>;<volume>425</volume>:<fpage>841</fpage>&#x02013;<lpage>849</lpage>.<pub-id pub-id-type="pmid">23291528</pub-id></mixed-citation></ref><ref id="pro3797-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="pro3797-cit-0011">
+<string-name>
+<surname>Elad</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Baron</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Peleg</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Structure of type&#x02010;I <italic>Mycobacterium tuberculosis</italic> fatty acid synthase at 3.3&#x02009;&#x000c5; resolution</article-title>. <source xml:lang="en">Nat Commun</source>. <year>2018</year>;<volume>9</volume>:<fpage>3886</fpage>.<pub-id pub-id-type="pmid">30250274</pub-id></mixed-citation></ref><ref id="pro3797-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="pro3797-cit-0012">
+<string-name>
+<surname>Lomakin</surname>
+<given-names>IB</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Steitz</surname>
+<given-names>TA</given-names>
+</string-name>. <article-title>The crystal structure of yeast fatty acid synthase, a cellular machine with eight active sites working together</article-title>. <source xml:lang="en">Cell</source>. <year>2007</year>;<volume>129</volume>:<fpage>319</fpage>&#x02013;<lpage>332</lpage>.<pub-id pub-id-type="pmid">17448991</pub-id></mixed-citation></ref><ref id="pro3797-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="pro3797-cit-0013">
+<string-name>
+<surname>Maier</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Leibundgut</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ban</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>The crystal structure of a mammalian fatty acid synthase</article-title>. <source xml:lang="en">Science</source>. <year>2008</year>;<volume>321</volume>:<fpage>1315</fpage>&#x02013;<lpage>1322</lpage>.<pub-id pub-id-type="pmid">18772430</pub-id></mixed-citation></ref><ref id="pro3797-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="pro3797-cit-0014">
+<string-name>
+<surname>Plosko&#x00144;</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Arthur</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>
+<given-names>SE</given-names>
+</string-name>, et al. <article-title>A mammalian type I fatty acid synthase acyl carrier protein domain does not sequester acyl chains</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2008</year>;<volume>283</volume>:<fpage>518</fpage>&#x02013;<lpage>528</lpage>.<pub-id pub-id-type="pmid">17971456</pub-id></mixed-citation></ref><ref id="pro3797-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="pro3797-cit-0015">
+<string-name>
+<surname>Smith</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>S&#x02010;C</given-names>
+</string-name>. <article-title>The type I fatty acid and polyketide synthases: A tale of two megasynthases</article-title>. <source xml:lang="en">Nat Prod Rep</source>. <year>2007</year>;<volume>24</volume>:<fpage>1041</fpage>&#x02013;<lpage>1072</lpage>.<pub-id pub-id-type="pmid">17898897</pub-id></mixed-citation></ref><ref id="pro3797-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="pro3797-cit-0016">
+<string-name>
+<surname>Rittner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Paithankar</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Huu</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name>
+<surname>Grininger</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Characterization of the polyspecific transferase of murine type I fatty acid synthase (FAS) and implications for polyketide synthase (PKS) engineering</article-title>. <source xml:lang="en">ACS Chem Biol</source>. <year>2018</year>;<volume>13</volume>:<fpage>723</fpage>&#x02013;<lpage>732</lpage>.<pub-id pub-id-type="pmid">29328619</pub-id></mixed-citation></ref><ref id="pro3797-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="pro3797-cit-0017">
+<string-name>
+<surname>Rittner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Paithankar</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Drexler</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Himmler</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Grininger</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Probing the modularity of megasynthases by rational engineering of a fatty acid synthase type I</article-title>. <source xml:lang="en">Protein Sci</source>. <year>2019</year>;<volume>28</volume>:<fpage>414</fpage>&#x02013;<lpage>428</lpage>.<pub-id pub-id-type="pmid">30394635</pub-id></mixed-citation></ref><ref id="pro3797-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="pro3797-cit-0018">
+<string-name>
+<surname>Buckner</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Kolattukudy</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Synthesis of multimethyl&#x02010;branched fatty acids by avian and mammalian fatty acid synthetase and its regulation by malonyl&#x02010;CoA decarboxylase in the uropygial gland</article-title>. <source xml:lang="en">Arch Biochem Biophys</source>. <year>1978</year>;<volume>186</volume>:<fpage>152</fpage>&#x02013;<lpage>163</lpage>.<pub-id pub-id-type="pmid">629531</pub-id></mixed-citation></ref><ref id="pro3797-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="pro3797-cit-0019">
+<string-name>
+<surname>Smith</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The effect of aromatic CoA esters on fatty acid synthetase: Biosynthesis of <italic>&#x003c9;</italic>&#x02010;phenyl fatty acids</article-title>. <source xml:lang="en">Arch Biochem Biophys</source>. <year>1983</year>;<volume>222</volume>:<fpage>259</fpage>&#x02013;<lpage>265</lpage>.<pub-id pub-id-type="pmid">6838224</pub-id></mixed-citation></ref><ref id="pro3797-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="pro3797-cit-0020">
+<string-name>
+<surname>Witkowski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Joshi</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Characterization of the interthiol acyltransferase reaction catalyzed by the <italic>&#x003b2;</italic>&#x02010;ketoacyl synthase domain of the animal fatty acid synthase</article-title>. <source xml:lang="en">Biochemistry</source>. <year>1997</year>;<volume>36</volume>:<fpage>16338</fpage>&#x02013;<lpage>16344</lpage>.<pub-id pub-id-type="pmid">9405069</pub-id></mixed-citation></ref><ref id="pro3797-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="pro3797-cit-0021">
+<string-name>
+<surname>Rossini</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Gajewski</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Klaus</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hummer</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Grininger</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Analysis and engineering of substrate shuttling by the acyl carrier protein (ACP) in fatty acid synthases (FASs)</article-title>. <source xml:lang="en">Chem Commun</source>. <year>2018</year>;<volume>68</volume>:<fpage>501</fpage>.</mixed-citation></ref><ref id="pro3797-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="pro3797-cit-0022">
+<string-name>
+<surname>Dodge</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jaremko</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>McCammon</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Burkart</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Structural and dynamical rationale for fatty acid unsaturation in <italic>Escherichia coli</italic>
+</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2019</year>;<volume>116</volume>:<fpage>6775</fpage>&#x02013;<lpage>6783</lpage>.<pub-id pub-id-type="pmid">30872475</pub-id></mixed-citation></ref><ref id="pro3797-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="pro3797-cit-0023">
+<string-name>
+<surname>Sztain</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Bartholow</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Orcid</surname>
+<given-names>JAM</given-names>
+</string-name>, <string-name>
+<surname>Orcid</surname>
+<given-names>MDB</given-names>
+</string-name>. <article-title>Shifting the hydrolysis equilibrium of substrate loaded acyl carrier proteins</article-title>. <source xml:lang="en">Biochemistry</source>. <year>2019</year>;<volume>58</volume>:<fpage>3557</fpage>&#x02013;<lpage>3560</lpage>.<pub-id pub-id-type="pmid">31397556</pub-id></mixed-citation></ref><ref id="pro3797-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="pro3797-cit-0024">
+<string-name>
+<surname>Uhl&#x000e9;n</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fagerberg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hallstr&#x000f6;m</surname>
+<given-names>BM</given-names>
+</string-name>, et al. <article-title>Tissue&#x02010;based map of the human proteome</article-title>. <source xml:lang="en">Science</source>. <year>2015</year>;<volume>347</volume>:<elocation-id>1260419</elocation-id>.<pub-id pub-id-type="pmid">25613900</pub-id></mixed-citation></ref><ref id="pro3797-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="pro3797-cit-0025">
+<string-name>
+<surname>Semenkovich</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Coleman</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Fiedorek</surname>
+<given-names>FT</given-names>
+</string-name>. <article-title>Human fatty acid synthase mRNA: Tissue distribution, genetic mapping, and kinetics of decay after glucose deprivation</article-title>. <source xml:lang="en">J Lipid Res</source>. <year>1995</year>;<volume>36</volume>:<fpage>1507</fpage>&#x02013;<lpage>1521</lpage>.<pub-id pub-id-type="pmid">7595075</pub-id></mixed-citation></ref><ref id="pro3797-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="pro3797-cit-0026">
+<string-name>
+<surname>Kuhajda</surname>
+<given-names>FP</given-names>
+</string-name>. <article-title>Fatty acid synthase and cancer: New application of an old pathway</article-title>. <source xml:lang="en">Cancer Res</source>. <year>2006</year>;<volume>66</volume>:<fpage>5977</fpage>&#x02013;<lpage>5980</lpage>.<pub-id pub-id-type="pmid">16778164</pub-id></mixed-citation></ref><ref id="pro3797-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="pro3797-cit-0027">
+<string-name>
+<surname>Rashid</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pizer</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Moga</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Elevated expression of fatty acid synthase and fatty acid synthetic activity in colorectal neoplasia</article-title>. <source xml:lang="en">Am J Pathol</source>. <year>1997</year>;<volume>150</volume>:<fpage>201</fpage>&#x02013;<lpage>208</lpage>.<pub-id pub-id-type="pmid">9006336</pub-id></mixed-citation></ref><ref id="pro3797-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="pro3797-cit-0028">
+<string-name>
+<surname>Gansler</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Hardman</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Hunt</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Schaffel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hennigar</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Increased expression of fatty acid synthase (OA&#x02010;519) in ovarian neoplasms predicts shorter survival</article-title>. <source xml:lang="en">Hum Pathol</source>. <year>1997</year>;<volume>28</volume>:<fpage>686</fpage>&#x02013;<lpage>692</lpage>.<pub-id pub-id-type="pmid">9191002</pub-id></mixed-citation></ref><ref id="pro3797-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="pro3797-cit-0029">
+<string-name>
+<surname>Nguyen</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chavarro</surname>
+<given-names>JE</given-names>
+</string-name>, et al. <article-title>Fatty acid synthase polymorphisms, tumor expression, body mass index, prostate cancer risk, and survival</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2010</year>;<volume>28</volume>:<fpage>3958</fpage>&#x02013;<lpage>3964</lpage>.<pub-id pub-id-type="pmid">20679621</pub-id></mixed-citation></ref><ref id="pro3797-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="pro3797-cit-0030">
+<string-name>
+<surname>Menendez</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Vazquez&#x02010;Martin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ortega</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>Fernandez&#x02010;Real</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Fatty acid synthase: Association with insulin resistance, type 2 diabetes, and cancer</article-title>. <source xml:lang="en">Clin Chem</source>. <year>2009</year>;<volume>55</volume>:<fpage>425</fpage>&#x02013;<lpage>438</lpage>.<pub-id pub-id-type="pmid">19181734</pub-id></mixed-citation></ref><ref id="pro3797-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="pro3797-cit-0031">
+<string-name>
+<surname>Khandekar</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Spiegelman</surname>
+<given-names>BM</given-names>
+</string-name>. <article-title>Molecular mechanisms of cancer development in obesity</article-title>. <source xml:lang="en">Nature Rev Cancer</source>. <year>2011</year>;<volume>11</volume>:<fpage>886</fpage>&#x02013;<lpage>895</lpage>.<pub-id pub-id-type="pmid">22113164</pub-id></mixed-citation></ref><ref id="pro3797-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="pro3797-cit-0032">
+<string-name>
+<surname>Pandey</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Xing</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Fukuda</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Watabe</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Anti&#x02010;cancer drugs targeting fatty acid synthase (FAS)</article-title>. <source xml:lang="en">Recent Pat Anticancer Drug Discov</source>. <year>2012</year>;<volume>7</volume>:<fpage>185</fpage>&#x02013;<lpage>197</lpage>.<pub-id pub-id-type="pmid">22338595</pub-id></mixed-citation></ref><ref id="pro3797-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="pro3797-cit-0033">
+<string-name>
+<surname>Hardwicke</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Rendina</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>SP</given-names>
+</string-name>, et al. <article-title>A human fatty acid synthase inhibitor binds &#x003b2;&#x02010;ketoacyl reductase in the keto&#x02010;substrate site</article-title>. <source xml:lang="en">Nat Chem Biol</source>. <year>2014</year>;<volume>10</volume>:<fpage>774</fpage>&#x02013;<lpage>779</lpage>.<pub-id pub-id-type="pmid">25086508</pub-id></mixed-citation></ref><ref id="pro3797-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="pro3797-cit-0034">
+<string-name>
+<surname>Pemble</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Kridel</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Lowther</surname>
+<given-names>WT</given-names>
+</string-name>. <article-title>Crystal structure of the thioesterase domain of human fatty acid synthase inhibited by Orlistat</article-title>. <source xml:lang="en">Nat Struct Mol Biol</source>. <year>2007</year>;<volume>14</volume>:<fpage>704</fpage>&#x02013;<lpage>709</lpage>.<pub-id pub-id-type="pmid">17618296</pub-id></mixed-citation></ref><ref id="pro3797-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="pro3797-cit-0035">
+<string-name>
+<surname>Dean</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Falchook</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>MR</given-names>
+</string-name>, et al. <article-title>Preliminary activity in the first in human study of the first&#x02010;in&#x02010;class fatty acid synthase (FASN) inhibitor, TVB&#x02010;2640</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2016</year>;<volume>34</volume>:<fpage>2512</fpage>&#x02013;<lpage>2512</lpage>.</mixed-citation></ref><ref id="pro3797-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="pro3797-cit-0036">
+<string-name>
+<surname>Buckley</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Duke</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Heuer</surname>
+<given-names>TS</given-names>
+</string-name>, et al. <article-title>Fatty acid synthase&#x02014;Modern tumor cell biology insights into a classical oncology target</article-title>. <source xml:lang="en">Pharmacol Ther</source>. <year>2017</year>;<volume>177</volume>:<fpage>23</fpage>&#x02013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">28202364</pub-id></mixed-citation></ref><ref id="pro3797-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="pro3797-cit-0037">
+<string-name>
+<surname>Pappenberger</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Benz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gsell</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Structure of the human fatty acid synthase KS&#x02010;MAT didomain as a framework for inhibitor design</article-title>. <source xml:lang="en">J Mol Biol</source>. <year>2010</year>;<volume>397</volume>:<fpage>508</fpage>&#x02013;<lpage>519</lpage>.<pub-id pub-id-type="pmid">20132826</pub-id></mixed-citation></ref><ref id="pro3797-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="pro3797-cit-0038">
+<string-name>
+<surname>Afonine</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name>
+<surname>Moriarty</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Mustyakimov</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>FEM: Feature&#x02010;enhanced map</article-title>. <source xml:lang="en">Acta Cryst</source>. <year>2015</year>;<volume>D71</volume>:<fpage>646</fpage>&#x02013;<lpage>666</lpage>.</mixed-citation></ref><ref id="pro3797-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="pro3797-cit-0039">
+<string-name>
+<surname>Liebschner</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Afonine</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name>
+<surname>Moriarty</surname>
+<given-names>NW</given-names>
+</string-name>, et al. <article-title>Polder maps: Improving OMIT maps by excluding bulk solvent</article-title>. <source xml:lang="en">Acta Cryst</source>. <year>2017</year>;<volume>D73</volume>:<fpage>148</fpage>&#x02013;<lpage>157</lpage>.</mixed-citation></ref><ref id="pro3797-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="pro3797-cit-0040">
+<string-name>
+<surname>Bunkoczi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Misquitta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Structural basis for different specificities of acyltransferases associated with the human cytosolic and mitochondrial fatty acid synthases</article-title>. <source xml:lang="en">Chem Biol</source>. <year>2009</year>;<volume>16</volume>:<fpage>667</fpage>&#x02013;<lpage>675</lpage>.<pub-id pub-id-type="pmid">19549604</pub-id></mixed-citation></ref><ref id="pro3797-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="pro3797-cit-0041">
+<string-name>
+<surname>Paiva</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sousa</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name>
+<surname>Ramos</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Fernandes</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>Understanding the catalytic machinery and the reaction pathway of the malonyl&#x02010;acetyl transferase domain of human fatty acid synthase</article-title>. <source xml:lang="en">ACS Catal</source>. <year>2018</year>;<volume>8</volume>:<fpage>4860</fpage>&#x02013;<lpage>4872</lpage>.</mixed-citation></ref><ref id="pro3797-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="pro3797-cit-0042">
+<string-name>
+<surname>Hol</surname>
+<given-names>WG</given-names>
+</string-name>. <article-title>The role of the alpha&#x02010;helix dipole in protein function and structure</article-title>. <source xml:lang="en">Prog Biophys Mol Biol</source>. <year>1985</year>;<volume>45</volume>:<fpage>149</fpage>&#x02013;<lpage>195</lpage>.<pub-id pub-id-type="pmid">3892583</pub-id></mixed-citation></ref><ref id="pro3797-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="pro3797-cit-0043">
+<string-name>
+<surname>Rangan</surname>
+<given-names>VS</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Alteration of the substrate specificity of the malonyl&#x02010;CoA/acetyl&#x02010;CoA: Acyl carrier protein <italic>S</italic>&#x02010;acyltransferase domain of the multifunctional fatty acid synthase by mutation of a single arginine residue</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>1997</year>;<volume>272</volume>:<fpage>11975</fpage>&#x02013;<lpage>11978</lpage>.<pub-id pub-id-type="pmid">9115261</pub-id></mixed-citation></ref><ref id="pro3797-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="pro3797-cit-0044">
+<string-name>
+<surname>Flocco</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Mowbray</surname>
+<given-names>SL</given-names>
+</string-name>. <article-title>Planar stacking interactions of arginine and aromatic side&#x02010;chains in proteins</article-title>. <source xml:lang="en">J Mol Biol</source>. <year>1994</year>;<volume>235</volume>:<fpage>709</fpage>&#x02013;<lpage>717</lpage>.<pub-id pub-id-type="pmid">8289290</pub-id></mixed-citation></ref><ref id="pro3797-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="pro3797-cit-0045">
+<string-name>
+<surname>Winn</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Isupov</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name>
+<surname>Murshudov</surname>
+<given-names>GN</given-names>
+</string-name>. <article-title>Use of TLS parameters to model anisotropic displacements in macromolecular refinement</article-title>. <source xml:lang="en">Acta Cryst</source>. <year>2001</year>;<volume>D57</volume>:<fpage>122</fpage>&#x02013;<lpage>133</lpage>.</mixed-citation></ref><ref id="pro3797-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="pro3797-cit-0046">
+<string-name>
+<surname>Olsen</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Kadziola</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>von Wettstein&#x02010;Knowles</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Siggaard&#x02010;Andersen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Larsen</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Structures of beta&#x02010;ketoacyl&#x02010;acyl carrier protein synthase I complexed with fatty acids elucidate its catalytic machinery</article-title>. <source xml:lang="en">Structure Fold Design</source>. <year>2001</year>;<volume>9</volume>:<fpage>233</fpage>&#x02013;<lpage>243</lpage>.</mixed-citation></ref><ref id="pro3797-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="pro3797-cit-0047">
+<string-name>
+<surname>Lee</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Engels</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>The protonation state of catalytic residues in the resting state of KasA revisited: Detailed mechanism for the activation of KasA by its own substrate</article-title>. <source xml:lang="en">Biochemistry</source>. <year>2014</year>;<volume>53</volume>:<fpage>919</fpage>&#x02013;<lpage>931</lpage>.<pub-id pub-id-type="pmid">24479625</pub-id></mixed-citation></ref><ref id="pro3797-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="pro3797-cit-0048">
+<string-name>
+<surname>von Wettstein&#x02010;Knowles</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>McGuire</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Henriksen</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Fatty acid synthesis. Role of active site histidines and lysine in Cys&#x02010;His&#x02010;His&#x02010;type beta&#x02010;ketoacyl&#x02010;acyl carrier protein synthases</article-title>. <source xml:lang="en">FEBS J</source>. <year>2006</year>;<volume>273</volume>:<fpage>695</fpage>&#x02013;<lpage>710</lpage>.<pub-id pub-id-type="pmid">16441657</pub-id></mixed-citation></ref><ref id="pro3797-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="pro3797-cit-0049">
+<string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Soisson</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Platensimycin is a selective FabF inhibitor with potent antibiotic properties</article-title>. <source xml:lang="en">Nature</source>. <year>2006</year>;<volume>441</volume>:<fpage>358</fpage>&#x02013;<lpage>361</lpage>.<pub-id pub-id-type="pmid">16710421</pub-id></mixed-citation></ref><ref id="pro3797-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="pro3797-cit-0050">
+<string-name>
+<surname>Molnos</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gardiner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dale</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>Lange</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>A continuous coupled enzyme assay for bacterial malonyl&#x02010;CoA:acyl carrier protein transacylase (FabD)</article-title>. <source xml:lang="en">Anal Biochem</source>. <year>2003</year>;<volume>319</volume>:<fpage>171</fpage>&#x02013;<lpage>176</lpage>.<pub-id pub-id-type="pmid">12842120</pub-id></mixed-citation></ref><ref id="pro3797-bib-0051"><label>51</label><mixed-citation publication-type="book" id="pro3797-cit-0051">
+<string-name>
+<surname>Copeland</surname>
+<given-names>RA</given-names>
+</string-name>. <source xml:lang="en">Enzymes&#x02014;A practical introduction to structure, mechanism and data analysis</source>. <edition designator="2">2nd ed.</edition>
+<publisher-loc>Weinheim, Germany</publisher-loc>: <publisher-name>Wiley&#x02010;VCH Verlag GmbH</publisher-name>, <year>2005</year>.</mixed-citation></ref><ref id="pro3797-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="pro3797-cit-0052">
+<string-name>
+<surname>Khersonsky</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Tawfik</surname>
+<given-names>DS</given-names>
+</string-name>. <article-title>Enzyme promiscuity: A mechanistic and evolutionary perspective</article-title>. <source xml:lang="en">Annu Rev Biochem</source>. <year>2010</year>;<volume>79</volume>:<fpage>471</fpage>&#x02013;<lpage>505</lpage>.<pub-id pub-id-type="pmid">20235827</pub-id></mixed-citation></ref><ref id="pro3797-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="pro3797-cit-0053">
+<string-name>
+<surname>Luckner</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Machutta</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Tonge</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Kisker</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Crystal structures of <italic>Mycobacterium tuberculosis</italic> KasA show mode of action within cell wall biosynthesis and its inhibition by thiolactomycin</article-title>. <source xml:lang="en">Structure Fold Des</source>. <year>2009</year>;<volume>17</volume>:<fpage>1004</fpage>&#x02013;<lpage>1013</lpage>.<pub-id pub-id-type="pmid">19604480</pub-id></mixed-citation></ref><ref id="pro3797-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="pro3797-cit-0054">
+<string-name>
+<surname>Nguyen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ishida</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Jenke&#x02010;Kodama</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Exploiting the mosaic structure of <italic>trans</italic>&#x02010;acyltransferase polyketide synthases for natural product discovery and pathway dissection</article-title>. <source xml:lang="en">Nat Biotechnol</source>. <year>2008</year>;<volume>26</volume>:<fpage>225</fpage>&#x02013;<lpage>233</lpage>.<pub-id pub-id-type="pmid">18223641</pub-id></mixed-citation></ref><ref id="pro3797-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="pro3797-cit-0055">
+<string-name>
+<surname>Abdinejad</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Fisher</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Production and utilization of butyryl&#x02010;CoA by fatty acid synthetase from mammalian tissues</article-title>. <source xml:lang="en">Arch Biochem Biophys</source>. <year>1981</year>;<volume>208</volume>:<fpage>135</fpage>&#x02013;<lpage>145</lpage>.<pub-id pub-id-type="pmid">7259173</pub-id></mixed-citation></ref><ref id="pro3797-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="pro3797-cit-0056">
+<string-name>
+<surname>Cheng</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Quiocho</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Molecular docking study of the interactions between the thioesterase domain of human fatty acid synthase and its ligands</article-title>. <source xml:lang="en">Proteins</source>. <year>2008</year>;<volume>70</volume>:<fpage>1228</fpage>&#x02013;<lpage>1234</lpage>.<pub-id pub-id-type="pmid">17847090</pub-id></mixed-citation></ref><ref id="pro3797-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="pro3797-cit-0057">
+<string-name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Chakravarty</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Crystal structure of FAS thioesterase domain with polyunsaturated fatty acyl adduct and inhibition by dihomo&#x02010;&#x003b3;&#x02010;linolenic acid</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2011</year>;<volume>108</volume>:<fpage>15757</fpage>&#x02013;<lpage>15762</lpage>.<pub-id pub-id-type="pmid">21908709</pub-id></mixed-citation></ref><ref id="pro3797-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="pro3797-cit-0058">
+<string-name>
+<surname>Naggert</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Witkowski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wessa</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Expression in <italic>Escherichia coli</italic>, purification and characterization of two mammalian thioesterases involved in fatty acid synthesis</article-title>. <source xml:lang="en">Biochem J</source>. <year>1991</year>;<volume>273</volume>:<fpage>787</fpage>&#x02013;<lpage>790</lpage>.<pub-id pub-id-type="pmid">1671746</pub-id></mixed-citation></ref><ref id="pro3797-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="pro3797-cit-0059">
+<string-name>
+<surname>Kabsch</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>XDS</article-title>. <source xml:lang="en">Acta Crystallogr</source>. <year>2010</year>;<volume>D66</volume>:<fpage>125</fpage>&#x02013;<lpage>132</lpage>.</mixed-citation></ref><ref id="pro3797-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="pro3797-cit-0060">
+<string-name>
+<surname>Evans</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Scaling and assessment of data quality</article-title>. <source xml:lang="en">Acta Crystallogr</source>. <year>2005</year>;<volume>D62</volume>:<fpage>72</fpage>&#x02013;<lpage>82</lpage>.</mixed-citation></ref><ref id="pro3797-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="pro3797-cit-0061">
+<string-name>
+<surname>Vagin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Teplyakov</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>
+<italic>MOLREP</italic>: An automated program for molecular replacement</article-title>. <source xml:lang="en">J Appl Cryst</source>. <year>1997</year>;<volume>30</volume>:<fpage>1022</fpage>&#x02013;<lpage>1025</lpage>.</mixed-citation></ref><ref id="pro3797-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="pro3797-cit-0062">
+<string-name>
+<surname>Murshudov</surname>
+<given-names>GN</given-names>
+</string-name>, <string-name>
+<surname>Skub&#x000e1;k</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lebedev</surname>
+<given-names>AA</given-names>
+</string-name>, et al. <article-title>
+<italic>REFMAC5</italic> for the refinement of macromolecular crystal structures</article-title>. <source xml:lang="en">Acta Cryst</source>. <year>2011</year>;<volume>D67</volume>:<fpage>355</fpage>&#x02013;<lpage>367</lpage>.</mixed-citation></ref><ref id="pro3797-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="pro3797-cit-0063">
+<string-name>
+<surname>Emsley</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lohkamp</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Cowtan</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Features and development of <italic>Coot</italic>
+</article-title>. <source xml:lang="en">Acta Cryst</source>. <year>2010</year>;<volume>D66</volume>:<fpage>486</fpage>&#x02013;<lpage>501</lpage>.</mixed-citation></ref><ref id="pro3797-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="pro3797-cit-0064">
+<string-name>
+<surname>Afonine</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name>
+<surname>Grosse&#x02010;Kunstleve</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Echols</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Towards automated crystallographic structure refinement with phenix.refine</article-title>. <source xml:lang="en">Acta Crystallogr</source>. <year>2012</year>;<volume>D68</volume>:<fpage>352</fpage>&#x02013;<lpage>367</lpage>.</mixed-citation></ref></ref-list></back></article>
