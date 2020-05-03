@@ -15,12 +15,16 @@ Install the requirements to run these python scripts (recommended to install int
 pip install -r requirements.txt
 ```
 
+### CoreNLP docker
+
 First, build and run the included docker for Stanford CoreNLP. This will run a server on your local host at port 9000, which will be used by the rest of the code to get Universal Dependency information for help in finding causal relationships in sentences.
 
 ```
 docker build -f ./corenlp-docker/Dockerfile -t corenlp .
 docker run -it -p 9000:9000 --name corenlp corenlp
 ```
+
+### Extracting causals
 
 You can run this script on your own .txt or .xml files, using the following arguments. Input types include `xml` for a directory of xml files, from which only the `<abstract>` section will be parsed, and `txt` for a directory of text files with one sentence per line.
 
